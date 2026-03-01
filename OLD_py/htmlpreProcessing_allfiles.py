@@ -2,10 +2,10 @@ from bs4 import BeautifulSoup
 import os
 
 # Carpeta con los HTML
-input_folder = "antoine-griezmann_html"
+input_folder = "borja-iglesias_html"
 
 # Archivo final
-output_file = "antoine-griezmann_html/all_clean.html"
+output_file = "borja-iglesias_html/all_clean.html"
 
 combined_html = ""
 

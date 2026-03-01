@@ -1,8 +1,11 @@
 import json
+import sys
+
+player_name = sys.argv[1]
 
 # --- Rutas a los archivos ---
-ff_json_file = 'player_stats/griezmann_futfantasy_normalized.json'
-ss_json_file = 'player_stats/Griezmann_all_matches_normalized.json'
+ff_json_file = 'player_stats/'+player_name+'/futfantasy.json'
+ss_json_file = 'player_stats/'+player_name+'/sofascore_all_matches.json'
 
 # --- Cargar JSON ---
 with open(ff_json_file, 'r', encoding='utf-8') as f:
@@ -54,7 +57,7 @@ for match_id, match_obj in ss_data.items():
 
 
 # --- Guardar resultado ---
-with open('partidos_combinados_griezmann.json', 'w', encoding='utf-8') as f:
+with open('player_stats/'+player_name+'/full_stats.json', 'w', encoding='utf-8') as f:
     json.dump(combined_matches, f, ensure_ascii=False, indent=2)
 
 print(f"Se han combinado {len(combined_matches)} partidos.")

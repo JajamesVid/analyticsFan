@@ -5,8 +5,8 @@ from bs4 import BeautifulSoup
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-INPUT_FILE = "player_stats/griezmann_futfantasy.json"
-OUTPUT_FILE = "griezmann_futfantasy_con_fecha.json"
+INPUT_FILE = "borja-iglesias_html/borjaiglesias_futfantasy.json"
+OUTPUT_FILE = "borjaiglesias_futfantasy_futfantasy_con_fecha.json"
 
 
 def crear_sesion():

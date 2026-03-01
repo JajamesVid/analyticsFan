@@ -3,11 +3,11 @@ import re
 from datetime import datetime
 
 # -------- Archivos --------
-FF_INPUT = "player_stats/griezmann_futfantasy_con_fecha.json"
-SS_INPUT = "player_stats/Griezmann_all_matches.json"
+FF_INPUT = "player_stats/koke-resurreccion/futfantasy.json"
+SS_INPUT = "player_stats/koke-resurreccion/sofascore_all_matches.json"
 
-FF_OUTPUT = "player_stats/griezmann_futfantasy_normalized.json"
-SS_OUTPUT = "player_stats/Griezmann_all_matches_normalized.json"
+FF_OUTPUT = "player_stats/koke-resurreccion/futfantasy_normalized.json"
+SS_OUTPUT = "player_stats/koke-resurreccion/sofascore_all_matches_normalized.json"
 
 
 # -------- Meses --------

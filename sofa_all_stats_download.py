@@ -1,10 +1,20 @@
+import sys
+import json
+import time
+import os
 from seleniumwire import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
-import json
-import time
-import os
+
+
+# =========================
+# UTIL
+# =========================
+
+def normalize_name(name: str) -> str:
+    return name.lower().replace(" ", "_")
+
 
 # =========================
 # Browser
@@ -26,6 +36,7 @@ def start_browser():
     )
 
     return driver
+
 
 # =========================
 # Obtener eventos jugador
@@ -54,6 +65,7 @@ def get_all_events(driver, player_id, max_pages=7):
 
     return unique_events
 
+
 # =========================
 # Stats partido
 # =========================
@@ -71,83 +83,86 @@ def scrape_match_stats(driver, event_id, player_id):
         print(f"❌ Error leyendo stats para {event_id}: {e}")
         return None
 
+
 # =========================
 # MAIN
 # =========================
 if __name__ == "__main__":
 
-    # Jugadores a scrapear (puedes agregar más)
-    players = {
-        "Griezmann": 85859
-    }
+    if len(sys.argv) != 3:
+        print("Uso: python3 sofa_all_stats_download.py 'Nombre Jugador' sofascore_id")
+        sys.exit(1)
 
-    OUTPUT_FOLDER = "player_stats"
-    os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+    player_name_raw = sys.argv[1]
+    player_id = sys.argv[2]
+
+    if not player_id.isdigit():
+        print("❌ sofascore_id debe ser numérico")
+        sys.exit(1)
+
+    player_name = normalize_name(player_name_raw)
+
+    # Crear carpeta destino
+    base_folder = "player_stats"
+    player_folder = os.path.join(base_folder, player_name)
+
+    os.makedirs(player_folder, exist_ok=True)
 
     driver = start_browser()
 
     try:
-        for player_name, player_id in players.items():
+        print(f"\n🔹 Jugador {player_name_raw} (ID: {player_id})")
 
-            print(f"\n🔹 Jugador {player_name}")
+        # ---- Paso 1: recolectar eventos únicos ----
+        events = get_all_events(driver, player_id)
+        print(f"📊 Eventos únicos encontrados: {len(events)}")
 
-            # ---- Paso 1: recolectar eventos únicos ----
-            events = get_all_events(driver, player_id)
-            print(f"📊 Eventos únicos encontrados: {len(events)}")
+        all_stats = {}
 
-            all_stats = {}
+        # ---- Paso 2: scrapear stats de cada evento ----
+        for event_id, event in events.items():
 
-            # ---- Paso 2: scrapear stats de cada evento ----
-            for event_id, event in events.items():
+            match_stats = scrape_match_stats(driver, event_id, player_id)
 
-                match_stats = scrape_match_stats(driver, event_id, player_id)
+            if not match_stats:
+                continue
 
-                if not match_stats:
-                    continue
+            home_team = event.get("homeTeam", {})
+            away_team = event.get("awayTeam", {})
 
-                # --- Reconstruir objeto estilo matchids para tu pipeline ---
-                home_team = event.get("homeTeam", {})
-                away_team = event.get("awayTeam", {})
+            match_info = {
+                "homeTeam": {
+                    "name": home_team.get("name"),
+                    "shortName": home_team.get("shortName") or (home_team.get("name") or "")[:3].upper(),
+                    "color": home_team.get("teamColors", {}).get("primary"),
+                    "score": event.get("homeScore", {}).get("current") if event.get("homeScore") else None
+                },
+                "awayTeam": {
+                    "name": away_team.get("name"),
+                    "shortName": away_team.get("shortName") or (away_team.get("name") or "")[:3].upper(),
+                    "color": away_team.get("teamColors", {}).get("primary"),
+                    "score": event.get("awayScore", {}).get("current") if event.get("awayScore") else None
+                },
+                "startTimestamp": event.get("startTimestamp"),
+                "slug": event.get("slug")
+            }
 
-                match_info = {
-                    "homeTeam": {
-                        "name": home_team.get("name"),
-                        "shortName": home_team.get("shortName") or (home_team.get("name") or "")[:3].upper(),
-                        "color": home_team.get("teamColors", {}).get("primary"),
-                        "score": event.get("homeScore", {}).get("current") if event.get("homeScore") else None
-                    },
-                    "awayTeam": {
-                        "name": away_team.get("name"),
-                        "shortName": away_team.get("shortName") or (away_team.get("name") or "")[:3].upper(),
-                        "color": away_team.get("teamColors", {}).get("primary"),
-                        "score": event.get("awayScore", {}).get("current") if event.get("awayScore") else None
-                    },
-                    "startTimestamp": event.get("startTimestamp"),
-                    "hasEventPlayerStatistics": event.get("hasEventPlayerStatistics"),
-                    "isEditor": event.get("isEditor"),
-                    "slug": event.get("slug"),
-                    "finalResultOnly": event.get("finalResultOnly")
-                }
+            all_stats[event_id] = {
+                "id": int(event_id),
+                "match_info": match_info,
+                "player_stats": match_stats
+            }
 
-                # --- Guardar en all_stats ---
-                all_stats[event_id] = {
-                    "id": int(event_id),
-                    "match_info": match_info,
-                    "player_stats": match_stats
-                }
+            print(f"✔️ {event_id}")
+            time.sleep(1)
 
-                print(f"✔️ {event_id}")
-                time.sleep(1)
+        # ---- Guardar resultado ----
+        output_file = os.path.join(player_folder, "sofascore_all_matches.json")
 
-            # ---- Guardar solo all_matches.json ----
-            output_file = os.path.join(
-                OUTPUT_FOLDER,
-                f"{player_name}_all_matches.json"
-            )
-            with open(output_file, "w", encoding="utf-8") as f:
-                json.dump(all_stats, f, indent=2, ensure_ascii=False)
+        with open(output_file, "w", encoding="utf-8") as f:
+            json.dump(all_stats, f, indent=2, ensure_ascii=False)
 
-            print(f"💾 Stats guardados: {output_file}")
+        print(f"\n💾 Stats guardados en: {output_file}")
 
     finally:
         driver.quit()

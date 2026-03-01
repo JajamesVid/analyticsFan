@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import json
 
 # Ruta del archivo HTML
-ruta_html = "antoine-griezmann_html/all_clean.html"
+ruta_html = "borja-iglesias_html/all_clean.html"
 
 # Abrimos y leemos el contenido del archivo
 with open(ruta_html, "r", encoding="utf-8") as f:
@@ -86,7 +86,7 @@ for td in soup.find_all("td", class_="name position-relative"):
         continue
 
 # Guardamos el resultado en JSON
-with open("griezmann_futfantasy.json", "w", encoding="utf-8") as f:
+with open("borjaiglesias_futfantasy.json", "w", encoding="utf-8") as f:
     json.dump(partidos_json, f, indent=2, ensure_ascii=False)
 
 print("JSON generado correctamente en 'partidos.json'")
