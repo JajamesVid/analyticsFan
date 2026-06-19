@@ -10,11 +10,12 @@ import pandas as pd
 # VALIDACIÓN ARGUMENTOS
 # ==========================
 if len(sys.argv) < 2:
-    print("Uso: python3 merge_to_excel.py nombre_jugador_normalizado")
+    print("Uso: python3 merge_to_excel.py nombre_jugador_normalizado ['Nombre Equipo']")
     sys.exit(1)
 
 player_name = sys.argv[1]
-base_path = os.path.join("player_stats", player_name)
+team_folder = sys.argv[2].lower().replace(" ", "_") if len(sys.argv) >= 3 else None
+base_path = os.path.join("player_stats", team_folder, player_name) if team_folder else os.path.join("player_stats", player_name)
 
 FF_INPUT = os.path.join(base_path, "futfantasy.json")
 SS_INPUT = os.path.join(base_path, "sofascore_all_matches.json")

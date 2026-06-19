@@ -226,7 +226,7 @@ def normalize_name(name: str) -> str:
     return name.lower().replace(" ", "_")
 
 
-def main(player_name):
+def main(player_name, team_name=None):
 
     player_slug = format_player_slug(player_name)
     player_folder_name = normalize_name(player_name)
@@ -239,8 +239,11 @@ def main(player_name):
 
     partidos = enriquecer_con_fecha(session, partidos)
 
-    # 📁 Ruta consistente con el script de SofaScore
-    base_folder = "player_stats"
+    if team_name:
+        base_folder = os.path.join("player_stats", normalize_name(team_name))
+    else:
+        base_folder = "player_stats"
+
     player_folder = os.path.join(base_folder, player_folder_name)
 
     os.makedirs(player_folder, exist_ok=True)
@@ -256,7 +259,8 @@ def main(player_name):
 if __name__ == "__main__":
 
     if len(sys.argv) < 2:
-        print("Uso: python futfantasy_pipeline.py 'Nombre Jugador'")
+        print("Uso: python futfantasy_pipeline.py 'Nombre Jugador' ['Nombre Equipo']")
         sys.exit(1)
 
-    main(sys.argv[1])
+    team_arg = sys.argv[2] if len(sys.argv) >= 3 else None
+    main(sys.argv[1], team_arg)
