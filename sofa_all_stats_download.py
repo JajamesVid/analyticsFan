@@ -31,6 +31,11 @@ def start_browser():
         {"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"}
     )
 
+    driver.execute_cdp_cmd("Network.enable", {})
+    driver.execute_cdp_cmd("Network.setExtraHTTPHeaders", {
+        "headers": {"X-Requested-With": "463ab6"}
+    })
+
     # Visitar homepage para pasar el challenge de Cloudflare y obtener cookies
     print("🌍 Obteniendo cookies de SofaScore...")
     driver.get("https://www.sofascore.com")
