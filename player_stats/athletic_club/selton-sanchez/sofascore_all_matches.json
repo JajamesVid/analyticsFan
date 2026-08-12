@@ -1,0 +1,5059 @@
+{
+  "14083200": {
+    "id": 14083200,
+    "match_info": {
+      "homeTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "startTimestamp": 1767453300,
+      "slug": "athletic-club-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14252104": {
+    "id": 14252104,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1767812400,
+      "slug": "athletic-club-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 11,
+        "accuratePass": 5,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 8,
+        "duelLost": 2,
+        "duelWon": 1,
+        "totalContest": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "fouls": 1,
+        "minutesPlayed": 29,
+        "touches": 13,
+        "rating": 6.3,
+        "possessionLostCtrl": 7,
+        "totalBallCarriesDistance": 36.166857928874,
+        "ballCarriesCount": 3,
+        "totalProgression": -14.7,
+        "bestBallCarryProgression": 6.72,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.32,
+        "dribbleValueNormalized": 0.06,
+        "defensiveValueNormalized": -0.05,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "15327741": {
+    "id": 15327741,
+    "match_info": {
+      "homeTeam": {
+        "name": "Cultural Leonesa",
+        "shortName": "Cultural Leonesa",
+        "color": "#a51400",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 4
+      },
+      "startTimestamp": 1768334400,
+      "slug": "cultural-leonesa-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083235": {
+    "id": 14083235,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1768662900,
+      "slug": "mallorca-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14566729": {
+    "id": 14566729,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atalanta",
+        "shortName": "Atalanta",
+        "color": "#0000cc",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 3
+      },
+      "startTimestamp": 1769025600,
+      "slug": "athletic-club-atalanta"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083127": {
+    "id": 14083127,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "startTimestamp": 1769275800,
+      "slug": "sevilla-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14566910": {
+    "id": 14566910,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Sporting CP",
+        "shortName": "Sporting",
+        "color": "#009966",
+        "score": 3
+      },
+      "startTimestamp": 1769630400,
+      "slug": "sporting-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 6,
+        "accuratePass": 5,
+        "goalAssist": 0,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 6,
+        "duelLost": 5,
+        "duelWon": 2,
+        "challengeLost": 2,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 2,
+        "fouls": 2,
+        "minutesPlayed": 24,
+        "touches": 13,
+        "rating": 6.5,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.00293151,
+        "topSpeed": 29.412,
+        "kilometersCovered": 3.60488,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 19.147162877051,
+        "ballCarriesCount": 2,
+        "totalProgression": 4.2,
+        "bestBallCarryProgression": 3.57,
+        "totalProgressiveBallCarriesDistance": 9.4706327138159,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.18,
+        "dribbleValueNormalized": 0.19,
+        "defensiveValueNormalized": -0.14,
+        "metersCoveredWalkingKm": 0.86,
+        "metersCoveredJoggingKm": 1.75,
+        "metersCoveredRunningKm": 0.7,
+        "metersCoveredHighSpeedRunningKm": 0.23,
+        "metersCoveredSprintingKm": 0.06,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083195": {
+    "id": 14083195,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1769976000,
+      "slug": "athletic-club-real-sociedad"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "15396362": {
+    "id": 15396362,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1770235200,
+      "slug": "valencia-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 12,
+        "accuratePass": 8,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 10,
+        "totalCross": 1,
+        "duelLost": 5,
+        "duelWon": 2,
+        "challengeLost": 1,
+        "dispossessed": 2,
+        "totalContest": 3,
+        "wonContest": 1,
+        "ballRecovery": 4,
+        "unsuccessfulTouch": 4,
+        "wasFouled": 1,
+        "minutesPlayed": 70,
+        "touches": 23,
+        "rating": 6,
+        "possessionLostCtrl": 13,
+        "totalBallCarriesDistance": 21.737551572262,
+        "ballCarriesCount": 3,
+        "totalProgression": 8.2164806340104,
+        "ratingVersions": {
+          "original": 6,
+          "alternative": 6.2
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.02,
+        "dribbleValueNormalized": -0.02,
+        "defensiveValueNormalized": -0.11,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083260": {
+    "id": 14083260,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 2
+      },
+      "startTimestamp": 1770563700,
+      "slug": "levante-ud-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 8,
+        "accuratePass": 5,
+        "goalAssist": 1,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 6,
+        "aerialWon": 1,
+        "duelLost": 1,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "unsuccessfulTouch": 2,
+        "minutesPlayed": 14,
+        "touches": 10,
+        "rating": 7,
+        "possessionLostCtrl": 5,
+        "expectedAssists": 0.0462535,
+        "totalBallCarriesDistance": 11.608113991192,
+        "ballCarriesCount": 2,
+        "totalProgression": 9.9204232039329,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.41,
+        "dribbleValueNormalized": 0.06,
+        "defensiveValueNormalized": -0.15,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "15496188": {
+    "id": 15496188,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1770840000,
+      "slug": "athletic-club-real-sociedad"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 20,
+        "accuratePass": 18,
+        "totalLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 6,
+        "totalOwnHalfPasses": 6,
+        "accurateOppositionHalfPasses": 12,
+        "totalOppositionHalfPasses": 14,
+        "duelLost": 1,
+        "duelWon": 3,
+        "totalContest": 1,
+        "wonContest": 1,
+        "ballRecovery": 4,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 34,
+        "touches": 28,
+        "rating": 6.7,
+        "possessionLostCtrl": 6,
+        "totalBallCarriesDistance": 30.969323326642,
+        "ballCarriesCount": 5,
+        "totalProgression": 8.2709826438748,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.25,
+        "dribbleValueNormalized": -0.11,
+        "defensiveValueNormalized": -0.03,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083454": {
+    "id": 14083454,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1771160400,
+      "slug": "real-oviedo-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "15554735": {
+    "id": 15554735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Spain U19",
+        "shortName": "Spain U19",
+        "color": "#cc0000",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Norway U19",
+        "shortName": "Norway U19",
+        "color": "#ef2b2d",
+        "score": 1
+      },
+      "startTimestamp": 1771336800,
+      "slug": "spain-u19-norway-u19"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14083549": {
+    "id": 14083549,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1771617600,
+      "slug": "elche-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14081790": {
+    "id": 14081790,
+    "match_info": {
+      "homeTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "startTimestamp": 1772283600,
+      "slug": "athletic-club-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "goalAssist": 0,
+        "aerialLost": 1,
+        "duelLost": 3,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "minutesPlayed": 10,
+        "touches": 2,
+        "rating": 6.4,
+        "possessionLostCtrl": 2,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.2
+        },
+        "totalShots": 0,
+        "dribbleValueNormalized": -0.07,
+        "defensiveValueNormalized": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "15496190": {
+    "id": 15496190,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1772654400,
+      "slug": "athletic-club-real-sociedad"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083597": {
+    "id": 14083597,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 1
+      },
+      "startTimestamp": 1772913600,
+      "slug": "athletic-club-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 12,
+        "accuratePass": 7,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 7,
+        "duelLost": 4,
+        "duelWon": 2,
+        "dispossessed": 1,
+        "totalContest": 2,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "totalOffside": 1,
+        "minutesPlayed": 45,
+        "touches": 19,
+        "rating": 6.6,
+        "possessionLostCtrl": 10,
+        "expectedAssists": 0.094555,
+        "totalBallCarriesDistance": 33.643876422363,
+        "ballCarriesCount": 3,
+        "totalProgression": 26.968244351884,
+        "bestBallCarryProgression": 17.376896501074,
+        "totalProgressiveBallCarriesDistance": 17.398531087422,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.08,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": -0.01,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083632": {
+    "id": 14083632,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1773493200,
+      "slug": "girona-fc-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083657": {
+    "id": 14083657,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1774200600,
+      "slug": "athletic-club-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "15217227": {
+    "id": 15217227,
+    "match_info": {
+      "homeTeam": {
+        "name": "Spain U19",
+        "shortName": "Spain U19",
+        "color": "#cc0000",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Slovenia U19",
+        "shortName": "Slovenia U19",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1774458000,
+      "slug": "spain-u19-slovenia-u19"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "15224862": {
+    "id": 15224862,
+    "match_info": {
+      "homeTeam": {
+        "name": "Spain U19",
+        "shortName": "Spain U19",
+        "color": "#cc0000",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Finland U19",
+        "shortName": "Finland U19",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1774717200,
+      "slug": "spain-u19-finland-u19"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Spain U19",
+        "slug": "spain-u19",
+        "shortName": "Spain U19",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 19149,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": true,
+        "type": 0,
+        "id": 22560,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إسبانيا دون 19 سنة",
+            "bn": "স্পেন আন্ডার19",
+            "hi": "स्पेन अंडर 19",
+            "ru": "Испания U19"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "goals": 0,
+        "ownGoals": 0,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "15224875": {
+    "id": 15224875,
+    "match_info": {
+      "homeTeam": {
+        "name": "Netherlands U19",
+        "shortName": "Netherlands U19",
+        "color": "#ff6600",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Spain U19",
+        "shortName": "Spain U19",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "startTimestamp": 1774972800,
+      "slug": "spain-u19-netherlands-u19"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14102661": {
+    "id": 14102661,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "CF Talavera",
+        "shortName": "CF ",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1775320200,
+      "slug": "cf-talavera-athletic-clubu21"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club B U21",
+        "slug": "athletic-bilbao-b",
+        "shortName": "Athletic Club B U21",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 5675,
+        "nameCode": "ABB",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "type": 0,
+        "id": 24324,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اتلتيك بلباو ب",
+            "bn": "অ্যাথলেটিক বিলবাও বি",
+            "hi": "एथलेटिक बिलबाओ बी",
+            "ru": "Атлетик Бильбао Б"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 43,
+        "accuratePass": 35,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 21,
+        "totalOwnHalfPasses": 24,
+        "accurateOppositionHalfPasses": 13,
+        "totalOppositionHalfPasses": 17,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 9,
+        "duelWon": 4,
+        "challengeLost": 2,
+        "totalContest": 4,
+        "wonContest": 2,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "interceptionWon": 1,
+        "ballRecovery": 8,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 2,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 69,
+        "touches": 64,
+        "rating": 6.7,
+        "possessionLostCtrl": 10,
+        "expectedGoals": 0,
+        "expectedAssists": 0.07,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14606573": {
+    "id": 14606573,
+    "match_info": {
+      "homeTeam": {
+        "name": "CP Cacereño",
+        "shortName": "Cacereño",
+        "color": "#219345",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1775848500,
+      "slug": "athletic-clubu21-cp-cacereno"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club B U21",
+        "slug": "athletic-bilbao-b",
+        "shortName": "Athletic Club B U21",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 5675,
+        "nameCode": "ABB",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "type": 0,
+        "id": 24324,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اتلتيك بلباو ب",
+            "bn": "অ্যাথলেটিক বিলবাও বি",
+            "hi": "एथलेटिक बिलबाओ बी",
+            "ru": "Атлетик Бильбао Б"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 30,
+        "accuratePass": 27,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 21,
+        "totalOppositionHalfPasses": 24,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 11,
+        "duelWon": 5,
+        "challengeLost": 0,
+        "dispossessed": 1,
+        "totalContest": 3,
+        "wonContest": 2,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 0,
+        "blockedScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 1,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 69,
+        "touches": 47,
+        "rating": 7,
+        "possessionLostCtrl": 8,
+        "expectedGoals": 0.1,
+        "expectedAssists": 0.04,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": null
+        },
+        "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14606590": {
+    "id": 14606590,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Racing de Ferrol",
+        "shortName": "Racing de Ferrol",
+        "color": "#0f7567",
+        "score": 1
+      },
+      "startTimestamp": 1776592800,
+      "slug": "athletic-clubu21-racing-de-ferrol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club B U21",
+        "slug": "athletic-bilbao-b",
+        "shortName": "Athletic Club B U21",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 5675,
+        "nameCode": "ABB",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "type": 0,
+        "id": 24324,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اتلتيك بلباو ب",
+            "bn": "অ্যাথলেটিক বিলবাও বি",
+            "hi": "एथलेटिक बिलबाओ बी",
+            "ru": "Атлетик Бильбао Б"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 14,
+        "accuratePass": 11,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 11,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 7,
+        "duelWon": 6,
+        "challengeLost": 0,
+        "dispossessed": 2,
+        "totalContest": 2,
+        "wonContest": 2,
+        "shotOffTarget": 2,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 3,
+        "fouls": 2,
+        "totalOffside": 0,
+        "minutesPlayed": 52,
+        "touches": 28,
+        "rating": 6.8,
+        "possessionLostCtrl": 5,
+        "expectedGoals": 0.11,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": null
+        },
+        "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14606617": {
+    "id": 14606617,
+    "match_info": {
+      "homeTeam": {
+        "name": "Unionistas de Salamanca CF",
+        "shortName": "Unionistas",
+        "color": "#000000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "startTimestamp": 1777220100,
+      "slug": "unionistas-de-salamanca-cf-athletic-clubu21"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club B U21",
+        "slug": "athletic-bilbao-b",
+        "shortName": "Athletic Club B U21",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 5675,
+        "nameCode": "ABB",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "type": 0,
+        "id": 24324,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اتلتيك بلباو ب",
+            "bn": "অ্যাথলেটিক বিলবাও বি",
+            "hi": "एथलेटिक बिलबाओ बी",
+            "ru": "Атлетик Бильбао Б"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 9,
+        "accuratePass": 8,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 7,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 1,
+        "aerialWon": 0,
+        "duelLost": 6,
+        "duelWon": 5,
+        "challengeLost": 2,
+        "totalContest": 1,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "interceptionWon": 1,
+        "ballRecovery": 5,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 2,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 34,
+        "touches": 19,
+        "rating": 6.6,
+        "possessionLostCtrl": 6,
+        "expectedGoals": 0,
+        "expectedAssists": 0.18,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14606637": {
+    "id": 14606637,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Ourense CF",
+        "shortName": "Ourense",
+        "color": "#000000",
+        "score": 2
+      },
+      "startTimestamp": 1777816800,
+      "slug": "ourense-cf-athletic-clubu21"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club B U21",
+        "slug": "athletic-bilbao-b",
+        "shortName": "Athletic Club B U21",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 5675,
+        "nameCode": "ABB",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "type": 0,
+        "id": 24324,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اتلتيك بلباو ب",
+            "bn": "অ্যাথলেটিক বিলবাও বি",
+            "hi": "एथलेटिक बिलबाओ बी",
+            "ru": "Атлетик Бильбао Б"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 58,
+        "accuratePass": 51,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 14,
+        "totalOwnHalfPasses": 14,
+        "accurateOppositionHalfPasses": 37,
+        "totalOppositionHalfPasses": 44,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 6,
+        "duelWon": 4,
+        "challengeLost": 0,
+        "totalContest": 1,
+        "wonContest": 1,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 6,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 2,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 76,
+        "touches": 74,
+        "rating": 7.2,
+        "possessionLostCtrl": 8,
+        "expectedGoals": 0,
+        "expectedAssists": 0.18,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.2,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102669": {
+    "id": 14102669,
+    "match_info": {
+      "homeTeam": {
+        "name": "Pontevedra CF",
+        "shortName": "Pontevedra",
+        "color": "#660000",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1778336100,
+      "slug": "athletic-clubu21-pontevedra-cf"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club B U21",
+        "slug": "athletic-bilbao-b",
+        "shortName": "Athletic Club B U21",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 5675,
+        "nameCode": "ABB",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "type": 0,
+        "id": 24324,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اتلتيك بلباو ب",
+            "bn": "অ্যাথলেটিক বিলবাও বি",
+            "hi": "एथलेटिक बिलबाओ बी",
+            "ru": "Атлетик Бильбао Б"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 5,
+        "accuratePass": 2,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 5,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 2,
+        "duelWon": 2,
+        "challengeLost": 0,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 0,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 20,
+        "touches": 7,
+        "rating": 6.4,
+        "possessionLostCtrl": 3,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083656": {
+    "id": 14083656,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "startTimestamp": 1779037200,
+      "slug": "athletic-club-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102763": {
+    "id": 14102763,
+    "match_info": {
+      "homeTeam": {
+        "name": "SD Ponferradina",
+        "shortName": "Ponferradina",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1779553800,
+      "slug": "athletic-clubu21-sd-ponferradina"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club B U21",
+        "slug": "athletic-bilbao-b",
+        "shortName": "Athletic Club B U21",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 5675,
+        "nameCode": "ABB",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "type": 0,
+        "id": 24324,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اتلتيك بلباو ب",
+            "bn": "অ্যাথলেটিক বিলবাও বি",
+            "hi": "एथलेटिक बिलबाओ बी",
+            "ru": "Атлетик Бильбао Б"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 14,
+        "accuratePass": 12,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 10,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 1,
+        "duelLost": 6,
+        "duelWon": 4,
+        "challengeLost": 0,
+        "dispossessed": 1,
+        "totalContest": 2,
+        "wonContest": 1,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 1,
+        "outfielderBlock": 0,
+        "ballRecovery": 1,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 1,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 34,
+        "touches": 22,
+        "rating": 6.6,
+        "possessionLostCtrl": 6,
+        "expectedGoals": 0.08,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "12706423": {
+    "id": 12706423,
+    "match_info": {
+      "homeTeam": {
+        "name": "West Ham U21",
+        "shortName": "West Ham U21",
+        "color": "#66192c",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1727892000,
+      "slug": "west-ham-u21-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "12706421": {
+    "id": 12706421,
+    "match_info": {
+      "homeTeam": {
+        "name": "Blackburn U21",
+        "shortName": "Blackburn U21",
+        "color": "#ffffff",
+        "score": null
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": null
+      },
+      "startTimestamp": 1731524400,
+      "slug": "blackburn-u21-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14596207": {
+    "id": 14596207,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club U19",
+        "shortName": "Athletic Club U19",
+        "color": "#aa0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Arsenal U19",
+        "shortName": "Arsenal U19",
+        "color": "#374df5",
+        "score": 1
+      },
+      "startTimestamp": 1758016800,
+      "slug": "athletic-club-u19-arsenal-u19"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club U19",
+        "slug": "athletic-de-bilbao-u19",
+        "shortName": "Athletic Club U19",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2155,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 281866,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أثليتيك كلوب تحت 19",
+            "ru": "Атлетик Клуб U19"
+          },
+          "shortNameTranslation": {
+            "ar": "أثليتيك كلوب تحت 19",
+            "ru": "Атлетик Клуб U19"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 48,
+        "accuratePass": 36,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 14,
+        "totalOwnHalfPasses": 15,
+        "accurateOppositionHalfPasses": 22,
+        "totalOppositionHalfPasses": 33,
+        "totalCross": 1,
+        "aerialLost": 1,
+        "duelLost": 9,
+        "duelWon": 8,
+        "challengeLost": 1,
+        "dispossessed": 3,
+        "totalContest": 4,
+        "wonContest": 2,
+        "bigChanceCreated": 1,
+        "shotOffTarget": 1,
+        "blockedScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 6,
+        "totalTackle": 4,
+        "wonTackle": 2,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 4,
+        "wasFouled": 2,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 72,
+        "rating": 7.6,
+        "possessionLostCtrl": 22,
+        "totalBallCarriesDistance": 111.91970494557,
+        "ballCarriesCount": 12,
+        "totalProgression": 48.3,
+        "bestBallCarryProgression": 14.7,
+        "totalProgressiveBallCarriesDistance": 64.300284494169,
+        "progressiveBallCarriesCount": 4,
+        "keyPass": 4,
+        "ratingVersions": {
+          "original": 7.6,
+          "alternative": 7.7
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.51,
+        "passValueNormalized": 0.94,
+        "dribbleValueNormalized": 0.26,
+        "defensiveValueNormalized": -0.24,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14596239": {
+    "id": 14596239,
+    "match_info": {
+      "homeTeam": {
+        "name": "Borussia Dortmund U19",
+        "shortName": "Dortmund U19",
+        "color": "#ffff00",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Athletic Club U19",
+        "shortName": "Athletic Club U19",
+        "color": "#aa0000",
+        "score": 4
+      },
+      "startTimestamp": 1759327200,
+      "slug": "athletic-club-u19-borussia-dortmund-u19"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club U19",
+        "slug": "athletic-de-bilbao-u19",
+        "shortName": "Athletic Club U19",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2155,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 281866,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أثليتيك كلوب تحت 19",
+            "ru": "Атлетик Клуб U19"
+          },
+          "shortNameTranslation": {
+            "ar": "أثليتيك كلوب تحت 19",
+            "ru": "Атлетик Клуб U19"
+          }
+        }
+      },
+      "statistics": {
+        "goalAssist": 2,
+        "goals": 1,
+        "ownGoals": 0,
+        "minutesPlayed": 88,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14099170": {
+    "id": 14099170,
+    "match_info": {
+      "homeTeam": {
+        "name": "Barakaldo CF",
+        "shortName": "Barakaldo",
+        "color": "#ffde00",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "startTimestamp": 1760123700,
+      "slug": "athletic-clubu21-barakaldo-cf"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club B U21",
+        "slug": "athletic-bilbao-b",
+        "shortName": "Athletic Club B U21",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 5675,
+        "nameCode": "ABB",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "type": 0,
+        "id": 24324,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اتلتيك بلباو ب",
+            "bn": "অ্যাথলেটিক বিলবাও বি",
+            "hi": "एथलेटिक बिलबाओ बी",
+            "ru": "Атлетик Бильбао Б"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 25,
+        "accuratePass": 20,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 7,
+        "totalOwnHalfPasses": 9,
+        "accurateOppositionHalfPasses": 12,
+        "totalOppositionHalfPasses": 14,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 7,
+        "duelWon": 2,
+        "challengeLost": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "shotOffTarget": 3,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 1,
+        "outfielderBlock": 0,
+        "interceptionWon": 1,
+        "ballRecovery": 5,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 1,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 1,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 74,
+        "touches": 38,
+        "rating": 6.9,
+        "possessionLostCtrl": 6,
+        "expectedGoals": 0.04,
+        "expectedAssists": 0.01,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": null
+        },
+        "totalShots": 3,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14099247": {
+    "id": 14099247,
+    "match_info": {
+      "homeTeam": {
+        "name": "Zamora CF",
+        "shortName": "Zamora",
+        "color": "#fc0000",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "startTimestamp": 1761498900,
+      "slug": "zamora-athletic-clubu21"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club B U21",
+        "slug": "athletic-bilbao-b",
+        "shortName": "Athletic Club B U21",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 5675,
+        "nameCode": "ABB",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "type": 0,
+        "id": 24324,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اتلتيك بلباو ب",
+            "bn": "অ্যাথলেটিক বিলবাও বি",
+            "hi": "एथलेटिक बिलबाओ बी",
+            "ru": "Атлетик Бильбао Б"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 31,
+        "accuratePass": 22,
+        "totalLongBalls": 8,
+        "accurateLongBalls": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 7,
+        "totalOwnHalfPasses": 7,
+        "accurateOppositionHalfPasses": 15,
+        "totalOppositionHalfPasses": 24,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 4,
+        "duelWon": 13,
+        "challengeLost": 2,
+        "totalContest": 7,
+        "wonContest": 7,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "interceptionWon": 2,
+        "ballRecovery": 6,
+        "totalTackle": 1,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 3,
+        "fouls": 2,
+        "totalOffside": 0,
+        "minutesPlayed": 77,
+        "touches": 52,
+        "rating": 7.5,
+        "possessionLostCtrl": 10,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 7.5,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083101": {
+    "id": 14083101,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1762018200,
+      "slug": "athletic-club-real-sociedad"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14566958": {
+    "id": 14566958,
+    "match_info": {
+      "homeTeam": {
+        "name": "Newcastle United",
+        "shortName": "Newcastle",
+        "color": "#000000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1762372800,
+      "slug": "athletic-club-newcastle-united"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 10,
+        "accuratePass": 9,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 8,
+        "aerialLost": 1,
+        "duelLost": 3,
+        "duelWon": 1,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 21,
+        "touches": 13,
+        "rating": 6.5,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 0.00813183,
+        "topSpeed": 28.872,
+        "kilometersCovered": 3.37094,
+        "numberOfSprints": 4,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.01,
+        "dribbleValueNormalized": -0.13,
+        "defensiveValueNormalized": 0.13,
+        "metersCoveredWalkingKm": 0.73,
+        "metersCoveredJoggingKm": 1.71,
+        "metersCoveredRunningKm": 0.6,
+        "metersCoveredHighSpeedRunningKm": 0.23,
+        "metersCoveredSprintingKm": 0.1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083106": {
+    "id": 14083106,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1762693200,
+      "slug": "real-oviedo-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 17,
+        "accuratePass": 12,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 12,
+        "duelLost": 4,
+        "duelWon": 3,
+        "challengeLost": 2,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "shotOffTarget": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 3,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 64,
+        "touches": 32,
+        "rating": 6.4,
+        "possessionLostCtrl": 10,
+        "expectedGoals": 0.0331,
+        "expectedAssists": 0.014084,
+        "keyPass": 3,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 7.1
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.26,
+        "passValueNormalized": -0.05,
+        "dribbleValueNormalized": -0.3,
+        "defensiveValueNormalized": -0.1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083130": {
+    "id": 14083130,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1763824500,
+      "slug": "athletic-club-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14566885": {
+    "id": 14566885,
+    "match_info": {
+      "homeTeam": {
+        "name": "SK Slavia Praha",
+        "shortName": "Slavia Praha",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1764100800,
+      "slug": "athletic-club-sk-slavia-praha"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 9,
+        "accuratePass": 5,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 6,
+        "duelLost": 2,
+        "duelWon": 4,
+        "dispossessed": 2,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 2,
+        "minutesPlayed": 32,
+        "touches": 18,
+        "rating": 6.7,
+        "possessionLostCtrl": 7,
+        "expectedAssists": 0.00206079,
+        "topSpeed": 29.268,
+        "kilometersCovered": 3.94836,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 34.840401598057,
+        "ballCarriesCount": 5,
+        "totalProgression": -11.55,
+        "bestBallCarryProgression": 5.04,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.12,
+        "dribbleValueNormalized": -0.25,
+        "defensiveValueNormalized": 0.13,
+        "metersCoveredWalkingKm": 1.04,
+        "metersCoveredJoggingKm": 1.8,
+        "metersCoveredRunningKm": 0.75,
+        "metersCoveredHighSpeedRunningKm": 0.28,
+        "metersCoveredSprintingKm": 0.08,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083145": {
+    "id": 14083145,
+    "match_info": {
+      "homeTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1764437400,
+      "slug": "levante-ud-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 4,
+        "accuratePass": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "totalOppositionHalfPasses": 3,
+        "duelLost": 1,
+        "duelWon": 1,
+        "onTargetScoringAttempt": 1,
+        "ballRecovery": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 9,
+        "touches": 6,
+        "rating": 6.5,
+        "possessionLostCtrl": 3,
+        "expectedGoals": 0.0482,
+        "expectedGoalsOnTarget": 0.0222,
+        "expectedAssists": 4.83e-06,
+        "totalBallCarriesDistance": 49.00348832334,
+        "ballCarriesCount": 3,
+        "totalProgression": -28.245,
+        "bestBallCarryProgression": 2.835,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.8
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.11,
+        "passValueNormalized": -0.27,
+        "dribbleValueNormalized": 0.24,
+        "defensiveValueNormalized": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083210": {
+    "id": 14083210,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1764784800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 5,
+        "accuratePass": 4,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 4,
+        "duelLost": 3,
+        "duelWon": 1,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "ballRecovery": 1,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 12,
+        "touches": 13,
+        "rating": 6.4,
+        "possessionLostCtrl": 5,
+        "expectedAssists": 0.00693383,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.3
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.03,
+        "dribbleValueNormalized": -0.07,
+        "defensiveValueNormalized": 0.13,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083151": {
+    "id": 14083151,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1765051200,
+      "slug": "atletico-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14566908": {
+    "id": 14566908,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Paris Saint-Germain",
+        "shortName": "PSG",
+        "color": "#000066",
+        "score": 0
+      },
+      "startTimestamp": 1765396800,
+      "slug": "athletic-club-paris-saint-germain"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083171": {
+    "id": 14083171,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1765725300,
+      "slug": "athletic-club-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 17,
+        "accuratePass": 13,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 6,
+        "totalOwnHalfPasses": 7,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 10,
+        "duelLost": 2,
+        "duelWon": 2,
+        "totalContest": 1,
+        "shotOffTarget": 2,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 45,
+        "touches": 26,
+        "rating": 6.1,
+        "possessionLostCtrl": 7,
+        "expectedGoals": 0.1851,
+        "expectedAssists": 0.00742457,
+        "totalBallCarriesDistance": 82.065171165092,
+        "ballCarriesCount": 10,
+        "totalProgression": 20.475,
+        "bestBallCarryProgression": 15.225,
+        "ratingVersions": {
+          "original": 6.1,
+          "alternative": 6.7
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.58,
+        "passValueNormalized": -0.27,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": -0.12,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "15200514": {
+    "id": 15200514,
+    "match_info": {
+      "homeTeam": {
+        "name": "Ourense CF",
+        "shortName": "Ourense",
+        "color": "#000000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "startTimestamp": 1766080800,
+      "slug": "ourense-cf-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083180": {
+    "id": 14083180,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1766433600,
+      "slug": "athletic-club-espanyol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Selton Sanchez",
+        "slug": "selton-sanchez",
+        "shortName": "S. Sánchez",
+        "position": "M",
+        "jerseyNumber": "44",
+        "height": 185,
+        "userCount": 540,
+        "gender": "M",
+        "id": 1953923,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1171929600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتون سانشيز",
+            "ru": "Селтон Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. سانشيز",
+            "ru": "С. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

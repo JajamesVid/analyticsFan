@@ -1,0 +1,3197 @@
+{
+  "14303018": {
+    "id": 14303018,
+    "match_info": {
+      "homeTeam": {
+        "name": "Ternana",
+        "shortName": "Ternana",
+        "color": "#009900",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Juventus Next Gen U23",
+        "shortName": "Juventus NG U23",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1763904600,
+      "slug": "juventus-next-gen-u23-ternana"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Juventus Next Gen U23",
+        "slug": "juventus-next-gen",
+        "shortName": "Juventus NG U23",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 16620,
+        "nameCode": "JUV",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Juventus",
+          "slug": "juventus",
+          "shortName": "Juventus",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 1719001,
+          "nameCode": "JUV",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2687,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "يوفنتوس",
+              "bn": "জুভেন্টাস",
+              "hi": "जुवेंटस",
+              "ru": "Ювентус"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "type": 0,
+        "id": 294884,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "يوفنتوس الجيل القادم تحت 23",
+            "hi": "जुवेंटस नेक्स्ट जेन U23",
+            "ru": "Ювентус Некст Джен U23"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 25,
+        "accuratePass": 24,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 20,
+        "totalOwnHalfPasses": 21,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 3,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 7,
+        "aerialWon": 10,
+        "duelLost": 18,
+        "duelWon": 20,
+        "challengeLost": 2,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "onTargetScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 1,
+        "outfielderBlock": 0,
+        "interceptionWon": 1,
+        "ballRecovery": 19,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 90,
+        "touches": 42,
+        "rating": 7,
+        "possessionLostCtrl": 6,
+        "expectedGoals": 0.12,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "15028586": {
+    "id": 15028586,
+    "match_info": {
+      "homeTeam": {
+        "name": "Gubbio",
+        "shortName": "Gubbio",
+        "color": "#0b2944",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Juventus Next Gen U23",
+        "shortName": "Juventus NG U23",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1764165600,
+      "slug": "juventus-next-gen-u23-gubbio"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Juventus Next Gen U23",
+        "slug": "juventus-next-gen",
+        "shortName": "Juventus NG U23",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 16620,
+        "nameCode": "JUV",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Juventus",
+          "slug": "juventus",
+          "shortName": "Juventus",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 1719001,
+          "nameCode": "JUV",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2687,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "يوفنتوس",
+              "bn": "জুভেন্টাস",
+              "hi": "जुवेंटस",
+              "ru": "Ювентус"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "type": 0,
+        "id": 294884,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "يوفنتوس الجيل القادم تحت 23",
+            "hi": "जुवेंटस नेक्स्ट जेन U23",
+            "ru": "Ювентус Некст Джен U23"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 70,
+        "accuratePass": 66,
+        "totalLongBalls": 8,
+        "accurateLongBalls": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 40,
+        "totalOwnHalfPasses": 43,
+        "accurateOppositionHalfPasses": 23,
+        "totalOppositionHalfPasses": 24,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "aerialLost": 0,
+        "aerialWon": 2,
+        "duelLost": 3,
+        "duelWon": 3,
+        "challengeLost": 0,
+        "totalContest": 1,
+        "wonContest": 1,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 4,
+        "outfielderBlock": 1,
+        "interceptionWon": 3,
+        "ballRecovery": 7,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 86,
+        "touches": 88,
+        "rating": 6.9,
+        "possessionLostCtrl": 2,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13981551": {
+    "id": 13981551,
+    "match_info": {
+      "homeTeam": {
+        "name": "Juventus",
+        "shortName": "Juventus",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Cagliari",
+        "shortName": "Cagliari",
+        "color": "#990000",
+        "score": 1
+      },
+      "startTimestamp": 1764435600,
+      "slug": "cagliari-juventus"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Juventus",
+        "slug": "juventus",
+        "shortName": "Juventus",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 1719001,
+        "nameCode": "JUV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2687,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "يوفنتوس",
+            "bn": "জুভেন্টাস",
+            "hi": "जुवेंटस",
+            "ru": "Ювентус"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14787853": {
+    "id": 14787853,
+    "match_info": {
+      "homeTeam": {
+        "name": "Juventus",
+        "shortName": "Juventus",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Udinese",
+        "shortName": "Udinese",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1764705600,
+      "slug": "udinese-juventus"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Juventus",
+        "slug": "juventus",
+        "shortName": "Juventus",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 1719001,
+        "nameCode": "JUV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2687,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "يوفنتوس",
+            "bn": "জুভেন্টাস",
+            "hi": "जुवेंटस",
+            "ru": "Ювентус"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13981557": {
+    "id": 13981557,
+    "match_info": {
+      "homeTeam": {
+        "name": "SSC Napoli",
+        "shortName": "Napoli",
+        "color": "#008cea",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Juventus",
+        "shortName": "Juventus",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1765136700,
+      "slug": "napoli-juventus"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Juventus",
+        "slug": "juventus",
+        "shortName": "Juventus",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 1719001,
+        "nameCode": "JUV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2687,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "يوفنتوس",
+            "bn": "জুভেন্টাস",
+            "hi": "जुवेंटस",
+            "ru": "Ювентус"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14303044": {
+    "id": 14303044,
+    "match_info": {
+      "homeTeam": {
+        "name": "Juventus Next Gen U23",
+        "shortName": "Juventus NG U23",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Pianese",
+        "shortName": "Pianese",
+        "color": "#000000",
+        "score": 0
+      },
+      "startTimestamp": 1765567800,
+      "slug": "juventus-next-gen-u23-pianese"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Juventus Next Gen U23",
+        "slug": "juventus-next-gen",
+        "shortName": "Juventus NG U23",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 16620,
+        "nameCode": "JUV",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Juventus",
+          "slug": "juventus",
+          "shortName": "Juventus",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 1719001,
+          "nameCode": "JUV",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2687,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "يوفنتوس",
+              "bn": "জুভেন্টাস",
+              "hi": "जुवेंटस",
+              "ru": "Ювентус"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "type": 0,
+        "id": 294884,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "يوفنتوس الجيل القادم تحت 23",
+            "hi": "जुवेंटस नेक्स्ट जेन U23",
+            "ru": "Ювентус Некст Джен U23"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 87,
+        "accuratePass": 85,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 53,
+        "totalOwnHalfPasses": 55,
+        "accurateOppositionHalfPasses": 32,
+        "totalOppositionHalfPasses": 32,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 5,
+        "aerialWon": 6,
+        "duelLost": 18,
+        "duelWon": 16,
+        "challengeLost": 1,
+        "totalContest": 2,
+        "wonContest": 2,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 1,
+        "outfielderBlock": 0,
+        "interceptionWon": 2,
+        "ballRecovery": 20,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 3,
+        "fouls": 4,
+        "totalOffside": 0,
+        "minutesPlayed": 90,
+        "touches": 119,
+        "rating": 7.4,
+        "possessionLostCtrl": 7,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 7.4,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13981575": {
+    "id": 13981575,
+    "match_info": {
+      "homeTeam": {
+        "name": "Juventus",
+        "shortName": "Juventus",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "AS Roma",
+        "shortName": "Roma",
+        "color": "#990000",
+        "score": 1
+      },
+      "startTimestamp": 1766259900,
+      "slug": "roma-juventus"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Juventus",
+        "slug": "juventus",
+        "shortName": "Juventus",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 1719001,
+        "nameCode": "JUV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2687,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "يوفنتوس",
+            "bn": "জুভেন্টাস",
+            "hi": "जुवेंटस",
+            "ru": "Ювентус"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13981596": {
+    "id": 13981596,
+    "match_info": {
+      "homeTeam": {
+        "name": "Juventus",
+        "shortName": "Juventus",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Lecce",
+        "shortName": "Lecce",
+        "color": "#f6ea00",
+        "score": 1
+      },
+      "startTimestamp": 1767459600,
+      "slug": "lecce-juventus"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Juventus",
+        "slug": "juventus",
+        "shortName": "Juventus",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 1719001,
+        "nameCode": "JUV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2687,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "يوفنتوس",
+            "bn": "জুভেন্টাস",
+            "hi": "जुवेंटस",
+            "ru": "Ювентус"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14303072": {
+    "id": 14303072,
+    "match_info": {
+      "homeTeam": {
+        "name": "US Livorno 1915",
+        "shortName": "Livorno",
+        "color": "#68132c",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Juventus Next Gen U23",
+        "shortName": "Juventus NG U23",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1768131000,
+      "slug": "juventus-next-gen-u23-us-livorno-1915"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Juventus Next Gen U23",
+        "slug": "juventus-next-gen",
+        "shortName": "Juventus NG U23",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 16620,
+        "nameCode": "JUV",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Juventus",
+          "slug": "juventus",
+          "shortName": "Juventus",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 1719001,
+          "nameCode": "JUV",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2687,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "يوفنتوس",
+              "bn": "জুভেন্টাস",
+              "hi": "जुवेंटस",
+              "ru": "Ювентус"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "type": 0,
+        "id": 294884,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "يوفنتوس الجيل القادم تحت 23",
+            "hi": "जुवेंटस नेक्स्ट जेन U23",
+            "ru": "Ювентус Некст Джен U23"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 41,
+        "accuratePass": 38,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 22,
+        "totalOwnHalfPasses": 24,
+        "accurateOppositionHalfPasses": 15,
+        "totalOppositionHalfPasses": 16,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 3,
+        "challengeLost": 0,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 1,
+        "outfielderBlock": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 8,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 90,
+        "touches": 54,
+        "rating": 6.9,
+        "possessionLostCtrl": 4,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13981623": {
+    "id": 13981623,
+    "match_info": {
+      "homeTeam": {
+        "name": "Juventus",
+        "shortName": "Juventus",
+        "color": "#ffffff",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Cremonese",
+        "shortName": "Cremonese",
+        "color": "#c8091d",
+        "score": 0
+      },
+      "startTimestamp": 1768247100,
+      "slug": "cremonese-juventus"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Juventus",
+        "slug": "juventus",
+        "shortName": "Juventus",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 1719001,
+        "nameCode": "JUV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2687,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "يوفنتوس",
+            "bn": "জুভেন্টাস",
+            "hi": "जुवेंटस",
+            "ru": "Ювентус"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14303083": {
+    "id": 14303083,
+    "match_info": {
+      "homeTeam": {
+        "name": "Juventus Next Gen U23",
+        "shortName": "Juventus NG U23",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Ascoli",
+        "shortName": "Ascoli",
+        "color": "#000000",
+        "score": 0
+      },
+      "startTimestamp": 1768656600,
+      "slug": "juventus-next-gen-u23-ascoli"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Juventus Next Gen U23",
+        "slug": "juventus-next-gen",
+        "shortName": "Juventus NG U23",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 16620,
+        "nameCode": "JUV",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Juventus",
+          "slug": "juventus",
+          "shortName": "Juventus",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 1719001,
+          "nameCode": "JUV",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2687,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "يوفنتوس",
+              "bn": "জুভেন্টাস",
+              "hi": "जुवेंटस",
+              "ru": "Ювентус"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "type": 0,
+        "id": 294884,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "يوفنتوس الجيل القادم تحت 23",
+            "hi": "जुवेंटस नेक्स्ट जेन U23",
+            "ru": "Ювентус Некст Джен U23"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 16,
+        "accuratePass": 15,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 12,
+        "totalOwnHalfPasses": 12,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 3,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 2,
+        "duelLost": 5,
+        "duelWon": 8,
+        "challengeLost": 1,
+        "totalContest": 2,
+        "wonContest": 2,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 0,
+        "blockedScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 3,
+        "outfielderBlock": 2,
+        "interceptionWon": 2,
+        "ballRecovery": 7,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "errorLeadToAShot": 1,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 0,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 90,
+        "touches": 29,
+        "rating": 7.3,
+        "possessionLostCtrl": 3,
+        "expectedGoals": 0.13,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 7.3,
+          "alternative": null
+        },
+        "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14303089": {
+    "id": 14303089,
+    "match_info": {
+      "homeTeam": {
+        "name": "Arezzo",
+        "shortName": "Arezzo",
+        "color": "#6c2b2c",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Juventus Next Gen U23",
+        "shortName": "Juventus NG U23",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1769340600,
+      "slug": "juventus-next-gen-u23-arezzo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Juventus Next Gen U23",
+        "slug": "juventus-next-gen",
+        "shortName": "Juventus NG U23",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 16620,
+        "nameCode": "JUV",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Juventus",
+          "slug": "juventus",
+          "shortName": "Juventus",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 1719001,
+          "nameCode": "JUV",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2687,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "يوفنتوس",
+              "bn": "জুভেন্টাস",
+              "hi": "जुवेंटस",
+              "ru": "Ювентус"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "type": 0,
+        "id": 294884,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "يوفنتوس الجيل القادم تحت 23",
+            "hi": "जुवेंटस नेक्स्ट जेन U23",
+            "ru": "Ювентус Некст Джен U23"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 70,
+        "accuratePass": 65,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 46,
+        "totalOwnHalfPasses": 47,
+        "accurateOppositionHalfPasses": 18,
+        "totalOppositionHalfPasses": 22,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 1,
+        "aerialWon": 2,
+        "duelLost": 5,
+        "duelWon": 6,
+        "challengeLost": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "onTargetScoringAttempt": 0,
+        "blockedScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 1,
+        "outfielderBlock": 0,
+        "interceptionWon": 1,
+        "ballRecovery": 8,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 90,
+        "touches": 93,
+        "rating": 7.1,
+        "possessionLostCtrl": 7,
+        "expectedGoals": 0.01,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 7.1,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13981660": {
+    "id": 13981660,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sassuolo",
+        "shortName": "Sassuolo",
+        "color": "#006600",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Inter",
+        "shortName": "Inter",
+        "color": "#1a57cc",
+        "score": 5
+      },
+      "startTimestamp": 1770570000,
+      "slug": "sassuolo-inter"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Sassuolo",
+        "slug": "sassuolo",
+        "shortName": "Sassuolo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 121813,
+        "nameCode": "SAS",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2793,
+        "teamColors": {
+          "primary": "#006600",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ساسولو",
+            "bn": "সাসুওলো",
+            "hi": "ससुओलो",
+            "ru": "Сассуоло"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13981672": {
+    "id": 13981672,
+    "match_info": {
+      "homeTeam": {
+        "name": "Udinese",
+        "shortName": "Udinese",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sassuolo",
+        "shortName": "Sassuolo",
+        "color": "#006600",
+        "score": 2
+      },
+      "startTimestamp": 1771155000,
+      "slug": "sassuolo-udinese"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Sassuolo",
+        "slug": "sassuolo",
+        "shortName": "Sassuolo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 121813,
+        "nameCode": "SAS",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2793,
+        "teamColors": {
+          "primary": "#006600",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ساسولو",
+            "bn": "সাসুওলো",
+            "hi": "ससुओलो",
+            "ru": "Сассуоло"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13981681": {
+    "id": 13981681,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sassuolo",
+        "shortName": "Sassuolo",
+        "color": "#006600",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Hellas Verona",
+        "shortName": "Verona",
+        "color": "#071d7e",
+        "score": 0
+      },
+      "startTimestamp": 1771616700,
+      "slug": "sassuolo-hellas-verona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Sassuolo",
+        "slug": "sassuolo",
+        "shortName": "Sassuolo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 121813,
+        "nameCode": "SAS",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2793,
+        "teamColors": {
+          "primary": "#006600",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ساسولو",
+            "bn": "সাসুওলো",
+            "hi": "ससुओलो",
+            "ru": "Сассуоло"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 1,
+        "accuratePass": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "minutesPlayed": 1,
+        "touches": 1,
+        "expectedAssists": 4.541e-05,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13981689": {
+    "id": 13981689,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sassuolo",
+        "shortName": "Sassuolo",
+        "color": "#006600",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Atalanta",
+        "shortName": "Atalanta",
+        "color": "#0000cc",
+        "score": 1
+      },
+      "startTimestamp": 1772373600,
+      "slug": "sassuolo-atalanta"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Sassuolo",
+        "slug": "sassuolo",
+        "shortName": "Sassuolo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 121813,
+        "nameCode": "SAS",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2793,
+        "teamColors": {
+          "primary": "#006600",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ساسولو",
+            "bn": "সাসুওলো",
+            "hi": "ससुओलो",
+            "ru": "Сассуоло"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13981699": {
+    "id": 13981699,
+    "match_info": {
+      "homeTeam": {
+        "name": "Lazio",
+        "shortName": "Lazio",
+        "color": "#64b6e1",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Sassuolo",
+        "shortName": "Sassuolo",
+        "color": "#006600",
+        "score": 1
+      },
+      "startTimestamp": 1773085500,
+      "slug": "sassuolo-lazio"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Sassuolo",
+        "slug": "sassuolo",
+        "shortName": "Sassuolo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 121813,
+        "nameCode": "SAS",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2793,
+        "teamColors": {
+          "primary": "#006600",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ساسولو",
+            "bn": "সাসুওলো",
+            "hi": "ससुओलो",
+            "ru": "Сассуоло"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13981711": {
+    "id": 13981711,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sassuolo",
+        "shortName": "Sassuolo",
+        "color": "#006600",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Bologna",
+        "shortName": "Bologna",
+        "color": "#003366",
+        "score": 1
+      },
+      "startTimestamp": 1773583200,
+      "slug": "sassuolo-bologna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Sassuolo",
+        "slug": "sassuolo",
+        "shortName": "Sassuolo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 121813,
+        "nameCode": "SAS",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2793,
+        "teamColors": {
+          "primary": "#006600",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ساسولو",
+            "bn": "সাসুওলো",
+            "hi": "ससुओलो",
+            "ru": "Сассуоло"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13981719": {
+    "id": 13981719,
+    "match_info": {
+      "homeTeam": {
+        "name": "Juventus",
+        "shortName": "Juventus",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sassuolo",
+        "shortName": "Sassuolo",
+        "color": "#006600",
+        "score": 1
+      },
+      "startTimestamp": 1774122300,
+      "slug": "sassuolo-juventus"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Sassuolo",
+        "slug": "sassuolo",
+        "shortName": "Sassuolo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 121813,
+        "nameCode": "SAS",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2793,
+        "teamColors": {
+          "primary": "#006600",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ساسولو",
+            "bn": "সাসুওলো",
+            "hi": "ससुओलो",
+            "ru": "Сассуоло"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13981730": {
+    "id": 13981730,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sassuolo",
+        "shortName": "Sassuolo",
+        "color": "#006600",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Cagliari",
+        "shortName": "Cagliari",
+        "color": "#990000",
+        "score": 1
+      },
+      "startTimestamp": 1775307600,
+      "slug": "sassuolo-cagliari"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Sassuolo",
+        "slug": "sassuolo",
+        "shortName": "Sassuolo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 121813,
+        "nameCode": "SAS",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2793,
+        "teamColors": {
+          "primary": "#006600",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ساسولو",
+            "bn": "সাসুওলো",
+            "hi": "ससुओलो",
+            "ru": "Сассуоло"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13981737": {
+    "id": 13981737,
+    "match_info": {
+      "homeTeam": {
+        "name": "Genoa",
+        "shortName": "Genoa",
+        "color": "#000033",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Sassuolo",
+        "shortName": "Sassuolo",
+        "color": "#006600",
+        "score": 1
+      },
+      "startTimestamp": 1775989800,
+      "slug": "sassuolo-genoa"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Sassuolo",
+        "slug": "sassuolo",
+        "shortName": "Sassuolo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 121813,
+        "nameCode": "SAS",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2793,
+        "teamColors": {
+          "primary": "#006600",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ساسولو",
+            "bn": "সাসুওলো",
+            "hi": "ससुओलो",
+            "ru": "Сассуоло"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13980103": {
+    "id": 13980103,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sassuolo",
+        "shortName": "Sassuolo",
+        "color": "#006600",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Como",
+        "shortName": "Como",
+        "color": "#09436b",
+        "score": 1
+      },
+      "startTimestamp": 1776443400,
+      "slug": "sassuolo-como"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Sassuolo",
+        "slug": "sassuolo",
+        "shortName": "Sassuolo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 121813,
+        "nameCode": "SAS",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2793,
+        "teamColors": {
+          "primary": "#006600",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ساسولو",
+            "bn": "সাসুওলো",
+            "hi": "ससुओलो",
+            "ru": "Сассуоло"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13980110": {
+    "id": 13980110,
+    "match_info": {
+      "homeTeam": {
+        "name": "Fiorentina",
+        "shortName": "Fiorentina",
+        "color": "#542baa",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Sassuolo",
+        "shortName": "Sassuolo",
+        "color": "#006600",
+        "score": 0
+      },
+      "startTimestamp": 1777199400,
+      "slug": "sassuolo-fiorentina"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Sassuolo",
+        "slug": "sassuolo",
+        "shortName": "Sassuolo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 121813,
+        "nameCode": "SAS",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2793,
+        "teamColors": {
+          "primary": "#006600",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ساسولو",
+            "bn": "সাসুওলো",
+            "hi": "ससुओलो",
+            "ru": "Сассуоло"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13980087": {
+    "id": 13980087,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sassuolo",
+        "shortName": "Sassuolo",
+        "color": "#006600",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "AC Milan",
+        "shortName": "Milan",
+        "color": "#000000",
+        "score": 0
+      },
+      "startTimestamp": 1777813200,
+      "slug": "sassuolo-milan"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Sassuolo",
+        "slug": "sassuolo",
+        "shortName": "Sassuolo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 121813,
+        "nameCode": "SAS",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2793,
+        "teamColors": {
+          "primary": "#006600",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ساسولو",
+            "bn": "সাসুওলো",
+            "hi": "ससुओलो",
+            "ru": "Сассуоло"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13980073": {
+    "id": 13980073,
+    "match_info": {
+      "homeTeam": {
+        "name": "Torino",
+        "shortName": "Torino",
+        "color": "#6d1b1d",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Sassuolo",
+        "shortName": "Sassuolo",
+        "color": "#006600",
+        "score": 1
+      },
+      "startTimestamp": 1778265900,
+      "slug": "sassuolo-torino"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Sassuolo",
+        "slug": "sassuolo",
+        "shortName": "Sassuolo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 121813,
+        "nameCode": "SAS",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2793,
+        "teamColors": {
+          "primary": "#006600",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ساسولو",
+            "bn": "সাসুওলো",
+            "hi": "ससुओलो",
+            "ru": "Сассуоло"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13980078": {
+    "id": 13980078,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sassuolo",
+        "shortName": "Sassuolo",
+        "color": "#006600",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Lecce",
+        "shortName": "Lecce",
+        "color": "#f6ea00",
+        "score": 3
+      },
+      "startTimestamp": 1779043500,
+      "slug": "sassuolo-lecce"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Sassuolo",
+        "slug": "sassuolo",
+        "shortName": "Sassuolo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 121813,
+        "nameCode": "SAS",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2793,
+        "teamColors": {
+          "primary": "#006600",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ساسولو",
+            "bn": "সাসুওলো",
+            "hi": "ससुओलो",
+            "ru": "Сассуоло"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 78,
+        "accuratePass": 72,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 3,
+        "goalAssist": 1,
+        "accurateOwnHalfPasses": 51,
+        "totalOwnHalfPasses": 55,
+        "accurateOppositionHalfPasses": 21,
+        "totalOppositionHalfPasses": 23,
+        "aerialLost": 1,
+        "aerialWon": 2,
+        "duelLost": 3,
+        "duelWon": 5,
+        "challengeLost": 1,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "bigChanceCreated": 1,
+        "totalClearance": 3,
+        "outfielderBlock": 1,
+        "ballRecovery": 3,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "minutesPlayed": 90,
+        "touches": 89,
+        "rating": 6.8,
+        "possessionLostCtrl": 7,
+        "expectedAssists": 0.0690662,
+        "topSpeed": 32.63,
+        "kilometersCovered": 9.27,
+        "numberOfSprints": 15,
+        "totalBallCarriesDistance": 184.69509226884,
+        "ballCarriesCount": 28,
+        "totalProgression": 78.828076701696,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.4,
+        "dribbleValueNormalized": 0.1,
+        "defensiveValueNormalized": -0.41,
+        "metersCoveredRunningKm": 0.93,
+        "metersCoveredHighSpeedRunningKm": 0.48,
+        "metersCoveredSprintingKm": 0.17,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13980074": {
+    "id": 13980074,
+    "match_info": {
+      "homeTeam": {
+        "name": "Parma",
+        "shortName": "Parma",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sassuolo",
+        "shortName": "Sassuolo",
+        "color": "#006600",
+        "score": 0
+      },
+      "startTimestamp": 1779627600,
+      "slug": "sassuolo-parma"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Sassuolo",
+        "slug": "sassuolo",
+        "shortName": "Sassuolo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 121813,
+        "nameCode": "SAS",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2793,
+        "teamColors": {
+          "primary": "#006600",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ساسولو",
+            "bn": "সাসুওলো",
+            "hi": "ससुओलो",
+            "ru": "Сассуоло"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 17,
+        "accuratePass": 14,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 11,
+        "totalOwnHalfPasses": 13,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 4,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 4,
+        "duelWon": 2,
+        "challengeLost": 1,
+        "totalClearance": 1,
+        "interceptionWon": 2,
+        "ballRecovery": 1,
+        "wasFouled": 1,
+        "fouls": 2,
+        "minutesPlayed": 36,
+        "touches": 22,
+        "rating": 6.2,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 0.00135515,
+        "topSpeed": 30.02,
+        "kilometersCovered": 3.36,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 36.245437569819,
+        "ballCarriesCount": 6,
+        "totalProgression": 7.5483511476342,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.2,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": -0.22,
+        "metersCoveredRunningKm": 0.28,
+        "metersCoveredHighSpeedRunningKm": 0.09,
+        "metersCoveredSprintingKm": 0.02,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16489901": {
+    "id": 16489901,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 7
+      },
+      "awayTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 8
+      },
+      "startTimestamp": 1786123800,
+      "slug": "deportivo-alaves-real-racing-club"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "13981585": {
+    "id": 13981585,
+    "match_info": {
+      "homeTeam": {
+        "name": "Pisa",
+        "shortName": "Pisa",
+        "color": "#4aa5ff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Juventus",
+        "shortName": "Juventus",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1766864700,
+      "slug": "pisa-juventus"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Juventus",
+        "slug": "juventus",
+        "shortName": "Juventus",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 1719001,
+        "nameCode": "JUV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2687,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "يوفنتوس",
+            "bn": "জুভেন্টাস",
+            "hi": "जुवेंटस",
+            "ru": "Ювентус"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13981608": {
+    "id": 13981608,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sassuolo",
+        "shortName": "Sassuolo",
+        "color": "#006600",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Juventus",
+        "shortName": "Juventus",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1767728700,
+      "slug": "sassuolo-juventus"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-felipe",
+        "shortName": "P. Felipe",
+        "position": "D",
+        "jerseyNumber": "44",
+        "height": 190,
+        "userCount": 569,
+        "gender": "M",
+        "sofascoreId": "ekphq4",
+        "id": 1485292,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1085270400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو فيليبي",
+            "ru": "Педро Фелипе"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيليبي",
+            "ru": "П. Фелипе"
+          }
+        }
+      },
+      "team": {
+        "name": "Juventus",
+        "slug": "juventus",
+        "shortName": "Juventus",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 1719001,
+        "nameCode": "JUV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2687,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "يوفنتوس",
+            "bn": "জুভেন্টাস",
+            "hi": "जुवेंटस",
+            "ru": "Ювентус"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

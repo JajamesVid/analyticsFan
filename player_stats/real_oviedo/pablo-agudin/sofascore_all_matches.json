@@ -1,0 +1,2493 @@
+{
+  "14100629": {
+    "id": 14100629,
+    "match_info": {
+      "homeTeam": {
+        "name": "Coruxo FC",
+        "shortName": "Coruxo",
+        "color": "#006633",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Oviedo Vetusta",
+        "shortName": "Real Oviedo Vetusta",
+        "color": "#3300ff",
+        "score": 2
+      },
+      "startTimestamp": 1759076100,
+      "slug": "real-oviedo-vetusta-coruxo-fc"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14843704": {
+    "id": 14843704,
+    "match_info": {
+      "homeTeam": {
+        "name": "Ourense CF",
+        "shortName": "Ourense",
+        "color": "#000000",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 2
+      },
+      "startTimestamp": 1761674400,
+      "slug": "ourense-cf-real-oviedo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 17,
+        "accuratePass": 13,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 12,
+        "aerialLost": 1,
+        "duelLost": 5,
+        "duelWon": 2,
+        "totalContest": 5,
+        "wonContest": 1,
+        "shotOffTarget": 1,
+        "blockedScoringAttempt": 1,
+        "hitWoodwork": 1,
+        "totalClearance": 2,
+        "ballRecovery": 2,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 64,
+        "touches": 29,
+        "rating": 6.1,
+        "possessionLostCtrl": 9,
+        "ratingVersions": {
+          "original": 6.1,
+          "alternative": 6.2
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.19,
+        "passValueNormalized": -0.07,
+        "dribbleValueNormalized": -0.49,
+        "defensiveValueNormalized": -0.09,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083104": {
+    "id": 14083104,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1762200000,
+      "slug": "real-oviedo-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 4,
+        "accuratePass": 2,
+        "goalAssist": 0,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 3,
+        "duelLost": 1,
+        "duelWon": 1,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "blockedScoringAttempt": 1,
+        "ballRecovery": 2,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 8,
+        "touches": 9,
+        "rating": 6.6,
+        "possessionLostCtrl": 4,
+        "expectedGoals": 0.0262,
+        "expectedAssists": 0.00092567,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.6
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.06,
+        "passValueNormalized": -0.03,
+        "dribbleValueNormalized": 0.04,
+        "defensiveValueNormalized": 0.13,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083106": {
+    "id": 14083106,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1762693200,
+      "slug": "real-oviedo-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 2,
+        "accuratePass": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "totalOppositionHalfPasses": 1,
+        "duelLost": 2,
+        "duelWon": 1,
+        "dispossessed": 2,
+        "shotOffTarget": 1,
+        "ballRecovery": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 18,
+        "touches": 7,
+        "rating": 6.5,
+        "possessionLostCtrl": 4,
+        "expectedGoals": 0.009,
+        "expectedAssists": 1.473e-05,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.4
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.04,
+        "passValueNormalized": -0.08,
+        "dribbleValueNormalized": 0.15,
+        "defensiveValueNormalized": 0.15,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083128": {
+    "id": 14083128,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1763902800,
+      "slug": "real-oviedo-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 4,
+        "accuratePass": 1,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 2,
+        "totalOppositionHalfPasses": 2,
+        "duelLost": 1,
+        "totalClearance": 1,
+        "ballRecovery": 1,
+        "unsuccessfulTouch": 2,
+        "penaltyConceded": 1,
+        "fouls": 1,
+        "minutesPlayed": 29,
+        "touches": 13,
+        "rating": 5.9,
+        "possessionLostCtrl": 7,
+        "expectedAssists": 4.753e-05,
+        "totalBallCarriesDistance": 15.827383572385,
+        "ballCarriesCount": 3,
+        "totalProgression": 3.78,
+        "bestBallCarryProgression": 6.93,
+        "ratingVersions": {
+          "original": 5.9,
+          "alternative": 6.1
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.04,
+        "dribbleValueNormalized": -0.21,
+        "defensiveValueNormalized": -0.35,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083135": {
+    "id": 14083135,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1764446400,
+      "slug": "real-oviedo-atletico-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083162": {
+    "id": 14083162,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1764964800,
+      "slug": "real-oviedo-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083179": {
+    "id": 14083179,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1765717200,
+      "slug": "real-oviedo-sevilla"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 2,
+        "accuratePass": 2,
+        "goalAssist": 0,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 2,
+        "duelLost": 1,
+        "challengeLost": 1,
+        "totalClearance": 1,
+        "ballRecovery": 1,
+        "minutesPlayed": 11,
+        "touches": 3,
+        "rating": 6.4,
+        "expectedAssists": 0.00034987,
+        "totalBallCarriesDistance": 9.1036935361423,
+        "ballCarriesCount": 1,
+        "totalProgression": 9.03,
+        "bestBallCarryProgression": 9.03,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.01,
+        "dribbleValueNormalized": -0.09,
+        "defensiveValueNormalized": -0.09,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083192": {
+    "id": 14083192,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 0
+      },
+      "startTimestamp": 1766235600,
+      "slug": "real-oviedo-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083194": {
+    "id": 14083194,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 1
+      },
+      "startTimestamp": 1767547800,
+      "slug": "deportivo-alaves-real-oviedo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083218": {
+    "id": 14083218,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1768050000,
+      "slug": "real-oviedo-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14101467": {
+    "id": 14101467,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Oviedo Vetusta",
+        "shortName": "Real Oviedo Vetusta",
+        "color": "#3300ff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "UD Samano",
+        "shortName": "Samano",
+        "color": "#f86300",
+        "score": 0
+      },
+      "startTimestamp": 1768129200,
+      "slug": "real-oviedo-vetusta-ud-samano"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14083232": {
+    "id": 14083232,
+    "match_info": {
+      "homeTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 2
+      },
+      "startTimestamp": 1768671000,
+      "slug": "real-oviedo-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14101535": {
+    "id": 14101535,
+    "match_info": {
+      "homeTeam": {
+        "name": "SD Sarriana",
+        "shortName": "Sarriana",
+        "color": "#374df5",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Real Oviedo Vetusta",
+        "shortName": "Real Oviedo Vetusta",
+        "color": "#3300ff",
+        "score": 1
+      },
+      "startTimestamp": 1768752000,
+      "slug": "sd-sarriana-real-oviedo-vetusta"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14083117": {
+    "id": 14083117,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1769354100,
+      "slug": "real-oviedo-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083251": {
+    "id": 14083251,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1769864400,
+      "slug": "girona-fc-real-oviedo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083454": {
+    "id": 14083454,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1771160400,
+      "slug": "real-oviedo-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14081792": {
+    "id": 14081792,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 3
+      },
+      "startTimestamp": 1771678800,
+      "slug": "real-oviedo-real-sociedad"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14081795": {
+    "id": 14081795,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1772308800,
+      "slug": "real-oviedo-atletico-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "15534915": {
+    "id": 15534915,
+    "match_info": {
+      "homeTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1772647200,
+      "slug": "real-oviedo-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14081800": {
+    "id": 14081800,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 1
+      },
+      "startTimestamp": 1773086400,
+      "slug": "real-oviedo-espanyol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083627": {
+    "id": 14083627,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1773509400,
+      "slug": "real-oviedo-valencia"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083678": {
+    "id": 14083678,
+    "match_info": {
+      "homeTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 2
+      },
+      "startTimestamp": 1774114200,
+      "slug": "real-oviedo-levante-ud"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 3,
+        "accuratePass": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 3,
+        "aerialWon": 2,
+        "duelLost": 3,
+        "duelWon": 3,
+        "challengeLost": 1,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 3,
+        "fouls": 2,
+        "minutesPlayed": 15,
+        "touches": 10,
+        "rating": 6.4,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 5.27e-06,
+        "totalBallCarriesDistance": 6.7785485909596,
+        "ballCarriesCount": 1,
+        "totalProgression": -5.5003672121159,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.3
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.04,
+        "dribbleValueNormalized": -0.02,
+        "defensiveValueNormalized": -0.12,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14081814": {
+    "id": 14081814,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1775406600,
+      "slug": "real-oviedo-sevilla"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083123": {
+    "id": 14083123,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 3
+      },
+      "startTimestamp": 1776011400,
+      "slug": "real-oviedo-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083282": {
+    "id": 14083282,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 1
+      },
+      "startTimestamp": 1776972600,
+      "slug": "real-oviedo-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 2,
+        "accuratePass": 2,
+        "goalAssist": 0,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 2,
+        "totalCross": 1,
+        "aerialLost": 1,
+        "duelLost": 1,
+        "minutesPlayed": 1,
+        "touches": 3,
+        "possessionLostCtrl": 1,
+        "expectedAssists": 0.00107431,
+        "totalBallCarriesDistance": 13.004813877945,
+        "ballCarriesCount": 1,
+        "totalProgression": 3.5712607348518,
+        "progressiveBallCarriesCount": 0,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083252": {
+    "id": 14083252,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1777212900,
+      "slug": "real-oviedo-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083381": {
+    "id": 14083381,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1777825800,
+      "slug": "real-oviedo-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083649": {
+    "id": 14083649,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1778787000,
+      "slug": "real-oviedo-real-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Agudín",
+        "slug": "pablo-agudin",
+        "shortName": "P. Agudín",
+        "position": "M",
+        "jerseyNumber": "27",
+        "height": 178,
+        "userCount": 73,
+        "gender": "M",
+        "id": 1587199,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1194480000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو أغودين"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. أغودين"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 100042,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 3,
+        "accuratePass": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 2,
+        "totalOppositionHalfPasses": 1,
+        "totalCross": 1,
+        "duelLost": 1,
+        "fouls": 1,
+        "minutesPlayed": 11,
+        "touches": 4,
+        "rating": 6.3,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 1.207e-05,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.3
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.07,
+        "defensiveValueNormalized": -0.07,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

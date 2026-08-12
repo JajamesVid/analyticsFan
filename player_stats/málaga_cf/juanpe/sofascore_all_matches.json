@@ -1,0 +1,3420 @@
+{
+  "14123645": {
+    "id": 14123645,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1754764200,
+      "slug": "malaga-real-betis"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14082838": {
+    "id": 14082838,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Eibar",
+        "shortName": "Eibar",
+        "color": "#003e85",
+        "score": 1
+      },
+      "startTimestamp": 1755365400,
+      "slug": "eibar-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14082845": {
+    "id": 14082845,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad B",
+        "shortName": "Real Sociedad B",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1756063800,
+      "slug": "real-sociedad-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 25,
+        "accuratePass": 19,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 16,
+        "totalOppositionHalfPasses": 20,
+        "aerialWon": 1,
+        "duelLost": 2,
+        "duelWon": 3,
+        "challengeLost": 1,
+        "totalContest": 2,
+        "wonContest": 1,
+        "shotOffTarget": 2,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "minutesPlayed": 23,
+        "touches": 31,
+        "rating": 6.9,
+        "possessionLostCtrl": 7,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 6.9
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.44,
+        "passValueNormalized": 0.14,
+        "dribbleValueNormalized": 0.24,
+        "defensiveValueNormalized": -0.04,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083337": {
+    "id": 14083337,
+    "match_info": {
+      "homeTeam": {
+        "name": "UD Las Palmas",
+        "shortName": "Las Palmas",
+        "color": "#e8f541",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1756661400,
+      "slug": "las-palmas-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 24,
+        "accuratePass": 18,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 3,
+        "goalAssist": 1,
+        "accurateOwnHalfPasses": 9,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 13,
+        "aerialLost": 2,
+        "duelLost": 3,
+        "duelWon": 5,
+        "challengeLost": 1,
+        "blockedScoringAttempt": 2,
+        "totalClearance": 3,
+        "interceptionWon": 2,
+        "ballRecovery": 6,
+        "totalTackle": 4,
+        "wonTackle": 2,
+        "wasFouled": 1,
+        "minutesPlayed": 85,
+        "touches": 43,
+        "rating": 7.2,
+        "possessionLostCtrl": 7,
+        "topSpeed": 29.97,
+        "kilometersCovered": 10.59,
+        "numberOfSprints": 6,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.2,
+          "alternative": 7.4
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.38,
+        "passValueNormalized": 0.19,
+        "dribbleValueNormalized": 0.07,
+        "defensiveValueNormalized": 0.23,
+        "metersCoveredRunningKm": 2.13,
+        "metersCoveredHighSpeedRunningKm": 0.52,
+        "metersCoveredSprintingKm": 0.09,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083576": {
+    "id": 14083576,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Granada",
+        "shortName": "Granada",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "startTimestamp": 1757185200,
+      "slug": "granada-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 49,
+        "accuratePass": 38,
+        "totalLongBalls": 11,
+        "accurateLongBalls": 5,
+        "goalAssist": 1,
+        "accurateOwnHalfPasses": 20,
+        "totalOwnHalfPasses": 21,
+        "accurateOppositionHalfPasses": 18,
+        "totalOppositionHalfPasses": 28,
+        "aerialLost": 6,
+        "aerialWon": 1,
+        "duelLost": 9,
+        "duelWon": 6,
+        "dispossessed": 1,
+        "totalContest": 2,
+        "wonContest": 1,
+        "bigChanceCreated": 1,
+        "totalClearance": 3,
+        "ballRecovery": 5,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 2,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 64,
+        "rating": 7.4,
+        "possessionLostCtrl": 14,
+        "topSpeed": 32.04,
+        "kilometersCovered": 11.3,
+        "numberOfSprints": 11,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 7.4,
+          "alternative": 7.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.65,
+        "dribbleValueNormalized": 0.2,
+        "defensiveValueNormalized": -0.05,
+        "metersCoveredRunningKm": 2.06,
+        "metersCoveredHighSpeedRunningKm": 0.56,
+        "metersCoveredSprintingKm": 0.15,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083609": {
+    "id": 14083609,
+    "match_info": {
+      "homeTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1757781000,
+      "slug": "huesca-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 44,
+        "accuratePass": 30,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 22,
+        "totalOwnHalfPasses": 28,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 16,
+        "aerialLost": 2,
+        "aerialWon": 1,
+        "duelLost": 7,
+        "duelWon": 3,
+        "challengeLost": 3,
+        "onTargetScoringAttempt": 1,
+        "totalClearance": 5,
+        "interceptionWon": 2,
+        "ballRecovery": 6,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "unsuccessfulTouch": 1,
+        "fouls": 2,
+        "minutesPlayed": 79,
+        "touches": 57,
+        "rating": 6.3,
+        "possessionLostCtrl": 15,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.6
+        },
+        "totalShots": 1,
+        "shotValueNormalized": 0.01,
+        "passValueNormalized": -0.13,
+        "dribbleValueNormalized": 0.04,
+        "defensiveValueNormalized": 0.18,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083693": {
+    "id": 14083693,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Cádiz",
+        "shortName": "Cádiz",
+        "color": "#ffff00",
+        "score": 1
+      },
+      "startTimestamp": 1758472200,
+      "slug": "cadiz-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 43,
+        "accuratePass": 35,
+        "totalLongBalls": 8,
+        "accurateLongBalls": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 21,
+        "totalOwnHalfPasses": 22,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 21,
+        "totalCross": 1,
+        "aerialWon": 3,
+        "duelLost": 1,
+        "duelWon": 5,
+        "totalContest": 1,
+        "wonContest": 1,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 5,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "fouls": 1,
+        "minutesPlayed": 71,
+        "touches": 51,
+        "rating": 7.2,
+        "possessionLostCtrl": 9,
+        "topSpeed": 30.22,
+        "kilometersCovered": 8.12,
+        "numberOfSprints": 6,
+        "ratingVersions": {
+          "original": 7.2,
+          "alternative": 7.1
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.09,
+        "passValueNormalized": 0.22,
+        "dribbleValueNormalized": 0.11,
+        "defensiveValueNormalized": 0.16,
+        "metersCoveredRunningKm": 1.46,
+        "metersCoveredHighSpeedRunningKm": 0.32,
+        "metersCoveredSprintingKm": 0.07,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083703": {
+    "id": 14083703,
+    "match_info": {
+      "homeTeam": {
+        "name": "Burgos Club de Fútbol",
+        "shortName": "Burgos",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1759068900,
+      "slug": "burgos-club-de-futbol-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 35,
+        "accuratePass": 20,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 9,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 24,
+        "totalCross": 1,
+        "aerialLost": 2,
+        "aerialWon": 3,
+        "duelLost": 4,
+        "duelWon": 6,
+        "dispossessed": 1,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 5,
+        "totalTackle": 3,
+        "wonTackle": 2,
+        "fouls": 1,
+        "minutesPlayed": 80,
+        "touches": 44,
+        "rating": 6.7,
+        "possessionLostCtrl": 18,
+        "topSpeed": 30.41,
+        "kilometersCovered": 9.05,
+        "numberOfSprints": 11,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.11,
+        "dribbleValueNormalized": 0.28,
+        "defensiveValueNormalized": 0.13,
+        "metersCoveredRunningKm": 1.44,
+        "metersCoveredHighSpeedRunningKm": 0.47,
+        "metersCoveredSprintingKm": 0.13,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083763": {
+    "id": 14083763,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1759681800,
+      "slug": "racing-de-santander-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 53,
+        "accuratePass": 42,
+        "totalLongBalls": 16,
+        "accurateLongBalls": 7,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 27,
+        "totalOwnHalfPasses": 30,
+        "accurateOppositionHalfPasses": 15,
+        "totalOppositionHalfPasses": 23,
+        "aerialWon": 2,
+        "duelLost": 5,
+        "duelWon": 11,
+        "challengeLost": 2,
+        "totalContest": 2,
+        "interceptionWon": 4,
+        "ballRecovery": 8,
+        "totalTackle": 7,
+        "wonTackle": 4,
+        "wasFouled": 2,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 72,
+        "rating": 7.6,
+        "possessionLostCtrl": 13,
+        "topSpeed": 32.61,
+        "kilometersCovered": 10.6,
+        "numberOfSprints": 26,
+        "ratingVersions": {
+          "original": 7.6,
+          "alternative": 7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.1,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": -0.03,
+        "metersCoveredRunningKm": 1.65,
+        "metersCoveredHighSpeedRunningKm": 0.52,
+        "metersCoveredSprintingKm": 0.29,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083783": {
+    "id": 14083783,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 0
+      },
+      "startTimestamp": 1760295600,
+      "slug": "deportivo-la-coruna-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 37,
+        "accuratePass": 31,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 18,
+        "totalOwnHalfPasses": 22,
+        "accurateOppositionHalfPasses": 13,
+        "totalOppositionHalfPasses": 15,
+        "aerialWon": 2,
+        "duelLost": 4,
+        "duelWon": 4,
+        "challengeLost": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalClearance": 5,
+        "outfielderBlock": 1,
+        "interceptionWon": 5,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "fouls": 3,
+        "minutesPlayed": 71,
+        "touches": 55,
+        "rating": 7,
+        "possessionLostCtrl": 6,
+        "topSpeed": 29.24,
+        "kilometersCovered": 8.17,
+        "numberOfSprints": 5,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 7.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.12,
+        "dribbleValueNormalized": 0.22,
+        "defensiveValueNormalized": 0.39,
+        "metersCoveredRunningKm": 1.57,
+        "metersCoveredHighSpeedRunningKm": 0.44,
+        "metersCoveredSprintingKm": 0.07,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083268": {
+    "id": 14083268,
+    "match_info": {
+      "homeTeam": {
+        "name": "Leganés",
+        "shortName": "Leganés",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1760875200,
+      "slug": "leganes-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 50,
+        "accuratePass": 45,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 26,
+        "totalOwnHalfPasses": 27,
+        "accurateOppositionHalfPasses": 19,
+        "totalOppositionHalfPasses": 23,
+        "aerialLost": 1,
+        "aerialWon": 4,
+        "duelLost": 6,
+        "duelWon": 10,
+        "challengeLost": 1,
+        "totalContest": 2,
+        "wonContest": 1,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 1,
+        "totalTackle": 4,
+        "wonTackle": 3,
+        "wasFouled": 1,
+        "fouls": 3,
+        "minutesPlayed": 74,
+        "touches": 62,
+        "rating": 7.5,
+        "possessionLostCtrl": 7,
+        "topSpeed": 32.52,
+        "kilometersCovered": 8.57,
+        "numberOfSprints": 15,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 7.5,
+          "alternative": 7.3
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.29,
+        "dribbleValueNormalized": 0.26,
+        "defensiveValueNormalized": -0.02,
+        "metersCoveredRunningKm": 1.31,
+        "metersCoveredHighSpeedRunningKm": 0.49,
+        "metersCoveredSprintingKm": 0.28,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083305": {
+    "id": 14083305,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "FC Andorra",
+        "shortName": "FC Andorra",
+        "color": "#0000ff",
+        "score": 1
+      },
+      "startTimestamp": 1761483600,
+      "slug": "fc-andorra-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 15,
+        "accuratePass": 8,
+        "totalLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 10,
+        "duelLost": 2,
+        "duelWon": 3,
+        "challengeLost": 1,
+        "totalClearance": 3,
+        "ballRecovery": 4,
+        "totalTackle": 3,
+        "wonTackle": 1,
+        "errorLeadToAShot": 1,
+        "unsuccessfulTouch": 2,
+        "fouls": 1,
+        "minutesPlayed": 38,
+        "touches": 25,
+        "rating": 6.9,
+        "possessionLostCtrl": 9,
+        "topSpeed": 29.07,
+        "kilometersCovered": 5.19,
+        "numberOfSprints": 7,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.02,
+        "dribbleValueNormalized": 0.28,
+        "defensiveValueNormalized": 0.25,
+        "metersCoveredRunningKm": 0.75,
+        "metersCoveredHighSpeedRunningKm": 0.34,
+        "metersCoveredSprintingKm": 0.1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14843679": {
+    "id": 14843679,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Estepona",
+        "shortName": "Estepona",
+        "color": "#374df5",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1761854400,
+      "slug": "cd-estepona-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 57,
+        "accuratePass": 50,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 30,
+        "totalOwnHalfPasses": 30,
+        "accurateOppositionHalfPasses": 20,
+        "totalOppositionHalfPasses": 27,
+        "aerialLost": 1,
+        "duelLost": 6,
+        "duelWon": 2,
+        "challengeLost": 1,
+        "dispossessed": 1,
+        "totalContest": 2,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 1,
+        "ballRecovery": 4,
+        "totalTackle": 2,
+        "unsuccessfulTouch": 2,
+        "fouls": 2,
+        "minutesPlayed": 45,
+        "touches": 71,
+        "rating": 6.7,
+        "possessionLostCtrl": 13,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.7
+        },
+        "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083308": {
+    "id": 14083308,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Castellón",
+        "shortName": "Castellón",
+        "color": "#191f23",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1762104600,
+      "slug": "cd-castellon-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 55,
+        "accuratePass": 43,
+        "totalLongBalls": 11,
+        "accurateLongBalls": 6,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 29,
+        "totalOwnHalfPasses": 32,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 23,
+        "aerialLost": 1,
+        "aerialWon": 4,
+        "duelLost": 5,
+        "duelWon": 13,
+        "challengeLost": 1,
+        "totalContest": 1,
+        "totalClearance": 6,
+        "outfielderBlock": 1,
+        "ballRecovery": 6,
+        "totalTackle": 9,
+        "wonTackle": 4,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 77,
+        "rating": 7.8,
+        "possessionLostCtrl": 13,
+        "topSpeed": 30.95,
+        "kilometersCovered": 10.63,
+        "numberOfSprints": 17,
+        "ratingVersions": {
+          "original": 7.8,
+          "alternative": 7.2
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.19,
+        "dribbleValueNormalized": -0.01,
+        "defensiveValueNormalized": 0.39,
+        "metersCoveredRunningKm": 1.83,
+        "metersCoveredHighSpeedRunningKm": 0.84,
+        "metersCoveredSprintingKm": 0.19,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083339": {
+    "id": 14083339,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Córdoba",
+        "shortName": "Córdoba",
+        "color": "#339900",
+        "score": 2
+      },
+      "startTimestamp": 1762632000,
+      "slug": "cordoba-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 4,
+        "accuratePass": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 4,
+        "duelWon": 1,
+        "ballRecovery": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 10,
+        "touches": 5,
+        "rating": 6.6,
+        "possessionLostCtrl": 2,
+        "topSpeed": 21.06,
+        "kilometersCovered": 0.92,
+        "numberOfSprints": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.04,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": -0.01,
+        "metersCoveredRunningKm": 0.15,
+        "metersCoveredHighSpeedRunningKm": 0.01,
+        "metersCoveredSprintingKm": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083543": {
+    "id": 14083543,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sporting Gijón",
+        "shortName": "Sporting",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1767531600,
+      "slug": "sporting-gijon-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 7,
+        "accuratePass": 7,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 3,
+        "duelWon": 1,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "minutesPlayed": 10,
+        "touches": 9,
+        "rating": 6.8,
+        "topSpeed": 24.6,
+        "kilometersCovered": 1.5,
+        "numberOfSprints": 0,
+        "totalBallCarriesDistance": 47.432820315953,
+        "ballCarriesCount": 5,
+        "totalProgression": 10.185,
+        "bestBallCarryProgression": 13.86,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.02,
+        "dribbleValueNormalized": 0.03,
+        "defensiveValueNormalized": 0.18,
+        "metersCoveredRunningKm": 0.4,
+        "metersCoveredHighSpeedRunningKm": 0.1,
+        "metersCoveredSprintingKm": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083606": {
+    "id": 14083606,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "AD Ceuta",
+        "shortName": "Ceuta",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1768144500,
+      "slug": "ad-ceuta-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083646": {
+    "id": 14083646,
+    "match_info": {
+      "homeTeam": {
+        "name": "Córdoba",
+        "shortName": "Córdoba",
+        "color": "#339900",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1768766400,
+      "slug": "cordoba-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083709": {
+    "id": 14083709,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Burgos Club de Fútbol",
+        "shortName": "Burgos",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1769196600,
+      "slug": "burgos-club-de-futbol-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 3,
+        "accuratePass": 2,
+        "goalAssist": 0,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 3,
+        "duelWon": 1,
+        "ballRecovery": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 8,
+        "touches": 4,
+        "rating": 6.7,
+        "possessionLostCtrl": 1,
+        "topSpeed": 27.26,
+        "kilometersCovered": 0.84,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 37.767153600663,
+        "ballCarriesCount": 2,
+        "totalProgression": 24.465,
+        "bestBallCarryProgression": 29.4,
+        "totalProgressiveBallCarriesDistance": 30.422235289341,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.13,
+        "dribbleValueNormalized": 0.23,
+        "defensiveValueNormalized": 0.13,
+        "metersCoveredRunningKm": 0.14,
+        "metersCoveredHighSpeedRunningKm": 0.1,
+        "metersCoveredSprintingKm": 0.04,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083755": {
+    "id": 14083755,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1770060600,
+      "slug": "mirandes-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 13,
+        "accuratePass": 11,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 11,
+        "aerialWon": 1,
+        "duelWon": 1,
+        "minutesPlayed": 8,
+        "touches": 13,
+        "rating": 6.7,
+        "possessionLostCtrl": 2,
+        "topSpeed": 26.73,
+        "kilometersCovered": 1.57,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 85.464570057347,
+        "ballCarriesCount": 7,
+        "totalProgression": 68.127620841493,
+        "bestBallCarryProgression": 34.088885946373,
+        "totalProgressiveBallCarriesDistance": 38.524174864622,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.14,
+        "dribbleValueNormalized": 0.09,
+        "defensiveValueNormalized": -0.06,
+        "metersCoveredRunningKm": 0.32,
+        "metersCoveredHighSpeedRunningKm": 0.09,
+        "metersCoveredSprintingKm": 0.02,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083776": {
+    "id": 14083776,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Cultural Leonesa",
+        "shortName": "Cultural Leonesa",
+        "color": "#a51400",
+        "score": 1
+      },
+      "startTimestamp": 1770580800,
+      "slug": "cultural-leonesa-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 22,
+        "accuratePass": 15,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 18,
+        "aerialLost": 1,
+        "aerialWon": 3,
+        "duelLost": 1,
+        "duelWon": 5,
+        "shotOffTarget": 1,
+        "totalClearance": 3,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 20,
+        "touches": 28,
+        "rating": 7.1,
+        "possessionLostCtrl": 7,
+        "topSpeed": 28.14,
+        "kilometersCovered": 2.95,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 70.16836076542,
+        "ballCarriesCount": 8,
+        "totalProgression": 54.914700310543,
+        "bestBallCarryProgression": 17.903492326926,
+        "totalProgressiveBallCarriesDistance": 19.976058169719,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 7.1,
+          "alternative": 7
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.12,
+        "passValueNormalized": 0.09,
+        "dribbleValueNormalized": 0.06,
+        "defensiveValueNormalized": 0.18,
+        "metersCoveredRunningKm": 0.42,
+        "metersCoveredHighSpeedRunningKm": 0.14,
+        "metersCoveredSprintingKm": 0.02,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083799": {
+    "id": 14083799,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Sociedad B",
+        "shortName": "Real Sociedad B",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1771270200,
+      "slug": "real-sociedad-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 24,
+        "accuratePass": 18,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 8,
+        "totalOwnHalfPasses": 9,
+        "accurateOppositionHalfPasses": 10,
+        "totalOppositionHalfPasses": 15,
+        "aerialLost": 2,
+        "duelLost": 5,
+        "challengeLost": 1,
+        "ballRecovery": 1,
+        "unsuccessfulTouch": 2,
+        "fouls": 2,
+        "minutesPlayed": 45,
+        "touches": 29,
+        "rating": 6.2,
+        "possessionLostCtrl": 9,
+        "topSpeed": 32.02,
+        "kilometersCovered": 5.59,
+        "numberOfSprints": 11,
+        "totalBallCarriesDistance": 62.839534984799,
+        "ballCarriesCount": 9,
+        "totalProgression": 28.512910873933,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.2,
+          "alternative": 6.3
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.09,
+        "dribbleValueNormalized": 0.09,
+        "defensiveValueNormalized": -0.07,
+        "metersCoveredRunningKm": 0.81,
+        "metersCoveredHighSpeedRunningKm": 0.35,
+        "metersCoveredSprintingKm": 0.11,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083809": {
+    "id": 14083809,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Albacete Balompié",
+        "shortName": "Albacete",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1771790400,
+      "slug": "albacete-balompie-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "goalAssist": 0,
+        "duelLost": 2,
+        "fouls": 2,
+        "minutesPlayed": 10,
+        "touches": 1,
+        "rating": 6.4,
+        "topSpeed": 29.74,
+        "kilometersCovered": 1.09,
+        "numberOfSprints": 4,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "defensiveValueNormalized": -0.01,
+        "metersCoveredRunningKm": 0.22,
+        "metersCoveredHighSpeedRunningKm": 0.08,
+        "metersCoveredSprintingKm": 0.03,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083814": {
+    "id": 14083814,
+    "match_info": {
+      "homeTeam": {
+        "name": "Granada",
+        "shortName": "Granada",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1772299800,
+      "slug": "granada-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083368": {
+    "id": 14083368,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Valladolid",
+        "shortName": "Real Valladolid",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1772913600,
+      "slug": "real-valladolid-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 5,
+        "accuratePass": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 4,
+        "aerialLost": 1,
+        "duelLost": 3,
+        "challengeLost": 1,
+        "fouls": 1,
+        "minutesPlayed": 17,
+        "touches": 6,
+        "rating": 6.4,
+        "possessionLostCtrl": 1,
+        "topSpeed": 27.08,
+        "kilometersCovered": 1.4,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 11.963827518951,
+        "ballCarriesCount": 3,
+        "totalProgression": -8.8392136595573,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.2
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.24,
+        "dribbleValueNormalized": -0.03,
+        "defensiveValueNormalized": -0.11,
+        "metersCoveredRunningKm": 0.33,
+        "metersCoveredHighSpeedRunningKm": 0.09,
+        "metersCoveredSprintingKm": 0.02,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083432": {
+    "id": 14083432,
+    "match_info": {
+      "homeTeam": {
+        "name": "Cádiz",
+        "shortName": "Cádiz",
+        "color": "#ffff00",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1774114200,
+      "slug": "cadiz-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083485": {
+    "id": 14083485,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Leganés",
+        "shortName": "Leganés",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1774719000,
+      "slug": "leganes-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083503": {
+    "id": 14083503,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Andorra",
+        "shortName": "FC Andorra",
+        "color": "#0000ff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1775062800,
+      "slug": "fc-andorra-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083525": {
+    "id": 14083525,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1775320200,
+      "slug": "deportivo-la-coruna-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 39,
+        "accuratePass": 32,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 22,
+        "totalOwnHalfPasses": 25,
+        "accurateOppositionHalfPasses": 10,
+        "totalOppositionHalfPasses": 14,
+        "aerialLost": 1,
+        "duelLost": 3,
+        "duelWon": 2,
+        "blockedScoringAttempt": 2,
+        "totalClearance": 4,
+        "interceptionWon": 2,
+        "ballRecovery": 5,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "errorLeadToAShot": 1,
+        "fouls": 2,
+        "minutesPlayed": 75,
+        "touches": 58,
+        "rating": 6.6,
+        "possessionLostCtrl": 7,
+        "topSpeed": 30.26,
+        "kilometersCovered": 8.25,
+        "numberOfSprints": 9,
+        "totalBallCarriesDistance": 121.35690671619,
+        "ballCarriesCount": 15,
+        "totalProgression": 49.094451827169,
+        "bestBallCarryProgression": 16.17011543086,
+        "totalProgressiveBallCarriesDistance": 16.177004543487,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.5
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.05,
+        "passValueNormalized": 0.14,
+        "dribbleValueNormalized": 0.11,
+        "defensiveValueNormalized": 0.17,
+        "metersCoveredRunningKm": 1.21,
+        "metersCoveredHighSpeedRunningKm": 0.39,
+        "metersCoveredSprintingKm": 0.11,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083556": {
+    "id": 14083556,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "UD Las Palmas",
+        "shortName": "Las Palmas",
+        "color": "#e8f541",
+        "score": 0
+      },
+      "startTimestamp": 1775925000,
+      "slug": "las-palmas-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juanpe",
+        "firstName": "Juan Pedro",
+        "lastName": "Juanpe",
+        "slug": "juanpe",
+        "shortName": "Juanpe",
+        "position": "M",
+        "height": 194,
+        "userCount": 77,
+        "gender": "M",
+        "sofascoreId": "f5xrtb",
+        "id": 828966,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823046400,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          },
+          "shortNameTranslation": {
+            "ar": "خوانبي",
+            "ru": "Хуанпе"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 39,
+        "accuratePass": 35,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 18,
+        "totalOwnHalfPasses": 18,
+        "accurateOppositionHalfPasses": 17,
+        "totalOppositionHalfPasses": 21,
+        "aerialLost": 1,
+        "aerialWon": 2,
+        "duelLost": 5,
+        "duelWon": 9,
+        "dispossessed": 2,
+        "totalContest": 2,
+        "wonContest": 2,
+        "interceptionWon": 3,
+        "ballRecovery": 4,
+        "totalTackle": 5,
+        "wonTackle": 2,
+        "fouls": 2,
+        "minutesPlayed": 48,
+        "touches": 54,
+        "rating": 7.2,
+        "possessionLostCtrl": 7,
+        "topSpeed": 34.34,
+        "kilometersCovered": 5.65,
+        "numberOfSprints": 6,
+        "totalBallCarriesDistance": 72.161104412621,
+        "ballCarriesCount": 8,
+        "totalProgression": 49.582576123073,
+        "bestBallCarryProgression": 26.169999163461,
+        "totalProgressiveBallCarriesDistance": 44.388817688161,
+        "progressiveBallCarriesCount": 2,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.2,
+          "alternative": 7.1
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.16,
+        "dribbleValueNormalized": 0.09,
+        "defensiveValueNormalized": 0.15,
+        "metersCoveredRunningKm": 0.82,
+        "metersCoveredHighSpeedRunningKm": 0.24,
+        "metersCoveredSprintingKm": 0.09,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

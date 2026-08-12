@@ -1,0 +1,961 @@
+{
+  "11772209": {
+    "id": 11772209,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Boiro",
+        "shortName": "Boiro",
+        "color": "#5dabdc",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 4
+      },
+      "startTimestamp": 1698859800,
+      "slug": "cd-boiro-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pau Mascaró",
+        "firstName": "Pau Mascaró",
+        "slug": "pau-mascaro",
+        "shortName": "P. Mascaró",
+        "position": "F",
+        "jerseyNumber": "34",
+        "height": 178,
+        "userCount": 14,
+        "gender": "M",
+        "sofascoreId": "wry7dw",
+        "id": 1595662,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1098230400,
+        "proposedMarketValueRaw": {
+          "value": 320000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "باو ماسكارو",
+            "bn": "পাউ মাসকারো",
+            "hi": "पाऊ मस्कारो",
+            "ru": "Пау Маскаро"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. ماسكارو",
+            "bn": "পি. মাস্কারো",
+            "hi": "पी. मस्कारो",
+            "ru": "П. Маскаро"
+          }
+        }
+      },
+      "team": {
+        "name": "Mallorca",
+        "slug": "mallorca",
+        "shortName": "Mallorca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202209,
+        "nameCode": "MLL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2826,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مايوركا",
+            "bn": "ম্যালোর্কা",
+            "hi": "मल्लोर्का",
+            "ru": "Мальорка"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 4,
+        "accuratePass": 3,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 3,
+        "duelLost": 2,
+        "duelWon": 1,
+        "dispossessed": 1,
+        "totalContest": 2,
+        "wonContest": 1,
+        "shotOffTarget": 2,
+        "onTargetScoringAttempt": 1,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 14,
+        "touches": 11,
+        "rating": 6.7,
+        "possessionLostCtrl": 4,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.7
+        },
+        "totalShots": 3,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "11369416": {
+    "id": 11369416,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 0
+      },
+      "startTimestamp": 1701608400,
+      "slug": "deportivo-alaves-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pau Mascaró",
+        "firstName": "Pau Mascaró",
+        "slug": "pau-mascaro",
+        "shortName": "P. Mascaró",
+        "position": "F",
+        "jerseyNumber": "34",
+        "height": 178,
+        "userCount": 14,
+        "gender": "M",
+        "sofascoreId": "wry7dw",
+        "id": 1595662,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1098230400,
+        "proposedMarketValueRaw": {
+          "value": 320000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "باو ماسكارو",
+            "bn": "পাউ মাসকারো",
+            "hi": "पाऊ मस्कारो",
+            "ru": "Пау Маскаро"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. ماسكارو",
+            "bn": "পি. মাস্কারো",
+            "hi": "पी. मस्कारो",
+            "ru": "П. Маскаро"
+          }
+        }
+      },
+      "team": {
+        "name": "Mallorca",
+        "slug": "mallorca",
+        "shortName": "Mallorca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202209,
+        "nameCode": "MLL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2826,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مايوركا",
+            "bn": "ম্যালোর্কা",
+            "hi": "मल्लोर्का",
+            "ru": "Мальорка"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "11836706": {
+    "id": 11836706,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valle de Egües",
+        "shortName": "Valle de Egües",
+        "color": "#0000ff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "startTimestamp": 1701885600,
+      "slug": "valle-de-egues-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pau Mascaró",
+        "firstName": "Pau Mascaró",
+        "slug": "pau-mascaro",
+        "shortName": "P. Mascaró",
+        "position": "F",
+        "jerseyNumber": "34",
+        "height": 178,
+        "userCount": 14,
+        "gender": "M",
+        "sofascoreId": "wry7dw",
+        "id": 1595662,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1098230400,
+        "proposedMarketValueRaw": {
+          "value": 320000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "باو ماسكارو",
+            "bn": "পাউ মাসকারো",
+            "hi": "पाऊ मस्कारो",
+            "ru": "Пау Маскаро"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. ماسكارو",
+            "bn": "পি. মাস্কারো",
+            "hi": "पी. मस्कारो",
+            "ru": "П. Маскаро"
+          }
+        }
+      },
+      "team": {
+        "name": "Mallorca",
+        "slug": "mallorca",
+        "shortName": "Mallorca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202209,
+        "nameCode": "MLL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2826,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مايوركا",
+            "bn": "ম্যালোর্কা",
+            "hi": "मल्लोर्का",
+            "ru": "Мальорка"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 6,
+        "accuratePass": 6,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 4,
+        "duelLost": 1,
+        "onTargetScoringAttempt": 1,
+        "fouls": 1,
+        "minutesPlayed": 21,
+        "touches": 7,
+        "rating": 6.8,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.8
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "11368756": {
+    "id": 11368756,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1707664500,
+      "slug": "mallorca-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pau Mascaró",
+        "firstName": "Pau Mascaró",
+        "slug": "pau-mascaro",
+        "shortName": "P. Mascaró",
+        "position": "F",
+        "jerseyNumber": "34",
+        "height": 178,
+        "userCount": 14,
+        "gender": "M",
+        "sofascoreId": "wry7dw",
+        "id": 1595662,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1098230400,
+        "proposedMarketValueRaw": {
+          "value": 320000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "باو ماسكارو",
+            "bn": "পাউ মাসকারো",
+            "hi": "पाऊ मस्कारो",
+            "ru": "Пау Маскаро"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. ماسكارو",
+            "bn": "পি. মাস্কারো",
+            "hi": "पी. मस्कारो",
+            "ru": "П. Маскаро"
+          }
+        }
+      },
+      "team": {
+        "name": "Mallorca",
+        "slug": "mallorca",
+        "shortName": "Mallorca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202209,
+        "nameCode": "MLL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2826,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مايوركا",
+            "bn": "ম্যালোর্কা",
+            "hi": "मल्लोर्का",
+            "ru": "Мальорка"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "11368626": {
+    "id": 11368626,
+    "match_info": {
+      "homeTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "startTimestamp": 1715707800,
+      "slug": "mallorca-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pau Mascaró",
+        "firstName": "Pau Mascaró",
+        "slug": "pau-mascaro",
+        "shortName": "P. Mascaró",
+        "position": "F",
+        "jerseyNumber": "34",
+        "height": 178,
+        "userCount": 14,
+        "gender": "M",
+        "sofascoreId": "wry7dw",
+        "id": 1595662,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1098230400,
+        "proposedMarketValueRaw": {
+          "value": 320000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "باو ماسكارو",
+            "bn": "পাউ মাসকারো",
+            "hi": "पाऊ मस्कारो",
+            "ru": "Пау Маскаро"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. ماسكارو",
+            "bn": "পি. মাস্কারো",
+            "hi": "पी. मस्कारो",
+            "ru": "П. Маскаро"
+          }
+        }
+      },
+      "team": {
+        "name": "Mallorca",
+        "slug": "mallorca",
+        "shortName": "Mallorca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202209,
+        "nameCode": "MLL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2826,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مايوركا",
+            "bn": "ম্যালোর্কা",
+            "hi": "मल्लोर्का",
+            "ru": "Мальорка"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "12604081": {
+    "id": 12604081,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca B",
+        "shortName": "Mallorca B",
+        "color": "#ff0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "UE Sant Andreu",
+        "shortName": "Sant Andreu",
+        "color": "#f5d300",
+        "score": 3
+      },
+      "startTimestamp": 1742727600,
+      "slug": "mallorca-ue-sant-andreu"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14100593": {
+    "id": 14100593,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Ibiza Islas Pitiusas",
+        "shortName": "Ibiza Islas Pitiusas",
+        "color": "#ff0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "UE Porreres",
+        "shortName": "UE Porreres",
+        "color": "#374df5",
+        "score": 1
+      },
+      "startTimestamp": 1758448800,
+      "slug": "ue-porreres-cd-ibiza-islas-pitiusas"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14100946": {
+    "id": 14100946,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia Mestalla U21",
+        "shortName": "Valencia B U21",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "UE Porreres",
+        "shortName": "UE Porreres",
+        "color": "#374df5",
+        "score": 1
+      },
+      "startTimestamp": 1761476400,
+      "slug": "ue-porreres-valencia-mestalla-u21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14101098": {
+    "id": 14101098,
+    "match_info": {
+      "homeTeam": {
+        "name": "UE Porreres",
+        "shortName": "UE Porreres",
+        "color": "#374df5",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "CD Castellón B",
+        "shortName": "CD Castellón B",
+        "color": "#374df5",
+        "score": 3
+      },
+      "startTimestamp": 1763290800,
+      "slug": "ue-porreres-cd-castellon"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14101314": {
+    "id": 14101314,
+    "match_info": {
+      "homeTeam": {
+        "name": "UE Porreres",
+        "shortName": "UE Porreres",
+        "color": "#374df5",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "CE Andratx",
+        "shortName": "CE ",
+        "color": "#00ffff",
+        "score": 0
+      },
+      "startTimestamp": 1765710000,
+      "slug": "ue-porreres-ce-andratx"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14101688": {
+    "id": 14101688,
+    "match_info": {
+      "homeTeam": {
+        "name": "Rayo Cantabria",
+        "shortName": "Rayo Cantabria",
+        "color": "#374df5",
+        "score": 7
+      },
+      "awayTeam": {
+        "name": "UD Samano",
+        "shortName": "Samano",
+        "color": "#f86300",
+        "score": 0
+      },
+      "startTimestamp": 1770548400,
+      "slug": "ud-samano-rayo-cantabria"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14101751": {
+    "id": 14101751,
+    "match_info": {
+      "homeTeam": {
+        "name": "Bergantiños FC",
+        "shortName": "Bergantiños",
+        "color": "#c7171a",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Rayo Cantabria",
+        "shortName": "Rayo Cantabria",
+        "color": "#374df5",
+        "score": 4
+      },
+      "startTimestamp": 1771171200,
+      "slug": "bergantinos-fc-rayo-cantabria"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14101816": {
+    "id": 14101816,
+    "match_info": {
+      "homeTeam": {
+        "name": "Unión Deportiva Ourense",
+        "shortName": "UD Ourense",
+        "color": "#ff0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Rayo Cantabria",
+        "shortName": "Rayo Cantabria",
+        "color": "#374df5",
+        "score": 3
+      },
+      "startTimestamp": 1771776000,
+      "slug": "union-deportiva-ourense-rayo-cantabria"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14102084": {
+    "id": 14102084,
+    "match_info": {
+      "homeTeam": {
+        "name": "Burgos Promesas",
+        "shortName": "Burgos Promesas",
+        "color": "#ff8c00",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Rayo Cantabria",
+        "shortName": "Rayo Cantabria",
+        "color": "#374df5",
+        "score": 4
+      },
+      "startTimestamp": 1774109700,
+      "slug": "burgos-promesas-rayo-cantabria"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14102159": {
+    "id": 14102159,
+    "match_info": {
+      "homeTeam": {
+        "name": "Salamanca UDS",
+        "shortName": "Salamanca",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Cantabria",
+        "shortName": "Rayo Cantabria",
+        "color": "#374df5",
+        "score": 2
+      },
+      "startTimestamp": 1775401200,
+      "slug": "salamanca-uds-rayo-cantabria"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14102210": {
+    "id": 14102210,
+    "match_info": {
+      "homeTeam": {
+        "name": "Rayo Cantabria",
+        "shortName": "Rayo Cantabria",
+        "color": "#374df5",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Atlético Astorga",
+        "shortName": "Atlético Astorga",
+        "color": "#007840",
+        "score": 2
+      },
+      "startTimestamp": 1775989800,
+      "slug": "atletico-astorga-fc-rayo-cantabria"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14102314": {
+    "id": 14102314,
+    "match_info": {
+      "homeTeam": {
+        "name": "Rayo Cantabria",
+        "shortName": "Rayo Cantabria",
+        "color": "#374df5",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Real Ávila CF",
+        "shortName": "Real Ávila",
+        "color": "#ff0000",
+        "score": 1
+      },
+      "startTimestamp": 1777197600,
+      "slug": "real-avila-cf-rayo-cantabria"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14102357": {
+    "id": 14102357,
+    "match_info": {
+      "homeTeam": {
+        "name": "SD Sarriana",
+        "shortName": "Sarriana",
+        "color": "#374df5",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Rayo Cantabria",
+        "shortName": "Rayo Cantabria",
+        "color": "#374df5",
+        "score": 4
+      },
+      "startTimestamp": 1777802400,
+      "slug": "sd-sarriana-rayo-cantabria"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "16407744": {
+    "id": 16407744,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1784390400,
+      "slug": "real-racing-club-real-sociedad"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "16408295": {
+    "id": 16408295,
+    "match_info": {
+      "homeTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1784914200,
+      "slug": "real-racing-club-osasuna"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "16408296": {
+    "id": 16408296,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 3
+      },
+      "startTimestamp": 1785344400,
+      "slug": "real-racing-club-athletic-club"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "16489904": {
+    "id": 16489904,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Sporting Gijón",
+        "shortName": "Sporting",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786095000,
+      "slug": "sporting-gijon-real-racing-club"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "16489901": {
+    "id": 16489901,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 7
+      },
+      "awayTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 8
+      },
+      "startTimestamp": 1786123800,
+      "slug": "deportivo-alaves-real-racing-club"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  }
+}

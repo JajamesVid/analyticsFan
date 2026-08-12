@@ -1,0 +1,2826 @@
+[
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Barcelona",
+        "abreviatura": "BAR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/3.png"
+      },
+      "visitante": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      }
+    },
+    "resultado": "3-0",
+    "fecha": "2026-02-07",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20295-barcelona-mallorca",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083269,
+      "match_info": {
+        "homeTeam": {
+          "name": "FC Barcelona",
+          "shortName": "Barcelona",
+          "color": "#154284",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 0
+        },
+        "startTimestamp": 1770477300,
+        "slug": "mallorca-barcelona",
+        "fecha_normalizada": "2026-02-07"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Zito Luvumbo",
+          "slug": "zito-luvumbo",
+          "shortName": "Z. Luvumbo",
+          "position": "F",
+          "jerseyNumber": "77",
+          "height": 171,
+          "userCount": 7439,
+          "gender": "M",
+          "sofascoreId": "LuvumboZito",
+          "id": 1000150,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1015632000,
+          "proposedMarketValueRaw": {
+            "value": 3100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "زيتو لوفومبو",
+              "bn": "জিটো লুভুম্বো",
+              "hi": "ज़ीटो लुवुम्बो",
+              "ru": "Зито Лувумбо"
+            },
+            "shortNameTranslation": {
+              "ar": "ز. لوفومبو",
+              "bn": "জেড. লুভুম্বো",
+              "hi": "ज़ेड. लुवुम्बो",
+              "ru": "З. Лувумбо"
+            }
+          }
+        },
+        "team": {
+          "name": "Mallorca",
+          "slug": "mallorca",
+          "shortName": "Mallorca",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 201002,
+          "nameCode": "MLL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2826,
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مايوركا",
+              "bn": "ম্যালোর্কা",
+              "hi": "मल्लोर्का",
+              "ru": "Мальорка"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      },
+      "visitante": {
+        "nombre": "Betis",
+        "abreviatura": "BET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/4.png"
+      }
+    },
+    "resultado": "1-2",
+    "fecha": "2026-02-15",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20308-mallorca-betis",
+    "puntuaciones": {
+      "picas": 2,
+      "marca": 1,
+      "cope": 6.0,
+      "sofascore": 6.5,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 3.0,
+        "comunio": 3.0,
+        "modo-picas": 6.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 4.0,
+        "biwenger-stats": 2.0,
+        "futmondo-prensa": 4.0,
+        "futmondo-mixto-as": 6.0,
+        "futmondo-stats": 2.0,
+        "futmondo-mixto": 3.8,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 3.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 1.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 2.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 6.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 1.0,
+        "stat-precision-pases": 50.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 8.0,
+        "stat-pases-completados": 4.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083509,
+      "match_info": {
+        "homeTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Real Betis",
+          "shortName": "Real Betis",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "startTimestamp": 1771185600,
+        "slug": "mallorca-real-betis",
+        "fecha_normalizada": "2026-02-15"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Zito Luvumbo",
+          "slug": "zito-luvumbo",
+          "shortName": "Z. Luvumbo",
+          "position": "F",
+          "jerseyNumber": "77",
+          "height": 171,
+          "userCount": 7439,
+          "gender": "M",
+          "sofascoreId": "LuvumboZito",
+          "id": 1000150,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1015632000,
+          "proposedMarketValueRaw": {
+            "value": 3100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "زيتو لوفومبو",
+              "bn": "জিটো লুভুম্বো",
+              "hi": "ज़ीटो लुवुम्बो",
+              "ru": "Зито Лувумбо"
+            },
+            "shortNameTranslation": {
+              "ar": "ز. لوفومبو",
+              "bn": "জেড. লুভুম্বো",
+              "hi": "ज़ेड. लुवुम्बो",
+              "ru": "З. Лувумбо"
+            }
+          }
+        },
+        "team": {
+          "name": "Mallorca",
+          "slug": "mallorca",
+          "shortName": "Mallorca",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 201002,
+          "nameCode": "MLL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2826,
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مايوركا",
+              "bn": "ম্যালোর্কা",
+              "hi": "मल्लोर्का",
+              "ru": "Мальорка"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 8,
+          "accuratePass": 4,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 1,
+          "totalOwnHalfPasses": 1,
+          "accurateOppositionHalfPasses": 3,
+          "totalOppositionHalfPasses": 7,
+          "totalCross": 1,
+          "aerialLost": 1,
+          "duelLost": 2,
+          "duelWon": 2,
+          "totalContest": 1,
+          "ballRecovery": 2,
+          "wasFouled": 2,
+          "totalOffside": 1,
+          "minutesPlayed": 45,
+          "touches": 13,
+          "rating": 6.5,
+          "possessionLostCtrl": 6,
+          "expectedAssists": 0.00109381,
+          "topSpeed": 29.32,
+          "kilometersCovered": 5.75,
+          "numberOfSprints": 8,
+          "totalBallCarriesDistance": 60.475563179031,
+          "ballCarriesCount": 5,
+          "totalProgression": 42.306100490686,
+          "bestBallCarryProgression": 18.180112324178,
+          "totalProgressiveBallCarriesDistance": 37.415037021429,
+          "progressiveBallCarriesCount": 2,
+          "ratingVersions": {
+            "original": 6.5,
+            "alternative": 6.6
+          },
+          "totalShots": 0,
+          "passValueNormalized": -0.15,
+          "dribbleValueNormalized": 0.22,
+          "defensiveValueNormalized": 0,
+          "metersCoveredRunningKm": 0.74,
+          "metersCoveredHighSpeedRunningKm": 0.37,
+          "metersCoveredSprintingKm": 0.1,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      }
+    },
+    "resultado": "2-0",
+    "fecha": "2026-02-22",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20316-celta-mallorca",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083577,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 0
+        },
+        "startTimestamp": 1771781400,
+        "slug": "mallorca-celta-vigo",
+        "fecha_normalizada": "2026-02-22"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Zito Luvumbo",
+          "slug": "zito-luvumbo",
+          "shortName": "Z. Luvumbo",
+          "position": "F",
+          "jerseyNumber": "77",
+          "height": 171,
+          "userCount": 7439,
+          "gender": "M",
+          "sofascoreId": "LuvumboZito",
+          "id": 1000150,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1015632000,
+          "proposedMarketValueRaw": {
+            "value": 3100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "زيتو لوفومبو",
+              "bn": "জিটো লুভুম্বো",
+              "hi": "ज़ीटो लुवुम्बो",
+              "ru": "Зито Лувумбо"
+            },
+            "shortNameTranslation": {
+              "ar": "ز. لوفومبو",
+              "bn": "জেড. লুভুম্বো",
+              "hi": "ज़ेड. लुवुम्बो",
+              "ru": "З. Лувумбо"
+            }
+          }
+        },
+        "team": {
+          "name": "Mallorca",
+          "slug": "mallorca",
+          "shortName": "Mallorca",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 201002,
+          "nameCode": "MLL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2826,
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مايوركا",
+              "bn": "ম্যালোর্কা",
+              "hi": "मल्लोर्का",
+              "ru": "Мальорка"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      },
+      "visitante": {
+        "nombre": "Real Sociedad",
+        "abreviatura": "RSO",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
+      }
+    },
+    "resultado": "0-1",
+    "fecha": "2026-02-28",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20327-mallorca-real-sociedad",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 6.0,
+      "sofascore": 6.7,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 3.0,
+        "comunio": 4.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 3.0,
+        "biwenger-stats": 1.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 3.0,
+        "futmondo-mixto": 3.4,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 1.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 1.0,
+        "stat-faltas-recibidas": 2.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 3.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 2.0,
+        "stat-precision-pases": 100.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 1.0,
+        "stat-pases-completados": 1.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14081818,
+      "match_info": {
+        "homeTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 0
+        },
+        "awayTeam": {
+          "name": "Real Sociedad",
+          "shortName": "Real Sociedad",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1772299800,
+        "slug": "mallorca-real-sociedad",
+        "fecha_normalizada": "2026-02-28"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Zito Luvumbo",
+          "slug": "zito-luvumbo",
+          "shortName": "Z. Luvumbo",
+          "position": "F",
+          "jerseyNumber": "77",
+          "height": 171,
+          "userCount": 7439,
+          "gender": "M",
+          "sofascoreId": "LuvumboZito",
+          "id": 1000150,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1015632000,
+          "proposedMarketValueRaw": {
+            "value": 3100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "زيتو لوفومبو",
+              "bn": "জিটো লুভুম্বো",
+              "hi": "ज़ीटो लुवुम्बो",
+              "ru": "Зито Лувумбо"
+            },
+            "shortNameTranslation": {
+              "ar": "ز. لوفومبو",
+              "bn": "জেড. লুভুম্বো",
+              "hi": "ज़ेड. लुवुम्बो",
+              "ru": "З. Лувумбо"
+            }
+          }
+        },
+        "team": {
+          "name": "Mallorca",
+          "slug": "mallorca",
+          "shortName": "Mallorca",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 201002,
+          "nameCode": "MLL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2826,
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مايوركا",
+              "bn": "ম্যালোর্কা",
+              "hi": "मल्लोर्का",
+              "ru": "Мальорка"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 1,
+          "accuratePass": 1,
+          "goalAssist": 0,
+          "accurateOppositionHalfPasses": 1,
+          "totalOppositionHalfPasses": 1,
+          "totalCross": 2,
+          "accurateCross": 1,
+          "aerialLost": 1,
+          "duelLost": 2,
+          "duelWon": 3,
+          "dispossessed": 1,
+          "totalContest": 1,
+          "wonContest": 1,
+          "unsuccessfulTouch": 1,
+          "wasFouled": 2,
+          "minutesPlayed": 21,
+          "touches": 11,
+          "rating": 6.7,
+          "possessionLostCtrl": 3,
+          "expectedAssists": 0.0014971,
+          "topSpeed": 30.29,
+          "kilometersCovered": 2.88,
+          "numberOfSprints": 6,
+          "totalBallCarriesDistance": 50.505898983743,
+          "ballCarriesCount": 5,
+          "totalProgression": 41.532985325129,
+          "bestBallCarryProgression": 13.708181110906,
+          "totalProgressiveBallCarriesDistance": 34.634459079943,
+          "progressiveBallCarriesCount": 2,
+          "ratingVersions": {
+            "original": 6.7,
+            "alternative": 6.7
+          },
+          "totalShots": 0,
+          "passValueNormalized": -0.07,
+          "dribbleValueNormalized": 0.17,
+          "defensiveValueNormalized": 0,
+          "metersCoveredRunningKm": 0.39,
+          "metersCoveredHighSpeedRunningKm": 0.19,
+          "metersCoveredSprintingKm": 0.09,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Osasuna",
+        "abreviatura": "OSA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
+      },
+      "visitante": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      }
+    },
+    "resultado": "2-2",
+    "fecha": "2026-03-07",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20339-osasuna-mallorca",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14081805,
+      "match_info": {
+        "homeTeam": {
+          "name": "Osasuna",
+          "shortName": "Osasuna",
+          "color": "#cc0000",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 2
+        },
+        "startTimestamp": 1772888400,
+        "slug": "mallorca-osasuna",
+        "fecha_normalizada": "2026-03-07"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Zito Luvumbo",
+          "slug": "zito-luvumbo",
+          "shortName": "Z. Luvumbo",
+          "position": "F",
+          "jerseyNumber": "77",
+          "height": 171,
+          "userCount": 7439,
+          "gender": "M",
+          "sofascoreId": "LuvumboZito",
+          "id": 1000150,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1015632000,
+          "proposedMarketValueRaw": {
+            "value": 3100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "زيتو لوفومبو",
+              "bn": "জিটো লুভুম্বো",
+              "hi": "ज़ीटो लुवुम्बो",
+              "ru": "Зито Лувумбо"
+            },
+            "shortNameTranslation": {
+              "ar": "ز. لوفومبو",
+              "bn": "জেড. লুভুম্বো",
+              "hi": "ज़ेड. लुवुम्बो",
+              "ru": "З. Лувумбо"
+            }
+          }
+        },
+        "team": {
+          "name": "Mallorca",
+          "slug": "mallorca",
+          "shortName": "Mallorca",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 201002,
+          "nameCode": "MLL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2826,
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مايوركا",
+              "bn": "ম্যালোর্কা",
+              "hi": "मल्लोर्का",
+              "ru": "Мальорка"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      },
+      "visitante": {
+        "nombre": "Espanyol",
+        "abreviatura": "ESP",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
+      }
+    },
+    "resultado": "2-1",
+    "fecha": "2026-03-15",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20347-mallorca-espanyol",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 1,
+      "cope": 7.0,
+      "sofascore": 6.5,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 7.0,
+        "comunio": 3.0,
+        "scale1": 0.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 1.0,
+        "biwenger-stats": 1.0,
+        "futmondo-prensa": 1.0,
+        "futmondo-mixto-as": 0.0,
+        "futmondo-stats": 5.0,
+        "futmondo-mixto": 4.7,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 0.0,
+        "mister-mixto": 1.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 2.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 1.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 1.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 1.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 2.0,
+        "stat-tiros-totales": 2.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 50.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 4.0,
+        "stat-pases-completados": 2.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083642,
+      "match_info": {
+        "homeTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Espanyol",
+          "shortName": "Espanyol",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1773579600,
+        "slug": "mallorca-espanyol",
+        "fecha_normalizada": "2026-03-15"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Zito Luvumbo",
+          "slug": "zito-luvumbo",
+          "shortName": "Z. Luvumbo",
+          "position": "F",
+          "jerseyNumber": "77",
+          "height": 171,
+          "userCount": 7439,
+          "gender": "M",
+          "sofascoreId": "LuvumboZito",
+          "id": 1000150,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1015632000,
+          "proposedMarketValueRaw": {
+            "value": 3100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "زيتو لوفومبو",
+              "bn": "জিটো লুভুম্বো",
+              "hi": "ज़ीटो लुवुम्बो",
+              "ru": "Зито Лувумбо"
+            },
+            "shortNameTranslation": {
+              "ar": "ز. لوفومبو",
+              "bn": "জেড. লুভুম্বো",
+              "hi": "ज़ेड. लुवुम्बो",
+              "ru": "З. Лувумбо"
+            }
+          }
+        },
+        "team": {
+          "name": "Mallorca",
+          "slug": "mallorca",
+          "shortName": "Mallorca",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 201002,
+          "nameCode": "MLL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2826,
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مايوركا",
+              "bn": "ম্যালোর্কা",
+              "hi": "मल्लोर्का",
+              "ru": "Мальорка"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 4,
+          "accuratePass": 2,
+          "totalLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOppositionHalfPasses": 2,
+          "totalOppositionHalfPasses": 4,
+          "duelWon": 1,
+          "onTargetScoringAttempt": 2,
+          "wasFouled": 1,
+          "minutesPlayed": 17,
+          "touches": 8,
+          "rating": 6.5,
+          "possessionLostCtrl": 2,
+          "expectedGoals": 0.0445,
+          "expectedGoalsOnTarget": 0.2053,
+          "expectedAssists": 0.00100723,
+          "topSpeed": 29.14,
+          "kilometersCovered": 1.67,
+          "numberOfSprints": 5,
+          "totalBallCarriesDistance": 66.270164917699,
+          "ballCarriesCount": 5,
+          "totalProgression": 39.513442568764,
+          "bestBallCarryProgression": 22.517178866481,
+          "totalProgressiveBallCarriesDistance": 47.888264271106,
+          "progressiveBallCarriesCount": 3,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 6.5,
+            "alternative": 7.1
+          },
+          "totalShots": 2,
+          "shotValueNormalized": -0.39,
+          "passValueNormalized": -0.03,
+          "dribbleValueNormalized": 0.15,
+          "defensiveValueNormalized": 0.13,
+          "metersCoveredRunningKm": 0.25,
+          "metersCoveredHighSpeedRunningKm": 0.17,
+          "metersCoveredSprintingKm": 0.04,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      },
+      "visitante": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      }
+    },
+    "resultado": "2-1",
+    "fecha": "2026-03-21",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20356-elche-mallorca",
+    "puntuaciones": {
+      "picas": 2,
+      "marca": 1,
+      "cope": 7.0,
+      "sofascore": 6.8,
+      "relevo": 4.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 9.0,
+        "futbolfantasy-rpg": 11.0,
+        "comunio": 5.0,
+        "modo-picas": 6.0,
+        "biwenger-sofascore": 5.0,
+        "biwenger-social": 3.0,
+        "biwenger-as-sofascore": 6.0,
+        "biwenger-stats": 6.0,
+        "futmondo-prensa": 6.0,
+        "futmondo-mixto-as": 6.0,
+        "futmondo-stats": 10.0,
+        "futmondo-mixto": 10.1,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 6.0,
+        "marca-sofascore": 4.0,
+        "mister-cronistas-md": 6.0,
+        "mister-mixto": 5.0,
+        "mister-mixto-2": 4.0,
+        "mister-sofascore": 4.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 1.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 1.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 3.0,
+        "stat-regates-exito": 4.0,
+        "stat-faltas-recibidas": 2.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 10.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 84.6,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 13.0,
+        "stat-pases-completados": 11.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083668,
+      "match_info": {
+        "homeTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 1
+        },
+        "startTimestamp": 1774098000,
+        "slug": "elche-mallorca",
+        "fecha_normalizada": "2026-03-21"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Zito Luvumbo",
+          "slug": "zito-luvumbo",
+          "shortName": "Z. Luvumbo",
+          "position": "F",
+          "jerseyNumber": "77",
+          "height": 171,
+          "userCount": 7439,
+          "gender": "M",
+          "sofascoreId": "LuvumboZito",
+          "id": 1000150,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1015632000,
+          "proposedMarketValueRaw": {
+            "value": 3100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "زيتو لوفومبو",
+              "bn": "জিটো লুভুম্বো",
+              "hi": "ज़ीटो लुवुम्बो",
+              "ru": "Зито Лувумбо"
+            },
+            "shortNameTranslation": {
+              "ar": "ز. لوفومبو",
+              "bn": "জেড. লুভুম্বো",
+              "hi": "ज़ेड. लुवुम्बो",
+              "ru": "З. Лувумбо"
+            }
+          }
+        },
+        "team": {
+          "name": "Mallorca",
+          "slug": "mallorca",
+          "shortName": "Mallorca",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 201002,
+          "nameCode": "MLL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2826,
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مايوركا",
+              "bn": "ম্যালোর্কা",
+              "hi": "मल्लोर्का",
+              "ru": "Мальорка"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 13,
+          "accuratePass": 11,
+          "goalAssist": 1,
+          "accurateOwnHalfPasses": 2,
+          "totalOwnHalfPasses": 2,
+          "accurateOppositionHalfPasses": 9,
+          "totalOppositionHalfPasses": 11,
+          "duelLost": 4,
+          "duelWon": 6,
+          "dispossessed": 1,
+          "totalContest": 6,
+          "wonContest": 4,
+          "onTargetScoringAttempt": 1,
+          "ballRecovery": 1,
+          "unsuccessfulTouch": 4,
+          "wasFouled": 2,
+          "fouls": 1,
+          "minutesPlayed": 65,
+          "touches": 29,
+          "rating": 6.8,
+          "possessionLostCtrl": 10,
+          "expectedGoals": 0.0365,
+          "expectedGoalsOnTarget": 0.1131,
+          "expectedAssists": 0.0654986,
+          "topSpeed": 32.21,
+          "kilometersCovered": 7.14,
+          "numberOfSprints": 16,
+          "totalBallCarriesDistance": 121.76362651578,
+          "ballCarriesCount": 12,
+          "totalProgression": 91.475446944371,
+          "bestBallCarryProgression": 18.96577282909,
+          "totalProgressiveBallCarriesDistance": 62.926735008052,
+          "progressiveBallCarriesCount": 4,
+          "keyPass": 3,
+          "ratingVersions": {
+            "original": 6.8,
+            "alternative": 7
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.13,
+          "passValueNormalized": 0.27,
+          "dribbleValueNormalized": 0.34,
+          "defensiveValueNormalized": -0.04,
+          "metersCoveredRunningKm": 1.07,
+          "metersCoveredHighSpeedRunningKm": 0.36,
+          "metersCoveredSprintingKm": 0.28,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      },
+      "visitante": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      }
+    },
+    "resultado": "2-1",
+    "fecha": "2026-04-04",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20367-mallorca-real-madrid",
+    "puntuaciones": {
+      "picas": 3,
+      "marca": 2,
+      "cope": 9.0,
+      "sofascore": 6.1,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 0.0,
+        "comunio": 1.0,
+        "modo-picas": 10.0,
+        "biwenger-sofascore": 0.0,
+        "biwenger-social": 3.0,
+        "biwenger-as-sofascore": 5.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": 9.0,
+        "futmondo-mixto-as": 10.0,
+        "futmondo-stats": -2.0,
+        "futmondo-mixto": 6.3,
+        "cronistas-marca": 6.0,
+        "marca-mixto": 3.0,
+        "marca-sofascore": 0.0,
+        "mister-cronistas-md": 6.0,
+        "mister-mixto": 6.0,
+        "mister-mixto-2": 4.0,
+        "mister-sofascore": 0.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 2.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 3.0,
+        "stat-faltas-cometidas": 3.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 1.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 11.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 3.0,
+        "stat-precision-pases": 60.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 5.0,
+        "stat-pases-completados": 3.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14081816,
+      "match_info": {
+        "homeTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Real Madrid",
+          "shortName": "Real Madrid",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1775312100,
+        "slug": "real-madrid-mallorca",
+        "fecha_normalizada": "2026-04-04"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Zito Luvumbo",
+          "slug": "zito-luvumbo",
+          "shortName": "Z. Luvumbo",
+          "position": "F",
+          "jerseyNumber": "77",
+          "height": 171,
+          "userCount": 7439,
+          "gender": "M",
+          "sofascoreId": "LuvumboZito",
+          "id": 1000150,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1015632000,
+          "proposedMarketValueRaw": {
+            "value": 3100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "زيتو لوفومبو",
+              "bn": "জিটো লুভুম্বো",
+              "hi": "ज़ीटो लुवुम्बो",
+              "ru": "Зито Лувумбо"
+            },
+            "shortNameTranslation": {
+              "ar": "ز. لوفومبو",
+              "bn": "জেড. লুভুম্বো",
+              "hi": "ज़ेड. लुवुम्बो",
+              "ru": "З. Лувумбо"
+            }
+          }
+        },
+        "team": {
+          "name": "Mallorca",
+          "slug": "mallorca",
+          "shortName": "Mallorca",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 201002,
+          "nameCode": "MLL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2826,
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مايوركا",
+              "bn": "ম্যালোর্কা",
+              "hi": "मल्लोर्का",
+              "ru": "Мальорка"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 5,
+          "accuratePass": 3,
+          "totalLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOppositionHalfPasses": 3,
+          "totalOppositionHalfPasses": 5,
+          "totalCross": 3,
+          "aerialLost": 3,
+          "duelLost": 10,
+          "duelWon": 3,
+          "dispossessed": 3,
+          "totalContest": 1,
+          "unsuccessfulTouch": 2,
+          "wasFouled": 3,
+          "fouls": 3,
+          "totalOffside": 1,
+          "minutesPlayed": 81,
+          "touches": 19,
+          "rating": 6.1,
+          "possessionLostCtrl": 11,
+          "expectedAssists": 0.00390543,
+          "topSpeed": 32.64,
+          "kilometersCovered": 9.19,
+          "numberOfSprints": 18,
+          "totalBallCarriesDistance": 42.024171296358,
+          "ballCarriesCount": 5,
+          "totalProgression": 6.7201306519969,
+          "bestBallCarryProgression": 7.421249488991,
+          "totalProgressiveBallCarriesDistance": 10.389990567849,
+          "progressiveBallCarriesCount": 1,
+          "ratingVersions": {
+            "original": 6.1,
+            "alternative": 6.3
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0,
+          "dribbleValueNormalized": -0.33,
+          "defensiveValueNormalized": 0.13,
+          "metersCoveredRunningKm": 1.11,
+          "metersCoveredHighSpeedRunningKm": 0.53,
+          "metersCoveredSprintingKm": 0.23,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      },
+      "visitante": {
+        "nombre": "Rayo",
+        "abreviatura": "RAY",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/14.png"
+      }
+    },
+    "resultado": "3-0",
+    "fecha": "2026-04-12",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20378-mallorca-rayo",
+    "puntuaciones": {
+      "picas": 3,
+      "marca": 2,
+      "cope": 9.0,
+      "sofascore": 6.8,
+      "relevo": 2.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 10.0,
+        "futbolfantasy-rpg": 11.0,
+        "comunio": 5.0,
+        "modo-picas": 10.0,
+        "biwenger-sofascore": 5.0,
+        "biwenger-social": 6.0,
+        "biwenger-as-sofascore": 8.0,
+        "biwenger-stats": 5.0,
+        "futmondo-prensa": 10.0,
+        "futmondo-mixto-as": 10.0,
+        "futmondo-stats": 8.0,
+        "futmondo-mixto": 12.6,
+        "cronistas-marca": 6.0,
+        "marca-mixto": 10.0,
+        "marca-sofascore": 4.0,
+        "mister-cronistas-md": 10.0,
+        "mister-mixto": 8.0,
+        "mister-mixto-2": 6.0,
+        "mister-sofascore": 4.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 1.0,
+        "stat-asistencias-sin-gol": 2.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 3.0,
+        "stat-centros-precisos": 1.0,
+        "stat-pases-area-exito": 2.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 3.0,
+        "stat-faltas-cometidas": 2.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 2.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 9.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 4.0,
+        "stat-precision-pases": 100.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 6.0,
+        "stat-pases-completados": 6.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083142,
+      "match_info": {
+        "homeTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Rayo Vallecano",
+          "shortName": "Rayo Vallecano",
+          "color": "#ffffff",
+          "score": 0
+        },
+        "startTimestamp": 1776003300,
+        "slug": "mallorca-rayo-vallecano",
+        "fecha_normalizada": "2026-04-12"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Zito Luvumbo",
+          "slug": "zito-luvumbo",
+          "shortName": "Z. Luvumbo",
+          "position": "F",
+          "jerseyNumber": "77",
+          "height": 171,
+          "userCount": 7439,
+          "gender": "M",
+          "sofascoreId": "LuvumboZito",
+          "id": 1000150,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1015632000,
+          "proposedMarketValueRaw": {
+            "value": 3100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "زيتو لوفومبو",
+              "bn": "জিটো লুভুম্বো",
+              "hi": "ज़ीटो लुवुम्बो",
+              "ru": "Зито Лувумбо"
+            },
+            "shortNameTranslation": {
+              "ar": "ز. لوفومبو",
+              "bn": "জেড. লুভুম্বো",
+              "hi": "ज़ेड. लुवुम्बो",
+              "ru": "З. Лувумбо"
+            }
+          }
+        },
+        "team": {
+          "name": "Mallorca",
+          "slug": "mallorca",
+          "shortName": "Mallorca",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 201002,
+          "nameCode": "MLL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2826,
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مايوركا",
+              "bn": "ম্যালোর্কা",
+              "hi": "मल्लोर्का",
+              "ru": "Мальорка"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 6,
+          "accuratePass": 6,
+          "goalAssist": 1,
+          "accurateOwnHalfPasses": 1,
+          "totalOwnHalfPasses": 1,
+          "accurateOppositionHalfPasses": 5,
+          "totalOppositionHalfPasses": 5,
+          "totalCross": 4,
+          "accurateCross": 1,
+          "aerialLost": 1,
+          "duelLost": 8,
+          "duelWon": 3,
+          "challengeLost": 1,
+          "totalContest": 4,
+          "bigChanceCreated": 2,
+          "ballRecovery": 1,
+          "unsuccessfulTouch": 2,
+          "wasFouled": 3,
+          "fouls": 2,
+          "totalOffside": 2,
+          "minutesPlayed": 62,
+          "touches": 20,
+          "rating": 6.8,
+          "possessionLostCtrl": 9,
+          "expectedAssists": 0.253503,
+          "topSpeed": 35.05,
+          "kilometersCovered": 6.58,
+          "numberOfSprints": 16,
+          "totalBallCarriesDistance": 81.493161613871,
+          "ballCarriesCount": 7,
+          "totalProgression": 44.802601758332,
+          "bestBallCarryProgression": 13.67071234513,
+          "totalProgressiveBallCarriesDistance": 39.497320896774,
+          "progressiveBallCarriesCount": 2,
+          "keyPass": 2,
+          "ratingVersions": {
+            "original": 6.8,
+            "alternative": 7
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.51,
+          "dribbleValueNormalized": 0.02,
+          "defensiveValueNormalized": -0.05,
+          "metersCoveredRunningKm": 0.81,
+          "metersCoveredHighSpeedRunningKm": 0.36,
+          "metersCoveredSprintingKm": 0.24,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Girona",
+        "abreviatura": "GIR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/30.png"
+      },
+      "visitante": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      }
+    },
+    "resultado": "0-1",
+    "fecha": "2026-05-01",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20407-girona-mallorca",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 6.0,
+      "sofascore": 6.7,
+      "relevo": 2.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 4.0,
+        "futbolfantasy-rpg": 2.0,
+        "comunio": 4.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": 1.0,
+        "biwenger-as-sofascore": 3.0,
+        "biwenger-stats": 1.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 1.0,
+        "futmondo-mixto": 2.9,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 3.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 1.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 2.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 2.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 1.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 1.0,
+        "stat-posesiones-perdidas": 4.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 50.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 2.0,
+        "stat-pases-completados": 1.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083457,
+      "match_info": {
+        "homeTeam": {
+          "name": "Girona FC",
+          "shortName": "Girona",
+          "color": "#ffffff",
+          "score": 0
+        },
+        "awayTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 1
+        },
+        "startTimestamp": 1777662000,
+        "slug": "girona-fc-mallorca",
+        "fecha_normalizada": "2026-05-01"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Zito Luvumbo",
+          "slug": "zito-luvumbo",
+          "shortName": "Z. Luvumbo",
+          "position": "F",
+          "jerseyNumber": "77",
+          "height": 171,
+          "userCount": 7439,
+          "gender": "M",
+          "sofascoreId": "LuvumboZito",
+          "id": 1000150,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1015632000,
+          "proposedMarketValueRaw": {
+            "value": 3100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "زيتو لوفومبو",
+              "bn": "জিটো লুভুম্বো",
+              "hi": "ज़ीटो लुवुम्बो",
+              "ru": "Зито Лувумбо"
+            },
+            "shortNameTranslation": {
+              "ar": "ز. لوفومبو",
+              "bn": "জেড. লুভুম্বো",
+              "hi": "ज़ेड. लुवुम्बो",
+              "ru": "З. Лувумбо"
+            }
+          }
+        },
+        "team": {
+          "name": "Mallorca",
+          "slug": "mallorca",
+          "shortName": "Mallorca",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 201002,
+          "nameCode": "MLL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2826,
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مايوركا",
+              "bn": "ম্যালোর্কা",
+              "hi": "मल्लोर्का",
+              "ru": "Мальорка"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 2,
+          "accuratePass": 1,
+          "goalAssist": 0,
+          "accurateOppositionHalfPasses": 1,
+          "totalOppositionHalfPasses": 2,
+          "aerialWon": 1,
+          "duelLost": 3,
+          "duelWon": 3,
+          "totalContest": 3,
+          "wonContest": 2,
+          "bigChanceMissed": 1,
+          "onTargetScoringAttempt": 1,
+          "totalClearance": 1,
+          "unsuccessfulTouch": 2,
+          "fouls": 2,
+          "minutesPlayed": 24,
+          "touches": 10,
+          "rating": 6.7,
+          "possessionLostCtrl": 4,
+          "expectedGoals": 0.2094,
+          "expectedGoalsOnTarget": 0.1822,
+          "expectedAssists": 0.00125169,
+          "topSpeed": 30.16,
+          "kilometersCovered": 3.53,
+          "numberOfSprints": 7,
+          "totalBallCarriesDistance": 69.307700656645,
+          "ballCarriesCount": 4,
+          "totalProgression": 62.466077216587,
+          "bestBallCarryProgression": 22.911371465411,
+          "totalProgressiveBallCarriesDistance": 61.304267393351,
+          "progressiveBallCarriesCount": 3,
+          "ratingVersions": {
+            "original": 6.7,
+            "alternative": 6.4
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.12,
+          "passValueNormalized": 0.01,
+          "dribbleValueNormalized": 0.3,
+          "defensiveValueNormalized": -0.04,
+          "metersCoveredRunningKm": 0.56,
+          "metersCoveredHighSpeedRunningKm": 0.28,
+          "metersCoveredSprintingKm": 0.07,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      },
+      "visitante": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-05-10",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20418-mallorca-villarreal",
+    "puntuaciones": {
+      "picas": 2,
+      "marca": 1,
+      "cope": 7.0,
+      "sofascore": 8.3,
+      "relevo": 2.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 4.0,
+        "futbolfantasy-rpg": 13.0,
+        "comunio": 10.0,
+        "modo-picas": 6.0,
+        "biwenger-sofascore": 11.0,
+        "biwenger-social": 2.0,
+        "biwenger-as-sofascore": 9.0,
+        "biwenger-stats": 4.0,
+        "futmondo-prensa": 5.0,
+        "futmondo-mixto-as": 6.0,
+        "futmondo-stats": 9.0,
+        "futmondo-mixto": 8.8,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 3.0,
+        "marca-sofascore": 10.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 5.0,
+        "mister-mixto-2": 7.0,
+        "mister-sofascore": 10.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 1.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 2.0,
+        "stat-centros-precisos": 1.0,
+        "stat-pases-area-exito": 3.0,
+        "stat-regates-exito": 2.0,
+        "stat-faltas-recibidas": 5.0,
+        "stat-faltas-cometidas": 2.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 18.0,
+        "stat-tiros-totales": 2.0,
+        "stat-centros-totales": 7.0,
+        "stat-precision-pases": 58.3,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 12.0,
+        "stat-pases-completados": 7.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083573,
+      "match_info": {
+        "homeTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 1
+        },
+        "startTimestamp": 1778414400,
+        "slug": "mallorca-villarreal",
+        "fecha_normalizada": "2026-05-10"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Zito Luvumbo",
+          "slug": "zito-luvumbo",
+          "shortName": "Z. Luvumbo",
+          "position": "F",
+          "jerseyNumber": "77",
+          "height": 171,
+          "userCount": 7439,
+          "gender": "M",
+          "sofascoreId": "LuvumboZito",
+          "id": 1000150,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1015632000,
+          "proposedMarketValueRaw": {
+            "value": 3100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "زيتو لوفومبو",
+              "bn": "জিটো লুভুম্বো",
+              "hi": "ज़ीटो लुवुम्बो",
+              "ru": "Зито Лувумбо"
+            },
+            "shortNameTranslation": {
+              "ar": "ز. لوفومبو",
+              "bn": "জেড. লুভুম্বো",
+              "hi": "ज़ेड. लुवुम्बो",
+              "ru": "З. Лувумбо"
+            }
+          }
+        },
+        "team": {
+          "name": "Mallorca",
+          "slug": "mallorca",
+          "shortName": "Mallorca",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 201002,
+          "nameCode": "MLL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2826,
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مايوركا",
+              "bn": "ম্যালোর্কা",
+              "hi": "मल्लोर्का",
+              "ru": "Мальорка"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 12,
+          "accuratePass": 7,
+          "goalAssist": 0,
+          "totalOwnHalfPasses": 1,
+          "accurateOppositionHalfPasses": 7,
+          "totalOppositionHalfPasses": 11,
+          "totalCross": 7,
+          "accurateCross": 1,
+          "duelLost": 5,
+          "duelWon": 8,
+          "challengeLost": 1,
+          "dispossessed": 1,
+          "totalContest": 3,
+          "wonContest": 2,
+          "shotOffTarget": 1,
+          "onTargetScoringAttempt": 1,
+          "ballRecovery": 1,
+          "totalTackle": 1,
+          "unsuccessfulTouch": 4,
+          "wasFouled": 5,
+          "fouls": 2,
+          "totalOffside": 1,
+          "minutesPlayed": 90,
+          "touches": 37,
+          "rating": 8.3,
+          "possessionLostCtrl": 18,
+          "expectedGoals": 0.114,
+          "expectedGoalsOnTarget": 0.5776,
+          "expectedAssists": 0.475376,
+          "topSpeed": 31.06,
+          "kilometersCovered": 10.09,
+          "numberOfSprints": 21,
+          "totalBallCarriesDistance": 106.055320182,
+          "ballCarriesCount": 12,
+          "totalProgression": 64.381813242443,
+          "bestBallCarryProgression": 19.378773324677,
+          "totalProgressiveBallCarriesDistance": 62.736287515776,
+          "progressiveBallCarriesCount": 4,
+          "keyPass": 3,
+          "ratingVersions": {
+            "original": 8.3,
+            "alternative": 7.5
+          },
+          "totalShots": 2,
+          "shotValueNormalized": 0.18,
+          "passValueNormalized": 0.51,
+          "dribbleValueNormalized": 0.32,
+          "defensiveValueNormalized": -0.04,
+          "metersCoveredRunningKm": 1.14,
+          "metersCoveredHighSpeedRunningKm": 0.51,
+          "metersCoveredSprintingKm": 0.22,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Getafe",
+        "abreviatura": "GET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/8.png"
+      },
+      "visitante": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      }
+    },
+    "resultado": "3-1",
+    "fecha": "2026-05-13",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20426-getafe-mallorca",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.0,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 0.0,
+        "futbolfantasy-rpg": 7.0,
+        "comunio": 1.0,
+        "scale0": -2.0,
+        "biwenger-sofascore": 0.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": -1.0,
+        "biwenger-stats": 4.0,
+        "futmondo-prensa": 0.0,
+        "futmondo-mixto-as": -2.0,
+        "futmondo-stats": 4.0,
+        "futmondo-mixto": 5.6,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 1.0,
+        "marca-sofascore": 0.0,
+        "mister-cronistas-md": -2.0,
+        "mister-mixto": -1.0,
+        "mister-mixto-2": 0.0,
+        "mister-sofascore": 0.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 1.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 2.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 2.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 2.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 1.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 6.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 1.0,
+        "stat-precision-pases": 100.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 3.0,
+        "stat-pases-completados": 3.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083618,
+      "match_info": {
+        "homeTeam": {
+          "name": "Getafe",
+          "shortName": "Getafe",
+          "color": "#00369e",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 1
+        },
+        "startTimestamp": 1778700600,
+        "slug": "getafe-mallorca",
+        "fecha_normalizada": "2026-05-13"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Zito Luvumbo",
+          "slug": "zito-luvumbo",
+          "shortName": "Z. Luvumbo",
+          "position": "F",
+          "jerseyNumber": "77",
+          "height": 171,
+          "userCount": 7439,
+          "gender": "M",
+          "sofascoreId": "LuvumboZito",
+          "id": 1000150,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1015632000,
+          "proposedMarketValueRaw": {
+            "value": 3100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "زيتو لوفومبو",
+              "bn": "জিটো লুভুম্বো",
+              "hi": "ज़ीटो लुवुम्बो",
+              "ru": "Зито Лувумбо"
+            },
+            "shortNameTranslation": {
+              "ar": "ز. لوفومبو",
+              "bn": "জেড. লুভুম্বো",
+              "hi": "ज़ेड. लुवुम्बो",
+              "ru": "З. Лувумбо"
+            }
+          }
+        },
+        "team": {
+          "name": "Mallorca",
+          "slug": "mallorca",
+          "shortName": "Mallorca",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 201002,
+          "nameCode": "MLL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2826,
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مايوركا",
+              "bn": "ম্যালোর্কা",
+              "hi": "मल्लोर्का",
+              "ru": "Мальорка"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 3,
+          "accuratePass": 3,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 1,
+          "totalOwnHalfPasses": 1,
+          "accurateOppositionHalfPasses": 2,
+          "totalOppositionHalfPasses": 2,
+          "totalCross": 1,
+          "aerialLost": 2,
+          "duelLost": 6,
+          "duelWon": 2,
+          "challengeLost": 1,
+          "dispossessed": 1,
+          "totalContest": 2,
+          "onTargetScoringAttempt": 1,
+          "totalClearance": 1,
+          "ballRecovery": 1,
+          "unsuccessfulTouch": 2,
+          "wasFouled": 2,
+          "fouls": 1,
+          "minutesPlayed": 45,
+          "touches": 15,
+          "rating": 6,
+          "possessionLostCtrl": 6,
+          "expectedGoals": 0.1228,
+          "expectedGoalsOnTarget": 0.2228,
+          "expectedAssists": 0.00188021,
+          "topSpeed": 32.64,
+          "kilometersCovered": 5.3,
+          "numberOfSprints": 9,
+          "totalBallCarriesDistance": 68.799625545123,
+          "ballCarriesCount": 7,
+          "totalProgression": 46.190278162171,
+          "bestBallCarryProgression": 15.709619442947,
+          "totalProgressiveBallCarriesDistance": 38.060741470123,
+          "progressiveBallCarriesCount": 2,
+          "ratingVersions": {
+            "original": 6,
+            "alternative": 6.3
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.17,
+          "passValueNormalized": -0.05,
+          "dribbleValueNormalized": 0.12,
+          "defensiveValueNormalized": -0.15,
+          "metersCoveredRunningKm": 0.75,
+          "metersCoveredHighSpeedRunningKm": 0.32,
+          "metersCoveredSprintingKm": 0.13,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Levante",
+        "abreviatura": "LEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/10.png"
+      },
+      "visitante": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      }
+    },
+    "resultado": "2-0",
+    "fecha": "2026-05-17",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20437-levante-mallorca",
+    "puntuaciones": {
+      "picas": 2,
+      "marca": 1,
+      "cope": 6.0,
+      "sofascore": 6.6,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 5.0,
+        "comunio": 3.0,
+        "modo-picas": 6.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": 1.0,
+        "biwenger-as-sofascore": 5.0,
+        "biwenger-stats": 3.0,
+        "futmondo-prensa": 5.0,
+        "futmondo-mixto-as": 6.0,
+        "futmondo-stats": 2.0,
+        "futmondo-mixto": 4.8,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 3.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 3.0,
+        "mister-mixto-2": 4.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 1.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 2.0,
+        "stat-centros-precisos": 1.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 2.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 1.0,
+        "stat-posesiones-perdidas": 6.0,
+        "stat-tiros-totales": 2.0,
+        "stat-centros-totales": 2.0,
+        "stat-precision-pases": 75.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 4.0,
+        "stat-pases-completados": 3.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083676,
+      "match_info": {
+        "homeTeam": {
+          "name": "Levante UD",
+          "shortName": "Levante",
+          "color": "#0e3b68",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 0
+        },
+        "startTimestamp": 1779037200,
+        "slug": "levante-ud-mallorca",
+        "fecha_normalizada": "2026-05-17"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Zito Luvumbo",
+          "slug": "zito-luvumbo",
+          "shortName": "Z. Luvumbo",
+          "position": "F",
+          "jerseyNumber": "77",
+          "height": 171,
+          "userCount": 7439,
+          "gender": "M",
+          "sofascoreId": "LuvumboZito",
+          "id": 1000150,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1015632000,
+          "proposedMarketValueRaw": {
+            "value": 3100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "زيتو لوفومبو",
+              "bn": "জিটো লুভুম্বো",
+              "hi": "ज़ीटो लुवुम्बो",
+              "ru": "Зито Лувумбо"
+            },
+            "shortNameTranslation": {
+              "ar": "ز. لوفومبو",
+              "bn": "জেড. লুভুম্বো",
+              "hi": "ज़ेड. लुवुम्बो",
+              "ru": "З. Лувумбо"
+            }
+          }
+        },
+        "team": {
+          "name": "Mallorca",
+          "slug": "mallorca",
+          "shortName": "Mallorca",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 201002,
+          "nameCode": "MLL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2826,
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مايوركا",
+              "bn": "ম্যালোর্কা",
+              "hi": "मल्लोर्का",
+              "ru": "Мальорка"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 4,
+          "accuratePass": 3,
+          "goalAssist": 0,
+          "accurateOppositionHalfPasses": 3,
+          "totalOppositionHalfPasses": 4,
+          "totalCross": 2,
+          "accurateCross": 1,
+          "aerialLost": 2,
+          "duelLost": 6,
+          "duelWon": 1,
+          "totalContest": 2,
+          "bigChanceMissed": 1,
+          "shotOffTarget": 1,
+          "onTargetScoringAttempt": 1,
+          "ballRecovery": 1,
+          "unsuccessfulTouch": 2,
+          "wasFouled": 1,
+          "fouls": 2,
+          "totalOffside": 1,
+          "minutesPlayed": 69,
+          "touches": 15,
+          "rating": 6.6,
+          "possessionLostCtrl": 6,
+          "expectedGoals": 0.0899,
+          "expectedGoalsOnTarget": 0.6401,
+          "expectedAssists": 0.0157545,
+          "topSpeed": 33.07,
+          "kilometersCovered": 7.23,
+          "numberOfSprints": 14,
+          "totalBallCarriesDistance": 53.21392065677,
+          "ballCarriesCount": 6,
+          "totalProgression": 29.605032564466,
+          "bestBallCarryProgression": 12.526427334478,
+          "totalProgressiveBallCarriesDistance": 18.520916176043,
+          "progressiveBallCarriesCount": 1,
+          "ratingVersions": {
+            "original": 6.6,
+            "alternative": 6.2
+          },
+          "totalShots": 2,
+          "shotValueNormalized": 0.22,
+          "passValueNormalized": -0.03,
+          "dribbleValueNormalized": -0.25,
+          "defensiveValueNormalized": 0,
+          "metersCoveredRunningKm": 0.85,
+          "metersCoveredHighSpeedRunningKm": 0.38,
+          "metersCoveredSprintingKm": 0.18,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      },
+      "visitante": {
+        "nombre": "Real Oviedo",
+        "abreviatura": "ROV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/43.png"
+      }
+    },
+    "resultado": "3-0",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20448-mallorca-real-oviedo",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083727,
+      "match_info": {
+        "homeTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Real Oviedo",
+          "shortName": "Real Oviedo",
+          "color": "#3300ff",
+          "score": 0
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-oviedo-mallorca",
+        "fecha_normalizada": "2026-05-23"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Zito Luvumbo",
+          "slug": "zito-luvumbo",
+          "shortName": "Z. Luvumbo",
+          "position": "F",
+          "jerseyNumber": "77",
+          "height": 171,
+          "userCount": 7439,
+          "gender": "M",
+          "sofascoreId": "LuvumboZito",
+          "id": 1000150,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1015632000,
+          "proposedMarketValueRaw": {
+            "value": 3100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "زيتو لوفومبو",
+              "bn": "জিটো লুভুম্বো",
+              "hi": "ज़ीटो लुवुम्बो",
+              "ru": "Зито Лувумбо"
+            },
+            "shortNameTranslation": {
+              "ar": "ز. لوفومبو",
+              "bn": "জেড. লুভুম্বো",
+              "hi": "ज़ेड. लुवुम्बो",
+              "ru": "З. Лувумбо"
+            }
+          }
+        },
+        "team": {
+          "name": "Mallorca",
+          "slug": "mallorca",
+          "shortName": "Mallorca",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 201002,
+          "nameCode": "MLL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2826,
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مايوركا",
+              "bn": "ম্যালোর্কা",
+              "hi": "मल्लोर्का",
+              "ru": "Мальорка"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  }
+]

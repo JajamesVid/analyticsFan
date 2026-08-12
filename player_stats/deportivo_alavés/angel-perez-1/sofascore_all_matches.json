@@ -1,0 +1,5845 @@
+{
+  "14083376": {
+    "id": 14083376,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Zaragoza",
+        "shortName": "Real Zaragoza",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 0
+      },
+      "startTimestamp": 1763323200,
+      "slug": "huesca-real-zaragoza"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 7,
+        "accuratePass": 3,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 5,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "duelLost": 1,
+        "bigChanceCreated": 1,
+        "fouls": 1,
+        "minutesPlayed": 12,
+        "touches": 11,
+        "rating": 6.7,
+        "possessionLostCtrl": 6,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.28,
+        "dribbleValueNormalized": -0.42,
+        "defensiveValueNormalized": -0.02,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083391": {
+    "id": 14083391,
+    "match_info": {
+      "homeTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Sporting Gijón",
+        "shortName": "Sporting",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1763910900,
+      "slug": "huesca-sporting-gijon"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 2,
+        "accuratePass": 1,
+        "goalAssist": 0,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 2,
+        "minutesPlayed": 14,
+        "touches": 2,
+        "rating": 6.6,
+        "possessionLostCtrl": 1,
+        "totalBallCarriesDistance": 25.464691864448,
+        "ballCarriesCount": 2,
+        "totalProgression": 17.22,
+        "bestBallCarryProgression": 21.315,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.1,
+        "dribbleValueNormalized": 0.07,
+        "defensiveValueNormalized": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083424": {
+    "id": 14083424,
+    "match_info": {
+      "homeTeam": {
+        "name": "Almería",
+        "shortName": "Almería",
+        "color": "#ff0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 0
+      },
+      "startTimestamp": 1764437400,
+      "slug": "huesca-almeria"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 16,
+        "accuratePass": 12,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 10,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 5,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "duelLost": 1,
+        "duelWon": 3,
+        "totalContest": 1,
+        "bigChanceCreated": 1,
+        "bigChanceMissed": 1,
+        "onTargetScoringAttempt": 1,
+        "hitWoodwork": 1,
+        "totalClearance": 3,
+        "interceptionWon": 2,
+        "ballRecovery": 4,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 3,
+        "minutesPlayed": 87,
+        "touches": 35,
+        "rating": 7,
+        "possessionLostCtrl": 8,
+        "totalBallCarriesDistance": 83.850479732339,
+        "ballCarriesCount": 8,
+        "totalProgression": -27.93,
+        "bestBallCarryProgression": 8.61,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 6.9
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.16,
+        "passValueNormalized": 0.19,
+        "dribbleValueNormalized": 0.1,
+        "defensiveValueNormalized": 0.15,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "15037717": {
+    "id": 15037717,
+    "match_info": {
+      "homeTeam": {
+        "name": "Racing de Ferrol",
+        "shortName": "Racing de Ferrol",
+        "color": "#0f7567",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 2
+      },
+      "startTimestamp": 1764698400,
+      "slug": "huesca-racing-de-ferrol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "goalAssist": 0,
+        "goals": 1,
+        "ownGoals": 0,
+        "minutesPlayed": 61,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083455": {
+    "id": 14083455,
+    "match_info": {
+      "homeTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Valladolid",
+        "shortName": "Real Valladolid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "startTimestamp": 1765034100,
+      "slug": "huesca-real-valladolid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 32,
+        "accuratePass": 20,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 10,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 10,
+        "totalOppositionHalfPasses": 21,
+        "totalCross": 4,
+        "duelLost": 6,
+        "duelWon": 6,
+        "dispossessed": 2,
+        "totalContest": 5,
+        "wonContest": 3,
+        "onTargetScoringAttempt": 1,
+        "totalClearance": 5,
+        "interceptionWon": 1,
+        "ballRecovery": 5,
+        "totalTackle": 1,
+        "wasFouled": 2,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 70,
+        "rating": 5.6,
+        "possessionLostCtrl": 22,
+        "totalBallCarriesDistance": 158.19047714665,
+        "ballCarriesCount": 17,
+        "totalProgression": 63.21,
+        "bestBallCarryProgression": 20.79,
+        "ratingVersions": {
+          "original": 5.6,
+          "alternative": 6.3
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.1,
+        "passValueNormalized": -0.13,
+        "dribbleValueNormalized": 0.12,
+        "defensiveValueNormalized": -0.63,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083506": {
+    "id": 14083506,
+    "match_info": {
+      "homeTeam": {
+        "name": "Cultural Leonesa",
+        "shortName": "Cultural Leonesa",
+        "color": "#a51400",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 2
+      },
+      "startTimestamp": 1765567800,
+      "slug": "huesca-cultural-leonesa"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 17,
+        "accuratePass": 13,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 12,
+        "totalOppositionHalfPasses": 16,
+        "totalCross": 4,
+        "duelLost": 2,
+        "duelWon": 1,
+        "totalContest": 2,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 1,
+        "goals": 1,
+        "totalClearance": 1,
+        "interceptionWon": 2,
+        "ballRecovery": 3,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 3,
+        "totalOffside": 1,
+        "minutesPlayed": 75,
+        "touches": 34,
+        "rating": 7.7,
+        "possessionLostCtrl": 13,
+        "totalBallCarriesDistance": 82.884479186769,
+        "ballCarriesCount": 7,
+        "totalProgression": -78.435,
+        "bestBallCarryProgression": -2.52,
+        "ratingVersions": {
+          "original": 7.7,
+          "alternative": 7.6
+        },
+        "totalShots": 2,
+        "shotValueNormalized": 0.52,
+        "passValueNormalized": -0.36,
+        "dribbleValueNormalized": 0.34,
+        "defensiveValueNormalized": 0.21,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "15200526": {
+    "id": 15200526,
+    "match_info": {
+      "homeTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 4
+      },
+      "startTimestamp": 1765994400,
+      "slug": "huesca-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 3,
+        "accuratePass": 3,
+        "goalAssist": 1,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 2,
+        "totalCross": 3,
+        "accurateCross": 1,
+        "duelWon": 1,
+        "bigChanceCreated": 1,
+        "goals": 0,
+        "totalClearance": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "ownGoals": 0,
+        "minutesPlayed": 20,
+        "touches": 9,
+        "rating": 6.9,
+        "possessionLostCtrl": 2,
+        "totalBallCarriesDistance": 30.859542284036,
+        "ballCarriesCount": 3,
+        "totalProgression": 19.005,
+        "bestBallCarryProgression": 15.33,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.42,
+        "dribbleValueNormalized": 0.18,
+        "defensiveValueNormalized": -0.2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083287": {
+    "id": 14083287,
+    "match_info": {
+      "homeTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1766243700,
+      "slug": "huesca-racing-de-santander"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 17,
+        "accuratePass": 13,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 15,
+        "totalCross": 5,
+        "aerialLost": 3,
+        "duelLost": 10,
+        "duelWon": 4,
+        "dispossessed": 1,
+        "totalContest": 6,
+        "wonContest": 2,
+        "shotOffTarget": 2,
+        "blockedScoringAttempt": 2,
+        "interceptionWon": 2,
+        "ballRecovery": 5,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "wasFouled": 1,
+        "fouls": 2,
+        "totalOffside": 1,
+        "minutesPlayed": 90,
+        "touches": 41,
+        "rating": 6.4,
+        "possessionLostCtrl": 14,
+        "totalBallCarriesDistance": 145.82117269567,
+        "ballCarriesCount": 14,
+        "totalProgression": 93.24,
+        "bestBallCarryProgression": 35.175,
+        "totalProgressiveBallCarriesDistance": 71.466605133102,
+        "progressiveBallCarriesCount": 3,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.8
+        },
+        "totalShots": 4,
+        "shotValueNormalized": -0.54,
+        "passValueNormalized": 0.18,
+        "dribbleValueNormalized": 0.39,
+        "defensiveValueNormalized": -0.04,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083428": {
+    "id": 14083428,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Castellón",
+        "shortName": "Castellón",
+        "color": "#191f23",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 1
+      },
+      "startTimestamp": 1767453300,
+      "slug": "huesca-cd-castellon"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 23,
+        "accuratePass": 16,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 12,
+        "totalOppositionHalfPasses": 18,
+        "totalCross": 2,
+        "duelLost": 7,
+        "duelWon": 8,
+        "dispossessed": 4,
+        "totalContest": 4,
+        "wonContest": 3,
+        "onTargetScoringAttempt": 1,
+        "totalClearance": 1,
+        "ballRecovery": 7,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 4,
+        "fouls": 2,
+        "totalOffside": 2,
+        "minutesPlayed": 90,
+        "touches": 49,
+        "rating": 6.3,
+        "possessionLostCtrl": 16,
+        "totalBallCarriesDistance": 156.5842558014,
+        "ballCarriesCount": 12,
+        "totalProgression": 64.26,
+        "bestBallCarryProgression": 23.415,
+        "totalProgressiveBallCarriesDistance": 62.523840594956,
+        "progressiveBallCarriesCount": 4,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.5
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.11,
+        "passValueNormalized": -0.01,
+        "dribbleValueNormalized": 0.21,
+        "defensiveValueNormalized": -0.24,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083611": {
+    "id": 14083611,
+    "match_info": {
+      "homeTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Córdoba",
+        "shortName": "Córdoba",
+        "color": "#339900",
+        "score": 2
+      },
+      "startTimestamp": 1768246200,
+      "slug": "huesca-cordoba"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 25,
+        "accuratePass": 16,
+        "totalLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 7,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 18,
+        "totalCross": 5,
+        "accurateCross": 4,
+        "duelLost": 2,
+        "duelWon": 5,
+        "dispossessed": 1,
+        "totalContest": 4,
+        "wonContest": 3,
+        "shotOffTarget": 2,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 1,
+        "ballRecovery": 3,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 2,
+        "totalOffside": 1,
+        "minutesPlayed": 75,
+        "touches": 46,
+        "rating": 7.3,
+        "possessionLostCtrl": 14,
+        "totalBallCarriesDistance": 113.32186507643,
+        "ballCarriesCount": 12,
+        "totalProgression": 84.63,
+        "bestBallCarryProgression": 22.26,
+        "totalProgressiveBallCarriesDistance": 65.931166296899,
+        "progressiveBallCarriesCount": 4,
+        "keyPass": 3,
+        "ratingVersions": {
+          "original": 7.3,
+          "alternative": 7.3
+        },
+        "totalShots": 3,
+        "shotValueNormalized": -0.55,
+        "passValueNormalized": 0.39,
+        "dribbleValueNormalized": 0.35,
+        "defensiveValueNormalized": 0.23,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083631": {
+    "id": 14083631,
+    "match_info": {
+      "homeTeam": {
+        "name": "Burgos Club de Fútbol",
+        "shortName": "Burgos",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 0
+      },
+      "startTimestamp": 1768757400,
+      "slug": "huesca-burgos-club-de-futbol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 13,
+        "accuratePass": 10,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 9,
+        "totalCross": 6,
+        "accurateCross": 3,
+        "duelLost": 5,
+        "duelWon": 4,
+        "challengeLost": 1,
+        "dispossessed": 1,
+        "totalContest": 4,
+        "wonContest": 2,
+        "bigChanceCreated": 1,
+        "shotOffTarget": 1,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 35,
+        "rating": 7.7,
+        "possessionLostCtrl": 10,
+        "totalBallCarriesDistance": 77.127964373761,
+        "ballCarriesCount": 12,
+        "totalProgression": 32.34,
+        "bestBallCarryProgression": 12.075,
+        "keyPass": 4,
+        "ratingVersions": {
+          "original": 7.7,
+          "alternative": 7.4
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.2,
+        "passValueNormalized": 0.51,
+        "dribbleValueNormalized": 0.22,
+        "defensiveValueNormalized": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083700": {
+    "id": 14083700,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Andorra",
+        "shortName": "FC Andorra",
+        "color": "#0000ff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 1
+      },
+      "startTimestamp": 1769346000,
+      "slug": "fc-andorra-huesca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 20,
+        "accuratePass": 11,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 1,
+        "goalAssist": 1,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 6,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 14,
+        "totalCross": 3,
+        "accurateCross": 1,
+        "aerialWon": 1,
+        "duelLost": 5,
+        "duelWon": 10,
+        "dispossessed": 1,
+        "totalContest": 7,
+        "wonContest": 4,
+        "bigChanceCreated": 1,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 5,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 4,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 45,
+        "rating": 7.4,
+        "possessionLostCtrl": 17,
+        "totalBallCarriesDistance": 123.4951382513,
+        "ballCarriesCount": 13,
+        "totalProgression": 80.01,
+        "bestBallCarryProgression": 27.3,
+        "totalProgressiveBallCarriesDistance": 45.216112932713,
+        "progressiveBallCarriesCount": 2,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.4,
+          "alternative": 7.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.34,
+        "dribbleValueNormalized": -0.29,
+        "defensiveValueNormalized": -0.04,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083236": {
+    "id": 14083236,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 2
+      },
+      "startTimestamp": 1769803200,
+      "slug": "deportivo-alaves-espanyol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 152876,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "15396359": {
+    "id": 15396359,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1770235200,
+      "slug": "deportivo-alaves-real-sociedad"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 152876,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 8,
+        "accuratePass": 4,
+        "goalAssist": 0,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 6,
+        "totalCross": 1,
+        "aerialWon": 1,
+        "duelLost": 1,
+        "duelWon": 1,
+        "dispossessed": 1,
+        "goals": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 6,
+        "touches": 13,
+        "rating": 6.6,
+        "possessionLostCtrl": 7,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.05,
+        "defensiveValueNormalized": -0.01,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083257": {
+    "id": 14083257,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 2
+      },
+      "startTimestamp": 1770555600,
+      "slug": "deportivo-alaves-getafe"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 152876,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 9,
+        "accuratePass": 7,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 7,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 2,
+        "duelLost": 1,
+        "duelWon": 1,
+        "totalContest": 2,
+        "wonContest": 1,
+        "onTargetScoringAttempt": 1,
+        "totalClearance": 1,
+        "ballRecovery": 2,
+        "totalOffside": 1,
+        "minutesPlayed": 13,
+        "touches": 13,
+        "rating": 6.7,
+        "possessionLostCtrl": 3,
+        "expectedGoals": 0.0523,
+        "expectedGoalsOnTarget": 0.1049,
+        "expectedAssists": 0.00050573,
+        "totalBallCarriesDistance": 6.0956181802997,
+        "ballCarriesCount": 1,
+        "totalProgression": -4.2451152656996,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.8
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.31,
+        "passValueNormalized": -0.02,
+        "dribbleValueNormalized": -0.09,
+        "defensiveValueNormalized": 0.16,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083436": {
+    "id": 14083436,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "startTimestamp": 1771090200,
+      "slug": "deportivo-alaves-sevilla"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 152876,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 20,
+        "accuratePass": 15,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 15,
+        "totalCross": 4,
+        "aerialLost": 1,
+        "duelLost": 2,
+        "duelWon": 5,
+        "totalContest": 1,
+        "wonContest": 1,
+        "ballRecovery": 1,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "wasFouled": 2,
+        "fouls": 1,
+        "minutesPlayed": 45,
+        "touches": 32,
+        "rating": 6.8,
+        "possessionLostCtrl": 10,
+        "expectedAssists": 0.0175393,
+        "totalBallCarriesDistance": 99.818709701107,
+        "ballCarriesCount": 10,
+        "totalProgression": 62.16712810513,
+        "bestBallCarryProgression": 12.55064975525,
+        "totalProgressiveBallCarriesDistance": 28.565406770391,
+        "progressiveBallCarriesCount": 2,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.12,
+        "dribbleValueNormalized": 0.05,
+        "defensiveValueNormalized": 0.15,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083537": {
+    "id": 14083537,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1771876800,
+      "slug": "girona-fc-deportivo-alaves"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 152876,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 32,
+        "accuratePass": 24,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 16,
+        "totalOwnHalfPasses": 19,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 13,
+        "totalCross": 4,
+        "aerialLost": 2,
+        "duelLost": 6,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "totalContest": 3,
+        "shotOffTarget": 1,
+        "totalClearance": 1,
+        "ballRecovery": 3,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 2,
+        "minutesPlayed": 76,
+        "touches": 45,
+        "rating": 6.1,
+        "possessionLostCtrl": 17,
+        "expectedGoals": 0.0239,
+        "expectedAssists": 0.00564379,
+        "totalBallCarriesDistance": 89.150394810233,
+        "ballCarriesCount": 8,
+        "totalProgression": 28.993761848211,
+        "bestBallCarryProgression": 23.751061712435,
+        "totalProgressiveBallCarriesDistance": 49.600639258689,
+        "progressiveBallCarriesCount": 2,
+        "ratingVersions": {
+          "original": 6.1,
+          "alternative": 6.2
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.31,
+        "passValueNormalized": -0.04,
+        "dribbleValueNormalized": 0.22,
+        "defensiveValueNormalized": -0.14,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14081793": {
+    "id": 14081793,
+    "match_info": {
+      "homeTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 0
+      },
+      "startTimestamp": 1772222400,
+      "slug": "deportivo-alaves-levante-ud"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 152876,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 34,
+        "accuratePass": 23,
+        "totalLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 7,
+        "accurateOppositionHalfPasses": 18,
+        "totalOppositionHalfPasses": 27,
+        "totalCross": 6,
+        "accurateCross": 1,
+        "aerialLost": 1,
+        "duelLost": 4,
+        "duelWon": 4,
+        "challengeLost": 1,
+        "totalContest": 4,
+        "wonContest": 2,
+        "bigChanceMissed": 1,
+        "blockedScoringAttempt": 1,
+        "ballRecovery": 4,
+        "totalTackle": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 89,
+        "touches": 51,
+        "rating": 6.5,
+        "possessionLostCtrl": 19,
+        "expectedGoals": 0.0895,
+        "expectedAssists": 0.0567094,
+        "totalBallCarriesDistance": 128.27907615506,
+        "ballCarriesCount": 7,
+        "totalProgression": 96.19961310914,
+        "bestBallCarryProgression": 30.811997985015,
+        "totalProgressiveBallCarriesDistance": 114.21798629949,
+        "progressiveBallCarriesCount": 5,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.6
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.08,
+        "passValueNormalized": -0.15,
+        "dribbleValueNormalized": 0.26,
+        "defensiveValueNormalized": -0.02,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14081799": {
+    "id": 14081799,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 2
+      },
+      "startTimestamp": 1773000000,
+      "slug": "deportivo-alaves-valencia"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 152876,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 28,
+        "accuratePass": 21,
+        "totalLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 9,
+        "totalOwnHalfPasses": 13,
+        "accurateOppositionHalfPasses": 12,
+        "totalOppositionHalfPasses": 15,
+        "totalCross": 7,
+        "accurateCross": 2,
+        "duelLost": 3,
+        "duelWon": 5,
+        "dispossessed": 1,
+        "totalContest": 4,
+        "wonContest": 3,
+        "onTargetScoringAttempt": 1,
+        "totalClearance": 5,
+        "outfielderBlock": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "wasFouled": 1,
+        "fouls": 2,
+        "totalOffside": 1,
+        "minutesPlayed": 90,
+        "touches": 57,
+        "rating": 7,
+        "possessionLostCtrl": 14,
+        "expectedGoals": 0.0277,
+        "expectedGoalsOnTarget": 0.0412,
+        "expectedAssists": 0.175485,
+        "totalBallCarriesDistance": 113.48827239055,
+        "ballCarriesCount": 12,
+        "totalProgression": 41.824178977158,
+        "bestBallCarryProgression": 22.251246678163,
+        "totalProgressiveBallCarriesDistance": 39.97020422772,
+        "progressiveBallCarriesCount": 2,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 7.1
+        },
+        "totalShots": 1,
+        "shotValueNormalized": 0.02,
+        "passValueNormalized": 0.09,
+        "dribbleValueNormalized": 0.22,
+        "defensiveValueNormalized": 0.31,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14081806": {
+    "id": 14081806,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 1
+      },
+      "startTimestamp": 1773432000,
+      "slug": "deportivo-alaves-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 152876,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 39,
+        "accuratePass": 29,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 8,
+        "totalOwnHalfPasses": 9,
+        "accurateOppositionHalfPasses": 21,
+        "totalOppositionHalfPasses": 30,
+        "totalCross": 7,
+        "accurateCross": 2,
+        "aerialLost": 1,
+        "duelLost": 2,
+        "duelWon": 3,
+        "totalContest": 3,
+        "wonContest": 2,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 3,
+        "interceptionWon": 3,
+        "ballRecovery": 2,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "minutesPlayed": 90,
+        "touches": 67,
+        "rating": 6.8,
+        "possessionLostCtrl": 19,
+        "expectedGoals": 0.0147,
+        "expectedAssists": 0.163307,
+        "totalBallCarriesDistance": 127.08513371021,
+        "ballCarriesCount": 15,
+        "totalProgression": 33.028294583493,
+        "bestBallCarryProgression": 9.6564886403282,
+        "totalProgressiveBallCarriesDistance": 11.64349706918,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.9
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.07,
+        "passValueNormalized": 0.3,
+        "dribbleValueNormalized": 0.12,
+        "defensiveValueNormalized": -0.03,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083689": {
+    "id": 14083689,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 4
+      },
+      "startTimestamp": 1774192500,
+      "slug": "deportivo-alaves-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 152876,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 40,
+        "accuratePass": 33,
+        "totalLongBalls": 1,
+        "goalAssist": 1,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 30,
+        "totalOppositionHalfPasses": 36,
+        "totalCross": 8,
+        "accurateCross": 3,
+        "duelLost": 3,
+        "duelWon": 3,
+        "challengeLost": 1,
+        "bigChanceCreated": 1,
+        "onTargetScoringAttempt": 1,
+        "goals": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 3,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "wasFouled": 1,
+        "fouls": 2,
+        "totalOffside": 1,
+        "minutesPlayed": 90,
+        "touches": 64,
+        "rating": 8.2,
+        "possessionLostCtrl": 12,
+        "expectedGoals": 0.3997,
+        "expectedGoalsOnTarget": 0.3892,
+        "expectedAssists": 0.337458,
+        "totalBallCarriesDistance": 99.88525797228,
+        "ballCarriesCount": 10,
+        "totalProgression": 63.863710102747,
+        "bestBallCarryProgression": 14.56289189267,
+        "totalProgressiveBallCarriesDistance": 68.148929718741,
+        "progressiveBallCarriesCount": 4,
+        "keyPass": 4,
+        "ratingVersions": {
+          "original": 8.2,
+          "alternative": 8.5
+        },
+        "totalShots": 1,
+        "shotValueNormalized": 0.48,
+        "passValueNormalized": 0.47,
+        "dribbleValueNormalized": 0.14,
+        "defensiveValueNormalized": -0.14,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14081809": {
+    "id": 14081809,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "startTimestamp": 1775415600,
+      "slug": "deportivo-alaves-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 152876,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 32,
+        "accuratePass": 21,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 7,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 21,
+        "totalCross": 8,
+        "accurateCross": 2,
+        "aerialLost": 1,
+        "duelLost": 7,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "totalContest": 4,
+        "wonContest": 1,
+        "ballRecovery": 5,
+        "unsuccessfulTouch": 2,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 54,
+        "rating": 6,
+        "possessionLostCtrl": 25,
+        "expectedAssists": 0.0815661,
+        "totalBallCarriesDistance": 80.832551295431,
+        "ballCarriesCount": 10,
+        "totalProgression": 36.067475617015,
+        "bestBallCarryProgression": 17.515134177327,
+        "totalProgressiveBallCarriesDistance": 40.357518397953,
+        "progressiveBallCarriesCount": 3,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 6,
+          "alternative": 6.1
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.15,
+        "dribbleValueNormalized": 0.29,
+        "defensiveValueNormalized": -0.21,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083152": {
+    "id": 14083152,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 3
+      },
+      "startTimestamp": 1775908800,
+      "slug": "deportivo-alaves-real-sociedad"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 152876,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 38,
+        "accuratePass": 27,
+        "totalLongBalls": 8,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 12,
+        "totalOwnHalfPasses": 13,
+        "accurateOppositionHalfPasses": 15,
+        "totalOppositionHalfPasses": 25,
+        "totalCross": 10,
+        "accurateCross": 6,
+        "aerialLost": 2,
+        "duelLost": 5,
+        "duelWon": 6,
+        "totalContest": 3,
+        "wonContest": 1,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 10,
+        "totalTackle": 4,
+        "wonTackle": 2,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 86,
+        "touches": 71,
+        "rating": 6.3,
+        "possessionLostCtrl": 21,
+        "expectedGoals": 0.0737,
+        "expectedAssists": 0.365072,
+        "totalBallCarriesDistance": 224.39125147122,
+        "ballCarriesCount": 22,
+        "totalProgression": 107.81016237882,
+        "bestBallCarryProgression": 31.337404031536,
+        "totalProgressiveBallCarriesDistance": 97.651945751453,
+        "progressiveBallCarriesCount": 4,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.4
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.02,
+        "passValueNormalized": 0.34,
+        "dribbleValueNormalized": 0.28,
+        "defensiveValueNormalized": -0.48,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083295": {
+    "id": 14083295,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "startTimestamp": 1776799800,
+      "slug": "deportivo-alaves-real-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 152876,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 37,
+        "accuratePass": 28,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 10,
+        "totalOwnHalfPasses": 12,
+        "accurateOppositionHalfPasses": 18,
+        "totalOppositionHalfPasses": 25,
+        "totalCross": 8,
+        "accurateCross": 1,
+        "duelLost": 10,
+        "duelWon": 4,
+        "challengeLost": 2,
+        "dispossessed": 1,
+        "totalContest": 4,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 3,
+        "ballRecovery": 10,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 3,
+        "fouls": 3,
+        "minutesPlayed": 90,
+        "touches": 73,
+        "rating": 6.3,
+        "possessionLostCtrl": 24,
+        "expectedGoals": 0.0306,
+        "expectedAssists": 0.301319,
+        "totalBallCarriesDistance": 223.44341764245,
+        "ballCarriesCount": 20,
+        "totalProgression": 133.71022159217,
+        "bestBallCarryProgression": 26.591941495696,
+        "totalProgressiveBallCarriesDistance": 88.472917754155,
+        "progressiveBallCarriesCount": 3,
+        "keyPass": 4,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.5
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.06,
+        "passValueNormalized": 0.29,
+        "dribbleValueNormalized": 0.38,
+        "defensiveValueNormalized": -0.38,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083202": {
+    "id": 14083202,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "startTimestamp": 1777118400,
+      "slug": "deportivo-alaves-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 152876,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 34,
+        "accuratePass": 25,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 2,
+        "goalAssist": 1,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 22,
+        "totalOppositionHalfPasses": 29,
+        "totalCross": 10,
+        "accurateCross": 1,
+        "duelLost": 4,
+        "duelWon": 4,
+        "dispossessed": 2,
+        "totalContest": 2,
+        "wonContest": 1,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 1,
+        "ballRecovery": 4,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 3,
+        "wasFouled": 2,
+        "fouls": 1,
+        "minutesPlayed": 81,
+        "touches": 67,
+        "rating": 7,
+        "possessionLostCtrl": 25,
+        "expectedGoals": 0.0503,
+        "expectedAssists": 0.10572,
+        "totalBallCarriesDistance": 167.9809650453,
+        "ballCarriesCount": 18,
+        "totalProgression": 93.149829839261,
+        "bestBallCarryProgression": 15.709880452238,
+        "totalProgressiveBallCarriesDistance": 79.668826905046,
+        "progressiveBallCarriesCount": 5,
+        "keyPass": 4,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 7.4
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.23,
+        "passValueNormalized": 0.34,
+        "dribbleValueNormalized": 0.33,
+        "defensiveValueNormalized": -0.17,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083364": {
+    "id": 14083364,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 4
+      },
+      "startTimestamp": 1777739400,
+      "slug": "deportivo-alaves-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 152876,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 38,
+        "accuratePass": 31,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 2,
+        "goalAssist": 1,
+        "accurateOwnHalfPasses": 10,
+        "totalOwnHalfPasses": 12,
+        "accurateOppositionHalfPasses": 21,
+        "totalOppositionHalfPasses": 26,
+        "totalCross": 6,
+        "accurateCross": 1,
+        "duelLost": 4,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "dispossessed": 1,
+        "totalContest": 2,
+        "totalClearance": 2,
+        "ballRecovery": 4,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "totalOffside": 1,
+        "minutesPlayed": 90,
+        "touches": 63,
+        "rating": 6.1,
+        "possessionLostCtrl": 19,
+        "expectedAssists": 0.0961489,
+        "totalBallCarriesDistance": 183.56891748693,
+        "ballCarriesCount": 20,
+        "totalProgression": 67.030067192938,
+        "bestBallCarryProgression": 14.38812354869,
+        "totalProgressiveBallCarriesDistance": 84.932888246479,
+        "progressiveBallCarriesCount": 4,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.1,
+          "alternative": 6.2
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.49,
+        "dribbleValueNormalized": 0.2,
+        "defensiveValueNormalized": -0.77,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083578": {
+    "id": 14083578,
+    "match_info": {
+      "homeTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "startTimestamp": 1778328000,
+      "slug": "deportivo-alaves-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 152876,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 22,
+        "accuratePass": 18,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 15,
+        "totalOppositionHalfPasses": 19,
+        "totalCross": 3,
+        "duelLost": 6,
+        "duelWon": 5,
+        "challengeLost": 2,
+        "totalContest": 7,
+        "wonContest": 4,
+        "bigChanceCreated": 1,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 48,
+        "rating": 7,
+        "possessionLostCtrl": 12,
+        "expectedGoals": 0.0525,
+        "expectedAssists": 0.189845,
+        "totalBallCarriesDistance": 159.77261354261,
+        "ballCarriesCount": 18,
+        "totalProgression": 107.91344527512,
+        "bestBallCarryProgression": 32.416618139994,
+        "totalProgressiveBallCarriesDistance": 90.1824037685,
+        "progressiveBallCarriesCount": 4,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 7.4
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.06,
+        "passValueNormalized": 0.13,
+        "dribbleValueNormalized": 0.45,
+        "defensiveValueNormalized": -0.22,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083603": {
+    "id": 14083603,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 0
+      },
+      "startTimestamp": 1778700600,
+      "slug": "deportivo-alaves-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 152876,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 21,
+        "accuratePass": 12,
+        "totalLongBalls": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 16,
+        "totalCross": 3,
+        "accurateCross": 1,
+        "aerialWon": 1,
+        "duelLost": 6,
+        "duelWon": 2,
+        "challengeLost": 2,
+        "totalContest": 2,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 6,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "fouls": 2,
+        "totalOffside": 1,
+        "minutesPlayed": 90,
+        "touches": 43,
+        "rating": 6.8,
+        "possessionLostCtrl": 14,
+        "expectedGoals": 0.053,
+        "expectedAssists": 0.0809501,
+        "totalBallCarriesDistance": 94.569034722333,
+        "ballCarriesCount": 9,
+        "totalProgression": 27.734431878092,
+        "bestBallCarryProgression": 20.890482924958,
+        "totalProgressiveBallCarriesDistance": 58.065445318891,
+        "progressiveBallCarriesCount": 4,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.7
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.1,
+        "passValueNormalized": 0.12,
+        "dribbleValueNormalized": 0.32,
+        "defensiveValueNormalized": 0.24,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083692": {
+    "id": 14083692,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "startTimestamp": 1779037200,
+      "slug": "deportivo-alaves-real-oviedo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 152876,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 14,
+        "accuratePass": 10,
+        "totalLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 10,
+        "totalCross": 1,
+        "duelWon": 5,
+        "totalContest": 2,
+        "wonContest": 2,
+        "shotOffTarget": 1,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 2,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 2,
+        "minutesPlayed": 90,
+        "touches": 35,
+        "rating": 7.2,
+        "possessionLostCtrl": 7,
+        "expectedGoals": 0.092,
+        "expectedAssists": 0.00602318,
+        "totalBallCarriesDistance": 99.752590498386,
+        "ballCarriesCount": 8,
+        "totalProgression": 63.416952249685,
+        "bestBallCarryProgression": 30.467311901784,
+        "totalProgressiveBallCarriesDistance": 57.070445142154,
+        "progressiveBallCarriesCount": 2,
+        "ratingVersions": {
+          "original": 7.2,
+          "alternative": 7.3
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.09,
+        "passValueNormalized": 0,
+        "dribbleValueNormalized": 0.22,
+        "defensiveValueNormalized": 0.2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083706": {
+    "id": 14083706,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "deportivo-alaves-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 152876,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 31,
+        "accuratePass": 27,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 13,
+        "totalOwnHalfPasses": 14,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 17,
+        "totalCross": 2,
+        "aerialLost": 1,
+        "duelLost": 8,
+        "duelWon": 3,
+        "challengeLost": 2,
+        "dispossessed": 2,
+        "totalContest": 4,
+        "wonContest": 2,
+        "onTargetScoringAttempt": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 6,
+        "wasFouled": 1,
+        "fouls": 1,
+        "totalOffside": 1,
+        "minutesPlayed": 90,
+        "touches": 46,
+        "rating": 6.7,
+        "possessionLostCtrl": 12,
+        "expectedGoals": 0.0211,
+        "expectedGoalsOnTarget": 0.0244,
+        "expectedAssists": 0.154051,
+        "totalBallCarriesDistance": 118.34257121468,
+        "ballCarriesCount": 18,
+        "totalProgression": 57.388078617624,
+        "bestBallCarryProgression": 12.031313706654,
+        "totalProgressiveBallCarriesDistance": 35.968492397395,
+        "progressiveBallCarriesCount": 3,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.9
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.04,
+        "passValueNormalized": 0.48,
+        "dribbleValueNormalized": 0.17,
+        "defensiveValueNormalized": -0.2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "11372902": {
+    "id": 11372902,
+    "match_info": {
+      "homeTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 0
+      },
+      "startTimestamp": 1689701400,
+      "slug": "huesca-osasuna"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11772165": {
+    "id": 11772165,
+    "match_info": {
+      "homeTeam": {
+        "name": "Utebo FC",
+        "shortName": "Utebo",
+        "color": "#3959b6",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "startTimestamp": 1698858000,
+      "slug": "utebo-fc-mirandes"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Utebo FC",
+        "slug": "utebo-fc",
+        "shortName": "Utebo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 1584,
+        "nameCode": "UFC",
+        "national": false,
+        "type": 0,
+        "id": 212294,
+        "teamColors": {
+          "primary": "#3959b6",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتيبو إف سي",
+            "ru": "Утебо ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 23,
+        "accuratePass": 15,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 2,
+        "accurateOwnHalfPasses": 8,
+        "totalOwnHalfPasses": 12,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 16,
+        "totalCross": 5,
+        "accurateCross": 2,
+        "aerialLost": 1,
+        "duelLost": 5,
+        "duelWon": 4,
+        "dispossessed": 2,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalClearance": 1,
+        "outfielderBlock": 1,
+        "ballRecovery": 5,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "wasFouled": 1,
+        "fouls": 2,
+        "minutesPlayed": 62,
+        "touches": 40,
+        "rating": 6.9,
+        "possessionLostCtrl": 15,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "11603205": {
+    "id": 11603205,
+    "match_info": {
+      "homeTeam": {
+        "name": "Utebo FC",
+        "shortName": "Utebo",
+        "color": "#3959b6",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Mutilvera",
+        "shortName": "Mutilvera",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1713027600,
+      "slug": "mutilvera-utebo-fc"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "12312171": {
+    "id": 12312171,
+    "match_info": {
+      "homeTeam": {
+        "name": "Utebo FC",
+        "shortName": "Utebo",
+        "color": "#3959b6",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Numancia",
+        "shortName": "Numancia",
+        "color": "#ff0000",
+        "score": 2
+      },
+      "startTimestamp": 1715529600,
+      "slug": "utebo-fc-numancia"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "12467533": {
+    "id": 12467533,
+    "match_info": {
+      "homeTeam": {
+        "name": "Córdoba",
+        "shortName": "Córdoba",
+        "color": "#339900",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1737818100,
+      "slug": "cordoba-racing-de-santander"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 57479,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينج دي سانتاندر",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467514": {
+    "id": 12467514,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1738440000,
+      "slug": "racing-de-santander-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 57479,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينج دي سانتاندر",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12604718": {
+    "id": 12604718,
+    "match_info": {
+      "homeTeam": {
+        "name": "Rayo Cantabria",
+        "shortName": "Rayo Cantabria",
+        "color": "#374df5",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Pontevedra CF",
+        "shortName": "Pontevedra",
+        "color": "#660000",
+        "score": 1
+      },
+      "startTimestamp": 1740913200,
+      "slug": "rayo-cantabria-pontevedra-cf"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "12604694": {
+    "id": 12604694,
+    "match_info": {
+      "homeTeam": {
+        "name": "Marino Luanco",
+        "shortName": "MAR",
+        "color": "#000080",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Rayo Cantabria",
+        "shortName": "Rayo Cantabria",
+        "color": "#374df5",
+        "score": 1
+      },
+      "startTimestamp": 1742749200,
+      "slug": "rayo-cantabria-marino-luanco"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "12604664": {
+    "id": 12604664,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Guijuelo",
+        "shortName": "CD ",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Cantabria",
+        "shortName": "Rayo Cantabria",
+        "color": "#374df5",
+        "score": 4
+      },
+      "startTimestamp": 1744556400,
+      "slug": "rayo-cantabria-cd-guijuelo"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14303905": {
+    "id": 14303905,
+    "match_info": {
+      "homeTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "CD Teruel",
+        "shortName": "Teruel",
+        "color": "#ff0000",
+        "score": 0
+      },
+      "startTimestamp": 1753893000,
+      "slug": "cd-teruel-huesca"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14137447": {
+    "id": 14137447,
+    "match_info": {
+      "homeTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "CD Castellón",
+        "shortName": "Castellón",
+        "color": "#191f23",
+        "score": 1
+      },
+      "startTimestamp": 1754154000,
+      "slug": "huesca-cd-castellon"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14049255": {
+    "id": 14049255,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 1
+      },
+      "startTimestamp": 1754497800,
+      "slug": "huesca-deportivo-alaves"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14390776": {
+    "id": 14390776,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Zaragoza",
+        "shortName": "Real Zaragoza",
+        "color": "#ffffff",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 3
+      },
+      "startTimestamp": 1754767800,
+      "slug": "huesca-real-zaragoza"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14082831": {
+    "id": 14082831,
+    "match_info": {
+      "homeTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Leganés",
+        "shortName": "Leganés",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1755459000,
+      "slug": "huesca-leganes"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083277": {
+    "id": 14083277,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 1
+      },
+      "startTimestamp": 1755961200,
+      "slug": "mirandes-huesca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083447": {
+    "id": 14083447,
+    "match_info": {
+      "homeTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Eibar",
+        "shortName": "Eibar",
+        "color": "#003e85",
+        "score": 1
+      },
+      "startTimestamp": 1756747800,
+      "slug": "huesca-eibar"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083532": {
+    "id": 14083532,
+    "match_info": {
+      "homeTeam": {
+        "name": "AD Ceuta",
+        "shortName": "Ceuta",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 1
+      },
+      "startTimestamp": 1757246400,
+      "slug": "huesca-ad-ceuta"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083609": {
+    "id": 14083609,
+    "match_info": {
+      "homeTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1757781000,
+      "slug": "huesca-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 22,
+        "accuratePass": 16,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 6,
+        "accurateOppositionHalfPasses": 13,
+        "totalOppositionHalfPasses": 16,
+        "totalCross": 2,
+        "duelLost": 3,
+        "duelWon": 4,
+        "dispossessed": 1,
+        "totalContest": 4,
+        "wonContest": 2,
+        "onTargetScoringAttempt": 1,
+        "blockedScoringAttempt": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 3,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 78,
+        "touches": 43,
+        "rating": 6.8,
+        "possessionLostCtrl": 14,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.9
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.13,
+        "passValueNormalized": 0.15,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": 0.14,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083669": {
+    "id": 14083669,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de La Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 0
+      },
+      "startTimestamp": 1758306600,
+      "slug": "huesca-deportivo-la-coruna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 5,
+        "accuratePass": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 3,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "duelLost": 4,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "totalContest": 2,
+        "wonContest": 1,
+        "totalClearance": 2,
+        "fouls": 2,
+        "minutesPlayed": 45,
+        "touches": 11,
+        "rating": 5.7,
+        "possessionLostCtrl": 1,
+        "ratingVersions": {
+          "original": 5.7,
+          "alternative": 5.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.13,
+        "dribbleValueNormalized": 0.09,
+        "defensiveValueNormalized": -0.18,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083732": {
+    "id": 14083732,
+    "match_info": {
+      "homeTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Granada",
+        "shortName": "Granada",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "startTimestamp": 1759086000,
+      "slug": "granada-huesca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083756": {
+    "id": 14083756,
+    "match_info": {
+      "homeTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Burgos Club de Fútbol",
+        "shortName": "Burgos",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1759595400,
+      "slug": "huesca-burgos-club-de-futbol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 6,
+        "accuratePass": 5,
+        "goalAssist": 0,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 6,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "aerialLost": 1,
+        "duelLost": 3,
+        "duelWon": 1,
+        "totalContest": 1,
+        "totalClearance": 1,
+        "ballRecovery": 1,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 28,
+        "touches": 13,
+        "rating": 6.3,
+        "possessionLostCtrl": 5,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.13,
+        "dribbleValueNormalized": 0.06,
+        "defensiveValueNormalized": -0.21,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083773": {
+    "id": 14083773,
+    "match_info": {
+      "homeTeam": {
+        "name": "Cádiz",
+        "shortName": "Cádiz",
+        "color": "#ffff00",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 0
+      },
+      "startTimestamp": 1760286600,
+      "slug": "huesca-cadiz"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 6,
+        "accuratePass": 4,
+        "totalLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 5,
+        "duelLost": 2,
+        "duelWon": 2,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "shotOffTarget": 2,
+        "blockedScoringAttempt": 1,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 18,
+        "touches": 14,
+        "rating": 6.9,
+        "possessionLostCtrl": 4,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 6.6
+        },
+        "totalShots": 3,
+        "shotValueNormalized": -0.39,
+        "passValueNormalized": 0.01,
+        "dribbleValueNormalized": 0.12,
+        "defensiveValueNormalized": 0.33,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083294": {
+    "id": 14083294,
+    "match_info": {
+      "homeTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Las Palmas",
+        "shortName": "Las Palmas",
+        "color": "#e8f541",
+        "score": 1
+      },
+      "startTimestamp": 1761330600,
+      "slug": "huesca-las-palmas"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 7,
+        "accuratePass": 7,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 4,
+        "totalCross": 2,
+        "accurateCross": 1,
+        "aerialLost": 1,
+        "duelLost": 5,
+        "duelWon": 3,
+        "challengeLost": 2,
+        "totalContest": 2,
+        "wonContest": 1,
+        "shotOffTarget": 1,
+        "totalClearance": 1,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 65,
+        "touches": 18,
+        "rating": 6.4,
+        "possessionLostCtrl": 3,
+        "totalBallCarriesDistance": 79.614061539272,
+        "ballCarriesCount": 8,
+        "totalProgression": 30.45,
+        "bestBallCarryProgression": 18.165,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.6
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.28,
+        "passValueNormalized": 0.13,
+        "dribbleValueNormalized": 0.13,
+        "defensiveValueNormalized": -0.12,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14843726": {
+    "id": 14843726,
+    "match_info": {
+      "homeTeam": {
+        "name": "Utebo FC",
+        "shortName": "Utebo",
+        "color": "#3959b6",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 3
+      },
+      "startTimestamp": 1761679800,
+      "slug": "utebo-fc-huesca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 11,
+        "accuratePass": 10,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 6,
+        "totalOwnHalfPasses": 6,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 5,
+        "totalCross": 2,
+        "duelLost": 2,
+        "duelWon": 3,
+        "challengeLost": 1,
+        "dispossessed": 1,
+        "totalContest": 2,
+        "wonContest": 2,
+        "onTargetScoringAttempt": 1,
+        "goals": 1,
+        "ballRecovery": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 37,
+        "touches": 22,
+        "rating": 7.3,
+        "possessionLostCtrl": 5,
+        "ratingVersions": {
+          "original": 7.3,
+          "alternative": 7.3
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083307": {
+    "id": 14083307,
+    "match_info": {
+      "homeTeam": {
+        "name": "Albacete Balompié",
+        "shortName": "Albacete",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 1
+      },
+      "startTimestamp": 1762018200,
+      "slug": "huesca-albacete-balompie"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 27,
+        "accuratePass": 22,
+        "totalLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 8,
+        "totalOwnHalfPasses": 9,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 18,
+        "totalCross": 5,
+        "accurateCross": 1,
+        "duelLost": 1,
+        "duelWon": 1,
+        "bigChanceCreated": 1,
+        "bigChanceMissed": 1,
+        "shotOffTarget": 2,
+        "onTargetScoringAttempt": 1,
+        "blockedScoringAttempt": 2,
+        "hitWoodwork": 1,
+        "totalClearance": 1,
+        "outfielderBlock": 1,
+        "interceptionWon": 2,
+        "ballRecovery": 4,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 47,
+        "rating": 6.2,
+        "possessionLostCtrl": 9,
+        "totalBallCarriesDistance": 115.30957631547,
+        "ballCarriesCount": 9,
+        "totalProgression": -52.29,
+        "bestBallCarryProgression": 23.835,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.2,
+          "alternative": 7.1
+        },
+        "totalShots": 5,
+        "shotValueNormalized": -0.51,
+        "passValueNormalized": -0.07,
+        "dribbleValueNormalized": 0.1,
+        "defensiveValueNormalized": -0.06,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14938372": {
+    "id": 14938372,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Sociedad B U21",
+        "shortName": "Real Sociedad B U21",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 0
+      },
+      "startTimestamp": 1762369200,
+      "slug": "real-sociedadu21-huesca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 12,
+        "accuratePass": 7,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 7,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 5,
+        "totalCross": 1,
+        "duelLost": 2,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "shotOffTarget": 1,
+        "ballRecovery": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "fouls": 2,
+        "minutesPlayed": 37,
+        "touches": 23,
+        "rating": 6.2,
+        "possessionLostCtrl": 8,
+        "ratingVersions": {
+          "original": 6.2,
+          "alternative": 6.4
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.02,
+        "passValueNormalized": -0.03,
+        "dribbleValueNormalized": -0.01,
+        "defensiveValueNormalized": -0.25,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083348": {
+    "id": 14083348,
+    "match_info": {
+      "homeTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "FC Andorra",
+        "shortName": "FC Andorra",
+        "color": "#0000ff",
+        "score": 2
+      },
+      "startTimestamp": 1762614900,
+      "slug": "fc-andorra-huesca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 925000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Huesca",
+        "slug": "huesca",
+        "shortName": "Huesca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 23246,
+        "nameCode": "HUE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24265,
+        "teamColors": {
+          "primary": "#13324f",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هويسكا",
+            "bn": "হুয়েস্কা",
+            "hi": "ह्युस्का",
+            "ru": "Уэска"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 29,
+        "accuratePass": 15,
+        "totalLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 9,
+        "totalOwnHalfPasses": 14,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 15,
+        "totalCross": 4,
+        "accurateCross": 2,
+        "aerialLost": 2,
+        "duelLost": 5,
+        "duelWon": 2,
+        "interceptionWon": 1,
+        "ballRecovery": 5,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 2,
+        "fouls": 3,
+        "minutesPlayed": 90,
+        "touches": 41,
+        "rating": 5.9,
+        "possessionLostCtrl": 19,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 5.9,
+          "alternative": 6.2
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.2,
+        "dribbleValueNormalized": 0.08,
+        "defensiveValueNormalized": -0.12,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

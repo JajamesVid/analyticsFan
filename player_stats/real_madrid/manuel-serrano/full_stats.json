@@ -1,0 +1,1365 @@
+[
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Getafe",
+        "abreviatura": "GET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/8.png"
+      },
+      "visitante": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      }
+    },
+    "resultado": "0-1",
+    "fecha": "2025-10-19",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20158-getafe-real-madrid",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14099225,
+      "match_info": {
+        "homeTeam": {
+          "name": "Ourense CF",
+          "shortName": "Ourense",
+          "color": "#000000",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Real Madrid Castilla U21",
+          "shortName": "Real Madrid Castilla U21",
+          "color": "#ffffff",
+          "score": 3
+        },
+        "startTimestamp": 1760868000,
+        "slug": "ourense-cf-real-madrid-castilla",
+        "fecha_normalizada": "2025-10-19"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manuel Serrano Salazar",
+          "firstName": "",
+          "lastName": "",
+          "slug": "manuel-serrano-salazar",
+          "shortName": "M. S. Salazar",
+          "position": "D",
+          "jerseyNumber": "51",
+          "height": 175,
+          "userCount": 1373,
+          "gender": "M",
+          "id": 1145644,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1079740800,
+          "proposedMarketValueRaw": {
+            "value": 570000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانويل سيرانو سالازار"
+            },
+            "shortNameTranslation": {
+              "ar": "م. سالازار"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Madrid Castilla U21",
+          "slug": "real-madrid-castilla",
+          "shortName": "Real Madrid Castilla U21",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 51293,
+          "nameCode": "RMA",
+          "disabled": false,
+          "national": false,
+          "parentTeam": {
+            "name": "Real Madrid",
+            "slug": "real-madrid",
+            "shortName": "Real Madrid",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 7733858,
+            "nameCode": "RMA",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 2829,
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#004996",
+              "text": "#004996"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ريال مدريد",
+                "bn": "রিয়াল মাদ্রিদ",
+                "hi": "रियल मैड्रिड",
+                "ru": "Реал Мадрид"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "type": 0,
+          "id": 5069,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#004996",
+            "text": "#004996"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال مدريد كاستيا",
+              "hi": "रियल माद्रिद कास्टिला",
+              "ru": "Реал Мадрид Б"
+            },
+            "shortNameTranslation": {
+              "ar": "ريال مدريد كاستيا"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 31,
+          "accuratePass": 24,
+          "totalLongBalls": 4,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 13,
+          "totalOwnHalfPasses": 15,
+          "accurateOppositionHalfPasses": 11,
+          "totalOppositionHalfPasses": 16,
+          "totalCross": 4,
+          "accurateCross": 3,
+          "aerialLost": 3,
+          "aerialWon": 0,
+          "duelLost": 6,
+          "duelWon": 0,
+          "challengeLost": 1,
+          "totalContest": 0,
+          "wonContest": 0,
+          "onTargetScoringAttempt": 0,
+          "blockedScoringAttempt": 1,
+          "goals": 0,
+          "totalClearance": 4,
+          "outfielderBlock": 0,
+          "interceptionWon": 1,
+          "ballRecovery": 3,
+          "totalTackle": 0,
+          "wonTackle": 0,
+          "errorLeadToAShot": 0,
+          "ownGoals": 0,
+          "unsuccessfulTouch": 0,
+          "penaltyConceded": 1,
+          "wasFouled": 0,
+          "fouls": 1,
+          "totalOffside": 0,
+          "minutesPlayed": 90,
+          "touches": 42,
+          "rating": 6.2,
+          "possessionLostCtrl": 6,
+          "expectedGoals": 0.15,
+          "expectedAssists": 0,
+          "ratingVersions": {
+            "original": 6.2,
+            "alternative": null
+          },
+          "totalShots": 1,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Rayo",
+        "abreviatura": "RAY",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/14.png"
+      },
+      "visitante": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      }
+    },
+    "resultado": "0-0",
+    "fecha": "2025-11-09",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20190-rayo-real-madrid",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14102905,
+      "match_info": {
+        "homeTeam": {
+          "name": "Mérida AD",
+          "shortName": "Mérida",
+          "color": "#ffffff",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Real Madrid Castilla U21",
+          "shortName": "Real Madrid Castilla U21",
+          "color": "#ffffff",
+          "score": 0
+        },
+        "startTimestamp": 1762686000,
+        "slug": "merida-ad-real-madrid-castilla",
+        "fecha_normalizada": "2025-11-09"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manuel Serrano Salazar",
+          "firstName": "",
+          "lastName": "",
+          "slug": "manuel-serrano-salazar",
+          "shortName": "M. S. Salazar",
+          "position": "D",
+          "jerseyNumber": "51",
+          "height": 175,
+          "userCount": 1373,
+          "gender": "M",
+          "id": 1145644,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1079740800,
+          "proposedMarketValueRaw": {
+            "value": 570000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانويل سيرانو سالازار"
+            },
+            "shortNameTranslation": {
+              "ar": "م. سالازار"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Madrid Castilla U21",
+          "slug": "real-madrid-castilla",
+          "shortName": "Real Madrid Castilla U21",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 51293,
+          "nameCode": "RMA",
+          "disabled": false,
+          "national": false,
+          "parentTeam": {
+            "name": "Real Madrid",
+            "slug": "real-madrid",
+            "shortName": "Real Madrid",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 7733858,
+            "nameCode": "RMA",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 2829,
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#004996",
+              "text": "#004996"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ريال مدريد",
+                "bn": "রিয়াল মাদ্রিদ",
+                "hi": "रियल मैड्रिड",
+                "ru": "Реал Мадрид"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "type": 0,
+          "id": 5069,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#004996",
+            "text": "#004996"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال مدريد كاستيا",
+              "hi": "रियल माद्रिद कास्टिला",
+              "ru": "Реал Мадрид Б"
+            },
+            "shortNameTranslation": {
+              "ar": "ريال مدريد كاستيا"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 3,
+          "accuratePass": 3,
+          "totalLongBalls": 0,
+          "accurateLongBalls": 0,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 1,
+          "totalOwnHalfPasses": 1,
+          "accurateOppositionHalfPasses": 2,
+          "totalOppositionHalfPasses": 2,
+          "totalCross": 0,
+          "accurateCross": 0,
+          "aerialLost": 0,
+          "aerialWon": 0,
+          "duelLost": 1,
+          "duelWon": 0,
+          "challengeLost": 0,
+          "totalContest": 0,
+          "wonContest": 0,
+          "onTargetScoringAttempt": 0,
+          "blockedScoringAttempt": 1,
+          "goals": 0,
+          "totalClearance": 0,
+          "outfielderBlock": 0,
+          "ballRecovery": 0,
+          "totalTackle": 0,
+          "wonTackle": 0,
+          "errorLeadToAShot": 0,
+          "ownGoals": 0,
+          "unsuccessfulTouch": 0,
+          "wasFouled": 0,
+          "fouls": 0,
+          "totalOffside": 0,
+          "minutesPlayed": 13,
+          "touches": 4,
+          "rating": 6.4,
+          "possessionLostCtrl": 0,
+          "expectedGoals": 0.02,
+          "expectedAssists": 0,
+          "ratingVersions": {
+            "original": 6.4,
+            "alternative": null
+          },
+          "totalShots": 1,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      },
+      "visitante": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      }
+    },
+    "resultado": "0-3",
+    "fecha": "2025-12-03",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20253-athletic-real-madrid",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14489501,
+      "match_info": {
+        "homeTeam": {
+          "name": "Everton U21",
+          "shortName": "Everton U21",
+          "color": "#274488",
+          "score": 0
+        },
+        "awayTeam": {
+          "name": "Real Madrid Castilla U21",
+          "shortName": "Real Madrid Castilla U21",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "startTimestamp": 1764788400,
+        "slug": "everton-u21-real-madrid-castilla",
+        "fecha_normalizada": "2025-12-03"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manuel Serrano Salazar",
+          "firstName": "",
+          "lastName": "",
+          "slug": "manuel-serrano-salazar",
+          "shortName": "M. S. Salazar",
+          "position": "D",
+          "jerseyNumber": "51",
+          "height": 175,
+          "userCount": 1373,
+          "gender": "M",
+          "id": 1145644,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1079740800,
+          "proposedMarketValueRaw": {
+            "value": 570000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانويل سيرانو سالازار"
+            },
+            "shortNameTranslation": {
+              "ar": "م. سالازار"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Madrid Castilla U21",
+          "slug": "real-madrid-castilla",
+          "shortName": "Real Madrid Castilla U21",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 51293,
+          "nameCode": "RMA",
+          "disabled": false,
+          "national": false,
+          "parentTeam": {
+            "name": "Real Madrid",
+            "slug": "real-madrid",
+            "shortName": "Real Madrid",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 7733858,
+            "nameCode": "RMA",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 2829,
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#004996",
+              "text": "#004996"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ريال مدريد",
+                "bn": "রিয়াল মাদ্রিদ",
+                "hi": "रियल मैड्रिड",
+                "ru": "Реал Мадрид"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "type": 0,
+          "id": 5069,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#004996",
+            "text": "#004996"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال مدريد كاستيا",
+              "hi": "रियल माद्रिद कास्टिला",
+              "ru": "Реал Мадрид Б"
+            },
+            "shortNameTranslation": {
+              "ar": "ريال مدريد كاستيا"
+            }
+          }
+        },
+        "statistics": {
+          "goals": 0,
+          "ownGoals": 0,
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Osasuna",
+        "abreviatura": "OSA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
+      },
+      "visitante": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      }
+    },
+    "resultado": "2-1",
+    "fecha": "2026-02-21",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20319-osasuna-real-madrid",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14103255,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Avilés",
+          "shortName": "Avilés",
+          "color": "#0000dc",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Real Madrid Castilla U21",
+          "shortName": "Real Madrid Castilla U21",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1771704000,
+        "slug": "real-aviles-real-madrid-castilla",
+        "fecha_normalizada": "2026-02-21"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manuel Serrano Salazar",
+          "firstName": "",
+          "lastName": "",
+          "slug": "manuel-serrano-salazar",
+          "shortName": "M. S. Salazar",
+          "position": "D",
+          "jerseyNumber": "51",
+          "height": 175,
+          "userCount": 1373,
+          "gender": "M",
+          "id": 1145644,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1079740800,
+          "proposedMarketValueRaw": {
+            "value": 570000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانويل سيرانو سالازار"
+            },
+            "shortNameTranslation": {
+              "ar": "م. سالازار"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Madrid Castilla U21",
+          "slug": "real-madrid-castilla",
+          "shortName": "Real Madrid Castilla U21",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 51293,
+          "nameCode": "RMA",
+          "disabled": false,
+          "national": false,
+          "parentTeam": {
+            "name": "Real Madrid",
+            "slug": "real-madrid",
+            "shortName": "Real Madrid",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 7733858,
+            "nameCode": "RMA",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 2829,
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#004996",
+              "text": "#004996"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ريال مدريد",
+                "bn": "রিয়াল মাদ্রিদ",
+                "hi": "रियल मैड्रिड",
+                "ru": "Реал Мадрид"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "type": 0,
+          "id": 5069,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#004996",
+            "text": "#004996"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال مدريد كاستيا",
+              "hi": "रियल माद्रिद कास्टिला",
+              "ru": "Реал Мадрид Б"
+            },
+            "shortNameTranslation": {
+              "ar": "ريال مدريد كاستيا"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 5,
+          "accuratePass": 3,
+          "totalLongBalls": 0,
+          "accurateLongBalls": 0,
+          "goalAssist": 0,
+          "totalOwnHalfPasses": 1,
+          "accurateOppositionHalfPasses": 2,
+          "totalOppositionHalfPasses": 3,
+          "totalCross": 0,
+          "accurateCross": 0,
+          "aerialLost": 1,
+          "aerialWon": 2,
+          "duelLost": 2,
+          "duelWon": 2,
+          "challengeLost": 0,
+          "totalContest": 0,
+          "wonContest": 0,
+          "onTargetScoringAttempt": 0,
+          "goals": 0,
+          "totalClearance": 1,
+          "outfielderBlock": 0,
+          "interceptionWon": 1,
+          "ballRecovery": 2,
+          "totalTackle": 0,
+          "wonTackle": 0,
+          "errorLeadToAShot": 0,
+          "ownGoals": 0,
+          "unsuccessfulTouch": 0,
+          "wasFouled": 0,
+          "fouls": 0,
+          "totalOffside": 0,
+          "minutesPlayed": 47,
+          "touches": 7,
+          "rating": 6.5,
+          "possessionLostCtrl": 9,
+          "expectedGoals": 0,
+          "expectedAssists": 0,
+          "ratingVersions": {
+            "original": 6.5,
+            "alternative": null
+          },
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "4-1",
+    "fecha": "2026-03-14",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20350-real-madrid-elche",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14102888,
+      "match_info": {
+        "homeTeam": {
+          "name": "CD Lugo",
+          "shortName": "Lugo",
+          "color": "#ff0000",
+          "score": 0
+        },
+        "awayTeam": {
+          "name": "Real Madrid Castilla U21",
+          "shortName": "Real Madrid Castilla U21",
+          "color": "#ffffff",
+          "score": 4
+        },
+        "startTimestamp": 1773509400,
+        "slug": "cd-lugo-real-madrid-castilla",
+        "fecha_normalizada": "2026-03-14"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manuel Serrano Salazar",
+          "firstName": "",
+          "lastName": "",
+          "slug": "manuel-serrano-salazar",
+          "shortName": "M. S. Salazar",
+          "position": "D",
+          "jerseyNumber": "51",
+          "height": 175,
+          "userCount": 1373,
+          "gender": "M",
+          "id": 1145644,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1079740800,
+          "proposedMarketValueRaw": {
+            "value": 570000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانويل سيرانو سالازار"
+            },
+            "shortNameTranslation": {
+              "ar": "م. سالازار"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Madrid Castilla U21",
+          "slug": "real-madrid-castilla",
+          "shortName": "Real Madrid Castilla U21",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 51293,
+          "nameCode": "RMA",
+          "disabled": false,
+          "national": false,
+          "parentTeam": {
+            "name": "Real Madrid",
+            "slug": "real-madrid",
+            "shortName": "Real Madrid",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 7733858,
+            "nameCode": "RMA",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 2829,
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#004996",
+              "text": "#004996"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ريال مدريد",
+                "bn": "রিয়াল মাদ্রিদ",
+                "hi": "रियल मैड्रिड",
+                "ru": "Реал Мадрид"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "type": 0,
+          "id": 5069,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#004996",
+            "text": "#004996"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال مدريد كاستيا",
+              "hi": "रियल माद्रिद कास्टिला",
+              "ru": "Реал Мадрид Б"
+            },
+            "shortNameTranslation": {
+              "ar": "ريال مدريد كاستيا"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 47,
+          "accuratePass": 43,
+          "totalLongBalls": 4,
+          "accurateLongBalls": 3,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 16,
+          "totalOwnHalfPasses": 17,
+          "accurateOppositionHalfPasses": 27,
+          "totalOppositionHalfPasses": 30,
+          "totalCross": 4,
+          "accurateCross": 2,
+          "aerialLost": 2,
+          "aerialWon": 0,
+          "duelLost": 10,
+          "duelWon": 5,
+          "challengeLost": 3,
+          "totalContest": 2,
+          "wonContest": 2,
+          "shotOffTarget": 1,
+          "onTargetScoringAttempt": 0,
+          "goals": 0,
+          "totalClearance": 3,
+          "outfielderBlock": 0,
+          "ballRecovery": 7,
+          "totalTackle": 0,
+          "wonTackle": 0,
+          "errorLeadToAShot": 2,
+          "ownGoals": 0,
+          "unsuccessfulTouch": 0,
+          "wasFouled": 1,
+          "fouls": 1,
+          "totalOffside": 0,
+          "minutesPlayed": 90,
+          "touches": 61,
+          "rating": 6.9,
+          "possessionLostCtrl": 8,
+          "expectedGoals": 0.01,
+          "expectedAssists": 0,
+          "ratingVersions": {
+            "original": 6.9,
+            "alternative": null
+          },
+          "totalShots": 1,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Sevilla",
+        "abreviatura": "SEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/17.png"
+      },
+      "visitante": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      }
+    },
+    "resultado": "0-1",
+    "fecha": "2026-05-17",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20442-sevilla-real-madrid",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14102719,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Madrid Castilla U21",
+          "shortName": "Real Madrid Castilla U21",
+          "color": "#ffffff",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Arenas Club",
+          "shortName": "Arenas Club",
+          "color": "#c31717",
+          "score": 3
+        },
+        "startTimestamp": 1779030000,
+        "slug": "arenas-club-real-madrid-castilla",
+        "fecha_normalizada": "2026-05-17"
+      },
+      "player_stats": {
+        "error": {
+          "code": 404,
+          "message": "Not Found"
+        }
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "4-2",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20450-real-madrid-athletic",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 2,
+      "cope": null,
+      "sofascore": null,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 0.0,
+        "futbolfantasy-rpg": -2.0,
+        "comunio": 2.0,
+        "scale1": 0.0,
+        "biwenger-sofascore": 0.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 0.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": 0.0,
+        "futmondo-mixto-as": 0.0,
+        "futmondo-stats": 0.0,
+        "futmondo-mixto": 0.0,
+        "cronistas-marca": 0.0,
+        "marca-mixto": 0.0,
+        "marca-sofascore": 0.0,
+        "mister-cronistas-md": 0.0,
+        "mister-mixto": 0.0,
+        "mister-mixto-2": 0.0,
+        "mister-sofascore": 0.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 0.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 100.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 8.0,
+        "stat-pases-completados": 8.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083731,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Madrid",
+          "shortName": "Real Madrid",
+          "color": "#ffffff",
+          "score": 4
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 2
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-madrid-athletic-club",
+        "fecha_normalizada": "2026-05-23"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manuel Serrano Salazar",
+          "firstName": "",
+          "lastName": "",
+          "slug": "manuel-serrano-salazar",
+          "shortName": "M. S. Salazar",
+          "position": "D",
+          "jerseyNumber": "51",
+          "height": 175,
+          "userCount": 1373,
+          "gender": "M",
+          "id": 1145644,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1079740800,
+          "proposedMarketValueRaw": {
+            "value": 570000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانويل سيرانو سالازار"
+            },
+            "shortNameTranslation": {
+              "ar": "م. سالازار"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Madrid",
+          "slug": "real-madrid",
+          "shortName": "Real Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 7733858,
+          "nameCode": "RMA",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2829,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#004996",
+            "text": "#004996"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال مدريد",
+              "bn": "রিয়াল মাদ্রিদ",
+              "hi": "रियल मैड्रिड",
+              "ru": "Реал Мадрид"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 8,
+          "accuratePass": 8,
+          "totalLongBalls": 1,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 8,
+          "totalOwnHalfPasses": 8,
+          "minutesPlayed": 8,
+          "touches": 9,
+          "rating": 6.3,
+          "expectedAssists": 2.3e-05,
+          "totalBallCarriesDistance": 26.673993596395,
+          "ballCarriesCount": 3,
+          "totalProgression": 14.129845353679,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 6.3,
+            "alternative": 6.3
+          },
+          "totalShots": 0,
+          "passValueNormalized": -0.01,
+          "dribbleValueNormalized": 0.02,
+          "defensiveValueNormalized": -0.18,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Atlético",
+        "abreviatura": "ATM",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
+      },
+      "visitante": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      }
+    },
+    "resultado": "5-2",
+    "fecha": "2025-09-27",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20133-atletico-real-madrid",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14099128,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Madrid Castilla U21",
+          "shortName": "Real Madrid Castilla U21",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "CD Tenerife",
+          "shortName": "CD Tenerife",
+          "color": "#ffffff",
+          "score": 3
+        },
+        "startTimestamp": 1758990600,
+        "slug": "real-madrid-castilla-cd-tenerife",
+        "fecha_normalizada": "2025-09-27"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manuel Serrano Salazar",
+          "firstName": "",
+          "lastName": "",
+          "slug": "manuel-serrano-salazar",
+          "shortName": "M. S. Salazar",
+          "position": "D",
+          "jerseyNumber": "51",
+          "height": 175,
+          "userCount": 1373,
+          "gender": "M",
+          "id": 1145644,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1079740800,
+          "proposedMarketValueRaw": {
+            "value": 570000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانويل سيرانو سالازار"
+            },
+            "shortNameTranslation": {
+              "ar": "م. سالازار"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Madrid Castilla U21",
+          "slug": "real-madrid-castilla",
+          "shortName": "Real Madrid Castilla U21",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 51293,
+          "nameCode": "RMA",
+          "disabled": false,
+          "national": false,
+          "parentTeam": {
+            "name": "Real Madrid",
+            "slug": "real-madrid",
+            "shortName": "Real Madrid",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 7733858,
+            "nameCode": "RMA",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 2829,
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#004996",
+              "text": "#004996"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ريال مدريد",
+                "bn": "রিয়াল মাদ্রিদ",
+                "hi": "रियल मैड्रिड",
+                "ru": "Реал Мадрид"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "type": 0,
+          "id": 5069,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#004996",
+            "text": "#004996"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال مدريد كاستيا",
+              "hi": "रियल माद्रिद कास्टिला",
+              "ru": "Реал Мадрид Б"
+            },
+            "shortNameTranslation": {
+              "ar": "ريال مدريد كاستيا"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 30,
+          "accuratePass": 27,
+          "totalLongBalls": 1,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 14,
+          "totalOwnHalfPasses": 16,
+          "accurateOppositionHalfPasses": 13,
+          "totalOppositionHalfPasses": 14,
+          "totalCross": 1,
+          "accurateCross": 0,
+          "aerialLost": 0,
+          "aerialWon": 1,
+          "duelLost": 7,
+          "duelWon": 3,
+          "challengeLost": 0,
+          "dispossessed": 1,
+          "totalContest": 0,
+          "wonContest": 0,
+          "onTargetScoringAttempt": 0,
+          "goals": 0,
+          "totalClearance": 0,
+          "outfielderBlock": 0,
+          "interceptionWon": 1,
+          "ballRecovery": 6,
+          "totalTackle": 1,
+          "wonTackle": 0,
+          "errorLeadToAShot": 0,
+          "ownGoals": 0,
+          "unsuccessfulTouch": 0,
+          "wasFouled": 0,
+          "fouls": 1,
+          "totalOffside": 0,
+          "minutesPlayed": 61,
+          "touches": 41,
+          "rating": 6,
+          "possessionLostCtrl": 5,
+          "expectedGoals": 0,
+          "expectedAssists": 0,
+          "ratingVersions": {
+            "original": 6,
+            "alternative": null
+          },
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  }
+]

@@ -1,0 +1,141 @@
+{
+  "16447007": {
+    "id": 16447007,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Leicester City",
+        "shortName": "Leicester",
+        "color": "#003090",
+        "score": 3
+      },
+      "startTimestamp": 1784998800,
+      "slug": "malaga-cf-leicester-city"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juan Fernandéz",
+        "firstName": "Juan Fernandéz",
+        "slug": "juan-fernandez",
+        "shortName": "J. Fernandéz",
+        "position": "F",
+        "jerseyNumber": "32",
+        "height": 173,
+        "userCount": 4,
+        "gender": "M",
+        "sofascoreId": "zqxj8x",
+        "id": 2670181,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1168992000,
+        "proposedMarketValueRaw": {
+          "value": 97000,
+          "currency": "EUR"
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 52511,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 11,
+        "accuratePass": 8,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 6,
+        "duelLost": 1,
+        "duelWon": 5,
+        "shotOffTarget": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "totalTackle": 3,
+        "wonTackle": 1,
+        "wasFouled": 2,
+        "fouls": 1,
+        "minutesPlayed": 45,
+        "touches": 21,
+        "rating": 6.6,
+        "possessionLostCtrl": 3,
+        "totalBallCarriesDistance": 37.388607821416,
+        "ballCarriesCount": 6,
+        "totalProgression": -8.3926797079401,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.8
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.16,
+        "passValueNormalized": 0.02,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": -0.17,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16575702": {
+    "id": 16575702,
+    "match_info": {
+      "homeTeam": {
+        "name": "AD Ceuta",
+        "shortName": "Ceuta",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786122000,
+      "slug": "ad-ceuta-malaga-cf"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  }
+}

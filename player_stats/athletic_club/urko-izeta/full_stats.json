@@ -1,0 +1,5293 @@
+[
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Barcelona",
+        "abreviatura": "BAR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/3.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "4-0",
+    "fecha": "2025-11-22",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20193-barcelona-athletic",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083130,
+      "match_info": {
+        "homeTeam": {
+          "name": "FC Barcelona",
+          "shortName": "Barcelona",
+          "color": "#154284",
+          "score": 4
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 0
+        },
+        "startTimestamp": 1763824500,
+        "slug": "athletic-club-barcelona",
+        "fecha_normalizada": "2025-11-22"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Levante",
+        "abreviatura": "LEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/10.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "0-2",
+    "fecha": "2025-11-29",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20208-levante-athletic",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 2,
+      "cope": null,
+      "sofascore": null,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 0.0,
+        "scale1": 0.0,
+        "biwenger-sofascore": 0.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 0.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": 0.0,
+        "futmondo-mixto-as": 0.0,
+        "futmondo-stats": 0.0,
+        "futmondo-mixto": 0.0,
+        "cronistas-marca": 0.0,
+        "marca-mixto": 1.0,
+        "marca-sofascore": 0.0,
+        "mister-cronistas-md": 0.0,
+        "mister-mixto": 0.0,
+        "mister-mixto-2": 0.0,
+        "mister-sofascore": 0.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 2.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 66.7,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 3.0,
+        "stat-pases-completados": 2.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083145,
+      "match_info": {
+        "homeTeam": {
+          "name": "Levante UD",
+          "shortName": "Levante",
+          "color": "#0e3b68",
+          "score": 0
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 2
+        },
+        "startTimestamp": 1764437400,
+        "slug": "levante-ud-athletic-club",
+        "fecha_normalizada": "2025-11-29"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 3,
+          "accuratePass": 2,
+          "goalAssist": 0,
+          "accurateOppositionHalfPasses": 2,
+          "totalOppositionHalfPasses": 3,
+          "aerialLost": 1,
+          "duelLost": 1,
+          "shotOffTarget": 1,
+          "ballRecovery": 1,
+          "unsuccessfulTouch": 1,
+          "minutesPlayed": 2,
+          "touches": 5,
+          "possessionLostCtrl": 2,
+          "expectedGoals": 0.0443,
+          "expectedAssists": 0.00143744,
+          "totalBallCarriesDistance": 26.967161935039,
+          "ballCarriesCount": 3,
+          "totalProgression": -17.535,
+          "bestBallCarryProgression": -3.045,
+          "totalShots": 1,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      },
+      "visitante": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      }
+    },
+    "resultado": "0-3",
+    "fecha": "2025-12-03",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20253-athletic-real-madrid",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083210,
+      "match_info": {
+        "homeTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 0
+        },
+        "awayTeam": {
+          "name": "Real Madrid",
+          "shortName": "Real Madrid",
+          "color": "#ffffff",
+          "score": 3
+        },
+        "startTimestamp": 1764784800,
+        "slug": "real-madrid-athletic-club",
+        "fecha_normalizada": "2025-12-03"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      },
+      "visitante": {
+        "nombre": "Atlético",
+        "abreviatura": "ATM",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
+      }
+    },
+    "resultado": "1-0",
+    "fecha": "2025-12-06",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20213-athletic-atletico",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 1,
+      "cope": null,
+      "sofascore": 6.6,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 1.0,
+        "futbolfantasy-rpg": 0.0,
+        "comunio": 3.0,
+        "scale1": 0.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": 1.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": 1.0,
+        "futmondo-mixto-as": 0.0,
+        "futmondo-stats": 0.0,
+        "futmondo-mixto": 0.0,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 0.0,
+        "mister-mixto": 1.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 0.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 100.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 1.0,
+        "stat-pases-completados": 1.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083151,
+      "match_info": {
+        "homeTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Atlético Madrid",
+          "shortName": "Atl. Madrid",
+          "color": "#ffffff",
+          "score": 0
+        },
+        "startTimestamp": 1765051200,
+        "slug": "atletico-madrid-athletic-club",
+        "fecha_normalizada": "2025-12-06"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 1,
+          "accuratePass": 1,
+          "goalAssist": 0,
+          "accurateOppositionHalfPasses": 1,
+          "totalOppositionHalfPasses": 1,
+          "aerialLost": 1,
+          "duelLost": 1,
+          "minutesPlayed": 8,
+          "touches": 2,
+          "rating": 6.6,
+          "expectedAssists": 0.00888355,
+          "totalBallCarriesDistance": 21.587559750931,
+          "ballCarriesCount": 1,
+          "totalProgression": 17.64,
+          "bestBallCarryProgression": 17.64,
+          "ratingVersions": {
+            "original": 6.6,
+            "alternative": 6.5
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.08,
+          "dribbleValueNormalized": 0.09,
+          "defensiveValueNormalized": 0.13,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "2-0",
+    "fecha": "2025-12-14",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20225-celta-athletic",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 6.0,
+      "sofascore": 6.5,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 1.0,
+        "futbolfantasy-rpg": 2.0,
+        "comunio": 3.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": 2.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 1.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 1.0,
+        "futmondo-mixto": 2.6,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 0.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 1.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 1.0,
+        "stat-posesiones-perdidas": 1.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 100.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 5.0,
+        "stat-pases-completados": 5.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083171,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 0
+        },
+        "startTimestamp": 1765725300,
+        "slug": "athletic-club-celta-vigo",
+        "fecha_normalizada": "2025-12-14"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 5,
+          "accuratePass": 5,
+          "goalAssist": 0,
+          "accurateOppositionHalfPasses": 5,
+          "totalOppositionHalfPasses": 5,
+          "aerialWon": 1,
+          "duelWon": 1,
+          "bigChanceMissed": 1,
+          "shotOffTarget": 1,
+          "hitWoodwork": 1,
+          "ballRecovery": 1,
+          "unsuccessfulTouch": 1,
+          "minutesPlayed": 10,
+          "touches": 7,
+          "rating": 6.5,
+          "possessionLostCtrl": 1,
+          "expectedGoals": 0.0554,
+          "expectedAssists": 0.00433558,
+          "totalBallCarriesDistance": 3.8816846858033,
+          "ballCarriesCount": 1,
+          "totalProgression": -0.21,
+          "bestBallCarryProgression": -0.21,
+          "ratingVersions": {
+            "original": 6.5,
+            "alternative": 6.4
+          },
+          "totalShots": 1,
+          "shotValueNormalized": 0.01,
+          "passValueNormalized": -0.05,
+          "dribbleValueNormalized": 0,
+          "defensiveValueNormalized": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      },
+      "visitante": {
+        "nombre": "Espanyol",
+        "abreviatura": "ESP",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
+      }
+    },
+    "resultado": "1-2",
+    "fecha": "2025-12-22",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20233-athletic-espanyol",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083180,
+      "match_info": {
+        "homeTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Espanyol",
+          "shortName": "Espanyol",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "startTimestamp": 1766433600,
+        "slug": "athletic-club-espanyol",
+        "fecha_normalizada": "2025-12-22"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Osasuna",
+        "abreviatura": "OSA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-01-03",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20248-osasuna-athletic",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083200,
+      "match_info": {
+        "homeTeam": {
+          "name": "Osasuna",
+          "shortName": "Osasuna",
+          "color": "#cc0000",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 1
+        },
+        "startTimestamp": 1767453300,
+        "slug": "athletic-club-osasuna",
+        "fecha_normalizada": "2026-01-03"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "3-2",
+    "fecha": "2026-01-17",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20268-mallorca-athletic",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 4.0,
+      "sofascore": 6.3,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 0.0,
+        "comunio": 2.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 1.0,
+        "biwenger-social": 1.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 0.0,
+        "futmondo-mixto": 0.0,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 1.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 1.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 4.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 0.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 3.0,
+        "stat-pases-completados": 0.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083235,
+      "match_info": {
+        "homeTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 2
+        },
+        "startTimestamp": 1768662900,
+        "slug": "mallorca-athletic-club",
+        "fecha_normalizada": "2026-01-17"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 3,
+          "goalAssist": 0,
+          "totalOppositionHalfPasses": 3,
+          "unsuccessfulTouch": 1,
+          "minutesPlayed": 14,
+          "touches": 4,
+          "rating": 6.3,
+          "possessionLostCtrl": 4,
+          "ratingVersions": {
+            "original": 6.3,
+            "alternative": 6.5
+          },
+          "totalShots": 0,
+          "passValueNormalized": -0.3,
+          "defensiveValueNormalized": -0.01,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Sevilla",
+        "abreviatura": "SEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/17.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "2-1",
+    "fecha": "2026-01-24",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20280-sevilla-athletic",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 4.0,
+      "sofascore": 6.5,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 5.0,
+        "comunio": 3.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 4.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 6.0,
+        "futmondo-mixto": 4.9,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 1.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 1.0,
+        "stat-tiros-puerta": 1.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 1.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 2.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 1.0,
+        "stat-ocasiones-claras-falladas": 1.0,
+        "stat-posesiones-perdidas": 8.0,
+        "stat-tiros-totales": 2.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 66.7,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 15.0,
+        "stat-pases-completados": 10.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083127,
+      "match_info": {
+        "homeTeam": {
+          "name": "Sevilla",
+          "shortName": "Sevilla",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 1
+        },
+        "startTimestamp": 1769275800,
+        "slug": "sevilla-athletic-club",
+        "fecha_normalizada": "2026-01-24"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 15,
+          "accuratePass": 10,
+          "totalLongBalls": 1,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 3,
+          "totalOwnHalfPasses": 5,
+          "accurateOppositionHalfPasses": 7,
+          "totalOppositionHalfPasses": 10,
+          "aerialLost": 2,
+          "aerialWon": 1,
+          "duelLost": 4,
+          "duelWon": 3,
+          "totalContest": 1,
+          "bigChanceCreated": 1,
+          "bigChanceMissed": 1,
+          "onTargetScoringAttempt": 1,
+          "blockedScoringAttempt": 1,
+          "hitWoodwork": 1,
+          "ballRecovery": 2,
+          "totalTackle": 1,
+          "unsuccessfulTouch": 2,
+          "wasFouled": 1,
+          "fouls": 1,
+          "minutesPlayed": 57,
+          "touches": 27,
+          "rating": 6.5,
+          "possessionLostCtrl": 8,
+          "expectedGoals": 0.5725,
+          "expectedGoalsOnTarget": 0.2309,
+          "expectedAssists": 0.265665,
+          "totalBallCarriesDistance": 24.057532656922,
+          "ballCarriesCount": 3,
+          "totalProgression": 5.775,
+          "bestBallCarryProgression": 12.075,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 6.5,
+            "alternative": 6.7
+          },
+          "totalShots": 2,
+          "shotValueNormalized": -0.58,
+          "passValueNormalized": 0.25,
+          "dribbleValueNormalized": 0.23,
+          "defensiveValueNormalized": 0.13,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      },
+      "visitante": {
+        "nombre": "Real Sociedad",
+        "abreviatura": "RSO",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-02-01",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20283-athletic-real-sociedad",
+    "puntuaciones": {
+      "picas": 2,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.3,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 0.0,
+        "futbolfantasy-rpg": -3.0,
+        "comunio": 2.0,
+        "modo-picas": 6.0,
+        "biwenger-sofascore": 1.0,
+        "biwenger-social": -1.0,
+        "biwenger-as-sofascore": 4.0,
+        "biwenger-stats": -1.0,
+        "futmondo-prensa": 4.0,
+        "futmondo-mixto-as": 6.0,
+        "futmondo-stats": -3.0,
+        "futmondo-mixto": -0.3,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 1.0,
+        "marca-sofascore": 1.0,
+        "mister-cronistas-md": 6.0,
+        "mister-mixto": 4.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 1.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 1.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 1.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 75.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 4.0,
+        "stat-pases-completados": 3.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083195,
+      "match_info": {
+        "homeTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Real Sociedad",
+          "shortName": "Real Sociedad",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1769976000,
+        "slug": "athletic-club-real-sociedad",
+        "fecha_normalizada": "2026-02-01"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 4,
+          "accuratePass": 3,
+          "totalLongBalls": 1,
+          "goalAssist": 0,
+          "totalOwnHalfPasses": 1,
+          "accurateOppositionHalfPasses": 3,
+          "totalOppositionHalfPasses": 3,
+          "aerialLost": 1,
+          "duelLost": 2,
+          "shotOffTarget": 1,
+          "unsuccessfulTouch": 1,
+          "fouls": 1,
+          "minutesPlayed": 18,
+          "touches": 6,
+          "rating": 6.3,
+          "possessionLostCtrl": 2,
+          "expectedGoals": 0.0386,
+          "expectedAssists": 0.0033199,
+          "ratingVersions": {
+            "original": 6.3,
+            "alternative": 6.6
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.08,
+          "passValueNormalized": -0.1,
+          "defensiveValueNormalized": -0.04,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      },
+      "visitante": {
+        "nombre": "Levante",
+        "abreviatura": "LEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/10.png"
+      }
+    },
+    "resultado": "4-2",
+    "fecha": "2026-02-08",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20293-athletic-levante",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083260,
+      "match_info": {
+        "homeTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 4
+        },
+        "awayTeam": {
+          "name": "Levante UD",
+          "shortName": "Levante",
+          "color": "#0e3b68",
+          "score": 2
+        },
+        "startTimestamp": 1770563700,
+        "slug": "levante-ud-athletic-club",
+        "fecha_normalizada": "2026-02-08"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Real Oviedo",
+        "abreviatura": "ROV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/43.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "1-2",
+    "fecha": "2026-02-15",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20311-real-oviedo-athletic",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083454,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Oviedo",
+          "shortName": "Real Oviedo",
+          "color": "#3300ff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 2
+        },
+        "startTimestamp": 1771160400,
+        "slug": "real-oviedo-athletic-club",
+        "fecha_normalizada": "2026-02-15"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "2-1",
+    "fecha": "2026-02-20",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20313-athletic-elche",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 6.0,
+      "sofascore": 6.5,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 3.0,
+        "comunio": 3.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 1.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 3.0,
+        "futmondo-mixto": 3.0,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 1.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 1.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 100.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 6.0,
+        "stat-pases-completados": 6.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083549,
+      "match_info": {
+        "homeTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1771617600,
+        "slug": "elche-athletic-club",
+        "fecha_normalizada": "2026-02-20"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 6,
+          "accuratePass": 6,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 3,
+          "totalOwnHalfPasses": 3,
+          "accurateOppositionHalfPasses": 3,
+          "totalOppositionHalfPasses": 3,
+          "duelLost": 1,
+          "dispossessed": 1,
+          "onTargetScoringAttempt": 1,
+          "ballRecovery": 1,
+          "minutesPlayed": 10,
+          "touches": 11,
+          "rating": 6.5,
+          "possessionLostCtrl": 1,
+          "expectedGoals": 0.0421,
+          "expectedGoalsOnTarget": 0.067,
+          "expectedAssists": 0.00148114,
+          "totalBallCarriesDistance": 36.750089808937,
+          "ballCarriesCount": 4,
+          "totalProgression": -0.22617568304818,
+          "bestBallCarryProgression": 8.6923827316608,
+          "totalProgressiveBallCarriesDistance": 11.388731448234,
+          "progressiveBallCarriesCount": 1,
+          "ratingVersions": {
+            "original": 6.5,
+            "alternative": 6.7
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.12,
+          "passValueNormalized": -0.03,
+          "dribbleValueNormalized": 0.02,
+          "defensiveValueNormalized": 0.13,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Rayo",
+        "abreviatura": "RAY",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/14.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-02-28",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20328-rayo-athletic",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14081790,
+      "match_info": {
+        "homeTeam": {
+          "name": "Rayo Vallecano",
+          "shortName": "Rayo Vallecano",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 1
+        },
+        "startTimestamp": 1772283600,
+        "slug": "athletic-club-rayo-vallecano",
+        "fecha_normalizada": "2026-02-28"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Girona",
+        "abreviatura": "GIR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/30.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "3-0",
+    "fecha": "2026-03-14",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20346-girona-athletic",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": null,
+      "sofascore": 6.7,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 4.0,
+        "comunio": 4.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 3.0,
+        "biwenger-stats": 1.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 3.0,
+        "futmondo-mixto": 1.0,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 0.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 1.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 1.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 3.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 60.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 5.0,
+        "stat-pases-completados": 3.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083632,
+      "match_info": {
+        "homeTeam": {
+          "name": "Girona FC",
+          "shortName": "Girona",
+          "color": "#ffffff",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 0
+        },
+        "startTimestamp": 1773493200,
+        "slug": "girona-fc-athletic-club",
+        "fecha_normalizada": "2026-03-14"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 5,
+          "accuratePass": 3,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 1,
+          "totalOwnHalfPasses": 1,
+          "accurateOppositionHalfPasses": 2,
+          "totalOppositionHalfPasses": 4,
+          "onTargetScoringAttempt": 1,
+          "ballRecovery": 2,
+          "unsuccessfulTouch": 1,
+          "minutesPlayed": 11,
+          "touches": 8,
+          "rating": 6.7,
+          "possessionLostCtrl": 3,
+          "expectedGoals": 0.0262,
+          "expectedGoalsOnTarget": 0.0688,
+          "expectedAssists": 0.00648365,
+          "totalBallCarriesDistance": 24.937987768037,
+          "ballCarriesCount": 3,
+          "totalProgression": 17.555006974531,
+          "bestBallCarryProgression": 10.606820954804,
+          "totalProgressiveBallCarriesDistance": 11.179127157341,
+          "progressiveBallCarriesCount": 1,
+          "ratingVersions": {
+            "original": 6.7,
+            "alternative": 6.8
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.12,
+          "passValueNormalized": -0.29,
+          "dribbleValueNormalized": 0.31,
+          "defensiveValueNormalized": -0.01,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      },
+      "visitante": {
+        "nombre": "Betis",
+        "abreviatura": "BET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/4.png"
+      }
+    },
+    "resultado": "2-1",
+    "fecha": "2026-03-22",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20353-athletic-betis",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083657,
+      "match_info": {
+        "homeTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Real Betis",
+          "shortName": "Real Betis",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1774200600,
+        "slug": "athletic-club-real-betis",
+        "fecha_normalizada": "2026-03-22"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      },
+      "visitante": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      }
+    },
+    "resultado": "1-2",
+    "fecha": "2026-04-12",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20373-athletic-villarreal",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083102,
+      "match_info": {
+        "homeTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 2
+        },
+        "startTimestamp": 1776020400,
+        "slug": "athletic-club-villarreal",
+        "fecha_normalizada": "2026-04-12"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      },
+      "visitante": {
+        "nombre": "Osasuna",
+        "abreviatura": "OSA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
+      }
+    },
+    "resultado": "1-0",
+    "fecha": "2026-04-21",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20393-athletic-osasuna",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083258,
+      "match_info": {
+        "homeTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Osasuna",
+          "shortName": "Osasuna",
+          "color": "#cc0000",
+          "score": 0
+        },
+        "startTimestamp": 1776790800,
+        "slug": "athletic-club-osasuna",
+        "fecha_normalizada": "2026-04-21"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Atlético",
+        "abreviatura": "ATM",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "3-2",
+    "fecha": "2026-04-25",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20383-atletico-athletic",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083242,
+      "match_info": {
+        "homeTeam": {
+          "name": "Atlético Madrid",
+          "shortName": "Atl. Madrid",
+          "color": "#ffffff",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 2
+        },
+        "startTimestamp": 1777143600,
+        "slug": "atletico-madrid-athletic-club",
+        "fecha_normalizada": "2026-04-25"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Alavés",
+        "abreviatura": "ALA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "2-4",
+    "fecha": "2026-05-02",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20404-alaves-athletic",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083364,
+      "match_info": {
+        "homeTeam": {
+          "name": "Deportivo Alavés",
+          "shortName": "Alavés",
+          "color": "#0232a0",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 4
+        },
+        "startTimestamp": 1777739400,
+        "slug": "deportivo-alaves-athletic-club",
+        "fecha_normalizada": "2026-05-02"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      },
+      "visitante": {
+        "nombre": "Valencia",
+        "abreviatura": "VAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/18.png"
+      }
+    },
+    "resultado": "0-1",
+    "fecha": "2026-05-10",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20413-athletic-valencia",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083539,
+      "match_info": {
+        "homeTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 0
+        },
+        "awayTeam": {
+          "name": "Valencia",
+          "shortName": "Valencia",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1778422500,
+        "slug": "valencia-athletic-club",
+        "fecha_normalizada": "2026-05-10"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Espanyol",
+        "abreviatura": "ESP",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "2-0",
+    "fecha": "2026-05-13",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20425-espanyol-athletic",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083629,
+      "match_info": {
+        "homeTeam": {
+          "name": "Espanyol",
+          "shortName": "Espanyol",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 0
+        },
+        "startTimestamp": 1778691600,
+        "slug": "athletic-club-espanyol",
+        "fecha_normalizada": "2026-05-13"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-05-17",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20433-athletic-celta",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 2,
+      "cope": null,
+      "sofascore": 6.3,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 1.0,
+        "futbolfantasy-rpg": -1.0,
+        "comunio": 2.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 1.0,
+        "biwenger-social": -1.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": 1.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": -1.0,
+        "futmondo-mixto": -0.2,
+        "cronistas-marca": 0.0,
+        "marca-mixto": 1.0,
+        "marca-sofascore": 1.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 1.0,
+        "mister-mixto-2": 1.0,
+        "mister-sofascore": 1.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 2.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 100.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 2.0,
+        "stat-pases-completados": 2.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083656,
+      "match_info": {
+        "homeTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "startTimestamp": 1779037200,
+        "slug": "athletic-club-celta-vigo",
+        "fecha_normalizada": "2026-05-17"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 2,
+          "accuratePass": 2,
+          "goalAssist": 0,
+          "accurateOppositionHalfPasses": 2,
+          "totalOppositionHalfPasses": 2,
+          "aerialWon": 1,
+          "duelLost": 3,
+          "duelWon": 1,
+          "challengeLost": 2,
+          "shotOffTarget": 1,
+          "ballRecovery": 2,
+          "unsuccessfulTouch": 2,
+          "fouls": 1,
+          "minutesPlayed": 11,
+          "touches": 5,
+          "rating": 6.3,
+          "possessionLostCtrl": 2,
+          "expectedGoals": 0.0346,
+          "expectedAssists": 0.00147787,
+          "totalBallCarriesDistance": 31.548981776529,
+          "ballCarriesCount": 2,
+          "totalProgression": 30.766779360636,
+          "bestBallCarryProgression": 23.275978941706,
+          "totalProgressiveBallCarriesDistance": 23.887565719428,
+          "progressiveBallCarriesCount": 1,
+          "ratingVersions": {
+            "original": 6.3,
+            "alternative": 6.6
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.19,
+          "passValueNormalized": 0,
+          "dribbleValueNormalized": 0.16,
+          "defensiveValueNormalized": -0.09,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "4-2",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20450-real-madrid-athletic",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 2,
+      "cope": 7.0,
+      "sofascore": 7.2,
+      "relevo": 2.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 7.0,
+        "futbolfantasy-rpg": 11.0,
+        "comunio": 9.0,
+        "modo-picas": 5.0,
+        "biwenger-sofascore": 9.0,
+        "biwenger-social": 7.0,
+        "biwenger-as-sofascore": 7.0,
+        "biwenger-stats": 4.0,
+        "futmondo-prensa": 7.0,
+        "futmondo-mixto-as": 5.0,
+        "futmondo-stats": 10.0,
+        "futmondo-mixto": 7.1,
+        "cronistas-marca": 9.0,
+        "marca-mixto": 7.0,
+        "marca-sofascore": 9.0,
+        "mister-cronistas-md": 5.0,
+        "mister-mixto": 7.0,
+        "mister-mixto-2": 8.0,
+        "mister-sofascore": 9.0,
+        "stat-goles": 1.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 1.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 1.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 0.0,
+        "stat-tiros-totales": 2.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 100.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 2.0,
+        "stat-pases-completados": 2.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083731,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Madrid",
+          "shortName": "Real Madrid",
+          "color": "#ffffff",
+          "score": 4
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 2
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-madrid-athletic-club",
+        "fecha_normalizada": "2026-05-23"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 2,
+          "accuratePass": 2,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 2,
+          "totalOwnHalfPasses": 2,
+          "duelLost": 1,
+          "challengeLost": 1,
+          "onTargetScoringAttempt": 1,
+          "blockedScoringAttempt": 1,
+          "goals": 1,
+          "totalClearance": 1,
+          "minutesPlayed": 16,
+          "touches": 5,
+          "rating": 7.2,
+          "expectedGoals": 0.4152,
+          "expectedGoalsOnTarget": 0.8296,
+          "expectedAssists": 5.346e-05,
+          "topSpeed": 27.16,
+          "kilometersCovered": 1.82,
+          "numberOfSprints": 2,
+          "totalBallCarriesDistance": 16.285239482427,
+          "ballCarriesCount": 1,
+          "totalProgression": -11.508539727825,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 7.2,
+            "alternative": 7.2
+          },
+          "totalShots": 2,
+          "shotValueNormalized": 0.41,
+          "passValueNormalized": 0,
+          "dribbleValueNormalized": -0.05,
+          "defensiveValueNormalized": -0.02,
+          "metersCoveredRunningKm": 0.2,
+          "metersCoveredHighSpeedRunningKm": 0.08,
+          "metersCoveredSprintingKm": 0.02,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      },
+      "visitante": {
+        "nombre": "Sevilla",
+        "abreviatura": "SEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/17.png"
+      }
+    },
+    "resultado": "3-2",
+    "fecha": "2025-08-17",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20073-athletic-sevilla",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14082850,
+      "match_info": {
+        "homeTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Sevilla",
+          "shortName": "Sevilla",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "startTimestamp": 1755451800,
+        "slug": "sevilla-athletic-club",
+        "fecha_normalizada": "2025-08-17"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Betis",
+        "abreviatura": "BET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/4.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "1-2",
+    "fecha": "2025-08-31",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20099-betis-athletic",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083167,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Betis",
+          "shortName": "Real Betis",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 2
+        },
+        "startTimestamp": 1756659600,
+        "slug": "athletic-club-real-betis",
+        "fecha_normalizada": "2025-08-31"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      },
+      "visitante": {
+        "nombre": "Alavés",
+        "abreviatura": "ALA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
+      }
+    },
+    "resultado": "0-1",
+    "fecha": "2025-09-13",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20103-athletic-alaves",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": null,
+      "sofascore": 6.4,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 0.0,
+        "futbolfantasy-rpg": -3.0,
+        "comunio": 2.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": -1.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": -1.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": -3.0,
+        "futmondo-mixto": -1.0,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 1.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 0.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 2.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 1.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 6.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 1.0,
+        "stat-precision-pases": 40.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 5.0,
+        "stat-pases-completados": 2.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083246,
+      "match_info": {
+        "homeTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 0
+        },
+        "awayTeam": {
+          "name": "Deportivo Alavés",
+          "shortName": "Alavés",
+          "color": "#0232a0",
+          "score": 1
+        },
+        "startTimestamp": 1757781000,
+        "slug": "deportivo-alaves-athletic-club",
+        "fecha_normalizada": "2025-09-13"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 5,
+          "accuratePass": 2,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 1,
+          "totalOwnHalfPasses": 2,
+          "accurateOppositionHalfPasses": 1,
+          "totalOppositionHalfPasses": 3,
+          "totalCross": 1,
+          "aerialLost": 1,
+          "duelLost": 4,
+          "duelWon": 1,
+          "dispossessed": 1,
+          "totalTackle": 1,
+          "unsuccessfulTouch": 1,
+          "fouls": 2,
+          "minutesPlayed": 10,
+          "touches": 11,
+          "rating": 6.4,
+          "possessionLostCtrl": 6,
+          "expectedAssists": 0.00256617,
+          "ratingVersions": {
+            "original": 6.4,
+            "alternative": 6.4
+          },
+          "totalShots": 0,
+          "passValueNormalized": -0.07,
+          "dribbleValueNormalized": 0.37,
+          "defensiveValueNormalized": -0.07,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      },
+      "visitante": {
+        "nombre": "Girona",
+        "abreviatura": "GIR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/30.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2025-09-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20123-athletic-girona",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083369,
+      "match_info": {
+        "homeTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Girona FC",
+          "shortName": "Girona",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1758646800,
+        "slug": "girona-fc-athletic-club",
+        "fecha_normalizada": "2025-09-23"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "1-0",
+    "fecha": "2025-09-27",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20142-villarreal-athletic",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083586,
+      "match_info": {
+        "homeTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 0
+        },
+        "startTimestamp": 1758999600,
+        "slug": "athletic-club-villarreal",
+        "fecha_normalizada": "2025-09-27"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      },
+      "visitante": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      }
+    },
+    "resultado": "2-1",
+    "fecha": "2025-10-04",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20143-athletic-mallorca",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.5,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 0.0,
+        "comunio": 3.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": 1.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 0.0,
+        "futmondo-mixto": 1.0,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 0.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 3.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 75.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 4.0,
+        "stat-pases-completados": 3.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083610,
+      "match_info": {
+        "homeTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 1
+        },
+        "startTimestamp": 1759595400,
+        "slug": "mallorca-athletic-club",
+        "fecha_normalizada": "2025-10-04"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 4,
+          "accuratePass": 3,
+          "totalLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 1,
+          "totalOwnHalfPasses": 2,
+          "accurateOppositionHalfPasses": 2,
+          "totalOppositionHalfPasses": 2,
+          "ballRecovery": 1,
+          "unsuccessfulTouch": 1,
+          "minutesPlayed": 8,
+          "touches": 6,
+          "rating": 6.5,
+          "possessionLostCtrl": 2,
+          "expectedAssists": 0.00624617,
+          "totalBallCarriesDistance": 19.997626875068,
+          "ballCarriesCount": 2,
+          "totalProgression": -0.41999999999999,
+          "bestBallCarryProgression": 9.555,
+          "ratingVersions": {
+            "original": 6.5,
+            "alternative": 6.5
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.03,
+          "dribbleValueNormalized": 0.04,
+          "defensiveValueNormalized": -0.01,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "0-0",
+    "fecha": "2025-10-19",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20157-elche-athletic",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083685,
+      "match_info": {
+        "homeTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 0
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 0
+        },
+        "startTimestamp": 1760875200,
+        "slug": "elche-athletic-club",
+        "fecha_normalizada": "2025-10-19"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      },
+      "visitante": {
+        "nombre": "Getafe",
+        "abreviatura": "GET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/8.png"
+      }
+    },
+    "resultado": "0-1",
+    "fecha": "2025-10-25",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20163-athletic-getafe",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.4,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 4.0,
+        "comunio": 2.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": -2.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 1.0,
+        "futmondo-prensa": 0.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 3.0,
+        "futmondo-mixto": 2.6,
+        "cronistas-marca": -2.0,
+        "marca-mixto": 1.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 0.0,
+        "mister-mixto": 1.0,
+        "mister-mixto-2": 1.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 1.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 1.0,
+        "stat-regates-exito": 1.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 4.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 1.0,
+        "stat-precision-pases": 80.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 1.0,
+        "stat-faltas-directas-puerta": 1.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 5.0,
+        "stat-pases-completados": 4.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083704,
+      "match_info": {
+        "homeTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 0
+        },
+        "awayTeam": {
+          "name": "Getafe",
+          "shortName": "Getafe",
+          "color": "#00369e",
+          "score": 1
+        },
+        "startTimestamp": 1761409800,
+        "slug": "getafe-athletic-club",
+        "fecha_normalizada": "2025-10-25"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 5,
+          "accuratePass": 4,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 3,
+          "totalOwnHalfPasses": 3,
+          "accurateOppositionHalfPasses": 1,
+          "totalOppositionHalfPasses": 2,
+          "totalCross": 1,
+          "duelLost": 2,
+          "duelWon": 1,
+          "challengeLost": 1,
+          "totalContest": 2,
+          "wonContest": 1,
+          "onTargetScoringAttempt": 1,
+          "ballRecovery": 3,
+          "unsuccessfulTouch": 1,
+          "minutesPlayed": 14,
+          "touches": 11,
+          "rating": 6.4,
+          "possessionLostCtrl": 4,
+          "expectedGoals": 0.0358,
+          "expectedGoalsOnTarget": 0.1382,
+          "expectedAssists": 0.00094955,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 6.4,
+            "alternative": 6.7
+          },
+          "totalShots": 1,
+          "shotValueNormalized": 0.01,
+          "passValueNormalized": -0.06,
+          "dribbleValueNormalized": 0.05,
+          "defensiveValueNormalized": -0.05,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Real Sociedad",
+        "abreviatura": "RSO",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "3-2",
+    "fecha": "2025-11-01",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20181-real-sociedad-athletic",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083101,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Sociedad",
+          "shortName": "Real Sociedad",
+          "color": "#ffffff",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 2
+        },
+        "startTimestamp": 1762018200,
+        "slug": "athletic-club-real-sociedad",
+        "fecha_normalizada": "2025-11-01"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      },
+      "visitante": {
+        "nombre": "Real Oviedo",
+        "abreviatura": "ROV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/43.png"
+      }
+    },
+    "resultado": "1-0",
+    "fecha": "2025-11-09",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20183-athletic-real-oviedo",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083106,
+      "match_info": {
+        "homeTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Real Oviedo",
+          "shortName": "Real Oviedo",
+          "color": "#3300ff",
+          "score": 0
+        },
+        "startTimestamp": 1762693200,
+        "slug": "real-oviedo-athletic-club",
+        "fecha_normalizada": "2025-11-09"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Urko Izeta",
+          "firstName": "Urko Izeta",
+          "lastName": "",
+          "slug": "urko-izeta",
+          "shortName": "U. Izeta",
+          "position": "F",
+          "jerseyNumber": "25",
+          "height": 175,
+          "userCount": 457,
+          "gender": "M",
+          "id": 1430667,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938563200,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوركو إيزيتا",
+              "ru": "Урко Изета"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. إيزيتا",
+              "ru": "У. Изета"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 519382,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي أتليتيك",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  }
+]

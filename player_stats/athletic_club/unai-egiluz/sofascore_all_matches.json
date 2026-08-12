@@ -1,0 +1,7344 @@
+{
+  "12467594": {
+    "id": 12467594,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 1
+      },
+      "startTimestamp": 1733513400,
+      "slug": "mirandes-levante-ud"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 42,
+        "accuratePass": 41,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 32,
+        "totalOwnHalfPasses": 32,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 11,
+        "totalCross": 1,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 1,
+        "duelWon": 2,
+        "totalClearance": 9,
+        "outfielderBlock": 1,
+        "ballRecovery": 4,
+        "totalTackle": 1,
+        "minutesPlayed": 72,
+        "touches": 55,
+        "rating": 7.1,
+        "possessionLostCtrl": 2,
+        "ratingVersions": {
+          "original": 7.1,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467588": {
+    "id": 12467588,
+    "match_info": {
+      "homeTeam": {
+        "name": "Almería",
+        "shortName": "Almería",
+        "color": "#ff0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1734118200,
+      "slug": "mirandes-almeria"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 50,
+        "accuratePass": 39,
+        "totalLongBalls": 8,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 30,
+        "totalOwnHalfPasses": 34,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 16,
+        "aerialLost": 1,
+        "aerialWon": 3,
+        "duelLost": 1,
+        "duelWon": 5,
+        "shotOffTarget": 1,
+        "totalClearance": 4,
+        "outfielderBlock": 1,
+        "ballRecovery": 4,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 59,
+        "rating": 7.1,
+        "possessionLostCtrl": 11,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.1,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467573": {
+    "id": 12467573,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sporting Gijón",
+        "shortName": "Sporting",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1734552900,
+      "slug": "mirandes-sporting-gijon"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 18,
+        "accuratePass": 15,
+        "totalLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 14,
+        "totalOwnHalfPasses": 17,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 1,
+        "aerialLost": 4,
+        "aerialWon": 9,
+        "duelLost": 6,
+        "duelWon": 14,
+        "onTargetScoringAttempt": 1,
+        "totalClearance": 15,
+        "outfielderBlock": 1,
+        "ballRecovery": 4,
+        "totalTackle": 4,
+        "wonTackle": 3,
+        "wasFouled": 2,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 44,
+        "rating": 7.4,
+        "possessionLostCtrl": 3,
+        "ratingVersions": {
+          "original": 7.4,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467568": {
+    "id": 12467568,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de La Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 4
+      },
+      "startTimestamp": 1734897600,
+      "slug": "mirandes-deportivo-la-coruna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467509": {
+    "id": 12467509,
+    "match_info": {
+      "homeTeam": {
+        "name": "Granada",
+        "shortName": "Granada",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1739027700,
+      "slug": "mirandes-granada"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 2,
+        "accuratePass": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 2,
+        "minutesPlayed": 9,
+        "touches": 3,
+        "rating": 6.5,
+        "possessionLostCtrl": 1,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467490": {
+    "id": 12467490,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Racing de Ferrol",
+        "shortName": "Racing de Ferrol",
+        "color": "#0f7567",
+        "score": 1
+      },
+      "startTimestamp": 1739561400,
+      "slug": "mirandes-racing-de-ferrol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467485": {
+    "id": 12467485,
+    "match_info": {
+      "homeTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1740331800,
+      "slug": "mirandes-levante-ud"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 48,
+        "accuratePass": 44,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 37,
+        "totalOwnHalfPasses": 38,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 10,
+        "aerialWon": 3,
+        "duelLost": 1,
+        "duelWon": 7,
+        "challengeLost": 1,
+        "shotOffTarget": 1,
+        "totalClearance": 11,
+        "outfielderBlock": 3,
+        "interceptionWon": 3,
+        "ballRecovery": 3,
+        "totalTackle": 3,
+        "wonTackle": 2,
+        "errorLeadToAShot": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 87,
+        "touches": 73,
+        "rating": 7.6,
+        "possessionLostCtrl": 5,
+        "ratingVersions": {
+          "original": 7.6,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467475": {
+    "id": 12467475,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "CD Tenerife",
+        "shortName": "CD Tenerife",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1741030200,
+      "slug": "mirandes-cd-tenerife"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 7,
+        "accuratePass": 5,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 4,
+        "duelLost": 2,
+        "ballRecovery": 1,
+        "fouls": 2,
+        "minutesPlayed": 17,
+        "touches": 7,
+        "rating": 6.4,
+        "possessionLostCtrl": 3,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467470": {
+    "id": 12467470,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1741446900,
+      "slug": "mirandes-real-oviedo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 17,
+        "accuratePass": 12,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 8,
+        "totalOwnHalfPasses": 10,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 8,
+        "totalCross": 1,
+        "aerialLost": 2,
+        "aerialWon": 1,
+        "duelLost": 5,
+        "duelWon": 4,
+        "totalContest": 1,
+        "shotOffTarget": 1,
+        "totalClearance": 5,
+        "clearanceOffLine": 1,
+        "outfielderBlock": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 1,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "unsuccessfulTouch": 3,
+        "wasFouled": 1,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 36,
+        "rating": 7.7,
+        "possessionLostCtrl": 10,
+        "ratingVersions": {
+          "original": 7.7,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467453": {
+    "id": 12467453,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Eldense",
+        "shortName": "Eldense",
+        "color": "#bf0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "startTimestamp": 1742130000,
+      "slug": "cd-eldense-mirandes"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 33,
+        "accuratePass": 31,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 20,
+        "totalOwnHalfPasses": 21,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 12,
+        "aerialLost": 3,
+        "aerialWon": 4,
+        "duelLost": 5,
+        "duelWon": 4,
+        "challengeLost": 1,
+        "totalClearance": 9,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "fouls": 1,
+        "minutesPlayed": 85,
+        "touches": 48,
+        "rating": 6.8,
+        "possessionLostCtrl": 2,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467444": {
+    "id": 12467444,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1742664600,
+      "slug": "mirandes-racing-de-santander"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 45,
+        "accuratePass": 34,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 27,
+        "totalOwnHalfPasses": 34,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 11,
+        "aerialLost": 2,
+        "aerialWon": 3,
+        "duelLost": 3,
+        "duelWon": 3,
+        "bigChanceMissed": 1,
+        "onTargetScoringAttempt": 1,
+        "totalClearance": 1,
+        "ballRecovery": 6,
+        "unsuccessfulTouch": 2,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 52,
+        "rating": 6.3,
+        "possessionLostCtrl": 14,
+        "totalBallCarriesDistance": 206.3123949966,
+        "ballCarriesCount": 20,
+        "totalProgression": 129.44218958592,
+        "bestBallCarryProgression": 19.638982040815,
+        "totalProgressiveBallCarriesDistance": 25.077511918051,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467418": {
+    "id": 12467418,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Zaragoza",
+        "shortName": "Real Zaragoza",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1743940800,
+      "slug": "mirandes-real-zaragoza"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 44,
+        "accuratePass": 35,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 24,
+        "totalOwnHalfPasses": 28,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 16,
+        "aerialLost": 3,
+        "aerialWon": 1,
+        "duelLost": 4,
+        "duelWon": 6,
+        "totalClearance": 4,
+        "ballRecovery": 1,
+        "totalTackle": 4,
+        "wonTackle": 2,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 54,
+        "rating": 6.7,
+        "possessionLostCtrl": 9,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467406": {
+    "id": 12467406,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Deportivo de La Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 2
+      },
+      "startTimestamp": 1744561800,
+      "slug": "mirandes-deportivo-la-coruna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 32,
+        "accuratePass": 27,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 17,
+        "totalOwnHalfPasses": 19,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 14,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "aerialLost": 4,
+        "aerialWon": 1,
+        "duelLost": 10,
+        "duelWon": 3,
+        "challengeLost": 1,
+        "bigChanceCreated": 1,
+        "onTargetScoringAttempt": 1,
+        "totalClearance": 4,
+        "ballRecovery": 3,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 2,
+        "penaltyConceded": 1,
+        "fouls": 5,
+        "minutesPlayed": 90,
+        "touches": 44,
+        "rating": 6.3,
+        "possessionLostCtrl": 7,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467393": {
+    "id": 12467393,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sporting Gijón",
+        "shortName": "Sporting",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "startTimestamp": 1744995600,
+      "slug": "mirandes-sporting-gijon"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 31,
+        "accuratePass": 24,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 18,
+        "totalOwnHalfPasses": 23,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 8,
+        "aerialLost": 2,
+        "aerialWon": 3,
+        "duelLost": 3,
+        "duelWon": 6,
+        "totalClearance": 2,
+        "ballRecovery": 5,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 73,
+        "touches": 38,
+        "rating": 6.7,
+        "possessionLostCtrl": 9,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12465937": {
+    "id": 12465937,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Burgos Club de Fútbol",
+        "shortName": "Burgos",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1745685000,
+      "slug": "mirandes-burgos-club-de-futbol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 47,
+        "accuratePass": 39,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 21,
+        "totalOwnHalfPasses": 23,
+        "accurateOppositionHalfPasses": 19,
+        "totalOppositionHalfPasses": 25,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "aerialLost": 4,
+        "aerialWon": 2,
+        "duelLost": 4,
+        "duelWon": 2,
+        "totalClearance": 2,
+        "outfielderBlock": 1,
+        "interceptionWon": 2,
+        "ballRecovery": 2,
+        "unsuccessfulTouch": 3,
+        "minutesPlayed": 90,
+        "touches": 60,
+        "rating": 6.9,
+        "possessionLostCtrl": 11,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12465951": {
+    "id": 12465951,
+    "match_info": {
+      "homeTeam": {
+        "name": "Eibar",
+        "shortName": "Eibar",
+        "color": "#003e85",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "startTimestamp": 1746289800,
+      "slug": "mirandes-eibar"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 56,
+        "accuratePass": 52,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 26,
+        "totalOwnHalfPasses": 28,
+        "accurateOppositionHalfPasses": 26,
+        "totalOppositionHalfPasses": 28,
+        "aerialLost": 6,
+        "aerialWon": 5,
+        "duelLost": 9,
+        "duelWon": 7,
+        "totalContest": 3,
+        "wonContest": 2,
+        "totalClearance": 4,
+        "ballRecovery": 2,
+        "fouls": 3,
+        "minutesPlayed": 90,
+        "touches": 65,
+        "rating": 6.9,
+        "possessionLostCtrl": 5,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12465963": {
+    "id": 12465963,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "CD Castellón",
+        "shortName": "Castellón",
+        "color": "#191f23",
+        "score": 2
+      },
+      "startTimestamp": 1746886500,
+      "slug": "mirandes-cd-castellon"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 44,
+        "accuratePass": 37,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 26,
+        "totalOwnHalfPasses": 29,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 15,
+        "aerialLost": 1,
+        "aerialWon": 6,
+        "duelLost": 3,
+        "duelWon": 10,
+        "blockedScoringAttempt": 2,
+        "totalClearance": 4,
+        "ballRecovery": 6,
+        "totalTackle": 4,
+        "wonTackle": 3,
+        "unsuccessfulTouch": 1,
+        "fouls": 2,
+        "minutesPlayed": 89,
+        "touches": 59,
+        "rating": 7.2,
+        "possessionLostCtrl": 8,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 7.2,
+          "alternative": null
+        },
+        "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12465972": {
+    "id": 12465972,
+    "match_info": {
+      "homeTeam": {
+        "name": "Córdoba",
+        "shortName": "Córdoba",
+        "color": "#339900",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "startTimestamp": 1747679400,
+      "slug": "mirandes-cordoba"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 3,
+        "accuratePass": 2,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 3,
+        "duelWon": 1,
+        "totalClearance": 1,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "totalOffside": 1,
+        "minutesPlayed": 14,
+        "touches": 6,
+        "rating": 6.6,
+        "possessionLostCtrl": 1,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12465916": {
+    "id": 12465916,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Almería",
+        "shortName": "Almería",
+        "color": "#ff0000",
+        "score": 0
+      },
+      "startTimestamp": 1748190600,
+      "slug": "mirandes-almeria"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 25,
+        "accuratePass": 21,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 17,
+        "totalOwnHalfPasses": 19,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 6,
+        "aerialLost": 7,
+        "aerialWon": 3,
+        "duelLost": 7,
+        "duelWon": 5,
+        "bigChanceMissed": 2,
+        "shotOffTarget": 2,
+        "hitWoodwork": 1,
+        "totalClearance": 4,
+        "interceptionWon": 4,
+        "ballRecovery": 4,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 2,
+        "totalOffside": 1,
+        "minutesPlayed": 90,
+        "touches": 40,
+        "rating": 7.3,
+        "possessionLostCtrl": 6,
+        "ratingVersions": {
+          "original": 7.3,
+          "alternative": null
+        },
+        "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12465927": {
+    "id": 12465927,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "startTimestamp": 1748795400,
+      "slug": "mirandes-fc-cartagena"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 40,
+        "accuratePass": 34,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 17,
+        "totalOwnHalfPasses": 19,
+        "accurateOppositionHalfPasses": 17,
+        "totalOppositionHalfPasses": 21,
+        "aerialLost": 2,
+        "aerialWon": 2,
+        "duelLost": 3,
+        "duelWon": 4,
+        "totalClearance": 1,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 45,
+        "touches": 46,
+        "rating": 6.4,
+        "possessionLostCtrl": 7,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13963638": {
+    "id": 13963638,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "startTimestamp": 1749400200,
+      "slug": "mirandes-racing-de-santander"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 17,
+        "accuratePass": 13,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 8,
+        "totalOwnHalfPasses": 10,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 7,
+        "aerialLost": 1,
+        "aerialWon": 2,
+        "duelLost": 6,
+        "duelWon": 7,
+        "totalContest": 1,
+        "totalClearance": 10,
+        "outfielderBlock": 1,
+        "interceptionWon": 3,
+        "ballRecovery": 4,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "wasFouled": 3,
+        "fouls": 4,
+        "minutesPlayed": 90,
+        "touches": 42,
+        "rating": 6.7,
+        "possessionLostCtrl": 5,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13963640": {
+    "id": 13963640,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1749754800,
+      "slug": "mirandes-racing-de-santander"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 35,
+        "accuratePass": 33,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 24,
+        "totalOwnHalfPasses": 26,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 9,
+        "aerialLost": 3,
+        "aerialWon": 4,
+        "duelLost": 5,
+        "duelWon": 10,
+        "totalClearance": 10,
+        "interceptionWon": 2,
+        "ballRecovery": 6,
+        "totalTackle": 3,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 3,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 56,
+        "rating": 7.2,
+        "possessionLostCtrl": 3,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.2,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13963641": {
+    "id": 13963641,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1750006800,
+      "slug": "wsf2-wsf1"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 41,
+        "accuratePass": 33,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 25,
+        "totalOwnHalfPasses": 31,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 10,
+        "aerialLost": 3,
+        "aerialWon": 4,
+        "duelLost": 5,
+        "duelWon": 5,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 8,
+        "outfielderBlock": 1,
+        "interceptionWon": 1,
+        "totalTackle": 1,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 55,
+        "rating": 7.3,
+        "possessionLostCtrl": 8,
+        "ratingVersions": {
+          "original": 7.3,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13963643": {
+    "id": 13963643,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "startTimestamp": 1750532400,
+      "slug": "wsf2-wsf1"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 53,
+        "accuratePass": 48,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 34,
+        "totalOwnHalfPasses": 37,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 17,
+        "totalCross": 1,
+        "aerialLost": 5,
+        "aerialWon": 8,
+        "duelLost": 7,
+        "duelWon": 12,
+        "totalContest": 1,
+        "wonContest": 1,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 8,
+        "interceptionWon": 4,
+        "ballRecovery": 4,
+        "errorLeadToAGoal": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 4,
+        "fouls": 3,
+        "minutesPlayed": 119,
+        "touches": 80,
+        "rating": 6.3,
+        "possessionLostCtrl": 7,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14216666": {
+    "id": 14216666,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "SD Ponferradina",
+        "shortName": "Ponferradina",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1752948300,
+      "slug": "sd-ponferradina-athletic-club"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14050540": {
+    "id": 14050540,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1753203600,
+      "slug": "deportivo-alaves-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 22,
+        "accuratePass": 22,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 12,
+        "totalOwnHalfPasses": 12,
+        "accurateOppositionHalfPasses": 10,
+        "totalOppositionHalfPasses": 10,
+        "duelLost": 1,
+        "duelWon": 1,
+        "onTargetScoringAttempt": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "fouls": 1,
+        "minutesPlayed": 45,
+        "touches": 26,
+        "rating": 6.7,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.7
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14050549": {
+    "id": 14050549,
+    "match_info": {
+      "homeTeam": {
+        "name": "PSV Eindhoven",
+        "shortName": "PSV",
+        "color": "#ff0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "startTimestamp": 1753543800,
+      "slug": "psv-eindhoven-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 10,
+        "accuratePass": 10,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 7,
+        "totalOwnHalfPasses": 7,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 3,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 1,
+        "duelWon": 2,
+        "totalClearance": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "minutesPlayed": 19,
+        "touches": 13,
+        "rating": 6.8,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14305948": {
+    "id": 14305948,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "startTimestamp": 1753894800,
+      "slug": "racing-de-santander-athletic-club"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14081813": {
+    "id": 14081813,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1775390400,
+      "slug": "getafe-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083629": {
+    "id": 14083629,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1778691600,
+      "slug": "athletic-club-espanyol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "11368591": {
+    "id": 11368591,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1693164600,
+      "slug": "athletic-club-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "expectedGoalsOnTarget": 0,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "11369301": {
+    "id": 11369301,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1693750500,
+      "slug": "mallorca-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "expectedGoalsOnTarget": 0,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "11369368": {
+    "id": 11369368,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1698600600,
+      "slug": "valencia-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "11772213": {
+    "id": 11772213,
+    "match_info": {
+      "homeTeam": {
+        "name": "UE Rubí",
+        "shortName": "Rubí",
+        "color": "#374df5",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1698870600,
+      "slug": "ue-rubi-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 53,
+        "accuratePass": 49,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 2,
+        "accurateOwnHalfPasses": 30,
+        "totalOwnHalfPasses": 31,
+        "accurateOppositionHalfPasses": 19,
+        "totalOppositionHalfPasses": 22,
+        "aerialLost": 1,
+        "duelLost": 2,
+        "duelWon": 1,
+        "blockedScoringAttempt": 1,
+        "ballRecovery": 7,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 1,
+        "fouls": 1,
+        "minutesPlayed": 72,
+        "touches": 57,
+        "rating": 6.8,
+        "possessionLostCtrl": 5,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.8
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "11844566": {
+    "id": 11844566,
+    "match_info": {
+      "homeTeam": {
+        "name": "Everton U21",
+        "shortName": "Everton U21",
+        "color": "#274488",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1700679600,
+      "slug": "everton-u21-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11543202": {
+    "id": 11543202,
+    "match_info": {
+      "homeTeam": {
+        "name": "Fulham U21",
+        "shortName": "Fulham U21",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "startTimestamp": 1703098800,
+      "slug": "fulham-u21-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11368732": {
+    "id": 11368732,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 0
+      },
+      "startTimestamp": 1709496000,
+      "slug": "athletic-club-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "11368712": {
+    "id": 11368712,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 0
+      },
+      "startTimestamp": 1710619200,
+      "slug": "deportivo-alaves-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "11368702": {
+    "id": 11368702,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 1
+      },
+      "startTimestamp": 1713112200,
+      "slug": "athletic-club-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "11368657": {
+    "id": 11368657,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "startTimestamp": 1715454000,
+      "slug": "athletic-club-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "11368650": {
+    "id": 11368650,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "startTimestamp": 1715803200,
+      "slug": "athletic-club-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12437604": {
+    "id": 12437604,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "startTimestamp": 1723741200,
+      "slug": "getafe-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12437652": {
+    "id": 12437652,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "startTimestamp": 1724518800,
+      "slug": "athletic-club-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12437659": {
+    "id": 12437659,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1724864400,
+      "slug": "valencia-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467757": {
+    "id": 12467757,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Real Zaragoza",
+        "shortName": "Real Zaragoza",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1725210000,
+      "slug": "mirandes-real-zaragoza"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467751": {
+    "id": 12467751,
+    "match_info": {
+      "homeTeam": {
+        "name": "Racing de Ferrol",
+        "shortName": "Racing de Ferrol",
+        "color": "#0f7567",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1725796800,
+      "slug": "mirandes-racing-de-ferrol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467734": {
+    "id": 12467734,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Albacete Balompié",
+        "shortName": "Albacete",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1726401600,
+      "slug": "mirandes-albacete-balompie"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 15,
+        "accuratePass": 11,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 7,
+        "totalOwnHalfPasses": 8,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 8,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "aerialWon": 3,
+        "duelLost": 2,
+        "duelWon": 4,
+        "totalClearance": 3,
+        "totalTackle": 1,
+        "fouls": 2,
+        "minutesPlayed": 45,
+        "touches": 21,
+        "rating": 6.6,
+        "possessionLostCtrl": 4,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467728": {
+    "id": 12467728,
+    "match_info": {
+      "homeTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1727022600,
+      "slug": "mirandes-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 11,
+        "accuratePass": 8,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 6,
+        "totalOwnHalfPasses": 9,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 2,
+        "aerialWon": 1,
+        "duelWon": 2,
+        "totalClearance": 1,
+        "ballRecovery": 3,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "minutesPlayed": 10,
+        "touches": 13,
+        "rating": 6.7,
+        "possessionLostCtrl": 3,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467711": {
+    "id": 12467711,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 0
+      },
+      "startTimestamp": 1727532900,
+      "slug": "mirandes-huesca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467700": {
+    "id": 12467700,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Granada",
+        "shortName": "Granada",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "startTimestamp": 1728137700,
+      "slug": "mirandes-granada"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467694": {
+    "id": 12467694,
+    "match_info": {
+      "homeTeam": {
+        "name": "Burgos Club de Fútbol",
+        "shortName": "Burgos",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "startTimestamp": 1728837000,
+      "slug": "mirandes-burgos-club-de-futbol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "goalAssist": 0,
+        "aerialWon": 2,
+        "duelWon": 2,
+        "totalClearance": 4,
+        "interceptionWon": 1,
+        "minutesPlayed": 13,
+        "touches": 5,
+        "rating": 6.8,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467677": {
+    "id": 12467677,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Eibar",
+        "shortName": "Eibar",
+        "color": "#003e85",
+        "score": 0
+      },
+      "startTimestamp": 1729364400,
+      "slug": "mirandes-eibar"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 22,
+        "accuratePass": 15,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 10,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 11,
+        "aerialLost": 6,
+        "aerialWon": 6,
+        "duelLost": 8,
+        "duelWon": 7,
+        "totalClearance": 2,
+        "interceptionWon": 2,
+        "totalTackle": 1,
+        "fouls": 2,
+        "minutesPlayed": 83,
+        "touches": 30,
+        "rating": 6.9,
+        "possessionLostCtrl": 7,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12594767": {
+    "id": 12594767,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "startTimestamp": 1729616400,
+      "slug": "mirandes-real-oviedo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 52,
+        "accuratePass": 48,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 41,
+        "totalOwnHalfPasses": 42,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 10,
+        "aerialLost": 1,
+        "aerialWon": 4,
+        "duelLost": 2,
+        "duelWon": 4,
+        "totalClearance": 2,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "fouls": 1,
+        "minutesPlayed": 56,
+        "touches": 56,
+        "rating": 6.1,
+        "possessionLostCtrl": 4,
+        "ratingVersions": {
+          "original": 6.1,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467659": {
+    "id": 12467659,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 1
+      },
+      "startTimestamp": 1729952100,
+      "slug": "mirandes-fc-cartagena"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 71,
+        "accuratePass": 64,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 46,
+        "totalOwnHalfPasses": 50,
+        "accurateOppositionHalfPasses": 18,
+        "totalOppositionHalfPasses": 21,
+        "aerialLost": 5,
+        "aerialWon": 1,
+        "duelLost": 10,
+        "duelWon": 1,
+        "totalClearance": 4,
+        "clearanceOffLine": 1,
+        "outfielderBlock": 2,
+        "interceptionWon": 3,
+        "ballRecovery": 5,
+        "fouls": 5,
+        "minutesPlayed": 90,
+        "touches": 83,
+        "rating": 7.4,
+        "possessionLostCtrl": 7,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.4,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12970167": {
+    "id": 12970167,
+    "match_info": {
+      "homeTeam": {
+        "name": "UE Sant Andreu",
+        "shortName": "Sant Andreu",
+        "color": "#f5d300",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "startTimestamp": 1730314800,
+      "slug": "mirandes-ue-sant-andreu"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "goalAssist": 0,
+        "goals": 0,
+        "ownGoals": 0,
+        "minutesPlayed": 46,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467642": {
+    "id": 12467642,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Tenerife",
+        "shortName": "CD Tenerife",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1730655000,
+      "slug": "mirandes-cd-tenerife"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 44,
+        "accuratePass": 41,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 31,
+        "totalOwnHalfPasses": 32,
+        "accurateOppositionHalfPasses": 10,
+        "totalOppositionHalfPasses": 12,
+        "aerialLost": 5,
+        "aerialWon": 5,
+        "duelLost": 7,
+        "duelWon": 6,
+        "dispossessed": 1,
+        "totalClearance": 3,
+        "interceptionWon": 1,
+        "totalTackle": 1,
+        "errorLeadToAShot": 1,
+        "unsuccessfulTouch": 1,
+        "fouls": 1,
+        "minutesPlayed": 58,
+        "touches": 51,
+        "rating": 6.6,
+        "possessionLostCtrl": 5,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467648": {
+    "id": 12467648,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Cádiz",
+        "shortName": "Cádiz",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "startTimestamp": 1731165300,
+      "slug": "mirandes-cadiz"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 23,
+        "accuratePass": 19,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 16,
+        "totalOwnHalfPasses": 19,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 4,
+        "aerialLost": 2,
+        "duelLost": 3,
+        "duelWon": 1,
+        "totalClearance": 6,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 33,
+        "rating": 6.3,
+        "possessionLostCtrl": 4,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467631": {
+    "id": 12467631,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Castellón",
+        "shortName": "Castellón",
+        "color": "#191f23",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "startTimestamp": 1731770100,
+      "slug": "mirandes-cd-castellon"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 20,
+        "accuratePass": 14,
+        "totalLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 7,
+        "totalOwnHalfPasses": 9,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 11,
+        "aerialLost": 2,
+        "aerialWon": 4,
+        "duelLost": 3,
+        "duelWon": 5,
+        "totalClearance": 9,
+        "clearanceOffLine": 1,
+        "outfielderBlock": 3,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 34,
+        "rating": 7.6,
+        "possessionLostCtrl": 6,
+        "ratingVersions": {
+          "original": 7.6,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467611": {
+    "id": 12467611,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "CD Eldense",
+        "shortName": "Eldense",
+        "color": "#bf0000",
+        "score": 0
+      },
+      "startTimestamp": 1732461300,
+      "slug": "cd-eldense-mirandes"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 33,
+        "accuratePass": 24,
+        "totalLongBalls": 6,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 24,
+        "totalOwnHalfPasses": 26,
+        "totalOppositionHalfPasses": 7,
+        "aerialWon": 2,
+        "duelLost": 2,
+        "duelWon": 5,
+        "challengeLost": 1,
+        "totalClearance": 4,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 56,
+        "touches": 43,
+        "rating": 6.7,
+        "possessionLostCtrl": 9,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467601": {
+    "id": 12467601,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "startTimestamp": 1732987800,
+      "slug": "mirandes-racing-de-santander"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Mirandés",
+        "slug": "mirandes",
+        "shortName": "Mirandés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 21991,
+        "nameCode": "MIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 35092,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميرانديس",
+            "ru": "ФК Мирандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ميرانديس"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "10522864": {
+    "id": 10522864,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "CF Intercity",
+        "shortName": "Intercity",
+        "color": "#000000",
+        "score": 0
+      },
+      "startTimestamp": 1665309600,
+      "slug": "cf-intercity-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10522926": {
+    "id": 10522926,
+    "match_info": {
+      "homeTeam": {
+        "name": "SD Amorebieta",
+        "shortName": "Amorebieta",
+        "color": "#024596",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1665914400,
+      "slug": "sd-amorebieta-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10522988": {
+    "id": 10522988,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Real Murcia",
+        "shortName": "Real Murcia",
+        "color": "#ff0000",
+        "score": 3
+      },
+      "startTimestamp": 1666533600,
+      "slug": "athletic-clubu21-real-murcia"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523063": {
+    "id": 10523063,
+    "match_info": {
+      "homeTeam": {
+        "name": "Barcelona Atlètic",
+        "shortName": "Barcelona Atlètic",
+        "color": "#990000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1668880800,
+      "slug": "barcelona-atletic-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523293": {
+    "id": 10523293,
+    "match_info": {
+      "homeTeam": {
+        "name": "Osasuna B",
+        "shortName": "Osasuna B",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1669564800,
+      "slug": "osasuna-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523414": {
+    "id": 10523414,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "UE Cornellà",
+        "shortName": "Cornellà",
+        "color": "#00a86b",
+        "score": 2
+      },
+      "startTimestamp": 1670151600,
+      "slug": "ue-cornella-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523514": {
+    "id": 10523514,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Alcoyano",
+        "shortName": "Alcoyano",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 3
+      },
+      "startTimestamp": 1670518800,
+      "slug": "athletic-clubu21-cd-alcoyano"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10522898": {
+    "id": 10522898,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "SD Logroñés",
+        "shortName": "SD Logroñés",
+        "color": "#ff0000",
+        "score": 2
+      },
+      "startTimestamp": 1671361200,
+      "slug": "sd-logrones-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10522973": {
+    "id": 10522973,
+    "match_info": {
+      "homeTeam": {
+        "name": "CE Sabadell",
+        "shortName": "Sabadell",
+        "color": "#0000cc",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1673197200,
+      "slug": "ce-sabadell-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523016": {
+    "id": 10523016,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Real Unión Club",
+        "shortName": "Real Unión",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1673794800,
+      "slug": "athletic-clubu21-real-union-club"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523079": {
+    "id": 10523079,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Murcia",
+        "shortName": "Real Murcia",
+        "color": "#ff0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "startTimestamp": 1674324000,
+      "slug": "athletic-clubu21-real-murcia"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10522968": {
+    "id": 10522968,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "UD Logroñés",
+        "shortName": "UD Logroñés",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1674990000,
+      "slug": "ud-logrones-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523350": {
+    "id": 10523350,
+    "match_info": {
+      "homeTeam": {
+        "name": "CF Intercity",
+        "shortName": "Intercity",
+        "color": "#000000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1676199600,
+      "slug": "cf-intercity-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523473": {
+    "id": 10523473,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Barcelona Atlètic",
+        "shortName": "Barcelona Atlètic",
+        "color": "#990000",
+        "score": 1
+      },
+      "startTimestamp": 1676743200,
+      "slug": "barcelona-atletic-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523551": {
+    "id": 10523551,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Sociedad B",
+        "shortName": "Real Sociedad B",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1677430800,
+      "slug": "real-sociedad-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523107": {
+    "id": 10523107,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "CD Calahorra",
+        "shortName": "Calahorra",
+        "color": "#df3f56",
+        "score": 3
+      },
+      "startTimestamp": 1678028400,
+      "slug": "cd-calahorra-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523187": {
+    "id": 10523187,
+    "match_info": {
+      "homeTeam": {
+        "name": "SD Logroñés",
+        "shortName": "SD Logroñés",
+        "color": "#ff0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "startTimestamp": 1678618800,
+      "slug": "sd-logrones-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523278": {
+    "id": 10523278,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Atlético Baleares",
+        "shortName": "Atl. Baleares",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1679824800,
+      "slug": "cd-atletico-baleares-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523343": {
+    "id": 10523343,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna B",
+        "shortName": "Osasuna B",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1680429600,
+      "slug": "osasuna-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523143": {
+    "id": 10523143,
+    "match_info": {
+      "homeTeam": {
+        "name": "CF La Nucía",
+        "shortName": "La Nucía",
+        "color": "#ff0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "startTimestamp": 1681034400,
+      "slug": "cf-la-nucia-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523191": {
+    "id": 10523191,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Numancia",
+        "shortName": "Numancia",
+        "color": "#ff0000",
+        "score": 1
+      },
+      "startTimestamp": 1681639200,
+      "slug": "athletic-clubu21-numancia"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523272": {
+    "id": 10523272,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Unión Club",
+        "shortName": "Real Unión",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "startTimestamp": 1682182800,
+      "slug": "athletic-clubu21-real-union-club"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523309": {
+    "id": 10523309,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "CD Castellón",
+        "shortName": "Castellón",
+        "color": "#191f23",
+        "score": 2
+      },
+      "startTimestamp": 1682863200,
+      "slug": "athletic-clubu21-cd-castellon"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523377": {
+    "id": 10523377,
+    "match_info": {
+      "homeTeam": {
+        "name": "UE Cornellà",
+        "shortName": "Cornellà",
+        "color": "#00a86b",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1683478800,
+      "slug": "ue-cornella-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523450": {
+    "id": 10523450,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Eldense",
+        "shortName": "Eldense",
+        "color": "#bf0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1684603800,
+      "slug": "cd-eldense-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523477": {
+    "id": 10523477,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "SD Amorebieta",
+        "shortName": "Amorebieta",
+        "color": "#024596",
+        "score": 0
+      },
+      "startTimestamp": 1685208600,
+      "slug": "sd-amorebieta-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11328053": {
+    "id": 11328053,
+    "match_info": {
+      "homeTeam": {
+        "name": "Club Necaxa",
+        "shortName": "Necaxa",
+        "color": "#ff0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1689822000,
+      "slug": "athletic-club-club-necaxa"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11331892": {
+    "id": 11331892,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celtic",
+        "shortName": "Celtic",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1690914600,
+      "slug": "athletic-club-celtic"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11364796": {
+    "id": 11364796,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Eibar",
+        "shortName": "Eibar",
+        "color": "#003e85",
+        "score": 1
+      },
+      "startTimestamp": 1691083800,
+      "slug": "eibar-athletic-club"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11368603": {
+    "id": 11368603,
+    "match_info": {
+      "homeTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1692473400,
+      "slug": "athletic-club-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Eguíluz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-eguiluz",
+        "shortName": "U. Eguíluz",
+        "position": "D",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 214,
+        "gender": "M",
+        "sofascoreId": "wrq2gr",
+        "id": 1391374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016496000,
+        "proposedMarketValueRaw": {
+          "value": 410000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي إغويليز",
+            "bn": "উনাই এগুইলুজ",
+            "hi": "उनाई एगुइलुज़",
+            "ru": "Унай Эгильюс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إغويليز",
+            "bn": "ইউ. এগুইলুজ",
+            "hi": "यू . एगुइलुज़",
+            "ru": "У. Эгильюс"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 519382,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي أتليتيك",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "expectedGoalsOnTarget": 0,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "10497370": {
+    "id": 10497370,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Eibar",
+        "shortName": "Eibar",
+        "color": "#003e85",
+        "score": 1
+      },
+      "startTimestamp": 1658334600,
+      "slug": "athletic-clubu21-eibar"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10522842": {
+    "id": 10522842,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "CF La Nucía",
+        "shortName": "La Nucía",
+        "color": "#ff0000",
+        "score": 2
+      },
+      "startTimestamp": 1661680800,
+      "slug": "cf-la-nucia-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523115": {
+    "id": 10523115,
+    "match_info": {
+      "homeTeam": {
+        "name": "UD Logroñés",
+        "shortName": "UD Logroñés",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "startTimestamp": 1662226200,
+      "slug": "ud-logrones-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523223": {
+    "id": 10523223,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "CD Eldense",
+        "shortName": "Eldense",
+        "color": "#bf0000",
+        "score": 1
+      },
+      "startTimestamp": 1662838200,
+      "slug": "cd-eldense-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523420": {
+    "id": 10523420,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Castellón",
+        "shortName": "Castellón",
+        "color": "#191f23",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1663522200,
+      "slug": "athletic-clubu21-cd-castellon"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10523513": {
+    "id": 10523513,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad B",
+        "shortName": "Real Sociedad B",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1664038800,
+      "slug": "real-sociedad-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10522812": {
+    "id": 10522812,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Calahorra",
+        "shortName": "Calahorra",
+        "color": "#df3f56",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Athletic Club B U21",
+        "shortName": "Athletic Club B U21",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1664704800,
+      "slug": "cd-calahorra-athletic-clubu21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  }
+}

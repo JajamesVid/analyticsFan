@@ -1,0 +1,6616 @@
+{
+  "14099260": {
+    "id": 14099260,
+    "match_info": {
+      "homeTeam": {
+        "name": "Marbella FC",
+        "shortName": "Marbella",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 0
+      },
+      "startTimestamp": 1761476400,
+      "slug": "marbella-fc-fc-cartagena"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 12,
+        "accuratePass": 9,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 10,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 1,
+        "aerialWon": 0,
+        "duelLost": 5,
+        "duelWon": 2,
+        "challengeLost": 0,
+        "totalContest": 2,
+        "wonContest": 2,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 0,
+        "blockedScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 1,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 35,
+        "touches": 23,
+        "rating": 6.7,
+        "possessionLostCtrl": 2,
+        "expectedGoals": 0.11,
+        "expectedAssists": 0.01,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": null
+        },
+        "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14843689": {
+    "id": 14843689,
+    "match_info": {
+      "homeTeam": {
+        "name": "Salerm Puente Genil",
+        "shortName": "SAL",
+        "color": "#ff0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 1
+      },
+      "startTimestamp": 1761766200,
+      "slug": "salerm-puente-genil-fc-cartagena"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "goalAssist": 0,
+        "goals": 1,
+        "ownGoals": 0,
+        "minutesPlayed": 67,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14099280": {
+    "id": 14099280,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Villarreal B U23",
+        "shortName": "Villarreal B U23",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "startTimestamp": 1762016400,
+      "slug": "villarreal-fc-cartagena"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 14,
+        "accuratePass": 10,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 9,
+        "totalCross": 3,
+        "accurateCross": 1,
+        "aerialLost": 1,
+        "aerialWon": 0,
+        "duelLost": 7,
+        "duelWon": 3,
+        "challengeLost": 0,
+        "totalContest": 5,
+        "wonContest": 2,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 2,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 2,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 71,
+        "touches": 24,
+        "rating": 6.7,
+        "possessionLostCtrl": 3,
+        "expectedGoals": 0,
+        "expectedAssists": 0.11,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102914": {
+    "id": 14102914,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Teruel",
+        "shortName": "Teruel",
+        "color": "#ff0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 2
+      },
+      "startTimestamp": 1762606800,
+      "slug": "cd-teruel-fc-cartagena"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 18,
+        "accuratePass": 12,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 14,
+        "totalCross": 3,
+        "accurateCross": 1,
+        "aerialLost": 4,
+        "aerialWon": 1,
+        "duelLost": 11,
+        "duelWon": 6,
+        "challengeLost": 1,
+        "totalContest": 3,
+        "wonContest": 2,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 2,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 3,
+        "fouls": 2,
+        "totalOffside": 1,
+        "minutesPlayed": 90,
+        "touches": 26,
+        "rating": 6.4,
+        "possessionLostCtrl": 5,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102938": {
+    "id": 14102938,
+    "match_info": {
+      "homeTeam": {
+        "name": "CE Europa",
+        "shortName": "Europa",
+        "color": "#0000ff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 0
+      },
+      "startTimestamp": 1763323200,
+      "slug": "ce-europa-fc-cartagena"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 3,
+        "accuratePass": 1,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "totalOppositionHalfPasses": 2,
+        "totalCross": 1,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 2,
+        "challengeLost": 0,
+        "totalContest": 2,
+        "wonContest": 1,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 0,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 0,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 19,
+        "touches": 10,
+        "rating": 5.7,
+        "possessionLostCtrl": 4,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 5.7,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14102982": {
+    "id": 14102982,
+    "match_info": {
+      "homeTeam": {
+        "name": "Betis Deportivo",
+        "shortName": "BET",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 1
+      },
+      "startTimestamp": 1764352800,
+      "slug": "betis-deportivo-fc-cartagena"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 11,
+        "accuratePass": 6,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 10,
+        "totalCross": 2,
+        "accurateCross": 0,
+        "aerialLost": 2,
+        "aerialWon": 1,
+        "duelLost": 7,
+        "duelWon": 4,
+        "challengeLost": 1,
+        "totalContest": 2,
+        "wonContest": 1,
+        "onTargetScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 2,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 1,
+        "fouls": 2,
+        "totalOffside": 0,
+        "minutesPlayed": 83,
+        "touches": 20,
+        "rating": 6.7,
+        "possessionLostCtrl": 9,
+        "expectedGoals": 0.09,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "15037735": {
+    "id": 15037735,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1764878400,
+      "slug": "fc-cartagena-valencia"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 8,
+        "accuratePass": 4,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 6,
+        "duelWon": 2,
+        "totalContest": 1,
+        "wonContest": 1,
+        "bigChanceMissed": 1,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 2,
+        "blockedScoringAttempt": 2,
+        "ballRecovery": 2,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "minutesPlayed": 51,
+        "touches": 19,
+        "rating": 6.1,
+        "possessionLostCtrl": 6,
+        "totalBallCarriesDistance": 100.74778530014,
+        "ballCarriesCount": 8,
+        "totalProgression": 75.075,
+        "bestBallCarryProgression": 28.98,
+        "penaltyMiss": 1,
+        "ratingVersions": {
+          "original": 6.1,
+          "alternative": 6.5
+        },
+        "totalShots": 5,
+        "shotValueNormalized": -1,
+        "passValueNormalized": -0.1,
+        "dribbleValueNormalized": 0.49,
+        "defensiveValueNormalized": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14103002": {
+    "id": 14103002,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Real Murcia",
+        "shortName": "Real Murcia",
+        "color": "#ff0000",
+        "score": 1
+      },
+      "startTimestamp": 1765214100,
+      "slug": "fc-cartagena-real-murcia"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 22,
+        "accuratePass": 15,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 6,
+        "accurateOppositionHalfPasses": 10,
+        "totalOppositionHalfPasses": 15,
+        "totalCross": 3,
+        "accurateCross": 1,
+        "aerialLost": 1,
+        "aerialWon": 0,
+        "duelLost": 9,
+        "duelWon": 5,
+        "challengeLost": 1,
+        "totalContest": 6,
+        "wonContest": 4,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "interceptionWon": 2,
+        "ballRecovery": 3,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 0,
+        "fouls": 2,
+        "totalOffside": 0,
+        "minutesPlayed": 73,
+        "touches": 41,
+        "rating": 6.6,
+        "possessionLostCtrl": 11,
+        "expectedGoals": 0.03,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102653": {
+    "id": 14102653,
+    "match_info": {
+      "homeTeam": {
+        "name": "Gimnàstic de Tarragona",
+        "shortName": "Gimnàstic",
+        "color": "#ff0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 0
+      },
+      "startTimestamp": 1765732500,
+      "slug": "fc-cartagena-gimnastic-de-tarragona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 8,
+        "accuratePass": 5,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 5,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 6,
+        "duelWon": 2,
+        "challengeLost": 0,
+        "totalContest": 1,
+        "wonContest": 0,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 1,
+        "ballRecovery": 2,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 1,
+        "fouls": 1,
+        "totalOffside": 1,
+        "minutesPlayed": 37,
+        "touches": 13,
+        "rating": 6.5,
+        "possessionLostCtrl": 9,
+        "expectedGoals": 0.03,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102691": {
+    "id": 14102691,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Juventud Torremolinos CF",
+        "shortName": "Juventud Torremolinos",
+        "color": "#374df5",
+        "score": 0
+      },
+      "startTimestamp": 1766337300,
+      "slug": "juventud-torremolinos-cf-fc-cartagena"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 16,
+        "accuratePass": 10,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 11,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 1,
+        "aerialWon": 0,
+        "duelLost": 4,
+        "duelWon": 2,
+        "challengeLost": 0,
+        "dispossessed": 1,
+        "totalContest": 2,
+        "wonContest": 2,
+        "bigChanceMissed": 1,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 0,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 1,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 4,
+        "wasFouled": 0,
+        "fouls": 2,
+        "totalOffside": 0,
+        "minutesPlayed": 79,
+        "touches": 28,
+        "rating": 6.5,
+        "possessionLostCtrl": 10,
+        "expectedGoals": 0.62,
+        "expectedAssists": 0.18,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": null
+        },
+        "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14102739": {
+    "id": 14102739,
+    "match_info": {
+      "homeTeam": {
+        "name": "AD Alcorcón",
+        "shortName": "Alcorcón",
+        "color": "#ffcc00",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 1
+      },
+      "startTimestamp": 1767446100,
+      "slug": "fc-cartagena-ad-alcorcon"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 20,
+        "accuratePass": 13,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 10,
+        "totalOppositionHalfPasses": 16,
+        "totalCross": 4,
+        "accurateCross": 0,
+        "aerialLost": 1,
+        "aerialWon": 0,
+        "duelLost": 6,
+        "duelWon": 4,
+        "challengeLost": 1,
+        "dispossessed": 1,
+        "totalContest": 3,
+        "wonContest": 2,
+        "onTargetScoringAttempt": 0,
+        "blockedScoringAttempt": 2,
+        "goals": 0,
+        "totalClearance": 2,
+        "outfielderBlock": 0,
+        "ballRecovery": 2,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 2,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 80,
+        "touches": 38,
+        "rating": 6.4,
+        "possessionLostCtrl": 9,
+        "expectedGoals": 0.1,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": null
+        },
+        "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102785": {
+    "id": 14102785,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "UD Ibiza",
+        "shortName": "UD Ibiza",
+        "color": "#66b4ff",
+        "score": 4
+      },
+      "startTimestamp": 1768129200,
+      "slug": "ud-ibiza-fc-cartagena"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 20,
+        "accuratePass": 12,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 8,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 12,
+        "totalCross": 2,
+        "accurateCross": 0,
+        "aerialLost": 2,
+        "aerialWon": 1,
+        "duelLost": 8,
+        "duelWon": 8,
+        "challengeLost": 1,
+        "totalContest": 3,
+        "wonContest": 3,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 1,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 2,
+        "fouls": 2,
+        "totalOffside": 1,
+        "minutesPlayed": 90,
+        "touches": 35,
+        "rating": 6.5,
+        "possessionLostCtrl": 9,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102827": {
+    "id": 14102827,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal B U23",
+        "shortName": "Villarreal B U23",
+        "color": "#ffff00",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 0
+      },
+      "startTimestamp": 1768586400,
+      "slug": "villarreal-fc-cartagena"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 14,
+        "accuratePass": 7,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 9,
+        "totalCross": 3,
+        "accurateCross": 0,
+        "aerialLost": 3,
+        "aerialWon": 0,
+        "duelLost": 8,
+        "duelWon": 4,
+        "challengeLost": 0,
+        "dispossessed": 3,
+        "totalContest": 2,
+        "wonContest": 2,
+        "onTargetScoringAttempt": 2,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "interceptionWon": 1,
+        "ballRecovery": 5,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 3,
+        "wasFouled": 0,
+        "fouls": 2,
+        "totalOffside": 1,
+        "minutesPlayed": 90,
+        "touches": 28,
+        "rating": 6.9,
+        "possessionLostCtrl": 16,
+        "expectedGoals": 0.17,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": null
+        },
+        "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14102828": {
+    "id": 14102828,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "CE Europa",
+        "shortName": "Europa",
+        "color": "#0000ff",
+        "score": 2
+      },
+      "startTimestamp": 1769275800,
+      "slug": "ce-europa-fc-cartagena"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 14,
+        "accuratePass": 11,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 12,
+        "totalCross": 1,
+        "accurateCross": 0,
+        "aerialLost": 3,
+        "aerialWon": 2,
+        "duelLost": 7,
+        "duelWon": 4,
+        "challengeLost": 1,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "onTargetScoringAttempt": 3,
+        "blockedScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 0,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 3,
+        "wasFouled": 1,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 72,
+        "touches": 27,
+        "rating": 7.2,
+        "possessionLostCtrl": 9,
+        "expectedGoals": 0.7,
+        "expectedAssists": 0.29,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.2,
+          "alternative": null
+        },
+        "totalShots": 4,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14103184": {
+    "id": 14103184,
+    "match_info": {
+      "homeTeam": {
+        "name": "Hércules CF",
+        "shortName": "Hércules",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 0
+      },
+      "startTimestamp": 1769804100,
+      "slug": "fc-cartagena-hercules-cf"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 23,
+        "accuratePass": 17,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 16,
+        "totalCross": 3,
+        "accurateCross": 1,
+        "aerialLost": 2,
+        "aerialWon": 0,
+        "duelLost": 12,
+        "duelWon": 4,
+        "challengeLost": 0,
+        "dispossessed": 2,
+        "totalContest": 5,
+        "wonContest": 4,
+        "shotOffTarget": 2,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 2,
+        "outfielderBlock": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 1,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 1,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 2,
+        "totalOffside": 1,
+        "minutesPlayed": 90,
+        "touches": 49,
+        "rating": 6.7,
+        "possessionLostCtrl": 16,
+        "expectedGoals": 0.08,
+        "expectedAssists": 0.24,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": null
+        },
+        "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14103238": {
+    "id": 14103238,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Marbella FC",
+        "shortName": "Marbella",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1771175700,
+      "slug": "marbella-fc-fc-cartagena"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 19,
+        "accuratePass": 15,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 6,
+        "accurateOppositionHalfPasses": 10,
+        "totalOppositionHalfPasses": 13,
+        "totalCross": 3,
+        "accurateCross": 1,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 7,
+        "duelWon": 10,
+        "challengeLost": 0,
+        "totalContest": 6,
+        "wonContest": 3,
+        "bigChanceMissed": 1,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 0,
+        "blockedScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 5,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 4,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 69,
+        "touches": 36,
+        "rating": 6.6,
+        "possessionLostCtrl": 9,
+        "expectedGoals": 0.61,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": null
+        },
+        "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14103273": {
+    "id": 14103273,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Murcia",
+        "shortName": "Real Murcia",
+        "color": "#ff0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 2
+      },
+      "startTimestamp": 1771780500,
+      "slug": "fc-cartagena-real-murcia"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 20,
+        "accuratePass": 10,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 15,
+        "totalCross": 2,
+        "accurateCross": 0,
+        "aerialLost": 1,
+        "aerialWon": 0,
+        "duelLost": 8,
+        "duelWon": 7,
+        "challengeLost": 1,
+        "totalContest": 8,
+        "wonContest": 6,
+        "shotOffTarget": 3,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 1,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 2,
+        "fouls": 3,
+        "totalOffside": 0,
+        "minutesPlayed": 88,
+        "touches": 40,
+        "rating": 7,
+        "possessionLostCtrl": 13,
+        "expectedGoals": 0.09,
+        "expectedAssists": 0.11,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": null
+        },
+        "totalShots": 3,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "15536570": {
+    "id": 15536570,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla Atlético",
+        "shortName": "Sevilla Atl.",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1772046000,
+      "slug": "fc-cartagena-sevilla-atletico"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 5,
+        "accuratePass": 4,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 3,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 3,
+        "duelWon": 1,
+        "challengeLost": 0,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "onTargetScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 1,
+        "outfielderBlock": 0,
+        "ballRecovery": 0,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 1,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 27,
+        "touches": 12,
+        "rating": 6.5,
+        "possessionLostCtrl": 3,
+        "expectedGoals": 0.01,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14102831": {
+    "id": 14102831,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "CE Sabadell",
+        "shortName": "Sabadell",
+        "color": "#0000cc",
+        "score": 0
+      },
+      "startTimestamp": 1772377200,
+      "slug": "ce-sabadell-fc-cartagena"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 22,
+        "accuratePass": 10,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 17,
+        "totalCross": 5,
+        "accurateCross": 1,
+        "aerialLost": 2,
+        "aerialWon": 0,
+        "duelLost": 8,
+        "duelWon": 9,
+        "challengeLost": 0,
+        "totalContest": 6,
+        "wonContest": 5,
+        "onTargetScoringAttempt": 0,
+        "blockedScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 4,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 2,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 90,
+        "touches": 42,
+        "rating": 7.2,
+        "possessionLostCtrl": 20,
+        "expectedGoals": 0.01,
+        "expectedAssists": 0.12,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.2,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102873": {
+    "id": 14102873,
+    "match_info": {
+      "homeTeam": {
+        "name": "SD Tarazona",
+        "shortName": "Tarazona",
+        "color": "#ff0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 0
+      },
+      "startTimestamp": 1772982000,
+      "slug": "sociedad-deportivo-tarazona-fc-cartagena"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 16,
+        "accuratePass": 9,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 6,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 10,
+        "totalCross": 1,
+        "accurateCross": 0,
+        "aerialLost": 3,
+        "aerialWon": 1,
+        "duelLost": 11,
+        "duelWon": 7,
+        "challengeLost": 0,
+        "totalContest": 8,
+        "wonContest": 4,
+        "shotOffTarget": 2,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 2,
+        "outfielderBlock": 0,
+        "interceptionWon": 1,
+        "ballRecovery": 9,
+        "totalTackle": 1,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "fouls": 2,
+        "totalOffside": 0,
+        "minutesPlayed": 63,
+        "touches": 35,
+        "rating": 6.7,
+        "possessionLostCtrl": 12,
+        "expectedGoals": 0.07,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": null
+        },
+        "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102893": {
+    "id": 14102893,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "CD Teruel",
+        "shortName": "Teruel",
+        "color": "#ff0000",
+        "score": 0
+      },
+      "startTimestamp": 1773509400,
+      "slug": "cd-teruel-fc-cartagena"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 11,
+        "accuratePass": 8,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 7,
+        "totalCross": 3,
+        "accurateCross": 2,
+        "aerialLost": 2,
+        "aerialWon": 0,
+        "duelLost": 4,
+        "duelWon": 2,
+        "challengeLost": 0,
+        "totalContest": 1,
+        "wonContest": 1,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 1,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 1,
+        "fouls": 0,
+        "totalOffside": 1,
+        "minutesPlayed": 37,
+        "touches": 16,
+        "rating": 6.9,
+        "possessionLostCtrl": 3,
+        "expectedGoals": 0,
+        "expectedAssists": 0.14,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102981": {
+    "id": 14102981,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 0
+      },
+      "startTimestamp": 1774114200,
+      "slug": "fc-cartagena-atletico-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 6,
+        "accuratePass": 3,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 3,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 2,
+        "duelLost": 6,
+        "duelWon": 4,
+        "challengeLost": 0,
+        "dispossessed": 1,
+        "totalContest": 2,
+        "wonContest": 1,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 1,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 56,
+        "touches": 18,
+        "rating": 6.4,
+        "possessionLostCtrl": 11,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14103034": {
+    "id": 14103034,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Atlético Sanluqueño",
+        "shortName": "Sanluqueño",
+        "color": "#2bac2b",
+        "score": 0
+      },
+      "startTimestamp": 1774719000,
+      "slug": "atletico-sanluqueno-fc-cartagena"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 19,
+        "accuratePass": 11,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 7,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 11,
+        "totalCross": 3,
+        "accurateCross": 1,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 2,
+        "duelWon": 8,
+        "challengeLost": 0,
+        "totalContest": 5,
+        "wonContest": 5,
+        "bigChanceMissed": 1,
+        "shotOffTarget": 2,
+        "onTargetScoringAttempt": 1,
+        "blockedScoringAttempt": 1,
+        "hitWoodwork": 1,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "interceptionWon": 2,
+        "ballRecovery": 6,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 86,
+        "touches": 36,
+        "rating": 7.6,
+        "possessionLostCtrl": 8,
+        "expectedGoals": 0.87,
+        "expectedAssists": 0.3,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 7.6,
+          "alternative": null
+        },
+        "totalShots": 4,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14606563": {
+    "id": 14606563,
+    "match_info": {
+      "homeTeam": {
+        "name": "Juventud Torremolinos CF",
+        "shortName": "Juventud Torremolinos",
+        "color": "#374df5",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 1
+      },
+      "startTimestamp": 1775312100,
+      "slug": "juventud-torremolinos-cf-fc-cartagena"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 11,
+        "accuratePass": 6,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 10,
+        "totalCross": 1,
+        "accurateCross": 0,
+        "aerialLost": 9,
+        "aerialWon": 1,
+        "duelLost": 12,
+        "duelWon": 3,
+        "challengeLost": 0,
+        "totalContest": 1,
+        "wonContest": 1,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 1,
+        "outfielderBlock": 0,
+        "ballRecovery": 0,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 2,
+        "totalOffside": 0,
+        "minutesPlayed": 90,
+        "touches": 16,
+        "rating": 6.6,
+        "possessionLostCtrl": 10,
+        "expectedGoals": 0.07,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14606586": {
+    "id": 14606586,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Antequera",
+        "shortName": "ANT",
+        "color": "#03834a",
+        "score": 0
+      },
+      "startTimestamp": 1775925000,
+      "slug": "fc-cartagena-antequera"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 11,
+        "accuratePass": 6,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 9,
+        "totalCross": 4,
+        "accurateCross": 0,
+        "aerialLost": 1,
+        "aerialWon": 0,
+        "duelLost": 11,
+        "duelWon": 5,
+        "challengeLost": 2,
+        "dispossessed": 2,
+        "totalContest": 4,
+        "wonContest": 4,
+        "onTargetScoringAttempt": 2,
+        "blockedScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 1,
+        "outfielderBlock": 0,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 2,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 89,
+        "touches": 33,
+        "rating": 7,
+        "possessionLostCtrl": 11,
+        "expectedGoals": 0.3,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": null
+        },
+        "totalShots": 3,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14606606": {
+    "id": 14606606,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Eldense",
+        "shortName": "Eldense",
+        "color": "#bf0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 1
+      },
+      "startTimestamp": 1776615300,
+      "slug": "cd-eldense-fc-cartagena"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 12,
+        "accuratePass": 5,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 5,
+        "totalCross": 1,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 3,
+        "duelWon": 4,
+        "challengeLost": 0,
+        "totalContest": 2,
+        "wonContest": 2,
+        "onTargetScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 1,
+        "outfielderBlock": 0,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 1,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 74,
+        "touches": 21,
+        "rating": 7,
+        "possessionLostCtrl": 8,
+        "expectedGoals": 0.09,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14606622": {
+    "id": 14606622,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Gimnàstic de Tarragona",
+        "shortName": "Gimnàstic",
+        "color": "#ff0000",
+        "score": 0
+      },
+      "startTimestamp": 1777220100,
+      "slug": "fc-cartagena-gimnastic-de-tarragona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 16,
+        "accuratePass": 13,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 10,
+        "totalOppositionHalfPasses": 12,
+        "totalCross": 2,
+        "accurateCross": 2,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 11,
+        "duelWon": 8,
+        "challengeLost": 0,
+        "dispossessed": 1,
+        "totalContest": 7,
+        "wonContest": 6,
+        "bigChanceCreated": 1,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 2,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 1,
+        "fouls": 3,
+        "totalOffside": 0,
+        "minutesPlayed": 90,
+        "touches": 32,
+        "rating": 7.9,
+        "possessionLostCtrl": 6,
+        "expectedGoals": 0.05,
+        "expectedAssists": 0.68,
+        "topSpeed": 32.85,
+        "kilometersCovered": 9.54,
+        "numberOfSprints": 13,
+        "keyPass": 4,
+        "ratingVersions": {
+          "original": 7.9,
+          "alternative": null
+        },
+        "totalShots": 2,
+        "metersCoveredRunningKm": 1.34,
+        "metersCoveredHighSpeedRunningKm": 0.49,
+        "metersCoveredSprintingKm": 0.23,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14606648": {
+    "id": 14606648,
+    "match_info": {
+      "homeTeam": {
+        "name": "Algeciras CF",
+        "shortName": "Algeciras",
+        "color": "#ff0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 2
+      },
+      "startTimestamp": 1777662900,
+      "slug": "fc-cartagena-algeciras-cf"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 10,
+        "accuratePass": 5,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 7,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 2,
+        "aerialWon": 0,
+        "duelLost": 10,
+        "duelWon": 2,
+        "challengeLost": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 1,
+        "outfielderBlock": 0,
+        "ballRecovery": 1,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 90,
+        "touches": 18,
+        "rating": 6.3,
+        "possessionLostCtrl": 7,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102687": {
+    "id": 14102687,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "AD Alcorcón",
+        "shortName": "Alcorcón",
+        "color": "#ffcc00",
+        "score": 1
+      },
+      "startTimestamp": 1778259600,
+      "slug": "fc-cartagena-ad-alcorcon"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 14,
+        "accuratePass": 11,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 6,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 8,
+        "totalCross": 2,
+        "accurateCross": 1,
+        "aerialLost": 1,
+        "aerialWon": 0,
+        "duelLost": 9,
+        "duelWon": 3,
+        "challengeLost": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 1,
+        "fouls": 4,
+        "totalOffside": 0,
+        "minutesPlayed": 90,
+        "touches": 25,
+        "rating": 6.6,
+        "possessionLostCtrl": 6,
+        "expectedGoals": 0,
+        "expectedAssists": 0.04,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102794": {
+    "id": 14102794,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Betis Deportivo",
+        "shortName": "BET",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1779553800,
+      "slug": "betis-deportivo-fc-cartagena"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 10,
+        "accuratePass": 6,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 7,
+        "totalCross": 1,
+        "accurateCross": 0,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 7,
+        "duelWon": 4,
+        "challengeLost": 0,
+        "dispossessed": 1,
+        "totalContest": 2,
+        "wonContest": 2,
+        "onTargetScoringAttempt": 2,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 3,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 1,
+        "fouls": 3,
+        "totalOffside": 1,
+        "minutesPlayed": 88,
+        "touches": 21,
+        "rating": 7,
+        "possessionLostCtrl": 9,
+        "expectedGoals": 0.31,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": null
+        },
+        "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "11898505": {
+    "id": 11898505,
+    "match_info": {
+      "homeTeam": {
+        "name": "Spain U19",
+        "shortName": "Spain U19",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Slovenia U19",
+        "shortName": "Slovenia U19",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1710946800,
+      "slug": "spain-u19-slovenia-u19"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11898504": {
+    "id": 11898504,
+    "match_info": {
+      "homeTeam": {
+        "name": "Spain U19",
+        "shortName": "Spain U19",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Kosovo U19",
+        "shortName": "Kosovo U19",
+        "color": "#244aa5",
+        "score": 1
+      },
+      "startTimestamp": 1711206000,
+      "slug": "kosovo-u19-spain-u19"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11898501": {
+    "id": 11898501,
+    "match_info": {
+      "homeTeam": {
+        "name": "Austria U19",
+        "shortName": "Austria U19",
+        "color": "#ff0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Spain U19",
+        "shortName": "Spain U19",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "startTimestamp": 1711450800,
+      "slug": "spain-u19-austria-u19"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "12366602": {
+    "id": 12366602,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de La Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "CD Castellón",
+        "shortName": "Castellón",
+        "color": "#191f23",
+        "score": 1
+      },
+      "startTimestamp": 1717009200,
+      "slug": "cd-castellon-deportivo-la-coruna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo de La Coruña",
+        "slug": "deportivo-la-coruna",
+        "shortName": "Deportivo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 48448,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2832,
+        "teamColors": {
+          "primary": "#003399",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو لا كورونيا",
+            "ru": "Депортиво Ла-Корунья"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "minutesPlayed": 12,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "12370045": {
+    "id": 12370045,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Castellón",
+        "shortName": "Castellón",
+        "color": "#191f23",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Deportivo de La Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 4
+      },
+      "startTimestamp": 1717354800,
+      "slug": "cd-castellon-deportivo-la-coruna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo de La Coruña",
+        "slug": "deportivo-la-coruna",
+        "shortName": "Deportivo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 48448,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2832,
+        "teamColors": {
+          "primary": "#003399",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو لا كورونيا",
+            "ru": "Депортиво Ла-Корунья"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "minutesPlayed": 1,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "12604921": {
+    "id": 12604921,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Fabril",
+        "shortName": "Fabril",
+        "color": "#003399",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "SD Compostela",
+        "shortName": "SD ",
+        "color": "#00ade7",
+        "score": 0
+      },
+      "startTimestamp": 1726336800,
+      "slug": "deportivo-fabril-sd-compostela"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "12604910": {
+    "id": 12604910,
+    "match_info": {
+      "homeTeam": {
+        "name": "Pontevedra CF",
+        "shortName": "Pontevedra",
+        "color": "#660000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Deportivo Fabril",
+        "shortName": "Fabril",
+        "color": "#003399",
+        "score": 1
+      },
+      "startTimestamp": 1727017200,
+      "slug": "deportivo-fabril-pontevedra-cf"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "12604849": {
+    "id": 12604849,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Avilés",
+        "shortName": "Avilés",
+        "color": "#0000dc",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Deportivo Fabril",
+        "shortName": "Fabril",
+        "color": "#003399",
+        "score": 2
+      },
+      "startTimestamp": 1731236400,
+      "slug": "real-aviles-deportivo-fabril"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "12467632": {
+    "id": 12467632,
+    "match_info": {
+      "homeTeam": {
+        "name": "Almería",
+        "shortName": "Almería",
+        "color": "#ff0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Deportivo de La Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "startTimestamp": 1731864600,
+      "slug": "almeria-deportivo-la-coruna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo de La Coruña",
+        "slug": "deportivo-la-coruna",
+        "shortName": "Deportivo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 48448,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2832,
+        "teamColors": {
+          "primary": "#003399",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو لا كورونيا",
+            "ru": "Депортиво Ла-Корунья"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 5,
+        "accuratePass": 3,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 4,
+        "totalOppositionHalfPasses": 1,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 2,
+        "duelWon": 1,
+        "dispossessed": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 3,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 26,
+        "touches": 12,
+        "rating": 6.5,
+        "possessionLostCtrl": 4,
+        "topSpeed": 32.64,
+        "kilometersCovered": 3.45,
+        "numberOfSprints": 9,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "metersCoveredRunningKm": 0.4,
+        "metersCoveredHighSpeedRunningKm": 0.27,
+        "metersCoveredSprintingKm": 0.13,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "13173949": {
+    "id": 13173949,
+    "match_info": {
+      "homeTeam": {
+        "name": "Ourense CF",
+        "shortName": "Ourense",
+        "color": "#000000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Deportivo de La Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 0
+      },
+      "startTimestamp": 1733338800,
+      "slug": "ourense-cf-deportivo-la-coruna"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "12604812": {
+    "id": 12604812,
+    "match_info": {
+      "homeTeam": {
+        "name": "Salamanca UDS",
+        "shortName": "Salamanca",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Deportivo Fabril",
+        "shortName": "Fabril",
+        "color": "#003399",
+        "score": 2
+      },
+      "startTimestamp": 1733673600,
+      "slug": "salamanca-uds-deportivo-fabril"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "12604809": {
+    "id": 12604809,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Fabril",
+        "shortName": "Fabril",
+        "color": "#003399",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "CD Laredo",
+        "shortName": "CD ",
+        "color": "#ff0000",
+        "score": 0
+      },
+      "startTimestamp": 1734174000,
+      "slug": "cd-laredo-deportivo-fabril"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "13182492": {
+    "id": 13182492,
+    "match_info": {
+      "homeTeam": {
+        "name": "Bergantiños FC",
+        "shortName": "Bergantiños",
+        "color": "#c7171a",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Deportivo Fabril",
+        "shortName": "Fabril",
+        "color": "#003399",
+        "score": 1
+      },
+      "startTimestamp": 1734548400,
+      "slug": "bergantinos-fc-deportivo-fabril"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "12467544": {
+    "id": 12467544,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Deportivo de La Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "startTimestamp": 1736616600,
+      "slug": "deportivo-la-coruna-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo de La Coruña",
+        "slug": "deportivo-la-coruna",
+        "shortName": "Deportivo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 48448,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2832,
+        "teamColors": {
+          "primary": "#003399",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو لا كورونيا",
+            "ru": "Депортиво Ла-Корунья"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "12467542": {
+    "id": 12467542,
+    "match_info": {
+      "homeTeam": {
+        "name": "Burgos Club de Fútbol",
+        "shortName": "Burgos",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Deportivo de La Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "startTimestamp": 1737291600,
+      "slug": "burgos-club-de-futbol-deportivo-la-coruna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo de La Coruña",
+        "slug": "deportivo-la-coruna",
+        "shortName": "Deportivo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 48448,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2832,
+        "teamColors": {
+          "primary": "#003399",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو لا كورونيا",
+            "ru": "Депортиво Ла-Корунья"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "12467532": {
+    "id": 12467532,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de La Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 2
+      },
+      "startTimestamp": 1737826200,
+      "slug": "levante-ud-deportivo-la-coruna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo de La Coruña",
+        "slug": "deportivo-la-coruna",
+        "shortName": "Deportivo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 48448,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2832,
+        "teamColors": {
+          "primary": "#003399",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو لا كورونيا",
+            "ru": "Депортиво Ла-Корунья"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 3,
+        "accuratePass": 2,
+        "goalAssist": 0,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 4,
+        "totalCross": 1,
+        "aerialLost": 1,
+        "duelLost": 1,
+        "minutesPlayed": 12,
+        "touches": 4,
+        "rating": 6.5,
+        "possessionLostCtrl": 2,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "13276649": {
+    "id": 13276649,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Tenerife",
+        "shortName": "CD Tenerife",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Deportivo de La Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 0
+      },
+      "startTimestamp": 1738180800,
+      "slug": "deportivo-la-coruna-cd-tenerife"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo de La Coruña",
+        "slug": "deportivo-la-coruna",
+        "shortName": "Deportivo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 48448,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2832,
+        "teamColors": {
+          "primary": "#003399",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو لا كورونيا",
+            "ru": "Депортиво Ла-Корунья"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "12604751": {
+    "id": 12604751,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Fabril",
+        "shortName": "Fabril",
+        "color": "#003399",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Pontevedra CF",
+        "shortName": "Pontevedra",
+        "color": "#660000",
+        "score": 0
+      },
+      "startTimestamp": 1738494000,
+      "slug": "deportivo-fabril-pontevedra-cf"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "12604648": {
+    "id": 12604648,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Laredo",
+        "shortName": "CD ",
+        "color": "#ff0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Deportivo Fabril",
+        "shortName": "Fabril",
+        "color": "#003399",
+        "score": 5
+      },
+      "startTimestamp": 1745748000,
+      "slug": "cd-laredo-deportivo-fabril"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "13859470": {
+    "id": 13859470,
+    "match_info": {
+      "homeTeam": {
+        "name": "UCAM Murcia",
+        "shortName": "UCAM Murcia",
+        "color": "#004080",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Deportivo Fabril",
+        "shortName": "Fabril",
+        "color": "#003399",
+        "score": 1
+      },
+      "startTimestamp": 1747501200,
+      "slug": "ucam-murcia-deportivo-fabril"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "12465930": {
+    "id": 12465930,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Zaragoza",
+        "shortName": "Real Zaragoza",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Deportivo de La Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 0
+      },
+      "startTimestamp": 1748190600,
+      "slug": "deportivo-la-coruna-real-zaragoza"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo de La Coruña",
+        "slug": "deportivo-la-coruna",
+        "shortName": "Deportivo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 48448,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2832,
+        "teamColors": {
+          "primary": "#003399",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو لا كورونيا",
+            "ru": "Депортиво Ла-Корунья"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 1,
+        "accuratePass": 1,
+        "goalAssist": 0,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 3,
+        "totalCross": 2,
+        "duelLost": 1,
+        "totalContest": 1,
+        "minutesPlayed": 15,
+        "touches": 4,
+        "rating": 6.4,
+        "possessionLostCtrl": 3,
+        "topSpeed": 31.78,
+        "kilometersCovered": 1.99,
+        "numberOfSprints": 5,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "metersCoveredRunningKm": 0.16,
+        "metersCoveredHighSpeedRunningKm": 0.11,
+        "metersCoveredSprintingKm": 0.12,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "12465947": {
+    "id": 12465947,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de La Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "startTimestamp": 1748795400,
+      "slug": "elche-deportivo-la-coruna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo de La Coruña",
+        "slug": "deportivo-la-coruna",
+        "shortName": "Deportivo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 48448,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2832,
+        "teamColors": {
+          "primary": "#003399",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو لا كورونيا",
+            "ru": "Депортиво Ла-Корунья"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 11,
+        "accuratePass": 7,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 8,
+        "aerialLost": 1,
+        "duelLost": 4,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "totalContest": 1,
+        "blockedScoringAttempt": 1,
+        "ballRecovery": 2,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 17,
+        "rating": 6.3,
+        "possessionLostCtrl": 7,
+        "topSpeed": 33.89,
+        "kilometersCovered": 9.75,
+        "numberOfSprints": 23,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "metersCoveredRunningKm": 1.05,
+        "metersCoveredHighSpeedRunningKm": 0.63,
+        "metersCoveredSprintingKm": 0.37,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14099037": {
+    "id": 14099037,
+    "match_info": {
+      "homeTeam": {
+        "name": "Antequera",
+        "shortName": "ANT",
+        "color": "#03834a",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 0
+      },
+      "startTimestamp": 1756661400,
+      "slug": "fc-cartagena-antequera"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 20,
+        "accuratePass": 12,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 15,
+        "totalCross": 4,
+        "accurateCross": 0,
+        "aerialLost": 1,
+        "aerialWon": 0,
+        "duelLost": 7,
+        "duelWon": 7,
+        "challengeLost": 0,
+        "totalContest": 2,
+        "wonContest": 2,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 1,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 1,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 90,
+        "touches": 27,
+        "rating": 6.8,
+        "possessionLostCtrl": 8,
+        "expectedGoals": 0,
+        "expectedAssists": 0.17,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14099079": {
+    "id": 14099079,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1757100600,
+      "slug": "fc-cartagena-atletico-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 24,
+        "accuratePass": 18,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 19,
+        "totalCross": 4,
+        "accurateCross": 3,
+        "aerialLost": 0,
+        "aerialWon": 1,
+        "duelLost": 5,
+        "duelWon": 7,
+        "challengeLost": 0,
+        "totalContest": 6,
+        "wonContest": 5,
+        "onTargetScoringAttempt": 1,
+        "blockedScoringAttempt": 2,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "interceptionWon": 1,
+        "ballRecovery": 3,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 0,
+        "fouls": 1,
+        "totalOffside": 1,
+        "minutesPlayed": 90,
+        "touches": 45,
+        "rating": 7.4,
+        "possessionLostCtrl": 10,
+        "expectedGoals": 0.08,
+        "expectedAssists": 0.05,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.4,
+          "alternative": null
+        },
+        "totalShots": 3,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14099116": {
+    "id": 14099116,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Hércules CF",
+        "shortName": "Hércules",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1758471300,
+      "slug": "fc-cartagena-hercules-cf"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 21,
+        "accuratePass": 18,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 14,
+        "totalCross": 3,
+        "accurateCross": 1,
+        "aerialLost": 0,
+        "aerialWon": 2,
+        "duelLost": 8,
+        "duelWon": 10,
+        "challengeLost": 1,
+        "dispossessed": 1,
+        "totalContest": 8,
+        "wonContest": 6,
+        "shotOffTarget": 4,
+        "onTargetScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 1,
+        "interceptionWon": 3,
+        "ballRecovery": 6,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 1,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 2,
+        "totalOffside": 1,
+        "minutesPlayed": 87,
+        "touches": 46,
+        "rating": 7.5,
+        "possessionLostCtrl": 4,
+        "expectedGoals": 0.58,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 7.5,
+          "alternative": null
+        },
+        "totalShots": 5,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14099098": {
+    "id": 14099098,
+    "match_info": {
+      "homeTeam": {
+        "name": "CE Sabadell",
+        "shortName": "Sabadell",
+        "color": "#0000cc",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 0
+      },
+      "startTimestamp": 1758726000,
+      "slug": "ce-sabadell-fc-cartagena"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "goals": 0,
+        "ownGoals": 0,
+        "minutesPlayed": 42,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14099139": {
+    "id": 14099139,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Sanluqueño",
+        "shortName": "Sanluqueño",
+        "color": "#2bac2b",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 0
+      },
+      "startTimestamp": 1759053600,
+      "slug": "atletico-sanluqueno-fc-cartagena"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 16,
+        "accuratePass": 11,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 10,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 4,
+        "duelWon": 3,
+        "challengeLost": 0,
+        "dispossessed": 1,
+        "totalContest": 5,
+        "wonContest": 3,
+        "onTargetScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "interceptionWon": 2,
+        "ballRecovery": 3,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 1,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 69,
+        "touches": 31,
+        "rating": 6.7,
+        "possessionLostCtrl": 11,
+        "expectedGoals": 0.09,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14099157": {
+    "id": 14099157,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "SD Tarazona",
+        "shortName": "Tarazona",
+        "color": "#ff0000",
+        "score": 0
+      },
+      "startTimestamp": 1759680900,
+      "slug": "sociedad-deportivo-tarazona-fc-cartagena"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 20,
+        "accuratePass": 19,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 17,
+        "totalOppositionHalfPasses": 18,
+        "totalCross": 1,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 1,
+        "duelLost": 12,
+        "duelWon": 4,
+        "challengeLost": 1,
+        "totalContest": 9,
+        "wonContest": 2,
+        "onTargetScoringAttempt": 1,
+        "goals": 1,
+        "totalClearance": 1,
+        "outfielderBlock": 0,
+        "interceptionWon": 2,
+        "ballRecovery": 5,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 74,
+        "touches": 36,
+        "rating": 6.9,
+        "possessionLostCtrl": 9,
+        "expectedGoals": 0.22,
+        "expectedAssists": 0.01,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14099180": {
+    "id": 14099180,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla Atlético",
+        "shortName": "Sevilla Atl.",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 0
+      },
+      "startTimestamp": 1760279400,
+      "slug": "fc-cartagena-sevilla-atletico"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 15,
+        "accuratePass": 15,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 9,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 14,
+        "duelWon": 6,
+        "challengeLost": 3,
+        "dispossessed": 1,
+        "totalContest": 8,
+        "wonContest": 5,
+        "onTargetScoringAttempt": 0,
+        "blockedScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 1,
+        "outfielderBlock": 0,
+        "interceptionWon": 3,
+        "ballRecovery": 5,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 1,
+        "fouls": 2,
+        "totalOffside": 1,
+        "minutesPlayed": 83,
+        "touches": 37,
+        "rating": 6.7,
+        "possessionLostCtrl": 5,
+        "expectedGoals": 0.15,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14099237": {
+    "id": 14099237,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Algeciras CF",
+        "shortName": "Algeciras",
+        "color": "#ff0000",
+        "score": 0
+      },
+      "startTimestamp": 1760728500,
+      "slug": "fc-cartagena-algeciras-cf"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Cartagena",
+        "slug": "fc-cartagena",
+        "shortName": "Cartagena",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 10543,
+        "nameCode": "CAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24329,
+        "teamColors": {
+          "primary": "#fee100",
+          "secondary": "#222226",
+          "text": "#222226"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارتايينا",
+            "hi": "कारटाजेना",
+            "ru": "Картагена ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 16,
+        "accuratePass": 11,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 12,
+        "totalCross": 4,
+        "accurateCross": 1,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 6,
+        "duelWon": 6,
+        "challengeLost": 1,
+        "dispossessed": 1,
+        "totalContest": 6,
+        "wonContest": 5,
+        "onTargetScoringAttempt": 1,
+        "blockedScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 1,
+        "outfielderBlock": 0,
+        "ballRecovery": 3,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 66,
+        "touches": 36,
+        "rating": 7.2,
+        "possessionLostCtrl": 10,
+        "expectedGoals": 0.11,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 7.2,
+          "alternative": null
+        },
+        "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "11587944": {
+    "id": 11587944,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de La Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "SD Logroñés",
+        "shortName": "SD Logroñés",
+        "color": "#ff0000",
+        "score": 0
+      },
+      "startTimestamp": 1699725600,
+      "slug": "sd-logrones-deportivo-la-coruna"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11588217": {
+    "id": 11588217,
+    "match_info": {
+      "homeTeam": {
+        "name": "Barcelona Atlètic",
+        "shortName": "Barcelona Atlètic",
+        "color": "#990000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Deportivo de La Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 2
+      },
+      "startTimestamp": 1701619200,
+      "slug": "barcelona-atletic-deportivo-la-coruna"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11836703": {
+    "id": 11836703,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de La Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "CD Tenerife",
+        "shortName": "CD Tenerife",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1701860400,
+      "slug": "deportivo-la-coruna-cd-tenerife"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11587663": {
+    "id": 11587663,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de La Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sestao River",
+        "shortName": "SES",
+        "color": "#00692f",
+        "score": 1
+      },
+      "startTimestamp": 1702220400,
+      "slug": "sestao-river-deportivo-la-coruna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "32",
+        "height": 169,
+        "userCount": 72,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo de La Coruña",
+        "slug": "deportivo-la-coruna",
+        "shortName": "Deportivo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 48448,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2832,
+        "teamColors": {
+          "primary": "#003399",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو لا كورونيا",
+            "ru": "Депортиво Ла-Корунья"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "goals": 0,
+        "ownGoals": 0,
+        "minutesPlayed": 13,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "11587828": {
+    "id": 11587828,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Arenteiro",
+        "shortName": "Arenteiro",
+        "color": "#009966",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Deportivo de La Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 2
+      },
+      "startTimestamp": 1702836000,
+      "slug": "cd-arenteiro-deportivo-la-coruna"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11587948": {
+    "id": 11587948,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de La Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Sociedad B",
+        "shortName": "Real Sociedad B",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1704391200,
+      "slug": "real-sociedad-deportivo-la-coruna"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11977849": {
+    "id": 11977849,
+    "match_info": {
+      "homeTeam": {
+        "name": "Italy U19",
+        "shortName": "Italy U19",
+        "color": "#0066ff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Spain U19",
+        "shortName": "Spain U19",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "startTimestamp": 1705498200,
+      "slug": "spain-u19-italy-u19"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11603169": {
+    "id": 11603169,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Fabril",
+        "shortName": "Fabril",
+        "color": "#003399",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Marino Luanco",
+        "shortName": "MAR",
+        "color": "#000080",
+        "score": 2
+      },
+      "startTimestamp": 1706443200,
+      "slug": "marino-luanco-deportivo-fabril"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11602286": {
+    "id": 11602286,
+    "match_info": {
+      "homeTeam": {
+        "name": "Arandina CF",
+        "shortName": "Arandina",
+        "color": "#0955a5",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Deportivo Fabril",
+        "shortName": "Fabril",
+        "color": "#003399",
+        "score": 2
+      },
+      "startTimestamp": 1706976000,
+      "slug": "arandina-cf-deportivo-fabril"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11603110": {
+    "id": 11603110,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Fabril",
+        "shortName": "Fabril",
+        "color": "#003399",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "CD Covadonga",
+        "shortName": "CD ",
+        "color": "#0000ff",
+        "score": 1
+      },
+      "startTimestamp": 1707667200,
+      "slug": "cd-covadonga-deportivo-fabril"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "12081794": {
+    "id": 12081794,
+    "match_info": {
+      "homeTeam": {
+        "name": "Spain U19",
+        "shortName": "Spain U19",
+        "color": "#cc0000",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Norway U19",
+        "shortName": "Norway U19",
+        "color": "#ef2b2d",
+        "score": 0
+      },
+      "startTimestamp": 1708437600,
+      "slug": "spain-u19-norway-u19"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "12082326": {
+    "id": 12082326,
+    "match_info": {
+      "homeTeam": {
+        "name": "Spain U19",
+        "shortName": "Spain U19",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Norway U19",
+        "shortName": "Norway U19",
+        "color": "#ef2b2d",
+        "score": 1
+      },
+      "startTimestamp": 1708596000,
+      "slug": "spain-u19-norway-u19"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11603082": {
+    "id": 11603082,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Fabril",
+        "shortName": "Fabril",
+        "color": "#003399",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Ourense CF",
+        "shortName": "Ourense",
+        "color": "#000000",
+        "score": 3
+      },
+      "startTimestamp": 1708858800,
+      "slug": "ourense-cf-deportivo-fabril"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11603261": {
+    "id": 11603261,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Fabril",
+        "shortName": "Fabril",
+        "color": "#003399",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Gimnástica Torrelavega",
+        "shortName": "Gimnástica Torrelavega",
+        "color": "#0000ff",
+        "score": 0
+      },
+      "startTimestamp": 1710691200,
+      "slug": "gimnastica-torrelavega-deportivo-fabril"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  }
+}

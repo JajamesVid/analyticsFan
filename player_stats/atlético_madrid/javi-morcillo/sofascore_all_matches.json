@@ -1,0 +1,5997 @@
+{
+  "14103005": {
+    "id": 14103005,
+    "match_info": {
+      "homeTeam": {
+        "name": "Algeciras CF",
+        "shortName": "Algeciras",
+        "color": "#ff0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1765105200,
+      "slug": "atletico-madrid-algeciras-cf"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "15158199": {
+    "id": 15158199,
+    "match_info": {
+      "homeTeam": {
+        "name": "Marbella FC",
+        "shortName": "Marbella",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1765377000,
+      "slug": "marbella-fc-atletico-madrileno"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 38,
+        "accuratePass": 34,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 20,
+        "totalOwnHalfPasses": 21,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 17,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 1,
+        "aerialWon": 3,
+        "duelLost": 12,
+        "duelWon": 7,
+        "challengeLost": 2,
+        "dispossessed": 1,
+        "totalContest": 0,
+        "wonContest": 0,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 1,
+        "outfielderBlock": 0,
+        "ballRecovery": 10,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 2,
+        "fouls": 3,
+        "totalOffside": 0,
+        "minutesPlayed": 84,
+        "touches": 51,
+        "rating": 6.6,
+        "possessionLostCtrl": 11,
+        "expectedGoals": 0.15,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102643": {
+    "id": 14102643,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla Atlético",
+        "shortName": "Sevilla Atl.",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1765740600,
+      "slug": "atletico-madrid-sevilla-atletico"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 2,
+        "accuratePass": 1,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 1,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 0,
+        "duelWon": 0,
+        "challengeLost": 0,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 1,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 5,
+        "touches": 2,
+        "possessionLostCtrl": 1,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102703": {
+    "id": 14102703,
+    "match_info": {
+      "homeTeam": {
+        "name": "CE Sabadell",
+        "shortName": "Sabadell",
+        "color": "#0000cc",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1766260800,
+      "slug": "ce-sabadell-atletico-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 16,
+        "accuratePass": 15,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 10,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 4,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 1,
+        "aerialWon": 0,
+        "duelLost": 3,
+        "duelWon": 0,
+        "challengeLost": 2,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 37,
+        "touches": 22,
+        "rating": 6.4,
+        "possessionLostCtrl": 2,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102737": {
+    "id": 14102737,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "SD Tarazona",
+        "shortName": "Tarazona",
+        "color": "#ff0000",
+        "score": 1
+      },
+      "startTimestamp": 1767452400,
+      "slug": "sociedad-deportivo-tarazona-atletico-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 6,
+        "accuratePass": 4,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 2,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 1,
+        "challengeLost": 0,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "interceptionWon": 1,
+        "ballRecovery": 5,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 18,
+        "touches": 7,
+        "rating": 6.6,
+        "possessionLostCtrl": 1,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102791": {
+    "id": 14102791,
+    "match_info": {
+      "homeTeam": {
+        "name": "Antequera",
+        "shortName": "ANT",
+        "color": "#03834a",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "startTimestamp": 1768136400,
+      "slug": "atletico-madrid-antequera"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14102824": {
+    "id": 14102824,
+    "match_info": {
+      "homeTeam": {
+        "name": "CE Europa",
+        "shortName": "Europa",
+        "color": "#0000ff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1768662900,
+      "slug": "ce-europa-atletico-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 6,
+        "accuratePass": 5,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 4,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 1,
+        "aerialWon": 0,
+        "duelLost": 5,
+        "duelWon": 2,
+        "challengeLost": 1,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 1,
+        "outfielderBlock": 0,
+        "ballRecovery": 2,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 1,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 36,
+        "touches": 10,
+        "rating": 6.5,
+        "possessionLostCtrl": 2,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102803": {
+    "id": 14102803,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Villarreal B U23",
+        "shortName": "Villarreal B U23",
+        "color": "#ffff00",
+        "score": 1
+      },
+      "startTimestamp": 1769259600,
+      "slug": "villarreal-atletico-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 13,
+        "accuratePass": 10,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 9,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "totalContest": 0,
+        "wonContest": 0,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 1,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 2,
+        "totalOffside": 0,
+        "minutesPlayed": 29,
+        "touches": 15,
+        "rating": 6.4,
+        "possessionLostCtrl": 3,
+        "expectedGoals": 0.08,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14103181": {
+    "id": 14103181,
+    "match_info": {
+      "homeTeam": {
+        "name": "UD Ibiza",
+        "shortName": "UD Ibiza",
+        "color": "#66b4ff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1769958000,
+      "slug": "ud-ibiza-atletico-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 32,
+        "accuratePass": 30,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 17,
+        "totalOwnHalfPasses": 17,
+        "accurateOppositionHalfPasses": 13,
+        "totalOppositionHalfPasses": 15,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 1,
+        "duelLost": 8,
+        "duelWon": 1,
+        "challengeLost": 0,
+        "dispossessed": 1,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 1,
+        "outfielderBlock": 0,
+        "ballRecovery": 6,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 1,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 90,
+        "touches": 41,
+        "rating": 6.4,
+        "possessionLostCtrl": 4,
+        "expectedGoals": 0,
+        "expectedAssists": 0.25,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14103212": {
+    "id": 14103212,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "AD Alcorcón",
+        "shortName": "Alcorcón",
+        "color": "#ffcc00",
+        "score": 0
+      },
+      "startTimestamp": 1770485400,
+      "slug": "atletico-madrid-ad-alcorcon"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 20,
+        "accuratePass": 14,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 10,
+        "totalOppositionHalfPasses": 15,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "aerialLost": 3,
+        "aerialWon": 3,
+        "duelLost": 8,
+        "duelWon": 7,
+        "challengeLost": 1,
+        "totalContest": 0,
+        "wonContest": 0,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 12,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 0,
+        "fouls": 2,
+        "totalOffside": 0,
+        "minutesPlayed": 90,
+        "touches": 25,
+        "rating": 6.9,
+        "possessionLostCtrl": 7,
+        "expectedGoals": 0.29,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14103243": {
+    "id": 14103243,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Sanluqueño",
+        "shortName": "Sanluqueño",
+        "color": "#2bac2b",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1771005600,
+      "slug": "atletico-sanluqueno-atletico-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 1,
+        "accuratePass": 1,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 1,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 1,
+        "duelWon": 0,
+        "challengeLost": 0,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 1,
+        "outfielderBlock": 0,
+        "ballRecovery": 1,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 13,
+        "touches": 1,
+        "rating": 6.6,
+        "possessionLostCtrl": 0,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14103264": {
+    "id": 14103264,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Gimnàstic de Tarragona",
+        "shortName": "Gimnàstic",
+        "color": "#ff0000",
+        "score": 2
+      },
+      "startTimestamp": 1771686900,
+      "slug": "atletico-madrid-gimnastic-de-tarragona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 40,
+        "accuratePass": 33,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 20,
+        "totalOwnHalfPasses": 22,
+        "accurateOppositionHalfPasses": 10,
+        "totalOppositionHalfPasses": 15,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 2,
+        "aerialWon": 1,
+        "duelLost": 5,
+        "duelWon": 12,
+        "challengeLost": 0,
+        "totalContest": 2,
+        "wonContest": 2,
+        "onTargetScoringAttempt": 0,
+        "blockedScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 2,
+        "outfielderBlock": 0,
+        "interceptionWon": 3,
+        "ballRecovery": 15,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 1,
+        "fouls": 2,
+        "totalOffside": 0,
+        "minutesPlayed": 90,
+        "touches": 54,
+        "rating": 7.1,
+        "possessionLostCtrl": 11,
+        "expectedGoals": 0.03,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 7.1,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102839": {
+    "id": 14102839,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla Atlético",
+        "shortName": "Sevilla Atl.",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1772299800,
+      "slug": "atletico-madrid-sevilla-atletico"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 39,
+        "accuratePass": 34,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 19,
+        "totalOwnHalfPasses": 21,
+        "accurateOppositionHalfPasses": 13,
+        "totalOppositionHalfPasses": 16,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 2,
+        "aerialWon": 0,
+        "duelLost": 7,
+        "duelWon": 4,
+        "challengeLost": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 2,
+        "outfielderBlock": 0,
+        "interceptionWon": 2,
+        "ballRecovery": 15,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 1,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 90,
+        "touches": 49,
+        "rating": 7,
+        "possessionLostCtrl": 8,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102863": {
+    "id": 14102863,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Hércules CF",
+        "shortName": "Hércules",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1772990100,
+      "slug": "atletico-madrid-hercules-cf"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 2,
+        "accuratePass": 2,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 0,
+        "duelWon": 0,
+        "challengeLost": 0,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 2,
+        "outfielderBlock": 0,
+        "interceptionWon": 1,
+        "ballRecovery": 1,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 5,
+        "touches": 4,
+        "possessionLostCtrl": 1,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102896": {
+    "id": 14102896,
+    "match_info": {
+      "homeTeam": {
+        "name": "SD Tarazona",
+        "shortName": "Tarazona",
+        "color": "#ff0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "startTimestamp": 1773586800,
+      "slug": "sociedad-deportivo-tarazona-atletico-madrid"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14102981": {
+    "id": 14102981,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 0
+      },
+      "startTimestamp": 1774114200,
+      "slug": "fc-cartagena-atletico-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 47,
+        "accuratePass": 43,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 22,
+        "totalOwnHalfPasses": 23,
+        "accurateOppositionHalfPasses": 19,
+        "totalOppositionHalfPasses": 20,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 2,
+        "aerialWon": 1,
+        "duelLost": 7,
+        "duelWon": 4,
+        "challengeLost": 2,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 1,
+        "outfielderBlock": 0,
+        "interceptionWon": 4,
+        "ballRecovery": 5,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 1,
+        "fouls": 3,
+        "totalOffside": 0,
+        "minutesPlayed": 90,
+        "touches": 57,
+        "rating": 6.8,
+        "possessionLostCtrl": 3,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14103042": {
+    "id": 14103042,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Antequera",
+        "shortName": "ANT",
+        "color": "#03834a",
+        "score": 2
+      },
+      "startTimestamp": 1774786500,
+      "slug": "atletico-madrid-antequera"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 40,
+        "accuratePass": 36,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 12,
+        "totalOwnHalfPasses": 12,
+        "accurateOppositionHalfPasses": 22,
+        "totalOppositionHalfPasses": 26,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 3,
+        "duelWon": 6,
+        "challengeLost": 2,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 1,
+        "outfielderBlock": 0,
+        "interceptionWon": 1,
+        "ballRecovery": 10,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 2,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 90,
+        "touches": 46,
+        "rating": 6.8,
+        "possessionLostCtrl": 5,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14081810": {
+    "id": 14081810,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 2
+      },
+      "startTimestamp": 1775329200,
+      "slug": "atletico-madrid-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atl. Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2590653,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 4,
+        "accuratePass": 3,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 3,
+        "totalOppositionHalfPasses": 1,
+        "aerialLost": 1,
+        "duelLost": 3,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "totalClearance": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "fouls": 2,
+        "minutesPlayed": 29,
+        "touches": 6,
+        "rating": 6.3,
+        "possessionLostCtrl": 1,
+        "expectedAssists": 1.663e-05,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.01,
+        "defensiveValueNormalized": -0.09,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14606562": {
+    "id": 14606562,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Murcia",
+        "shortName": "Real Murcia",
+        "color": "#ff0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1775405700,
+      "slug": "atletico-madrid-real-murcia"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 19,
+        "accuratePass": 15,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 12,
+        "totalOwnHalfPasses": 14,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 5,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 4,
+        "challengeLost": 0,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 1,
+        "outfielderBlock": 0,
+        "ballRecovery": 5,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 2,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 52,
+        "touches": 25,
+        "rating": 6,
+        "possessionLostCtrl": 7,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083161": {
+    "id": 14083161,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1775934000,
+      "slug": "atletico-madrid-sevilla"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atl. Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2590653,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 11,
+        "accuratePass": 11,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 6,
+        "duelLost": 3,
+        "challengeLost": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 1,
+        "fouls": 2,
+        "minutesPlayed": 19,
+        "touches": 12,
+        "rating": 6.4,
+        "expectedAssists": 0.00349219,
+        "totalBallCarriesDistance": 32.630542210302,
+        "ballCarriesCount": 4,
+        "totalProgression": 7.3227552052219,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": -0.05,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14606603": {
+    "id": 14606603,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Teruel",
+        "shortName": "Teruel",
+        "color": "#ff0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1776592800,
+      "slug": "cd-teruel-atletico-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 24,
+        "accuratePass": 22,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 10,
+        "totalOwnHalfPasses": 10,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 13,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 1,
+        "duelWon": 1,
+        "challengeLost": 0,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 22,
+        "touches": 30,
+        "rating": 6.7,
+        "possessionLostCtrl": 2,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083306": {
+    "id": 14083306,
+    "match_info": {
+      "homeTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1776877200,
+      "slug": "elche-atletico-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atl. Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2590653,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14606620": {
+    "id": 14606620,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Betis Deportivo",
+        "shortName": "BET",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1777050000,
+      "slug": "betis-deportivo-atletico-madrid"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14083476": {
+    "id": 14083476,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1777731300,
+      "slug": "atletico-madrid-valencia"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atl. Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2590653,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 27,
+        "accuratePass": 24,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 14,
+        "totalOwnHalfPasses": 16,
+        "accurateOppositionHalfPasses": 10,
+        "totalOppositionHalfPasses": 11,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 3,
+        "challengeLost": 2,
+        "shotOffTarget": 2,
+        "totalClearance": 2,
+        "outfielderBlock": 1,
+        "ballRecovery": 4,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 63,
+        "touches": 35,
+        "rating": 6.8,
+        "possessionLostCtrl": 4,
+        "expectedGoals": 0.2496,
+        "expectedAssists": 0.00663629,
+        "totalBallCarriesDistance": 26.603305872936,
+        "ballCarriesCount": 4,
+        "totalProgression": 24.181747127993,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 7
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.18,
+        "passValueNormalized": 0.05,
+        "dribbleValueNormalized": 0.05,
+        "defensiveValueNormalized": 0.13,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083551": {
+    "id": 14083551,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "startTimestamp": 1778344200,
+      "slug": "atletico-madrid-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atl. Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2590653,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083634": {
+    "id": 14083634,
+    "match_info": {
+      "homeTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1778614200,
+      "slug": "atletico-madrid-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atl. Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2590653,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083661": {
+    "id": 14083661,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779037200,
+      "slug": "girona-fc-atletico-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atl. Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2590653,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 10,
+        "accuratePass": 9,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 7,
+        "totalOwnHalfPasses": 7,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 3,
+        "aerialWon": 1,
+        "duelLost": 4,
+        "duelWon": 5,
+        "challengeLost": 3,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "wasFouled": 2,
+        "fouls": 1,
+        "minutesPlayed": 29,
+        "touches": 14,
+        "rating": 6.8,
+        "possessionLostCtrl": 1,
+        "expectedAssists": 0.00133044,
+        "totalBallCarriesDistance": 27.973907848329,
+        "ballCarriesCount": 3,
+        "totalProgression": 11.749365389427,
+        "bestBallCarryProgression": 11.347649762547,
+        "totalProgressiveBallCarriesDistance": 12.425445223412,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.08,
+        "dribbleValueNormalized": 0.07,
+        "defensiveValueNormalized": -0.09,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atl. Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2590653,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 18,
+        "accuratePass": 17,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 13,
+        "totalOppositionHalfPasses": 14,
+        "duelLost": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 1,
+        "fouls": 1,
+        "minutesPlayed": 29,
+        "touches": 20,
+        "rating": 6.7,
+        "possessionLostCtrl": 1,
+        "expectedAssists": 0.0194532,
+        "totalBallCarriesDistance": 60.343169986219,
+        "ballCarriesCount": 8,
+        "totalProgression": 46.960329811973,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.09,
+        "dribbleValueNormalized": 0.08,
+        "defensiveValueNormalized": 0.13,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16236411": {
+    "id": 16236411,
+    "match_info": {
+      "homeTeam": {
+        "name": "SD Ponferradina",
+        "shortName": "Ponferradina",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1780167600,
+      "slug": "atletico-madrileno-sd-ponferradina"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 1,
+        "accuratePass": 0,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "totalOppositionHalfPasses": 1,
+        "totalCross": 1,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 0,
+        "duelWon": 0,
+        "challengeLost": 0,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "interceptionWon": 1,
+        "ballRecovery": 1,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 20,
+        "touches": 2,
+        "rating": 6.6,
+        "possessionLostCtrl": 1,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16236938": {
+    "id": 16236938,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "SD Ponferradina",
+        "shortName": "Ponferradina",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1780763400,
+      "slug": "atletico-madrileno-sd-ponferradina"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "goals": 0,
+        "ownGoals": 0,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "11588054": {
+    "id": 11588054,
+    "match_info": {
+      "homeTeam": {
+        "name": "CE Sabadell",
+        "shortName": "Sabadell",
+        "color": "#0000cc",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "CD Arenteiro",
+        "shortName": "Arenteiro",
+        "color": "#009966",
+        "score": 1
+      },
+      "startTimestamp": 1711220400,
+      "slug": "cd-arenteiro-ce-sabadell"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11588103": {
+    "id": 11588103,
+    "match_info": {
+      "homeTeam": {
+        "name": "CF Fuenlabrada",
+        "shortName": "Fuenlabrada",
+        "color": "#006699",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "CE Sabadell",
+        "shortName": "Sabadell",
+        "color": "#0000cc",
+        "score": 2
+      },
+      "startTimestamp": 1711810800,
+      "slug": "cf-fuenlabrada-ce-sabadell"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11587670": {
+    "id": 11587670,
+    "match_info": {
+      "homeTeam": {
+        "name": "CE Sabadell",
+        "shortName": "Sabadell",
+        "color": "#0000cc",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "CD Teruel",
+        "shortName": "Teruel",
+        "color": "#ff0000",
+        "score": 1
+      },
+      "startTimestamp": 1712412000,
+      "slug": "cd-teruel-ce-sabadell"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11587725": {
+    "id": 11587725,
+    "match_info": {
+      "homeTeam": {
+        "name": "Osasuna B",
+        "shortName": "Osasuna B",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "CE Sabadell",
+        "shortName": "Sabadell",
+        "color": "#0000cc",
+        "score": 0
+      },
+      "startTimestamp": 1713088800,
+      "slug": "ce-sabadell-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "CE Sabadell",
+        "slug": "ce-sabadell",
+        "shortName": "Sabadell",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 6616,
+        "nameCode": "SAB",
+        "national": false,
+        "type": 0,
+        "id": 24335,
+        "teamColors": {
+          "primary": "#0000cc",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سي إي ساباديل",
+            "ru": "ФК Сабаделл"
+          },
+          "shortNameTranslation": {
+            "ar": "ساباديل"
+          }
+        }
+      },
+      "statistics": {
+        "minutesPlayed": 22,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "11587792": {
+    "id": 11587792,
+    "match_info": {
+      "homeTeam": {
+        "name": "CE Sabadell",
+        "shortName": "Sabadell",
+        "color": "#0000cc",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "UE Cornellà",
+        "shortName": "Cornellà",
+        "color": "#00a86b",
+        "score": 1
+      },
+      "startTimestamp": 1713625200,
+      "slug": "ue-cornella-ce-sabadell"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11587893": {
+    "id": 11587893,
+    "match_info": {
+      "homeTeam": {
+        "name": "CE Sabadell",
+        "shortName": "Sabadell",
+        "color": "#0000cc",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Gimnàstic de Tarragona",
+        "shortName": "Gimnàstic",
+        "color": "#ff0000",
+        "score": 0
+      },
+      "startTimestamp": 1714924800,
+      "slug": "ce-sabadell-gimnastic-de-tarragona"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11588001": {
+    "id": 11588001,
+    "match_info": {
+      "homeTeam": {
+        "name": "CE Sabadell",
+        "shortName": "Sabadell",
+        "color": "#0000cc",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "SD Ponferradina",
+        "shortName": "Ponferradina",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1716051600,
+      "slug": "ce-sabadell-sd-ponferradina"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11588079": {
+    "id": 11588079,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Lugo",
+        "shortName": "Lugo",
+        "color": "#ff0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "CE Sabadell",
+        "shortName": "Sabadell",
+        "color": "#0000cc",
+        "score": 3
+      },
+      "startTimestamp": 1716656400,
+      "slug": "ce-sabadell-cd-lugo"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "13394908": {
+    "id": 13394908,
+    "match_info": {
+      "homeTeam": {
+        "name": "CE Sabadell",
+        "shortName": "Sabadell",
+        "color": "#0000cc",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1738173600,
+      "slug": "ce-sabadell-espanyol"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "12604086": {
+    "id": 12604086,
+    "match_info": {
+      "homeTeam": {
+        "name": "Elche Ilicitano",
+        "shortName": "Elche Ilicitano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "CE Sabadell",
+        "shortName": "Sabadell",
+        "color": "#0000cc",
+        "score": 3
+      },
+      "startTimestamp": 1742641200,
+      "slug": "elche-ilicitano-ce-sabadell"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14099034": {
+    "id": 14099034,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Atlético Sanluqueño",
+        "shortName": "Sanluqueño",
+        "color": "#2bac2b",
+        "score": 0
+      },
+      "startTimestamp": 1756747800,
+      "slug": "atletico-sanluqueno-atletico-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 4,
+        "accuratePass": 4,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 0,
+        "duelWon": 0,
+        "challengeLost": 0,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 1,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 12,
+        "touches": 5,
+        "rating": 6.5,
+        "possessionLostCtrl": 0,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14099079": {
+    "id": 14099079,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1757100600,
+      "slug": "fc-cartagena-atletico-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 12,
+        "accuratePass": 11,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 6,
+        "totalOwnHalfPasses": 6,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 6,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 3,
+        "duelWon": 2,
+        "challengeLost": 1,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 4,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 36,
+        "touches": 15,
+        "rating": 6.4,
+        "possessionLostCtrl": 4,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14099093": {
+    "id": 14099093,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Murcia",
+        "shortName": "Real Murcia",
+        "color": "#ff0000",
+        "score": 1
+      },
+      "startTimestamp": 1757844000,
+      "slug": "atletico-madrid-real-murcia"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14099120": {
+    "id": 14099120,
+    "match_info": {
+      "homeTeam": {
+        "name": "Betis Deportivo",
+        "shortName": "BET",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1758362400,
+      "slug": "betis-deportivo-atletico-madrid"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14099133": {
+    "id": 14099133,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "UD Ibiza",
+        "shortName": "UD Ibiza",
+        "color": "#66b4ff",
+        "score": 0
+      },
+      "startTimestamp": 1759084200,
+      "slug": "ud-ibiza-atletico-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 7,
+        "accuratePass": 5,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 4,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 1,
+        "aerialWon": 0,
+        "duelLost": 2,
+        "duelWon": 1,
+        "challengeLost": 0,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 4,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 0,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 24,
+        "touches": 10,
+        "rating": 6.5,
+        "possessionLostCtrl": 2,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14099160": {
+    "id": 14099160,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal B U23",
+        "shortName": "Villarreal B U23",
+        "color": "#ffff00",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1759510800,
+      "slug": "villarreal-atletico-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 0,
+        "accuratePass": 0,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 1,
+        "duelLost": 1,
+        "duelWon": 1,
+        "challengeLost": 0,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 0,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 12,
+        "rating": 6.3,
+        "possessionLostCtrl": 1,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14099226": {
+    "id": 14099226,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Juventud Torremolinos CF",
+        "shortName": "Juventud Torremolinos",
+        "color": "#374df5",
+        "score": 1
+      },
+      "startTimestamp": 1760868000,
+      "slug": "juventud-torremolinos-cf-atletico-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 35,
+        "accuratePass": 32,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 16,
+        "totalOwnHalfPasses": 17,
+        "accurateOppositionHalfPasses": 16,
+        "totalOppositionHalfPasses": 17,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 7,
+        "duelWon": 4,
+        "challengeLost": 2,
+        "totalContest": 1,
+        "wonContest": 1,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 9,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 0,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 90,
+        "touches": 43,
+        "rating": 6.8,
+        "possessionLostCtrl": 5,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14867290": {
+    "id": 14867290,
+    "match_info": {
+      "homeTeam": {
+        "name": "Hércules CF",
+        "shortName": "Hércules",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1761152400,
+      "slug": "atletico-madrid-hercules-cf"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 19,
+        "accuratePass": 15,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 8,
+        "totalOwnHalfPasses": 9,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 9,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 1,
+        "aerialWon": 2,
+        "duelLost": 3,
+        "duelWon": 5,
+        "challengeLost": 0,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "blockedScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "interceptionWon": 2,
+        "ballRecovery": 8,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 1,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 1,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 42,
+        "touches": 26,
+        "rating": 6.7,
+        "possessionLostCtrl": 7,
+        "expectedGoals": 0.02,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14099253": {
+    "id": 14099253,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "CE Europa",
+        "shortName": "Europa",
+        "color": "#0000ff",
+        "score": 0
+      },
+      "startTimestamp": 1761507000,
+      "slug": "ce-europa-atletico-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 7,
+        "accuratePass": 2,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 3,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 0,
+        "duelWon": 1,
+        "challengeLost": 0,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 1,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 0,
+        "totalOffside": 0,
+        "minutesPlayed": 26,
+        "touches": 7,
+        "rating": 6.4,
+        "possessionLostCtrl": 4,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14099285": {
+    "id": 14099285,
+    "match_info": {
+      "homeTeam": {
+        "name": "Gimnàstic de Tarragona",
+        "shortName": "Gimnàstic",
+        "color": "#ff0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1762111800,
+      "slug": "atletico-madrid-gimnastic-de-tarragona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 7,
+        "accuratePass": 5,
+        "totalLongBalls": 0,
+        "accurateLongBalls": 0,
+        "goalAssist": 1,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 4,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 1,
+        "aerialWon": 0,
+        "duelLost": 4,
+        "duelWon": 1,
+        "challengeLost": 2,
+        "totalContest": 0,
+        "wonContest": 0,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 1,
+        "outfielderBlock": 0,
+        "interceptionWon": 2,
+        "ballRecovery": 4,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 1,
+        "fouls": 2,
+        "totalOffside": 0,
+        "minutesPlayed": 46,
+        "touches": 14,
+        "rating": 6.8,
+        "possessionLostCtrl": 2,
+        "expectedGoals": 0.01,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102907": {
+    "id": 14102907,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "CD Eldense",
+        "shortName": "Eldense",
+        "color": "#bf0000",
+        "score": 1
+      },
+      "startTimestamp": 1762546500,
+      "slug": "cd-eldense-atletico-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 16,
+        "accuratePass": 14,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 10,
+        "totalOwnHalfPasses": 10,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 5,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 3,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 2,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 2,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 33,
+        "touches": 20,
+        "rating": 6.7,
+        "possessionLostCtrl": 2,
+        "expectedGoals": 0.07,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102931": {
+    "id": 14102931,
+    "match_info": {
+      "homeTeam": {
+        "name": "AD Alcorcón",
+        "shortName": "Alcorcón",
+        "color": "#ffcc00",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1763290800,
+      "slug": "atletico-madrid-ad-alcorcon"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 24,
+        "accuratePass": 19,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 13,
+        "totalOwnHalfPasses": 13,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 8,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 1,
+        "duelLost": 6,
+        "duelWon": 2,
+        "challengeLost": 2,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 1,
+        "outfielderBlock": 0,
+        "interceptionWon": 2,
+        "ballRecovery": 7,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 48,
+        "touches": 31,
+        "rating": 6.8,
+        "possessionLostCtrl": 6,
+        "expectedGoals": 0.03,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14102977": {
+    "id": 14102977,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "CD Teruel",
+        "shortName": "Teruel",
+        "color": "#ff0000",
+        "score": 0
+      },
+      "startTimestamp": 1764531000,
+      "slug": "cd-teruel-atletico-madrid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 228,
+        "gender": "M",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrileño",
+        "slug": "atletico-madrid-b",
+        "shortName": "Atl. Madrileño",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 9135,
+        "nameCode": "AMD",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2590653,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتل. مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "type": 0,
+        "id": 24326,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد ب",
+            "ru": "ФК Атлетико Мадрид Б"
+          },
+          "shortNameTranslation": {
+            "ar": "أتل. مدريد ب"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 42,
+        "accuratePass": 36,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 18,
+        "totalOwnHalfPasses": 18,
+        "accurateOppositionHalfPasses": 17,
+        "totalOppositionHalfPasses": 22,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 1,
+        "duelLost": 4,
+        "duelWon": 8,
+        "challengeLost": 0,
+        "totalContest": 2,
+        "wonContest": 2,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "interceptionWon": 2,
+        "ballRecovery": 10,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 3,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 90,
+        "touches": 51,
+        "rating": 7.4,
+        "possessionLostCtrl": 5,
+        "expectedGoals": 0.04,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 7.4,
+          "alternative": null
+        },
+        "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

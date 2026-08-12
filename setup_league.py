@@ -6,7 +6,7 @@ from slugify import slugify
 
 BASE_URL = "https://api.sofascore.com/api/v1"
 LALIGA_TOURNAMENT_ID = 8
-OUTPUT_FILE = "players_to_analyze.json"
+OUTPUT_FILE = "players_to_analyze_bis.json"
 
 
 class SofaScoreClient:

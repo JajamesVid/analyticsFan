@@ -1,0 +1,5359 @@
+[
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Sevilla",
+        "abreviatura": "SEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/17.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "2-2",
+    "fecha": "2025-09-12",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20112-sevilla-elche",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083253,
+      "match_info": {
+        "homeTeam": {
+          "name": "Sevilla",
+          "shortName": "Sevilla",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "startTimestamp": 1757703600,
+        "slug": "elche-sevilla",
+        "fecha_normalizada": "2025-09-12"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      },
+      "visitante": {
+        "nombre": "Real Oviedo",
+        "abreviatura": "ROV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/43.png"
+      }
+    },
+    "resultado": "1-0",
+    "fecha": "2025-09-21",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20115-elche-real-oviedo",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.3,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 1.0,
+        "futbolfantasy-rpg": 0.0,
+        "comunio": 2.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 1.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 0.0,
+        "futmondo-mixto": 1.0,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 1.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 1.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 2.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 85.7,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 7.0,
+        "stat-pases-completados": 6.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083275,
+      "match_info": {
+        "homeTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Real Oviedo",
+          "shortName": "Real Oviedo",
+          "color": "#3300ff",
+          "score": 0
+        },
+        "startTimestamp": 1758472200,
+        "slug": "real-oviedo-elche",
+        "fecha_normalizada": "2025-09-21"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 7,
+          "accuratePass": 6,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 1,
+          "totalOwnHalfPasses": 2,
+          "accurateOppositionHalfPasses": 5,
+          "totalOppositionHalfPasses": 5,
+          "duelLost": 2,
+          "challengeLost": 1,
+          "totalContest": 1,
+          "minutesPlayed": 18,
+          "touches": 9,
+          "rating": 6.3,
+          "possessionLostCtrl": 2,
+          "expectedAssists": 0.00297011,
+          "topSpeed": 28.73,
+          "kilometersCovered": 2.98,
+          "numberOfSprints": 4,
+          "ratingVersions": {
+            "original": 6.3,
+            "alternative": 6.3
+          },
+          "totalShots": 0,
+          "passValueNormalized": -0.05,
+          "dribbleValueNormalized": -0.52,
+          "defensiveValueNormalized": -0.05,
+          "metersCoveredRunningKm": 0.71,
+          "metersCoveredHighSpeedRunningKm": 0.26,
+          "metersCoveredSprintingKm": 0.05,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Osasuna",
+        "abreviatura": "OSA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2025-09-25",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20129-osasuna-elche",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 6.0,
+      "sofascore": 6.5,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 6.0,
+        "comunio": 3.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 4.0,
+        "futmondo-prensa": 3.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 2.0,
+        "futmondo-mixto": 5.2,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 1.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 1.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 14.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 1.0,
+        "stat-precision-pases": 82.6,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 23.0,
+        "stat-pases-completados": 19.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083516,
+      "match_info": {
+        "homeTeam": {
+          "name": "Osasuna",
+          "shortName": "Osasuna",
+          "color": "#cc0000",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1758821400,
+        "slug": "elche-osasuna",
+        "fecha_normalizada": "2025-09-25"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 23,
+          "accuratePass": 19,
+          "totalLongBalls": 1,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 12,
+          "totalOwnHalfPasses": 13,
+          "accurateOppositionHalfPasses": 7,
+          "totalOppositionHalfPasses": 10,
+          "totalCross": 1,
+          "aerialWon": 1,
+          "duelLost": 4,
+          "duelWon": 4,
+          "dispossessed": 1,
+          "totalContest": 4,
+          "wonContest": 1,
+          "blockedScoringAttempt": 1,
+          "totalClearance": 1,
+          "ballRecovery": 4,
+          "totalTackle": 1,
+          "unsuccessfulTouch": 4,
+          "wasFouled": 1,
+          "minutesPlayed": 69,
+          "touches": 42,
+          "rating": 6.5,
+          "possessionLostCtrl": 13,
+          "expectedGoals": 0.1002,
+          "expectedAssists": 0.019949,
+          "topSpeed": 33.45,
+          "kilometersCovered": 8.77,
+          "numberOfSprints": 14,
+          "ratingVersions": {
+            "original": 6.5,
+            "alternative": 6.2
+          },
+          "totalShots": 1,
+          "shotValueNormalized": 0.01,
+          "passValueNormalized": 0.04,
+          "dribbleValueNormalized": 0.14,
+          "defensiveValueNormalized": -0.01,
+          "metersCoveredRunningKm": 1.7,
+          "metersCoveredHighSpeedRunningKm": 0.49,
+          "metersCoveredSprintingKm": 0.19,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "2-1",
+    "fecha": "2025-09-28",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20135-elche-celta",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 2,
+      "cope": 5.0,
+      "sofascore": 6.9,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 3.0,
+        "comunio": 5.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 4.0,
+        "biwenger-social": -1.0,
+        "biwenger-as-sofascore": 3.0,
+        "biwenger-stats": 1.0,
+        "futmondo-prensa": 1.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 3.0,
+        "futmondo-mixto": 2.7,
+        "cronistas-marca": 0.0,
+        "marca-mixto": 1.0,
+        "marca-sofascore": 4.0,
+        "mister-cronistas-md": 0.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 4.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 1.0,
+        "stat-faltas-recibidas": 2.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 1.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 100.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 3.0,
+        "stat-pases-completados": 3.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083589,
+      "match_info": {
+        "homeTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "startTimestamp": 1759068900,
+        "slug": "elche-celta-vigo",
+        "fecha_normalizada": "2025-09-28"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 3,
+          "accuratePass": 3,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 1,
+          "totalOwnHalfPasses": 1,
+          "accurateOppositionHalfPasses": 2,
+          "totalOppositionHalfPasses": 2,
+          "duelWon": 4,
+          "totalContest": 1,
+          "wonContest": 1,
+          "totalTackle": 1,
+          "unsuccessfulTouch": 1,
+          "wasFouled": 2,
+          "minutesPlayed": 9,
+          "touches": 8,
+          "rating": 6.9,
+          "possessionLostCtrl": 1,
+          "expectedAssists": 0.0017672,
+          "ratingVersions": {
+            "original": 6.9,
+            "alternative": 6.8
+          },
+          "totalShots": 0,
+          "passValueNormalized": -0.03,
+          "dribbleValueNormalized": 0.16,
+          "defensiveValueNormalized": 0.13,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Alavés",
+        "abreviatura": "ALA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "3-1",
+    "fecha": "2025-10-05",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20145-alaves-elche",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 6.0,
+      "sofascore": 6.7,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 1.0,
+        "futbolfantasy-rpg": 5.0,
+        "comunio": 4.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": -1.0,
+        "biwenger-as-sofascore": 3.0,
+        "biwenger-stats": 2.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": -3.0,
+        "futmondo-mixto": 4.2,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 1.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 2.0,
+        "stat-faltas-cometidas": 3.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 1.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 3.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 5.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 2.0,
+        "stat-precision-pases": 90.9,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 2.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 2.0,
+        "stat-pases-totales": 11.0,
+        "stat-pases-completados": 10.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083605,
+      "match_info": {
+        "homeTeam": {
+          "name": "Deportivo Alavés",
+          "shortName": "Alavés",
+          "color": "#0232a0",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1759665600,
+        "slug": "deportivo-alaves-elche",
+        "fecha_normalizada": "2025-10-05"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 11,
+          "accuratePass": 10,
+          "totalLongBalls": 1,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 8,
+          "totalOwnHalfPasses": 8,
+          "accurateOppositionHalfPasses": 2,
+          "totalOppositionHalfPasses": 3,
+          "totalCross": 2,
+          "duelLost": 4,
+          "duelWon": 2,
+          "dispossessed": 1,
+          "totalClearance": 3,
+          "outfielderBlock": 2,
+          "ballRecovery": 3,
+          "unsuccessfulTouch": 2,
+          "wasFouled": 2,
+          "fouls": 3,
+          "minutesPlayed": 45,
+          "touches": 26,
+          "rating": 6.7,
+          "possessionLostCtrl": 6,
+          "expectedAssists": 0.00312901,
+          "topSpeed": 29.21,
+          "kilometersCovered": 5.19,
+          "numberOfSprints": 5,
+          "totalBallCarriesDistance": 33.934415651381,
+          "ballCarriesCount": 6,
+          "totalProgression": 8.3904704733592,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 6.7,
+            "alternative": 6.8
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.02,
+          "dribbleValueNormalized": 0.26,
+          "defensiveValueNormalized": 0.33,
+          "metersCoveredRunningKm": 1.01,
+          "metersCoveredHighSpeedRunningKm": 0.32,
+          "metersCoveredSprintingKm": 0.06,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Barcelona",
+        "abreviatura": "BAR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/3.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "3-1",
+    "fecha": "2025-11-02",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20174-barcelona-elche",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083095,
+      "match_info": {
+        "homeTeam": {
+          "name": "FC Barcelona",
+          "shortName": "Barcelona",
+          "color": "#154284",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1762104600,
+        "slug": "elche-barcelona",
+        "fecha_normalizada": "2025-11-02"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      },
+      "visitante": {
+        "nombre": "Real Sociedad",
+        "abreviatura": "RSO",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2025-11-07",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20186-elche-real-sociedad",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083110,
+      "match_info": {
+        "homeTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Real Sociedad",
+          "shortName": "Real Sociedad",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1762545600,
+        "slug": "elche-real-sociedad",
+        "fecha_normalizada": "2025-11-07"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      },
+      "visitante": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      }
+    },
+    "resultado": "2-2",
+    "fecha": "2025-11-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20195-elche-real-madrid",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 2,
+      "cope": 7.0,
+      "sofascore": 6.6,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 4.0,
+        "futbolfantasy-rpg": 5.0,
+        "comunio": 3.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": 3.0,
+        "biwenger-as-sofascore": 3.0,
+        "biwenger-stats": 3.0,
+        "futmondo-prensa": 5.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 0.0,
+        "futmondo-mixto": 5.5,
+        "cronistas-marca": 6.0,
+        "marca-mixto": 6.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 6.0,
+        "mister-mixto": 4.0,
+        "mister-mixto-2": 4.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 1.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 1.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 8.0,
+        "stat-tiros-totales": 2.0,
+        "stat-centros-totales": 1.0,
+        "stat-precision-pases": 89.3,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 28.0,
+        "stat-pases-completados": 25.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083124,
+      "match_info": {
+        "homeTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Real Madrid",
+          "shortName": "Real Madrid",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "startTimestamp": 1763928000,
+        "slug": "elche-real-madrid",
+        "fecha_normalizada": "2025-11-23"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 28,
+          "accuratePass": 25,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 9,
+          "totalOwnHalfPasses": 10,
+          "accurateOppositionHalfPasses": 16,
+          "totalOppositionHalfPasses": 18,
+          "totalCross": 1,
+          "duelLost": 3,
+          "duelWon": 1,
+          "totalContest": 2,
+          "blockedScoringAttempt": 2,
+          "totalClearance": 1,
+          "ballRecovery": 3,
+          "errorLeadToAShot": 1,
+          "unsuccessfulTouch": 2,
+          "wasFouled": 1,
+          "fouls": 1,
+          "minutesPlayed": 66,
+          "touches": 40,
+          "rating": 6.6,
+          "possessionLostCtrl": 8,
+          "expectedGoals": 0.0573,
+          "expectedAssists": 0.0630293,
+          "topSpeed": 31.67,
+          "kilometersCovered": 7.53,
+          "numberOfSprints": 16,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 6.6,
+            "alternative": 6.4
+          },
+          "totalShots": 2,
+          "shotValueNormalized": -0.13,
+          "passValueNormalized": 0.25,
+          "dribbleValueNormalized": 0.24,
+          "defensiveValueNormalized": -0.06,
+          "metersCoveredRunningKm": 1.2,
+          "metersCoveredHighSpeedRunningKm": 0.52,
+          "metersCoveredSprintingKm": 0.19,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Getafe",
+        "abreviatura": "GET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/8.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "1-0",
+    "fecha": "2025-11-28",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20206-getafe-elche",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.4,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 4.0,
+        "comunio": 2.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 3.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 0.0,
+        "futmondo-mixto": 3.3,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 1.0,
+        "stat-pases-area-exito": 1.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 3.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 1.0,
+        "stat-precision-pases": 87.5,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 16.0,
+        "stat-pases-completados": 14.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083149,
+      "match_info": {
+        "homeTeam": {
+          "name": "Getafe",
+          "shortName": "Getafe",
+          "color": "#00369e",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 0
+        },
+        "startTimestamp": 1764360000,
+        "slug": "getafe-elche",
+        "fecha_normalizada": "2025-11-28"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 16,
+          "accuratePass": 14,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 3,
+          "totalOwnHalfPasses": 3,
+          "accurateOppositionHalfPasses": 11,
+          "totalOppositionHalfPasses": 13,
+          "totalCross": 1,
+          "accurateCross": 1,
+          "aerialLost": 3,
+          "duelLost": 4,
+          "blockedScoringAttempt": 1,
+          "unsuccessfulTouch": 1,
+          "fouls": 1,
+          "totalOffside": 1,
+          "minutesPlayed": 45,
+          "touches": 20,
+          "rating": 6.4,
+          "possessionLostCtrl": 3,
+          "expectedGoals": 0.0351,
+          "expectedAssists": 0.0535444,
+          "topSpeed": 30.79,
+          "kilometersCovered": 4.89,
+          "numberOfSprints": 7,
+          "totalBallCarriesDistance": 56.311535716129,
+          "ballCarriesCount": 8,
+          "totalProgression": 2.94,
+          "bestBallCarryProgression": 13.23,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 6.4,
+            "alternative": 6.6
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.1,
+          "passValueNormalized": 0.05,
+          "dribbleValueNormalized": 0.13,
+          "defensiveValueNormalized": 0,
+          "metersCoveredRunningKm": 0.81,
+          "metersCoveredHighSpeedRunningKm": 0.34,
+          "metersCoveredSprintingKm": 0.07,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      },
+      "visitante": {
+        "nombre": "Girona",
+        "abreviatura": "GIR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/30.png"
+      }
+    },
+    "resultado": "3-0",
+    "fecha": "2025-12-07",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20215-elche-girona",
+    "puntuaciones": {
+      "picas": 2,
+      "marca": 1,
+      "cope": 6.0,
+      "sofascore": 6.7,
+      "relevo": 2.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 3.0,
+        "futbolfantasy-rpg": 8.0,
+        "comunio": 4.0,
+        "modo-picas": 6.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": 1.0,
+        "biwenger-as-sofascore": 5.0,
+        "biwenger-stats": 5.0,
+        "futmondo-prensa": 4.0,
+        "futmondo-mixto-as": 6.0,
+        "futmondo-stats": 2.0,
+        "futmondo-mixto": 6.6,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 3.0,
+        "mister-mixto-2": 4.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 1.0,
+        "stat-regates-exito": 1.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 1.0,
+        "stat-balones-robados": 1.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 7.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 90.9,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 1.0,
+        "stat-tackles": 1.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 11.0,
+        "stat-pases-completados": 10.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083153,
+      "match_info": {
+        "homeTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Girona FC",
+          "shortName": "Girona",
+          "color": "#ffffff",
+          "score": 0
+        },
+        "startTimestamp": 1765112400,
+        "slug": "girona-fc-elche",
+        "fecha_normalizada": "2025-12-07"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 11,
+          "accuratePass": 10,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 1,
+          "totalOwnHalfPasses": 1,
+          "accurateOppositionHalfPasses": 9,
+          "totalOppositionHalfPasses": 10,
+          "duelLost": 5,
+          "duelWon": 3,
+          "dispossessed": 4,
+          "totalContest": 1,
+          "wonContest": 1,
+          "blockedScoringAttempt": 1,
+          "interceptionWon": 1,
+          "totalTackle": 1,
+          "wonTackle": 1,
+          "unsuccessfulTouch": 2,
+          "wasFouled": 1,
+          "fouls": 1,
+          "totalOffside": 1,
+          "minutesPlayed": 45,
+          "touches": 26,
+          "rating": 6.7,
+          "possessionLostCtrl": 8,
+          "expectedGoals": 0.0295,
+          "expectedAssists": 0.0322742,
+          "totalBallCarriesDistance": 38.039515074747,
+          "ballCarriesCount": 6,
+          "totalProgression": 24.99,
+          "bestBallCarryProgression": 13.02,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 6.7,
+            "alternative": 6.8
+          },
+          "totalShots": 1,
+          "shotValueNormalized": 0,
+          "passValueNormalized": 0.21,
+          "dribbleValueNormalized": 0.14,
+          "defensiveValueNormalized": 0.13,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      },
+      "visitante": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      }
+    },
+    "resultado": "1-3",
+    "fecha": "2026-01-03",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20245-elche-villarreal",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.4,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 1.0,
+        "comunio": 2.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 0.0,
+        "futmondo-mixto": 1.1,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 1.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 5.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 90.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 10.0,
+        "stat-pases-completados": 9.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083198,
+      "match_info": {
+        "homeTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 3
+        },
+        "startTimestamp": 1767461400,
+        "slug": "elche-villarreal",
+        "fecha_normalizada": "2026-01-03"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 10,
+          "accuratePass": 9,
+          "goalAssist": 0,
+          "accurateOppositionHalfPasses": 9,
+          "totalOppositionHalfPasses": 10,
+          "aerialWon": 1,
+          "duelLost": 3,
+          "duelWon": 1,
+          "dispossessed": 1,
+          "totalContest": 2,
+          "blockedScoringAttempt": 1,
+          "unsuccessfulTouch": 1,
+          "minutesPlayed": 19,
+          "touches": 16,
+          "rating": 6.4,
+          "possessionLostCtrl": 5,
+          "expectedGoals": 0.0639,
+          "expectedAssists": 0.0251912,
+          "topSpeed": 33.72,
+          "kilometersCovered": 3.08,
+          "numberOfSprints": 6,
+          "totalBallCarriesDistance": 85.738978344635,
+          "ballCarriesCount": 7,
+          "totalProgression": 60.165,
+          "bestBallCarryProgression": 38.115,
+          "totalProgressiveBallCarriesDistance": 63.848218790948,
+          "progressiveBallCarriesCount": 3,
+          "ratingVersions": {
+            "original": 6.4,
+            "alternative": 6.4
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.12,
+          "passValueNormalized": -0.04,
+          "dribbleValueNormalized": 0.26,
+          "defensiveValueNormalized": -0.01,
+          "metersCoveredRunningKm": 0.54,
+          "metersCoveredHighSpeedRunningKm": 0.19,
+          "metersCoveredSprintingKm": 0.1,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Valencia",
+        "abreviatura": "VAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/18.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-01-10",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20261-valencia-elche",
+    "puntuaciones": {
+      "picas": 2,
+      "marca": 2,
+      "cope": 7.0,
+      "sofascore": 7.5,
+      "relevo": 2.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 5.0,
+        "futbolfantasy-rpg": 9.0,
+        "comunio": 12.0,
+        "modo-picas": 6.0,
+        "biwenger-sofascore": 11.0,
+        "biwenger-social": 10.0,
+        "biwenger-as-sofascore": 11.0,
+        "biwenger-stats": 4.0,
+        "futmondo-prensa": 9.0,
+        "futmondo-mixto-as": 9.0,
+        "futmondo-stats": 7.0,
+        "futmondo-mixto": 5.7,
+        "cronistas-marca": 10.0,
+        "marca-mixto": 6.0,
+        "marca-sofascore": 11.0,
+        "mister-cronistas-md": 6.0,
+        "mister-mixto": 9.0,
+        "mister-mixto-2": 11.0,
+        "mister-sofascore": 11.0,
+        "stat-goles": 1.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 1.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 1.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 1.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 7.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 1.0,
+        "stat-precision-pases": 75.0,
+        "stat-penaltis-provocados": 1.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 1.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 4.0,
+        "stat-pases-completados": 3.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083220,
+      "match_info": {
+        "homeTeam": {
+          "name": "Valencia",
+          "shortName": "Valencia",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1768075200,
+        "slug": "elche-valencia",
+        "fecha_normalizada": "2026-01-10"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 4,
+          "accuratePass": 3,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 3,
+          "totalOwnHalfPasses": 4,
+          "totalOppositionHalfPasses": 0,
+          "totalCross": 1,
+          "duelWon": 1,
+          "onTargetScoringAttempt": 1,
+          "goals": 1,
+          "totalClearance": 1,
+          "ballRecovery": 1,
+          "unsuccessfulTouch": 5,
+          "penaltyConceded": 1,
+          "wasFouled": 1,
+          "fouls": 1,
+          "minutesPlayed": 16,
+          "touches": 17,
+          "rating": 7.5,
+          "possessionLostCtrl": 7,
+          "expectedGoals": 0.058,
+          "expectedGoalsOnTarget": 0.362,
+          "expectedAssists": 4.516e-05,
+          "topSpeed": 28.17,
+          "kilometersCovered": 2.41,
+          "numberOfSprints": 2,
+          "totalBallCarriesDistance": 9.0127602247119,
+          "ballCarriesCount": 2,
+          "totalProgression": 6.195,
+          "bestBallCarryProgression": 3.15,
+          "ratingVersions": {
+            "original": 7.5,
+            "alternative": 6.9
+          },
+          "totalShots": 1,
+          "shotValueNormalized": 0.51,
+          "passValueNormalized": -0.05,
+          "dribbleValueNormalized": 0.04,
+          "defensiveValueNormalized": -0.05,
+          "metersCoveredRunningKm": 0.46,
+          "metersCoveredHighSpeedRunningKm": 0.18,
+          "metersCoveredSprintingKm": 0.02,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      },
+      "visitante": {
+        "nombre": "Sevilla",
+        "abreviatura": "SEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/17.png"
+      }
+    },
+    "resultado": "2-2",
+    "fecha": "2026-01-19",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20265-elche-sevilla",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 4.0,
+      "sofascore": 6.4,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 5.0,
+        "futbolfantasy-rpg": 8.0,
+        "comunio": 2.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": 2.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 3.0,
+        "futmondo-prensa": 3.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 3.0,
+        "futmondo-mixto": 4.9,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 7.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 1.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 2.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 1.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 1.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 3.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 1.0,
+        "stat-precision-pases": 92.3,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 13.0,
+        "stat-pases-completados": 12.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083228,
+      "match_info": {
+        "homeTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Sevilla",
+          "shortName": "Sevilla",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "startTimestamp": 1768852800,
+        "slug": "elche-sevilla",
+        "fecha_normalizada": "2026-01-19"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 13,
+          "accuratePass": 12,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 4,
+          "totalOwnHalfPasses": 4,
+          "accurateOppositionHalfPasses": 8,
+          "totalOppositionHalfPasses": 9,
+          "totalCross": 1,
+          "aerialLost": 1,
+          "duelLost": 5,
+          "duelWon": 2,
+          "dispossessed": 2,
+          "totalContest": 1,
+          "bigChanceCreated": 1,
+          "blockedScoringAttempt": 1,
+          "interceptionWon": 1,
+          "totalTackle": 1,
+          "wasFouled": 1,
+          "fouls": 1,
+          "minutesPlayed": 68,
+          "touches": 29,
+          "rating": 6.4,
+          "possessionLostCtrl": 5,
+          "expectedGoals": 0.1413,
+          "expectedAssists": 0.0092647,
+          "topSpeed": 31.02,
+          "kilometersCovered": 7.57,
+          "numberOfSprints": 17,
+          "totalBallCarriesDistance": 16.836816970347,
+          "ballCarriesCount": 4,
+          "totalProgression": 7.035,
+          "bestBallCarryProgression": 2.835,
+          "totalProgressiveBallCarriesDistance": 5.0785210445562,
+          "progressiveBallCarriesCount": 1,
+          "keyPass": 2,
+          "ratingVersions": {
+            "original": 6.4,
+            "alternative": 6.8
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.29,
+          "passValueNormalized": 0.03,
+          "dribbleValueNormalized": 0.32,
+          "defensiveValueNormalized": 0.14,
+          "metersCoveredRunningKm": 1.44,
+          "metersCoveredHighSpeedRunningKm": 0.72,
+          "metersCoveredSprintingKm": 0.24,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Levante",
+        "abreviatura": "LEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/10.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "3-2",
+    "fecha": "2026-01-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20277-levante-elche",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.5,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 6.0,
+        "comunio": 3.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": 2.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 4.0,
+        "futmondo-prensa": 1.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 3.0,
+        "futmondo-mixto": 4.9,
+        "cronistas-marca": -2.0,
+        "marca-mixto": 1.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 1.0,
+        "mister-mixto-2": 1.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 1.0,
+        "stat-faltas-recibidas": 2.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 1.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 2.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 8.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 85.2,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 2.0,
+        "stat-tiros-bloqueados": 1.0,
+        "stat-pases-totales": 27.0,
+        "stat-pases-completados": 23.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083146,
+      "match_info": {
+        "homeTeam": {
+          "name": "Levante UD",
+          "shortName": "Levante",
+          "color": "#0e3b68",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "startTimestamp": 1769198400,
+        "slug": "levante-ud-elche",
+        "fecha_normalizada": "2026-01-23"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 27,
+          "accuratePass": 23,
+          "totalLongBalls": 2,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 13,
+          "totalOwnHalfPasses": 14,
+          "accurateOppositionHalfPasses": 10,
+          "totalOppositionHalfPasses": 13,
+          "aerialLost": 2,
+          "aerialWon": 2,
+          "duelLost": 6,
+          "duelWon": 6,
+          "challengeLost": 1,
+          "totalContest": 3,
+          "wonContest": 1,
+          "shotOffTarget": 1,
+          "outfielderBlock": 1,
+          "interceptionWon": 1,
+          "ballRecovery": 2,
+          "totalTackle": 1,
+          "unsuccessfulTouch": 3,
+          "wasFouled": 2,
+          "fouls": 1,
+          "minutesPlayed": 70,
+          "touches": 43,
+          "rating": 6.5,
+          "possessionLostCtrl": 9,
+          "expectedGoals": 0.0308,
+          "expectedAssists": 0.00624122,
+          "topSpeed": 31.15,
+          "kilometersCovered": 7.62,
+          "numberOfSprints": 16,
+          "totalBallCarriesDistance": 104.70727268092,
+          "ballCarriesCount": 14,
+          "totalProgression": -9.135,
+          "bestBallCarryProgression": 16.065,
+          "totalProgressiveBallCarriesDistance": 18.175099036869,
+          "progressiveBallCarriesCount": 1,
+          "ratingVersions": {
+            "original": 6.5,
+            "alternative": 6.6
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.1,
+          "passValueNormalized": -0.07,
+          "dribbleValueNormalized": 0.01,
+          "defensiveValueNormalized": -0.13,
+          "metersCoveredRunningKm": 1.07,
+          "metersCoveredHighSpeedRunningKm": 0.57,
+          "metersCoveredSprintingKm": 0.16,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      },
+      "visitante": {
+        "nombre": "Barcelona",
+        "abreviatura": "BAR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/3.png"
+      }
+    },
+    "resultado": "1-3",
+    "fecha": "2026-01-31",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20284-elche-barcelona",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.5,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 0.0,
+        "comunio": 3.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": -1.0,
+        "futmondo-prensa": 3.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 1.0,
+        "futmondo-mixto": 0.6,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 1.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 6.0,
+        "mister-mixto": 3.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 1.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 1.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 2.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 9.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 1.0,
+        "stat-precision-pases": 42.9,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 1.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 14.0,
+        "stat-pases-completados": 6.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083244,
+      "match_info": {
+        "homeTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "FC Barcelona",
+          "shortName": "Barcelona",
+          "color": "#154284",
+          "score": 3
+        },
+        "startTimestamp": 1769889600,
+        "slug": "elche-barcelona",
+        "fecha_normalizada": "2026-01-31"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 14,
+          "accuratePass": 6,
+          "totalLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 1,
+          "totalOwnHalfPasses": 2,
+          "accurateOppositionHalfPasses": 5,
+          "totalOppositionHalfPasses": 12,
+          "totalCross": 1,
+          "interceptionWon": 1,
+          "ballRecovery": 1,
+          "minutesPlayed": 60,
+          "touches": 18,
+          "rating": 6.5,
+          "possessionLostCtrl": 9,
+          "expectedAssists": 0.0597914,
+          "topSpeed": 32.08,
+          "kilometersCovered": 7.47,
+          "numberOfSprints": 25,
+          "totalBallCarriesDistance": 57.731459314164,
+          "ballCarriesCount": 6,
+          "totalProgression": 16.231574973882,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 6.5,
+            "alternative": 6.5
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.17,
+          "dribbleValueNormalized": 0.03,
+          "defensiveValueNormalized": -0.03,
+          "metersCoveredRunningKm": 0.82,
+          "metersCoveredHighSpeedRunningKm": 0.66,
+          "metersCoveredSprintingKm": 0.3,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Real Sociedad",
+        "abreviatura": "RSO",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "3-1",
+    "fecha": "2026-02-07",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20299-real-sociedad-elche",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 2,
+      "cope": 5.0,
+      "sofascore": 6.4,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 0.0,
+        "futbolfantasy-rpg": 6.0,
+        "comunio": 2.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 3.0,
+        "futmondo-prensa": 5.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 1.0,
+        "futmondo-mixto": 4.7,
+        "cronistas-marca": 6.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 3.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 1.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 2.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 1.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 1.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 2.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 6.0,
+        "stat-tiros-totales": 2.0,
+        "stat-centros-totales": 1.0,
+        "stat-precision-pases": 89.7,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 1.0,
+        "stat-tackles": 1.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 29.0,
+        "stat-pases-completados": 26.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083292,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Sociedad",
+          "shortName": "Real Sociedad",
+          "color": "#ffffff",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1770494400,
+        "slug": "elche-real-sociedad",
+        "fecha_normalizada": "2026-02-07"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 29,
+          "accuratePass": 26,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 8,
+          "totalOwnHalfPasses": 8,
+          "accurateOppositionHalfPasses": 18,
+          "totalOppositionHalfPasses": 21,
+          "totalCross": 1,
+          "aerialLost": 1,
+          "duelLost": 5,
+          "duelWon": 4,
+          "challengeLost": 1,
+          "totalContest": 2,
+          "shotOffTarget": 2,
+          "ballRecovery": 2,
+          "totalTackle": 2,
+          "wonTackle": 1,
+          "wasFouled": 2,
+          "fouls": 1,
+          "minutesPlayed": 79,
+          "touches": 42,
+          "rating": 6.4,
+          "possessionLostCtrl": 6,
+          "expectedGoals": 0.1215,
+          "expectedAssists": 0.0259858,
+          "topSpeed": 29.11,
+          "kilometersCovered": 8.72,
+          "numberOfSprints": 7,
+          "totalBallCarriesDistance": 65.612587132769,
+          "ballCarriesCount": 10,
+          "totalProgression": 39.220053593553,
+          "ratingVersions": {
+            "original": 6.4,
+            "alternative": 6.5
+          },
+          "totalShots": 2,
+          "shotValueNormalized": -0.55,
+          "passValueNormalized": 0,
+          "dribbleValueNormalized": 0.33,
+          "defensiveValueNormalized": -0.14,
+          "metersCoveredRunningKm": 1.52,
+          "metersCoveredHighSpeedRunningKm": 0.47,
+          "metersCoveredSprintingKm": 0.09,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      },
+      "visitante": {
+        "nombre": "Espanyol",
+        "abreviatura": "ESP",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
+      }
+    },
+    "resultado": "2-2",
+    "fecha": "2026-03-01",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20324-elche-espanyol",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 7.0,
+      "sofascore": 6.6,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 5.0,
+        "comunio": 3.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 3.0,
+        "biwenger-stats": 2.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 5.0,
+        "futmondo-mixto": 5.1,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 1.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 1.0,
+        "stat-faltas-recibidas": 2.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 5.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 50.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 6.0,
+        "stat-pases-completados": 3.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14081819,
+      "match_info": {
+        "homeTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Espanyol",
+          "shortName": "Espanyol",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "startTimestamp": 1772370000,
+        "slug": "elche-espanyol",
+        "fecha_normalizada": "2026-03-01"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 6,
+          "accuratePass": 3,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 1,
+          "totalOwnHalfPasses": 1,
+          "accurateOppositionHalfPasses": 2,
+          "totalOppositionHalfPasses": 5,
+          "duelLost": 1,
+          "duelWon": 3,
+          "dispossessed": 1,
+          "totalContest": 1,
+          "wonContest": 1,
+          "onTargetScoringAttempt": 1,
+          "wasFouled": 2,
+          "totalOffside": 1,
+          "minutesPlayed": 17,
+          "touches": 12,
+          "rating": 6.6,
+          "possessionLostCtrl": 5,
+          "expectedGoals": 0.0914,
+          "expectedGoalsOnTarget": 0.0472,
+          "expectedAssists": 0.00373494,
+          "totalBallCarriesDistance": 19.099834137499,
+          "ballCarriesCount": 3,
+          "totalProgression": -2.6135381114793,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 6.6,
+            "alternative": 6.8
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.2,
+          "passValueNormalized": -0.07,
+          "dribbleValueNormalized": 0.06,
+          "defensiveValueNormalized": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "2-1",
+    "fecha": "2026-03-08",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20342-villarreal-elche",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.3,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 1.0,
+        "futbolfantasy-rpg": 7.0,
+        "comunio": 2.0,
+        "scale0": -2.0,
+        "biwenger-sofascore": 1.0,
+        "biwenger-social": -1.0,
+        "biwenger-as-sofascore": -1.0,
+        "biwenger-stats": 4.0,
+        "futmondo-prensa": 0.0,
+        "futmondo-mixto-as": -2.0,
+        "futmondo-stats": 2.0,
+        "futmondo-mixto": 4.2,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 1.0,
+        "marca-sofascore": 1.0,
+        "mister-cronistas-md": -2.0,
+        "mister-mixto": 0.0,
+        "mister-mixto-2": 1.0,
+        "mister-sofascore": 1.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 1.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 2.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 2.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 8.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 1.0,
+        "stat-precision-pases": 82.1,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 28.0,
+        "stat-pases-completados": 23.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14081803,
+      "match_info": {
+        "homeTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1772974800,
+        "slug": "elche-villarreal",
+        "fecha_normalizada": "2026-03-08"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 28,
+          "accuratePass": 23,
+          "totalLongBalls": 2,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 8,
+          "totalOwnHalfPasses": 8,
+          "accurateOppositionHalfPasses": 15,
+          "totalOppositionHalfPasses": 20,
+          "totalCross": 1,
+          "accurateCross": 1,
+          "aerialLost": 1,
+          "duelLost": 5,
+          "duelWon": 2,
+          "dispossessed": 1,
+          "totalContest": 2,
+          "totalClearance": 2,
+          "ballRecovery": 3,
+          "totalTackle": 1,
+          "wasFouled": 1,
+          "fouls": 1,
+          "minutesPlayed": 59,
+          "touches": 38,
+          "rating": 6.3,
+          "possessionLostCtrl": 8,
+          "expectedAssists": 0.193129,
+          "totalBallCarriesDistance": 134.32127434106,
+          "ballCarriesCount": 17,
+          "totalProgression": 93.973093279778,
+          "bestBallCarryProgression": 30.884106461298,
+          "totalProgressiveBallCarriesDistance": 56.763441531088,
+          "progressiveBallCarriesCount": 3,
+          "ratingVersions": {
+            "original": 6.3,
+            "alternative": 6.3
+          },
+          "totalShots": 0,
+          "passValueNormalized": -0.01,
+          "dribbleValueNormalized": 0.28,
+          "defensiveValueNormalized": -0.08,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "4-1",
+    "fecha": "2026-03-14",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20350-real-madrid-elche",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 6.0,
+      "sofascore": 6.4,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 2.0,
+        "comunio": 2.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": -1.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 1.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 0.0,
+        "futmondo-mixto": 2.9,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 1.0,
+        "stat-regates-exito": 1.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 1.0,
+        "stat-posesiones-perdidas": 5.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 75.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 4.0,
+        "stat-pases-completados": 3.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083637,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Madrid",
+          "shortName": "Real Madrid",
+          "color": "#ffffff",
+          "score": 4
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1773518400,
+        "slug": "elche-real-madrid",
+        "fecha_normalizada": "2026-03-14"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 4,
+          "accuratePass": 3,
+          "goalAssist": 0,
+          "accurateOppositionHalfPasses": 3,
+          "totalOppositionHalfPasses": 4,
+          "duelLost": 4,
+          "duelWon": 2,
+          "dispossessed": 3,
+          "totalContest": 2,
+          "wonContest": 1,
+          "bigChanceMissed": 1,
+          "blockedScoringAttempt": 1,
+          "totalTackle": 1,
+          "minutesPlayed": 16,
+          "touches": 13,
+          "rating": 6.4,
+          "possessionLostCtrl": 5,
+          "expectedGoals": 0.1428,
+          "expectedAssists": 0.0172559,
+          "totalBallCarriesDistance": 7.5717041269533,
+          "ballCarriesCount": 2,
+          "totalProgression": 4.3902649886512,
+          "progressiveBallCarriesCount": 0,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 6.4,
+            "alternative": 6.3
+          },
+          "totalShots": 1,
+          "shotValueNormalized": 0.03,
+          "passValueNormalized": -0.09,
+          "dribbleValueNormalized": 0.12,
+          "defensiveValueNormalized": 0.13,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      },
+      "visitante": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      }
+    },
+    "resultado": "2-1",
+    "fecha": "2026-03-21",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20356-elche-mallorca",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 7.0,
+      "sofascore": 6.3,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 3.0,
+        "futbolfantasy-rpg": 10.0,
+        "comunio": 2.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 1.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 4.0,
+        "futmondo-prensa": 3.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 2.0,
+        "futmondo-mixto": 8.2,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 4.0,
+        "marca-sofascore": 1.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 1.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 1.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 1.0,
+        "stat-regates-exito": 1.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 2.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 7.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 1.0,
+        "stat-precision-pases": 100.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 2.0,
+        "stat-tackles": 2.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 8.0,
+        "stat-pases-completados": 8.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083668,
+      "match_info": {
+        "homeTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 1
+        },
+        "startTimestamp": 1774098000,
+        "slug": "elche-mallorca",
+        "fecha_normalizada": "2026-03-21"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 8,
+          "accuratePass": 8,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 3,
+          "totalOwnHalfPasses": 3,
+          "accurateOppositionHalfPasses": 5,
+          "totalOppositionHalfPasses": 5,
+          "totalCross": 1,
+          "aerialLost": 1,
+          "aerialWon": 1,
+          "duelLost": 8,
+          "duelWon": 5,
+          "challengeLost": 1,
+          "dispossessed": 1,
+          "totalContest": 5,
+          "wonContest": 1,
+          "shotOffTarget": 1,
+          "ballRecovery": 3,
+          "totalTackle": 3,
+          "wonTackle": 2,
+          "unsuccessfulTouch": 2,
+          "fouls": 1,
+          "minutesPlayed": 64,
+          "touches": 25,
+          "rating": 6.3,
+          "possessionLostCtrl": 8,
+          "expectedGoals": 0.138,
+          "expectedAssists": 0.0402388,
+          "totalBallCarriesDistance": 15.068809932089,
+          "ballCarriesCount": 3,
+          "totalProgression": 7.8379498354151,
+          "progressiveBallCarriesCount": 0,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 6.3,
+            "alternative": 6.6
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.5,
+          "passValueNormalized": 0.06,
+          "dribbleValueNormalized": 0.01,
+          "defensiveValueNormalized": -0.09,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Real Oviedo",
+        "abreviatura": "ROV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/43.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "1-2",
+    "fecha": "2026-04-26",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20390-real-oviedo-elche",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083252,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Oviedo",
+          "shortName": "Real Oviedo",
+          "color": "#3300ff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "startTimestamp": 1777212900,
+        "slug": "real-oviedo-elche",
+        "fecha_normalizada": "2026-04-26"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "3-1",
+    "fecha": "2026-05-03",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20403-celta-elche",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083401,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1777809600,
+        "slug": "elche-celta-vigo",
+        "fecha_normalizada": "2026-05-03"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      },
+      "visitante": {
+        "nombre": "Alavés",
+        "abreviatura": "ALA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-05-09",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20416-elche-alaves",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.4,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 0.0,
+        "futbolfantasy-rpg": -1.0,
+        "comunio": 2.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": -1.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": -1.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": -1.0,
+        "futmondo-mixto": 0.6,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 1.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 1.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 3.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 85.7,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 7.0,
+        "stat-pases-completados": 6.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083578,
+      "match_info": {
+        "homeTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Deportivo Alavés",
+          "shortName": "Alavés",
+          "color": "#0232a0",
+          "score": 1
+        },
+        "startTimestamp": 1778328000,
+        "slug": "deportivo-alaves-elche",
+        "fecha_normalizada": "2026-05-09"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 7,
+          "accuratePass": 6,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 3,
+          "totalOwnHalfPasses": 4,
+          "accurateOppositionHalfPasses": 3,
+          "totalOppositionHalfPasses": 3,
+          "duelLost": 2,
+          "duelWon": 1,
+          "dispossessed": 1,
+          "totalContest": 1,
+          "ballRecovery": 1,
+          "totalTackle": 1,
+          "minutesPlayed": 23,
+          "touches": 10,
+          "rating": 6.4,
+          "possessionLostCtrl": 3,
+          "expectedAssists": 0.00101965,
+          "totalBallCarriesDistance": 21.194989571945,
+          "ballCarriesCount": 3,
+          "totalProgression": -9.788112064343,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 6.4,
+            "alternative": 6.3
+          },
+          "totalShots": 0,
+          "passValueNormalized": -0.04,
+          "dribbleValueNormalized": -0.19,
+          "defensiveValueNormalized": -0.01,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Betis",
+        "abreviatura": "BET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/4.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "2-1",
+    "fecha": "2026-05-12",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20429-betis-elche",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.7,
+      "relevo": 2.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 4.0,
+        "futbolfantasy-rpg": 6.0,
+        "comunio": 4.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": -1.0,
+        "biwenger-as-sofascore": 3.0,
+        "biwenger-stats": 4.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 3.0,
+        "futmondo-mixto": 4.7,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 1.0,
+        "stat-regates-exito": 2.0,
+        "stat-faltas-recibidas": 2.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 9.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 80.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 30.0,
+        "stat-pases-completados": 24.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083608,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Betis",
+          "shortName": "Real Betis",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1778608800,
+        "slug": "elche-real-betis",
+        "fecha_normalizada": "2026-05-12"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 30,
+          "accuratePass": 24,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 6,
+          "totalOwnHalfPasses": 6,
+          "accurateOppositionHalfPasses": 18,
+          "totalOppositionHalfPasses": 24,
+          "aerialWon": 1,
+          "duelLost": 2,
+          "duelWon": 4,
+          "dispossessed": 2,
+          "totalContest": 2,
+          "wonContest": 2,
+          "ballRecovery": 2,
+          "unsuccessfulTouch": 1,
+          "wasFouled": 2,
+          "totalOffside": 1,
+          "minutesPlayed": 57,
+          "touches": 38,
+          "rating": 6.7,
+          "possessionLostCtrl": 9,
+          "expectedAssists": 0.0608058,
+          "totalBallCarriesDistance": 111.5046256219,
+          "ballCarriesCount": 13,
+          "totalProgression": 64.978389175791,
+          "bestBallCarryProgression": 22.491984994352,
+          "totalProgressiveBallCarriesDistance": 42.433430030395,
+          "progressiveBallCarriesCount": 2,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 6.7,
+            "alternative": 6.9
+          },
+          "totalShots": 0,
+          "passValueNormalized": -0.32,
+          "dribbleValueNormalized": 0.24,
+          "defensiveValueNormalized": -0.01,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      },
+      "visitante": {
+        "nombre": "Getafe",
+        "abreviatura": "GET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/8.png"
+      }
+    },
+    "resultado": "1-0",
+    "fecha": "2026-05-17",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20436-elche-getafe",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 6.0,
+      "sofascore": 6.3,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 5.0,
+        "futbolfantasy-rpg": 5.0,
+        "comunio": 2.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 1.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 4.0,
+        "futmondo-prensa": 3.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": -1.0,
+        "futmondo-mixto": 4.9,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 5.0,
+        "marca-sofascore": 1.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 1.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 1.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 1.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 1.0,
+        "stat-regates-exito": 1.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 3.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 1.0,
+        "stat-ocasiones-claras-creadas": 1.0,
+        "stat-ocasiones-claras-falladas": 1.0,
+        "stat-posesiones-perdidas": 9.0,
+        "stat-tiros-totales": 2.0,
+        "stat-centros-totales": 1.0,
+        "stat-precision-pases": 86.7,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 15.0,
+        "stat-pases-completados": 13.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083671,
+      "match_info": {
+        "homeTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Getafe",
+          "shortName": "Getafe",
+          "color": "#00369e",
+          "score": 0
+        },
+        "startTimestamp": 1779037200,
+        "slug": "getafe-elche",
+        "fecha_normalizada": "2026-05-17"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 15,
+          "accuratePass": 13,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 3,
+          "totalOwnHalfPasses": 3,
+          "accurateOppositionHalfPasses": 10,
+          "totalOppositionHalfPasses": 12,
+          "totalCross": 1,
+          "aerialLost": 3,
+          "aerialWon": 1,
+          "duelLost": 9,
+          "duelWon": 4,
+          "challengeLost": 2,
+          "totalContest": 2,
+          "wonContest": 1,
+          "bigChanceCreated": 1,
+          "bigChanceMissed": 1,
+          "shotOffTarget": 1,
+          "blockedScoringAttempt": 1,
+          "totalClearance": 1,
+          "ballRecovery": 2,
+          "totalTackle": 1,
+          "unsuccessfulTouch": 6,
+          "wasFouled": 1,
+          "fouls": 3,
+          "totalOffside": 1,
+          "minutesPlayed": 84,
+          "touches": 36,
+          "rating": 6.3,
+          "possessionLostCtrl": 10,
+          "expectedGoals": 0.1734,
+          "expectedAssists": 0.00775597,
+          "totalBallCarriesDistance": 50.083262269527,
+          "ballCarriesCount": 6,
+          "totalProgression": 10.477384580872,
+          "progressiveBallCarriesCount": 0,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 6.3,
+            "alternative": 6.9
+          },
+          "totalShots": 2,
+          "shotValueNormalized": -0.46,
+          "passValueNormalized": 0.08,
+          "dribbleValueNormalized": 0.02,
+          "defensiveValueNormalized": -0.09,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Girona",
+        "abreviatura": "GIR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/30.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20447-girona-elche",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083743,
+      "match_info": {
+        "homeTeam": {
+          "name": "Girona FC",
+          "shortName": "Girona",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "girona-fc-elche",
+        "fecha_normalizada": "2026-05-23"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Grady Diangana",
+          "firstName": "Grady",
+          "lastName": "Diangana",
+          "slug": "grady-diangana",
+          "shortName": "G. Diangana",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 180,
+          "userCount": 3348,
+          "gender": "M",
+          "sofascoreId": "8ife5w",
+          "id": 848512,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892944000,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جرادي ديانجانا",
+              "bn": "গ্র্যাডি দিয়াংগানা",
+              "hi": "ग्रैडी डिआंगाना",
+              "ru": "Грэйди Диангана"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ديانجانا",
+              "bn": "জি. দিয়াংগানা",
+              "hi": "जी. डिआंगाना",
+              "ru": "Г. Диангана"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 116534,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  }
+]

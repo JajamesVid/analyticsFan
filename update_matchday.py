@@ -2,10 +2,10 @@ import json
 import os
 import time
 import random
-import subprocess
 import httpx
 
 PLAYERS_JSON = "players_to_analyze.json"
+TARGET_SEASON = "25/26"
 
 USER_AGENTS = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
@@ -52,6 +52,24 @@ def create_session():
     return httpx.Client(headers=random_headers())
 
 
+def filter_last_matchday(events, team_id):
+    """De todos los eventos de un equipo/jugador, se queda solo con los de
+    LaLiga de la temporada TARGET_SEASON, y de esos solo con la última jornada."""
+    laliga_events = [
+        e for e in events
+        if (e.get("homeTeam", {}).get("id") == team_id or e.get("awayTeam", {}).get("id") == team_id)
+        and e.get("tournament", {}).get("name") == "LaLiga"
+        and e.get("season", {}).get("year") == TARGET_SEASON
+    ]
+
+    if not laliga_events:
+        return []
+
+    last_round = max(e.get("roundInfo", {}).get("round", 0) for e in laliga_events)
+
+    return [e for e in laliga_events if e.get("roundInfo", {}).get("round") == last_round]
+
+
 def update_team_stats(session, team_name, team_id):
     team_folder = normalize(team_name)
     output_file = os.path.join("team_stats", team_folder, "sofascore_all_matches.json")
@@ -75,6 +93,8 @@ def update_team_stats(session, team_name, team_id):
     except Exception as e:
         print(f"  ❌ Error: {e}")
         return 0
+
+    events = filter_last_matchday(events, team_id)
 
     new_events = {str(e["id"]): e for e in events if str(e["id"]) not in existing_ids}
 
@@ -130,7 +150,7 @@ def update_team_stats(session, team_name, team_id):
     return len(new_events)
 
 
-def update_player_stats(session, player_name, player_id, team_name):
+def update_player_stats(session, player_name, player_id, team_name, team_id):
     team_folder = normalize(team_name)
     player_folder = os.path.join("player_stats", team_folder, player_name)
     output_file = os.path.join(player_folder, "sofascore_all_matches.json")
@@ -154,6 +174,8 @@ def update_player_stats(session, player_name, player_id, team_name):
     except Exception as e:
         print(f"  ❌ Error: {e}")
         return 0
+
+    events = filter_last_matchday(events, team_id)
 
     new_events = {str(e["id"]): e for e in events if str(e["id"]) not in existing_ids}
 
@@ -231,13 +253,8 @@ if __name__ == "__main__":
             sofa_id = player["sofascore_id"]
             print(f"\n  → {name}")
 
-            update_player_stats(session, name, sofa_id, team_name)
+            update_player_stats(session, name, sofa_id, team_name, team_id)
             sleep()
-
-            subprocess.run(["python3", "futFantasy_Pipeline.py", name, team_name],
-                           capture_output=True)
-            subprocess.run(["python3", "merge_to_Excel.py", name, team_name],
-                           capture_output=True)
 
         sleep()
 

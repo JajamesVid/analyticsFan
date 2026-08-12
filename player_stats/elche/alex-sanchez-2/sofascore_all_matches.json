@@ -1,0 +1,371 @@
+{
+  "14349059": {
+    "id": 14349059,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mérida AD",
+        "shortName": "Mérida",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Madrid C",
+        "shortName": "Real Madrid C",
+        "color": "#374df5",
+        "score": 2
+      },
+      "startTimestamp": 1754677800,
+      "slug": "real-madrid-merida-ad"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14083228": {
+    "id": 14083228,
+    "match_info": {
+      "homeTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1768852800,
+      "slug": "elche-sevilla"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Alex Sanchez",
+        "slug": "alex-sanchez",
+        "shortName": "Á. Sánchez",
+        "position": "F",
+        "jerseyNumber": "38",
+        "userCount": 107,
+        "gender": "M",
+        "sofascoreId": "6i3sye",
+        "id": 2216007,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1146614400,
+        "proposedMarketValueRaw": {
+          "value": 49000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أليكس سانشيز",
+            "ru": "Санчез, Алекс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. سانشيز",
+            "ru": "А. Санчез"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 116534,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083146": {
+    "id": 14083146,
+    "match_info": {
+      "homeTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1769198400,
+      "slug": "levante-ud-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Alex Sanchez",
+        "slug": "alex-sanchez",
+        "shortName": "Á. Sánchez",
+        "position": "F",
+        "jerseyNumber": "38",
+        "userCount": 107,
+        "gender": "M",
+        "sofascoreId": "6i3sye",
+        "id": 2216007,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1146614400,
+        "proposedMarketValueRaw": {
+          "value": 49000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أليكس سانشيز",
+            "ru": "Санчез, Алекс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. سانشيز",
+            "ru": "А. Санчез"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 116534,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 6,
+        "accuratePass": 4,
+        "goalAssist": 1,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 4,
+        "duelLost": 2,
+        "duelWon": 1,
+        "totalContest": 2,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "minutesPlayed": 14,
+        "touches": 12,
+        "rating": 6.6,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.0694455,
+        "totalBallCarriesDistance": 13.961135523441,
+        "ballCarriesCount": 2,
+        "totalProgression": 9.555,
+        "bestBallCarryProgression": 7.035,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.15,
+        "dribbleValueNormalized": -0.02,
+        "defensiveValueNormalized": 0.13,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083244": {
+    "id": 14083244,
+    "match_info": {
+      "homeTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 3
+      },
+      "startTimestamp": 1769889600,
+      "slug": "elche-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Alex Sanchez",
+        "slug": "alex-sanchez",
+        "shortName": "Á. Sánchez",
+        "position": "F",
+        "jerseyNumber": "38",
+        "userCount": 107,
+        "gender": "M",
+        "sofascoreId": "6i3sye",
+        "id": 2216007,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1146614400,
+        "proposedMarketValueRaw": {
+          "value": 49000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أليكس سانشيز",
+            "ru": "Санчез, Алекс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. سانشيز",
+            "ru": "А. Санчез"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 116534,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14102145": {
+    "id": 14102145,
+    "match_info": {
+      "homeTeam": {
+        "name": "Conquense",
+        "shortName": "CON",
+        "color": "#d3a43c",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Elche Ilicitano",
+        "shortName": "Elche Ilicitano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1774715400,
+      "slug": "elche-ilicitano-conquense"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "14102250": {
+    "id": 14102250,
+    "match_info": {
+      "homeTeam": {
+        "name": "Tenerife B",
+        "shortName": "TEN",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche Ilicitano",
+        "shortName": "Elche Ilicitano",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1775988000,
+      "slug": "elche-ilicitano-tenerife"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  }
+}

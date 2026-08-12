@@ -1,0 +1,5137 @@
+{
+  "13295567": {
+    "id": 13295567,
+    "match_info": {
+      "homeTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Halmstads BK",
+        "shortName": "Halmstad",
+        "color": "#0066ff",
+        "score": 2
+      },
+      "startTimestamp": 1756045800,
+      "slug": "halmstads-bk-if-elfsborg"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 32,
+        "accuratePass": 27,
+        "totalLongBalls": 11,
+        "accurateLongBalls": 6,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 26,
+        "totalOwnHalfPasses": 28,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 4,
+        "duelLost": 1,
+        "duelWon": 1,
+        "totalClearance": 1,
+        "ballRecovery": 15,
+        "errorLeadToAShot": 1,
+        "penaltyConceded": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "goodHighClaim": 1,
+        "savedShotsFromInsideTheBox": 3,
+        "penaltyFaced": 1,
+        "saves": 5,
+        "totalKeeperSweeper": 1,
+        "accurateKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 48,
+        "rating": 6.8,
+        "possessionLostCtrl": 5,
+        "keeperSaveValue": 1.1245,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13295602": {
+    "id": 13295602,
+    "match_info": {
+      "homeTeam": {
+        "name": "IF Brommapojkarna",
+        "shortName": "BP",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 0
+      },
+      "startTimestamp": 1756558800,
+      "slug": "if-brommapojkarna-if-elfsborg"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 22,
+        "accuratePass": 19,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 19,
+        "totalOwnHalfPasses": 19,
+        "totalOppositionHalfPasses": 3,
+        "totalClearance": 2,
+        "ballRecovery": 8,
+        "savedShotsFromInsideTheBox": 5,
+        "saves": 5,
+        "minutesPlayed": 90,
+        "touches": 37,
+        "rating": 7.1,
+        "possessionLostCtrl": 3,
+        "keeperSaveValue": 1.097,
+        "ratingVersions": {
+          "original": 7.1,
+          "alternative": 7.1
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13295610": {
+    "id": 13295610,
+    "match_info": {
+      "homeTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Malmö FF",
+        "shortName": "Malmö",
+        "color": "#0099ff",
+        "score": 2
+      },
+      "startTimestamp": 1757860200,
+      "slug": "malmo-ff-if-elfsborg"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 28,
+        "accuratePass": 20,
+        "totalLongBalls": 12,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 18,
+        "totalOwnHalfPasses": 18,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 10,
+        "ballRecovery": 2,
+        "savedShotsFromInsideTheBox": 1,
+        "penaltyFaced": 1,
+        "saves": 1,
+        "minutesPlayed": 90,
+        "touches": 30,
+        "rating": 6.3,
+        "possessionLostCtrl": 8,
+        "keeperSaveValue": 0.3288,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.3
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13295617": {
+    "id": 13295617,
+    "match_info": {
+      "homeTeam": {
+        "name": "GAIS",
+        "shortName": "GAIS",
+        "color": "#00ff99",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 0
+      },
+      "startTimestamp": 1758373200,
+      "slug": "gais-goteborg-if-elfsborg"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 36,
+        "accuratePass": 20,
+        "totalLongBalls": 23,
+        "accurateLongBalls": 7,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 17,
+        "totalOwnHalfPasses": 19,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 17,
+        "totalClearance": 1,
+        "ballRecovery": 6,
+        "savedShotsFromInsideTheBox": 2,
+        "saves": 3,
+        "minutesPlayed": 90,
+        "touches": 43,
+        "rating": 6.6,
+        "possessionLostCtrl": 16,
+        "keeperSaveValue": 0.4534,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13295627": {
+    "id": 13295627,
+    "match_info": {
+      "homeTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Degerfors IF",
+        "shortName": "Degerfors",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "startTimestamp": 1758978000,
+      "slug": "degerfors-if-if-elfsborg"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 25,
+        "accuratePass": 19,
+        "totalLongBalls": 9,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 18,
+        "totalOwnHalfPasses": 20,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 5,
+        "totalClearance": 1,
+        "ballRecovery": 12,
+        "goodHighClaim": 1,
+        "savedShotsFromInsideTheBox": 1,
+        "saves": 3,
+        "totalKeeperSweeper": 1,
+        "accurateKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 36,
+        "rating": 6.5,
+        "possessionLostCtrl": 6,
+        "keeperSaveValue": 0.7083,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13292362": {
+    "id": 13292362,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mjällby AIF",
+        "shortName": "Mjällby",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 0
+      },
+      "startTimestamp": 1759582800,
+      "slug": "mjallby-aif-if-elfsborg"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13500728": {
+    "id": 13500728,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sweden U21",
+        "shortName": "Sweden U21",
+        "color": "#ffcc00",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Poland U21",
+        "shortName": "Poland U21",
+        "color": "#ffffff",
+        "score": 6
+      },
+      "startTimestamp": 1760457600,
+      "slug": "poland-u21-sweden-u21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "13241348": {
+    "id": 13241348,
+    "match_info": {
+      "homeTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Östers IF",
+        "shortName": "Öster",
+        "color": "#ff0000",
+        "score": 1
+      },
+      "startTimestamp": 1760884200,
+      "slug": "osters-if-if-elfsborg"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13241336": {
+    "id": 13241336,
+    "match_info": {
+      "homeTeam": {
+        "name": "IK Sirius",
+        "shortName": "Sirius",
+        "color": "#0066ff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 0
+      },
+      "startTimestamp": 1761483600,
+      "slug": "ik-sirius-if-elfsborg"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13241344": {
+    "id": 13241344,
+    "match_info": {
+      "homeTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "AIK",
+        "shortName": "AIK",
+        "color": "#000000",
+        "score": 3
+      },
+      "startTimestamp": 1762088400,
+      "slug": "aik-if-elfsborg"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13241342": {
+    "id": 13241342,
+    "match_info": {
+      "homeTeam": {
+        "name": "Hammarby IF",
+        "shortName": "Hammarby",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 0
+      },
+      "startTimestamp": 1762696800,
+      "slug": "if-elfsborg-hammarby-if"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 26,
+        "accuratePass": 15,
+        "totalLongBalls": 19,
+        "accurateLongBalls": 8,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 8,
+        "totalOwnHalfPasses": 8,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 18,
+        "saves": 1,
+        "minutesPlayed": 46,
+        "touches": 27,
+        "rating": 6.1,
+        "possessionLostCtrl": 11,
+        "topSpeed": 22.16,
+        "kilometersCovered": 3.28,
+        "numberOfSprints": 0,
+        "keeperSaveValue": 0.0016,
+        "ratingVersions": {
+          "original": 6.1,
+          "alternative": 6.1
+        },
+        "totalShots": 0,
+        "metersCoveredRunningKm": 0.03,
+        "metersCoveredHighSpeedRunningKm": 0,
+        "metersCoveredSprintingKm": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083691": {
+    "id": 14083691,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1769371200,
+      "slug": "racing-de-santander-deportivo-la-coruna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 57775,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينج دي سانتاندر",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083745": {
+    "id": 14083745,
+    "match_info": {
+      "homeTeam": {
+        "name": "Granada",
+        "shortName": "Granada",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1769976000,
+      "slug": "granada-racing-de-santander"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 57775,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينج دي سانتاندر",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083780": {
+    "id": 14083780,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1770665400,
+      "slug": "mirandes-racing-de-santander"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 57775,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينج دي سانتاندر",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083790": {
+    "id": 14083790,
+    "match_info": {
+      "homeTeam": {
+        "name": "Eibar",
+        "shortName": "Eibar",
+        "color": "#003e85",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1771168500,
+      "slug": "eibar-racing-de-santander"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 57775,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينج دي سانتاندر",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083810": {
+    "id": 14083810,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Burgos Club de Fútbol",
+        "shortName": "Burgos",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1771781400,
+      "slug": "burgos-club-de-futbol-racing-de-santander"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 57775,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينج دي سانتاندر",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083813": {
+    "id": 14083813,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Castellón",
+        "shortName": "Castellón",
+        "color": "#191f23",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1772308800,
+      "slug": "cd-castellon-racing-de-santander"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 57775,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينج دي سانتاندر",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083385": {
+    "id": 14083385,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Córdoba",
+        "shortName": "Córdoba",
+        "color": "#339900",
+        "score": 3
+      },
+      "startTimestamp": 1772991000,
+      "slug": "cordoba-racing-de-santander"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 57775,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينج دي سانتاندر",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083402": {
+    "id": 14083402,
+    "match_info": {
+      "homeTeam": {
+        "name": "Cultural Leonesa",
+        "shortName": "Cultural Leonesa",
+        "color": "#a51400",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1773501300,
+      "slug": "cultural-leonesa-racing-de-santander"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 57775,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينج دي سانتاندر",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083449": {
+    "id": 14083449,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Albacete Balompié",
+        "shortName": "Albacete",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "startTimestamp": 1774106100,
+      "slug": "albacete-balompie-racing-de-santander"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 57775,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينج دي سانتاندر",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083499": {
+    "id": 14083499,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Sporting Gijón",
+        "shortName": "Sporting",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1775071800,
+      "slug": "sporting-gijon-racing-de-santander"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 57775,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينج دي سانتاندر",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083533": {
+    "id": 14083533,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Andorra",
+        "shortName": "FC Andorra",
+        "color": "#0000ff",
+        "score": 6
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1775398500,
+      "slug": "fc-andorra-racing-de-santander"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 57775,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينج دي سانتاندر",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083557": {
+    "id": 14083557,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Almería",
+        "shortName": "Almería",
+        "color": "#ff0000",
+        "score": 1
+      },
+      "startTimestamp": 1776020400,
+      "slug": "almeria-racing-de-santander"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 57775,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينج دي سانتاندر",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 13,
+        "accuratePass": 8,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 7,
+        "totalOwnHalfPasses": 9,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 4,
+        "aerialWon": 1,
+        "duelWon": 1,
+        "ballRecovery": 7,
+        "goodHighClaim": 1,
+        "savedShotsFromInsideTheBox": 1,
+        "saves": 2,
+        "minutesPlayed": 90,
+        "touches": 22,
+        "rating": 6.5,
+        "possessionLostCtrl": 5,
+        "totalBallCarriesDistance": 10.639078111122,
+        "ballCarriesCount": 2,
+        "totalProgression": -3.0092361065756,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.0428,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.1,
+        "dribbleValueNormalized": -0.02,
+        "defensiveValueNormalized": -0.07,
+        "goalkeeperValueNormalized": 0.05,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14081731": {
+    "id": 14081731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Sociedad B",
+        "shortName": "Real Sociedad B",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1776450600,
+      "slug": "real-sociedad-racing-de-santander"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 57775,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينج دي سانتاندر",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 23,
+        "accuratePass": 13,
+        "totalLongBalls": 13,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 11,
+        "totalOwnHalfPasses": 12,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 11,
+        "duelWon": 2,
+        "totalClearance": 2,
+        "ballRecovery": 8,
+        "wasFouled": 1,
+        "savedShotsFromInsideTheBox": 1,
+        "saves": 2,
+        "totalKeeperSweeper": 4,
+        "accurateKeeperSweeper": 4,
+        "minutesPlayed": 90,
+        "touches": 34,
+        "rating": 6.5,
+        "possessionLostCtrl": 10,
+        "totalBallCarriesDistance": 51.363975158694,
+        "ballCarriesCount": 6,
+        "totalProgression": 0.49913338877701,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.0077,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.02,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": -0.07,
+        "goalkeeperValueNormalized": 0.01,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14081737": {
+    "id": 14081737,
+    "match_info": {
+      "homeTeam": {
+        "name": "AD Ceuta",
+        "shortName": "Ceuta",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1777230000,
+      "slug": "ad-ceuta-racing-de-santander"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 57775,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينج دي سانتاندر",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 10,
+        "accuratePass": 10,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 10,
+        "totalOwnHalfPasses": 10,
+        "aerialWon": 1,
+        "duelWon": 1,
+        "ballRecovery": 10,
+        "minutesPlayed": 90,
+        "touches": 16,
+        "rating": 6.7,
+        "totalBallCarriesDistance": 16.628745308395,
+        "ballCarriesCount": 2,
+        "totalProgression": 16.481696887499,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.02,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": 0.22,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14081730": {
+    "id": 14081730,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Huesca",
+        "shortName": "Huesca",
+        "color": "#13324f",
+        "score": 2
+      },
+      "startTimestamp": 1777809600,
+      "slug": "huesca-racing-de-santander"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 57775,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينج دي سانتاندر",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 13,
+        "accuratePass": 10,
+        "totalLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 10,
+        "totalOwnHalfPasses": 10,
+        "totalOppositionHalfPasses": 3,
+        "totalClearance": 2,
+        "ballRecovery": 6,
+        "savedShotsFromInsideTheBox": 1,
+        "penaltyFaced": 1,
+        "saves": 2,
+        "punches": 2,
+        "minutesPlayed": 90,
+        "touches": 21,
+        "rating": 6.5,
+        "possessionLostCtrl": 3,
+        "totalBallCarriesDistance": 3.7314513262268,
+        "ballCarriesCount": 1,
+        "totalProgression": 2.6008480507503,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.2628,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.01,
+        "dribbleValueNormalized": 0.05,
+        "defensiveValueNormalized": -0.29,
+        "goalkeeperValueNormalized": 0.28,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14081764": {
+    "id": 14081764,
+    "match_info": {
+      "homeTeam": {
+        "name": "Leganés",
+        "shortName": "Leganés",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1778422500,
+      "slug": "leganes-racing-de-santander"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 57775,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينج دي سانتاندر",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 23,
+        "accuratePass": 9,
+        "totalLongBalls": 16,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 6,
+        "totalOwnHalfPasses": 9,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 14,
+        "duelWon": 1,
+        "totalClearance": 2,
+        "ballRecovery": 6,
+        "wasFouled": 1,
+        "goodHighClaim": 1,
+        "savedShotsFromInsideTheBox": 3,
+        "saves": 3,
+        "totalKeeperSweeper": 1,
+        "accurateKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 34,
+        "rating": 7.2,
+        "possessionLostCtrl": 14,
+        "topSpeed": 25.2,
+        "kilometersCovered": 5,
+        "numberOfSprints": 1,
+        "totalBallCarriesDistance": 16.009761529106,
+        "ballCarriesCount": 3,
+        "totalProgression": 12.431877364454,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.5636,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.2,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.04,
+        "dribbleValueNormalized": -0.04,
+        "defensiveValueNormalized": -0.05,
+        "goalkeeperValueNormalized": 0.46,
+        "metersCoveredRunningKm": 0.05,
+        "metersCoveredHighSpeedRunningKm": 0.02,
+        "metersCoveredSprintingKm": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14081765": {
+    "id": 14081765,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Real Valladolid",
+        "shortName": "Real Valladolid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1778949000,
+      "slug": "racing-de-santander-real-valladolid"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 57775,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينج دي سانتاندر",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 24,
+        "accuratePass": 21,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 19,
+        "totalOwnHalfPasses": 19,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 5,
+        "ballRecovery": 8,
+        "errorLeadToAShot": 2,
+        "savedShotsFromInsideTheBox": 1,
+        "saves": 1,
+        "totalKeeperSweeper": 2,
+        "accurateKeeperSweeper": 2,
+        "minutesPlayed": 90,
+        "touches": 28,
+        "rating": 6.4,
+        "possessionLostCtrl": 4,
+        "topSpeed": 25.39,
+        "kilometersCovered": 4.85,
+        "numberOfSprints": 1,
+        "totalBallCarriesDistance": 3.3682404902263,
+        "ballCarriesCount": 1,
+        "totalProgression": -1.561077268286,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.2774,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.2
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.01,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": -0.29,
+        "goalkeeperValueNormalized": 0.29,
+        "metersCoveredRunningKm": 0.06,
+        "metersCoveredHighSpeedRunningKm": 0.02,
+        "metersCoveredSprintingKm": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14081775": {
+    "id": 14081775,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779640200,
+      "slug": "racing-de-santander-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 57775,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينج دي سانتاندر",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083415": {
+    "id": 14083415,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Cádiz",
+        "shortName": "Cádiz",
+        "color": "#ffff00",
+        "score": 1
+      },
+      "startTimestamp": 1780245000,
+      "slug": "cadiz-racing-de-santander"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 57775,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينج دي سانتاندر",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "10936582": {
+    "id": 10936582,
+    "match_info": {
+      "homeTeam": {
+        "name": "IK Sirius",
+        "shortName": "Sirius",
+        "color": "#0066ff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Dalkurd FF",
+        "shortName": "Dalkurd",
+        "color": "#339900",
+        "score": 0
+      },
+      "startTimestamp": 1677334500,
+      "slug": "dalkurd-ff-ik-sirius"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10936576": {
+    "id": 10936576,
+    "match_info": {
+      "homeTeam": {
+        "name": "Dalkurd FF",
+        "shortName": "Dalkurd",
+        "color": "#339900",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Oskarshamns AIK",
+        "shortName": "Oskarshamn",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1677931200,
+      "slug": "oskarshamns-aik-dalkurd-ff"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "13115729": {
+    "id": 13115729,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Stockholm Internazionale",
+        "shortName": "FC ",
+        "color": "#000000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "GIF Sundsvall",
+        "shortName": "Sundsvall",
+        "color": "#2548c2",
+        "score": 1
+      },
+      "startTimestamp": 1732212000,
+      "slug": "fc-stockholm-internazionale-gif-sundsvall"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Stockholm Internazionale",
+        "slug": "fc-stockholm-internazionale",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 3002,
+        "nameCode": "STO",
+        "national": false,
+        "type": 0,
+        "id": 227549,
+        "teamColors": {
+          "primary": "#000000",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ستوكهولم الدولي لكرة القدم",
+            "hi": "एफसी स्टॉकहोम इंटरनेशनेल",
+            "ru": "ФК Стокгольм Интернационале"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 17,
+        "accuratePass": 15,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 13,
+        "totalOwnHalfPasses": 13,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 4,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 0,
+        "duelLost": 0,
+        "duelWon": 0,
+        "challengeLost": 0,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "ballRecovery": 2,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 0,
+        "totalOffside": 0,
+        "crossNotClaimed": 0,
+        "goodHighClaim": 0,
+        "savedShotsFromInsideTheBox": 1,
+        "saves": 4,
+        "totalKeeperSweeper": 1,
+        "accurateKeeperSweeper": 0,
+        "minutesPlayed": 90,
+        "touches": 18,
+        "rating": 7,
+        "possessionLostCtrl": 2,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13115732": {
+    "id": 13115732,
+    "match_info": {
+      "homeTeam": {
+        "name": "GIF Sundsvall",
+        "shortName": "Sundsvall",
+        "color": "#2548c2",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "FC Stockholm Internazionale",
+        "shortName": "FC ",
+        "color": "#000000",
+        "score": 2
+      },
+      "startTimestamp": 1732460400,
+      "slug": "fc-stockholm-internazionale-gif-sundsvall"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Stockholm Internazionale",
+        "slug": "fc-stockholm-internazionale",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 3002,
+        "nameCode": "STO",
+        "national": false,
+        "type": 0,
+        "id": 227549,
+        "teamColors": {
+          "primary": "#000000",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ستوكهولم الدولي لكرة القدم",
+            "hi": "एफसी स्टॉकहोम इंटरनेशनेल",
+            "ru": "ФК Стокгольм Интернационале"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 20,
+        "accuratePass": 13,
+        "totalLongBalls": 8,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 11,
+        "totalOwnHalfPasses": 14,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 6,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 1,
+        "duelLost": 1,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "interceptionWon": 1,
+        "ballRecovery": 5,
+        "totalTackle": 1,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "penaltyConceded": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "totalOffside": 0,
+        "crossNotClaimed": 0,
+        "goodHighClaim": 1,
+        "savedShotsFromInsideTheBox": 4,
+        "saves": 6,
+        "totalKeeperSweeper": 2,
+        "accurateKeeperSweeper": 0,
+        "minutesPlayed": 120,
+        "touches": 24,
+        "rating": 6.9,
+        "possessionLostCtrl": 7,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13278378": {
+    "id": 13278378,
+    "match_info": {
+      "homeTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Örgryte IS",
+        "shortName": "Örgryte",
+        "color": "#ff0000",
+        "score": 1
+      },
+      "startTimestamp": 1739715300,
+      "slug": "orgryte-is-if-elfsborg"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "13278386": {
+    "id": 13278386,
+    "match_info": {
+      "homeTeam": {
+        "name": "IK Brage",
+        "shortName": "Brage",
+        "color": "#00763d",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 1
+      },
+      "startTimestamp": 1740328200,
+      "slug": "ik-brage-if-elfsborg"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "13544022": {
+    "id": 13544022,
+    "match_info": {
+      "homeTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "GAIS",
+        "shortName": "GAIS",
+        "color": "#00ff99",
+        "score": 2
+      },
+      "startTimestamp": 1742475600,
+      "slug": "gais-goteborg-if-elfsborg"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "13292432": {
+    "id": 13292432,
+    "match_info": {
+      "homeTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "GAIS",
+        "shortName": "GAIS",
+        "color": "#00ff99",
+        "score": 0
+      },
+      "startTimestamp": 1746465000,
+      "slug": "gais-goteborg-if-elfsborg"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 28,
+        "accuratePass": 13,
+        "totalLongBalls": 23,
+        "accurateLongBalls": 8,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 7,
+        "totalOwnHalfPasses": 9,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 19,
+        "duelWon": 1,
+        "ballRecovery": 5,
+        "wasFouled": 1,
+        "goodHighClaim": 1,
+        "savedShotsFromInsideTheBox": 1,
+        "saves": 1,
+        "minutesPlayed": 90,
+        "touches": 36,
+        "rating": 7.1,
+        "possessionLostCtrl": 15,
+        "keeperSaveValue": 0.0607,
+        "ratingVersions": {
+          "original": 7.1,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13292504": {
+    "id": 13292504,
+    "match_info": {
+      "homeTeam": {
+        "name": "Östers IF",
+        "shortName": "Öster",
+        "color": "#ff0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 1
+      },
+      "startTimestamp": 1746973800,
+      "slug": "osters-if-if-elfsborg"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 15,
+        "accuratePass": 6,
+        "totalLongBalls": 12,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 11,
+        "aerialWon": 1,
+        "duelWon": 2,
+        "totalClearance": 2,
+        "ballRecovery": 7,
+        "wasFouled": 1,
+        "goodHighClaim": 1,
+        "saves": 1,
+        "punches": 1,
+        "minutesPlayed": 90,
+        "touches": 25,
+        "rating": 7,
+        "possessionLostCtrl": 9,
+        "keeperSaveValue": 0.0476,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13292533": {
+    "id": 13292533,
+    "match_info": {
+      "homeTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "IF Brommapojkarna",
+        "shortName": "BP",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "startTimestamp": 1747328400,
+      "slug": "if-brommapojkarna-if-elfsborg"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 40,
+        "accuratePass": 24,
+        "totalLongBalls": 20,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 21,
+        "totalOwnHalfPasses": 26,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 14,
+        "duelWon": 1,
+        "ballRecovery": 10,
+        "wasFouled": 1,
+        "savedShotsFromInsideTheBox": 4,
+        "saves": 4,
+        "minutesPlayed": 90,
+        "touches": 49,
+        "rating": 6.3,
+        "possessionLostCtrl": 16,
+        "topSpeed": 23.76,
+        "kilometersCovered": 5.72,
+        "numberOfSprints": 0,
+        "keeperSaveValue": 0.6395,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "metersCoveredRunningKm": 0.05,
+        "metersCoveredHighSpeedRunningKm": 0.01,
+        "metersCoveredSprintingKm": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13292574": {
+    "id": 13292574,
+    "match_info": {
+      "homeTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Djurgårdens IF",
+        "shortName": "Djurgården",
+        "color": "#33ccff",
+        "score": 0
+      },
+      "startTimestamp": 1747674600,
+      "slug": "if-elfsborg-djurgardens-if"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 26,
+        "accuratePass": 15,
+        "totalLongBalls": 20,
+        "accurateLongBalls": 9,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 7,
+        "totalOwnHalfPasses": 8,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 18,
+        "ballRecovery": 7,
+        "saves": 2,
+        "totalKeeperSweeper": 1,
+        "accurateKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 30,
+        "rating": 7.1,
+        "possessionLostCtrl": 11,
+        "keeperSaveValue": 0,
+        "ratingVersions": {
+          "original": 7.1,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13292606": {
+    "id": 13292606,
+    "match_info": {
+      "homeTeam": {
+        "name": "Halmstads BK",
+        "shortName": "Halmstad",
+        "color": "#0066ff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 4
+      },
+      "startTimestamp": 1748174400,
+      "slug": "halmstads-bk-if-elfsborg"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 23,
+        "accuratePass": 8,
+        "totalLongBalls": 21,
+        "accurateLongBalls": 6,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 20,
+        "ballRecovery": 8,
+        "goodHighClaim": 1,
+        "savedShotsFromInsideTheBox": 1,
+        "saves": 1,
+        "minutesPlayed": 90,
+        "touches": 30,
+        "rating": 6.6,
+        "possessionLostCtrl": 15,
+        "totalBallCarriesDistance": 4.9736466500949,
+        "ballCarriesCount": 1,
+        "totalProgression": 2.0404212270823,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.1988,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13292612": {
+    "id": 13292612,
+    "match_info": {
+      "homeTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Hammarby IF",
+        "shortName": "Hammarby",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1748696400,
+      "slug": "if-elfsborg-hammarby-if"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 29,
+        "accuratePass": 10,
+        "totalLongBalls": 24,
+        "accurateLongBalls": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 6,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 23,
+        "totalClearance": 1,
+        "ballRecovery": 13,
+        "savedShotsFromInsideTheBox": 4,
+        "saves": 6,
+        "totalKeeperSweeper": 1,
+        "accurateKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 43,
+        "rating": 6.8,
+        "possessionLostCtrl": 19,
+        "topSpeed": 29.54,
+        "kilometersCovered": 5.3,
+        "numberOfSprints": 1,
+        "keeperSaveValue": 0.8084,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "metersCoveredRunningKm": 0.1,
+        "metersCoveredHighSpeedRunningKm": 0.03,
+        "metersCoveredSprintingKm": 0.01,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13975751": {
+    "id": 13975751,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sweden U21",
+        "shortName": "Sweden U21",
+        "color": "#ffcc00",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Qatar U23",
+        "shortName": "Qatar U23",
+        "color": "#660000",
+        "score": 2
+      },
+      "startTimestamp": 1749222000,
+      "slug": "qatar-u23-sweden-u21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "13985304": {
+    "id": 13985304,
+    "match_info": {
+      "homeTeam": {
+        "name": "Croatia U21",
+        "shortName": "Croatia U21",
+        "color": "#ff0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sweden U21",
+        "shortName": "Sweden U21",
+        "color": "#ffcc00",
+        "score": 1
+      },
+      "startTimestamp": 1749565800,
+      "slug": "croatia-u21-sweden-u21"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "13295509": {
+    "id": 13295509,
+    "match_info": {
+      "homeTeam": {
+        "name": "IFK Värnamo",
+        "shortName": "Värnamo",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 0
+      },
+      "startTimestamp": 1751207400,
+      "slug": "ifk-varnamo-if-elfsborg"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 46,
+        "accuratePass": 26,
+        "totalLongBalls": 21,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 24,
+        "totalOwnHalfPasses": 29,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 17,
+        "duelWon": 2,
+        "totalClearance": 1,
+        "ballRecovery": 23,
+        "errorLeadToAShot": 1,
+        "wasFouled": 2,
+        "goodHighClaim": 3,
+        "savedShotsFromInsideTheBox": 1,
+        "saves": 4,
+        "totalKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 65,
+        "rating": 7.6,
+        "possessionLostCtrl": 21,
+        "topSpeed": 27.31,
+        "kilometersCovered": 5.79,
+        "numberOfSprints": 0,
+        "keeperSaveValue": 0.6027,
+        "ratingVersions": {
+          "original": 7.6,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "metersCoveredRunningKm": 0.1,
+        "metersCoveredHighSpeedRunningKm": 0.02,
+        "metersCoveredSprintingKm": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13295512": {
+    "id": 13295512,
+    "match_info": {
+      "homeTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "BK Häcken",
+        "shortName": "Häcken",
+        "color": "#000000",
+        "score": 2
+      },
+      "startTimestamp": 1751812200,
+      "slug": "if-elfsborg-bk-hacken"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 25,
+        "accuratePass": 21,
+        "totalLongBalls": 8,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 20,
+        "totalOwnHalfPasses": 20,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 5,
+        "totalClearance": 4,
+        "ballRecovery": 8,
+        "savedShotsFromInsideTheBox": 1,
+        "saves": 2,
+        "totalKeeperSweeper": 3,
+        "accurateKeeperSweeper": 3,
+        "minutesPlayed": 90,
+        "touches": 35,
+        "rating": 6.7,
+        "possessionLostCtrl": 4,
+        "keeperSaveValue": 0.2002,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13295521": {
+    "id": 13295521,
+    "match_info": {
+      "homeTeam": {
+        "name": "IFK Göteborg",
+        "shortName": "Göteborg",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "startTimestamp": 1752325200,
+      "slug": "if-elfsborg-ifk-goteborg"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 36,
+        "accuratePass": 15,
+        "totalLongBalls": 27,
+        "accurateLongBalls": 6,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 10,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 25,
+        "duelWon": 2,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalClearance": 2,
+        "ballRecovery": 9,
+        "wasFouled": 1,
+        "goodHighClaim": 1,
+        "savedShotsFromInsideTheBox": 3,
+        "saves": 5,
+        "punches": 1,
+        "totalKeeperSweeper": 1,
+        "accurateKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 49,
+        "rating": 7.1,
+        "possessionLostCtrl": 21,
+        "keeperSaveValue": 0.3234,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.1,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13295526": {
+    "id": 13295526,
+    "match_info": {
+      "homeTeam": {
+        "name": "Djurgårdens IF",
+        "shortName": "Djurgården",
+        "color": "#33ccff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 0
+      },
+      "startTimestamp": 1752930000,
+      "slug": "if-elfsborg-djurgardens-if"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 28,
+        "accuratePass": 18,
+        "totalLongBalls": 14,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 15,
+        "totalOwnHalfPasses": 15,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 13,
+        "aerialWon": 1,
+        "duelWon": 1,
+        "ballRecovery": 12,
+        "savedShotsFromInsideTheBox": 4,
+        "saves": 7,
+        "totalKeeperSweeper": 1,
+        "accurateKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 44,
+        "rating": 7.9,
+        "possessionLostCtrl": 10,
+        "keeperSaveValue": 0.7384,
+        "ratingVersions": {
+          "original": 7.9,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13295536": {
+    "id": 13295536,
+    "match_info": {
+      "homeTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "IFK Göteborg",
+        "shortName": "Göteborg",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1753722000,
+      "slug": "if-elfsborg-ifk-goteborg"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 24,
+        "accuratePass": 16,
+        "totalLongBalls": 15,
+        "accurateLongBalls": 7,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 12,
+        "totalOwnHalfPasses": 12,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 12,
+        "totalClearance": 1,
+        "ballRecovery": 11,
+        "goodHighClaim": 1,
+        "savedShotsFromInsideTheBox": 2,
+        "penaltySave": 1,
+        "penaltyFaced": 1,
+        "saves": 2,
+        "totalKeeperSweeper": 1,
+        "accurateKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 34,
+        "rating": 7,
+        "possessionLostCtrl": 8,
+        "keeperSaveValue": 0.7931,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 7
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13295546": {
+    "id": 13295546,
+    "match_info": {
+      "homeTeam": {
+        "name": "BK Häcken",
+        "shortName": "Häcken",
+        "color": "#000000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "startTimestamp": 1754222400,
+      "slug": "if-elfsborg-bk-hacken"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 34,
+        "accuratePass": 19,
+        "totalLongBalls": 24,
+        "accurateLongBalls": 9,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 11,
+        "totalOwnHalfPasses": 15,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 19,
+        "totalClearance": 2,
+        "ballRecovery": 7,
+        "savedShotsFromInsideTheBox": 3,
+        "saves": 7,
+        "totalKeeperSweeper": 1,
+        "accurateKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 47,
+        "rating": 7.8,
+        "possessionLostCtrl": 15,
+        "topSpeed": 28.21,
+        "kilometersCovered": 5.46,
+        "numberOfSprints": 1,
+        "keeperSaveValue": 0.546,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.8,
+          "alternative": 7.8
+        },
+        "totalShots": 0,
+        "metersCoveredRunningKm": 0.06,
+        "metersCoveredHighSpeedRunningKm": 0.01,
+        "metersCoveredSprintingKm": 0.01,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13295551": {
+    "id": 13295551,
+    "match_info": {
+      "homeTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "IFK Värnamo",
+        "shortName": "Värnamo",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1754931600,
+      "slug": "ifk-varnamo-if-elfsborg"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 39,
+        "accuratePass": 30,
+        "totalLongBalls": 15,
+        "accurateLongBalls": 6,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 27,
+        "totalOwnHalfPasses": 28,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 11,
+        "duelWon": 1,
+        "totalClearance": 1,
+        "ballRecovery": 13,
+        "wasFouled": 1,
+        "savedShotsFromInsideTheBox": 2,
+        "saves": 2,
+        "totalKeeperSweeper": 3,
+        "accurateKeeperSweeper": 3,
+        "minutesPlayed": 90,
+        "touches": 47,
+        "rating": 6.6,
+        "possessionLostCtrl": 9,
+        "keeperSaveValue": 0.3544,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "13295563": {
+    "id": 13295563,
+    "match_info": {
+      "homeTeam": {
+        "name": "IFK Norrköping",
+        "shortName": "Norrköping",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "IF Elfsborg",
+        "shortName": "Elfsborg",
+        "color": "#ffff00",
+        "score": 1
+      },
+      "startTimestamp": 1755358200,
+      "slug": "ifk-norrkoping-if-elfsborg"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Simon Eriksson",
+        "slug": "simon-eriksson",
+        "shortName": "S. Eriksson",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 155,
+        "gender": "M",
+        "sofascoreId": "8j7d2c",
+        "id": 1472960,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1145836800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سايمون إريكسون",
+            "ru": "Симон Эрикссон"
+          },
+          "shortNameTranslation": {
+            "ar": "س. إريكسون",
+            "ru": "С. Эрикссон"
+          }
+        }
+      },
+      "team": {
+        "name": "IF Elfsborg",
+        "slug": "if-elfsborg",
+        "shortName": "Elfsborg",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 38371,
+        "nameCode": "IFE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 1762,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#ffff00",
+          "text": "#ffff00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اي اف الفسبورج",
+            "hi": "आईएफ एल्फ्सबॉर्ग",
+            "ru": "ФК Эльфсборг"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 26,
+        "accuratePass": 13,
+        "totalLongBalls": 15,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 12,
+        "totalOwnHalfPasses": 13,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 13,
+        "totalClearance": 3,
+        "ballRecovery": 5,
+        "goodHighClaim": 1,
+        "savedShotsFromInsideTheBox": 1,
+        "penaltyFaced": 1,
+        "saves": 3,
+        "totalKeeperSweeper": 2,
+        "accurateKeeperSweeper": 2,
+        "minutesPlayed": 90,
+        "touches": 37,
+        "rating": 6.8,
+        "possessionLostCtrl": 13,
+        "keeperSaveValue": 0.2356,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "16407744": {
+    "id": 16407744,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1784390400,
+      "slug": "real-racing-club-real-sociedad"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "16408295": {
+    "id": 16408295,
+    "match_info": {
+      "homeTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1784914200,
+      "slug": "real-racing-club-osasuna"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "16408296": {
+    "id": 16408296,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 3
+      },
+      "startTimestamp": 1785344400,
+      "slug": "real-racing-club-athletic-club"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "16489903": {
+    "id": 16489903,
+    "match_info": {
+      "homeTeam": {
+        "name": "Wolverhampton",
+        "shortName": "Wolves",
+        "color": "#ff9900",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1785600000,
+      "slug": "real-racing-club-wolverhampton"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "16489904": {
+    "id": 16489904,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Sporting Gijón",
+        "shortName": "Sporting",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786095000,
+      "slug": "sporting-gijon-real-racing-club"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "16489901": {
+    "id": 16489901,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 7
+      },
+      "awayTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 8
+      },
+      "startTimestamp": 1786123800,
+      "slug": "deportivo-alaves-real-racing-club"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "16421061": {
+    "id": 16421061,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": null
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": null
+      },
+      "startTimestamp": 1786892400,
+      "slug": "real-racing-club-villarreal"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  }
+}

@@ -1,0 +1,5408 @@
+[
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "0-2",
+    "fecha": "2025-12-07",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20219-real-madrid-celta",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083158,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Madrid",
+          "shortName": "Real Madrid",
+          "color": "#ffffff",
+          "score": 0
+        },
+        "awayTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 2
+        },
+        "startTimestamp": 1765137600,
+        "slug": "real-madrid-celta-vigo",
+        "fecha_normalizada": "2025-12-07"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "2-0",
+    "fecha": "2025-12-14",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20225-celta-athletic",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 2,
+      "cope": 6.0,
+      "sofascore": 6.9,
+      "relevo": 2.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 8.0,
+        "futbolfantasy-rpg": 14.0,
+        "comunio": 5.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 4.0,
+        "biwenger-social": 2.0,
+        "biwenger-as-sofascore": 3.0,
+        "biwenger-stats": 7.0,
+        "futmondo-prensa": 6.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 7.0,
+        "futmondo-mixto": 8.0,
+        "cronistas-marca": 6.0,
+        "marca-mixto": 8.0,
+        "marca-sofascore": 4.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 4.0,
+        "mister-mixto-2": 4.0,
+        "mister-sofascore": 4.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 2.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 5.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 8.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 89.8,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 2.0,
+        "stat-tackles": 2.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 59.0,
+        "stat-pases-completados": 53.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083171,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 0
+        },
+        "startTimestamp": 1765725300,
+        "slug": "athletic-club-celta-vigo",
+        "fecha_normalizada": "2025-12-14"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 59,
+          "accuratePass": 53,
+          "totalLongBalls": 3,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 45,
+          "totalOwnHalfPasses": 50,
+          "accurateOppositionHalfPasses": 8,
+          "totalOppositionHalfPasses": 9,
+          "aerialLost": 2,
+          "aerialWon": 1,
+          "duelLost": 4,
+          "duelWon": 3,
+          "dispossessed": 1,
+          "totalClearance": 5,
+          "ballRecovery": 4,
+          "totalTackle": 2,
+          "wonTackle": 2,
+          "fouls": 1,
+          "minutesPlayed": 90,
+          "touches": 73,
+          "rating": 6.9,
+          "possessionLostCtrl": 8,
+          "expectedAssists": 0.0050953,
+          "totalBallCarriesDistance": 122.03415593314,
+          "ballCarriesCount": 16,
+          "totalProgression": 10.185,
+          "bestBallCarryProgression": 16.065,
+          "ratingVersions": {
+            "original": 6.9,
+            "alternative": 6.9
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.06,
+          "dribbleValueNormalized": 0.06,
+          "defensiveValueNormalized": 0.31,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Real Oviedo",
+        "abreviatura": "ROV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/43.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "0-0",
+    "fecha": "2025-12-20",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20240-real-oviedo-celta",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.9,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 5.0,
+        "futbolfantasy-rpg": 8.0,
+        "comunio": 5.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 4.0,
+        "biwenger-social": 2.0,
+        "biwenger-as-sofascore": 3.0,
+        "biwenger-stats": 5.0,
+        "futmondo-prensa": 4.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 4.0,
+        "futmondo-mixto": 4.5,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 6.0,
+        "marca-sofascore": 4.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 3.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 4.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 1.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 1.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 4.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 8.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 82.4,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 1.0,
+        "stat-pases-totales": 34.0,
+        "stat-pases-completados": 28.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083192,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Oviedo",
+          "shortName": "Real Oviedo",
+          "color": "#3300ff",
+          "score": 0
+        },
+        "awayTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 0
+        },
+        "startTimestamp": 1766235600,
+        "slug": "real-oviedo-celta-vigo",
+        "fecha_normalizada": "2025-12-20"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 34,
+          "accuratePass": 28,
+          "totalLongBalls": 7,
+          "accurateLongBalls": 3,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 19,
+          "totalOwnHalfPasses": 24,
+          "accurateOppositionHalfPasses": 9,
+          "totalOppositionHalfPasses": 10,
+          "aerialWon": 1,
+          "duelLost": 2,
+          "duelWon": 1,
+          "dispossessed": 1,
+          "totalClearance": 4,
+          "outfielderBlock": 1,
+          "interceptionWon": 1,
+          "ballRecovery": 1,
+          "fouls": 1,
+          "minutesPlayed": 76,
+          "touches": 46,
+          "rating": 6.9,
+          "possessionLostCtrl": 8,
+          "expectedAssists": 0.00450588,
+          "totalBallCarriesDistance": 69.591546790125,
+          "ballCarriesCount": 10,
+          "totalProgression": -23.835,
+          "bestBallCarryProgression": 5.46,
+          "ratingVersions": {
+            "original": 6.9,
+            "alternative": 6.7
+          },
+          "totalShots": 0,
+          "passValueNormalized": -0.01,
+          "dribbleValueNormalized": 0.02,
+          "defensiveValueNormalized": 0.41,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Valencia",
+        "abreviatura": "VAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/18.png"
+      }
+    },
+    "resultado": "4-1",
+    "fecha": "2026-01-03",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20243-celta-valencia",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 2,
+      "cope": null,
+      "sofascore": 6.7,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 0.0,
+        "comunio": 4.0,
+        "scale1": 0.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": 1.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": 0.0,
+        "futmondo-mixto-as": 0.0,
+        "futmondo-stats": 0.0,
+        "futmondo-mixto": 0.0,
+        "cronistas-marca": 0.0,
+        "marca-mixto": 1.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 0.0,
+        "mister-mixto": 1.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 0.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 100.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 4.0,
+        "stat-pases-completados": 4.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083196,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 4
+        },
+        "awayTeam": {
+          "name": "Valencia",
+          "shortName": "Valencia",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1767445200,
+        "slug": "valencia-celta-vigo",
+        "fecha_normalizada": "2026-01-03"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 4,
+          "accuratePass": 4,
+          "totalLongBalls": 1,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 4,
+          "totalOwnHalfPasses": 4,
+          "ballRecovery": 1,
+          "minutesPlayed": 9,
+          "touches": 4,
+          "rating": 6.7,
+          "expectedAssists": 0.00010974,
+          "ratingVersions": {
+            "original": 6.7,
+            "alternative": 6.6
+          },
+          "totalShots": 0,
+          "passValueNormalized": -0.01,
+          "defensiveValueNormalized": 0.13,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Sevilla",
+        "abreviatura": "SEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/17.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "0-1",
+    "fecha": "2026-01-12",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20260-sevilla-celta",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083219,
+      "match_info": {
+        "homeTeam": {
+          "name": "Sevilla",
+          "shortName": "Sevilla",
+          "color": "#ffffff",
+          "score": 0
+        },
+        "awayTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "startTimestamp": 1768248000,
+        "slug": "sevilla-celta-vigo",
+        "fecha_normalizada": "2026-01-12"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Rayo",
+        "abreviatura": "RAY",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/14.png"
+      }
+    },
+    "resultado": "3-0",
+    "fecha": "2026-01-18",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20264-celta-rayo",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.8,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 1.0,
+        "comunio": 4.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 4.0,
+        "biwenger-social": 1.0,
+        "biwenger-as-sofascore": 3.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 0.0,
+        "futmondo-mixto": 1.1,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 4.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 3.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 4.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 1.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 1.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 93.3,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 15.0,
+        "stat-pases-completados": 14.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083226,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Rayo Vallecano",
+          "shortName": "Rayo Vallecano",
+          "color": "#ffffff",
+          "score": 0
+        },
+        "startTimestamp": 1768757400,
+        "slug": "celta-vigo-rayo-vallecano",
+        "fecha_normalizada": "2026-01-18"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 15,
+          "accuratePass": 14,
+          "totalLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 11,
+          "totalOwnHalfPasses": 11,
+          "accurateOppositionHalfPasses": 3,
+          "totalOppositionHalfPasses": 4,
+          "totalClearance": 1,
+          "minutesPlayed": 19,
+          "touches": 16,
+          "rating": 6.8,
+          "possessionLostCtrl": 1,
+          "expectedAssists": 0.00120637,
+          "totalBallCarriesDistance": 99.077096298238,
+          "ballCarriesCount": 8,
+          "totalProgression": 92.925,
+          "bestBallCarryProgression": 20.58,
+          "totalProgressiveBallCarriesDistance": 19.972701469756,
+          "progressiveBallCarriesCount": 1,
+          "ratingVersions": {
+            "original": 6.8,
+            "alternative": 6.5
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.04,
+          "dribbleValueNormalized": 0.08,
+          "defensiveValueNormalized": 0.16,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Real Sociedad",
+        "abreviatura": "RSO",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "3-1",
+    "fecha": "2026-01-25",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20279-real-sociedad-celta",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 7.1,
+      "relevo": 2.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 4.0,
+        "futbolfantasy-rpg": 8.0,
+        "comunio": 6.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 5.0,
+        "biwenger-social": -1.0,
+        "biwenger-as-sofascore": 4.0,
+        "biwenger-stats": 4.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 4.0,
+        "futmondo-mixto": 5.0,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 4.0,
+        "marca-sofascore": 5.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 3.0,
+        "mister-mixto-2": 4.0,
+        "mister-sofascore": 5.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 2.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 1.0,
+        "stat-balones-robados": 1.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 3.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 5.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 90.5,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 1.0,
+        "stat-tackles": 1.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 1.0,
+        "stat-pases-totales": 42.0,
+        "stat-pases-completados": 38.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083136,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Sociedad",
+          "shortName": "Real Sociedad",
+          "color": "#ffffff",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "startTimestamp": 1769362200,
+        "slug": "real-sociedad-celta-vigo",
+        "fecha_normalizada": "2026-01-25"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 42,
+          "accuratePass": 38,
+          "totalLongBalls": 5,
+          "accurateLongBalls": 3,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 19,
+          "totalOwnHalfPasses": 19,
+          "accurateOppositionHalfPasses": 19,
+          "totalOppositionHalfPasses": 23,
+          "duelLost": 1,
+          "duelWon": 3,
+          "dispossessed": 1,
+          "totalClearance": 3,
+          "outfielderBlock": 1,
+          "interceptionWon": 1,
+          "ballRecovery": 3,
+          "totalTackle": 2,
+          "wonTackle": 1,
+          "wasFouled": 1,
+          "minutesPlayed": 45,
+          "touches": 52,
+          "rating": 7.1,
+          "possessionLostCtrl": 5,
+          "expectedAssists": 0.0131229,
+          "totalBallCarriesDistance": 154.20115045861,
+          "ballCarriesCount": 17,
+          "totalProgression": 107.625,
+          "bestBallCarryProgression": 25.935,
+          "totalProgressiveBallCarriesDistance": 47.322363951091,
+          "progressiveBallCarriesCount": 2,
+          "keyPass": 2,
+          "ratingVersions": {
+            "original": 7.1,
+            "alternative": 7.1
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.04,
+          "dribbleValueNormalized": 0.13,
+          "defensiveValueNormalized": 0.29,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Getafe",
+        "abreviatura": "GET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/8.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "0-0",
+    "fecha": "2026-02-01",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20286-getafe-celta",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083247,
+      "match_info": {
+        "homeTeam": {
+          "name": "Getafe",
+          "shortName": "Getafe",
+          "color": "#00369e",
+          "score": 0
+        },
+        "awayTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 0
+        },
+        "startTimestamp": 1769967000,
+        "slug": "getafe-celta-vigo",
+        "fecha_normalizada": "2026-02-01"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Osasuna",
+        "abreviatura": "OSA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
+      }
+    },
+    "resultado": "1-2",
+    "fecha": "2026-02-06",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20296-celta-osasuna",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083279,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Osasuna",
+          "shortName": "Osasuna",
+          "color": "#cc0000",
+          "score": 2
+        },
+        "startTimestamp": 1770408000,
+        "slug": "celta-vigo-osasuna",
+        "fecha_normalizada": "2026-02-06"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Espanyol",
+        "abreviatura": "ESP",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "2-2",
+    "fecha": "2026-02-14",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20304-espanyol-celta",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083524,
+      "match_info": {
+        "homeTeam": {
+          "name": "Espanyol",
+          "shortName": "Espanyol",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 2
+        },
+        "startTimestamp": 1771074000,
+        "slug": "celta-vigo-espanyol",
+        "fecha_normalizada": "2026-02-14"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      }
+    },
+    "resultado": "2-0",
+    "fecha": "2026-02-22",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20316-celta-mallorca",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083577,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 0
+        },
+        "startTimestamp": 1771781400,
+        "slug": "mallorca-celta-vigo",
+        "fecha_normalizada": "2026-02-22"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Girona",
+        "abreviatura": "GIR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/30.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "1-2",
+    "fecha": "2026-03-01",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20325-girona-celta",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.7,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 2.0,
+        "comunio": 4.0,
+        "scale1": 0.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": 1.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": 1.0,
+        "futmondo-mixto-as": 0.0,
+        "futmondo-stats": 0.0,
+        "futmondo-mixto": 1.2,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 2.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 0.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 100.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 2.0,
+        "stat-pases-completados": 2.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14081797,
+      "match_info": {
+        "homeTeam": {
+          "name": "Girona FC",
+          "shortName": "Girona",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 2
+        },
+        "startTimestamp": 1772395200,
+        "slug": "girona-fc-celta-vigo",
+        "fecha_normalizada": "2026-03-01"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 2,
+          "accuratePass": 2,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 2,
+          "totalOwnHalfPasses": 2,
+          "totalClearance": 2,
+          "minutesPlayed": 11,
+          "touches": 4,
+          "rating": 6.7,
+          "expectedAssists": 1.673e-05,
+          "totalBallCarriesDistance": 16.96264708116,
+          "ballCarriesCount": 1,
+          "totalProgression": -13.178033159394,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 6.7,
+            "alternative": 6.6
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0,
+          "dribbleValueNormalized": -0.01,
+          "defensiveValueNormalized": 0.16,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      }
+    },
+    "resultado": "1-2",
+    "fecha": "2026-03-06",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20335-celta-real-madrid",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083607,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Real Madrid",
+          "shortName": "Real Madrid",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "startTimestamp": 1772827200,
+        "slug": "real-madrid-celta-vigo",
+        "fecha_normalizada": "2026-03-06"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Alavés",
+        "abreviatura": "ALA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
+      }
+    },
+    "resultado": "3-4",
+    "fecha": "2026-03-22",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20355-celta-alaves",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083689,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Deportivo Alavés",
+          "shortName": "Alavés",
+          "color": "#0232a0",
+          "score": 4
+        },
+        "startTimestamp": 1774192500,
+        "slug": "deportivo-alaves-celta-vigo",
+        "fecha_normalizada": "2026-03-22"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Valencia",
+        "abreviatura": "VAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/18.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "2-3",
+    "fecha": "2026-04-05",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20372-valencia-celta",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14081817,
+      "match_info": {
+        "homeTeam": {
+          "name": "Valencia",
+          "shortName": "Valencia",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 3
+        },
+        "startTimestamp": 1775398500,
+        "slug": "valencia-celta-vigo",
+        "fecha_normalizada": "2026-04-05"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Real Oviedo",
+        "abreviatura": "ROV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/43.png"
+      }
+    },
+    "resultado": "0-3",
+    "fecha": "2026-04-12",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20375-celta-real-oviedo",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083123,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 0
+        },
+        "awayTeam": {
+          "name": "Real Oviedo",
+          "shortName": "Real Oviedo",
+          "color": "#3300ff",
+          "score": 3
+        },
+        "startTimestamp": 1776011400,
+        "slug": "real-oviedo-celta-vigo",
+        "fecha_normalizada": "2026-04-12"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Barcelona",
+        "abreviatura": "BAR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/3.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "1-0",
+    "fecha": "2026-04-22",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20394-barcelona-celta",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083261,
+      "match_info": {
+        "homeTeam": {
+          "name": "FC Barcelona",
+          "shortName": "Barcelona",
+          "color": "#154284",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 0
+        },
+        "startTimestamp": 1776886200,
+        "slug": "celta-vigo-barcelona",
+        "fecha_normalizada": "2026-04-22"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "2-1",
+    "fecha": "2026-04-26",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20392-villarreal-celta",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083248,
+      "match_info": {
+        "homeTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "startTimestamp": 1777230000,
+        "slug": "celta-vigo-villarreal",
+        "fecha_normalizada": "2026-04-26"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "3-1",
+    "fecha": "2026-05-03",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20403-celta-elche",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 1,
+      "cope": 6.0,
+      "sofascore": 6.0,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": -1.0,
+        "futbolfantasy-rpg": -2.0,
+        "comunio": 1.0,
+        "scale0": -2.0,
+        "biwenger-sofascore": 0.0,
+        "biwenger-social": -2.0,
+        "biwenger-as-sofascore": -1.0,
+        "biwenger-stats": 3.0,
+        "futmondo-prensa": 0.0,
+        "futmondo-mixto-as": -2.0,
+        "futmondo-stats": -3.0,
+        "futmondo-mixto": 1.5,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 0.0,
+        "marca-sofascore": 0.0,
+        "mister-cronistas-md": -2.0,
+        "mister-mixto": -1.0,
+        "mister-mixto-2": 0.0,
+        "mister-sofascore": 0.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 1.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 1.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 2.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 2.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 84.6,
+        "stat-penaltis-provocados": 1.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 13.0,
+        "stat-pases-completados": 11.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083401,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1777809600,
+        "slug": "elche-celta-vigo",
+        "fecha_normalizada": "2026-05-03"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 13,
+          "accuratePass": 11,
+          "totalLongBalls": 3,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 9,
+          "totalOwnHalfPasses": 10,
+          "accurateOppositionHalfPasses": 2,
+          "totalOppositionHalfPasses": 3,
+          "aerialWon": 1,
+          "duelLost": 1,
+          "duelWon": 1,
+          "totalClearance": 2,
+          "interceptionWon": 1,
+          "ballRecovery": 1,
+          "penaltyConceded": 1,
+          "fouls": 1,
+          "minutesPlayed": 45,
+          "touches": 16,
+          "rating": 6,
+          "possessionLostCtrl": 2,
+          "expectedAssists": 0.00061714,
+          "totalBallCarriesDistance": 23.957503867936,
+          "ballCarriesCount": 4,
+          "totalProgression": 11.989483458288,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 6,
+            "alternative": 6.2
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.01,
+          "dribbleValueNormalized": 0.02,
+          "defensiveValueNormalized": -0.5,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Atlético",
+        "abreviatura": "ATM",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "0-1",
+    "fecha": "2026-05-09",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20414-atletico-celta",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083551,
+      "match_info": {
+        "homeTeam": {
+          "name": "Atlético Madrid",
+          "shortName": "Atl. Madrid",
+          "color": "#ffffff",
+          "score": 0
+        },
+        "awayTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "startTimestamp": 1778344200,
+        "slug": "atletico-madrid-celta-vigo",
+        "fecha_normalizada": "2026-05-09"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Levante",
+        "abreviatura": "LEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/10.png"
+      }
+    },
+    "resultado": "2-3",
+    "fecha": "2026-05-12",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20423-celta-levante",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083613,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Levante UD",
+          "shortName": "Levante",
+          "color": "#0e3b68",
+          "score": 3
+        },
+        "startTimestamp": 1778605200,
+        "slug": "levante-ud-celta-vigo",
+        "fecha_normalizada": "2026-05-12"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-05-17",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20433-athletic-celta",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083656,
+      "match_info": {
+        "homeTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "startTimestamp": 1779037200,
+        "slug": "athletic-club-celta-vigo",
+        "fecha_normalizada": "2026-05-17"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Getafe",
+        "abreviatura": "GET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/8.png"
+      }
+    },
+    "resultado": "0-2",
+    "fecha": "2025-08-17",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20074-celta-getafe",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14082851,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 0
+        },
+        "awayTeam": {
+          "name": "Getafe",
+          "shortName": "Getafe",
+          "color": "#00369e",
+          "score": 2
+        },
+        "startTimestamp": 1755442800,
+        "slug": "getafe-celta-vigo",
+        "fecha_normalizada": "2025-08-17"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2025-08-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20086-mallorca-celta",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 6.0,
+      "sofascore": 6.8,
+      "relevo": 2.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 8.0,
+        "futbolfantasy-rpg": 11.0,
+        "comunio": 4.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 4.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 3.0,
+        "biwenger-stats": 4.0,
+        "futmondo-prensa": 4.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 2.0,
+        "futmondo-mixto": 7.3,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 6.0,
+        "marca-sofascore": 4.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 3.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 4.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 2.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 1.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 2.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 7.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 86.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 1.0,
+        "stat-tackles": 1.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 50.0,
+        "stat-pases-completados": 43.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14082866,
+      "match_info": {
+        "homeTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "startTimestamp": 1755961200,
+        "slug": "mallorca-celta-vigo",
+        "fecha_normalizada": "2025-08-23"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 50,
+          "accuratePass": 43,
+          "totalLongBalls": 5,
+          "accurateLongBalls": 2,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 30,
+          "totalOwnHalfPasses": 33,
+          "accurateOppositionHalfPasses": 13,
+          "totalOppositionHalfPasses": 17,
+          "duelLost": 1,
+          "duelWon": 3,
+          "shotOffTarget": 1,
+          "totalClearance": 2,
+          "ballRecovery": 2,
+          "totalTackle": 1,
+          "wonTackle": 1,
+          "errorLeadToAShot": 1,
+          "unsuccessfulTouch": 1,
+          "wasFouled": 2,
+          "fouls": 1,
+          "minutesPlayed": 63,
+          "touches": 57,
+          "rating": 6.8,
+          "possessionLostCtrl": 8,
+          "expectedGoals": 0.026,
+          "expectedAssists": 0.00706677,
+          "ratingVersions": {
+            "original": 6.8,
+            "alternative": 6.7
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.06,
+          "passValueNormalized": 0.16,
+          "dribbleValueNormalized": 0.07,
+          "defensiveValueNormalized": -0.15,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Betis",
+        "abreviatura": "BET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/4.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2025-08-27",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20125-celta-betis",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083498,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Real Betis",
+          "shortName": "Real Betis",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1756321200,
+        "slug": "celta-vigo-real-betis",
+        "fecha_normalizada": "2025-08-27"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2025-08-31",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20093-celta-villarreal",
+    "puntuaciones": {
+      "picas": 2,
+      "marca": 1,
+      "cope": 6.0,
+      "sofascore": 7.3,
+      "relevo": 2.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 4.0,
+        "futbolfantasy-rpg": 7.0,
+        "comunio": 6.0,
+        "modo-picas": 6.0,
+        "biwenger-sofascore": 6.0,
+        "biwenger-social": 1.0,
+        "biwenger-as-sofascore": 6.0,
+        "biwenger-stats": 4.0,
+        "futmondo-prensa": 5.0,
+        "futmondo-mixto-as": 6.0,
+        "futmondo-stats": 3.0,
+        "futmondo-mixto": 5.9,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 4.0,
+        "marca-sofascore": 6.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 4.0,
+        "mister-mixto-2": 5.0,
+        "mister-sofascore": 6.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 2.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 4.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 2.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 6.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 94.3,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 4.0,
+        "stat-tackles": 4.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 87.0,
+        "stat-pases-completados": 82.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083119,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 1
+        },
+        "startTimestamp": 1756652400,
+        "slug": "celta-vigo-villarreal",
+        "fecha_normalizada": "2025-08-31"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 87,
+          "accuratePass": 82,
+          "totalLongBalls": 8,
+          "accurateLongBalls": 5,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 36,
+          "totalOwnHalfPasses": 38,
+          "accurateOppositionHalfPasses": 46,
+          "totalOppositionHalfPasses": 49,
+          "duelLost": 1,
+          "duelWon": 5,
+          "totalClearance": 2,
+          "ballRecovery": 4,
+          "totalTackle": 4,
+          "wonTackle": 4,
+          "unsuccessfulTouch": 1,
+          "wasFouled": 1,
+          "fouls": 2,
+          "minutesPlayed": 90,
+          "touches": 97,
+          "rating": 7.3,
+          "possessionLostCtrl": 6,
+          "expectedAssists": 0.0327687,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 7.3,
+            "alternative": 7.4
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.35,
+          "dribbleValueNormalized": 0.11,
+          "defensiveValueNormalized": -0.13,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Girona",
+        "abreviatura": "GIR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/30.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2025-09-14",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20106-celta-girona",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.8,
+      "relevo": 2.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 6.0,
+        "futbolfantasy-rpg": 4.0,
+        "comunio": 4.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 4.0,
+        "biwenger-social": 2.0,
+        "biwenger-as-sofascore": 3.0,
+        "biwenger-stats": 4.0,
+        "futmondo-prensa": 3.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 3.0,
+        "futmondo-mixto": 3.9,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 4.0,
+        "marca-sofascore": 4.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 3.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 4.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 1.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 3.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 4.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 94.3,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 70.0,
+        "stat-pases-completados": 66.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083225,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Girona FC",
+          "shortName": "Girona",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1757851200,
+        "slug": "girona-fc-celta-vigo",
+        "fecha_normalizada": "2025-09-14"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 70,
+          "accuratePass": 66,
+          "totalLongBalls": 2,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 41,
+          "totalOwnHalfPasses": 41,
+          "accurateOppositionHalfPasses": 25,
+          "totalOppositionHalfPasses": 29,
+          "aerialWon": 1,
+          "duelWon": 3,
+          "totalClearance": 3,
+          "interceptionWon": 1,
+          "ballRecovery": 7,
+          "totalTackle": 1,
+          "wasFouled": 1,
+          "minutesPlayed": 80,
+          "touches": 81,
+          "rating": 6.8,
+          "possessionLostCtrl": 4,
+          "expectedAssists": 0.013395,
+          "ratingVersions": {
+            "original": 6.8,
+            "alternative": 6.8
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.04,
+          "dribbleValueNormalized": 0.27,
+          "defensiveValueNormalized": -0.09,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Rayo",
+        "abreviatura": "RAY",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/14.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2025-09-21",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20118-rayo-celta",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.6,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 3.0,
+        "futbolfantasy-rpg": 5.0,
+        "comunio": 3.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": 2.0,
+        "biwenger-as-sofascore": 3.0,
+        "biwenger-stats": 2.0,
+        "futmondo-prensa": 3.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 2.0,
+        "futmondo-mixto": 3.1,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 4.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 1.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 5.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 8.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 78.9,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 2.0,
+        "stat-tiros-bloqueados": 1.0,
+        "stat-pases-totales": 38.0,
+        "stat-pases-completados": 30.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083322,
+      "match_info": {
+        "homeTeam": {
+          "name": "Rayo Vallecano",
+          "shortName": "Rayo Vallecano",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "startTimestamp": 1758456000,
+        "slug": "celta-vigo-rayo-vallecano",
+        "fecha_normalizada": "2025-09-21"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 38,
+          "accuratePass": 30,
+          "totalLongBalls": 8,
+          "accurateLongBalls": 3,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 23,
+          "totalOwnHalfPasses": 28,
+          "accurateOppositionHalfPasses": 7,
+          "totalOppositionHalfPasses": 10,
+          "aerialLost": 1,
+          "aerialWon": 2,
+          "duelLost": 1,
+          "duelWon": 3,
+          "shotOffTarget": 1,
+          "totalClearance": 5,
+          "outfielderBlock": 1,
+          "interceptionWon": 1,
+          "ballRecovery": 2,
+          "wasFouled": 1,
+          "minutesPlayed": 90,
+          "touches": 47,
+          "rating": 6.6,
+          "possessionLostCtrl": 8,
+          "expectedGoals": 0.0262,
+          "expectedAssists": 0.00225977,
+          "ratingVersions": {
+            "original": 6.6,
+            "alternative": 6.7
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.12,
+          "passValueNormalized": 0.12,
+          "dribbleValueNormalized": 0.11,
+          "defensiveValueNormalized": -0.13,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "2-1",
+    "fecha": "2025-09-28",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20135-elche-celta",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 2,
+      "cope": 5.0,
+      "sofascore": 6.6,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 0.0,
+        "comunio": 3.0,
+        "scale1": 0.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": 0.0,
+        "futmondo-mixto-as": 0.0,
+        "futmondo-stats": -1.0,
+        "futmondo-mixto": 0.8,
+        "cronistas-marca": 0.0,
+        "marca-mixto": 1.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 0.0,
+        "mister-mixto": 1.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 1.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 1.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 100.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 14.0,
+        "stat-pases-completados": 14.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083589,
+      "match_info": {
+        "homeTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "startTimestamp": 1759068900,
+        "slug": "elche-celta-vigo",
+        "fecha_normalizada": "2025-09-28"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 14,
+          "accuratePass": 14,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 7,
+          "totalOwnHalfPasses": 7,
+          "accurateOppositionHalfPasses": 7,
+          "totalOppositionHalfPasses": 7,
+          "duelLost": 2,
+          "totalContest": 1,
+          "totalClearance": 1,
+          "fouls": 1,
+          "minutesPlayed": 8,
+          "touches": 17,
+          "rating": 6.6,
+          "possessionLostCtrl": 1,
+          "expectedAssists": 0.00304106,
+          "ratingVersions": {
+            "original": 6.6,
+            "alternative": 6.4
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0,
+          "dribbleValueNormalized": 0.01,
+          "defensiveValueNormalized": 0.14,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Atlético",
+        "abreviatura": "ATM",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2025-10-05",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20144-celta-atletico",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083625,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Atlético Madrid",
+          "shortName": "Atl. Madrid",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1759690800,
+        "slug": "atletico-madrid-celta-vigo",
+        "fecha_normalizada": "2025-10-05"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Real Sociedad",
+        "abreviatura": "RSO",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2025-10-19",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20155-celta-real-sociedad",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083670,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Real Sociedad",
+          "shortName": "Real Sociedad",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1760883300,
+        "slug": "real-sociedad-celta-vigo",
+        "fecha_normalizada": "2025-10-19"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Osasuna",
+        "abreviatura": "OSA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "2-3",
+    "fecha": "2025-10-26",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20167-osasuna-celta",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 1,
+      "cope": 4.0,
+      "sofascore": 5.7,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": -2.0,
+        "futbolfantasy-rpg": -4.0,
+        "scale0": -2.0,
+        "biwenger-sofascore": -2.0,
+        "biwenger-social": -1.0,
+        "biwenger-as-sofascore": -2.0,
+        "biwenger-stats": 2.0,
+        "futmondo-prensa": 0.0,
+        "futmondo-mixto-as": -2.0,
+        "futmondo-stats": -5.0,
+        "futmondo-mixto": -1.3,
+        "cronistas-marca": 2.0,
+        "marca-mixto": -1.0,
+        "marca-sofascore": -2.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 0.0,
+        "mister-mixto-2": -1.0,
+        "mister-sofascore": -2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 1.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 1.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 1.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 2.0,
+        "stat-penaltis-cometidos": 1.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 4.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 6.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 86.2,
+        "stat-penaltis-provocados": 1.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 29.0,
+        "stat-pases-completados": 25.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083733,
+      "match_info": {
+        "homeTeam": {
+          "name": "Osasuna",
+          "shortName": "Osasuna",
+          "color": "#cc0000",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 3
+        },
+        "startTimestamp": 1761499800,
+        "slug": "celta-vigo-osasuna",
+        "fecha_normalizada": "2025-10-26"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 29,
+          "accuratePass": 25,
+          "totalLongBalls": 5,
+          "accurateLongBalls": 3,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 18,
+          "totalOwnHalfPasses": 19,
+          "accurateOppositionHalfPasses": 7,
+          "totalOppositionHalfPasses": 10,
+          "aerialWon": 1,
+          "duelLost": 3,
+          "duelWon": 2,
+          "dispossessed": 2,
+          "totalContest": 1,
+          "wonContest": 1,
+          "totalClearance": 4,
+          "interceptionWon": 1,
+          "ballRecovery": 2,
+          "penaltyConceded": 1,
+          "fouls": 1,
+          "minutesPlayed": 61,
+          "touches": 39,
+          "rating": 5.7,
+          "possessionLostCtrl": 6,
+          "expectedAssists": 0.0029077,
+          "ratingVersions": {
+            "original": 5.7,
+            "alternative": 6
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.09,
+          "dribbleValueNormalized": 0.04,
+          "defensiveValueNormalized": -0.7,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Levante",
+        "abreviatura": "LEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/10.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "1-2",
+    "fecha": "2025-11-02",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20177-levante-celta",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083103,
+      "match_info": {
+        "homeTeam": {
+          "name": "Levante UD",
+          "shortName": "Levante",
+          "color": "#0e3b68",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 2
+        },
+        "startTimestamp": 1762088400,
+        "slug": "levante-ud-celta-vigo",
+        "fecha_normalizada": "2025-11-02"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Barcelona",
+        "abreviatura": "BAR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/3.png"
+      }
+    },
+    "resultado": "2-4",
+    "fecha": "2025-11-09",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20185-celta-barcelona",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.2,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": -1.0,
+        "futbolfantasy-rpg": -1.0,
+        "comunio": 2.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 1.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 4.0,
+        "futmondo-prensa": 1.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 6.0,
+        "futmondo-mixto": 4.1,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 0.0,
+        "marca-sofascore": 1.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 1.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 2.0,
+        "stat-balones-robados": 1.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 4.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 3.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 93.6,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 1.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 1.0,
+        "stat-tackles": 1.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 47.0,
+        "stat-pases-completados": 44.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083115,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "FC Barcelona",
+          "shortName": "Barcelona",
+          "color": "#154284",
+          "score": 4
+        },
+        "startTimestamp": 1762718400,
+        "slug": "celta-vigo-barcelona",
+        "fecha_normalizada": "2025-11-09"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manu Fernández",
+          "slug": "manu-fernandez",
+          "shortName": "M. Fernández",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 185,
+          "userCount": 136,
+          "gender": "M",
+          "id": 1630975,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 987984000,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانو فيرنانديز",
+              "ru": "Ману Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيرنانديز",
+              "ru": "М. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 47,
+          "accuratePass": 44,
+          "totalLongBalls": 5,
+          "accurateLongBalls": 3,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 33,
+          "totalOwnHalfPasses": 35,
+          "accurateOppositionHalfPasses": 11,
+          "totalOppositionHalfPasses": 12,
+          "aerialLost": 1,
+          "duelLost": 2,
+          "duelWon": 4,
+          "dispossessed": 1,
+          "interceptionWon": 2,
+          "ballRecovery": 5,
+          "totalTackle": 3,
+          "wonTackle": 1,
+          "wasFouled": 1,
+          "minutesPlayed": 78,
+          "touches": 54,
+          "rating": 6.2,
+          "possessionLostCtrl": 4,
+          "expectedAssists": 0.00744194,
+          "ratingVersions": {
+            "original": 6.2,
+            "alternative": 6.3
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.1,
+          "dribbleValueNormalized": 0.07,
+          "defensiveValueNormalized": -0.52,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  }
+]

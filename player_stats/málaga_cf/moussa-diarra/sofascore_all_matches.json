@@ -1,0 +1,3503 @@
+{
+  "11587896": {
+    "id": 11587896,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Algeciras CF",
+        "shortName": "Algeciras",
+        "color": "#ff0000",
+        "score": 1
+      },
+      "startTimestamp": 1702839600,
+      "slug": "algeciras-cf-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "goals": 0,
+        "ownGoals": 0,
+        "minutesPlayed": 12,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "11587981": {
+    "id": 11587981,
+    "match_info": {
+      "homeTeam": {
+        "name": "CF Intercity",
+        "shortName": "Intercity",
+        "color": "#000000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1704225600,
+      "slug": "cf-intercity-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11895395": {
+    "id": 11895395,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1704657600,
+      "slug": "malaga-real-sociedad"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 39,
+        "accuratePass": 36,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 1,
+        "accurateOwnHalfPasses": 27,
+        "totalOwnHalfPasses": 29,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 10,
+        "aerialLost": 4,
+        "aerialWon": 5,
+        "duelLost": 6,
+        "duelWon": 6,
+        "dispossessed": 1,
+        "totalClearance": 6,
+        "outfielderBlock": 1,
+        "ballRecovery": 4,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 52,
+        "rating": 6.5,
+        "possessionLostCtrl": 4,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "11588071": {
+    "id": 11588071,
+    "match_info": {
+      "homeTeam": {
+        "name": "AD Ceuta",
+        "shortName": "Ceuta",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1705230000,
+      "slug": "ad-ceuta-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11588140": {
+    "id": 11588140,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "CD Castellón",
+        "shortName": "Castellón",
+        "color": "#191f23",
+        "score": 1
+      },
+      "startTimestamp": 1705863600,
+      "slug": "cd-castellon-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "minutesPlayed": 64,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "11588057": {
+    "id": 11588057,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "CD Atlético Baleares",
+        "shortName": "Atl. Baleares",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1707044400,
+      "slug": "cd-atletico-baleares-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11588168": {
+    "id": 11588168,
+    "match_info": {
+      "homeTeam": {
+        "name": "UD Melilla",
+        "shortName": "Melilla",
+        "color": "#899dc6",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1707649200,
+      "slug": "ud-melilla-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11588214": {
+    "id": 11588214,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Recreativo de Huelva",
+        "shortName": "Recreativo de Huelva",
+        "color": "#0033ff",
+        "score": 0
+      },
+      "startTimestamp": 1708254000,
+      "slug": "recreativo-de-huelva-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "minutesPlayed": 2,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "11588238": {
+    "id": 11588238,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Alcoyano",
+        "shortName": "Alcoyano",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1708794000,
+      "slug": "cd-alcoyano-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "goals": 0,
+        "ownGoals": 0,
+        "minutesPlayed": 90,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "11587822": {
+    "id": 11587822,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "UD Ibiza",
+        "shortName": "UD Ibiza",
+        "color": "#66b4ff",
+        "score": 0
+      },
+      "startTimestamp": 1709463600,
+      "slug": "ud-ibiza-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "goals": 0,
+        "ownGoals": 0,
+        "minutesPlayed": 1,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "11587930": {
+    "id": 11587930,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Sanluqueño",
+        "shortName": "Sanluqueño",
+        "color": "#2bac2b",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1710082800,
+      "slug": "atletico-sanluqueno-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11588009": {
+    "id": 11588009,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "CF Intercity",
+        "shortName": "Intercity",
+        "color": "#000000",
+        "score": 0
+      },
+      "startTimestamp": 1710673200,
+      "slug": "cf-intercity-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11588061": {
+    "id": 11588061,
+    "match_info": {
+      "homeTeam": {
+        "name": "Algeciras CF",
+        "shortName": "Algeciras",
+        "color": "#ff0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1711213200,
+      "slug": "algeciras-cf-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11588153": {
+    "id": 11588153,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Linares Deportivo",
+        "shortName": "Linares",
+        "color": "#2e346c",
+        "score": 1
+      },
+      "startTimestamp": 1711893600,
+      "slug": "linares-deportivo-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11587716": {
+    "id": 11587716,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "AD Ceuta",
+        "shortName": "Ceuta",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1712484000,
+      "slug": "ad-ceuta-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "goals": 0,
+        "ownGoals": 0,
+        "minutesPlayed": 1,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "11587746": {
+    "id": 11587746,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrileño",
+        "shortName": "Atl. Madrileño",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1713110400,
+      "slug": "atletico-madrid-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "goals": 0,
+        "ownGoals": 0,
+        "minutesPlayed": 27,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "11587813": {
+    "id": 11587813,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Real Murcia",
+        "shortName": "Real Murcia",
+        "color": "#ff0000",
+        "score": 0
+      },
+      "startTimestamp": 1713693600,
+      "slug": "real-murcia-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11587867": {
+    "id": 11587867,
+    "match_info": {
+      "homeTeam": {
+        "name": "Córdoba",
+        "shortName": "Córdoba",
+        "color": "#339900",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1714312800,
+      "slug": "cordoba-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11587908": {
+    "id": 11587908,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Mérida AD",
+        "shortName": "Mérida",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1714903200,
+      "slug": "merida-ad-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11587935": {
+    "id": 11587935,
+    "match_info": {
+      "homeTeam": {
+        "name": "San Fernando CD",
+        "shortName": "San Fernando",
+        "color": "#0000ff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1715529600,
+      "slug": "san-fernando-cd-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "goals": 0,
+        "ownGoals": 0,
+        "minutesPlayed": 26,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12970184": {
+    "id": 12970184,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Estepona",
+        "shortName": "Estepona",
+        "color": "#374df5",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1730404800,
+      "slug": "cd-estepona-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 80,
+        "accuratePass": 62,
+        "totalLongBalls": 13,
+        "accurateLongBalls": 6,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 35,
+        "totalOwnHalfPasses": 44,
+        "accurateOppositionHalfPasses": 27,
+        "totalOppositionHalfPasses": 36,
+        "aerialLost": 3,
+        "aerialWon": 5,
+        "duelLost": 5,
+        "duelWon": 9,
+        "totalContest": 1,
+        "goals": 0,
+        "totalClearance": 4,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 3,
+        "fouls": 1,
+        "minutesPlayed": 120,
+        "touches": 99,
+        "rating": 6.6,
+        "possessionLostCtrl": 23,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467638": {
+    "id": 12467638,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "FC Cartagena",
+        "shortName": "Cartagena",
+        "color": "#fee100",
+        "score": 0
+      },
+      "startTimestamp": 1731182400,
+      "slug": "fc-cartagena-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467622": {
+    "id": 12467622,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Zaragoza",
+        "shortName": "Real Zaragoza",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1731873600,
+      "slug": "malaga-real-zaragoza"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467613": {
+    "id": 12467613,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1732392000,
+      "slug": "racing-de-santander-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "13097336": {
+    "id": 13097336,
+    "match_info": {
+      "homeTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1732730400,
+      "slug": "levante-ud-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12467590": {
+    "id": 12467590,
+    "match_info": {
+      "homeTeam": {
+        "name": "Burgos Club de Fútbol",
+        "shortName": "Burgos",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1734275700,
+      "slug": "burgos-club-de-futbol-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12597478": {
+    "id": 12597478,
+    "match_info": {
+      "homeTeam": {
+        "name": "Marbella FC",
+        "shortName": "Marbella",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Hércules CF",
+        "shortName": "Hércules",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1737824400,
+      "slug": "marbella-fc-hercules-cf"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Marbella FC",
+        "slug": "marbella-fc",
+        "shortName": "Marbella",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 3810,
+        "nameCode": "MAR",
+        "national": false,
+        "type": 0,
+        "id": 24348,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0000ff",
+          "text": "#0000ff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماربييا",
+            "ru": "Марбелья ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 20,
+        "accuratePass": 16,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 10,
+        "totalOwnHalfPasses": 13,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 7,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 0,
+        "aerialWon": 1,
+        "duelLost": 1,
+        "duelWon": 3,
+        "challengeLost": 1,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 2,
+        "outfielderBlock": 0,
+        "ballRecovery": 4,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 2,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 20,
+        "touches": 25,
+        "rating": 6.6,
+        "possessionLostCtrl": 5,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12597470": {
+    "id": 12597470,
+    "match_info": {
+      "homeTeam": {
+        "name": "CF Intercity",
+        "shortName": "Intercity",
+        "color": "#000000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Marbella FC",
+        "shortName": "Marbella",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1738351800,
+      "slug": "cf-intercity-marbella-fc"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Marbella FC",
+        "slug": "marbella-fc",
+        "shortName": "Marbella",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 3810,
+        "nameCode": "MAR",
+        "national": false,
+        "type": 0,
+        "id": 24348,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0000ff",
+          "text": "#0000ff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماربييا",
+            "ru": "Марбелья ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 68,
+        "accuratePass": 59,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 44,
+        "totalOwnHalfPasses": 47,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 18,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 2,
+        "aerialWon": 2,
+        "duelLost": 8,
+        "duelWon": 6,
+        "challengeLost": 0,
+        "totalContest": 1,
+        "wonContest": 0,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 0,
+        "outfielderBlock": 0,
+        "interceptionWon": 1,
+        "ballRecovery": 13,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 1,
+        "fouls": 2,
+        "totalOffside": 0,
+        "minutesPlayed": 90,
+        "touches": 90,
+        "rating": 7,
+        "possessionLostCtrl": 9,
+        "expectedGoals": 0.11,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12597435": {
+    "id": 12597435,
+    "match_info": {
+      "homeTeam": {
+        "name": "Marbella FC",
+        "shortName": "Marbella",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Murcia",
+        "shortName": "Real Murcia",
+        "color": "#ff0000",
+        "score": 4
+      },
+      "startTimestamp": 1739098800,
+      "slug": "marbella-fc-real-murcia"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Marbella FC",
+        "slug": "marbella-fc",
+        "shortName": "Marbella",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 3810,
+        "nameCode": "MAR",
+        "national": false,
+        "type": 0,
+        "id": 24348,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0000ff",
+          "text": "#0000ff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماربييا",
+            "ru": "Марбелья ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 45,
+        "accuratePass": 40,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 6,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 27,
+        "totalOwnHalfPasses": 31,
+        "accurateOppositionHalfPasses": 13,
+        "totalOppositionHalfPasses": 14,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 2,
+        "aerialWon": 1,
+        "duelLost": 9,
+        "duelWon": 4,
+        "challengeLost": 2,
+        "totalContest": 1,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 1,
+        "goals": 0,
+        "totalClearance": 2,
+        "outfielderBlock": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 7,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 3,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 2,
+        "fouls": 2,
+        "totalOffside": 0,
+        "minutesPlayed": 90,
+        "touches": 58,
+        "rating": 5.7,
+        "possessionLostCtrl": 8,
+        "expectedGoals": 0.08,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 5.7,
+          "alternative": null
+        },
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "12597406": {
+    "id": 12597406,
+    "match_info": {
+      "homeTeam": {
+        "name": "Yeclano Deportivo",
+        "shortName": "Yeclano",
+        "color": "#d93442",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Marbella FC",
+        "shortName": "Marbella",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1739561400,
+      "slug": "yeclano-deportivo-marbella-fc"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Marbella FC",
+        "slug": "marbella-fc",
+        "shortName": "Marbella",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 3810,
+        "nameCode": "MAR",
+        "national": false,
+        "type": 0,
+        "id": 24348,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0000ff",
+          "text": "#0000ff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماربييا",
+            "ru": "Марбелья ФК"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 10,
+        "accuratePass": 8,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 0,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 8,
+        "totalOwnHalfPasses": 8,
+        "totalOppositionHalfPasses": 2,
+        "totalCross": 0,
+        "accurateCross": 0,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 2,
+        "duelWon": 1,
+        "challengeLost": 0,
+        "totalContest": 0,
+        "wonContest": 0,
+        "onTargetScoringAttempt": 0,
+        "goals": 0,
+        "totalClearance": 1,
+        "outfielderBlock": 0,
+        "interceptionWon": 1,
+        "ballRecovery": 3,
+        "totalTackle": 0,
+        "wonTackle": 0,
+        "errorLeadToAShot": 0,
+        "ownGoals": 0,
+        "unsuccessfulTouch": 0,
+        "wasFouled": 0,
+        "fouls": 1,
+        "totalOffside": 0,
+        "minutesPlayed": 19,
+        "touches": 13,
+        "rating": 6.6,
+        "possessionLostCtrl": 4,
+        "expectedGoals": 0,
+        "expectedAssists": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": null
+        },
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "9603260": {
+    "id": 9603260,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1629136800,
+      "slug": "mirandes-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "9965753": {
+    "id": 9965753,
+    "match_info": {
+      "homeTeam": {
+        "name": "Peña Sport FC",
+        "shortName": "Peña Sport",
+        "color": "#094ca1",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1638469800,
+      "slug": "pena-sport-fc-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "9604013": {
+    "id": 9604013,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "SD Amorebieta",
+        "shortName": "Amorebieta",
+        "color": "#024596",
+        "score": 2
+      },
+      "startTimestamp": 1638716400,
+      "slug": "sd-amorebieta-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "9603986": {
+    "id": 9603986,
+    "match_info": {
+      "homeTeam": {
+        "name": "Eibar",
+        "shortName": "Eibar",
+        "color": "#003e85",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1639251000,
+      "slug": "eibar-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "9998666": {
+    "id": 9998666,
+    "match_info": {
+      "homeTeam": {
+        "name": "Rayo Majadahonda",
+        "shortName": "R. Majadahonda",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1639508400,
+      "slug": "rayo-majadahonda-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 57,
+        "accuratePass": 46,
+        "totalLongBalls": 21,
+        "accurateLongBalls": 12,
+        "accurateOwnHalfPasses": 36,
+        "totalOwnHalfPasses": 37,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 21,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 1,
+        "totalContest": 1,
+        "totalClearance": 2,
+        "outfielderBlock": 1,
+        "ballRecovery": 6,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 62,
+        "rating": 6.8,
+        "possessionLostCtrl": 12,
+        "keyPass": 1,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "9604006": {
+    "id": 9604006,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Leganés",
+        "shortName": "Leganés",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1639839600,
+      "slug": "leganes-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "9604101": {
+    "id": 9604101,
+    "match_info": {
+      "homeTeam": {
+        "name": "AD Alcorcón",
+        "shortName": "Alcorcón",
+        "color": "#ffcc00",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1641240000,
+      "slug": "ad-alcorcon-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "10506432": {
+    "id": 10506432,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Cádiz",
+        "shortName": "Cádiz",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "startTimestamp": 1658595600,
+      "slug": "cadiz-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10551057": {
+    "id": 10551057,
+    "match_info": {
+      "homeTeam": {
+        "name": "Granada",
+        "shortName": "Granada",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "startTimestamp": 1659808800,
+      "slug": "granada-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "10409044": {
+    "id": 10409044,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mirandés",
+        "shortName": "Mirandés",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1661621400,
+      "slug": "mirandes-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "10409071": {
+    "id": 10409071,
+    "match_info": {
+      "homeTeam": {
+        "name": "CD Tenerife",
+        "shortName": "CD Tenerife",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1663614000,
+      "slug": "malaga-cd-tenerife"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "10409074": {
+    "id": 10409074,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Villarreal B U23",
+        "shortName": "Villarreal B U23",
+        "color": "#ffff00",
+        "score": 1
+      },
+      "startTimestamp": 1664037000,
+      "slug": "villarreal-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 60,
+        "accuratePass": 51,
+        "totalLongBalls": 8,
+        "accurateLongBalls": 2,
+        "accurateOwnHalfPasses": 40,
+        "totalOwnHalfPasses": 43,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 17,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 4,
+        "duelWon": 4,
+        "totalContest": 2,
+        "wonContest": 1,
+        "shotOffTarget": 1,
+        "totalClearance": 3,
+        "outfielderBlock": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "wasFouled": 1,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 72,
+        "rating": 6.7,
+        "possessionLostCtrl": 10,
+        "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "11439248": {
+    "id": 11439248,
+    "match_info": {
+      "homeTeam": {
+        "name": "Almería",
+        "shortName": "Almería",
+        "color": "#ff0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1690479000,
+      "slug": "almeria-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11511538": {
+    "id": 11511538,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "San Fernando CD",
+        "shortName": "San Fernando",
+        "color": "#0000ff",
+        "score": 1
+      },
+      "startTimestamp": 1691602200,
+      "slug": "san-fernando-cd-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11474683": {
+    "id": 11474683,
+    "match_info": {
+      "homeTeam": {
+        "name": "Linares Deportivo",
+        "shortName": "Linares",
+        "color": "#2e346c",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1695571200,
+      "slug": "linares-deportivo-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11495342": {
+    "id": 11495342,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "San Fernando CD",
+        "shortName": "San Fernando",
+        "color": "#0000ff",
+        "score": 0
+      },
+      "startTimestamp": 1696183200,
+      "slug": "san-fernando-cd-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11495363": {
+    "id": 11495363,
+    "match_info": {
+      "homeTeam": {
+        "name": "Recreativo de Huelva",
+        "shortName": "Recreativo de Huelva",
+        "color": "#0033ff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1696788000,
+      "slug": "recreativo-de-huelva-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11495383": {
+    "id": 11495383,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "UD Melilla",
+        "shortName": "Melilla",
+        "color": "#899dc6",
+        "score": 0
+      },
+      "startTimestamp": 1697104800,
+      "slug": "ud-melilla-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11588023": {
+    "id": 11588023,
+    "match_info": {
+      "homeTeam": {
+        "name": "UD Ibiza",
+        "shortName": "UD Ibiza",
+        "color": "#66b4ff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1699801200,
+      "slug": "ud-ibiza-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11588162": {
+    "id": 11588162,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "CD Alcoyano",
+        "shortName": "Alcoyano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1700326800,
+      "slug": "cd-alcoyano-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11588207": {
+    "id": 11588207,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Murcia",
+        "shortName": "Real Murcia",
+        "color": "#ff0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "startTimestamp": 1701018000,
+      "slug": "real-murcia-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11588247": {
+    "id": 11588247,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Atlético Sanluqueño",
+        "shortName": "Sanluqueño",
+        "color": "#2bac2b",
+        "score": 0
+      },
+      "startTimestamp": 1701543600,
+      "slug": "atletico-sanluqueno-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11836408": {
+    "id": 11836408,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "CD Eldense",
+        "shortName": "Eldense",
+        "color": "#bf0000",
+        "score": 0
+      },
+      "startTimestamp": 1701878400,
+      "slug": "cd-eldense-malaga"
+    },
+    "player_stats": {
+      "error": {
+        "code": 404,
+        "message": "Not Found"
+      }
+    }
+  },
+  "11587762": {
+    "id": 11587762,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mérida AD",
+        "shortName": "Mérida",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1702227600,
+      "slug": "merida-ad-malaga"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moussa Diarra",
+        "firstName": "Moussa Diarra",
+        "lastName": "",
+        "slug": "moussa-diarra",
+        "shortName": "M. Diarra",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 54,
+        "gender": "M",
+        "sofascoreId": "rs53gj",
+        "id": 1134722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1011484800,
+        "proposedMarketValueRaw": {
+          "value": 23000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موسى ديارا",
+            "ru": "Мусса Диарра"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديارا",
+            "ru": "М. Диарра"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 49736,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مالاجا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "goals": 0,
+        "ownGoals": 0,
+        "minutesPlayed": 19,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

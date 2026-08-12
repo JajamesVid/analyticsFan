@@ -1,0 +1,2026 @@
+[
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      }
+    },
+    "resultado": "1-2",
+    "fecha": "2024-10-19",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/17974-celta-real-madrid",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 12597976,
+      "match_info": {
+        "homeTeam": {
+          "name": "CD Lugo",
+          "shortName": "Lugo",
+          "color": "#ff0000",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Celta Fortuna",
+          "shortName": "Celta Fortuna",
+          "color": "#6cace4",
+          "score": 0
+        },
+        "startTimestamp": 1729351800,
+        "slug": "celta-vigo-cd-lugo",
+        "fecha_normalizada": "2024-10-19"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Marc Vidal",
+          "firstName": "Marc",
+          "lastName": "Vidal",
+          "slug": "marc-vidal",
+          "shortName": "M. Vidal",
+          "position": "G",
+          "jerseyNumber": "25",
+          "height": 183,
+          "userCount": 143,
+          "gender": "M",
+          "id": 905443,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 950486400,
+          "proposedMarketValueRaw": {
+            "value": 310000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فيدال، مارك",
+              "ru": "Марсель Видаль"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيدال",
+              "ru": "М. Видаль"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Fortuna",
+          "slug": "celta-vigo-b",
+          "shortName": "Celta Fortuna",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 5602,
+          "nameCode": "CFU",
+          "disabled": false,
+          "national": false,
+          "parentTeam": {
+            "name": "Celta Vigo",
+            "slug": "celta-vigo",
+            "shortName": "Celta",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 266335,
+            "nameCode": "CEL",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 2821,
+            "teamColors": {
+              "primary": "#6cace4",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "سيلتا فيغو",
+                "bn": "সেলটা ভিগো",
+                "ru": "Сельта"
+              },
+              "shortNameTranslation": {
+                "ar": "سيلتا",
+                "hi": "सेल्टा"
+              }
+            }
+          },
+          "type": 0,
+          "id": 24336,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو ب",
+              "ru": "Сельта Виго Б"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا ب"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 19,
+          "accuratePass": 18,
+          "totalLongBalls": 1,
+          "accurateLongBalls": 0,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 18,
+          "totalOwnHalfPasses": 18,
+          "totalOppositionHalfPasses": 1,
+          "totalCross": 0,
+          "accurateCross": 0,
+          "aerialLost": 0,
+          "aerialWon": 0,
+          "duelLost": 0,
+          "duelWon": 0,
+          "challengeLost": 0,
+          "totalContest": 0,
+          "wonContest": 0,
+          "onTargetScoringAttempt": 0,
+          "goals": 0,
+          "totalClearance": 0,
+          "outfielderBlock": 0,
+          "ballRecovery": 2,
+          "totalTackle": 0,
+          "wonTackle": 0,
+          "errorLeadToAShot": 0,
+          "ownGoals": 0,
+          "unsuccessfulTouch": 0,
+          "wasFouled": 0,
+          "fouls": 0,
+          "totalOffside": 0,
+          "crossNotClaimed": 0,
+          "goodHighClaim": 0,
+          "savedShotsFromInsideTheBox": 1,
+          "saves": 2,
+          "totalKeeperSweeper": 0,
+          "accurateKeeperSweeper": 0,
+          "minutesPlayed": 90,
+          "touches": 25,
+          "rating": 6.6,
+          "possessionLostCtrl": 1,
+          "expectedGoals": 0,
+          "expectedAssists": 0,
+          "ratingVersions": {
+            "original": 6.6,
+            "alternative": null
+          },
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Real Sociedad",
+        "abreviatura": "RSO",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
+      }
+    },
+    "resultado": "2-0",
+    "fecha": "2024-12-21",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/18052-celta-real-sociedad",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 12437780,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Real Sociedad",
+          "shortName": "Real Sociedad",
+          "color": "#ffffff",
+          "score": 0
+        },
+        "startTimestamp": 1734794100,
+        "slug": "real-sociedad-celta-vigo",
+        "fecha_normalizada": "2024-12-21"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Marc Vidal",
+          "firstName": "Marc",
+          "lastName": "Vidal",
+          "slug": "marc-vidal",
+          "shortName": "M. Vidal",
+          "position": "G",
+          "jerseyNumber": "25",
+          "height": 183,
+          "userCount": 143,
+          "gender": "M",
+          "id": 905443,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 950486400,
+          "proposedMarketValueRaw": {
+            "value": 310000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فيدال، مارك",
+              "ru": "Марсель Видаль"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيدال",
+              "ru": "М. Видаль"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "1-2",
+    "fecha": "2025-01-19",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/18071-celta-athletic",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 12597777,
+      "match_info": {
+        "homeTeam": {
+          "name": "Unionistas de Salamanca CF",
+          "shortName": "Unionistas",
+          "color": "#000000",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Celta Fortuna",
+          "shortName": "Celta Fortuna",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "startTimestamp": 1737284400,
+        "slug": "unionistas-de-salamanca-cf-celta-vigo",
+        "fecha_normalizada": "2025-01-19"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Marc Vidal",
+          "firstName": "Marc",
+          "lastName": "Vidal",
+          "slug": "marc-vidal",
+          "shortName": "M. Vidal",
+          "position": "G",
+          "jerseyNumber": "25",
+          "height": 183,
+          "userCount": 143,
+          "gender": "M",
+          "id": 905443,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 950486400,
+          "proposedMarketValueRaw": {
+            "value": 310000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فيدال، مارك",
+              "ru": "Марсель Видаль"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيدال",
+              "ru": "М. Видаль"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Fortuna",
+          "slug": "celta-vigo-b",
+          "shortName": "Celta Fortuna",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 5602,
+          "nameCode": "CFU",
+          "disabled": false,
+          "national": false,
+          "parentTeam": {
+            "name": "Celta Vigo",
+            "slug": "celta-vigo",
+            "shortName": "Celta",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 266335,
+            "nameCode": "CEL",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 2821,
+            "teamColors": {
+              "primary": "#6cace4",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "سيلتا فيغو",
+                "bn": "সেলটা ভিগো",
+                "ru": "Сельта"
+              },
+              "shortNameTranslation": {
+                "ar": "سيلتا",
+                "hi": "सेल्टा"
+              }
+            }
+          },
+          "type": 0,
+          "id": 24336,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو ب",
+              "ru": "Сельта Виго Б"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا ب"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 24,
+          "accuratePass": 18,
+          "totalLongBalls": 12,
+          "accurateLongBalls": 6,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 14,
+          "totalOwnHalfPasses": 16,
+          "accurateOppositionHalfPasses": 3,
+          "totalOppositionHalfPasses": 7,
+          "totalCross": 0,
+          "accurateCross": 0,
+          "aerialLost": 0,
+          "aerialWon": 1,
+          "duelLost": 0,
+          "duelWon": 1,
+          "challengeLost": 0,
+          "totalContest": 0,
+          "wonContest": 0,
+          "onTargetScoringAttempt": 0,
+          "goals": 0,
+          "totalClearance": 0,
+          "outfielderBlock": 0,
+          "interceptionWon": 1,
+          "ballRecovery": 4,
+          "totalTackle": 0,
+          "wonTackle": 0,
+          "errorLeadToAShot": 0,
+          "ownGoals": 0,
+          "unsuccessfulTouch": 0,
+          "wasFouled": 0,
+          "fouls": 0,
+          "totalOffside": 0,
+          "crossNotClaimed": 0,
+          "goodHighClaim": 1,
+          "savedShotsFromInsideTheBox": 4,
+          "saves": 5,
+          "totalKeeperSweeper": 1,
+          "accurateKeeperSweeper": 0,
+          "minutesPlayed": 90,
+          "touches": 26,
+          "rating": 7.5,
+          "possessionLostCtrl": 6,
+          "expectedGoals": 0,
+          "expectedAssists": 0,
+          "ratingVersions": {
+            "original": 7.5,
+            "alternative": null
+          },
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Alavés",
+        "abreviatura": "ALA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2025-01-27",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/18084-alaves-celta",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 12437649,
+      "match_info": {
+        "homeTeam": {
+          "name": "Deportivo Alavés",
+          "shortName": "Alavés",
+          "color": "#0232a0",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "startTimestamp": 1738008000,
+        "slug": "deportivo-alaves-celta-vigo",
+        "fecha_normalizada": "2025-01-27"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Marc Vidal",
+          "firstName": "Marc",
+          "lastName": "Vidal",
+          "slug": "marc-vidal",
+          "shortName": "M. Vidal",
+          "position": "G",
+          "jerseyNumber": "25",
+          "height": 183,
+          "userCount": 143,
+          "gender": "M",
+          "id": 905443,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 950486400,
+          "proposedMarketValueRaw": {
+            "value": 310000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فيدال، مارك",
+              "ru": "Марсель Видаль"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيدال",
+              "ru": "М. Видаль"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Las Palmas",
+        "abreviatura": "LPA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/27.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2025-03-31",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/18163-celta-las-palmas",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 12437569,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Las Palmas",
+          "shortName": "Las Palmas",
+          "color": "#e8f541",
+          "score": 1
+        },
+        "startTimestamp": 1743447600,
+        "slug": "las-palmas-celta-vigo",
+        "fecha_normalizada": "2025-03-31"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Marc Vidal",
+          "firstName": "Marc",
+          "lastName": "Vidal",
+          "slug": "marc-vidal",
+          "shortName": "M. Vidal",
+          "position": "G",
+          "jerseyNumber": "25",
+          "height": 183,
+          "userCount": 143,
+          "gender": "M",
+          "id": 905443,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 950486400,
+          "proposedMarketValueRaw": {
+            "value": 310000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فيدال، مارك",
+              "ru": "Марсель Видаль"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيدال",
+              "ru": "М. Видаль"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Real Sociedad",
+        "abreviatura": "RSO",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "0-1",
+    "fecha": "2025-05-13",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/18237-real-sociedad-celta",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 12437498,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Sociedad",
+          "shortName": "Real Sociedad",
+          "color": "#ffffff",
+          "score": 0
+        },
+        "awayTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "startTimestamp": 1747159200,
+        "slug": "real-sociedad-celta-vigo",
+        "fecha_normalizada": "2025-05-13"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Marc Vidal",
+          "firstName": "Marc",
+          "lastName": "Vidal",
+          "slug": "marc-vidal",
+          "shortName": "M. Vidal",
+          "position": "G",
+          "jerseyNumber": "25",
+          "height": 183,
+          "userCount": 143,
+          "gender": "M",
+          "id": 905443,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 950486400,
+          "proposedMarketValueRaw": {
+            "value": 310000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فيدال، مارك",
+              "ru": "Марсель Видаль"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيدال",
+              "ru": "М. Видаль"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Alavés",
+        "abreviatura": "ALA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
+      }
+    },
+    "resultado": "2-1",
+    "fecha": "2024-08-16",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/17799-celta-alaves",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 12437617,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Deportivo Alavés",
+          "shortName": "Alavés",
+          "color": "#0232a0",
+          "score": 1
+        },
+        "startTimestamp": 1723827600,
+        "slug": "deportivo-alaves-celta-vigo",
+        "fecha_normalizada": "2024-08-16"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Marc Vidal",
+          "firstName": "Marc",
+          "lastName": "Vidal",
+          "slug": "marc-vidal",
+          "shortName": "M. Vidal",
+          "position": "G",
+          "jerseyNumber": "25",
+          "height": 183,
+          "userCount": 143,
+          "gender": "M",
+          "id": 905443,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 950486400,
+          "proposedMarketValueRaw": {
+            "value": 310000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فيدال، مارك",
+              "ru": "Марсель Видаль"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيدال",
+              "ru": "М. Видаль"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Valencia",
+        "abreviatura": "VAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/18.png"
+      }
+    },
+    "resultado": "3-1",
+    "fecha": "2024-08-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/17895-celta-valencia",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 12437631,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Valencia",
+          "shortName": "Valencia",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1724432400,
+        "slug": "valencia-celta-vigo",
+        "fecha_normalizada": "2024-08-23"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Marc Vidal",
+          "firstName": "Marc",
+          "lastName": "Vidal",
+          "slug": "marc-vidal",
+          "shortName": "M. Vidal",
+          "position": "G",
+          "jerseyNumber": "25",
+          "height": 183,
+          "userCount": 143,
+          "gender": "M",
+          "id": 905443,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 950486400,
+          "proposedMarketValueRaw": {
+            "value": 310000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فيدال، مارك",
+              "ru": "Марсель Видаль"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيدال",
+              "ru": "М. Видаль"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "4-3",
+    "fecha": "2024-08-26",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/17908-villarreal-celta",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 12437674,
+      "match_info": {
+        "homeTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 4
+        },
+        "awayTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 3
+        },
+        "startTimestamp": 1724700600,
+        "slug": "celta-vigo-villarreal",
+        "fecha_normalizada": "2024-08-26"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Marc Vidal",
+          "firstName": "Marc",
+          "lastName": "Vidal",
+          "slug": "marc-vidal",
+          "shortName": "M. Vidal",
+          "position": "G",
+          "jerseyNumber": "25",
+          "height": 183,
+          "userCount": 143,
+          "gender": "M",
+          "id": 905443,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 950486400,
+          "proposedMarketValueRaw": {
+            "value": 310000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فيدال، مارك",
+              "ru": "Марсель Видаль"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيدال",
+              "ru": "М. Видаль"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 266335,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Osasuna",
+        "abreviatura": "OSA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "3-2",
+    "fecha": "2024-09-01",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/17912-osasuna-celta",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 12598052,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Unión Club",
+          "shortName": "Real Unión",
+          "color": "#ffffff",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Celta Fortuna",
+          "shortName": "Celta Fortuna",
+          "color": "#6cace4",
+          "score": 2
+        },
+        "startTimestamp": 1725206400,
+        "slug": "celta-vigo-real-union-club",
+        "fecha_normalizada": "2024-09-01"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Marc Vidal",
+          "firstName": "Marc",
+          "lastName": "Vidal",
+          "slug": "marc-vidal",
+          "shortName": "M. Vidal",
+          "position": "G",
+          "jerseyNumber": "25",
+          "height": 183,
+          "userCount": 143,
+          "gender": "M",
+          "id": 905443,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 950486400,
+          "proposedMarketValueRaw": {
+            "value": 310000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فيدال، مارك",
+              "ru": "Марсель Видаль"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيدال",
+              "ru": "М. Видаль"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Fortuna",
+          "slug": "celta-vigo-b",
+          "shortName": "Celta Fortuna",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 5602,
+          "nameCode": "CFU",
+          "disabled": false,
+          "national": false,
+          "parentTeam": {
+            "name": "Celta Vigo",
+            "slug": "celta-vigo",
+            "shortName": "Celta",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 266335,
+            "nameCode": "CEL",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 2821,
+            "teamColors": {
+              "primary": "#6cace4",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "سيلتا فيغو",
+                "bn": "সেলটা ভিগো",
+                "ru": "Сельта"
+              },
+              "shortNameTranslation": {
+                "ar": "سيلتا",
+                "hi": "सेल्टा"
+              }
+            }
+          },
+          "type": 0,
+          "id": 24336,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو ب",
+              "ru": "Сельта Виго Б"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا ب"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 29,
+          "accuratePass": 25,
+          "totalLongBalls": 13,
+          "accurateLongBalls": 9,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 18,
+          "totalOwnHalfPasses": 19,
+          "accurateOppositionHalfPasses": 7,
+          "totalOppositionHalfPasses": 10,
+          "totalCross": 0,
+          "accurateCross": 0,
+          "aerialLost": 0,
+          "aerialWon": 2,
+          "duelLost": 0,
+          "duelWon": 2,
+          "challengeLost": 0,
+          "totalContest": 0,
+          "wonContest": 0,
+          "onTargetScoringAttempt": 0,
+          "goals": 0,
+          "totalClearance": 1,
+          "outfielderBlock": 0,
+          "ballRecovery": 7,
+          "totalTackle": 0,
+          "wonTackle": 0,
+          "errorLeadToAShot": 0,
+          "ownGoals": 0,
+          "unsuccessfulTouch": 0,
+          "wasFouled": 1,
+          "fouls": 0,
+          "totalOffside": 0,
+          "crossNotClaimed": 0,
+          "goodHighClaim": 2,
+          "savedShotsFromInsideTheBox": 1,
+          "saves": 3,
+          "totalKeeperSweeper": 4,
+          "accurateKeeperSweeper": 0,
+          "minutesPlayed": 90,
+          "touches": 33,
+          "rating": 6.6,
+          "possessionLostCtrl": 6,
+          "expectedGoals": 0,
+          "expectedAssists": 0,
+          "ratingVersions": {
+            "original": 6.6,
+            "alternative": null
+          },
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Valladolid",
+        "abreviatura": "VLD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/19.png"
+      }
+    },
+    "resultado": "3-1",
+    "fecha": "2024-09-15",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/17922-celta-valladolid",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 12598025,
+      "match_info": {
+        "homeTeam": {
+          "name": "Osasuna B",
+          "shortName": "Osasuna B",
+          "color": "#cc0000",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Celta Fortuna",
+          "shortName": "Celta Fortuna",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "startTimestamp": 1726421400,
+        "slug": "celta-vigo-osasuna",
+        "fecha_normalizada": "2024-09-15"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Marc Vidal",
+          "firstName": "Marc",
+          "lastName": "Vidal",
+          "slug": "marc-vidal",
+          "shortName": "M. Vidal",
+          "position": "G",
+          "jerseyNumber": "25",
+          "height": 183,
+          "userCount": 143,
+          "gender": "M",
+          "id": 905443,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 950486400,
+          "proposedMarketValueRaw": {
+            "value": 310000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فيدال، مارك",
+              "ru": "Марсель Видаль"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيدال",
+              "ru": "М. Видаль"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Fortuna",
+          "slug": "celta-vigo-b",
+          "shortName": "Celta Fortuna",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 5602,
+          "nameCode": "CFU",
+          "disabled": false,
+          "national": false,
+          "parentTeam": {
+            "name": "Celta Vigo",
+            "slug": "celta-vigo",
+            "shortName": "Celta",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 266335,
+            "nameCode": "CEL",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 2821,
+            "teamColors": {
+              "primary": "#6cace4",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "سيلتا فيغو",
+                "bn": "সেলটা ভিগো",
+                "ru": "Сельта"
+              },
+              "shortNameTranslation": {
+                "ar": "سيلتا",
+                "hi": "सेल्टा"
+              }
+            }
+          },
+          "type": 0,
+          "id": 24336,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو ب",
+              "ru": "Сельта Виго Б"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا ب"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 16,
+          "accuratePass": 12,
+          "totalLongBalls": 3,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 12,
+          "totalOwnHalfPasses": 16,
+          "totalCross": 0,
+          "accurateCross": 0,
+          "aerialLost": 0,
+          "aerialWon": 0,
+          "duelLost": 0,
+          "duelWon": 0,
+          "challengeLost": 0,
+          "totalContest": 0,
+          "wonContest": 0,
+          "onTargetScoringAttempt": 0,
+          "goals": 0,
+          "totalClearance": 0,
+          "outfielderBlock": 0,
+          "ballRecovery": 2,
+          "totalTackle": 0,
+          "wonTackle": 0,
+          "errorLeadToAShot": 1,
+          "ownGoals": 0,
+          "unsuccessfulTouch": 0,
+          "wasFouled": 0,
+          "fouls": 0,
+          "totalOffside": 0,
+          "crossNotClaimed": 0,
+          "goodHighClaim": 0,
+          "savedShotsFromInsideTheBox": 1,
+          "saves": 2,
+          "totalKeeperSweeper": 0,
+          "accurateKeeperSweeper": 0,
+          "minutesPlayed": 90,
+          "touches": 18,
+          "rating": 5.7,
+          "possessionLostCtrl": 3,
+          "expectedGoals": 0,
+          "expectedAssists": 0,
+          "ratingVersions": {
+            "original": 5.7,
+            "alternative": null
+          },
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Girona",
+        "abreviatura": "GIR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/30.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2024-09-29",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/17953-celta-girona",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 12598010,
+      "match_info": {
+        "homeTeam": {
+          "name": "Athletic Club B U21",
+          "shortName": "Athletic Club B U21",
+          "color": "#aa0000",
+          "score": 0
+        },
+        "awayTeam": {
+          "name": "Celta Fortuna",
+          "shortName": "Celta Fortuna",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "startTimestamp": 1727604000,
+        "slug": "celta-vigo-athletic-clubu21",
+        "fecha_normalizada": "2024-09-29"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Marc Vidal",
+          "firstName": "Marc",
+          "lastName": "Vidal",
+          "slug": "marc-vidal",
+          "shortName": "M. Vidal",
+          "position": "G",
+          "jerseyNumber": "25",
+          "height": 183,
+          "userCount": 143,
+          "gender": "M",
+          "id": 905443,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 950486400,
+          "proposedMarketValueRaw": {
+            "value": 310000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فيدال، مارك",
+              "ru": "Марсель Видаль"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيدال",
+              "ru": "М. Видаль"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Fortuna",
+          "slug": "celta-vigo-b",
+          "shortName": "Celta Fortuna",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 5602,
+          "nameCode": "CFU",
+          "disabled": false,
+          "national": false,
+          "parentTeam": {
+            "name": "Celta Vigo",
+            "slug": "celta-vigo",
+            "shortName": "Celta",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 266335,
+            "nameCode": "CEL",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 2821,
+            "teamColors": {
+              "primary": "#6cace4",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "سيلتا فيغو",
+                "bn": "সেলটা ভিগো",
+                "ru": "Сельта"
+              },
+              "shortNameTranslation": {
+                "ar": "سيلتا",
+                "hi": "सेल्टा"
+              }
+            }
+          },
+          "type": 0,
+          "id": 24336,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو ب",
+              "ru": "Сельта Виго Б"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا ب"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 31,
+          "accuratePass": 27,
+          "totalLongBalls": 10,
+          "accurateLongBalls": 6,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 23,
+          "totalOwnHalfPasses": 23,
+          "accurateOppositionHalfPasses": 4,
+          "totalOppositionHalfPasses": 8,
+          "totalCross": 0,
+          "accurateCross": 0,
+          "aerialLost": 0,
+          "aerialWon": 1,
+          "duelLost": 0,
+          "duelWon": 1,
+          "challengeLost": 0,
+          "totalContest": 0,
+          "wonContest": 0,
+          "onTargetScoringAttempt": 0,
+          "goals": 0,
+          "totalClearance": 0,
+          "outfielderBlock": 0,
+          "ballRecovery": 5,
+          "totalTackle": 0,
+          "wonTackle": 0,
+          "errorLeadToAShot": 0,
+          "ownGoals": 0,
+          "unsuccessfulTouch": 0,
+          "wasFouled": 0,
+          "fouls": 0,
+          "totalOffside": 0,
+          "crossNotClaimed": 0,
+          "goodHighClaim": 1,
+          "savedShotsFromInsideTheBox": 3,
+          "saves": 3,
+          "totalKeeperSweeper": 1,
+          "accurateKeeperSweeper": 0,
+          "minutesPlayed": 90,
+          "touches": 35,
+          "rating": 7.7,
+          "possessionLostCtrl": 4,
+          "expectedGoals": 0,
+          "expectedAssists": 0,
+          "ratingVersions": {
+            "original": 7.7,
+            "alternative": null
+          },
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Las Palmas",
+        "abreviatura": "LPA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/27.png"
+      },
+      "visitante": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      }
+    },
+    "resultado": "0-1",
+    "fecha": "2024-10-05",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/17965-las-palmas-celta",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 12597994,
+      "match_info": {
+        "homeTeam": {
+          "name": "SD Ponferradina",
+          "shortName": "Ponferradina",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Celta Fortuna",
+          "shortName": "Celta Fortuna",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "startTimestamp": 1728142200,
+        "slug": "celta-vigo-sd-ponferradina",
+        "fecha_normalizada": "2024-10-05"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Marc Vidal",
+          "firstName": "Marc",
+          "lastName": "Vidal",
+          "slug": "marc-vidal",
+          "shortName": "M. Vidal",
+          "position": "G",
+          "jerseyNumber": "25",
+          "height": 183,
+          "userCount": 143,
+          "gender": "M",
+          "id": 905443,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 950486400,
+          "proposedMarketValueRaw": {
+            "value": 310000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فيدال، مارك",
+              "ru": "Марсель Видаль"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فيدال",
+              "ru": "М. Видаль"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Fortuna",
+          "slug": "celta-vigo-b",
+          "shortName": "Celta Fortuna",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 5602,
+          "nameCode": "CFU",
+          "disabled": false,
+          "national": false,
+          "parentTeam": {
+            "name": "Celta Vigo",
+            "slug": "celta-vigo",
+            "shortName": "Celta",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 266335,
+            "nameCode": "CEL",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 2821,
+            "teamColors": {
+              "primary": "#6cace4",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "سيلتا فيغو",
+                "bn": "সেলটা ভিগো",
+                "ru": "Сельта"
+              },
+              "shortNameTranslation": {
+                "ar": "سيلتا",
+                "hi": "सेल्टा"
+              }
+            }
+          },
+          "type": 0,
+          "id": 24336,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو ب",
+              "ru": "Сельта Виго Б"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا ب"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 20,
+          "accuratePass": 17,
+          "totalLongBalls": 3,
+          "accurateLongBalls": 0,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 17,
+          "totalOwnHalfPasses": 18,
+          "totalOppositionHalfPasses": 2,
+          "totalCross": 0,
+          "accurateCross": 0,
+          "aerialLost": 0,
+          "aerialWon": 0,
+          "duelLost": 0,
+          "duelWon": 0,
+          "challengeLost": 0,
+          "totalContest": 0,
+          "wonContest": 0,
+          "onTargetScoringAttempt": 0,
+          "goals": 0,
+          "totalClearance": 0,
+          "outfielderBlock": 0,
+          "ballRecovery": 3,
+          "totalTackle": 0,
+          "wonTackle": 0,
+          "errorLeadToAShot": 0,
+          "ownGoals": 0,
+          "unsuccessfulTouch": 0,
+          "wasFouled": 0,
+          "fouls": 0,
+          "totalOffside": 0,
+          "crossNotClaimed": 0,
+          "goodHighClaim": 0,
+          "saves": 3,
+          "totalKeeperSweeper": 1,
+          "accurateKeeperSweeper": 0,
+          "minutesPlayed": 90,
+          "touches": 21,
+          "rating": 6.4,
+          "possessionLostCtrl": 3,
+          "expectedGoals": 0,
+          "expectedAssists": 0,
+          "ratingVersions": {
+            "original": 6.4,
+            "alternative": null
+          },
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  }
+]
