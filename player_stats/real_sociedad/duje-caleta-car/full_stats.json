@@ -3706,126 +3706,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Espanyol",
-        "abreviatura": "ESP",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
-      },
-      "visitante": {
-        "nombre": "Real Sociedad",
-        "abreviatura": "RSO",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
-      }
-    },
-    "resultado": "1-1",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20445-espanyol-real-sociedad",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083719,
-      "match_info": {
-        "homeTeam": {
-          "name": "Espanyol",
-          "shortName": "Espanyol",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Real Sociedad",
-          "shortName": "Real Sociedad",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-sociedad-espanyol",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Duje Ćaleta-Car",
-          "slug": "duje-caleta-car",
-          "shortName": "D. Ćaleta-Car",
-          "position": "D",
-          "jerseyNumber": "16",
-          "height": 192,
-          "userCount": 3321,
-          "gender": "M",
-          "id": 257091,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 842918400,
-          "proposedMarketValueRaw": {
-            "value": 2900000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "دويي تشاليتا تسار",
-              "bn": "দুই শ্যালেটা-কার",
-              "hi": "दूजे कालता-कार",
-              "ru": "Дуе Чалета-Цар"
-            },
-            "shortNameTranslation": {
-              "ar": "د. تشاليتا تسار",
-              "bn": "ডি. শ্যালেটা-কার",
-              "hi": "डी. कालता-कार",
-              "ru": "Д. Чалета-Цар"
-            }
-          }
-        },
-        "team": {
-          "name": "Real Sociedad",
-          "slug": "real-sociedad",
-          "shortName": "Real Sociedad",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 413040,
-          "nameCode": "RSO",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2824,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#0077c7",
-            "text": "#0077c7"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ريال سوسيداد",
-              "bn": "রিয়াল সোসিয়েদাদ",
-              "hi": "रियल सोसियदाद",
-              "ru": "Реал Сосьедад"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "D",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Valencia",
         "abreviatura": "VAL",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/18.png"
@@ -7101,6 +6981,126 @@
           "passValueNormalized": 0.13,
           "dribbleValueNormalized": 0.01,
           "defensiveValueNormalized": 0.19,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Espanyol",
+        "abreviatura": "ESP",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
+      },
+      "visitante": {
+        "nombre": "Real Sociedad",
+        "abreviatura": "RSO",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20445-espanyol-real-sociedad",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083719,
+      "match_info": {
+        "homeTeam": {
+          "name": "Espanyol",
+          "shortName": "Espanyol",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Real Sociedad",
+          "shortName": "Real Sociedad",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-sociedad-espanyol"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Duje Ćaleta-Car",
+          "slug": "duje-caleta-car",
+          "shortName": "D. Ćaleta-Car",
+          "position": "D",
+          "jerseyNumber": "55",
+          "height": 192,
+          "userCount": 3429,
+          "gender": "M",
+          "sofascoreId": "j5245r",
+          "id": 257091,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 842918400,
+          "proposedMarketValueRaw": {
+            "value": 2900000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "دويي تشاليتا تسار",
+              "bn": "দুই শ্যালেটা-কার",
+              "hi": "दूजे कालता-कार",
+              "ru": "Дуе Чалета-Цар"
+            },
+            "shortNameTranslation": {
+              "ar": "د. تشاليتا تسار",
+              "bn": "ডি. শ্যালেটা-কার",
+              "hi": "डी. कालता-कार",
+              "ru": "Д. Чалета-Цар"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Sociedad",
+          "slug": "real-sociedad",
+          "shortName": "Real Sociedad",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 417327,
+          "nameCode": "RSO",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2824,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#0077c7",
+            "text": "#0077c7"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال سوسيداد",
+              "bn": "রিয়াল সোসিয়েদাদ",
+              "hi": "रियल सोसियदाद",
+              "ru": "Реал Сосьедад"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

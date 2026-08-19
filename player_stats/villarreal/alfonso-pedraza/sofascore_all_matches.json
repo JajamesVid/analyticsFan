@@ -3510,141 +3510,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Alfonso Pedraza",
-        "firstName": "Alfonso",
-        "lastName": "Pedraza",
-        "slug": "alfonso-pedraza",
-        "shortName": "A. Pedraza",
-        "position": "D",
-        "jerseyNumber": "24",
-        "height": 184,
-        "userCount": 600,
-        "gender": "M",
-        "id": 797290,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 829008000,
-        "proposedMarketValueRaw": {
-          "value": 2400000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ألفونسو بيدرازا",
-            "bn": "আলফোনসো পেড্রাজা",
-            "hi": "अल्फोंसो पेड्राज़ा",
-            "ru": "Альфонсо Педраза"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. بيدرازا",
-            "bn": "এ. পেড্রাজা",
-            "hi": "ए. पेड्राज़ा",
-            "ru": "А. Педраза"
-          }
-        }
-      },
-      "team": {
-        "name": "Villarreal",
-        "slug": "villarreal",
-        "shortName": "Villarreal",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 461754,
-        "nameCode": "VIL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2819,
-        "teamColors": {
-          "primary": "#ffff00",
-          "secondary": "#013765",
-          "text": "#013765"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فياريال",
-            "bn": "ভিলারিয়াল",
-            "hi": "विल्लारियल",
-            "ru": "Вильярреал"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 24,
-        "accuratePass": 16,
-        "totalLongBalls": 5,
-        "accurateLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 7,
-        "totalOwnHalfPasses": 11,
-        "accurateOppositionHalfPasses": 9,
-        "totalOppositionHalfPasses": 13,
-        "totalCross": 1,
-        "aerialLost": 1,
-        "aerialWon": 1,
-        "duelLost": 3,
-        "duelWon": 3,
-        "dispossessed": 1,
-        "totalContest": 2,
-        "wonContest": 1,
-        "totalClearance": 2,
-        "interceptionWon": 3,
-        "ballRecovery": 3,
-        "totalTackle": 1,
-        "unsuccessfulTouch": 2,
-        "minutesPlayed": 67,
-        "touches": 40,
-        "rating": 6.7,
-        "possessionLostCtrl": 13,
-        "expectedAssists": 0.207831,
-        "totalBallCarriesDistance": 119.77966737548,
-        "ballCarriesCount": 12,
-        "totalProgression": 44.174038718047,
-        "bestBallCarryProgression": 27.240319705046,
-        "totalProgressiveBallCarriesDistance": 35.018075689564,
-        "progressiveBallCarriesCount": 1,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 6.7,
-          "alternative": 7
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.32,
-        "dribbleValueNormalized": 0.2,
-        "defensiveValueNormalized": -0.09,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437524": {
     "id": 12437524,
     "match_info": {
@@ -22613,6 +22478,148 @@
         }
       },
       "position": "M",
+      "extra": null
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Alfonso Pedraza",
+        "firstName": "Alfonso",
+        "lastName": "Pedraza",
+        "slug": "alfonso-pedraza",
+        "shortName": "A. Pedraza",
+        "position": "D",
+        "jerseyNumber": "24",
+        "height": 184,
+        "userCount": 626,
+        "gender": "M",
+        "sofascoreId": "c24qeg",
+        "id": 797290,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 829008000,
+        "proposedMarketValueRaw": {
+          "value": 2400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ألفونسو بيدرازا",
+            "bn": "আলফোনসো পেড্রাজা",
+            "hi": "अल्फोंसो पेड्राज़ा",
+            "ru": "Альфонсо Педраза"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيدرازا",
+            "bn": "এ. পেড্রাজা",
+            "hi": "ए. पेड्राज़ा",
+            "ru": "А. Педраза"
+          }
+        }
+      },
+      "team": {
+        "name": "Villarreal",
+        "slug": "villarreal",
+        "shortName": "Villarreal",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 465801,
+        "nameCode": "VIL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2819,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#013765",
+          "text": "#013765"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فياريال",
+            "bn": "ভিলারিয়াল",
+            "hi": "विल्लारियल",
+            "ru": "Вильярреал"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 24,
+        "accuratePass": 16,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 7,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 13,
+        "totalCross": 1,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 3,
+        "dispossessed": 1,
+        "totalContest": 2,
+        "wonContest": 1,
+        "totalClearance": 2,
+        "interceptionWon": 3,
+        "ballRecovery": 3,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 2,
+        "minutesPlayed": 67,
+        "touches": 40,
+        "rating": 6.7,
+        "possessionLostCtrl": 13,
+        "expectedAssists": 0.207831,
+        "topSpeed": 31.84,
+        "kilometersCovered": 7.72,
+        "numberOfSprints": 8,
+        "totalBallCarriesDistance": 119.77966737548,
+        "ballCarriesCount": 12,
+        "totalProgression": 44.174038718047,
+        "bestBallCarryProgression": 27.240319705046,
+        "totalProgressiveBallCarriesDistance": 35.018075689564,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.32,
+        "dribbleValueNormalized": 0.2,
+        "defensiveValueNormalized": -0.09,
+        "metersCoveredRunningKm": 1.23,
+        "metersCoveredHighSpeedRunningKm": 0.3,
+        "metersCoveredSprintingKm": 0.17,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
       "extra": null
     }
   }

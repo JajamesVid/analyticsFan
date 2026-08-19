@@ -4257,127 +4257,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Espanyol",
-        "abreviatura": "ESP",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
-      },
-      "visitante": {
-        "nombre": "Real Sociedad",
-        "abreviatura": "RSO",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
-      }
-    },
-    "resultado": "1-1",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20445-espanyol-real-sociedad",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083719,
-      "match_info": {
-        "homeTeam": {
-          "name": "Espanyol",
-          "shortName": "Espanyol",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Real Sociedad",
-          "shortName": "Real Sociedad",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-sociedad-espanyol",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Jon Martin",
-          "firstName": "Jon Martín",
-          "slug": "vicente-jon-martin",
-          "shortName": "J. Martin",
-          "position": "D",
-          "jerseyNumber": "31",
-          "height": 185,
-          "userCount": 2349,
-          "gender": "M",
-          "id": 1466116,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 1145750400,
-          "proposedMarketValueRaw": {
-            "value": 24000000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "فيسنتي، جون مارتن",
-              "bn": "ভিসেন্ট, জন মার্টিন",
-              "hi": "विसेंट, जॉन मार्टिन",
-              "ru": "Джон Мартин"
-            },
-            "shortNameTranslation": {
-              "ar": "ف. مارتن",
-              "bn": "জে. মার্টিন",
-              "hi": "जे. मार्टिन",
-              "ru": "Д. Мартин"
-            }
-          }
-        },
-        "team": {
-          "name": "Real Sociedad",
-          "slug": "real-sociedad",
-          "shortName": "Real Sociedad",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 413040,
-          "nameCode": "RSO",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2824,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#0077c7",
-            "text": "#0077c7"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ريال سوسيداد",
-              "bn": "রিয়াল সোসিয়েদাদ",
-              "hi": "रियल सोसियदाद",
-              "ru": "Реал Сосьедад"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "D",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Real Madrid",
         "abreviatura": "RMD",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
@@ -15083,6 +14962,127 @@
         },
         "statistics": {
           "minutesPlayed": 90,
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Espanyol",
+        "abreviatura": "ESP",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
+      },
+      "visitante": {
+        "nombre": "Real Sociedad",
+        "abreviatura": "RSO",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20445-espanyol-real-sociedad",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083719,
+      "match_info": {
+        "homeTeam": {
+          "name": "Espanyol",
+          "shortName": "Espanyol",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Real Sociedad",
+          "shortName": "Real Sociedad",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-sociedad-espanyol"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Jon Martin",
+          "firstName": "Jon Martín",
+          "slug": "vicente-jon-martin",
+          "shortName": "J. Martin",
+          "position": "D",
+          "jerseyNumber": "31",
+          "height": 185,
+          "userCount": 2412,
+          "gender": "M",
+          "sofascoreId": "q4v6s9",
+          "id": 1466116,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1145750400,
+          "proposedMarketValueRaw": {
+            "value": 24000000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فيسنتي، جون مارتن",
+              "bn": "ভিসেন্ট, জন মার্টিন",
+              "hi": "विसेंट, जॉन मार्टिन",
+              "ru": "Джон Мартин"
+            },
+            "shortNameTranslation": {
+              "ar": "ف. مارتن",
+              "bn": "জে. মার্টিন",
+              "hi": "जे. मार्टिन",
+              "ru": "Д. Мартин"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Sociedad",
+          "slug": "real-sociedad",
+          "shortName": "Real Sociedad",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 417327,
+          "nameCode": "RSO",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2824,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#0077c7",
+            "text": "#0077c7"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال سوسيداد",
+              "bn": "রিয়াল সোসিয়েদাদ",
+              "hi": "रियल सोसियदाद",
+              "ru": "Реал Сосьедад"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
           "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",

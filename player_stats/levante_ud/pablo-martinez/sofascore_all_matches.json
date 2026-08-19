@@ -3748,142 +3748,6 @@
       "extra": null
     }
   },
-  "14083710": {
-    "id": 14083710,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Betis",
-        "shortName": "Real Betis",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "awayTeam": {
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "color": "#0e3b68",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "levante-ud-real-betis"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Pablo Martínez",
-        "firstName": "",
-        "lastName": "",
-        "slug": "pablo-martinez",
-        "shortName": "P. Martínez",
-        "position": "M",
-        "jerseyNumber": "10",
-        "height": 182,
-        "userCount": 363,
-        "gender": "M",
-        "id": 927066,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 888105600,
-        "proposedMarketValueRaw": {
-          "value": 3100000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "بابلو مارتينيز",
-            "bn": "পাবলো মার্টিনেজ",
-            "hi": "पाब्लो मार्टिनेज",
-            "ru": "Пабло Мартинес"
-          },
-          "shortNameTranslation": {
-            "ar": "ب. مارتينيز",
-            "bn": "পি. মার্টিনেজ",
-            "hi": "पी. मार्टिनेज",
-            "ru": "П. Мартинес"
-          }
-        }
-      },
-      "team": {
-        "name": "Levante UD",
-        "slug": "levante-ud",
-        "shortName": "Levante",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 116374,
-        "nameCode": "LEV",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2849,
-        "teamColors": {
-          "primary": "#0e3b68",
-          "secondary": "#d70000",
-          "text": "#d70000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ليفانتي يو دي",
-            "hi": "लेवांटे यूडी",
-            "ru": "Леванте"
-          },
-          "shortNameTranslation": {
-            "ar": "ليفانتي",
-            "bn": "লেভান্তে",
-            "hi": "लेवांते"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 38,
-        "accuratePass": 34,
-        "totalLongBalls": 1,
-        "accurateLongBalls": 1,
-        "goalAssist": 1,
-        "accurateOwnHalfPasses": 13,
-        "totalOwnHalfPasses": 13,
-        "accurateOppositionHalfPasses": 21,
-        "totalOppositionHalfPasses": 25,
-        "totalCross": 8,
-        "accurateCross": 4,
-        "aerialWon": 1,
-        "duelLost": 3,
-        "duelWon": 1,
-        "challengeLost": 2,
-        "bigChanceCreated": 1,
-        "outfielderBlock": 2,
-        "interceptionWon": 1,
-        "ballRecovery": 3,
-        "fouls": 1,
-        "minutesPlayed": 86,
-        "touches": 51,
-        "rating": 7.3,
-        "possessionLostCtrl": 8,
-        "expectedAssists": 0.655283,
-        "totalBallCarriesDistance": 162.73952697969,
-        "ballCarriesCount": 19,
-        "totalProgression": 59.398935055982,
-        "bestBallCarryProgression": 14.357104432148,
-        "totalProgressiveBallCarriesDistance": 15.834788568213,
-        "progressiveBallCarriesCount": 1,
-        "keyPass": 5,
-        "ratingVersions": {
-          "original": 7.3,
-          "alternative": 7.7
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.66,
-        "dribbleValueNormalized": 0.13,
-        "defensiveValueNormalized": -0.15,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12467618": {
     "id": 12467618,
     "match_info": {
@@ -24593,6 +24457,148 @@
         "possessionLostCtrl": 17,
         "keyPass": 2,
         "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083710": {
+    "id": 14083710,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "levante-ud-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Martínez",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pablo-martinez",
+        "shortName": "P. Martínez",
+        "position": "M",
+        "height": 182,
+        "userCount": 362,
+        "gender": "M",
+        "sofascoreId": "tdzbjy",
+        "id": 927066,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 888105600,
+        "proposedMarketValueRaw": {
+          "value": 3100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو مارتينيز",
+            "bn": "পাবলো মার্টিনেজ",
+            "hi": "पाब्लो मार्टिनेज",
+            "ru": "Пабло Мартинес"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. مارتينيز",
+            "bn": "পি. মার্টিনেজ",
+            "hi": "पी. मार्टिनेज",
+            "ru": "П. Мартинес"
+          }
+        }
+      },
+      "team": {
+        "name": "Levante UD",
+        "slug": "levante-ud",
+        "shortName": "Levante",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 117899,
+        "nameCode": "LEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2849,
+        "teamColors": {
+          "primary": "#0e3b68",
+          "secondary": "#d70000",
+          "text": "#d70000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفانتي",
+            "hi": "लेवांटे यूडी",
+            "ru": "Леванте"
+          },
+          "shortNameTranslation": {
+            "ar": "ليفانتي",
+            "bn": "লেভান্তে",
+            "hi": "लेवांते"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 38,
+        "accuratePass": 34,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 1,
+        "accurateOwnHalfPasses": 13,
+        "totalOwnHalfPasses": 13,
+        "accurateOppositionHalfPasses": 21,
+        "totalOppositionHalfPasses": 25,
+        "totalCross": 8,
+        "accurateCross": 4,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 1,
+        "challengeLost": 2,
+        "bigChanceCreated": 1,
+        "outfielderBlock": 2,
+        "interceptionWon": 1,
+        "ballRecovery": 3,
+        "fouls": 1,
+        "minutesPlayed": 86,
+        "touches": 51,
+        "rating": 7.3,
+        "possessionLostCtrl": 8,
+        "expectedAssists": 0.655283,
+        "topSpeed": 30.98,
+        "kilometersCovered": 10.64,
+        "numberOfSprints": 10,
+        "totalBallCarriesDistance": 162.73952697969,
+        "ballCarriesCount": 19,
+        "totalProgression": 59.398935055982,
+        "bestBallCarryProgression": 14.357104432148,
+        "totalProgressiveBallCarriesDistance": 15.834788568213,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 5,
+        "ratingVersions": {
+          "original": 7.3,
+          "alternative": 7.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.66,
+        "dribbleValueNormalized": 0.13,
+        "defensiveValueNormalized": -0.15,
+        "metersCoveredRunningKm": 2.08,
+        "metersCoveredHighSpeedRunningKm": 0.69,
+        "metersCoveredSprintingKm": 0.2,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

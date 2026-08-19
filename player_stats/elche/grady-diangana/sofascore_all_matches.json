@@ -3516,101 +3516,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Grady Diangana",
-        "firstName": "Grady",
-        "lastName": "Diangana",
-        "slug": "grady-diangana",
-        "shortName": "G. Diangana",
-        "position": "M",
-        "jerseyNumber": "19",
-        "height": 180,
-        "userCount": 3348,
-        "gender": "M",
-        "sofascoreId": "8ife5w",
-        "id": 848512,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 892944000,
-        "proposedMarketValueRaw": {
-          "value": 2100000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "جرادي ديانجانا",
-            "bn": "গ্র্যাডি দিয়াংগানা",
-            "hi": "ग्रैडी डिआंगाना",
-            "ru": "Грэйди Диангана"
-          },
-          "shortNameTranslation": {
-            "ar": "ج. ديانجانا",
-            "bn": "জি. দিয়াংগানা",
-            "hi": "जी. डिआंगाना",
-            "ru": "Г. Диангана"
-          }
-        }
-      },
-      "team": {
-        "name": "Elche",
-        "slug": "elche",
-        "shortName": "Elche",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 116534,
-        "nameCode": "ELC",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2846,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#336600",
-          "text": "#336600"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إلتشي",
-            "bn": "এলচে",
-            "hi": "एल्चे",
-            "ru": "Эльче"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12468877": {
     "id": 12468877,
     "match_info": {
@@ -24644,6 +24549,101 @@
         }
       },
       "position": "M",
+      "extra": null
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Grady Diangana",
+        "firstName": "Grady",
+        "lastName": "Diangana",
+        "slug": "grady-diangana",
+        "shortName": "G. Diangana",
+        "position": "M",
+        "jerseyNumber": "19",
+        "height": 180,
+        "userCount": 3382,
+        "gender": "M",
+        "sofascoreId": "8ife5w",
+        "id": 848512,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 892944000,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جرادي ديانجانا",
+            "bn": "গ্র্যাডি দিয়াংগানা",
+            "hi": "ग्रैडी डिआंगाना",
+            "ru": "Грэйди Диангана"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. ديانجانا",
+            "bn": "জি. দিয়াংগানা",
+            "hi": "जी. डिआंगाना",
+            "ru": "Г. Диангана"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 118908,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
       "extra": null
     }
   }

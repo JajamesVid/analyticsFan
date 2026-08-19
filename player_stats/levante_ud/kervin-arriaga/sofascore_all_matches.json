@@ -3455,137 +3455,6 @@
       "extra": null
     }
   },
-  "14083710": {
-    "id": 14083710,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Betis",
-        "shortName": "Real Betis",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "awayTeam": {
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "color": "#0e3b68",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "levante-ud-real-betis"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Kervin Arriaga",
-        "firstName": "Kervin Arriaga",
-        "slug": "kervin-arriaga",
-        "shortName": "K. Arriaga",
-        "position": "M",
-        "jerseyNumber": "16",
-        "height": 191,
-        "userCount": 2724,
-        "gender": "M",
-        "id": 1083832,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 883958400,
-        "proposedMarketValueRaw": {
-          "value": 2100000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "كيرفين أرياجا",
-            "bn": "কেরভিন আরিয়াগা",
-            "hi": "केर्विन अरियागा",
-            "ru": "Кервин Арриага"
-          },
-          "shortNameTranslation": {
-            "ar": "ك. أرياجا",
-            "bn": "কে. আরিয়াগা",
-            "hi": "के. अरियागा",
-            "ru": "К. Арриага"
-          }
-        }
-      },
-      "team": {
-        "name": "Levante UD",
-        "slug": "levante-ud",
-        "shortName": "Levante",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 116374,
-        "nameCode": "LEV",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2849,
-        "teamColors": {
-          "primary": "#0e3b68",
-          "secondary": "#d70000",
-          "text": "#d70000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ليفانتي يو دي",
-            "hi": "लेवांटे यूडी",
-            "ru": "Леванте"
-          },
-          "shortNameTranslation": {
-            "ar": "ليفانتي",
-            "bn": "লেভান্তে",
-            "hi": "लेवांते"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 25,
-        "accuratePass": 18,
-        "totalLongBalls": 3,
-        "accurateLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 10,
-        "totalOwnHalfPasses": 12,
-        "accurateOppositionHalfPasses": 8,
-        "totalOppositionHalfPasses": 13,
-        "aerialWon": 1,
-        "duelWon": 4,
-        "totalClearance": 1,
-        "outfielderBlock": 1,
-        "ballRecovery": 1,
-        "totalTackle": 2,
-        "wonTackle": 1,
-        "wasFouled": 1,
-        "minutesPlayed": 45,
-        "touches": 31,
-        "rating": 6.9,
-        "possessionLostCtrl": 7,
-        "expectedAssists": 0.0112507,
-        "totalBallCarriesDistance": 70.008494157302,
-        "ballCarriesCount": 7,
-        "totalProgression": 51.260670068014,
-        "bestBallCarryProgression": 19.528239119284,
-        "totalProgressiveBallCarriesDistance": 20.90447081368,
-        "progressiveBallCarriesCount": 1,
-        "ratingVersions": {
-          "original": 6.9,
-          "alternative": 6.9
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.05,
-        "dribbleValueNormalized": 0.05,
-        "defensiveValueNormalized": 0.17,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "16118858": {
     "id": 16118858,
     "match_info": {
@@ -21938,6 +21807,144 @@
         "rating": 6.4,
         "possessionLostCtrl": 2,
         "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083710": {
+    "id": 14083710,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "levante-ud-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kervin Arriaga",
+        "firstName": "Kervin Arriaga",
+        "slug": "kervin-arriaga",
+        "shortName": "K. Arriaga",
+        "position": "M",
+        "jerseyNumber": "16",
+        "height": 191,
+        "userCount": 2830,
+        "gender": "M",
+        "sofascoreId": "5f763y",
+        "id": 1083832,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 883958400,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيرفين أرياجا",
+            "bn": "কেরভিন আরিয়াগা",
+            "hi": "केर्विन अरियागा",
+            "ru": "Кервин Арриага"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. أرياجا",
+            "bn": "কে. আরিয়াগা",
+            "hi": "के. अरियागा",
+            "ru": "К. Арриага"
+          }
+        }
+      },
+      "team": {
+        "name": "Levante UD",
+        "slug": "levante-ud",
+        "shortName": "Levante",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 117899,
+        "nameCode": "LEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2849,
+        "teamColors": {
+          "primary": "#0e3b68",
+          "secondary": "#d70000",
+          "text": "#d70000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفانتي",
+            "hi": "लेवांटे यूडी",
+            "ru": "Леванте"
+          },
+          "shortNameTranslation": {
+            "ar": "ليفانتي",
+            "bn": "লেভান্তে",
+            "hi": "लेवांते"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 25,
+        "accuratePass": 18,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 10,
+        "totalOwnHalfPasses": 12,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 13,
+        "aerialWon": 1,
+        "duelWon": 4,
+        "totalClearance": 1,
+        "outfielderBlock": 1,
+        "ballRecovery": 1,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 45,
+        "touches": 31,
+        "rating": 6.9,
+        "possessionLostCtrl": 7,
+        "expectedAssists": 0.0112507,
+        "topSpeed": 32.08,
+        "kilometersCovered": 5.32,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 70.008494157302,
+        "ballCarriesCount": 7,
+        "totalProgression": 51.260670068014,
+        "bestBallCarryProgression": 19.528239119284,
+        "totalProgressiveBallCarriesDistance": 20.90447081368,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.05,
+        "dribbleValueNormalized": 0.05,
+        "defensiveValueNormalized": 0.17,
+        "metersCoveredRunningKm": 0.82,
+        "metersCoveredHighSpeedRunningKm": 0.33,
+        "metersCoveredSprintingKm": 0.06,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

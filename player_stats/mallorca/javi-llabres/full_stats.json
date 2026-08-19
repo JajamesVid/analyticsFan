@@ -4433,128 +4433,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Mallorca",
-        "abreviatura": "MAL",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
-      },
-      "visitante": {
-        "nombre": "Real Oviedo",
-        "abreviatura": "ROV",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/43.png"
-      }
-    },
-    "resultado": "3-0",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20448-mallorca-real-oviedo",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083727,
-      "match_info": {
-        "homeTeam": {
-          "name": "Mallorca",
-          "shortName": "Mallorca",
-          "color": "#cc0000",
-          "score": 3
-        },
-        "awayTeam": {
-          "name": "Real Oviedo",
-          "shortName": "Real Oviedo",
-          "color": "#3300ff",
-          "score": 0
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-oviedo-mallorca",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Javi Llabrés",
-          "firstName": "Javi Llabrés",
-          "lastName": "",
-          "slug": "javi-llabres",
-          "shortName": "J. Llabrés",
-          "position": "M",
-          "height": 174,
-          "userCount": 134,
-          "gender": "M",
-          "sofascoreId": "zb2fin",
-          "id": 1162309,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 1031702400,
-          "proposedMarketValueRaw": {
-            "value": 845000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "خافي لابريس",
-              "bn": "জাভি লাব্রেস",
-              "hi": "जावी लाब्रेस",
-              "ru": "Хави Ллабрес"
-            },
-            "shortNameTranslation": {
-              "ar": "خ. لابريس",
-              "bn": "জে. লাব্রেস",
-              "hi": "जे. लाब्रेस",
-              "ru": "Х. Ллабрес"
-            }
-          }
-        },
-        "team": {
-          "name": "Mallorca",
-          "slug": "mallorca",
-          "shortName": "Mallorca",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 201002,
-          "nameCode": "MLL",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2826,
-          "teamColors": {
-            "primary": "#cc0000",
-            "secondary": "#000000",
-            "text": "#000000"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "مايوركا",
-              "bn": "ম্যালোর্কা",
-              "hi": "मल्लोर्का",
-              "ru": "Мальорка"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "F",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Celta",
         "abreviatura": "CEL",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
@@ -14115,6 +13993,127 @@
         },
         "statistics": {
           "expectedGoalsOnTarget": 0,
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      },
+      "visitante": {
+        "nombre": "Real Oviedo",
+        "abreviatura": "ROV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/43.png"
+      }
+    },
+    "resultado": "3-0",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20448-mallorca-real-oviedo",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083727,
+      "match_info": {
+        "homeTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Real Oviedo",
+          "shortName": "Real Oviedo",
+          "color": "#3300ff",
+          "score": 0
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-oviedo-mallorca"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Javi Llabrés",
+          "firstName": "Javi Llabrés",
+          "lastName": "",
+          "slug": "javi-llabres",
+          "shortName": "J. Llabrés",
+          "position": "M",
+          "height": 174,
+          "userCount": 139,
+          "gender": "M",
+          "sofascoreId": "zb2fin",
+          "id": 1162309,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1031702400,
+          "proposedMarketValueRaw": {
+            "value": 845000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "خافي لابريس",
+              "bn": "জাভি লাব্রেস",
+              "hi": "जावी लाब्रेस",
+              "ru": "Хави Ллабрес"
+            },
+            "shortNameTranslation": {
+              "ar": "خ. لابريس",
+              "bn": "জে. লাব্রেস",
+              "hi": "जे. लाब्रेस",
+              "ru": "Х. Ллабрес"
+            }
+          }
+        },
+        "team": {
+          "name": "Mallorca",
+          "slug": "mallorca",
+          "shortName": "Mallorca",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 202209,
+          "nameCode": "MLL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2826,
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مايوركا",
+              "bn": "ম্যালোর্কা",
+              "hi": "मल्लोर्का",
+              "ru": "Мальорка"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
           "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",

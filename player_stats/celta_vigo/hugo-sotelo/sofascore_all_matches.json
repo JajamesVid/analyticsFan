@@ -3254,101 +3254,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Hugo Sotelo",
-        "firstName": "Hugo Sotelo",
-        "slug": "hugo-sotelo",
-        "shortName": "H. Sotelo",
-        "position": "M",
-        "jerseyNumber": "22",
-        "height": 180,
-        "userCount": 792,
-        "gender": "M",
-        "id": 1120669,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1071792000,
-        "proposedMarketValueRaw": {
-          "value": 7200000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "هوغو سوتيلو",
-            "bn": "হুগো সোটেলো",
-            "hi": "ह्यूगो सोटेलो",
-            "ru": "Джулиано Фигерас"
-          },
-          "shortNameTranslation": {
-            "ar": "ه. سوتيلو",
-            "bn": "এইচ. সোটেলো",
-            "hi": "एच. सोटेलो",
-            "ru": "Д. Фигерас"
-          }
-        }
-      },
-      "team": {
-        "name": "Celta Vigo",
-        "slug": "celta-vigo",
-        "shortName": "Celta",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 266335,
-        "nameCode": "CEL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2821,
-        "teamColors": {
-          "primary": "#6cace4",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "سيلتا فيغو",
-            "bn": "সেলটা ভিগো",
-            "ru": "Сельта"
-          },
-          "shortNameTranslation": {
-            "ar": "سيلتا",
-            "hi": "सेल्टा"
-          }
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12437532": {
     "id": 12437532,
     "match_info": {
@@ -17555,6 +17460,102 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Hugo Sotelo",
+        "firstName": "Hugo Sotelo",
+        "slug": "hugo-sotelo",
+        "shortName": "H. Sotelo",
+        "position": "M",
+        "jerseyNumber": "22",
+        "height": 180,
+        "userCount": 820,
+        "gender": "M",
+        "sofascoreId": "kmna3a",
+        "id": 1120669,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1071792000,
+        "proposedMarketValueRaw": {
+          "value": 4800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هوغو سوتيلو",
+            "bn": "হুগো সোটেলো",
+            "hi": "ह्यूगो सोटेलो",
+            "ru": "Уго Сотело"
+          },
+          "shortNameTranslation": {
+            "ar": "ه. سوتيلو",
+            "bn": "এইচ. সোটেলো",
+            "hi": "एच. सोटेलो",
+            "ru": "У. Сотело"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 267822,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
     }
   }
 }

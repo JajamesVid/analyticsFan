@@ -3446,125 +3446,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Javi Morcillo",
-        "slug": "javi-morcillo",
-        "shortName": "J. Morcillo",
-        "position": "M",
-        "jerseyNumber": "47",
-        "height": 183,
-        "userCount": 228,
-        "gender": "M",
-        "id": 1832076,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1142380800,
-        "proposedMarketValueRaw": {
-          "value": 105000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "خافي مورسيّو",
-            "ru": "Хави Морсильо"
-          },
-          "shortNameTranslation": {
-            "ar": "خ. مورسيّو",
-            "ru": "Х. Морсильо"
-          }
-        }
-      },
-      "team": {
-        "name": "Atlético Madrid",
-        "slug": "atletico-madrid",
-        "shortName": "Atl. Madrid",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 2590653,
-        "nameCode": "ATM",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2836,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#c40000",
-          "text": "#c40000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أتلتيكو مدريد",
-            "hi": "एटलेटिको मैड्रिड",
-            "ru": "Атлетико Мадрид"
-          },
-          "shortNameTranslation": {
-            "ar": "أتل. مدريد",
-            "bn": "এটিএল. মাদ্রিদ"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 18,
-        "accuratePass": 17,
-        "totalLongBalls": 1,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 4,
-        "totalOwnHalfPasses": 4,
-        "accurateOppositionHalfPasses": 13,
-        "totalOppositionHalfPasses": 14,
-        "duelLost": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 1,
-        "fouls": 1,
-        "minutesPlayed": 29,
-        "touches": 20,
-        "rating": 6.7,
-        "possessionLostCtrl": 1,
-        "expectedAssists": 0.0194532,
-        "totalBallCarriesDistance": 60.343169986219,
-        "ballCarriesCount": 8,
-        "totalProgression": 46.960329811973,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.7,
-          "alternative": 6.7
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.09,
-        "dribbleValueNormalized": 0.08,
-        "defensiveValueNormalized": 0.13,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "16236411": {
     "id": 16236411,
     "match_info": {
@@ -5985,6 +5866,132 @@
           "alternative": null
         },
         "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi Morcillo",
+        "slug": "javi-morcillo",
+        "shortName": "J. Morcillo",
+        "position": "M",
+        "jerseyNumber": "47",
+        "height": 183,
+        "userCount": 240,
+        "gender": "M",
+        "sofascoreId": "ekefz3",
+        "id": 1832076,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1142380800,
+        "proposedMarketValueRaw": {
+          "value": 515000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافي مورسيّو",
+            "ru": "Хави Морсильо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مورسيّو",
+            "ru": "Х. Морсильо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atl. Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2635078,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 18,
+        "accuratePass": 17,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 13,
+        "totalOppositionHalfPasses": 14,
+        "duelLost": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 1,
+        "fouls": 1,
+        "minutesPlayed": 29,
+        "touches": 20,
+        "rating": 6.7,
+        "possessionLostCtrl": 1,
+        "expectedAssists": 0.0194532,
+        "topSpeed": 30.07,
+        "kilometersCovered": 3.46,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 60.343169986219,
+        "ballCarriesCount": 8,
+        "totalProgression": 46.960329811973,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.09,
+        "dribbleValueNormalized": 0.08,
+        "defensiveValueNormalized": 0.13,
+        "metersCoveredRunningKm": 0.76,
+        "metersCoveredHighSpeedRunningKm": 0.24,
+        "metersCoveredSprintingKm": 0.04,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

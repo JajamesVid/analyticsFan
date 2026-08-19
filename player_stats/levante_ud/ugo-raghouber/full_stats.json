@@ -3802,8 +3802,7 @@
           "score": 1
         },
         "startTimestamp": 1779562800,
-        "slug": "levante-ud-real-betis",
-        "fecha_normalizada": "2026-05-23"
+        "slug": "levante-ud-real-betis"
       },
       "player_stats": {
         "player": {
@@ -3813,10 +3812,11 @@
           "slug": "ugo-raghouber",
           "shortName": "U. Raghouber",
           "position": "M",
-          "jerseyNumber": "14",
+          "jerseyNumber": "8",
           "height": 180,
-          "userCount": 393,
+          "userCount": 419,
           "gender": "M",
+          "sofascoreId": "fp6h2c",
           "id": 1170694,
           "marketValueCurrency": "EUR",
           "dateOfBirthTimestamp": 1058054400,
@@ -3849,7 +3849,7 @@
             "slug": "football",
             "id": 1
           },
-          "userCount": 116374,
+          "userCount": 117899,
           "nameCode": "LEV",
           "disabled": false,
           "national": false,
@@ -3862,7 +3862,7 @@
           },
           "fieldTranslations": {
             "nameTranslation": {
-              "ar": "ليفانتي يو دي",
+              "ar": "ليفانتي",
               "hi": "लेवांटे यूडी",
               "ru": "Леванте"
             },
@@ -3892,6 +3892,9 @@
           "rating": 6.8,
           "possessionLostCtrl": 3,
           "expectedAssists": 0.00837908,
+          "topSpeed": 26.51,
+          "kilometersCovered": 2.01,
+          "numberOfSprints": 2,
           "totalBallCarriesDistance": 86.679647520035,
           "ballCarriesCount": 7,
           "totalProgression": 77.235115076336,
@@ -3907,6 +3910,9 @@
           "passValueNormalized": -0.05,
           "dribbleValueNormalized": 0.14,
           "defensiveValueNormalized": 0.15,
+          "metersCoveredRunningKm": 0.4,
+          "metersCoveredHighSpeedRunningKm": 0.2,
+          "metersCoveredSprintingKm": 0.02,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

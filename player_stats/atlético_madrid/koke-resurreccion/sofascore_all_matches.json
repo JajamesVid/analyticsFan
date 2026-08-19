@@ -3924,145 +3924,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Koke",
-        "slug": "koke",
-        "shortName": "Koke",
-        "position": "M",
-        "jerseyNumber": "6",
-        "height": 177,
-        "userCount": 6913,
-        "gender": "M",
-        "sofascoreId": "Koke6",
-        "id": 84539,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 694828800,
-        "proposedMarketValueRaw": {
-          "value": 4600000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "كوكي",
-            "bn": "কোকে",
-            "hi": "कोके",
-            "ru": "Коке"
-          },
-          "shortNameTranslation": {
-            "ar": "كوكي",
-            "bn": "কোকে",
-            "hi": "कोके"
-          }
-        }
-      },
-      "team": {
-        "name": "Atlético Madrid",
-        "slug": "atletico-madrid",
-        "shortName": "Atl. Madrid",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 2600318,
-        "nameCode": "ATM",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2836,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#c40000",
-          "text": "#c40000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أتلتيكو مدريد",
-            "hi": "एटलेटिको मैड्रिड",
-            "ru": "Атлетико Мадрид"
-          },
-          "shortNameTranslation": {
-            "ar": "أتل. مدريد",
-            "bn": "এটিএল. মাদ্রিদ"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 87,
-        "accuratePass": 76,
-        "totalLongBalls": 12,
-        "accurateLongBalls": 7,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 26,
-        "totalOwnHalfPasses": 27,
-        "accurateOppositionHalfPasses": 50,
-        "totalOppositionHalfPasses": 60,
-        "totalCross": 6,
-        "accurateCross": 1,
-        "aerialLost": 1,
-        "duelLost": 2,
-        "challengeLost": 1,
-        "bigChanceCreated": 2,
-        "totalClearance": 1,
-        "outfielderBlock": 2,
-        "interceptionWon": 1,
-        "ballRecovery": 8,
-        "unsuccessfulTouch": 1,
-        "minutesPlayed": 90,
-        "touches": 101,
-        "rating": 6.9,
-        "possessionLostCtrl": 17,
-        "expectedAssists": 0.20928,
-        "topSpeed": 26.97,
-        "kilometersCovered": 11.5,
-        "numberOfSprints": 3,
-        "totalBallCarriesDistance": 246.41794269541,
-        "ballCarriesCount": 29,
-        "totalProgression": 122.18400938398,
-        "bestBallCarryProgression": 20.892953337409,
-        "totalProgressiveBallCarriesDistance": 36.338825342483,
-        "progressiveBallCarriesCount": 2,
-        "keyPass": 3,
-        "ratingVersions": {
-          "original": 6.9,
-          "alternative": 7.6
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.39,
-        "dribbleValueNormalized": 0.26,
-        "defensiveValueNormalized": -0.18,
-        "metersCoveredRunningKm": 2.63,
-        "metersCoveredHighSpeedRunningKm": 0.47,
-        "metersCoveredSprintingKm": 0.03,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "14050563": {
     "id": 14050563,
     "match_info": {
@@ -26061,6 +25922,145 @@
           "alternative": 7.7
         },
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Koke",
+        "slug": "koke",
+        "shortName": "Koke",
+        "position": "M",
+        "jerseyNumber": "6",
+        "height": 177,
+        "userCount": 7041,
+        "gender": "M",
+        "sofascoreId": "Koke6",
+        "id": 84539,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 694828800,
+        "proposedMarketValueRaw": {
+          "value": 4600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كوكي",
+            "bn": "কোকে",
+            "hi": "कोके",
+            "ru": "Коке"
+          },
+          "shortNameTranslation": {
+            "ar": "كوكي",
+            "bn": "কোকে",
+            "hi": "कोके"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atl. Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2635078,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 87,
+        "accuratePass": 76,
+        "totalLongBalls": 12,
+        "accurateLongBalls": 7,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 26,
+        "totalOwnHalfPasses": 27,
+        "accurateOppositionHalfPasses": 50,
+        "totalOppositionHalfPasses": 60,
+        "totalCross": 6,
+        "accurateCross": 1,
+        "aerialLost": 1,
+        "duelLost": 2,
+        "challengeLost": 1,
+        "bigChanceCreated": 2,
+        "totalClearance": 1,
+        "outfielderBlock": 2,
+        "interceptionWon": 1,
+        "ballRecovery": 8,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 90,
+        "touches": 101,
+        "rating": 6.9,
+        "possessionLostCtrl": 17,
+        "expectedAssists": 0.20928,
+        "topSpeed": 26.97,
+        "kilometersCovered": 11.5,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 246.41794269541,
+        "ballCarriesCount": 29,
+        "totalProgression": 122.18400938398,
+        "bestBallCarryProgression": 20.892953337409,
+        "totalProgressiveBallCarriesDistance": 36.338825342483,
+        "progressiveBallCarriesCount": 2,
+        "keyPass": 3,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 7.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.39,
+        "dribbleValueNormalized": 0.26,
+        "defensiveValueNormalized": -0.18,
+        "metersCoveredRunningKm": 2.63,
+        "metersCoveredHighSpeedRunningKm": 0.47,
+        "metersCoveredSprintingKm": 0.03,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

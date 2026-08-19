@@ -3661,139 +3661,6 @@
       "extra": null
     }
   },
-  "14083706": {
-    "id": 14083706,
-    "match_info": {
-      "homeTeam": {
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "color": "#0232a0",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Rayo Vallecano",
-        "shortName": "Rayo Vallecano",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "deportivo-alaves-rayo-vallecano"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Pablo Ibáñez",
-        "slug": "pablo-ibanez-lumbreras",
-        "shortName": "P. Ibáñez",
-        "position": "M",
-        "jerseyNumber": "19",
-        "height": 179,
-        "userCount": 377,
-        "gender": "M",
-        "id": 1084381,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 883612800,
-        "proposedMarketValueRaw": {
-          "value": 4099999,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "بابلو إيبانيز لومبريراس",
-            "bn": "পাবলো ইবনেজ লুম্বেরাস",
-            "hi": "पाब्लो इबानेज़ लुम्ब्रेरास",
-            "ru": "Пабло Ибаньес"
-          },
-          "shortNameTranslation": {
-            "ar": "ب. إ. لومبريراس",
-            "bn": "পি. আই. লুম্বেরাস",
-            "hi": "पी.आई. लुम्ब्रेरास",
-            "ru": "П. Ибаньес"
-          }
-        }
-      },
-      "team": {
-        "name": "Deportivo Alavés",
-        "slug": "deportivo-alaves",
-        "shortName": "Alavés",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 152876,
-        "nameCode": "ALA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2885,
-        "teamColors": {
-          "primary": "#0232a0",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ديبورتيفو ألافيس",
-            "ru": "Алавес"
-          },
-          "shortNameTranslation": {
-            "ar": "ألافيس",
-            "bn": "আলাভেস",
-            "hi": "अलावेस"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 19,
-        "accuratePass": 14,
-        "totalLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 6,
-        "totalOwnHalfPasses": 7,
-        "accurateOppositionHalfPasses": 8,
-        "totalOppositionHalfPasses": 12,
-        "totalCross": 3,
-        "accurateCross": 1,
-        "aerialLost": 1,
-        "duelLost": 1,
-        "duelWon": 5,
-        "onTargetScoringAttempt": 1,
-        "blockedScoringAttempt": 1,
-        "ballRecovery": 3,
-        "totalTackle": 3,
-        "wonTackle": 3,
-        "unsuccessfulTouch": 2,
-        "wasFouled": 2,
-        "minutesPlayed": 74,
-        "touches": 37,
-        "rating": 7.1,
-        "possessionLostCtrl": 10,
-        "expectedGoals": 0.2479,
-        "expectedGoalsOnTarget": 0.8125,
-        "expectedAssists": 0.0200577,
-        "totalBallCarriesDistance": 74.936349811465,
-        "ballCarriesCount": 11,
-        "totalProgression": 7.2595744570073,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 7.1,
-          "alternative": 7.1
-        },
-        "totalShots": 2,
-        "shotValueNormalized": 0.18,
-        "passValueNormalized": -0.04,
-        "dribbleValueNormalized": 0.2,
-        "defensiveValueNormalized": -0.01,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12437563": {
     "id": 12437563,
     "match_info": {
@@ -20963,6 +20830,146 @@
       "statistics": {
         "expectedGoalsOnTarget": 0,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083706": {
+    "id": 14083706,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "deportivo-alaves-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Ibáñez",
+        "slug": "pablo-ibanez-lumbreras",
+        "shortName": "P. Ibáñez",
+        "position": "M",
+        "jerseyNumber": "19",
+        "height": 179,
+        "userCount": 386,
+        "gender": "M",
+        "sofascoreId": "kmuffm",
+        "id": 1084381,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 883612800,
+        "proposedMarketValueRaw": {
+          "value": 4099999,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو إيبانيز لومبريراس",
+            "bn": "পাবলো ইবনেজ লুম্বেরাস",
+            "hi": "पाब्लो इबानेज़ लुम्ब्रेरास",
+            "ru": "Пабло Ибаньес"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. إ. لومبريراس",
+            "bn": "পি. আই. লুম্বেরাস",
+            "hi": "पी.आई. लुम्ब्रेरास",
+            "ru": "П. Ибаньес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 154032,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 19,
+        "accuratePass": 14,
+        "totalLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 6,
+        "totalOwnHalfPasses": 7,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 12,
+        "totalCross": 3,
+        "accurateCross": 1,
+        "aerialLost": 1,
+        "duelLost": 1,
+        "duelWon": 5,
+        "onTargetScoringAttempt": 1,
+        "blockedScoringAttempt": 1,
+        "ballRecovery": 3,
+        "totalTackle": 3,
+        "wonTackle": 3,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 2,
+        "minutesPlayed": 74,
+        "touches": 37,
+        "rating": 7.1,
+        "possessionLostCtrl": 10,
+        "expectedGoals": 0.2479,
+        "expectedGoalsOnTarget": 0.8125,
+        "expectedAssists": 0.0200577,
+        "topSpeed": 28.08,
+        "kilometersCovered": 8.27,
+        "numberOfSprints": 6,
+        "totalBallCarriesDistance": 74.936349811465,
+        "ballCarriesCount": 11,
+        "totalProgression": 7.2595744570073,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7.1,
+          "alternative": 7.1
+        },
+        "totalShots": 2,
+        "shotValueNormalized": 0.3,
+        "passValueNormalized": -0.04,
+        "dribbleValueNormalized": 0.2,
+        "defensiveValueNormalized": -0.01,
+        "metersCoveredRunningKm": 1.42,
+        "metersCoveredHighSpeedRunningKm": 0.52,
+        "metersCoveredSprintingKm": 0.05,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

@@ -2680,98 +2680,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Federico Gattoni",
-        "slug": "federico-gattoni",
-        "shortName": "F. Gattoni",
-        "position": "D",
-        "jerseyNumber": "22",
-        "height": 183,
-        "userCount": 729,
-        "gender": "M",
-        "id": 941464,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 919123200,
-        "proposedMarketValueRaw": {
-          "value": 720000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فيديريكو غاتوني",
-            "bn": "ফেদেরিকো গ্যাটোনি",
-            "hi": "फेडेरिको गैटोनी",
-            "ru": "Федерико Гаттоне"
-          },
-          "shortNameTranslation": {
-            "ar": "فيديريكو غاتوني",
-            "bn": "এফ. গ্যাটনি",
-            "hi": "एफ. गैटोनी",
-            "ru": "Ф. Гаттоне"
-          }
-        }
-      },
-      "team": {
-        "name": "Sevilla",
-        "slug": "sevilla",
-        "shortName": "Sevilla",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 400830,
-        "nameCode": "SEV",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2833,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#cc1020",
-          "text": "#cc1020"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إشبيلية",
-            "bn": "সেভিলা",
-            "hi": "सेविला",
-            "ru": "Cевилья"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12171326": {
     "id": 12171326,
     "match_info": {
@@ -21417,6 +21325,99 @@
         "rating": 7,
         "possessionLostCtrl": 6,
         "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Federico Gattoni",
+        "slug": "federico-gattoni",
+        "shortName": "F. Gattoni",
+        "position": "D",
+        "jerseyNumber": "22",
+        "height": 183,
+        "userCount": 768,
+        "gender": "M",
+        "sofascoreId": "5fdwj3",
+        "id": 941464,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 919123200,
+        "proposedMarketValueRaw": {
+          "value": 720000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيديريكو غاتوني",
+            "bn": "ফেদেরিকো গ্যাটোনি",
+            "hi": "फेडेरिको गैटोनी",
+            "ru": "Федерико Гаттоне"
+          },
+          "shortNameTranslation": {
+            "ar": "فيديريكو غاتوني",
+            "bn": "এফ. গ্যাটনি",
+            "hi": "एफ. गैटोनी",
+            "ru": "Ф. Гаттоне"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 405935,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Cевилья"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

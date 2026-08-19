@@ -3426,143 +3426,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Jude Bellingham",
-        "slug": "jude-bellingham",
-        "shortName": "J. Bellingham",
-        "position": "M",
-        "jerseyNumber": "5",
-        "height": 188,
-        "userCount": 1188496,
-        "gender": "M",
-        "sofascoreId": "JudeBell",
-        "id": 991011,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1056844800,
-        "proposedMarketValueRaw": {
-          "value": 132000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "جود بيلينغهام",
-            "bn": "জুড বেলিংহাম",
-            "hi": "जूड बेलिंघम"
-          },
-          "shortNameTranslation": {
-            "ar": "ج. بيلينغهام",
-            "bn": "জে. বেলিংহাম",
-            "hi": "जे. बेलिंघम"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Madrid",
-        "slug": "real-madrid",
-        "shortName": "Real Madrid",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 7733858,
-        "nameCode": "RMA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2829,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#004996",
-          "text": "#004996"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال مدريد",
-            "bn": "রিয়াল মাদ্রিদ",
-            "hi": "रियल मैड्रिड",
-            "ru": "Реал Мадрид"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 55,
-        "accuratePass": 51,
-        "totalLongBalls": 2,
-        "accurateLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 26,
-        "totalOwnHalfPasses": 26,
-        "accurateOppositionHalfPasses": 25,
-        "totalOppositionHalfPasses": 29,
-        "aerialLost": 2,
-        "duelLost": 8,
-        "duelWon": 5,
-        "challengeLost": 1,
-        "dispossessed": 1,
-        "totalContest": 2,
-        "wonContest": 1,
-        "onTargetScoringAttempt": 2,
-        "goals": 1,
-        "totalClearance": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 4,
-        "unsuccessfulTouch": 3,
-        "wasFouled": 4,
-        "fouls": 3,
-        "totalOffside": 1,
-        "minutesPlayed": 74,
-        "touches": 72,
-        "rating": 7.7,
-        "possessionLostCtrl": 10,
-        "expectedGoals": 0.1945,
-        "expectedGoalsOnTarget": 0.254,
-        "expectedAssists": 0.0583927,
-        "totalBallCarriesDistance": 184.78870523483,
-        "ballCarriesCount": 22,
-        "totalProgression": 34.132886404401,
-        "bestBallCarryProgression": 38.871023183113,
-        "totalProgressiveBallCarriesDistance": 39.268724056175,
-        "progressiveBallCarriesCount": 1,
-        "ratingVersions": {
-          "original": 7.7,
-          "alternative": 7.4
-        },
-        "totalShots": 2,
-        "shotValueNormalized": 0.47,
-        "passValueNormalized": 0.29,
-        "dribbleValueNormalized": 0.36,
-        "defensiveValueNormalized": -0.12,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "15926544": {
     "id": 15926544,
     "match_info": {
@@ -26882,6 +26745,151 @@
         "metersCoveredRunningKm": 0.35,
         "metersCoveredHighSpeedRunningKm": 0.15,
         "metersCoveredSprintingKm": 0.06,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Jude Bellingham",
+        "slug": "jude-bellingham",
+        "shortName": "J. Bellingham",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 188,
+        "userCount": 1382654,
+        "gender": "M",
+        "sofascoreId": "JudeBell",
+        "id": 991011,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1056844800,
+        "proposedMarketValueRaw": {
+          "value": 151000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جود بيلينغهام",
+            "bn": "জুড বেলিংহাম",
+            "hi": "जूड बेलिंघम",
+            "ru": "Джуд Беллингем"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. بيلينغهام",
+            "bn": "জে. বেলিংহাম",
+            "hi": "जे. बेलिंघम",
+            "ru": "Д. Беллингем"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Madrid",
+        "slug": "real-madrid",
+        "shortName": "Real Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 8378061,
+        "nameCode": "RMA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2829,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#004996",
+          "text": "#004996"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال مدريد",
+            "bn": "রিয়াল মাদ্রিদ",
+            "hi": "रियल मैड्रिड",
+            "ru": "Реал Мадрид"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 55,
+        "accuratePass": 51,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 26,
+        "totalOwnHalfPasses": 26,
+        "accurateOppositionHalfPasses": 25,
+        "totalOppositionHalfPasses": 29,
+        "aerialLost": 2,
+        "duelLost": 8,
+        "duelWon": 5,
+        "challengeLost": 1,
+        "dispossessed": 1,
+        "totalContest": 2,
+        "wonContest": 1,
+        "onTargetScoringAttempt": 2,
+        "goals": 1,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "unsuccessfulTouch": 3,
+        "wasFouled": 4,
+        "fouls": 3,
+        "totalOffside": 1,
+        "minutesPlayed": 74,
+        "touches": 72,
+        "rating": 7.7,
+        "possessionLostCtrl": 10,
+        "expectedGoals": 0.1945,
+        "expectedGoalsOnTarget": 0.254,
+        "expectedAssists": 0.0583927,
+        "topSpeed": 29.72,
+        "kilometersCovered": 8.37,
+        "numberOfSprints": 7,
+        "totalBallCarriesDistance": 184.78870523483,
+        "ballCarriesCount": 22,
+        "totalProgression": 34.132886404401,
+        "bestBallCarryProgression": 38.871023183113,
+        "totalProgressiveBallCarriesDistance": 39.268724056175,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 7.7,
+          "alternative": 7.4
+        },
+        "totalShots": 2,
+        "shotValueNormalized": 0.47,
+        "passValueNormalized": 0.29,
+        "dribbleValueNormalized": 0.36,
+        "defensiveValueNormalized": -0.12,
+        "metersCoveredRunningKm": 1.2,
+        "metersCoveredHighSpeedRunningKm": 0.39,
+        "metersCoveredSprintingKm": 0.1,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

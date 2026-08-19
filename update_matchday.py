@@ -1,8 +1,12 @@
 import json
 import os
+import re
 import time
 import random
 import httpx
+from datetime import datetime
+
+from futFantasy_Pipeline import crear_sesion, parsear_partidos
 
 PLAYERS_JSON = "players_to_analyze.json"
 TARGET_SEASON = "25/26"
@@ -50,6 +54,19 @@ def normalize(name):
 
 def create_session():
     return httpx.Client(headers=random_headers())
+
+
+def normalize_team(name):
+    return re.sub(r"[^a-z0-9]", "", (name or "").lower())
+
+
+def parse_ss_date(timestamp):
+    if not timestamp:
+        return None
+    try:
+        return datetime.utcfromtimestamp(timestamp).strftime("%Y-%m-%d")
+    except:
+        return None
 
 
 def filter_last_matchday(events, team_id):
@@ -173,11 +190,13 @@ def update_player_stats(session, player_name, player_id, team_name, team_id):
         events = resp.json().get("events", [])
     except Exception as e:
         print(f"  ❌ Error: {e}")
-        return 0
+        return {}
 
     events = filter_last_matchday(events, team_id)
 
     new_events = {str(e["id"]): e for e in events if str(e["id"]) not in existing_ids}
+
+    added = {}
 
     if not new_events:
         print(f"  ⏭ Sin eventos nuevos")
@@ -218,6 +237,8 @@ def update_player_stats(session, player_name, player_id, team_name, team_id):
                 "player_stats": match_stats
             }
 
+            added[event_id] = existing[event_id]
+
             print(f"  ✔️ {event_id}")
             sleep()
 
@@ -225,7 +246,108 @@ def update_player_stats(session, player_name, player_id, team_name, team_id):
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(existing, f, indent=2, ensure_ascii=False)
 
-    return len(new_events)
+    return added
+
+
+def fetch_futfantasy_season(ff_session, player_slug, season):
+    url = f"https://www.futbolfantasy.com/jugadores/{player_slug}/laliga-{season}"
+
+    try:
+        resp = ff_session.get(url, timeout=15)
+        if resp.status_code != 200:
+            print(f"  ⚠️ FutFantasy {resp.status_code} en {url}")
+            return []
+    except Exception as e:
+        print(f"  ❌ Error FutFantasy: {e}")
+        return []
+
+    return parsear_partidos([resp.text])
+
+
+def find_partido_for_event(partidos, match_info):
+    home_n = normalize_team(match_info.get("homeTeam", {}).get("name"))
+    away_n = normalize_team(match_info.get("awayTeam", {}).get("name"))
+
+    for partido in reversed(partidos):
+        local_n = normalize_team(partido["local"]["nombre"])
+        visit_n = normalize_team(partido["visitante"]["nombre"])
+
+        if (home_n and (home_n in local_n or local_n in home_n)) and \
+           (away_n and (away_n in visit_n or visit_n in away_n)):
+            return partido
+
+    return None
+
+
+def update_futfantasy_and_merge(ff_session, player_name, team_name, new_sofascore_events):
+    if not new_sofascore_events:
+        return
+
+    team_folder = normalize(team_name)
+    player_folder = os.path.join("player_stats", team_folder, player_name)
+
+    ff_file = os.path.join(player_folder, "futfantasy.json")
+    full_file = os.path.join(player_folder, "full_stats.json")
+
+    ff_data = []
+    if os.path.exists(ff_file):
+        with open(ff_file) as f:
+            try:
+                ff_data = json.load(f)
+            except:
+                ff_data = []
+
+    full_data = []
+    if os.path.exists(full_file):
+        with open(full_file) as f:
+            try:
+                full_data = json.load(f)
+            except:
+                full_data = []
+
+    full_event_ids = {m.get("sofascore", {}).get("id") for m in full_data}
+
+    season_ff = TARGET_SEASON.replace("/", "-")
+    partidos = fetch_futfantasy_season(ff_session, player_name, season_ff)
+    sleep()
+
+    ff_urls = {p.get("url_ficha") for p in ff_data if p.get("url_ficha")}
+
+    for event_id, sofa_entry in new_sofascore_events.items():
+        event_int = int(event_id)
+
+        if event_int in full_event_ids:
+            continue
+
+        partido = find_partido_for_event(partidos, sofa_entry["match_info"])
+
+        if partido is None:
+            print(f"  ⚠️ Sin partido de FutFantasy para el evento {event_id}")
+            continue
+
+        if not partido.get("url_ficha") or partido.get("url_ficha") not in ff_urls:
+            ff_data.append(partido)
+
+        full_data.append({
+            "equipos": {
+                "local": partido["local"],
+                "visitante": partido["visitante"]
+            },
+            "resultado": partido["resultado"],
+            "fecha": parse_ss_date(sofa_entry["match_info"].get("startTimestamp")),
+            "url_ficha": partido["url_ficha"],
+            "puntuaciones": partido["puntuaciones"],
+            "sofascore": sofa_entry
+        })
+        full_event_ids.add(event_int)
+
+        print(f"  ✔️ FutFantasy + merge OK ({event_id})")
+
+    with open(ff_file, "w", encoding="utf-8") as f:
+        json.dump(ff_data, f, ensure_ascii=False, indent=2)
+
+    with open(full_file, "w", encoding="utf-8") as f:
+        json.dump(full_data, f, ensure_ascii=False, indent=2)
 
 
 if __name__ == "__main__":
@@ -233,6 +355,7 @@ if __name__ == "__main__":
         teams = json.load(f).get("teams", [])
 
     session = create_session()
+    ff_session = crear_sesion()
 
     for i, team in enumerate(teams, 1):
         team_name = team["name"]
@@ -253,7 +376,10 @@ if __name__ == "__main__":
             sofa_id = player["sofascore_id"]
             print(f"\n  → {name}")
 
-            update_player_stats(session, name, sofa_id, team_name, team_id)
+            new_events = update_player_stats(session, name, sofa_id, team_name, team_id)
+            sleep()
+
+            update_futfantasy_and_merge(ff_session, name, team_name, new_events)
             sleep()
 
         sleep()

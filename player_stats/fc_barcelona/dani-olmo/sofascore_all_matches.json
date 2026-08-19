@@ -3081,139 +3081,6 @@
       "extra": null
     }
   },
-  "14083739": {
-    "id": 14083739,
-    "match_info": {
-      "homeTeam": {
-        "name": "Valencia",
-        "shortName": "Valencia",
-        "color": "#ffffff",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "FC Barcelona",
-        "shortName": "Barcelona",
-        "color": "#154284",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "valencia-barcelona"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Dani Olmo",
-        "firstName": "Dani",
-        "lastName": "Olmo",
-        "slug": "dani-olmo",
-        "shortName": "D. Olmo",
-        "position": "M",
-        "jerseyNumber": "20",
-        "height": 179,
-        "userCount": 198774,
-        "gender": "M",
-        "sofascoreId": "DaniOlmo",
-        "id": 789071,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 894499200,
-        "proposedMarketValueRaw": {
-          "value": 58000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "داني أولمو",
-            "ru": "Дани Ольмо"
-          },
-          "shortNameTranslation": {
-            "ar": "د. أولمو",
-            "bn": "ডি. ওলমো",
-            "hi": "डी. ओल्मो",
-            "ru": "Д. Ольмо"
-          }
-        }
-      },
-      "team": {
-        "name": "FC Barcelona",
-        "slug": "barcelona",
-        "shortName": "Barcelona",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 7651582,
-        "nameCode": "BAR",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2817,
-        "teamColors": {
-          "primary": "#154284",
-          "secondary": "#9d1009",
-          "text": "#9d1009"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "برشلونة",
-            "bn": "বার্সেলোনা",
-            "hi": "बार्सिलोना",
-            "ru": "Барселона"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 36,
-        "accuratePass": 29,
-        "totalLongBalls": 5,
-        "accurateLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 13,
-        "totalOwnHalfPasses": 15,
-        "accurateOppositionHalfPasses": 16,
-        "totalOppositionHalfPasses": 21,
-        "aerialLost": 1,
-        "aerialWon": 1,
-        "duelLost": 3,
-        "duelWon": 1,
-        "challengeLost": 1,
-        "bigChanceCreated": 1,
-        "blockedScoringAttempt": 1,
-        "totalClearance": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 3,
-        "unsuccessfulTouch": 2,
-        "fouls": 1,
-        "minutesPlayed": 62,
-        "touches": 44,
-        "rating": 6.5,
-        "possessionLostCtrl": 10,
-        "expectedGoals": 0.0245,
-        "expectedAssists": 0.205411,
-        "totalBallCarriesDistance": 48.322607838026,
-        "ballCarriesCount": 7,
-        "totalProgression": -9.5940096823251,
-        "progressiveBallCarriesCount": 0,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 6.5,
-          "alternative": 6.9
-        },
-        "totalShots": 1,
-        "shotValueNormalized": -0.06,
-        "passValueNormalized": 0.02,
-        "dribbleValueNormalized": -0.17,
-        "defensiveValueNormalized": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "16186149": {
     "id": 16186149,
     "match_info": {
@@ -25374,6 +25241,145 @@
         "expectedAssists": 0.438321,
         "keyPass": 2,
         "totalShots": 5,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083739": {
+    "id": 14083739,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "valencia-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Dani Olmo",
+        "firstName": "Dani",
+        "lastName": "Olmo",
+        "slug": "dani-olmo",
+        "shortName": "D. Olmo",
+        "position": "M",
+        "jerseyNumber": "20",
+        "height": 179,
+        "userCount": 209311,
+        "gender": "M",
+        "sofascoreId": "DaniOlmo",
+        "id": 789071,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 894499200,
+        "proposedMarketValueRaw": {
+          "value": 58000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "داني أولمو",
+            "ru": "Дани Ольмо"
+          },
+          "shortNameTranslation": {
+            "ar": "د. أولمو",
+            "bn": "ডি. ওলমো",
+            "hi": "डी. ओल्मो",
+            "ru": "Д. Ольмо"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Barcelona",
+        "slug": "barcelona",
+        "shortName": "Barcelona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 8036915,
+        "nameCode": "BAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2817,
+        "teamColors": {
+          "primary": "#154284",
+          "secondary": "#9d1009",
+          "text": "#9d1009"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "برشلونة",
+            "bn": "বার্সেলোনা",
+            "hi": "बार्सिलोना",
+            "ru": "Барселона"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 36,
+        "accuratePass": 29,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 13,
+        "totalOwnHalfPasses": 15,
+        "accurateOppositionHalfPasses": 16,
+        "totalOppositionHalfPasses": 21,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "bigChanceCreated": 1,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 3,
+        "unsuccessfulTouch": 2,
+        "fouls": 1,
+        "minutesPlayed": 62,
+        "touches": 44,
+        "rating": 6.5,
+        "possessionLostCtrl": 10,
+        "expectedGoals": 0.0245,
+        "expectedAssists": 0.205411,
+        "topSpeed": 28.27,
+        "kilometersCovered": 7.03,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 48.322607838026,
+        "ballCarriesCount": 7,
+        "totalProgression": -9.5940096823251,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.9
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.06,
+        "passValueNormalized": 0.02,
+        "dribbleValueNormalized": -0.17,
+        "defensiveValueNormalized": 0,
+        "metersCoveredRunningKm": 1.18,
+        "metersCoveredHighSpeedRunningKm": 0.41,
+        "metersCoveredSprintingKm": 0.04,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

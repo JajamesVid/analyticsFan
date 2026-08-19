@@ -2831,102 +2831,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Franco Cervi",
-        "firstName": "Franco",
-        "lastName": "Cervi",
-        "slug": "franco-cervi",
-        "shortName": "F. Cervi",
-        "position": "M",
-        "jerseyNumber": "11",
-        "height": 165,
-        "userCount": 1057,
-        "gender": "M",
-        "id": 557008,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 769910400,
-        "proposedMarketValueRaw": {
-          "value": 680000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فرانكو سيرفي",
-            "bn": "ফ্রাঙ্কো সার্ভি",
-            "hi": "फ्रेंको सर्वी",
-            "ru": "Франко Серви"
-          },
-          "shortNameTranslation": {
-            "ar": "ف. سيرفي",
-            "bn": "এফ. সার্ভি",
-            "hi": "एफ. सर्वी",
-            "ru": "Ф. Серви"
-          }
-        }
-      },
-      "team": {
-        "name": "Celta Vigo",
-        "slug": "celta-vigo",
-        "shortName": "Celta",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 266335,
-        "nameCode": "CEL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2821,
-        "teamColors": {
-          "primary": "#6cace4",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "سيلتا فيغو",
-            "bn": "সেলটা ভিগো",
-            "ru": "Сельта"
-          },
-          "shortNameTranslation": {
-            "ar": "سيلتا",
-            "hi": "सेल्टा"
-          }
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "11368709": {
     "id": 11368709,
     "match_info": {
@@ -22309,6 +22213,103 @@
         "touches": 12,
         "rating": 6.6,
         "possessionLostCtrl": 4,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Franco Cervi",
+        "firstName": "Franco",
+        "lastName": "Cervi",
+        "slug": "franco-cervi",
+        "shortName": "F. Cervi",
+        "position": "M",
+        "jerseyNumber": "10",
+        "height": 165,
+        "userCount": 1084,
+        "gender": "M",
+        "sofascoreId": "shicu3",
+        "id": 557008,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 769910400,
+        "proposedMarketValueRaw": {
+          "value": 580000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فرانكو سيرفي",
+            "bn": "ফ্রাঙ্কো সার্ভি",
+            "hi": "फ्रेंको सर्वी",
+            "ru": "Франко Серви"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. سيرفي",
+            "bn": "এফ. সার্ভি",
+            "hi": "एफ. सर्वी",
+            "ru": "Ф. Серви"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 267822,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
         "totalShots": 0,
         "statisticsType": {
           "sportSlug": "football",

@@ -678,11 +678,23 @@
         "shortName": "Rubi",
         "position": "D",
         "jerseyNumber": "44",
-        "userCount": 21,
+        "height": 178,
+        "userCount": 28,
         "gender": "M",
+        "sofascoreId": "r3e43q",
         "id": 2606306,
         "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1174435200
+        "dateOfBirthTimestamp": 1174435200,
+        "proposedMarketValueRaw": {
+          "value": 52000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ru": "Руби"
+          },
+          "shortNameTranslation": {}
+        }
       },
       "team": {
         "name": "Valencia",
@@ -694,7 +706,7 @@
           "slug": "football",
           "id": 1
         },
-        "userCount": 288160,
+        "userCount": 292379,
         "nameCode": "VAL",
         "disabled": false,
         "national": false,

@@ -4136,129 +4136,6 @@
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
       },
       "visitante": {
-        "nombre": "Real Oviedo",
-        "abreviatura": "ROV",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/43.png"
-      }
-    },
-    "resultado": "3-0",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20448-mallorca-real-oviedo",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083727,
-      "match_info": {
-        "homeTeam": {
-          "name": "Mallorca",
-          "shortName": "Mallorca",
-          "color": "#cc0000",
-          "score": 3
-        },
-        "awayTeam": {
-          "name": "Real Oviedo",
-          "shortName": "Real Oviedo",
-          "color": "#3300ff",
-          "score": 0
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-oviedo-mallorca",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Mateu Morey",
-          "firstName": "Mateu",
-          "lastName": "Morey",
-          "slug": "mateu-morey",
-          "shortName": "M. Morey",
-          "position": "D",
-          "jerseyNumber": "2",
-          "height": 171,
-          "userCount": 630,
-          "gender": "M",
-          "sofascoreId": "xng72t",
-          "id": 879543,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 951955200,
-          "proposedMarketValueRaw": {
-            "value": 1400000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ماتيو موري",
-              "bn": "মাতু মোরে",
-              "hi": "माटेउ मोरे",
-              "ru": "Матэу Морей"
-            },
-            "shortNameTranslation": {
-              "ar": "م. موري",
-              "bn": "এম. মোরি",
-              "hi": "एम. मोरे",
-              "ru": "М. Морей"
-            }
-          }
-        },
-        "team": {
-          "name": "Mallorca",
-          "slug": "mallorca",
-          "shortName": "Mallorca",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 201002,
-          "nameCode": "MLL",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2826,
-          "teamColors": {
-            "primary": "#cc0000",
-            "secondary": "#000000",
-            "text": "#000000"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "مايوركا",
-              "bn": "ম্যালোর্কা",
-              "hi": "मल्लोर्का",
-              "ru": "Мальорка"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "D",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
-        "nombre": "Mallorca",
-        "abreviatura": "MAL",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
-      },
-      "visitante": {
         "nombre": "Las Palmas",
         "abreviatura": "LPA",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/27.png"
@@ -12218,6 +12095,128 @@
             "id": 1
           },
           "userCount": 201002,
+          "nameCode": "MLL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2826,
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مايوركا",
+              "bn": "ম্যালোর্কা",
+              "hi": "मल्लोर्का",
+              "ru": "Мальорка"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      },
+      "visitante": {
+        "nombre": "Real Oviedo",
+        "abreviatura": "ROV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/43.png"
+      }
+    },
+    "resultado": "3-0",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20448-mallorca-real-oviedo",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083727,
+      "match_info": {
+        "homeTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Real Oviedo",
+          "shortName": "Real Oviedo",
+          "color": "#3300ff",
+          "score": 0
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-oviedo-mallorca"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Mateu Morey",
+          "firstName": "Mateu",
+          "lastName": "Morey",
+          "slug": "mateu-morey",
+          "shortName": "M. Morey",
+          "position": "D",
+          "jerseyNumber": "2",
+          "height": 171,
+          "userCount": 634,
+          "gender": "M",
+          "sofascoreId": "xng72t",
+          "id": 879543,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 951955200,
+          "proposedMarketValueRaw": {
+            "value": 1400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ماتيو موري",
+              "bn": "মাতু মোরে",
+              "hi": "माटेउ मोरे",
+              "ru": "Матэу Морей"
+            },
+            "shortNameTranslation": {
+              "ar": "م. موري",
+              "bn": "এম. মোরি",
+              "hi": "एम. मोरे",
+              "ru": "М. Морей"
+            }
+          }
+        },
+        "team": {
+          "name": "Mallorca",
+          "slug": "mallorca",
+          "shortName": "Mallorca",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 202209,
           "nameCode": "MLL",
           "disabled": false,
           "national": false,

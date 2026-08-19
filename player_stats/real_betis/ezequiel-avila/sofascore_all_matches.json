@@ -3331,135 +3331,6 @@
       "extra": null
     }
   },
-  "14083710": {
-    "id": 14083710,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Betis",
-        "shortName": "Real Betis",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "awayTeam": {
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "color": "#0e3b68",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "levante-ud-real-betis"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Chimy Ávila",
-        "firstName": "Chimy",
-        "lastName": "Avila",
-        "slug": "chimy-avila",
-        "shortName": "C. Ávila",
-        "position": "F",
-        "jerseyNumber": "9",
-        "height": 171,
-        "userCount": 2262,
-        "gender": "M",
-        "id": 789381,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 760492800,
-        "proposedMarketValueRaw": {
-          "value": 1500000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إزيكييل أفيلا",
-            "bn": "চিমি আভিলা",
-            "hi": "चिमी अविला",
-            "ru": "Чими Авила"
-          },
-          "shortNameTranslation": {
-            "ar": "إ. أفيلا",
-            "bn": "সি. আভিলা",
-            "hi": "सी. अविला",
-            "ru": "Ч. Авила"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Betis",
-        "slug": "real-betis",
-        "shortName": "Real Betis",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 600173,
-        "nameCode": "BET",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2816,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#006633",
-          "text": "#006633"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال بيتيس",
-            "ru": "Реал Бетис"
-          },
-          "shortNameTranslation": {
-            "ar": "ريال بيتيس",
-            "bn": "বেটিস",
-            "hi": "बेटिस"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 9,
-        "accuratePass": 7,
-        "totalLongBalls": 1,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 4,
-        "totalOwnHalfPasses": 5,
-        "accurateOppositionHalfPasses": 3,
-        "totalOppositionHalfPasses": 4,
-        "totalCross": 1,
-        "duelWon": 2,
-        "interceptionWon": 1,
-        "ballRecovery": 1,
-        "totalTackle": 2,
-        "wonTackle": 1,
-        "unsuccessfulTouch": 1,
-        "minutesPlayed": 10,
-        "touches": 14,
-        "rating": 6.7,
-        "possessionLostCtrl": 4,
-        "expectedAssists": 0.0161049,
-        "totalBallCarriesDistance": 16.731655400321,
-        "ballCarriesCount": 3,
-        "totalProgression": 1.0827471985424,
-        "progressiveBallCarriesCount": 0,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 6.7,
-          "alternative": 6.9
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.09,
-        "dribbleValueNormalized": 0,
-        "defensiveValueNormalized": -0.01,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12437560": {
     "id": 12437560,
     "match_info": {
@@ -22548,6 +22419,141 @@
         "rating": 7,
         "possessionLostCtrl": 2,
         "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083710": {
+    "id": 14083710,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "levante-ud-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Chimy Ávila",
+        "firstName": "Chimy",
+        "lastName": "Avila",
+        "slug": "chimy-avila",
+        "shortName": "C. Ávila",
+        "position": "F",
+        "height": 171,
+        "userCount": 2293,
+        "gender": "M",
+        "sofascoreId": "znectd",
+        "id": 789381,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 760492800,
+        "proposedMarketValueRaw": {
+          "value": 1200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إزيكييل أفيلا",
+            "bn": "চিমি আভিলা",
+            "hi": "चिमी अविला",
+            "ru": "Чими Авила"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. أفيلا",
+            "bn": "সি. আভিলা",
+            "hi": "सी. अविला",
+            "ru": "Ч. Авила"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Betis",
+        "slug": "real-betis",
+        "shortName": "Real Betis",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 609007,
+        "nameCode": "BET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2816,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#006633",
+          "text": "#006633"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال بيتيس",
+            "ru": "Реал Бетис"
+          },
+          "shortNameTranslation": {
+            "ar": "ريال بيتيس",
+            "bn": "বেটিস",
+            "hi": "बेटिस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 9,
+        "accuratePass": 7,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 4,
+        "totalCross": 1,
+        "duelWon": 2,
+        "interceptionWon": 1,
+        "ballRecovery": 1,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 10,
+        "touches": 14,
+        "rating": 6.7,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.0161049,
+        "topSpeed": 26,
+        "kilometersCovered": 1.53,
+        "numberOfSprints": 1,
+        "totalBallCarriesDistance": 16.731655400321,
+        "ballCarriesCount": 3,
+        "totalProgression": 1.0827471985424,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.09,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": -0.01,
+        "metersCoveredRunningKm": 0.18,
+        "metersCoveredHighSpeedRunningKm": 0.11,
+        "metersCoveredSprintingKm": 0.01,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

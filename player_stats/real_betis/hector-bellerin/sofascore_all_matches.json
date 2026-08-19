@@ -3437,134 +3437,6 @@
       "extra": null
     }
   },
-  "14083710": {
-    "id": 14083710,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Betis",
-        "shortName": "Real Betis",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "awayTeam": {
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "color": "#0e3b68",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "levante-ud-real-betis"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Héctor Bellerín",
-        "slug": "hector-bellerin",
-        "shortName": "H. Bellerín",
-        "position": "D",
-        "jerseyNumber": "2",
-        "height": 178,
-        "userCount": 6175,
-        "gender": "M",
-        "sofascoreId": "Bellerín",
-        "id": 188365,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 795571200,
-        "proposedMarketValueRaw": {
-          "value": 2600000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "هيكتور بيليرين",
-            "bn": "হেক্টর বেলেরিন",
-            "hi": "हेक्टर बेलेरिन",
-            "ru": "Цзин, Мэн"
-          },
-          "shortNameTranslation": {
-            "ar": "ه. بيليرين",
-            "bn": "এইচ.বেলেরিন",
-            "hi": "एच. बेलेरिन",
-            "ru": "Э. Беллерин"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Betis",
-        "slug": "real-betis",
-        "shortName": "Real Betis",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 600173,
-        "nameCode": "BET",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2816,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#006633",
-          "text": "#006633"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال بيتيس",
-            "ru": "Реал Бетис"
-          },
-          "shortNameTranslation": {
-            "ar": "ريال بيتيس",
-            "bn": "বেটিস",
-            "hi": "बेटिस"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 72,
-        "accuratePass": 70,
-        "totalLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 44,
-        "totalOwnHalfPasses": 46,
-        "accurateOppositionHalfPasses": 26,
-        "totalOppositionHalfPasses": 26,
-        "duelLost": 1,
-        "duelWon": 2,
-        "challengeLost": 1,
-        "totalContest": 1,
-        "wonContest": 1,
-        "totalClearance": 2,
-        "interceptionWon": 1,
-        "ballRecovery": 4,
-        "totalTackle": 1,
-        "minutesPlayed": 90,
-        "touches": 86,
-        "rating": 6.5,
-        "possessionLostCtrl": 3,
-        "expectedAssists": 0.0101094,
-        "totalBallCarriesDistance": 121.30953762081,
-        "ballCarriesCount": 19,
-        "totalProgression": 41.213308339521,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.5,
-          "alternative": 6.7
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.07,
-        "dribbleValueNormalized": 0.07,
-        "defensiveValueNormalized": -0.14,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437828": {
     "id": 12437828,
     "match_info": {
@@ -22279,6 +22151,140 @@
         "possessionLostCtrl": 3,
         "keyPass": 1,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083710": {
+    "id": 14083710,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "levante-ud-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Héctor Bellerín",
+        "slug": "hector-bellerin",
+        "shortName": "H. Bellerín",
+        "position": "D",
+        "jerseyNumber": "2",
+        "height": 178,
+        "userCount": 6353,
+        "gender": "M",
+        "sofascoreId": "Bellerin",
+        "id": 188365,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 795571200,
+        "proposedMarketValueRaw": {
+          "value": 2500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هيكتور بيليرين",
+            "bn": "হেক্টর বেলেরিন",
+            "hi": "हेक्टर बेलेरिन",
+            "ru": "Эктор Беллерин"
+          },
+          "shortNameTranslation": {
+            "ar": "ه. بيليرين",
+            "bn": "এইচ.বেলেরিন",
+            "hi": "एच. बेलेरिन",
+            "ru": "Э. Беллерин"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Betis",
+        "slug": "real-betis",
+        "shortName": "Real Betis",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 609007,
+        "nameCode": "BET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2816,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#006633",
+          "text": "#006633"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال بيتيس",
+            "ru": "Реал Бетис"
+          },
+          "shortNameTranslation": {
+            "ar": "ريال بيتيس",
+            "bn": "বেটিস",
+            "hi": "बेटिस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 72,
+        "accuratePass": 70,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 44,
+        "totalOwnHalfPasses": 46,
+        "accurateOppositionHalfPasses": 26,
+        "totalOppositionHalfPasses": 26,
+        "duelLost": 1,
+        "duelWon": 2,
+        "challengeLost": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalClearance": 2,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "totalTackle": 1,
+        "minutesPlayed": 90,
+        "touches": 86,
+        "rating": 6.5,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 0.0101094,
+        "topSpeed": 30.88,
+        "kilometersCovered": 9.63,
+        "numberOfSprints": 12,
+        "totalBallCarriesDistance": 121.30953762081,
+        "ballCarriesCount": 19,
+        "totalProgression": 41.213308339521,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.07,
+        "dribbleValueNormalized": 0.07,
+        "defensiveValueNormalized": -0.14,
+        "metersCoveredRunningKm": 1.61,
+        "metersCoveredHighSpeedRunningKm": 0.46,
+        "metersCoveredSprintingKm": 0.15,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

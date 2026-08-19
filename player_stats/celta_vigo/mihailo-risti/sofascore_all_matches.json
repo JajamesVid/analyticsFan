@@ -2974,100 +2974,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Mihailo Ristić",
-        "slug": "mihailo-ristic",
-        "shortName": "M. Ristić",
-        "position": "D",
-        "jerseyNumber": "21",
-        "height": 180,
-        "userCount": 633,
-        "gender": "M",
-        "id": 363774,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 815097600,
-        "proposedMarketValueRaw": {
-          "value": 775000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ميهالو ريستيتش",
-            "bn": "মিহাইলো রিস্টিক",
-            "hi": "मिहैलो रिस्तिच",
-            "ru": "Димитров, Павел"
-          },
-          "shortNameTranslation": {
-            "ar": "م. ريستيتش",
-            "bn": "এম. রিস্টিক",
-            "hi": "एम. रिस्तिच",
-            "ru": "М. Ристич"
-          }
-        }
-      },
-      "team": {
-        "name": "Celta Vigo",
-        "slug": "celta-vigo",
-        "shortName": "Celta",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 266335,
-        "nameCode": "CEL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2821,
-        "teamColors": {
-          "primary": "#6cace4",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "سيلتا فيغو",
-            "bn": "সেলটা ভিগো",
-            "ru": "Сельта"
-          },
-          "shortNameTranslation": {
-            "ar": "سيلتا",
-            "hi": "सेल्टा"
-          }
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437853": {
     "id": 12437853,
     "match_info": {
@@ -20860,6 +20766,100 @@
         }
       },
       "position": "M",
+      "extra": null
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Mihailo Ristić",
+        "slug": "mihailo-ristic",
+        "shortName": "M. Ristić",
+        "position": "D",
+        "height": 180,
+        "userCount": 644,
+        "gender": "M",
+        "sofascoreId": "pwhmu7",
+        "id": 363774,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 815097600,
+        "proposedMarketValueRaw": {
+          "value": 775000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميهالو ريستيتش",
+            "bn": "মিহাইলো রিস্টিক",
+            "hi": "मिहैलो रिस्तिच",
+            "ru": "Михаило Ристич"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ريستيتش",
+            "bn": "এম. রিস্টিক",
+            "hi": "एम. रिस्तिच",
+            "ru": "М. Ристич"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 267822,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
       "extra": null
     }
   }

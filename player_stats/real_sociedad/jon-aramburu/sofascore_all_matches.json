@@ -3563,139 +3563,6 @@
       "extra": null
     }
   },
-  "14083719": {
-    "id": 14083719,
-    "match_info": {
-      "homeTeam": {
-        "name": "Espanyol",
-        "shortName": "Espanyol",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Real Sociedad",
-        "shortName": "Real Sociedad",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-sociedad-espanyol"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Jon Aramburu",
-        "firstName": "Jon Aramburu",
-        "slug": "jon-aramburu",
-        "shortName": "J. Aramburu",
-        "position": "D",
-        "jerseyNumber": "2",
-        "height": 176,
-        "userCount": 6965,
-        "gender": "M",
-        "sofascoreId": "ElBufalo",
-        "id": 1116388,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1027382400,
-        "proposedMarketValueRaw": {
-          "value": 13900000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "جون أرامبورو",
-            "bn": "জন আরামবুরু",
-            "hi": "जॉन अरामबुरू",
-            "ru": "Джон Арамбуру"
-          },
-          "shortNameTranslation": {
-            "ar": "ج. أرامبورو",
-            "bn": "জে. আরামবুরু",
-            "hi": "जे. अरामबुरू",
-            "ru": "Д. Арамбуру"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Sociedad",
-        "slug": "real-sociedad",
-        "shortName": "Real Sociedad",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 413040,
-        "nameCode": "RSO",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2824,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#0077c7",
-          "text": "#0077c7"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال سوسيداد",
-            "bn": "রিয়াল সোসিয়েদাদ",
-            "hi": "रियल सोसियदाद",
-            "ru": "Реал Сосьедад"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 32,
-        "accuratePass": 28,
-        "totalLongBalls": 3,
-        "accurateLongBalls": 3,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 17,
-        "totalOwnHalfPasses": 17,
-        "accurateOppositionHalfPasses": 11,
-        "totalOppositionHalfPasses": 15,
-        "totalCross": 1,
-        "aerialWon": 2,
-        "duelLost": 6,
-        "duelWon": 7,
-        "challengeLost": 2,
-        "dispossessed": 2,
-        "totalClearance": 3,
-        "interceptionWon": 2,
-        "ballRecovery": 5,
-        "totalTackle": 3,
-        "wonTackle": 1,
-        "unsuccessfulTouch": 2,
-        "wasFouled": 2,
-        "fouls": 2,
-        "minutesPlayed": 77,
-        "touches": 50,
-        "rating": 6.8,
-        "possessionLostCtrl": 9,
-        "expectedAssists": 0.00608948,
-        "totalBallCarriesDistance": 116.83037419387,
-        "ballCarriesCount": 9,
-        "totalProgression": -5.8228016284064,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.8,
-          "alternative": 6.7
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.06,
-        "dribbleValueNormalized": 0.14,
-        "defensiveValueNormalized": -0.16,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "16130144": {
     "id": 16130144,
     "match_info": {
@@ -20971,6 +20838,145 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083719": {
+    "id": 14083719,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-sociedad-espanyol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Jon Aramburu",
+        "firstName": "Jon Aramburu",
+        "slug": "jon-aramburu",
+        "shortName": "J. Aramburu",
+        "position": "D",
+        "jerseyNumber": "2",
+        "height": 176,
+        "userCount": 7092,
+        "gender": "M",
+        "sofascoreId": "ElBufalo",
+        "id": 1116388,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1027382400,
+        "proposedMarketValueRaw": {
+          "value": 13900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جون أرامبورو",
+            "bn": "জন আরামবুরু",
+            "hi": "जॉन अरामबुरू",
+            "ru": "Джон Арамбуру"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. أرامبورو",
+            "bn": "জে. আরামবুরু",
+            "hi": "जे. अरामबुरू",
+            "ru": "Д. Арамбуру"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 417327,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 32,
+        "accuratePass": 28,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 17,
+        "totalOwnHalfPasses": 17,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 15,
+        "totalCross": 1,
+        "aerialWon": 2,
+        "duelLost": 6,
+        "duelWon": 7,
+        "challengeLost": 2,
+        "dispossessed": 2,
+        "totalClearance": 3,
+        "interceptionWon": 2,
+        "ballRecovery": 5,
+        "totalTackle": 3,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 2,
+        "fouls": 2,
+        "minutesPlayed": 77,
+        "touches": 50,
+        "rating": 6.8,
+        "possessionLostCtrl": 9,
+        "expectedAssists": 0.00608948,
+        "topSpeed": 29.27,
+        "kilometersCovered": 8.35,
+        "numberOfSprints": 9,
+        "totalBallCarriesDistance": 116.83037419387,
+        "ballCarriesCount": 9,
+        "totalProgression": -5.8228016284064,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.06,
+        "dribbleValueNormalized": 0.14,
+        "defensiveValueNormalized": -0.16,
+        "metersCoveredRunningKm": 1.17,
+        "metersCoveredHighSpeedRunningKm": 0.4,
+        "metersCoveredSprintingKm": 0.1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
     }
   }
 }

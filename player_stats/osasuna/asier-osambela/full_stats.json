@@ -3703,221 +3703,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Getafe",
-        "abreviatura": "GET",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/8.png"
-      },
-      "visitante": {
-        "nombre": "Osasuna",
-        "abreviatura": "OSA",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
-      }
-    },
-    "resultado": "1-0",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20446-getafe-osasuna",
-    "puntuaciones": {
-      "picas": 1,
-      "marca": 2,
-      "cope": 5.0,
-      "sofascore": 6.4,
-      "relevo": 1.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 2.0,
-        "futbolfantasy-rpg": 2.0,
-        "comunio": 2.0,
-        "modo-picas": 2.0,
-        "biwenger-sofascore": 2.0,
-        "biwenger-social": -1.0,
-        "biwenger-as-sofascore": 2.0,
-        "biwenger-stats": 1.0,
-        "futmondo-prensa": 1.0,
-        "futmondo-mixto-as": 2.0,
-        "futmondo-stats": 2.0,
-        "futmondo-mixto": 1.9,
-        "cronistas-marca": 0.0,
-        "marca-mixto": 1.0,
-        "marca-sofascore": 2.0,
-        "mister-cronistas-md": 0.0,
-        "mister-mixto": 1.0,
-        "mister-mixto-2": 2.0,
-        "mister-sofascore": 2.0,
-        "stat-goles": 0.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 1.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 0.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 0.0,
-        "stat-regates-exito": 0.0,
-        "stat-faltas-recibidas": 0.0,
-        "stat-faltas-cometidas": 1.0,
-        "stat-pases-interceptados": 0.0,
-        "stat-balones-robados": 0.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 0.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 0.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 0.0,
-        "stat-despejes": 0.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 4.0,
-        "stat-tiros-totales": 1.0,
-        "stat-centros-totales": 0.0,
-        "stat-precision-pases": 55.6,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 0.0,
-        "stat-tackles": 0.0,
-        "stat-duelos-aereos": 2.0,
-        "stat-tiros-bloqueados": 0.0,
-        "stat-pases-totales": 9.0,
-        "stat-pases-completados": 5.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083723,
-      "match_info": {
-        "homeTeam": {
-          "name": "Getafe",
-          "shortName": "Getafe",
-          "color": "#00369e",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Osasuna",
-          "shortName": "Osasuna",
-          "color": "#cc0000",
-          "score": 0
-        },
-        "startTimestamp": 1779562800,
-        "slug": "getafe-osasuna",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Asier Osambela",
-          "slug": "asier-osambela",
-          "shortName": "A. Osambela",
-          "position": "D",
-          "jerseyNumber": "29",
-          "height": 186,
-          "userCount": 114,
-          "gender": "M",
-          "id": 1399702,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 1099094400,
-          "proposedMarketValueRaw": {
-            "value": 1000000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "أسيير أوسامبيلا",
-              "ru": "Асьер Осамбела"
-            },
-            "shortNameTranslation": {
-              "ar": "أ. أوسامبيلا",
-              "ru": "А. Осамбела"
-            }
-          }
-        },
-        "team": {
-          "name": "Osasuna",
-          "slug": "osasuna",
-          "shortName": "Osasuna",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 199411,
-          "nameCode": "OSA",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2820,
-          "teamColors": {
-            "primary": "#cc0000",
-            "secondary": "#14213d",
-            "text": "#14213d"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "أوساسونا",
-              "bn": "ওসাসুনা",
-              "hi": "ओसासुना",
-              "ru": "Осасуна"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalPass": 9,
-          "accuratePass": 5,
-          "totalLongBalls": 2,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 2,
-          "totalOwnHalfPasses": 3,
-          "accurateOppositionHalfPasses": 3,
-          "totalOppositionHalfPasses": 6,
-          "aerialLost": 2,
-          "aerialWon": 2,
-          "duelLost": 3,
-          "duelWon": 2,
-          "onTargetScoringAttempt": 1,
-          "ballRecovery": 2,
-          "fouls": 1,
-          "minutesPlayed": 9,
-          "touches": 11,
-          "rating": 6.4,
-          "possessionLostCtrl": 4,
-          "expectedGoals": 0.0318,
-          "expectedGoalsOnTarget": 0.0737,
-          "expectedAssists": 0.0044596,
-          "ratingVersions": {
-            "original": 6.4,
-            "alternative": 6.7
-          },
-          "totalShots": 1,
-          "shotValueNormalized": -0.2,
-          "passValueNormalized": 0.03,
-          "defensiveValueNormalized": -0.01,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "M",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Betis",
         "abreviatura": "BET",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/4.png"
@@ -10278,6 +10063,227 @@
           }
         },
         "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Getafe",
+        "abreviatura": "GET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/8.png"
+      },
+      "visitante": {
+        "nombre": "Osasuna",
+        "abreviatura": "OSA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
+      }
+    },
+    "resultado": "1-0",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20446-getafe-osasuna",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 2,
+      "cope": 5.0,
+      "sofascore": 6.4,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 2.0,
+        "comunio": 2.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": -1.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 1.0,
+        "futmondo-prensa": 1.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 2.0,
+        "futmondo-mixto": 1.9,
+        "cronistas-marca": 0.0,
+        "marca-mixto": 1.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 0.0,
+        "mister-mixto": 1.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 1.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 4.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 55.6,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 2.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 9.0,
+        "stat-pases-completados": 5.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083723,
+      "match_info": {
+        "homeTeam": {
+          "name": "Getafe",
+          "shortName": "Getafe",
+          "color": "#00369e",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Osasuna",
+          "shortName": "Osasuna",
+          "color": "#cc0000",
+          "score": 0
+        },
+        "startTimestamp": 1779562800,
+        "slug": "getafe-osasuna"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Asier Osambela",
+          "slug": "asier-osambela",
+          "shortName": "A. Osambela",
+          "position": "D",
+          "jerseyNumber": "29",
+          "height": 186,
+          "userCount": 118,
+          "gender": "M",
+          "sofascoreId": "dq8d8v",
+          "id": 1399702,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1099094400,
+          "proposedMarketValueRaw": {
+            "value": 1000000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أسيير أوسامبيلا",
+              "ru": "Асьер Осамбела"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. أوسامبيلا",
+              "ru": "А. Осамбела"
+            }
+          }
+        },
+        "team": {
+          "name": "Osasuna",
+          "slug": "osasuna",
+          "shortName": "Osasuna",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 202237,
+          "nameCode": "OSA",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2820,
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#14213d",
+            "text": "#14213d"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوساسونا",
+              "bn": "ওসাসুনা",
+              "hi": "ओसासुना",
+              "ru": "Осасуна"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 9,
+          "accuratePass": 5,
+          "totalLongBalls": 2,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 2,
+          "totalOwnHalfPasses": 3,
+          "accurateOppositionHalfPasses": 3,
+          "totalOppositionHalfPasses": 6,
+          "aerialLost": 2,
+          "aerialWon": 2,
+          "duelLost": 3,
+          "duelWon": 2,
+          "onTargetScoringAttempt": 1,
+          "ballRecovery": 2,
+          "fouls": 1,
+          "minutesPlayed": 9,
+          "touches": 11,
+          "rating": 6.4,
+          "possessionLostCtrl": 4,
+          "expectedGoals": 0.0318,
+          "expectedGoalsOnTarget": 0.0737,
+          "expectedAssists": 0.0044596,
+          "topSpeed": 28.06,
+          "kilometersCovered": 1.72,
+          "numberOfSprints": 0,
+          "ratingVersions": {
+            "original": 6.4,
+            "alternative": 6.7
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.2,
+          "passValueNormalized": 0.03,
+          "defensiveValueNormalized": -0.01,
+          "metersCoveredRunningKm": 0.42,
+          "metersCoveredHighSpeedRunningKm": 0.11,
+          "metersCoveredSprintingKm": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
         "extra": null
       }
     }

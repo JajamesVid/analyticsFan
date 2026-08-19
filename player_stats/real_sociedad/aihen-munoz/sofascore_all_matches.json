@@ -3046,129 +3046,6 @@
       "extra": null
     }
   },
-  "14083719": {
-    "id": 14083719,
-    "match_info": {
-      "homeTeam": {
-        "name": "Espanyol",
-        "shortName": "Espanyol",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Real Sociedad",
-        "shortName": "Real Sociedad",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-sociedad-espanyol"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Aihen Muñoz",
-        "slug": "aihen-munoz",
-        "shortName": "A. Muñoz",
-        "position": "D",
-        "jerseyNumber": "3",
-        "height": 175,
-        "userCount": 455,
-        "gender": "M",
-        "id": 966441,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 871689600,
-        "proposedMarketValueRaw": {
-          "value": 2600000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أيهن مونيوز",
-            "bn": "আইহেন মুনোজ",
-            "hi": "ऐहेन मुनोज़",
-            "ru": "Айен Муньос"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. مونيوز",
-            "bn": "এ. মুনোজ",
-            "hi": "ए. मुनोज़",
-            "ru": "А. Муньос"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Sociedad",
-        "slug": "real-sociedad",
-        "shortName": "Real Sociedad",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 413040,
-        "nameCode": "RSO",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2824,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#0077c7",
-          "text": "#0077c7"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال سوسيداد",
-            "bn": "রিয়াল সোসিয়েদাদ",
-            "hi": "रियल सोसियदाद",
-            "ru": "Реал Сосьедад"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 4,
-        "accuratePass": 4,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 4,
-        "totalOwnHalfPasses": 4,
-        "accurateOppositionHalfPasses": 0,
-        "totalOppositionHalfPasses": 0,
-        "totalCross": 2,
-        "accurateCross": 1,
-        "duelLost": 1,
-        "duelWon": 1,
-        "dispossessed": 1,
-        "totalClearance": 1,
-        "totalTackle": 1,
-        "wonTackle": 1,
-        "minutesPlayed": 22,
-        "touches": 14,
-        "rating": 6.7,
-        "possessionLostCtrl": 4,
-        "expectedAssists": 0.00226602,
-        "totalBallCarriesDistance": 21.385795107178,
-        "ballCarriesCount": 4,
-        "totalProgression": 3.098155858129,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.7,
-          "alternative": 6.6
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.02,
-        "dribbleValueNormalized": -0.04,
-        "defensiveValueNormalized": 0.14,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "13466670": {
     "id": 13466670,
     "match_info": {
@@ -22068,6 +21945,136 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083719": {
+    "id": 14083719,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-sociedad-espanyol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Aihen Muñoz",
+        "slug": "aihen-munoz",
+        "shortName": "A. Muñoz",
+        "position": "D",
+        "jerseyNumber": "3",
+        "height": 175,
+        "userCount": 466,
+        "gender": "M",
+        "sofascoreId": "8jjd9q",
+        "id": 966441,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 871689600,
+        "proposedMarketValueRaw": {
+          "value": 2600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أيهن مونيوز",
+            "bn": "আইহেন মুনোজ",
+            "hi": "ऐहेन मुनोज़",
+            "ru": "Айен Муньос"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. مونيوز",
+            "bn": "এ. মুনোজ",
+            "hi": "ए. मुनोज़",
+            "ru": "А. Муньос"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 417327,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 4,
+        "accuratePass": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 0,
+        "totalOppositionHalfPasses": 0,
+        "totalCross": 2,
+        "accurateCross": 1,
+        "duelLost": 1,
+        "duelWon": 1,
+        "dispossessed": 1,
+        "totalClearance": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "minutesPlayed": 22,
+        "touches": 14,
+        "rating": 6.7,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.00226602,
+        "topSpeed": 29.5,
+        "kilometersCovered": 2.78,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 21.385795107178,
+        "ballCarriesCount": 4,
+        "totalProgression": 3.098155858129,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.02,
+        "dribbleValueNormalized": -0.04,
+        "defensiveValueNormalized": 0.14,
+        "metersCoveredRunningKm": 0.48,
+        "metersCoveredHighSpeedRunningKm": 0.21,
+        "metersCoveredSprintingKm": 0.06,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
     }
   }
 }

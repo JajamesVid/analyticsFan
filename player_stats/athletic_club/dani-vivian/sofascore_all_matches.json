@@ -3775,143 +3775,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Dani Vivian",
-        "firstName": "Dani",
-        "lastName": "Vivian",
-        "slug": "dani-vivian",
-        "shortName": "D. Vivian",
-        "position": "D",
-        "jerseyNumber": "3",
-        "height": 183,
-        "userCount": 3267,
-        "gender": "M",
-        "sofascoreId": "rrajqm",
-        "id": 910978,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 931132800,
-        "proposedMarketValueRaw": {
-          "value": 18200000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "داني فيفيان",
-            "bn": "ড্যানিয়েল ভিভিয়ান",
-            "hi": "डैनियल विवियन",
-            "ru": "Дани Вивиан"
-          },
-          "shortNameTranslation": {
-            "ar": "د. فيفيان",
-            "bn": "ডি. ভিভিয়ান",
-            "hi": "डी. विवियन",
-            "ru": "Д. Вивиан"
-          }
-        }
-      },
-      "team": {
-        "name": "Athletic Club",
-        "slug": "athletic-club",
-        "shortName": "Athletic Club",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 519382,
-        "nameCode": "ATH",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2825,
-        "teamColors": {
-          "primary": "#aa0000",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "نادي أتليتيك",
-            "bn": "অ্যাথলেটিক ক্লাব",
-            "hi": "एथलेटिक क्लब",
-            "ru": "Атлетик Бильбао"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 22,
-        "accuratePass": 19,
-        "totalLongBalls": 1,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 12,
-        "totalOwnHalfPasses": 14,
-        "accurateOppositionHalfPasses": 7,
-        "totalOppositionHalfPasses": 8,
-        "duelLost": 5,
-        "duelWon": 4,
-        "challengeLost": 4,
-        "totalClearance": 3,
-        "interceptionWon": 1,
-        "ballRecovery": 5,
-        "totalTackle": 3,
-        "wonTackle": 2,
-        "unsuccessfulTouch": 3,
-        "wasFouled": 1,
-        "fouls": 1,
-        "minutesPlayed": 90,
-        "touches": 33,
-        "rating": 5.6,
-        "possessionLostCtrl": 6,
-        "expectedAssists": 0.0037925,
-        "topSpeed": 30.35,
-        "kilometersCovered": 9.51,
-        "numberOfSprints": 20,
-        "totalBallCarriesDistance": 58.29605090147,
-        "ballCarriesCount": 8,
-        "totalProgression": 33.532549514874,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 5.6,
-          "alternative": 6
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.07,
-        "dribbleValueNormalized": 0.05,
-        "defensiveValueNormalized": -0.9,
-        "metersCoveredRunningKm": 1.18,
-        "metersCoveredHighSpeedRunningKm": 0.47,
-        "metersCoveredSprintingKm": 0.31,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "13514555": {
     "id": 13514555,
     "match_info": {
@@ -24762,6 +24625,145 @@
           "alternative": 7.1
         },
         "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Dani Vivian",
+        "firstName": "Dani",
+        "lastName": "Vivian",
+        "slug": "dani-vivian",
+        "shortName": "D. Vivian",
+        "position": "D",
+        "jerseyNumber": "3",
+        "height": 183,
+        "userCount": 3338,
+        "gender": "M",
+        "sofascoreId": "rrajqm",
+        "id": 910978,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 931132800,
+        "proposedMarketValueRaw": {
+          "value": 18200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "داني فيفيان",
+            "bn": "ড্যানিয়েল ভিভিয়ান",
+            "hi": "डैनियल विवियन",
+            "ru": "Дани Вивиан"
+          },
+          "shortNameTranslation": {
+            "ar": "د. فيفيان",
+            "bn": "ডি. ভিভিয়ান",
+            "hi": "डी. विवियन",
+            "ru": "Д. Вивиан"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 524413,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 22,
+        "accuratePass": 19,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 12,
+        "totalOwnHalfPasses": 14,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 8,
+        "duelLost": 5,
+        "duelWon": 4,
+        "challengeLost": 4,
+        "totalClearance": 3,
+        "interceptionWon": 1,
+        "ballRecovery": 5,
+        "totalTackle": 3,
+        "wonTackle": 2,
+        "unsuccessfulTouch": 3,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 33,
+        "rating": 5.6,
+        "possessionLostCtrl": 6,
+        "expectedAssists": 0.0037925,
+        "topSpeed": 30.35,
+        "kilometersCovered": 9.51,
+        "numberOfSprints": 20,
+        "totalBallCarriesDistance": 58.29605090147,
+        "ballCarriesCount": 8,
+        "totalProgression": 33.532549514874,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 5.6,
+          "alternative": 6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.07,
+        "dribbleValueNormalized": 0.05,
+        "defensiveValueNormalized": -0.9,
+        "metersCoveredRunningKm": 1.18,
+        "metersCoveredHighSpeedRunningKm": 0.47,
+        "metersCoveredSprintingKm": 0.31,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

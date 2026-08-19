@@ -3148,98 +3148,6 @@
       "extra": null
     }
   },
-  "14083723": {
-    "id": 14083723,
-    "match_info": {
-      "homeTeam": {
-        "name": "Getafe",
-        "shortName": "Getafe",
-        "color": "#00369e",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Osasuna",
-        "shortName": "Osasuna",
-        "color": "#cc0000",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "getafe-osasuna"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Javier Muñoz",
-        "slug": "javier-munoz",
-        "shortName": "J. Muñoz",
-        "position": "M",
-        "jerseyNumber": "14",
-        "height": 179,
-        "userCount": 334,
-        "gender": "M",
-        "id": 353154,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 793929600,
-        "proposedMarketValueRaw": {
-          "value": 1100000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "خافيير مونيز",
-            "bn": "জাভিয়ের মুনোজ",
-            "hi": "जेवियर मुनोज़",
-            "ru": "Хавьер Муньос"
-          },
-          "shortNameTranslation": {
-            "ar": "خ. مونيز",
-            "bn": "জে. মুনোজ",
-            "hi": "जे. मुनोज़",
-            "ru": "Х. Муньос"
-          }
-        }
-      },
-      "team": {
-        "name": "Getafe",
-        "slug": "getafe",
-        "shortName": "Getafe",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 199335,
-        "nameCode": "GET",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2859,
-        "teamColors": {
-          "primary": "#00369e",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "خيتافي",
-            "bn": "গেটাফে",
-            "hi": "गेटाफे",
-            "ru": "Хетафе"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12437823": {
     "id": 12437823,
     "match_info": {
@@ -22838,6 +22746,99 @@
         "possessionLostCtrl": 22,
         "keyPass": 2,
         "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083723": {
+    "id": 14083723,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "getafe-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javier Muñoz",
+        "slug": "javier-munoz",
+        "shortName": "J. Muñoz",
+        "position": "M",
+        "jerseyNumber": "14",
+        "height": 179,
+        "userCount": 342,
+        "gender": "M",
+        "sofascoreId": "rb843m",
+        "id": 353154,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 793929600,
+        "proposedMarketValueRaw": {
+          "value": 1100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافيير مونيز",
+            "bn": "জাভিয়ের মুনোজ",
+            "hi": "जेवियर मुनोज़",
+            "ru": "Хавьер Муньос"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. مونيز",
+            "bn": "জে. মুনোজ",
+            "hi": "जे. मुनोज़",
+            "ru": "Х. Муньос"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 203865,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

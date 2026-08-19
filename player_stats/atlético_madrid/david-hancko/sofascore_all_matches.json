@@ -3693,132 +3693,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Dávid Hancko",
-        "firstName": "David",
-        "lastName": "Hancko",
-        "slug": "david-hancko",
-        "shortName": "D. Hancko",
-        "position": "D",
-        "jerseyNumber": "17",
-        "height": 188,
-        "userCount": 5463,
-        "gender": "M",
-        "id": 807771,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 881971200,
-        "proposedMarketValueRaw": {
-          "value": 36000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "دافيد هانكو",
-            "bn": "ডেভিড হ্যানকো",
-            "hi": "डेविड हैन्को",
-            "ru": "Давид Ханко"
-          },
-          "shortNameTranslation": {
-            "ar": "د. هانكو",
-            "bn": "ডি. হানকো",
-            "hi": "डी. हैन्को",
-            "ru": "Д. Ханко"
-          }
-        }
-      },
-      "team": {
-        "name": "Atlético Madrid",
-        "slug": "atletico-madrid",
-        "shortName": "Atl. Madrid",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 2591268,
-        "nameCode": "ATM",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2836,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#c40000",
-          "text": "#c40000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أتلتيكو مدريد",
-            "hi": "एटलेटिको मैड्रिड",
-            "ru": "Атлетико Мадрид"
-          },
-          "shortNameTranslation": {
-            "ar": "أتل. مدريد",
-            "bn": "এটিএল. মাদ্রিদ"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 22,
-        "accuratePass": 20,
-        "totalLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 8,
-        "totalOwnHalfPasses": 8,
-        "accurateOppositionHalfPasses": 12,
-        "totalOppositionHalfPasses": 14,
-        "duelLost": 1,
-        "dispossessed": 1,
-        "totalClearance": 1,
-        "outfielderBlock": 1,
-        "ballRecovery": 2,
-        "unsuccessfulTouch": 1,
-        "minutesPlayed": 45,
-        "touches": 29,
-        "rating": 5.7,
-        "possessionLostCtrl": 5,
-        "expectedAssists": 0.0271991,
-        "totalBallCarriesDistance": 20.361968987986,
-        "ballCarriesCount": 3,
-        "totalProgression": 17.600274090754,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 5.7,
-          "alternative": 6.1
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.13,
-        "dribbleValueNormalized": 0.02,
-        "defensiveValueNormalized": -0.55,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "14083109": {
     "id": 14083109,
     "match_info": {
@@ -26077,6 +25951,139 @@
           "alternative": 7.4
         },
         "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Dávid Hancko",
+        "firstName": "David",
+        "lastName": "Hancko",
+        "slug": "david-hancko",
+        "shortName": "D. Hancko",
+        "position": "D",
+        "jerseyNumber": "17",
+        "height": 188,
+        "userCount": 5655,
+        "gender": "M",
+        "sofascoreId": "ihjbre",
+        "id": 807771,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 881971200,
+        "proposedMarketValueRaw": {
+          "value": 36000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دافيد هانكو",
+            "bn": "ডেভিড হ্যানকো",
+            "hi": "डेविड हैन्को",
+            "ru": "Давид Ханко"
+          },
+          "shortNameTranslation": {
+            "ar": "د. هانكو",
+            "bn": "ডি. হানকো",
+            "hi": "डी. हैन्को",
+            "ru": "Д. Ханко"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atl. Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2635078,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 22,
+        "accuratePass": 20,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 8,
+        "totalOwnHalfPasses": 8,
+        "accurateOppositionHalfPasses": 12,
+        "totalOppositionHalfPasses": 14,
+        "duelLost": 1,
+        "dispossessed": 1,
+        "totalClearance": 1,
+        "outfielderBlock": 1,
+        "ballRecovery": 2,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 45,
+        "touches": 29,
+        "rating": 5.7,
+        "possessionLostCtrl": 5,
+        "expectedAssists": 0.0271991,
+        "topSpeed": 31.36,
+        "kilometersCovered": 5.23,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 20.361968987986,
+        "ballCarriesCount": 3,
+        "totalProgression": 17.600274090754,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 5.7,
+          "alternative": 6.1
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.13,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": -0.55,
+        "metersCoveredRunningKm": 0.68,
+        "metersCoveredHighSpeedRunningKm": 0.29,
+        "metersCoveredSprintingKm": 0.06,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

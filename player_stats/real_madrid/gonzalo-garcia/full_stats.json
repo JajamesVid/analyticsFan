@@ -3663,234 +3663,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Real Madrid",
-        "abreviatura": "RMD",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
-      },
-      "visitante": {
-        "nombre": "Athletic",
-        "abreviatura": "ATH",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
-      }
-    },
-    "resultado": "4-2",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20450-real-madrid-athletic",
-    "puntuaciones": {
-      "picas": 2,
-      "marca": 1,
-      "cope": 7.0,
-      "sofascore": 7.4,
-      "relevo": 2.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 8.0,
-        "futbolfantasy-rpg": 12.0,
-        "comunio": 10.0,
-        "modo-picas": 9.0,
-        "biwenger-sofascore": 10.0,
-        "biwenger-social": 10.0,
-        "biwenger-as-sofascore": 10.0,
-        "biwenger-stats": 7.0,
-        "futmondo-prensa": 8.0,
-        "futmondo-mixto-as": 9.0,
-        "futmondo-stats": 11.0,
-        "futmondo-mixto": 10.7,
-        "cronistas-marca": 5.0,
-        "marca-mixto": 7.0,
-        "marca-sofascore": 10.0,
-        "mister-cronistas-md": 5.0,
-        "mister-mixto": 7.0,
-        "mister-mixto-2": 9.0,
-        "mister-sofascore": 10.0,
-        "stat-goles": 1.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 1.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 0.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 1.0,
-        "stat-regates-exito": 0.0,
-        "stat-faltas-recibidas": 1.0,
-        "stat-faltas-cometidas": 0.0,
-        "stat-pases-interceptados": 0.0,
-        "stat-balones-robados": 0.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 0.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 1.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 0.0,
-        "stat-despejes": 0.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 3.0,
-        "stat-tiros-totales": 1.0,
-        "stat-centros-totales": 1.0,
-        "stat-precision-pases": 100.0,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 0.0,
-        "stat-tackles": 0.0,
-        "stat-duelos-aereos": 0.0,
-        "stat-tiros-bloqueados": 0.0,
-        "stat-pases-totales": 13.0,
-        "stat-pases-completados": 13.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083731,
-      "match_info": {
-        "homeTeam": {
-          "name": "Real Madrid",
-          "shortName": "Real Madrid",
-          "color": "#ffffff",
-          "score": 4
-        },
-        "awayTeam": {
-          "name": "Athletic Club",
-          "shortName": "Athletic Club",
-          "color": "#aa0000",
-          "score": 2
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-madrid-athletic-club",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Gonzalo García",
-          "firstName": "Gonzalo García",
-          "slug": "gonzalo-garcia",
-          "shortName": "G. García",
-          "position": "F",
-          "jerseyNumber": "16",
-          "height": 182,
-          "userCount": 107686,
-          "gender": "M",
-          "id": 1402716,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 1080086400,
-          "proposedMarketValueRaw": {
-            "value": 31000000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "غونزالو غارسيا",
-              "bn": "গঞ্জালো গার্সিয়া",
-              "hi": "गोंजालो गार्सिया"
-            },
-            "shortNameTranslation": {
-              "ar": "غ. غارسيا",
-              "bn": "জি. গার্সিয়া",
-              "hi": "जी. गार्सिया"
-            }
-          }
-        },
-        "team": {
-          "name": "Real Madrid",
-          "slug": "real-madrid",
-          "shortName": "Real Madrid",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 7733858,
-          "nameCode": "RMA",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2829,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#004996",
-            "text": "#004996"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ريال مدريد",
-              "bn": "রিয়াল মাদ্রিদ",
-              "hi": "रियल मैड्रिड",
-              "ru": "Реал Мадрид"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalPass": 13,
-          "accuratePass": 13,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 5,
-          "totalOwnHalfPasses": 5,
-          "accurateOppositionHalfPasses": 8,
-          "totalOppositionHalfPasses": 8,
-          "totalCross": 1,
-          "aerialLost": 2,
-          "duelLost": 6,
-          "duelWon": 1,
-          "challengeLost": 2,
-          "dispossessed": 1,
-          "totalContest": 1,
-          "onTargetScoringAttempt": 1,
-          "goals": 1,
-          "wasFouled": 1,
-          "minutesPlayed": 74,
-          "touches": 18,
-          "rating": 7.4,
-          "possessionLostCtrl": 3,
-          "expectedGoals": 0.4699,
-          "expectedGoalsOnTarget": 0.5972,
-          "expectedAssists": 0.0321347,
-          "totalBallCarriesDistance": 69.759044522099,
-          "ballCarriesCount": 6,
-          "totalProgression": 16.7210634159,
-          "bestBallCarryProgression": 9.57033888646,
-          "totalProgressiveBallCarriesDistance": 24.341017730601,
-          "progressiveBallCarriesCount": 2,
-          "keyPass": 1,
-          "ratingVersions": {
-            "original": 7.4,
-            "alternative": 7
-          },
-          "totalShots": 1,
-          "shotValueNormalized": 0.45,
-          "passValueNormalized": -0.01,
-          "dribbleValueNormalized": 0.42,
-          "defensiveValueNormalized": -0.09,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "F",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Real Sociedad",
         "abreviatura": "RSO",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
@@ -11440,6 +11212,242 @@
           "ownGoals": 0,
           "minutesPlayed": 66,
           "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "4-2",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20450-real-madrid-athletic",
+    "puntuaciones": {
+      "picas": 2,
+      "marca": 1,
+      "cope": 7.0,
+      "sofascore": 7.4,
+      "relevo": 2.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 8.0,
+        "futbolfantasy-rpg": 12.0,
+        "comunio": 10.0,
+        "modo-picas": 9.0,
+        "biwenger-sofascore": 10.0,
+        "biwenger-social": 10.0,
+        "biwenger-as-sofascore": 10.0,
+        "biwenger-stats": 7.0,
+        "futmondo-prensa": 8.0,
+        "futmondo-mixto-as": 9.0,
+        "futmondo-stats": 11.0,
+        "futmondo-mixto": 10.7,
+        "cronistas-marca": 5.0,
+        "marca-mixto": 7.0,
+        "marca-sofascore": 10.0,
+        "mister-cronistas-md": 5.0,
+        "mister-mixto": 7.0,
+        "mister-mixto-2": 9.0,
+        "mister-sofascore": 10.0,
+        "stat-goles": 1.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 1.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 1.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 3.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 1.0,
+        "stat-precision-pases": 100.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 13.0,
+        "stat-pases-completados": 13.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083731,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Madrid",
+          "shortName": "Real Madrid",
+          "color": "#ffffff",
+          "score": 4
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 2
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-madrid-athletic-club"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Gonzalo García",
+          "firstName": "Gonzalo García",
+          "slug": "gonzalo-garcia",
+          "shortName": "G. García",
+          "position": "F",
+          "jerseyNumber": "7",
+          "height": 182,
+          "userCount": 121806,
+          "gender": "M",
+          "sofascoreId": "hi5efy",
+          "id": 1402716,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1080086400,
+          "proposedMarketValueRaw": {
+            "value": 31000000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "غونزالو غارسيا",
+              "bn": "গঞ্জালো গার্সিয়া",
+              "hi": "गोंजालो गार्सिया",
+              "ru": "Гонсало Гарсия"
+            },
+            "shortNameTranslation": {
+              "ar": "غ. غارسيا",
+              "bn": "জি. গার্সিয়া",
+              "hi": "जी. गार्सिया",
+              "ru": "Г. Гарсия"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Madrid",
+          "slug": "real-madrid",
+          "shortName": "Real Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 8378061,
+          "nameCode": "RMA",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2829,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#004996",
+            "text": "#004996"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال مدريد",
+              "bn": "রিয়াল মাদ্রিদ",
+              "hi": "रियल मैड्रिड",
+              "ru": "Реал Мадрид"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 13,
+          "accuratePass": 13,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 5,
+          "totalOwnHalfPasses": 5,
+          "accurateOppositionHalfPasses": 8,
+          "totalOppositionHalfPasses": 8,
+          "totalCross": 1,
+          "aerialLost": 2,
+          "duelLost": 6,
+          "duelWon": 1,
+          "challengeLost": 2,
+          "dispossessed": 1,
+          "totalContest": 1,
+          "onTargetScoringAttempt": 1,
+          "goals": 1,
+          "wasFouled": 1,
+          "minutesPlayed": 74,
+          "touches": 18,
+          "rating": 7.4,
+          "possessionLostCtrl": 3,
+          "expectedGoals": 0.4699,
+          "expectedGoalsOnTarget": 0.5972,
+          "expectedAssists": 0.0321347,
+          "topSpeed": 31.9,
+          "kilometersCovered": 8.39,
+          "numberOfSprints": 15,
+          "totalBallCarriesDistance": 69.759044522099,
+          "ballCarriesCount": 6,
+          "totalProgression": 16.7210634159,
+          "bestBallCarryProgression": 9.57033888646,
+          "totalProgressiveBallCarriesDistance": 24.341017730601,
+          "progressiveBallCarriesCount": 2,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 7.4,
+            "alternative": 7
+          },
+          "totalShots": 1,
+          "shotValueNormalized": 0.45,
+          "passValueNormalized": -0.01,
+          "dribbleValueNormalized": 0.42,
+          "defensiveValueNormalized": -0.09,
+          "metersCoveredRunningKm": 1.23,
+          "metersCoveredHighSpeedRunningKm": 0.47,
+          "metersCoveredSprintingKm": 0.25,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

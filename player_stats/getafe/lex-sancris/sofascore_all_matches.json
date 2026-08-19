@@ -3127,96 +3127,6 @@
       "extra": null
     }
   },
-  "14083723": {
-    "id": 14083723,
-    "match_info": {
-      "homeTeam": {
-        "name": "Getafe",
-        "shortName": "Getafe",
-        "color": "#00369e",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Osasuna",
-        "shortName": "Osasuna",
-        "color": "#cc0000",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "getafe-osasuna"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Álex Sancris",
-        "firstName": "Álex Sancris",
-        "lastName": "",
-        "slug": "alex-sancris",
-        "shortName": "Á. Sancris",
-        "position": "F",
-        "jerseyNumber": "18",
-        "height": 181,
-        "userCount": 222,
-        "gender": "M",
-        "id": 1398518,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 853545600,
-        "proposedMarketValueRaw": {
-          "value": 1400000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أليكس سانكريس",
-            "ru": "Алекс Санкрис"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. سانكريس",
-            "ru": "А. Санкрис"
-          }
-        }
-      },
-      "team": {
-        "name": "Getafe",
-        "slug": "getafe",
-        "shortName": "Getafe",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 199335,
-        "nameCode": "GET",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2859,
-        "teamColors": {
-          "primary": "#00369e",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "خيتافي",
-            "bn": "গেটাফে",
-            "hi": "गेटाफे",
-            "ru": "Хетафе"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12467574": {
     "id": 12467574,
     "match_info": {
@@ -14698,6 +14608,97 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083723": {
+    "id": 14083723,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "getafe-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Álex Sancris",
+        "firstName": "Álex Sancris",
+        "lastName": "",
+        "slug": "alex-sancris",
+        "shortName": "Á. Sancris",
+        "position": "F",
+        "jerseyNumber": "18",
+        "height": 181,
+        "userCount": 232,
+        "gender": "M",
+        "sofascoreId": "dq8zy8",
+        "id": 1398518,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 853545600,
+        "proposedMarketValueRaw": {
+          "value": 1400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أليكس سانكريس",
+            "ru": "Алекс Санкрис"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. سانكريس",
+            "ru": "А. Санкрис"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 203865,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
     }
   }
 }

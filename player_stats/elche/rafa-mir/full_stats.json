@@ -5624,129 +5624,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Girona",
-        "abreviatura": "GIR",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/30.png"
-      },
-      "visitante": {
-        "nombre": "Elche",
-        "abreviatura": "ELC",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
-      }
-    },
-    "resultado": "1-1",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20447-girona-elche",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083743,
-      "match_info": {
-        "homeTeam": {
-          "name": "Girona FC",
-          "shortName": "Girona",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Elche",
-          "shortName": "Elche",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "startTimestamp": 1779562800,
-        "slug": "girona-fc-elche",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Rafa Mir",
-          "firstName": "Rafa",
-          "lastName": "Mir",
-          "slug": "rafa-mir",
-          "shortName": "R. Mir",
-          "position": "F",
-          "jerseyNumber": "9",
-          "height": 189,
-          "userCount": 2201,
-          "gender": "M",
-          "sofascoreId": "tur945",
-          "id": 825754,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 866592000,
-          "proposedMarketValueRaw": {
-            "value": 4099999,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "رافا مير",
-              "bn": "রাফা মীর",
-              "hi": "राफ़ा मीर",
-              "ru": "Рафа Мир"
-            },
-            "shortNameTranslation": {
-              "ar": "ر. مير",
-              "bn": "আর. মীর",
-              "hi": "आर. मीर",
-              "ru": "Р. Мир"
-            }
-          }
-        },
-        "team": {
-          "name": "Elche",
-          "slug": "elche",
-          "shortName": "Elche",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 116534,
-          "nameCode": "ELC",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2846,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#336600",
-            "text": "#336600"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "إلتشي",
-              "bn": "এলচে",
-              "hi": "एल्चे",
-              "ru": "Эльче"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "F",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Celta",
         "abreviatura": "CEL",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
@@ -22542,6 +22419,128 @@
         },
         "statistics": {
           "expectedGoalsOnTarget": 0,
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Girona",
+        "abreviatura": "GIR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/30.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20447-girona-elche",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083743,
+      "match_info": {
+        "homeTeam": {
+          "name": "Girona FC",
+          "shortName": "Girona",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "girona-fc-elche"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Rafa Mir",
+          "firstName": "Rafa",
+          "lastName": "Mir",
+          "slug": "rafa-mir",
+          "shortName": "R. Mir",
+          "position": "F",
+          "jerseyNumber": "9",
+          "height": 189,
+          "userCount": 2251,
+          "gender": "M",
+          "sofascoreId": "tur945",
+          "id": 825754,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 866592000,
+          "proposedMarketValueRaw": {
+            "value": 4099999,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "رافا مير",
+              "bn": "রাফা মীর",
+              "hi": "राफ़ा मीर",
+              "ru": "Рафа Мир"
+            },
+            "shortNameTranslation": {
+              "ar": "ر. مير",
+              "bn": "আর. মীর",
+              "hi": "आर. मीर",
+              "ru": "Р. Мир"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 118908,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
           "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",

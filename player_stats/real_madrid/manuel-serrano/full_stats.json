@@ -966,214 +966,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Real Madrid",
-        "abreviatura": "RMD",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
-      },
-      "visitante": {
-        "nombre": "Athletic",
-        "abreviatura": "ATH",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
-      }
-    },
-    "resultado": "4-2",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20450-real-madrid-athletic",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 2,
-      "cope": null,
-      "sofascore": null,
-      "relevo": 0.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 0.0,
-        "futbolfantasy-rpg": -2.0,
-        "comunio": 2.0,
-        "scale1": 0.0,
-        "biwenger-sofascore": 0.0,
-        "biwenger-social": 0.0,
-        "biwenger-as-sofascore": 0.0,
-        "biwenger-stats": 0.0,
-        "futmondo-prensa": 0.0,
-        "futmondo-mixto-as": 0.0,
-        "futmondo-stats": 0.0,
-        "futmondo-mixto": 0.0,
-        "cronistas-marca": 0.0,
-        "marca-mixto": 0.0,
-        "marca-sofascore": 0.0,
-        "mister-cronistas-md": 0.0,
-        "mister-mixto": 0.0,
-        "mister-mixto-2": 0.0,
-        "mister-sofascore": 0.0,
-        "stat-goles": 0.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 0.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 0.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 0.0,
-        "stat-regates-exito": 0.0,
-        "stat-faltas-recibidas": 0.0,
-        "stat-faltas-cometidas": 0.0,
-        "stat-pases-interceptados": 0.0,
-        "stat-balones-robados": 0.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 0.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 1.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 0.0,
-        "stat-despejes": 0.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 0.0,
-        "stat-tiros-totales": 0.0,
-        "stat-centros-totales": 0.0,
-        "stat-precision-pases": 100.0,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 0.0,
-        "stat-tackles": 0.0,
-        "stat-duelos-aereos": 0.0,
-        "stat-tiros-bloqueados": 0.0,
-        "stat-pases-totales": 8.0,
-        "stat-pases-completados": 8.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083731,
-      "match_info": {
-        "homeTeam": {
-          "name": "Real Madrid",
-          "shortName": "Real Madrid",
-          "color": "#ffffff",
-          "score": 4
-        },
-        "awayTeam": {
-          "name": "Athletic Club",
-          "shortName": "Athletic Club",
-          "color": "#aa0000",
-          "score": 2
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-madrid-athletic-club",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Manuel Serrano Salazar",
-          "firstName": "",
-          "lastName": "",
-          "slug": "manuel-serrano-salazar",
-          "shortName": "M. S. Salazar",
-          "position": "D",
-          "jerseyNumber": "51",
-          "height": 175,
-          "userCount": 1373,
-          "gender": "M",
-          "id": 1145644,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 1079740800,
-          "proposedMarketValueRaw": {
-            "value": 570000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "مانويل سيرانو سالازار"
-            },
-            "shortNameTranslation": {
-              "ar": "م. سالازار"
-            }
-          }
-        },
-        "team": {
-          "name": "Real Madrid",
-          "slug": "real-madrid",
-          "shortName": "Real Madrid",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 7733858,
-          "nameCode": "RMA",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2829,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#004996",
-            "text": "#004996"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ريال مدريد",
-              "bn": "রিয়াল মাদ্রিদ",
-              "hi": "रियल मैड्रिड",
-              "ru": "Реал Мадрид"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalPass": 8,
-          "accuratePass": 8,
-          "totalLongBalls": 1,
-          "accurateLongBalls": 1,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 8,
-          "totalOwnHalfPasses": 8,
-          "minutesPlayed": 8,
-          "touches": 9,
-          "rating": 6.3,
-          "expectedAssists": 2.3e-05,
-          "totalBallCarriesDistance": 26.673993596395,
-          "ballCarriesCount": 3,
-          "totalProgression": 14.129845353679,
-          "progressiveBallCarriesCount": 0,
-          "ratingVersions": {
-            "original": 6.3,
-            "alternative": 6.3
-          },
-          "totalShots": 0,
-          "passValueNormalized": -0.01,
-          "dribbleValueNormalized": 0.02,
-          "defensiveValueNormalized": -0.18,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "D",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Atlético",
         "abreviatura": "ATM",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
@@ -1352,6 +1144,216 @@
             "alternative": null
           },
           "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "4-2",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20450-real-madrid-athletic",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 2,
+      "cope": null,
+      "sofascore": null,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 0.0,
+        "futbolfantasy-rpg": -2.0,
+        "comunio": 2.0,
+        "scale1": 0.0,
+        "biwenger-sofascore": 0.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 0.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": 0.0,
+        "futmondo-mixto-as": 0.0,
+        "futmondo-stats": 0.0,
+        "futmondo-mixto": 0.0,
+        "cronistas-marca": 0.0,
+        "marca-mixto": 0.0,
+        "marca-sofascore": 0.0,
+        "mister-cronistas-md": 0.0,
+        "mister-mixto": 0.0,
+        "mister-mixto-2": 0.0,
+        "mister-sofascore": 0.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 0.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 100.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 8.0,
+        "stat-pases-completados": 8.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083731,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Madrid",
+          "shortName": "Real Madrid",
+          "color": "#ffffff",
+          "score": 4
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 2
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-madrid-athletic-club"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Manuel Serrano Salazar",
+          "firstName": "",
+          "lastName": "",
+          "slug": "manuel-serrano-salazar",
+          "shortName": "M. S. Salazar",
+          "position": "D",
+          "jerseyNumber": "51",
+          "height": 175,
+          "userCount": 1989,
+          "gender": "M",
+          "sofascoreId": "ek3dmu",
+          "id": 1145644,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1079740800,
+          "proposedMarketValueRaw": {
+            "value": 570000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مانويل سيرانو سالازار",
+              "ru": "Серрано Салазар, Мануэль"
+            },
+            "shortNameTranslation": {
+              "ar": "م. سالازار",
+              "ru": "М. Серрано Салазар"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Madrid",
+          "slug": "real-madrid",
+          "shortName": "Real Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 8378061,
+          "nameCode": "RMA",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2829,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#004996",
+            "text": "#004996"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال مدريد",
+              "bn": "রিয়াল মাদ্রিদ",
+              "hi": "रियल मैड्रिड",
+              "ru": "Реал Мадрид"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 8,
+          "accuratePass": 8,
+          "totalLongBalls": 1,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 8,
+          "totalOwnHalfPasses": 8,
+          "minutesPlayed": 8,
+          "touches": 9,
+          "rating": 6.3,
+          "expectedAssists": 2.3e-05,
+          "totalBallCarriesDistance": 26.673993596395,
+          "ballCarriesCount": 3,
+          "totalProgression": 14.129845353679,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 6.3,
+            "alternative": 6.3
+          },
+          "totalShots": 0,
+          "passValueNormalized": -0.01,
+          "dribbleValueNormalized": 0.02,
+          "defensiveValueNormalized": -0.18,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

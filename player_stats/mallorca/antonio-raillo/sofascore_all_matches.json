@@ -3545,130 +3545,6 @@
       "extra": null
     }
   },
-  "14083727": {
-    "id": 14083727,
-    "match_info": {
-      "homeTeam": {
-        "name": "Mallorca",
-        "shortName": "Mallorca",
-        "color": "#cc0000",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "Real Oviedo",
-        "shortName": "Real Oviedo",
-        "color": "#3300ff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-oviedo-mallorca"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Antonio Raíllo",
-        "firstName": "Antonio",
-        "lastName": "Raillo",
-        "slug": "antonio-raillo",
-        "shortName": "A. Raíllo",
-        "position": "D",
-        "jerseyNumber": "21",
-        "height": 186,
-        "userCount": 759,
-        "gender": "M",
-        "sofascoreId": "ecjcw8",
-        "id": 807116,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 686880000,
-        "proposedMarketValueRaw": {
-          "value": 1100000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أنتونيو رايلو",
-            "bn": "আন্তোনিও রেইলো",
-            "hi": "एंटोनियो राएलो",
-            "ru": "Антонио Райльо"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. رايلو",
-            "bn": "এ. রেইলো",
-            "hi": "ए. राएलो",
-            "ru": "А. Райльо"
-          }
-        }
-      },
-      "team": {
-        "name": "Mallorca",
-        "slug": "mallorca",
-        "shortName": "Mallorca",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 201002,
-        "nameCode": "MLL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2826,
-        "teamColors": {
-          "primary": "#cc0000",
-          "secondary": "#000000",
-          "text": "#000000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "مايوركا",
-            "bn": "ম্যালোর্কা",
-            "hi": "मल्लोर्का",
-            "ru": "Мальорка"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 15,
-        "accuratePass": 15,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 13,
-        "totalOwnHalfPasses": 13,
-        "accurateOppositionHalfPasses": 2,
-        "totalOppositionHalfPasses": 2,
-        "aerialWon": 2,
-        "duelLost": 1,
-        "duelWon": 2,
-        "dispossessed": 1,
-        "totalClearance": 1,
-        "ballRecovery": 1,
-        "minutesPlayed": 37,
-        "touches": 17,
-        "rating": 6.9,
-        "possessionLostCtrl": 1,
-        "expectedAssists": 0.00172047,
-        "totalBallCarriesDistance": 65.312014575634,
-        "ballCarriesCount": 9,
-        "totalProgression": 23.033364203369,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.9,
-          "alternative": 6.6
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.06,
-        "dribbleValueNormalized": 0.13,
-        "defensiveValueNormalized": 0.22,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437691": {
     "id": 12437691,
     "match_info": {
@@ -24125,6 +24001,130 @@
         "rating": 6.9,
         "possessionLostCtrl": 6,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083727": {
+    "id": 14083727,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-oviedo-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Antonio Raíllo",
+        "firstName": "Antonio",
+        "lastName": "Raillo",
+        "slug": "antonio-raillo",
+        "shortName": "A. Raíllo",
+        "position": "D",
+        "jerseyNumber": "21",
+        "height": 186,
+        "userCount": 750,
+        "gender": "M",
+        "sofascoreId": "ecjcw8",
+        "id": 807116,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 686880000,
+        "proposedMarketValueRaw": {
+          "value": 1100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنتونيو رايلو",
+            "bn": "আন্তোনিও রেইলো",
+            "hi": "एंटोनियो राएलो",
+            "ru": "Антонио Райльо"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. رايلو",
+            "bn": "এ. রেইলো",
+            "hi": "ए. राएलो",
+            "ru": "А. Райльо"
+          }
+        }
+      },
+      "team": {
+        "name": "Mallorca",
+        "slug": "mallorca",
+        "shortName": "Mallorca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202209,
+        "nameCode": "MLL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2826,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مايوركا",
+            "bn": "ম্যালোর্কা",
+            "hi": "मल्लोर्का",
+            "ru": "Мальорка"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 15,
+        "accuratePass": 15,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 13,
+        "totalOwnHalfPasses": 13,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 2,
+        "aerialWon": 2,
+        "duelLost": 1,
+        "duelWon": 2,
+        "dispossessed": 1,
+        "totalClearance": 1,
+        "ballRecovery": 1,
+        "minutesPlayed": 37,
+        "touches": 17,
+        "rating": 6.9,
+        "possessionLostCtrl": 1,
+        "expectedAssists": 0.00172047,
+        "totalBallCarriesDistance": 65.312014575634,
+        "ballCarriesCount": 9,
+        "totalProgression": 23.033364203369,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.06,
+        "dribbleValueNormalized": 0.13,
+        "defensiveValueNormalized": 0.22,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

@@ -3521,133 +3521,6 @@
       "extra": null
     }
   },
-  "14083719": {
-    "id": 14083719,
-    "match_info": {
-      "homeTeam": {
-        "name": "Espanyol",
-        "shortName": "Espanyol",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Real Sociedad",
-        "shortName": "Real Sociedad",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-sociedad-espanyol"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Fernando Calero",
-        "firstName": "Fernando",
-        "lastName": "Calero",
-        "slug": "fernando-calero",
-        "shortName": "F. Calero",
-        "position": "D",
-        "jerseyNumber": "5",
-        "height": 183,
-        "userCount": 319,
-        "gender": "M",
-        "id": 857205,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 811036800,
-        "proposedMarketValueRaw": {
-          "value": 2100000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فرناندو كاليرو",
-            "bn": "ফার্নান্দো ক্যালেরো",
-            "hi": "फर्नांडो कैलेरो",
-            "ru": "Фернандо Калеро"
-          },
-          "shortNameTranslation": {
-            "ar": "ف. كاليرو",
-            "bn": "এফ. ক্যালেরো",
-            "hi": "एफ. कैलेरो",
-            "ru": "Ф. Калеро"
-          }
-        }
-      },
-      "team": {
-        "name": "Espanyol",
-        "slug": "espanyol",
-        "shortName": "Espanyol",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 183240,
-        "nameCode": "ESP",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2814,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#1369d2",
-          "text": "#1369d2"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "اسبانيول",
-            "bn": "এসপানিওল",
-            "hi": "एस्पेनयोल",
-            "ru": "Эспаньол"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 71,
-        "accuratePass": 66,
-        "totalLongBalls": 3,
-        "accurateLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 52,
-        "totalOwnHalfPasses": 53,
-        "accurateOppositionHalfPasses": 14,
-        "totalOppositionHalfPasses": 18,
-        "aerialLost": 3,
-        "duelLost": 4,
-        "duelWon": 2,
-        "challengeLost": 1,
-        "totalClearance": 1,
-        "ballRecovery": 5,
-        "totalTackle": 2,
-        "wonTackle": 2,
-        "minutesPlayed": 90,
-        "touches": 79,
-        "rating": 6.7,
-        "possessionLostCtrl": 6,
-        "expectedAssists": 0.00868875,
-        "totalBallCarriesDistance": 159.22757939032,
-        "ballCarriesCount": 24,
-        "totalProgression": 85.544809916276,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.7,
-          "alternative": 6.7
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.13,
-        "dribbleValueNormalized": 0.11,
-        "defensiveValueNormalized": -0.07,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437831": {
     "id": 12437831,
     "match_info": {
@@ -21839,6 +21712,139 @@
       },
       "statistics": {
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083719": {
+    "id": 14083719,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-sociedad-espanyol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Fernando Calero",
+        "firstName": "Fernando",
+        "lastName": "Calero",
+        "slug": "fernando-calero",
+        "shortName": "F. Calero",
+        "position": "D",
+        "height": 183,
+        "userCount": 344,
+        "gender": "M",
+        "sofascoreId": "c64c9g",
+        "id": 857205,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 811036800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فرناندو كاليرو",
+            "bn": "ফার্নান্দো ক্যালেরো",
+            "hi": "फर्नांडो कैलेरो",
+            "ru": "Фернандо Калеро"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. كاليرو",
+            "bn": "এফ. ক্যালেরো",
+            "hi": "एफ. कैलेरो",
+            "ru": "Ф. Калеро"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 184894,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 71,
+        "accuratePass": 66,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 52,
+        "totalOwnHalfPasses": 53,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 18,
+        "aerialLost": 3,
+        "duelLost": 4,
+        "duelWon": 2,
+        "challengeLost": 1,
+        "totalClearance": 1,
+        "ballRecovery": 5,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "minutesPlayed": 90,
+        "touches": 79,
+        "rating": 6.7,
+        "possessionLostCtrl": 6,
+        "expectedAssists": 0.00868875,
+        "topSpeed": 28.91,
+        "kilometersCovered": 9.37,
+        "numberOfSprints": 6,
+        "totalBallCarriesDistance": 159.22757939032,
+        "ballCarriesCount": 24,
+        "totalProgression": 85.544809916276,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.13,
+        "dribbleValueNormalized": 0.11,
+        "defensiveValueNormalized": -0.07,
+        "metersCoveredRunningKm": 1.25,
+        "metersCoveredHighSpeedRunningKm": 0.29,
+        "metersCoveredSprintingKm": 0.07,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

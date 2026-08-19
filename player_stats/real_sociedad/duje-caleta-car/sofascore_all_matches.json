@@ -2921,98 +2921,6 @@
       "extra": null
     }
   },
-  "14083719": {
-    "id": 14083719,
-    "match_info": {
-      "homeTeam": {
-        "name": "Espanyol",
-        "shortName": "Espanyol",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Real Sociedad",
-        "shortName": "Real Sociedad",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-sociedad-espanyol"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Duje Ćaleta-Car",
-        "slug": "duje-caleta-car",
-        "shortName": "D. Ćaleta-Car",
-        "position": "D",
-        "jerseyNumber": "16",
-        "height": 192,
-        "userCount": 3321,
-        "gender": "M",
-        "id": 257091,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 842918400,
-        "proposedMarketValueRaw": {
-          "value": 2900000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "دويي تشاليتا تسار",
-            "bn": "দুই শ্যালেটা-কার",
-            "hi": "दूजे कालता-कार",
-            "ru": "Дуе Чалета-Цар"
-          },
-          "shortNameTranslation": {
-            "ar": "د. تشاليتا تسار",
-            "bn": "ডি. শ্যালেটা-কার",
-            "hi": "डी. कालता-कार",
-            "ru": "Д. Чалета-Цар"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Sociedad",
-        "slug": "real-sociedad",
-        "shortName": "Real Sociedad",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 413040,
-        "nameCode": "RSO",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2824,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#0077c7",
-          "text": "#0077c7"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال سوسيداد",
-            "bn": "রিয়াল সোসিয়েদাদ",
-            "hi": "रियल सोसियदाद",
-            "ru": "Реал Сосьедад"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "15536790": {
     "id": 15536790,
     "match_info": {
@@ -22628,6 +22536,99 @@
       },
       "statistics": {
         "expectedGoalsOnTarget": 0,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083719": {
+    "id": 14083719,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-sociedad-espanyol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Duje Ćaleta-Car",
+        "slug": "duje-caleta-car",
+        "shortName": "D. Ćaleta-Car",
+        "position": "D",
+        "jerseyNumber": "55",
+        "height": 192,
+        "userCount": 3429,
+        "gender": "M",
+        "sofascoreId": "j5245r",
+        "id": 257091,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 842918400,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دويي تشاليتا تسار",
+            "bn": "দুই শ্যালেটা-কার",
+            "hi": "दूजे कालता-कार",
+            "ru": "Дуе Чалета-Цар"
+          },
+          "shortNameTranslation": {
+            "ar": "د. تشاليتا تسار",
+            "bn": "ডি. শ্যালেটা-কার",
+            "hi": "डी. कालता-कार",
+            "ru": "Д. Чалета-Цар"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 417327,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
         "totalShots": 0,
         "statisticsType": {
           "sportSlug": "football",

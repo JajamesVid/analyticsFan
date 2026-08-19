@@ -3917,141 +3917,6 @@
       "extra": null
     }
   },
-  "14083710": {
-    "id": 14083710,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Betis",
-        "shortName": "Real Betis",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "awayTeam": {
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "color": "#0e3b68",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "levante-ud-real-betis"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Pablo Fornals",
-        "firstName": "Pablo",
-        "lastName": "Fornals",
-        "slug": "pablo-fornals",
-        "shortName": "P. Fornals",
-        "position": "M",
-        "jerseyNumber": "8",
-        "height": 178,
-        "userCount": 3339,
-        "gender": "M",
-        "id": 816763,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 824947200,
-        "proposedMarketValueRaw": {
-          "value": 8400000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "بابلو فورنالس",
-            "bn": "ফরনালস, পাবলো",
-            "hi": "फ़ोर्नल्स, पाब्लो",
-            "ru": "Пабло Форналс"
-          },
-          "shortNameTranslation": {
-            "ar": "ب. فورنالس",
-            "bn": "পি. ফরনালস",
-            "hi": "पी. फ़ोर्नल्स",
-            "ru": "П. Форналс"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Betis",
-        "slug": "real-betis",
-        "shortName": "Real Betis",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 600173,
-        "nameCode": "BET",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2816,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#006633",
-          "text": "#006633"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال بيتيس",
-            "ru": "Реал Бетис"
-          },
-          "shortNameTranslation": {
-            "ar": "ريال بيتيس",
-            "bn": "বেটিস",
-            "hi": "बेटिस"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 77,
-        "accuratePass": 69,
-        "totalLongBalls": 3,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 30,
-        "totalOwnHalfPasses": 33,
-        "accurateOppositionHalfPasses": 39,
-        "totalOppositionHalfPasses": 44,
-        "totalCross": 1,
-        "aerialLost": 1,
-        "duelLost": 2,
-        "duelWon": 1,
-        "dispossessed": 1,
-        "totalContest": 1,
-        "wonContest": 1,
-        "onTargetScoringAttempt": 2,
-        "goals": 1,
-        "ballRecovery": 3,
-        "minutesPlayed": 80,
-        "touches": 88,
-        "rating": 7.5,
-        "possessionLostCtrl": 11,
-        "expectedGoals": 0.1902,
-        "expectedGoalsOnTarget": 0.7958,
-        "expectedAssists": 0.0529236,
-        "totalBallCarriesDistance": 172.35735865198,
-        "ballCarriesCount": 20,
-        "totalProgression": 95.994611996708,
-        "progressiveBallCarriesCount": 0,
-        "keyPass": 3,
-        "ratingVersions": {
-          "original": 7.5,
-          "alternative": 7.7
-        },
-        "totalShots": 2,
-        "shotValueNormalized": 0.48,
-        "passValueNormalized": 0.28,
-        "dribbleValueNormalized": 0.25,
-        "defensiveValueNormalized": -0.07,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "14123645": {
     "id": 14123645,
     "match_info": {
@@ -24800,6 +24665,148 @@
       "statistics": {
         "expectedGoalsOnTarget": 0,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083710": {
+    "id": 14083710,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "levante-ud-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Fornals",
+        "firstName": "Pablo",
+        "lastName": "Fornals",
+        "slug": "pablo-fornals",
+        "shortName": "P. Fornals",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 178,
+        "userCount": 3416,
+        "gender": "M",
+        "sofascoreId": "ihtcve",
+        "id": 816763,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 824947200,
+        "proposedMarketValueRaw": {
+          "value": 8400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو فورنالس",
+            "bn": "ফরনালস, পাবলো",
+            "hi": "फ़ोर्नल्स, पाब्लो",
+            "ru": "Пабло Форналс"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فورنالس",
+            "bn": "পি. ফরনালস",
+            "hi": "पी. फ़ोर्नल्स",
+            "ru": "П. Форналс"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Betis",
+        "slug": "real-betis",
+        "shortName": "Real Betis",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 609007,
+        "nameCode": "BET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2816,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#006633",
+          "text": "#006633"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال بيتيس",
+            "ru": "Реал Бетис"
+          },
+          "shortNameTranslation": {
+            "ar": "ريال بيتيس",
+            "bn": "বেটিস",
+            "hi": "बेटिस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 77,
+        "accuratePass": 69,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 30,
+        "totalOwnHalfPasses": 33,
+        "accurateOppositionHalfPasses": 39,
+        "totalOppositionHalfPasses": 44,
+        "totalCross": 1,
+        "aerialLost": 1,
+        "duelLost": 2,
+        "duelWon": 1,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "onTargetScoringAttempt": 2,
+        "goals": 1,
+        "ballRecovery": 3,
+        "minutesPlayed": 80,
+        "touches": 88,
+        "rating": 7.5,
+        "possessionLostCtrl": 11,
+        "expectedGoals": 0.1902,
+        "expectedGoalsOnTarget": 0.7958,
+        "expectedAssists": 0.0529236,
+        "topSpeed": 29.12,
+        "kilometersCovered": 9.53,
+        "numberOfSprints": 9,
+        "totalBallCarriesDistance": 172.35735865198,
+        "ballCarriesCount": 20,
+        "totalProgression": 95.994611996708,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 3,
+        "ratingVersions": {
+          "original": 7.5,
+          "alternative": 7.7
+        },
+        "totalShots": 2,
+        "shotValueNormalized": 0.32,
+        "passValueNormalized": 0.28,
+        "dribbleValueNormalized": 0.25,
+        "defensiveValueNormalized": -0.07,
+        "metersCoveredRunningKm": 1.94,
+        "metersCoveredHighSpeedRunningKm": 0.63,
+        "metersCoveredSprintingKm": 0.14,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

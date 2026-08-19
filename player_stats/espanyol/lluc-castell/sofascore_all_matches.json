@@ -1115,15 +1115,16 @@
         "slug": "lluc-castell",
         "shortName": "L. Castell",
         "position": "F",
-        "jerseyNumber": "32",
+        "jerseyNumber": "30",
         "height": 164,
-        "userCount": 56,
+        "userCount": 78,
         "gender": "M",
+        "sofascoreId": "zbk9jp",
         "id": 1466117,
         "marketValueCurrency": "EUR",
         "dateOfBirthTimestamp": 1158624000,
         "proposedMarketValueRaw": {
-          "value": 105000,
+          "value": 205000,
           "currency": "EUR"
         },
         "fieldTranslations": {
@@ -1147,7 +1148,7 @@
           "slug": "football",
           "id": 1
         },
-        "userCount": 183425,
+        "userCount": 184894,
         "nameCode": "ESP",
         "disabled": false,
         "national": false,
@@ -1186,6 +1187,9 @@
         "rating": 6.4,
         "possessionLostCtrl": 3,
         "expectedAssists": 0.00015835,
+        "topSpeed": 28.02,
+        "kilometersCovered": 2.45,
+        "numberOfSprints": 5,
         "totalBallCarriesDistance": 13.907753464625,
         "ballCarriesCount": 2,
         "totalProgression": -7.4036418435859,
@@ -1198,6 +1202,9 @@
         "passValueNormalized": -0.03,
         "dribbleValueNormalized": -0.01,
         "defensiveValueNormalized": -0.01,
+        "metersCoveredRunningKm": 0.5,
+        "metersCoveredHighSpeedRunningKm": 0.22,
+        "metersCoveredSprintingKm": 0.04,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

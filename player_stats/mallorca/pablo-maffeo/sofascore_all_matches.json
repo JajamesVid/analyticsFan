@@ -3973,145 +3973,6 @@
       "extra": null
     }
   },
-  "14083727": {
-    "id": 14083727,
-    "match_info": {
-      "homeTeam": {
-        "name": "Mallorca",
-        "shortName": "Mallorca",
-        "color": "#cc0000",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "Real Oviedo",
-        "shortName": "Real Oviedo",
-        "color": "#3300ff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-oviedo-mallorca"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Pablo Maffeo",
-        "firstName": "Pablo",
-        "lastName": "Maffeo",
-        "slug": "pablo-maffeo",
-        "shortName": "P. Maffeo",
-        "position": "D",
-        "jerseyNumber": "23",
-        "height": 173,
-        "userCount": 2512,
-        "gender": "M",
-        "sofascoreId": "5ug4yz",
-        "id": 788216,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 868665600,
-        "proposedMarketValueRaw": {
-          "value": 2900000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "بابلو مافيو",
-            "bn": "পাবলো মাফিয়ো",
-            "hi": "पाब्लो माफ़ियो",
-            "ru": "Пабло Маффео"
-          },
-          "shortNameTranslation": {
-            "ar": "ب. مافيو",
-            "bn": "পি. মাফিয়ো",
-            "hi": "पी. माफ़ियो",
-            "ru": "П. Маффео"
-          }
-        }
-      },
-      "team": {
-        "name": "Mallorca",
-        "slug": "mallorca",
-        "shortName": "Mallorca",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 201002,
-        "nameCode": "MLL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2826,
-        "teamColors": {
-          "primary": "#cc0000",
-          "secondary": "#000000",
-          "text": "#000000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "مايوركا",
-            "bn": "ম্যালোর্কা",
-            "hi": "मल्लोर्का",
-            "ru": "Мальорка"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 40,
-        "accuratePass": 32,
-        "totalLongBalls": 5,
-        "accurateLongBalls": 1,
-        "goalAssist": 1,
-        "accurateOwnHalfPasses": 11,
-        "totalOwnHalfPasses": 12,
-        "accurateOppositionHalfPasses": 21,
-        "totalOppositionHalfPasses": 28,
-        "totalCross": 8,
-        "accurateCross": 2,
-        "aerialLost": 4,
-        "aerialWon": 1,
-        "duelLost": 8,
-        "duelWon": 1,
-        "challengeLost": 2,
-        "dispossessed": 1,
-        "bigChanceCreated": 2,
-        "interceptionWon": 1,
-        "ballRecovery": 6,
-        "fouls": 1,
-        "minutesPlayed": 90,
-        "touches": 65,
-        "rating": 7,
-        "possessionLostCtrl": 16,
-        "expectedAssists": 0.496069,
-        "topSpeed": 33.16,
-        "kilometersCovered": 8.71,
-        "numberOfSprints": 8,
-        "totalBallCarriesDistance": 78.36389567805,
-        "ballCarriesCount": 16,
-        "totalProgression": -3.7186659937674,
-        "progressiveBallCarriesCount": 0,
-        "keyPass": 2,
-        "ratingVersions": {
-          "original": 7,
-          "alternative": 7.4
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.54,
-        "dribbleValueNormalized": -0.37,
-        "defensiveValueNormalized": -0.11,
-        "metersCoveredRunningKm": 0.96,
-        "metersCoveredHighSpeedRunningKm": 0.3,
-        "metersCoveredSprintingKm": 0.2,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437816": {
     "id": 12437816,
     "match_info": {
@@ -24921,6 +24782,145 @@
         "possessionLostCtrl": 23,
         "keyPass": 1,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083727": {
+    "id": 14083727,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-oviedo-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Maffeo",
+        "firstName": "Pablo",
+        "lastName": "Maffeo",
+        "slug": "pablo-maffeo",
+        "shortName": "P. Maffeo",
+        "position": "D",
+        "jerseyNumber": "25",
+        "height": 173,
+        "userCount": 2565,
+        "gender": "M",
+        "sofascoreId": "5ug4yz",
+        "id": 788216,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 868665600,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو مافيو",
+            "bn": "পাবলো মাফিয়ো",
+            "hi": "पाब्लो माफ़ियो",
+            "ru": "Пабло Маффео"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. مافيو",
+            "bn": "পি. মাফিয়ো",
+            "hi": "पी. माफ़ियो",
+            "ru": "П. Маффео"
+          }
+        }
+      },
+      "team": {
+        "name": "Mallorca",
+        "slug": "mallorca",
+        "shortName": "Mallorca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202209,
+        "nameCode": "MLL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2826,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مايوركا",
+            "bn": "ম্যালোর্কা",
+            "hi": "मल्लोर्का",
+            "ru": "Мальорка"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 40,
+        "accuratePass": 32,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 1,
+        "goalAssist": 1,
+        "accurateOwnHalfPasses": 11,
+        "totalOwnHalfPasses": 12,
+        "accurateOppositionHalfPasses": 21,
+        "totalOppositionHalfPasses": 28,
+        "totalCross": 8,
+        "accurateCross": 2,
+        "aerialLost": 4,
+        "aerialWon": 1,
+        "duelLost": 8,
+        "duelWon": 1,
+        "challengeLost": 2,
+        "dispossessed": 1,
+        "bigChanceCreated": 2,
+        "interceptionWon": 1,
+        "ballRecovery": 6,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 65,
+        "rating": 7,
+        "possessionLostCtrl": 16,
+        "expectedAssists": 0.496069,
+        "topSpeed": 33.16,
+        "kilometersCovered": 8.71,
+        "numberOfSprints": 8,
+        "totalBallCarriesDistance": 78.36389567805,
+        "ballCarriesCount": 16,
+        "totalProgression": -3.7186659937674,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 7.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.54,
+        "dribbleValueNormalized": -0.37,
+        "defensiveValueNormalized": -0.11,
+        "metersCoveredRunningKm": 0.96,
+        "metersCoveredHighSpeedRunningKm": 0.3,
+        "metersCoveredSprintingKm": 0.2,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

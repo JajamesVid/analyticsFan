@@ -2896,98 +2896,6 @@
       "extra": null
     }
   },
-  "14083719": {
-    "id": 14083719,
-    "match_info": {
-      "homeTeam": {
-        "name": "Espanyol",
-        "shortName": "Espanyol",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Real Sociedad",
-        "shortName": "Real Sociedad",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-sociedad-espanyol"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Miguel Rubio",
-        "slug": "miguel-rubio",
-        "shortName": "M. Rubio",
-        "position": "D",
-        "jerseyNumber": "15",
-        "height": 191,
-        "userCount": 198,
-        "gender": "M",
-        "id": 934351,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 889574400,
-        "proposedMarketValueRaw": {
-          "value": 1400000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ميغيل روبيو",
-            "bn": "মিগুয়েল রুবিও",
-            "hi": "मिगुएल रुबियो",
-            "ru": "Мигель Рубио"
-          },
-          "shortNameTranslation": {
-            "ar": "ر. ميغيل",
-            "bn": "এম. রুবিও",
-            "hi": "एम. रुबियो",
-            "ru": "М. Рубио"
-          }
-        }
-      },
-      "team": {
-        "name": "Espanyol",
-        "slug": "espanyol",
-        "shortName": "Espanyol",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 183240,
-        "nameCode": "ESP",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2814,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#1369d2",
-          "text": "#1369d2"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "اسبانيول",
-            "bn": "এসপানিওল",
-            "hi": "एस्पेनयोल",
-            "ru": "Эспаньол"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12467478": {
     "id": 12467478,
     "match_info": {
@@ -21274,6 +21182,99 @@
           "shortNameTranslation": {
             "ar": "بورغوس"
           }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083719": {
+    "id": 14083719,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-sociedad-espanyol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Miguel Rubio",
+        "slug": "miguel-rubio",
+        "shortName": "M. Rubio",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 191,
+        "userCount": 197,
+        "gender": "M",
+        "sofascoreId": "iw8x3x",
+        "id": 934351,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 889574400,
+        "proposedMarketValueRaw": {
+          "value": 1400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميغيل روبيو",
+            "bn": "মিগুয়েল রুবিও",
+            "hi": "मिगुएल रुबियो",
+            "ru": "Мигель Рубио"
+          },
+          "shortNameTranslation": {
+            "ar": "ر. ميغيل",
+            "bn": "এম. রুবিও",
+            "hi": "एम. रुबियो",
+            "ru": "М. Рубио"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 184894,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
         }
       },
       "statistics": {

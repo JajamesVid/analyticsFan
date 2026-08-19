@@ -4363,127 +4363,6 @@
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
       }
     },
-    "resultado": "5-1",
-    "fecha": "2026-05-24",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20452-villarreal-atletico",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083735,
-      "match_info": {
-        "homeTeam": {
-          "name": "Villarreal",
-          "shortName": "Villarreal",
-          "color": "#ffff00",
-          "score": 5
-        },
-        "awayTeam": {
-          "name": "Atlético Madrid",
-          "shortName": "Atl. Madrid",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "startTimestamp": 1779649200,
-        "slug": "atletico-madrid-villarreal",
-        "fecha_normalizada": "2026-05-24"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Willy Kambwala",
-          "firstName": "Willy Kambwala",
-          "slug": "kambwala-willy",
-          "shortName": "W. Kambwala",
-          "position": "D",
-          "jerseyNumber": "5",
-          "height": 192,
-          "userCount": 2501,
-          "gender": "M",
-          "id": 1136721,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 1093392000,
-          "proposedMarketValueRaw": {
-            "value": 3100000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "كامبوالا، ويلي",
-              "bn": "কাম্বওয়ালা, উইলি",
-              "hi": "कम्बवाला, विली",
-              "ru": "Вилли Камбвала"
-            },
-            "shortNameTranslation": {
-              "ar": "و. كامبوالا",
-              "bn": "ডব্লিউ. কাম্বওয়ালা",
-              "hi": "डब्लू. कम्बवाला",
-              "ru": "В. Камбвала"
-            }
-          }
-        },
-        "team": {
-          "name": "Villarreal",
-          "slug": "villarreal",
-          "shortName": "Villarreal",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 461754,
-          "nameCode": "VIL",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2819,
-          "teamColors": {
-            "primary": "#ffff00",
-            "secondary": "#013765",
-            "text": "#013765"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "فياريال",
-              "bn": "ভিলারিয়াল",
-              "hi": "विल्लारियल",
-              "ru": "Вильярреал"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "D",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
-        "nombre": "Villarreal",
-        "abreviatura": "VIL",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
-      },
-      "visitante": {
-        "nombre": "Atlético",
-        "abreviatura": "ATM",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
-      }
-    },
     "resultado": "2-2",
     "fecha": "2024-08-19",
     "url_ficha": "https://www.futbolfantasy.com/partidos/17793-villarreal-atletico",
@@ -6942,6 +6821,127 @@
             "original": 6.8,
             "alternative": 6.9
           },
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      },
+      "visitante": {
+        "nombre": "Atlético",
+        "abreviatura": "ATM",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
+      }
+    },
+    "resultado": "5-1",
+    "fecha": "2026-05-24",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20452-villarreal-atletico",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083735,
+      "match_info": {
+        "homeTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 5
+        },
+        "awayTeam": {
+          "name": "Atlético Madrid",
+          "shortName": "Atl. Madrid",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1779649200,
+        "slug": "atletico-madrid-villarreal"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Willy Kambwala",
+          "firstName": "Willy Kambwala",
+          "slug": "kambwala-willy",
+          "shortName": "W. Kambwala",
+          "position": "D",
+          "jerseyNumber": "5",
+          "height": 192,
+          "userCount": 2631,
+          "gender": "M",
+          "sofascoreId": "kmx3ib",
+          "id": 1136721,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1093392000,
+          "proposedMarketValueRaw": {
+            "value": 3100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كامبوالا، ويلي",
+              "bn": "কাম্বওয়ালা, উইলি",
+              "hi": "कम्बवाला, विली",
+              "ru": "Вилли Камбвала"
+            },
+            "shortNameTranslation": {
+              "ar": "و. كامبوالا",
+              "bn": "ডব্লিউ. কাম্বওয়ালা",
+              "hi": "डब्लू. कम्बवाला",
+              "ru": "В. Камбвала"
+            }
+          }
+        },
+        "team": {
+          "name": "Villarreal",
+          "slug": "villarreal",
+          "shortName": "Villarreal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 465801,
+          "nameCode": "VIL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2819,
+          "teamColors": {
+            "primary": "#ffff00",
+            "secondary": "#013765",
+            "text": "#013765"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فياريال",
+              "bn": "ভিলারিয়াল",
+              "hi": "विल्लारियल",
+              "ru": "Вильярреал"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
           "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",

@@ -3607,139 +3607,6 @@
       "extra": null
     }
   },
-  "14083739": {
-    "id": 14083739,
-    "match_info": {
-      "homeTeam": {
-        "name": "Valencia",
-        "shortName": "Valencia",
-        "color": "#ffffff",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "FC Barcelona",
-        "shortName": "Barcelona",
-        "color": "#154284",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "valencia-barcelona"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Unai Núñez",
-        "slug": "unai-nunez",
-        "shortName": "U. Núñez",
-        "position": "D",
-        "jerseyNumber": "4",
-        "height": 186,
-        "userCount": 804,
-        "gender": "M",
-        "id": 892521,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 854582400,
-        "proposedMarketValueRaw": {
-          "value": 3300000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أوناي نونيز",
-            "bn": "উনাই নুনেজ",
-            "hi": "उनाई नुनेज़",
-            "ru": "Унай Нуньес"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. نونيز",
-            "bn": "ইউ. নুনেজ",
-            "hi": "यू. नुनेज़",
-            "ru": "У. Нуньес"
-          }
-        }
-      },
-      "team": {
-        "name": "Valencia",
-        "slug": "valencia",
-        "shortName": "Valencia",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 288160,
-        "nameCode": "VAL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2828,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#000000",
-          "text": "#000000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فالنسيا",
-            "bn": "ভ্যালেন্সিয়া",
-            "hi": "वेलेंसिया",
-            "ru": "Валенсия"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 20,
-        "accuratePass": 16,
-        "totalLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 9,
-        "totalOwnHalfPasses": 11,
-        "accurateOppositionHalfPasses": 7,
-        "totalOppositionHalfPasses": 9,
-        "totalCross": 1,
-        "aerialLost": 1,
-        "aerialWon": 1,
-        "duelLost": 2,
-        "duelWon": 4,
-        "shotOffTarget": 3,
-        "onTargetScoringAttempt": 1,
-        "totalClearance": 4,
-        "ballRecovery": 2,
-        "totalTackle": 3,
-        "wonTackle": 1,
-        "unsuccessfulTouch": 1,
-        "fouls": 2,
-        "minutesPlayed": 90,
-        "touches": 44,
-        "rating": 6.4,
-        "possessionLostCtrl": 8,
-        "expectedGoals": 0.2023,
-        "expectedGoalsOnTarget": 0.1357,
-        "expectedAssists": 0.113172,
-        "totalBallCarriesDistance": 27.259954817602,
-        "ballCarriesCount": 4,
-        "totalProgression": 21.17851117253,
-        "progressiveBallCarriesCount": 0,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 6.4,
-          "alternative": 7.5
-        },
-        "totalShots": 4,
-        "shotValueNormalized": -0.52,
-        "passValueNormalized": 0.07,
-        "dribbleValueNormalized": 0.01,
-        "defensiveValueNormalized": -0.11,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12764318": {
     "id": 12764318,
     "match_info": {
@@ -22821,6 +22688,146 @@
       },
       "statistics": {
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083739": {
+    "id": 14083739,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "valencia-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Núñez",
+        "slug": "unai-nunez",
+        "shortName": "U. Núñez",
+        "position": "D",
+        "jerseyNumber": "4",
+        "height": 186,
+        "userCount": 807,
+        "gender": "M",
+        "sofascoreId": "8eeykw",
+        "id": 892521,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 854582400,
+        "proposedMarketValueRaw": {
+          "value": 3300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي نونيز",
+            "bn": "উনাই নুনেজ",
+            "hi": "उनाई नुनेज़",
+            "ru": "Унай Нуньес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. نونيز",
+            "bn": "ইউ. নুনেজ",
+            "hi": "यू. नुनेज़",
+            "ru": "У. Нуньес"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 292379,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 20,
+        "accuratePass": 16,
+        "totalLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 9,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 9,
+        "totalCross": 1,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 2,
+        "duelWon": 4,
+        "shotOffTarget": 3,
+        "onTargetScoringAttempt": 1,
+        "totalClearance": 4,
+        "ballRecovery": 2,
+        "totalTackle": 3,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 44,
+        "rating": 6.4,
+        "possessionLostCtrl": 8,
+        "expectedGoals": 0.2023,
+        "expectedGoalsOnTarget": 0.1357,
+        "expectedAssists": 0.113172,
+        "topSpeed": 28.87,
+        "kilometersCovered": 9.34,
+        "numberOfSprints": 7,
+        "totalBallCarriesDistance": 27.259954817602,
+        "ballCarriesCount": 4,
+        "totalProgression": 21.17851117253,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 7.5
+        },
+        "totalShots": 4,
+        "shotValueNormalized": -0.52,
+        "passValueNormalized": 0.07,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": -0.11,
+        "metersCoveredRunningKm": 1.24,
+        "metersCoveredHighSpeedRunningKm": 0.3,
+        "metersCoveredSprintingKm": 0.1,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

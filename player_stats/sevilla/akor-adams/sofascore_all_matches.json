@@ -3346,137 +3346,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Akor Adams",
-        "firstName": "Akor",
-        "lastName": "Adams",
-        "slug": "akor-adams",
-        "shortName": "A. Adams",
-        "position": "F",
-        "jerseyNumber": "9",
-        "height": 190,
-        "userCount": 25306,
-        "gender": "M",
-        "id": 946381,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 949104000,
-        "proposedMarketValueRaw": {
-          "value": 14600000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أكور آدامز",
-            "bn": "অ্যাডামস অ্যাকর্ড",
-            "hi": "अकोर एडम्स",
-            "ru": "Акор Адамс"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. آدامز",
-            "bn": "এ. অ্যাডামস",
-            "hi": "ए. एडम्स",
-            "ru": "А. Адамс"
-          }
-        }
-      },
-      "team": {
-        "name": "Sevilla",
-        "slug": "sevilla",
-        "shortName": "Sevilla",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 400830,
-        "nameCode": "SEV",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2833,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#cc1020",
-          "text": "#cc1020"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إشبيلية",
-            "bn": "সেভিলা",
-            "hi": "सेविला",
-            "ru": "Cевилья"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 7,
-        "accuratePass": 3,
-        "goalAssist": 0,
-        "totalOwnHalfPasses": 1,
-        "accurateOppositionHalfPasses": 3,
-        "totalOppositionHalfPasses": 6,
-        "aerialWon": 1,
-        "duelWon": 1,
-        "blockedScoringAttempt": 1,
-        "totalClearance": 1,
-        "unsuccessfulTouch": 3,
-        "minutesPlayed": 26,
-        "touches": 12,
-        "rating": 6.6,
-        "possessionLostCtrl": 7,
-        "expectedGoals": 0.0293,
-        "expectedAssists": 0.00192364,
-        "topSpeed": 33.51,
-        "kilometersCovered": 2.95,
-        "numberOfSprints": 2,
-        "totalBallCarriesDistance": 41.996660484482,
-        "ballCarriesCount": 4,
-        "totalProgression": 30.663920118823,
-        "bestBallCarryProgression": 17.530809972319,
-        "totalProgressiveBallCarriesDistance": 28.110559630853,
-        "progressiveBallCarriesCount": 2,
-        "ratingVersions": {
-          "original": 6.6,
-          "alternative": 6.6
-        },
-        "totalShots": 1,
-        "shotValueNormalized": -0.08,
-        "passValueNormalized": -0.05,
-        "dribbleValueNormalized": 0.26,
-        "defensiveValueNormalized": 0.14,
-        "metersCoveredRunningKm": 0.36,
-        "metersCoveredHighSpeedRunningKm": 0.15,
-        "metersCoveredSprintingKm": 0.06,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "16048005": {
     "id": 16048005,
     "match_info": {
@@ -19065,6 +18934,138 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Akor Adams",
+        "firstName": "Akor",
+        "lastName": "Adams",
+        "slug": "akor-adams",
+        "shortName": "A. Adams",
+        "position": "F",
+        "jerseyNumber": "9",
+        "height": 190,
+        "userCount": 25415,
+        "gender": "M",
+        "sofascoreId": "wrj6hf",
+        "id": 946381,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 949104000,
+        "proposedMarketValueRaw": {
+          "value": 14600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أكور آدامز",
+            "bn": "অ্যাডামস অ্যাকর্ড",
+            "hi": "अकोर एडम्स",
+            "ru": "Акор Адамс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. آدامز",
+            "bn": "এ. অ্যাডামস",
+            "hi": "ए. एडम्स",
+            "ru": "А. Адамс"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 405935,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Cевилья"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 7,
+        "accuratePass": 3,
+        "goalAssist": 0,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 6,
+        "aerialWon": 1,
+        "duelWon": 1,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 1,
+        "unsuccessfulTouch": 3,
+        "minutesPlayed": 26,
+        "touches": 12,
+        "rating": 6.6,
+        "possessionLostCtrl": 7,
+        "expectedGoals": 0.0293,
+        "expectedAssists": 0.00192364,
+        "topSpeed": 33.51,
+        "kilometersCovered": 2.95,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 41.996660484482,
+        "ballCarriesCount": 4,
+        "totalProgression": 30.663920118823,
+        "bestBallCarryProgression": 17.530809972319,
+        "totalProgressiveBallCarriesDistance": 28.110559630853,
+        "progressiveBallCarriesCount": 2,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.6
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.08,
+        "passValueNormalized": -0.05,
+        "dribbleValueNormalized": 0.26,
+        "defensiveValueNormalized": 0.14,
+        "metersCoveredRunningKm": 0.36,
+        "metersCoveredHighSpeedRunningKm": 0.15,
+        "metersCoveredSprintingKm": 0.06,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
     }
   }
 }

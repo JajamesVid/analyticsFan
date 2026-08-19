@@ -4649,128 +4649,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Valencia",
-        "abreviatura": "VAL",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/18.png"
-      },
-      "visitante": {
-        "nombre": "Barcelona",
-        "abreviatura": "BAR",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/3.png"
-      }
-    },
-    "resultado": "3-1",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20451-valencia-barcelona",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083739,
-      "match_info": {
-        "homeTeam": {
-          "name": "Valencia",
-          "shortName": "Valencia",
-          "color": "#ffffff",
-          "score": 3
-        },
-        "awayTeam": {
-          "name": "FC Barcelona",
-          "shortName": "Barcelona",
-          "color": "#154284",
-          "score": 1
-        },
-        "startTimestamp": 1779562800,
-        "slug": "valencia-barcelona",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Julen Agirrezabala",
-          "firstName": "",
-          "lastName": "",
-          "slug": "julen-agirrezabala",
-          "shortName": "J. Agirrezabala",
-          "position": "G",
-          "jerseyNumber": "25",
-          "height": 187,
-          "userCount": 1093,
-          "gender": "M",
-          "id": 1014412,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 977788800,
-          "proposedMarketValueRaw": {
-            "value": 9800000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "جولن أغيريزابالا",
-              "bn": "জুলেন আগিররেজাবালা",
-              "hi": "जुलेन अगिर्रेज़ाबाला",
-              "ru": "Хулен Агиррезабала"
-            },
-            "shortNameTranslation": {
-              "ar": "ج. أغيريزابالا",
-              "bn": "জে. আগিররেজাবালা",
-              "hi": "जे. अगिर्रेज़ाबाला",
-              "ru": "Х. Агиррезабала"
-            }
-          }
-        },
-        "team": {
-          "name": "Valencia",
-          "slug": "valencia",
-          "shortName": "Valencia",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 288160,
-          "nameCode": "VAL",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2828,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#000000",
-            "text": "#000000"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "فالنسيا",
-              "bn": "ভ্যালেন্সিয়া",
-              "hi": "वेलेंसिया",
-              "ru": "Валенсия"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "G",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Alavés",
         "abreviatura": "ALA",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
@@ -19991,6 +19869,128 @@
         },
         "statistics": {
           "expectedGoalsOnTarget": 0,
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Valencia",
+        "abreviatura": "VAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/18.png"
+      },
+      "visitante": {
+        "nombre": "Barcelona",
+        "abreviatura": "BAR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/3.png"
+      }
+    },
+    "resultado": "3-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20451-valencia-barcelona",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083739,
+      "match_info": {
+        "homeTeam": {
+          "name": "Valencia",
+          "shortName": "Valencia",
+          "color": "#ffffff",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "FC Barcelona",
+          "shortName": "Barcelona",
+          "color": "#154284",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "valencia-barcelona"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Julen Agirrezabala",
+          "firstName": "",
+          "lastName": "",
+          "slug": "julen-agirrezabala",
+          "shortName": "J. Agirrezabala",
+          "position": "G",
+          "jerseyNumber": "13",
+          "height": 187,
+          "userCount": 1159,
+          "gender": "M",
+          "sofascoreId": "ekrkqe",
+          "id": 1014412,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 977788800,
+          "proposedMarketValueRaw": {
+            "value": 9800000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جولن أغيريزابالا",
+              "bn": "জুলেন আগিররেজাবালা",
+              "hi": "जुलेन अगिर्रेज़ाबाला",
+              "ru": "Хулен Агиррезабала"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. أغيريزابالا",
+              "bn": "জে. আগিররেজাবালা",
+              "hi": "जे. अगिर्रेज़ाबाला",
+              "ru": "Х. Агиррезабала"
+            }
+          }
+        },
+        "team": {
+          "name": "Valencia",
+          "slug": "valencia",
+          "shortName": "Valencia",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 292379,
+          "nameCode": "VAL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2828,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فالنسيا",
+              "bn": "ভ্যালেন্সিয়া",
+              "hi": "वेलेंसिया",
+              "ru": "Валенсия"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
           "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",

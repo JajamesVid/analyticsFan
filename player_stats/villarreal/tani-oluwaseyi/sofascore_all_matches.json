@@ -2540,96 +2540,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Tani Oluwaseyi",
-        "firstName": "Tani Oluwaseyi",
-        "lastName": "",
-        "slug": "oluwaseyi-tani",
-        "shortName": "T. Oluwaseyi",
-        "position": "F",
-        "jerseyNumber": "21",
-        "height": 188,
-        "userCount": 3558,
-        "gender": "M",
-        "id": 1172477,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 958348800,
-        "proposedMarketValueRaw": {
-          "value": 7500000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "تاني أولواسي",
-            "ru": "Тани Олувасейи"
-          },
-          "shortNameTranslation": {
-            "ar": "ت. أولواسي",
-            "ru": "Т. Олувасейи"
-          }
-        }
-      },
-      "team": {
-        "name": "Villarreal",
-        "slug": "villarreal",
-        "shortName": "Villarreal",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 461754,
-        "nameCode": "VIL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2819,
-        "teamColors": {
-          "primary": "#ffff00",
-          "secondary": "#013765",
-          "text": "#013765"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فياريال",
-            "bn": "ভিলারিয়াল",
-            "hi": "विल्लारियल",
-            "ru": "Вильярреал"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "15530938": {
     "id": 15530938,
     "match_info": {
@@ -20165,6 +20075,97 @@
           "alternative": 5.9
         },
         "totalShots": 6,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Tani Oluwaseyi",
+        "firstName": "Tani Oluwaseyi",
+        "lastName": "",
+        "slug": "oluwaseyi-tani",
+        "shortName": "T. Oluwaseyi",
+        "position": "F",
+        "jerseyNumber": "21",
+        "height": 188,
+        "userCount": 3671,
+        "gender": "M",
+        "sofascoreId": "kmtdmi",
+        "id": 1172477,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 958348800,
+        "proposedMarketValueRaw": {
+          "value": 7500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "تاني أولواسي",
+            "ru": "Тани Олувасейи"
+          },
+          "shortNameTranslation": {
+            "ar": "ت. أولواسي",
+            "ru": "Т. Олувасейи"
+          }
+        }
+      },
+      "team": {
+        "name": "Villarreal",
+        "slug": "villarreal",
+        "shortName": "Villarreal",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 465801,
+        "nameCode": "VIL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2819,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#013765",
+          "text": "#013765"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فياريال",
+            "bn": "ভিলারিয়াল",
+            "hi": "विल्लारियल",
+            "ru": "Вильярреал"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

@@ -4320,128 +4320,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Getafe",
-        "abreviatura": "GET",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/8.png"
-      },
-      "visitante": {
-        "nombre": "Osasuna",
-        "abreviatura": "OSA",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
-      }
-    },
-    "resultado": "1-0",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20446-getafe-osasuna",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083723,
-      "match_info": {
-        "homeTeam": {
-          "name": "Getafe",
-          "shortName": "Getafe",
-          "color": "#00369e",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Osasuna",
-          "shortName": "Osasuna",
-          "color": "#cc0000",
-          "score": 0
-        },
-        "startTimestamp": 1779562800,
-        "slug": "getafe-osasuna",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Borja Mayoral",
-          "firstName": "Borja",
-          "lastName": "Mayoral",
-          "slug": "borja-mayoral",
-          "shortName": "B. Mayoral",
-          "position": "F",
-          "jerseyNumber": "9",
-          "height": 182,
-          "userCount": 2569,
-          "gender": "M",
-          "id": 604954,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 860198400,
-          "proposedMarketValueRaw": {
-            "value": 6300000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "بورخا مايورال",
-              "bn": "বোর্জা মেয়রাল",
-              "hi": "बोर्जा मेयोरल",
-              "ru": "Борха Майорал"
-            },
-            "shortNameTranslation": {
-              "ar": "ب. مايورال",
-              "bn": "বি. মেয়রাল",
-              "hi": "बी. मेयोरल",
-              "ru": "Б. Майорал"
-            }
-          }
-        },
-        "team": {
-          "name": "Getafe",
-          "slug": "getafe",
-          "shortName": "Getafe",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 199398,
-          "nameCode": "GET",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2859,
-          "teamColors": {
-            "primary": "#00369e",
-            "secondary": "#ffffff",
-            "text": "#ffffff"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "خيتافي",
-              "bn": "গেটাফে",
-              "hi": "गेटाफे",
-              "ru": "Хетафе"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "F",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Villarreal",
         "abreviatura": "VIL",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
@@ -23287,6 +23165,128 @@
           "expectedGoalsOnTarget": 0,
           "expectedAssists": 0.0296876,
           "totalShots": 2,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Getafe",
+        "abreviatura": "GET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/8.png"
+      },
+      "visitante": {
+        "nombre": "Osasuna",
+        "abreviatura": "OSA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
+      }
+    },
+    "resultado": "1-0",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20446-getafe-osasuna",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083723,
+      "match_info": {
+        "homeTeam": {
+          "name": "Getafe",
+          "shortName": "Getafe",
+          "color": "#00369e",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Osasuna",
+          "shortName": "Osasuna",
+          "color": "#cc0000",
+          "score": 0
+        },
+        "startTimestamp": 1779562800,
+        "slug": "getafe-osasuna"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Borja Mayoral",
+          "firstName": "Borja",
+          "lastName": "Mayoral",
+          "slug": "borja-mayoral",
+          "shortName": "B. Mayoral",
+          "position": "F",
+          "jerseyNumber": "9",
+          "height": 182,
+          "userCount": 2639,
+          "gender": "M",
+          "sofascoreId": "tkagk5",
+          "id": 604954,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 860198400,
+          "proposedMarketValueRaw": {
+            "value": 6300000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "بورخا مايورال",
+              "bn": "বোর্জা মেয়রাল",
+              "hi": "बोर्जा मेयोरल",
+              "ru": "Борха Майорал"
+            },
+            "shortNameTranslation": {
+              "ar": "ب. مايورال",
+              "bn": "বি. মেয়রাল",
+              "hi": "बी. मेयोरल",
+              "ru": "Б. Майорал"
+            }
+          }
+        },
+        "team": {
+          "name": "Getafe",
+          "slug": "getafe",
+          "shortName": "Getafe",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 203865,
+          "nameCode": "GET",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2859,
+          "teamColors": {
+            "primary": "#00369e",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "خيتافي",
+              "bn": "গেটাফে",
+              "hi": "गेटाफे",
+              "ru": "Хетафе"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

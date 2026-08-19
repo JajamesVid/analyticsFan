@@ -2817,100 +2817,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Tajon Buchanan",
-        "firstName": "",
-        "lastName": "",
-        "slug": "tajon-buchanan",
-        "shortName": "T. Buchanan",
-        "position": "M",
-        "jerseyNumber": "17",
-        "height": 183,
-        "userCount": 8195,
-        "gender": "M",
-        "id": 973290,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 918432000,
-        "proposedMarketValueRaw": {
-          "value": 13000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "تاجون بوكانان",
-            "bn": "তাজন বুকানন",
-            "hi": "ताजोन बुकानन",
-            "ru": "Таджон Бьюкенен"
-          },
-          "shortNameTranslation": {
-            "ar": "ت. بوكانان",
-            "bn": "টি. বুকানন",
-            "hi": "टी. बुकानन",
-            "ru": "Т. Бьюкенен"
-          }
-        }
-      },
-      "team": {
-        "name": "Villarreal",
-        "slug": "villarreal",
-        "shortName": "Villarreal",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 461754,
-        "nameCode": "VIL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2819,
-        "teamColors": {
-          "primary": "#ffff00",
-          "secondary": "#013765",
-          "text": "#013765"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فياريال",
-            "bn": "ভিলারিয়াল",
-            "hi": "विल्लारियल",
-            "ru": "Вильярреал"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "15530938": {
     "id": 15530938,
     "match_info": {
@@ -24055,6 +23961,101 @@
           "alternative": 6.7
         },
         "totalShots": 4,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Tajon Buchanan",
+        "firstName": "",
+        "lastName": "",
+        "slug": "tajon-buchanan",
+        "shortName": "T. Buchanan",
+        "position": "M",
+        "jerseyNumber": "17",
+        "height": 183,
+        "userCount": 8307,
+        "gender": "M",
+        "sofascoreId": "ceeq9t",
+        "id": 973290,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 918432000,
+        "proposedMarketValueRaw": {
+          "value": 13000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "تاجون بوكانان",
+            "bn": "তাজন বুকানন",
+            "hi": "ताजोन बुकानन",
+            "ru": "Таджон Бьюкенен"
+          },
+          "shortNameTranslation": {
+            "ar": "ت. بوكانان",
+            "bn": "টি. বুকানন",
+            "hi": "टी. बुकानन",
+            "ru": "Т. Бьюкенен"
+          }
+        }
+      },
+      "team": {
+        "name": "Villarreal",
+        "slug": "villarreal",
+        "shortName": "Villarreal",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 465801,
+        "nameCode": "VIL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2819,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#013765",
+          "text": "#013765"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فياريال",
+            "bn": "ভিলারিয়াল",
+            "hi": "विल्लारियल",
+            "ru": "Вильярреал"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

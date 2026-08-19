@@ -3460,143 +3460,6 @@
       "extra": null
     }
   },
-  "14083739": {
-    "id": 14083739,
-    "match_info": {
-      "homeTeam": {
-        "name": "Valencia",
-        "shortName": "Valencia",
-        "color": "#ffffff",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "FC Barcelona",
-        "shortName": "Barcelona",
-        "color": "#154284",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "valencia-barcelona"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Robert Lewandowski",
-        "slug": "robert-lewandowski",
-        "shortName": "R. Lewandowski",
-        "position": "F",
-        "jerseyNumber": "9",
-        "height": 186,
-        "userCount": 658680,
-        "gender": "M",
-        "sofascoreId": "Lewa",
-        "id": 41789,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 588124800,
-        "proposedMarketValueRaw": {
-          "value": 6500000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "روبرت ليفاندوفسكي",
-            "bn": "রবার্ট লেভান্ডোস্কি",
-            "hi": "रॉबर्ट लेवानडॉस्की",
-            "ru": "Роберт Левандовски"
-          },
-          "shortNameTranslation": {
-            "ar": "ر. ليفاندوفسكي",
-            "bn": "আর. লেভান্ডোস্কি",
-            "hi": "आर. लेवानडॉस्की",
-            "ru": "Р. Левандовски"
-          }
-        }
-      },
-      "team": {
-        "name": "FC Barcelona",
-        "slug": "barcelona",
-        "shortName": "Barcelona",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 7651582,
-        "nameCode": "BAR",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2817,
-        "teamColors": {
-          "primary": "#154284",
-          "secondary": "#9d1009",
-          "text": "#9d1009"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "برشلونة",
-            "bn": "বার্সেলোনা",
-            "hi": "बार्सिलोना",
-            "ru": "Барселона"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 22,
-        "accuratePass": 19,
-        "totalLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 8,
-        "totalOwnHalfPasses": 9,
-        "accurateOppositionHalfPasses": 11,
-        "totalOppositionHalfPasses": 13,
-        "aerialLost": 1,
-        "aerialWon": 3,
-        "duelLost": 3,
-        "duelWon": 5,
-        "challengeLost": 1,
-        "bigChanceMissed": 1,
-        "shotOffTarget": 1,
-        "onTargetScoringAttempt": 1,
-        "hitWoodwork": 1,
-        "goals": 1,
-        "totalClearance": 1,
-        "ballRecovery": 1,
-        "unsuccessfulTouch": 2,
-        "wasFouled": 3,
-        "fouls": 1,
-        "minutesPlayed": 90,
-        "touches": 31,
-        "rating": 7,
-        "possessionLostCtrl": 5,
-        "expectedGoals": 0.5277,
-        "expectedGoalsOnTarget": 0.8834,
-        "expectedAssists": 0.00485172,
-        "totalBallCarriesDistance": 81.990942505636,
-        "ballCarriesCount": 9,
-        "totalProgression": 51.879072649768,
-        "bestBallCarryProgression": 38.228860556594,
-        "totalProgressiveBallCarriesDistance": 41.302857637214,
-        "progressiveBallCarriesCount": 1,
-        "ratingVersions": {
-          "original": 7,
-          "alternative": 7.4
-        },
-        "totalShots": 2,
-        "shotValueNormalized": 0.29,
-        "passValueNormalized": -0.06,
-        "dribbleValueNormalized": 0.1,
-        "defensiveValueNormalized": -0.01,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "16153730": {
     "id": 16153730,
     "match_info": {
@@ -25461,6 +25324,149 @@
           "alternative": 8.8
         },
         "totalShots": 3,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083739": {
+    "id": 14083739,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "valencia-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Robert Lewandowski",
+        "slug": "robert-lewandowski",
+        "shortName": "R. Lewandowski",
+        "position": "F",
+        "jerseyNumber": "9",
+        "height": 186,
+        "userCount": 697209,
+        "gender": "M",
+        "sofascoreId": "Lewa",
+        "id": 41789,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 588124800,
+        "proposedMarketValueRaw": {
+          "value": 6500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "روبرت ليفاندوفسكي",
+            "bn": "রবার্ট লেভান্ডোস্কি",
+            "hi": "रॉबर्ट लेवानडॉस्की",
+            "ru": "Роберт Левандовски"
+          },
+          "shortNameTranslation": {
+            "ar": "ر. ليفاندوفسكي",
+            "bn": "আর. লেভান্ডোস্কি",
+            "hi": "आर. लेवानडॉस्की",
+            "ru": "Р. Левандовски"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Barcelona",
+        "slug": "barcelona",
+        "shortName": "Barcelona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 8036915,
+        "nameCode": "BAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2817,
+        "teamColors": {
+          "primary": "#154284",
+          "secondary": "#9d1009",
+          "text": "#9d1009"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "برشلونة",
+            "bn": "বার্সেলোনা",
+            "hi": "बार्सिलोना",
+            "ru": "Барселона"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 22,
+        "accuratePass": 19,
+        "totalLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 8,
+        "totalOwnHalfPasses": 9,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 13,
+        "aerialLost": 1,
+        "aerialWon": 3,
+        "duelLost": 3,
+        "duelWon": 5,
+        "challengeLost": 1,
+        "bigChanceMissed": 1,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 1,
+        "hitWoodwork": 1,
+        "goals": 1,
+        "totalClearance": 1,
+        "ballRecovery": 1,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 3,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 31,
+        "rating": 7,
+        "possessionLostCtrl": 5,
+        "expectedGoals": 0.5277,
+        "expectedGoalsOnTarget": 0.8834,
+        "expectedAssists": 0.00485172,
+        "topSpeed": 28.83,
+        "kilometersCovered": 9.42,
+        "numberOfSprints": 9,
+        "totalBallCarriesDistance": 81.990942505636,
+        "ballCarriesCount": 9,
+        "totalProgression": 51.879072649768,
+        "bestBallCarryProgression": 38.228860556594,
+        "totalProgressiveBallCarriesDistance": 41.302857637214,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 7.4
+        },
+        "totalShots": 2,
+        "shotValueNormalized": 0.29,
+        "passValueNormalized": -0.06,
+        "dribbleValueNormalized": 0.1,
+        "defensiveValueNormalized": -0.01,
+        "metersCoveredRunningKm": 1.11,
+        "metersCoveredHighSpeedRunningKm": 0.36,
+        "metersCoveredSprintingKm": 0.11,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

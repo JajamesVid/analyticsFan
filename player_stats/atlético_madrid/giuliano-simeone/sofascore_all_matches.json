@@ -3169,142 +3169,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Giuliano Simeone",
-        "slug": "giuliano-simeone",
-        "shortName": "G. Simeone",
-        "position": "M",
-        "jerseyNumber": "20",
-        "height": 173,
-        "userCount": 25843,
-        "gender": "M",
-        "sofascoreId": "giulisimeone",
-        "id": 1099352,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1040169600,
-        "proposedMarketValueRaw": {
-          "value": 44000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "جوليانو سيميوني",
-            "bn": "জিউলিয়ানো সিমিওনে",
-            "hi": "गिउलिआनो सिमोन",
-            "ru": "Джулиано Симоне"
-          },
-          "shortNameTranslation": {
-            "ar": "ج. سيميوني",
-            "bn": "জি. সিমিওনে",
-            "hi": "जी. सिमोन",
-            "ru": "Д. Симоне"
-          }
-        }
-      },
-      "team": {
-        "name": "Atlético Madrid",
-        "slug": "atletico-madrid",
-        "shortName": "Atl. Madrid",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 2590653,
-        "nameCode": "ATM",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2836,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#c40000",
-          "text": "#c40000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أتلتيكو مدريد",
-            "hi": "एटलेटिको मैड्रिड",
-            "ru": "Атлетико Мадрид"
-          },
-          "shortNameTranslation": {
-            "ar": "أتل. مدريد",
-            "bn": "এটিএল. মাদ্রিদ"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 19,
-        "accuratePass": 17,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 5,
-        "totalOwnHalfPasses": 6,
-        "accurateOppositionHalfPasses": 12,
-        "totalOppositionHalfPasses": 13,
-        "totalCross": 1,
-        "aerialWon": 1,
-        "duelLost": 3,
-        "duelWon": 2,
-        "dispossessed": 2,
-        "bigChanceMissed": 1,
-        "shotOffTarget": 1,
-        "onTargetScoringAttempt": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 2,
-        "totalTackle": 1,
-        "unsuccessfulTouch": 1,
-        "fouls": 1,
-        "minutesPlayed": 45,
-        "touches": 29,
-        "rating": 6.3,
-        "possessionLostCtrl": 6,
-        "expectedGoals": 0.3379,
-        "expectedGoalsOnTarget": 0.2831,
-        "expectedAssists": 0.023023,
-        "totalBallCarriesDistance": 51.123014777249,
-        "ballCarriesCount": 6,
-        "totalProgression": 14.380752278022,
-        "bestBallCarryProgression": 10.271083854903,
-        "totalProgressiveBallCarriesDistance": 24.421083426375,
-        "progressiveBallCarriesCount": 2,
-        "ratingVersions": {
-          "original": 6.3,
-          "alternative": 6.4
-        },
-        "totalShots": 2,
-        "shotValueNormalized": 0.05,
-        "passValueNormalized": -0.17,
-        "dribbleValueNormalized": 0.11,
-        "defensiveValueNormalized": -0.01,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "16118858": {
     "id": 16118858,
     "match_info": {
@@ -24486,6 +24350,148 @@
         "rating": 7.6,
         "possessionLostCtrl": 12,
         "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Giuliano Simeone",
+        "slug": "giuliano-simeone",
+        "shortName": "G. Simeone",
+        "position": "M",
+        "jerseyNumber": "20",
+        "height": 173,
+        "userCount": 31784,
+        "gender": "M",
+        "sofascoreId": "giulisimeone",
+        "id": 1099352,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1040169600,
+        "proposedMarketValueRaw": {
+          "value": 44000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جوليانو سيميوني",
+            "bn": "জিউলিয়ানো সিমিওনে",
+            "hi": "गिउलिआनो सिमोन",
+            "ru": "Джулиано Симеоне"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. سيميوني",
+            "bn": "জি. সিমিওনে",
+            "hi": "जी. सिमोन",
+            "ru": "Д. Симеоне"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atl. Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2635078,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 19,
+        "accuratePass": 17,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 6,
+        "accurateOppositionHalfPasses": 12,
+        "totalOppositionHalfPasses": 13,
+        "totalCross": 1,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 2,
+        "dispossessed": 2,
+        "bigChanceMissed": 1,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 1,
+        "fouls": 1,
+        "minutesPlayed": 45,
+        "touches": 29,
+        "rating": 6.3,
+        "possessionLostCtrl": 6,
+        "expectedGoals": 0.3379,
+        "expectedGoalsOnTarget": 0.2831,
+        "expectedAssists": 0.023023,
+        "topSpeed": 30.65,
+        "kilometersCovered": 5.57,
+        "numberOfSprints": 8,
+        "totalBallCarriesDistance": 51.123014777249,
+        "ballCarriesCount": 6,
+        "totalProgression": 14.380752278022,
+        "bestBallCarryProgression": 10.271083854903,
+        "totalProgressiveBallCarriesDistance": 24.421083426375,
+        "progressiveBallCarriesCount": 2,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.4
+        },
+        "totalShots": 2,
+        "shotValueNormalized": 0.05,
+        "passValueNormalized": -0.17,
+        "dribbleValueNormalized": 0.11,
+        "defensiveValueNormalized": -0.01,
+        "metersCoveredRunningKm": 1.01,
+        "metersCoveredHighSpeedRunningKm": 0.23,
+        "metersCoveredSprintingKm": 0.12,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

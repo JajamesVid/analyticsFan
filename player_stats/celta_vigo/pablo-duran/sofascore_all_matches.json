@@ -3581,137 +3581,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Pablo Durán",
-        "firstName": "Pablo Durán",
-        "slug": "pablo-duran",
-        "shortName": "P. Durán",
-        "position": "F",
-        "jerseyNumber": "18",
-        "height": 176,
-        "userCount": 803,
-        "gender": "M",
-        "id": 1398524,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 990748800,
-        "proposedMarketValueRaw": {
-          "value": 4099999,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "بابلو دوران",
-            "bn": "পাবলো ডুরান",
-            "hi": "पाब्लो दुरान",
-            "ru": "Пабло Дюран"
-          },
-          "shortNameTranslation": {
-            "ar": "ب. دوران",
-            "bn": "পি. ডুরান",
-            "hi": "पी. दुरान",
-            "ru": "П. Дюран"
-          }
-        }
-      },
-      "team": {
-        "name": "Celta Vigo",
-        "slug": "celta-vigo",
-        "shortName": "Celta",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 266335,
-        "nameCode": "CEL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2821,
-        "teamColors": {
-          "primary": "#6cace4",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "سيلتا فيغو",
-            "bn": "সেলটা ভিগো",
-            "ru": "Сельта"
-          },
-          "shortNameTranslation": {
-            "ar": "سيلتا",
-            "hi": "सेल्टा"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 5,
-        "accuratePass": 3,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 1,
-        "totalOwnHalfPasses": 2,
-        "accurateOppositionHalfPasses": 2,
-        "totalOppositionHalfPasses": 3,
-        "duelLost": 1,
-        "duelWon": 1,
-        "dispossessed": 1,
-        "onTargetScoringAttempt": 1,
-        "interceptionWon": 1,
-        "totalTackle": 1,
-        "wonTackle": 1,
-        "unsuccessfulTouch": 1,
-        "minutesPlayed": 16,
-        "touches": 10,
-        "rating": 6.7,
-        "possessionLostCtrl": 4,
-        "expectedGoals": 0.0699,
-        "expectedGoalsOnTarget": 0.0745,
-        "expectedAssists": 0.00428775,
-        "totalBallCarriesDistance": 32.304268657397,
-        "ballCarriesCount": 2,
-        "totalProgression": 27.624111913921,
-        "bestBallCarryProgression": 23.677915234075,
-        "totalProgressiveBallCarriesDistance": 27.612759731689,
-        "progressiveBallCarriesCount": 1,
-        "ratingVersions": {
-          "original": 6.7,
-          "alternative": 6.8
-        },
-        "totalShots": 1,
-        "shotValueNormalized": 0.1,
-        "passValueNormalized": 0.16,
-        "dribbleValueNormalized": 0.13,
-        "defensiveValueNormalized": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12437543": {
     "id": 12437543,
     "match_info": {
@@ -17950,6 +17819,144 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Durán",
+        "firstName": "Pablo Durán",
+        "slug": "pablo-duran",
+        "shortName": "P. Durán",
+        "position": "F",
+        "jerseyNumber": "18",
+        "height": 176,
+        "userCount": 798,
+        "gender": "M",
+        "sofascoreId": "hit6mq",
+        "id": 1398524,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 990748800,
+        "proposedMarketValueRaw": {
+          "value": 4099999,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو دوران",
+            "bn": "পাবলো ডুরান",
+            "hi": "पाब्लो दुरान",
+            "ru": "Пабло Дюран"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. دوران",
+            "bn": "পি. ডুরান",
+            "hi": "पी. दुरान",
+            "ru": "П. Дюран"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 267822,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 5,
+        "accuratePass": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 3,
+        "duelLost": 1,
+        "duelWon": 1,
+        "dispossessed": 1,
+        "onTargetScoringAttempt": 1,
+        "interceptionWon": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 16,
+        "touches": 10,
+        "rating": 6.7,
+        "possessionLostCtrl": 4,
+        "expectedGoals": 0.0699,
+        "expectedGoalsOnTarget": 0.0745,
+        "expectedAssists": 0.00428775,
+        "topSpeed": 30.76,
+        "kilometersCovered": 2.6,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 32.304268657397,
+        "ballCarriesCount": 2,
+        "totalProgression": 27.624111913921,
+        "bestBallCarryProgression": 23.677915234075,
+        "totalProgressiveBallCarriesDistance": 27.612759731689,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.8
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.08,
+        "passValueNormalized": 0.16,
+        "dribbleValueNormalized": 0.13,
+        "defensiveValueNormalized": 0,
+        "metersCoveredRunningKm": 0.49,
+        "metersCoveredHighSpeedRunningKm": 0.22,
+        "metersCoveredSprintingKm": 0.08,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
     }
   }
 }

@@ -3752,142 +3752,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Robert Navarro",
-        "firstName": "",
-        "lastName": "",
-        "slug": "robert-navarro",
-        "shortName": "R. Navarro",
-        "position": "M",
-        "jerseyNumber": "23",
-        "height": 178,
-        "userCount": 959,
-        "gender": "M",
-        "id": 944165,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1018569600,
-        "proposedMarketValueRaw": {
-          "value": 6500000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "روبرت نافارو",
-            "bn": "রবার্ট নাভারো",
-            "hi": "रॉबर्ट नवारो",
-            "ru": "Роберт Наварро"
-          },
-          "shortNameTranslation": {
-            "ar": "ر. نافارو",
-            "bn": "আর. নাভারো",
-            "hi": "आर. नवारो",
-            "ru": "Р. Наварро"
-          }
-        }
-      },
-      "team": {
-        "name": "Athletic Club",
-        "slug": "athletic-club",
-        "shortName": "Athletic Club",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 519382,
-        "nameCode": "ATH",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2825,
-        "teamColors": {
-          "primary": "#aa0000",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "نادي أتليتيك",
-            "bn": "অ্যাথলেটিক ক্লাব",
-            "hi": "एथलेटिक क्लब",
-            "ru": "Атлетик Бильбао"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 25,
-        "accuratePass": 20,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 5,
-        "totalOwnHalfPasses": 6,
-        "accurateOppositionHalfPasses": 15,
-        "totalOppositionHalfPasses": 19,
-        "totalCross": 2,
-        "accurateCross": 2,
-        "duelLost": 2,
-        "bigChanceCreated": 1,
-        "shotOffTarget": 1,
-        "ballRecovery": 1,
-        "unsuccessfulTouch": 1,
-        "fouls": 2,
-        "minutesPlayed": 90,
-        "touches": 31,
-        "rating": 6.4,
-        "possessionLostCtrl": 6,
-        "expectedGoals": 0.0325,
-        "expectedAssists": 0.194841,
-        "topSpeed": 29.74,
-        "kilometersCovered": 10.75,
-        "numberOfSprints": 10,
-        "totalBallCarriesDistance": 166.85455736675,
-        "ballCarriesCount": 15,
-        "totalProgression": 73.160022768555,
-        "bestBallCarryProgression": 16.85987977351,
-        "totalProgressiveBallCarriesDistance": 53.411079642445,
-        "progressiveBallCarriesCount": 3,
-        "keyPass": 3,
-        "ratingVersions": {
-          "original": 6.4,
-          "alternative": 6.8
-        },
-        "totalShots": 1,
-        "shotValueNormalized": -0.12,
-        "passValueNormalized": 0.28,
-        "dribbleValueNormalized": 0.25,
-        "defensiveValueNormalized": -0.23,
-        "metersCoveredRunningKm": 1.53,
-        "metersCoveredHighSpeedRunningKm": 0.57,
-        "metersCoveredSprintingKm": 0.13,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12437841": {
     "id": 12437841,
     "match_info": {
@@ -23240,6 +23104,145 @@
       "statistics": {
         "expectedGoalsOnTarget": 0,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Robert Navarro",
+        "firstName": "",
+        "lastName": "",
+        "slug": "robert-navarro",
+        "shortName": "R. Navarro",
+        "position": "M",
+        "jerseyNumber": "23",
+        "height": 178,
+        "userCount": 984,
+        "gender": "M",
+        "sofascoreId": "zbfmi5",
+        "id": 944165,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1018569600,
+        "proposedMarketValueRaw": {
+          "value": 6500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "روبرت نافارو",
+            "bn": "রবার্ট নাভারো",
+            "hi": "रॉबर्ट नवारो",
+            "ru": "Роберт Наварро"
+          },
+          "shortNameTranslation": {
+            "ar": "ر. نافارو",
+            "bn": "আর. নাভারো",
+            "hi": "आर. नवारो",
+            "ru": "Р. Наварро"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 524413,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 25,
+        "accuratePass": 20,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 6,
+        "accurateOppositionHalfPasses": 15,
+        "totalOppositionHalfPasses": 19,
+        "totalCross": 2,
+        "accurateCross": 2,
+        "duelLost": 2,
+        "bigChanceCreated": 1,
+        "shotOffTarget": 1,
+        "ballRecovery": 1,
+        "unsuccessfulTouch": 1,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 31,
+        "rating": 6.4,
+        "possessionLostCtrl": 6,
+        "expectedGoals": 0.0325,
+        "expectedAssists": 0.194841,
+        "topSpeed": 29.74,
+        "kilometersCovered": 10.75,
+        "numberOfSprints": 10,
+        "totalBallCarriesDistance": 166.85455736675,
+        "ballCarriesCount": 15,
+        "totalProgression": 73.160022768555,
+        "bestBallCarryProgression": 16.85987977351,
+        "totalProgressiveBallCarriesDistance": 53.411079642445,
+        "progressiveBallCarriesCount": 3,
+        "keyPass": 3,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.8
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.12,
+        "passValueNormalized": 0.28,
+        "dribbleValueNormalized": 0.25,
+        "defensiveValueNormalized": -0.23,
+        "metersCoveredRunningKm": 1.53,
+        "metersCoveredHighSpeedRunningKm": 0.57,
+        "metersCoveredSprintingKm": 0.13,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

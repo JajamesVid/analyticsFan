@@ -3978,128 +3978,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Celta",
-        "abreviatura": "CEL",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
-      },
-      "visitante": {
-        "nombre": "Sevilla",
-        "abreviatura": "SEV",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/17.png"
-      }
-    },
-    "resultado": "1-0",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20443-celta-sevilla",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083715,
-      "match_info": {
-        "homeTeam": {
-          "name": "Celta Vigo",
-          "shortName": "Celta",
-          "color": "#6cace4",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Sevilla",
-          "shortName": "Sevilla",
-          "color": "#ffffff",
-          "score": 0
-        },
-        "startTimestamp": 1779562800,
-        "slug": "sevilla-celta-vigo",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Joan Jordán",
-          "firstName": "Joan",
-          "lastName": "Jordan",
-          "slug": "joan-jordan",
-          "shortName": "J. Jordán",
-          "position": "M",
-          "jerseyNumber": "8",
-          "height": 184,
-          "userCount": 771,
-          "gender": "M",
-          "id": 591750,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 773452800,
-          "proposedMarketValueRaw": {
-            "value": 970000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "جوان جوردان",
-              "bn": "জন জর্ডান",
-              "hi": "जोआन जॉर्डन",
-              "ru": "Жоан Жордан"
-            },
-            "shortNameTranslation": {
-              "ar": "ج. جوردان",
-              "bn": "জে. জর্ডান",
-              "hi": "जे. जॉर्डन",
-              "ru": "Ж. Жордан"
-            }
-          }
-        },
-        "team": {
-          "name": "Sevilla",
-          "slug": "sevilla",
-          "shortName": "Sevilla",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 400830,
-          "nameCode": "SEV",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2833,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#cc1020",
-            "text": "#cc1020"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "إشبيلية",
-              "bn": "সেভিলা",
-              "hi": "सेविला",
-              "ru": "Cевилья"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "M",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Sevilla",
         "abreviatura": "SEV",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/17.png"
@@ -18942,6 +18820,128 @@
         },
         "statistics": {
           "expectedGoalsOnTarget": 0,
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Sevilla",
+        "abreviatura": "SEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/17.png"
+      }
+    },
+    "resultado": "1-0",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20443-celta-sevilla",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083715,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Sevilla",
+          "shortName": "Sevilla",
+          "color": "#ffffff",
+          "score": 0
+        },
+        "startTimestamp": 1779562800,
+        "slug": "sevilla-celta-vigo"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Joan Jordán",
+          "firstName": "Joan",
+          "lastName": "Jordan",
+          "slug": "joan-jordan",
+          "shortName": "J. Jordán",
+          "position": "M",
+          "jerseyNumber": "8",
+          "height": 184,
+          "userCount": 785,
+          "gender": "M",
+          "sofascoreId": "fmtu3b",
+          "id": 591750,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 773452800,
+          "proposedMarketValueRaw": {
+            "value": 970000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جوان جوردان",
+              "bn": "জন জর্ডান",
+              "hi": "जोआन जॉर्डन",
+              "ru": "Жоан Жордан"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. جوردان",
+              "bn": "জে. জর্ডান",
+              "hi": "जे. जॉर्डन",
+              "ru": "Ж. Жордан"
+            }
+          }
+        },
+        "team": {
+          "name": "Sevilla",
+          "slug": "sevilla",
+          "shortName": "Sevilla",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 405935,
+          "nameCode": "SEV",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2833,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#cc1020",
+            "text": "#cc1020"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إشبيلية",
+              "bn": "সেভিলা",
+              "hi": "सेविला",
+              "ru": "Cевилья"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
           "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",

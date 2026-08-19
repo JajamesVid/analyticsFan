@@ -5713,240 +5713,6 @@
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/30.png"
       },
       "visitante": {
-        "nombre": "Elche",
-        "abreviatura": "ELC",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
-      }
-    },
-    "resultado": "1-1",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20447-girona-elche",
-    "puntuaciones": {
-      "picas": 1,
-      "marca": 1,
-      "cope": 6.0,
-      "sofascore": 7.2,
-      "relevo": 2.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 3.0,
-        "futbolfantasy-rpg": 9.0,
-        "comunio": 6.0,
-        "modo-picas": 2.0,
-        "biwenger-sofascore": 6.0,
-        "biwenger-social": 0.0,
-        "biwenger-as-sofascore": 4.0,
-        "biwenger-stats": 2.0,
-        "futmondo-prensa": 2.0,
-        "futmondo-mixto-as": 2.0,
-        "futmondo-stats": 6.0,
-        "futmondo-mixto": 4.9,
-        "cronistas-marca": 2.0,
-        "marca-mixto": 3.0,
-        "marca-sofascore": 6.0,
-        "mister-cronistas-md": 2.0,
-        "mister-mixto": 3.0,
-        "mister-mixto-2": 4.0,
-        "mister-sofascore": 6.0,
-        "stat-goles": 0.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 0.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 0.0,
-        "stat-centros-precisos": 1.0,
-        "stat-pases-area-exito": 0.0,
-        "stat-regates-exito": 0.0,
-        "stat-faltas-recibidas": 3.0,
-        "stat-faltas-cometidas": 0.0,
-        "stat-pases-interceptados": 0.0,
-        "stat-balones-robados": 2.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 0.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 0.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 0.0,
-        "stat-despejes": 1.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 5.0,
-        "stat-tiros-totales": 0.0,
-        "stat-centros-totales": 2.0,
-        "stat-precision-pases": 77.8,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 2.0,
-        "stat-tackles": 2.0,
-        "stat-duelos-aereos": 1.0,
-        "stat-tiros-bloqueados": 0.0,
-        "stat-pases-totales": 18.0,
-        "stat-pases-completados": 14.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083743,
-      "match_info": {
-        "homeTeam": {
-          "name": "Girona FC",
-          "shortName": "Girona",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Elche",
-          "shortName": "Elche",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "startTimestamp": 1779562800,
-        "slug": "girona-fc-elche",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Hugo Rincón",
-          "firstName": "Hugo",
-          "lastName": "Rincon",
-          "slug": "rincon-lumbreras-hugo",
-          "shortName": "H. Rincón",
-          "position": "D",
-          "jerseyNumber": "34",
-          "height": 183,
-          "userCount": 364,
-          "gender": "M",
-          "sofascoreId": "fpunsx",
-          "id": 1632454,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 1043625600,
-          "proposedMarketValueRaw": {
-            "value": 3400000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "هوغو رينكون",
-              "ru": "Уго Ринкон"
-            },
-            "shortNameTranslation": {
-              "ar": "ه. رينكون",
-              "ru": "У. Ринкон"
-            }
-          }
-        },
-        "team": {
-          "name": "Girona FC",
-          "slug": "girona-fc",
-          "shortName": "Girona",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 373675,
-          "nameCode": "GIR",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 24264,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#ff0000",
-            "text": "#ff0000"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "جيرونا إف سي",
-              "hi": "जिरोना",
-              "ru": "Жирона"
-            },
-            "shortNameTranslation": {
-              "ar": "جيرونا",
-              "bn": "জিরোনা",
-              "hi": "गिरोना"
-            }
-          }
-        },
-        "statistics": {
-          "totalPass": 18,
-          "accuratePass": 14,
-          "totalLongBalls": 1,
-          "accurateLongBalls": 1,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 7,
-          "totalOwnHalfPasses": 7,
-          "accurateOppositionHalfPasses": 7,
-          "totalOppositionHalfPasses": 11,
-          "totalCross": 2,
-          "accurateCross": 1,
-          "aerialLost": 3,
-          "aerialWon": 1,
-          "duelLost": 3,
-          "duelWon": 6,
-          "totalClearance": 1,
-          "ballRecovery": 2,
-          "totalTackle": 2,
-          "wonTackle": 2,
-          "wasFouled": 3,
-          "minutesPlayed": 32,
-          "touches": 29,
-          "rating": 7.2,
-          "possessionLostCtrl": 5,
-          "expectedAssists": 0.0500468,
-          "topSpeed": 30.96,
-          "kilometersCovered": 4.44,
-          "numberOfSprints": 5,
-          "totalBallCarriesDistance": 19.276788637979,
-          "ballCarriesCount": 4,
-          "totalProgression": 7.3916535237504,
-          "progressiveBallCarriesCount": 0,
-          "ratingVersions": {
-            "original": 7.2,
-            "alternative": 7.1
-          },
-          "totalShots": 0,
-          "passValueNormalized": 0.19,
-          "dribbleValueNormalized": 0.04,
-          "defensiveValueNormalized": 0.18,
-          "metersCoveredRunningKm": 0.74,
-          "metersCoveredHighSpeedRunningKm": 0.17,
-          "metersCoveredSprintingKm": 0.11,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "D",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
-        "nombre": "Girona",
-        "abreviatura": "GIR",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/30.png"
-      },
-      "visitante": {
         "nombre": "Rayo",
         "abreviatura": "RAY",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/14.png"
@@ -9478,6 +9244,239 @@
         },
         "statistics": {
           "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Girona",
+        "abreviatura": "GIR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/30.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20447-girona-elche",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 6.0,
+      "sofascore": 7.2,
+      "relevo": 2.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 3.0,
+        "futbolfantasy-rpg": 9.0,
+        "comunio": 6.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 6.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 4.0,
+        "biwenger-stats": 2.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 6.0,
+        "futmondo-mixto": 4.9,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 3.0,
+        "marca-sofascore": 6.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 3.0,
+        "mister-mixto-2": 4.0,
+        "mister-sofascore": 6.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 1.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 3.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 2.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 1.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 5.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 2.0,
+        "stat-precision-pases": 77.8,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 2.0,
+        "stat-tackles": 2.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 18.0,
+        "stat-pases-completados": 14.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083743,
+      "match_info": {
+        "homeTeam": {
+          "name": "Girona FC",
+          "shortName": "Girona",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "girona-fc-elche"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Hugo Rincón",
+          "firstName": "Hugo",
+          "lastName": "Rincon",
+          "slug": "rincon-lumbreras-hugo",
+          "shortName": "H. Rincón",
+          "position": "D",
+          "jerseyNumber": "32",
+          "height": 183,
+          "userCount": 376,
+          "gender": "M",
+          "sofascoreId": "fpunsx",
+          "id": 1632454,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1043625600,
+          "proposedMarketValueRaw": {
+            "value": 3400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "هوغو رينكون",
+              "ru": "Уго Ринкон"
+            },
+            "shortNameTranslation": {
+              "ar": "ه. رينكون",
+              "ru": "У. Ринкон"
+            }
+          }
+        },
+        "team": {
+          "name": "Girona FC",
+          "slug": "girona-fc",
+          "shortName": "Girona",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 374248,
+          "nameCode": "GIR",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 24264,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#ff0000",
+            "text": "#ff0000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جيرونا إف سي",
+              "hi": "जिरोना",
+              "ru": "Жирона"
+            },
+            "shortNameTranslation": {
+              "ar": "جيرونا",
+              "bn": "জিরোনা",
+              "hi": "गिरोना"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 18,
+          "accuratePass": 14,
+          "totalLongBalls": 1,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 7,
+          "totalOwnHalfPasses": 7,
+          "accurateOppositionHalfPasses": 7,
+          "totalOppositionHalfPasses": 11,
+          "totalCross": 2,
+          "accurateCross": 1,
+          "aerialLost": 3,
+          "aerialWon": 1,
+          "duelLost": 3,
+          "duelWon": 6,
+          "totalClearance": 1,
+          "ballRecovery": 2,
+          "totalTackle": 2,
+          "wonTackle": 2,
+          "wasFouled": 3,
+          "minutesPlayed": 32,
+          "touches": 29,
+          "rating": 7.2,
+          "possessionLostCtrl": 5,
+          "expectedAssists": 0.0500468,
+          "topSpeed": 30.96,
+          "kilometersCovered": 4.44,
+          "numberOfSprints": 5,
+          "totalBallCarriesDistance": 19.276788637979,
+          "ballCarriesCount": 4,
+          "totalProgression": 7.3916535237504,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 7.2,
+            "alternative": 7.1
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.19,
+          "dribbleValueNormalized": 0.04,
+          "defensiveValueNormalized": 0.18,
+          "metersCoveredRunningKm": 0.74,
+          "metersCoveredHighSpeedRunningKm": 0.17,
+          "metersCoveredSprintingKm": 0.11,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

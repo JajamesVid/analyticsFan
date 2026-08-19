@@ -3643,148 +3643,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Pedro Bigas",
-        "firstName": "Pedro",
-        "lastName": "Bigas",
-        "slug": "pedro-bigas",
-        "shortName": "P. Bigas",
-        "position": "D",
-        "jerseyNumber": "6",
-        "height": 180,
-        "userCount": 349,
-        "gender": "M",
-        "sofascoreId": "em2p38",
-        "id": 141832,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 635040000,
-        "proposedMarketValueRaw": {
-          "value": 310000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "بيدرو بيجاس",
-            "bn": "পেড্রো বিগাস",
-            "hi": "पेड्रो बिगास",
-            "ru": "Педро Бигас"
-          },
-          "shortNameTranslation": {
-            "ar": "ب. بيجاس",
-            "bn": "পি. বিগাস",
-            "hi": "पी. बिगास",
-            "ru": "П. Бигас"
-          }
-        }
-      },
-      "team": {
-        "name": "Elche",
-        "slug": "elche",
-        "shortName": "Elche",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 116534,
-        "nameCode": "ELC",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2846,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#336600",
-          "text": "#336600"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إلتشي",
-            "bn": "এলচে",
-            "hi": "एल्चे",
-            "ru": "Эльче"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 22,
-        "accuratePass": 16,
-        "totalLongBalls": 2,
-        "accurateLongBalls": 1,
-        "goalAssist": 1,
-        "accurateOwnHalfPasses": 7,
-        "totalOwnHalfPasses": 10,
-        "accurateOppositionHalfPasses": 9,
-        "totalOppositionHalfPasses": 12,
-        "totalCross": 1,
-        "aerialLost": 1,
-        "aerialWon": 4,
-        "duelLost": 3,
-        "duelWon": 6,
-        "challengeLost": 1,
-        "totalContest": 1,
-        "totalClearance": 3,
-        "interceptionWon": 2,
-        "ballRecovery": 3,
-        "totalTackle": 2,
-        "wonTackle": 2,
-        "unsuccessfulTouch": 1,
-        "minutesPlayed": 90,
-        "touches": 39,
-        "rating": 6.9,
-        "possessionLostCtrl": 9,
-        "expectedAssists": 0.0493942,
-        "topSpeed": 28.04,
-        "kilometersCovered": 9.3,
-        "numberOfSprints": 7,
-        "totalBallCarriesDistance": 41.005444506116,
-        "ballCarriesCount": 4,
-        "totalProgression": 29.778898775174,
-        "bestBallCarryProgression": 22.314786531313,
-        "totalProgressiveBallCarriesDistance": 26.933703792832,
-        "progressiveBallCarriesCount": 1,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 6.9,
-          "alternative": 7
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.19,
-        "dribbleValueNormalized": 0.03,
-        "defensiveValueNormalized": -0.08,
-        "metersCoveredRunningKm": 1.12,
-        "metersCoveredHighSpeedRunningKm": 0.35,
-        "metersCoveredSprintingKm": 0.06,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12467482": {
     "id": 12467482,
     "match_info": {
@@ -23469,6 +23327,148 @@
       },
       "statistics": {
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Bigas",
+        "firstName": "Pedro",
+        "lastName": "Bigas",
+        "slug": "pedro-bigas",
+        "shortName": "P. Bigas",
+        "position": "D",
+        "jerseyNumber": "6",
+        "height": 180,
+        "userCount": 343,
+        "gender": "M",
+        "sofascoreId": "em2p38",
+        "id": 141832,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 635040000,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو بيجاس",
+            "bn": "পেড্রো বিগাস",
+            "hi": "पेड्रो बिगास",
+            "ru": "Педро Бигас"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بيجاس",
+            "bn": "পি. বিগাস",
+            "hi": "पी. बिगास",
+            "ru": "П. Бигас"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 118908,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 22,
+        "accuratePass": 16,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 1,
+        "accurateOwnHalfPasses": 7,
+        "totalOwnHalfPasses": 10,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 12,
+        "totalCross": 1,
+        "aerialLost": 1,
+        "aerialWon": 4,
+        "duelLost": 3,
+        "duelWon": 6,
+        "challengeLost": 1,
+        "totalContest": 1,
+        "totalClearance": 3,
+        "interceptionWon": 2,
+        "ballRecovery": 3,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 90,
+        "touches": 39,
+        "rating": 6.9,
+        "possessionLostCtrl": 9,
+        "expectedAssists": 0.0493942,
+        "topSpeed": 28.04,
+        "kilometersCovered": 9.3,
+        "numberOfSprints": 7,
+        "totalBallCarriesDistance": 41.005444506116,
+        "ballCarriesCount": 4,
+        "totalProgression": 29.778898775174,
+        "bestBallCarryProgression": 22.314786531313,
+        "totalProgressiveBallCarriesDistance": 26.933703792832,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.19,
+        "dribbleValueNormalized": 0.03,
+        "defensiveValueNormalized": -0.08,
+        "metersCoveredRunningKm": 1.12,
+        "metersCoveredHighSpeedRunningKm": 0.35,
+        "metersCoveredSprintingKm": 0.06,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

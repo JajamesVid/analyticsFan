@@ -3452,133 +3452,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Raúl Asencio",
-        "slug": "raul-asencio",
-        "shortName": "R. Asencio",
-        "position": "D",
-        "jerseyNumber": "17",
-        "height": 184,
-        "userCount": 127548,
-        "gender": "M",
-        "sofascoreId": "asencio",
-        "id": 1156645,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1045094400,
-        "proposedMarketValueRaw": {
-          "value": 23000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "راؤول أسينسيو",
-            "bn": "রাউল আসেনসিও",
-            "hi": "राउल असेंशियो"
-          },
-          "shortNameTranslation": {
-            "ar": "ر. أسينسيو",
-            "bn": "আর. অ্যাসেনসিও",
-            "hi": "आर. असेंशियो"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Madrid",
-        "slug": "real-madrid",
-        "shortName": "Real Madrid",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 7733858,
-        "nameCode": "RMA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2829,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#004996",
-          "text": "#004996"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال مدريد",
-            "bn": "রিয়াল মাদ্রিদ",
-            "hi": "रियल मैड्रिड",
-            "ru": "Реал Мадрид"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 93,
-        "accuratePass": 87,
-        "totalLongBalls": 3,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 73,
-        "totalOwnHalfPasses": 76,
-        "accurateOppositionHalfPasses": 14,
-        "totalOppositionHalfPasses": 17,
-        "duelLost": 1,
-        "duelWon": 4,
-        "totalClearance": 3,
-        "outfielderBlock": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 3,
-        "unsuccessfulTouch": 1,
-        "wasFouled": 4,
-        "fouls": 1,
-        "minutesPlayed": 90,
-        "touches": 105,
-        "rating": 6.7,
-        "possessionLostCtrl": 7,
-        "expectedAssists": 0.0045238,
-        "totalBallCarriesDistance": 237.86468780305,
-        "ballCarriesCount": 32,
-        "totalProgression": 125.52496155107,
-        "bestBallCarryProgression": 17.157132151626,
-        "totalProgressiveBallCarriesDistance": 20.475868723939,
-        "progressiveBallCarriesCount": 1,
-        "ratingVersions": {
-          "original": 6.7,
-          "alternative": 6.7
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.17,
-        "dribbleValueNormalized": 0.14,
-        "defensiveValueNormalized": -0.27,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437523": {
     "id": 12437523,
     "match_info": {
@@ -17793,6 +17666,141 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Raúl Asencio",
+        "slug": "raul-asencio",
+        "shortName": "R. Asencio",
+        "position": "D",
+        "jerseyNumber": "17",
+        "height": 184,
+        "userCount": 134307,
+        "gender": "M",
+        "sofascoreId": "asencio",
+        "id": 1156645,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1045094400,
+        "proposedMarketValueRaw": {
+          "value": 18100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راؤول أسينسيو",
+            "bn": "রাউল আসেনসিও",
+            "hi": "राउल असेंशियो",
+            "ru": "Рауль Асенсио"
+          },
+          "shortNameTranslation": {
+            "ar": "ر. أسينسيو",
+            "bn": "আর. অ্যাসেনসিও",
+            "hi": "आर. असेंशियो",
+            "ru": "Р. Асенсио"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Madrid",
+        "slug": "real-madrid",
+        "shortName": "Real Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 8378061,
+        "nameCode": "RMA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2829,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#004996",
+          "text": "#004996"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال مدريد",
+            "bn": "রিয়াল মাদ্রিদ",
+            "hi": "रियल मैड्रिड",
+            "ru": "Реал Мадрид"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 93,
+        "accuratePass": 87,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 73,
+        "totalOwnHalfPasses": 76,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 17,
+        "duelLost": 1,
+        "duelWon": 4,
+        "totalClearance": 3,
+        "outfielderBlock": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 3,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 4,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 105,
+        "rating": 6.7,
+        "possessionLostCtrl": 7,
+        "expectedAssists": 0.0045238,
+        "topSpeed": 32.37,
+        "kilometersCovered": 8.35,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 237.86468780305,
+        "ballCarriesCount": 32,
+        "totalProgression": 125.52496155107,
+        "bestBallCarryProgression": 17.157132151626,
+        "totalProgressiveBallCarriesDistance": 20.475868723939,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.17,
+        "dribbleValueNormalized": 0.14,
+        "defensiveValueNormalized": -0.27,
+        "metersCoveredRunningKm": 0.68,
+        "metersCoveredHighSpeedRunningKm": 0.14,
+        "metersCoveredSprintingKm": 0.06,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
     }
   }
 }

@@ -3943,228 +3943,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Real Madrid",
-        "abreviatura": "RMD",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
-      },
-      "visitante": {
-        "nombre": "Athletic",
-        "abreviatura": "ATH",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
-      }
-    },
-    "resultado": "4-2",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20450-real-madrid-athletic",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 1,
-      "cope": 5.0,
-      "sofascore": 6.0,
-      "relevo": 0.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 1.0,
-        "futbolfantasy-rpg": 1.0,
-        "comunio": 1.0,
-        "scale0": -2.0,
-        "biwenger-sofascore": 0.0,
-        "biwenger-social": -1.0,
-        "biwenger-as-sofascore": -1.0,
-        "biwenger-stats": 2.0,
-        "futmondo-prensa": 1.0,
-        "futmondo-mixto-as": -2.0,
-        "futmondo-stats": -3.0,
-        "futmondo-mixto": 3.1,
-        "cronistas-marca": 2.0,
-        "marca-mixto": 2.0,
-        "marca-sofascore": 0.0,
-        "mister-cronistas-md": 2.0,
-        "mister-mixto": 1.0,
-        "mister-mixto-2": 0.0,
-        "mister-sofascore": 0.0,
-        "stat-goles": 0.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 0.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 0.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 0.0,
-        "stat-regates-exito": 0.0,
-        "stat-faltas-recibidas": 0.0,
-        "stat-faltas-cometidas": 3.0,
-        "stat-pases-interceptados": 0.0,
-        "stat-balones-robados": 0.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 0.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 3.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 0.0,
-        "stat-despejes": 0.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 2.0,
-        "stat-tiros-totales": 0.0,
-        "stat-centros-totales": 0.0,
-        "stat-precision-pases": 100.0,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 0.0,
-        "stat-tackles": 0.0,
-        "stat-duelos-aereos": 0.0,
-        "stat-tiros-bloqueados": 0.0,
-        "stat-pases-totales": 6.0,
-        "stat-pases-completados": 6.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083731,
-      "match_info": {
-        "homeTeam": {
-          "name": "Real Madrid",
-          "shortName": "Real Madrid",
-          "color": "#ffffff",
-          "score": 4
-        },
-        "awayTeam": {
-          "name": "Athletic Club",
-          "shortName": "Athletic Club",
-          "color": "#aa0000",
-          "score": 2
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-madrid-athletic-club",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Unai Gómez",
-          "slug": "unai-gomez",
-          "shortName": "U. Gómez",
-          "position": "M",
-          "jerseyNumber": "20",
-          "height": 183,
-          "userCount": 865,
-          "gender": "M",
-          "id": 1391375,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 1053820800,
-          "proposedMarketValueRaw": {
-            "value": 5200000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "أوناي جوميز",
-              "bn": "উনাই গোমেজ",
-              "hi": "उनाई गोमेज़",
-              "ru": "Унай Гомес"
-            },
-            "shortNameTranslation": {
-              "ar": "أ. جوميز",
-              "bn": "ইউ. গোমেজ",
-              "hi": "यू. गोमेज़",
-              "ru": "У. Гомес"
-            }
-          }
-        },
-        "team": {
-          "name": "Athletic Club",
-          "slug": "athletic-club",
-          "shortName": "Athletic Club",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 519382,
-          "nameCode": "ATH",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2825,
-          "teamColors": {
-            "primary": "#aa0000",
-            "secondary": "#ffffff",
-            "text": "#ffffff"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "نادي أتليتيك",
-              "bn": "অ্যাথলেটিক ক্লাব",
-              "hi": "एथलेटिक क्लब",
-              "ru": "Атлетик Бильбао"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalPass": 6,
-          "accuratePass": 6,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 4,
-          "totalOwnHalfPasses": 4,
-          "accurateOppositionHalfPasses": 2,
-          "totalOppositionHalfPasses": 2,
-          "duelLost": 3,
-          "unsuccessfulTouch": 2,
-          "fouls": 3,
-          "minutesPlayed": 60,
-          "touches": 11,
-          "rating": 6,
-          "possessionLostCtrl": 2,
-          "expectedAssists": 0.00104008,
-          "topSpeed": 28.48,
-          "kilometersCovered": 7,
-          "numberOfSprints": 5,
-          "totalBallCarriesDistance": 17.29387260091,
-          "ballCarriesCount": 3,
-          "totalProgression": -3.8000099700623,
-          "progressiveBallCarriesCount": 0,
-          "ratingVersions": {
-            "original": 6,
-            "alternative": 6.1
-          },
-          "totalShots": 0,
-          "passValueNormalized": -0.02,
-          "dribbleValueNormalized": -0.24,
-          "defensiveValueNormalized": -0.17,
-          "metersCoveredRunningKm": 0.88,
-          "metersCoveredHighSpeedRunningKm": 0.27,
-          "metersCoveredSprintingKm": 0.06,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "M",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Athletic",
         "abreviatura": "ATH",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
@@ -22267,6 +22045,230 @@
           "code": 404,
           "message": "Not Found"
         }
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "4-2",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20450-real-madrid-athletic",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.0,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 1.0,
+        "futbolfantasy-rpg": 1.0,
+        "comunio": 1.0,
+        "scale0": -2.0,
+        "biwenger-sofascore": 0.0,
+        "biwenger-social": -1.0,
+        "biwenger-as-sofascore": -1.0,
+        "biwenger-stats": 2.0,
+        "futmondo-prensa": 1.0,
+        "futmondo-mixto-as": -2.0,
+        "futmondo-stats": -3.0,
+        "futmondo-mixto": 3.1,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 0.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 1.0,
+        "mister-mixto-2": 0.0,
+        "mister-sofascore": 0.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 3.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 3.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 2.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 100.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 6.0,
+        "stat-pases-completados": 6.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083731,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Madrid",
+          "shortName": "Real Madrid",
+          "color": "#ffffff",
+          "score": 4
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 2
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-madrid-athletic-club"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Unai Gómez",
+          "slug": "unai-gomez",
+          "shortName": "U. Gómez",
+          "position": "M",
+          "jerseyNumber": "20",
+          "height": 183,
+          "userCount": 951,
+          "gender": "M",
+          "sofascoreId": "iwd46k",
+          "id": 1391375,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1053820800,
+          "proposedMarketValueRaw": {
+            "value": 5200000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوناي جوميز",
+              "bn": "উনাই গোমেজ",
+              "hi": "उनाई गोमेज़",
+              "ru": "Унай Гомес"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. جوميز",
+              "bn": "ইউ. গোমেজ",
+              "hi": "यू. गोमेज़",
+              "ru": "У. Гомес"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 524413,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيك بيلباو",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {
+              "ar": "أتلتيك بيلباو"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 6,
+          "accuratePass": 6,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 4,
+          "totalOwnHalfPasses": 4,
+          "accurateOppositionHalfPasses": 2,
+          "totalOppositionHalfPasses": 2,
+          "duelLost": 3,
+          "unsuccessfulTouch": 2,
+          "fouls": 3,
+          "minutesPlayed": 60,
+          "touches": 11,
+          "rating": 6,
+          "possessionLostCtrl": 2,
+          "expectedAssists": 0.00104008,
+          "topSpeed": 28.48,
+          "kilometersCovered": 7,
+          "numberOfSprints": 5,
+          "totalBallCarriesDistance": 17.29387260091,
+          "ballCarriesCount": 3,
+          "totalProgression": -3.8000099700623,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 6,
+            "alternative": 6.1
+          },
+          "totalShots": 0,
+          "passValueNormalized": -0.02,
+          "dribbleValueNormalized": -0.24,
+          "defensiveValueNormalized": -0.17,
+          "metersCoveredRunningKm": 0.88,
+          "metersCoveredHighSpeedRunningKm": 0.27,
+          "metersCoveredSprintingKm": 0.06,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
       }
     }
   }

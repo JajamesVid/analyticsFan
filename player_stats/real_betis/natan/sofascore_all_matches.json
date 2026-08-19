@@ -3517,131 +3517,6 @@
       "extra": null
     }
   },
-  "14083710": {
-    "id": 14083710,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Betis",
-        "shortName": "Real Betis",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "awayTeam": {
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "color": "#0e3b68",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "levante-ud-real-betis"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Natan",
-        "slug": "natan",
-        "shortName": "Natan",
-        "position": "D",
-        "jerseyNumber": "4",
-        "height": 188,
-        "userCount": 3454,
-        "gender": "M",
-        "id": 1015287,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 981417600,
-        "proposedMarketValueRaw": {
-          "value": 26000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ناتان",
-            "bn": "নাথান",
-            "hi": "नतन",
-            "ru": "Натан"
-          },
-          "shortNameTranslation": {
-            "ar": "ناتان",
-            "bn": "নাতন",
-            "hi": "नतन"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Betis",
-        "slug": "real-betis",
-        "shortName": "Real Betis",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 600173,
-        "nameCode": "BET",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2816,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#006633",
-          "text": "#006633"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال بيتيس",
-            "ru": "Реал Бетис"
-          },
-          "shortNameTranslation": {
-            "ar": "ريال بيتيس",
-            "bn": "বেটিস",
-            "hi": "बेटिस"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 45,
-        "accuratePass": 43,
-        "totalLongBalls": 3,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 32,
-        "totalOwnHalfPasses": 33,
-        "accurateOppositionHalfPasses": 11,
-        "totalOppositionHalfPasses": 12,
-        "aerialWon": 1,
-        "duelLost": 1,
-        "duelWon": 1,
-        "challengeLost": 1,
-        "totalClearance": 5,
-        "outfielderBlock": 1,
-        "ballRecovery": 3,
-        "minutesPlayed": 79,
-        "touches": 52,
-        "rating": 6.7,
-        "possessionLostCtrl": 2,
-        "expectedAssists": 0.00317221,
-        "totalBallCarriesDistance": 123.87026807836,
-        "ballCarriesCount": 17,
-        "totalProgression": 41.152147841469,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.7,
-          "alternative": 6.8
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.05,
-        "dribbleValueNormalized": 0.07,
-        "defensiveValueNormalized": -0.03,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437504": {
     "id": 12437504,
     "match_info": {
@@ -23742,6 +23617,138 @@
           "alternative": 6.9
         },
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083710": {
+    "id": 14083710,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "levante-ud-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Natan",
+        "slug": "natan",
+        "shortName": "Natan",
+        "position": "D",
+        "jerseyNumber": "4",
+        "height": 188,
+        "userCount": 3732,
+        "gender": "M",
+        "sofascoreId": "xzfdcp",
+        "id": 1015287,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 981417600,
+        "proposedMarketValueRaw": {
+          "value": 26000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ناتان",
+            "bn": "নাথান",
+            "hi": "नतन",
+            "ru": "Натан"
+          },
+          "shortNameTranslation": {
+            "ar": "ناتان",
+            "bn": "নাতন",
+            "hi": "नतन"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Betis",
+        "slug": "real-betis",
+        "shortName": "Real Betis",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 609007,
+        "nameCode": "BET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2816,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#006633",
+          "text": "#006633"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال بيتيس",
+            "ru": "Реал Бетис"
+          },
+          "shortNameTranslation": {
+            "ar": "ريال بيتيس",
+            "bn": "বেটিস",
+            "hi": "बेटिस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 45,
+        "accuratePass": 43,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 32,
+        "totalOwnHalfPasses": 33,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 12,
+        "aerialWon": 1,
+        "duelLost": 1,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "totalClearance": 5,
+        "outfielderBlock": 1,
+        "ballRecovery": 3,
+        "minutesPlayed": 79,
+        "touches": 52,
+        "rating": 6.7,
+        "possessionLostCtrl": 2,
+        "expectedAssists": 0.00317221,
+        "topSpeed": 29.08,
+        "kilometersCovered": 6.9,
+        "numberOfSprints": 7,
+        "totalBallCarriesDistance": 123.87026807836,
+        "ballCarriesCount": 17,
+        "totalProgression": 41.152147841469,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.05,
+        "dribbleValueNormalized": 0.07,
+        "defensiveValueNormalized": -0.03,
+        "metersCoveredRunningKm": 0.83,
+        "metersCoveredHighSpeedRunningKm": 0.32,
+        "metersCoveredSprintingKm": 0.11,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

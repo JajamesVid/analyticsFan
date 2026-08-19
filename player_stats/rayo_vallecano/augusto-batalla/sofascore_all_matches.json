@@ -3285,100 +3285,6 @@
       "extra": null
     }
   },
-  "14083706": {
-    "id": 14083706,
-    "match_info": {
-      "homeTeam": {
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "color": "#0232a0",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Rayo Vallecano",
-        "shortName": "Rayo Vallecano",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "deportivo-alaves-rayo-vallecano"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Augusto Batalla",
-        "firstName": "Augusto",
-        "lastName": "Batalla",
-        "slug": "augusto-batalla",
-        "shortName": "A. Batalla",
-        "position": "G",
-        "jerseyNumber": "13",
-        "height": 186,
-        "userCount": 1671,
-        "gender": "M",
-        "id": 358910,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 830822400,
-        "proposedMarketValueRaw": {
-          "value": 5800000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أوغوستو باتالا",
-            "bn": "অগাস্টো বাটাল্লা",
-            "hi": "ऑगस्टो बटाला",
-            "ru": "Аугусто Баталья"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. باتالا",
-            "bn": "এ. বাটাল্লা",
-            "hi": "ए. बटाला",
-            "ru": "А. Баталья"
-          }
-        }
-      },
-      "team": {
-        "name": "Rayo Vallecano",
-        "slug": "rayo-vallecano",
-        "shortName": "Rayo Vallecano",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 227407,
-        "nameCode": "RAY",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2818,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "رايو فاليكانو",
-            "bn": "রায়ো ভ্যালেকানো",
-            "hi": "रेयो वैलेकैनो",
-            "ru": "Райо Вальекано"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "G",
-      "extra": null
-    }
-  },
   "15632649": {
     "id": 15632649,
     "match_info": {
@@ -23136,6 +23042,101 @@
           "shortNameTranslation": {
             "ar": "سان لورينزو"
           }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083706": {
+    "id": 14083706,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "deportivo-alaves-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Augusto Batalla",
+        "firstName": "Augusto",
+        "lastName": "Batalla",
+        "slug": "augusto-batalla",
+        "shortName": "A. Batalla",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 1703,
+        "gender": "M",
+        "sofascoreId": "pw9jt7",
+        "id": 358910,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 830822400,
+        "proposedMarketValueRaw": {
+          "value": 5800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوغوستو باتالا",
+            "bn": "অগাস্টো বাটাল্লা",
+            "hi": "ऑगस्टो बटाला",
+            "ru": "Аугусто Баталья"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. باتالا",
+            "bn": "এ. বাটাল্লা",
+            "hi": "ए. बटाला",
+            "ru": "А. Баталья"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 227211,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
         }
       },
       "statistics": {

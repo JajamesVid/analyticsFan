@@ -3434,138 +3434,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Aitor Paredes",
-        "firstName": "Aitor",
-        "lastName": "Paredes",
-        "slug": "aitor-paredes",
-        "shortName": "A. Paredes",
-        "position": "D",
-        "jerseyNumber": "4",
-        "height": 186,
-        "userCount": 1195,
-        "gender": "M",
-        "sofascoreId": "8jj3h4",
-        "id": 959872,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 956966400,
-        "proposedMarketValueRaw": {
-          "value": 7100000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أيتور باريديس",
-            "bn": "আইটর পেরেদেস",
-            "hi": "एइटोर पारडेस",
-            "ru": "Аитор Паредес"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. باريديس",
-            "bn": "এ. পেরেদেস",
-            "hi": "ए. पारडेस",
-            "ru": "А. Паредес"
-          }
-        }
-      },
-      "team": {
-        "name": "Athletic Club",
-        "slug": "athletic-club",
-        "shortName": "Athletic Club",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 519382,
-        "nameCode": "ATH",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2825,
-        "teamColors": {
-          "primary": "#aa0000",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "نادي أتليتيك",
-            "bn": "অ্যাথলেটিক ক্লাব",
-            "hi": "एथलेटिक क्लब",
-            "ru": "Атлетик Бильбао"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 27,
-        "accuratePass": 23,
-        "totalLongBalls": 3,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 18,
-        "totalOwnHalfPasses": 20,
-        "accurateOppositionHalfPasses": 5,
-        "totalOppositionHalfPasses": 7,
-        "duelLost": 1,
-        "challengeLost": 1,
-        "totalClearance": 4,
-        "interceptionWon": 2,
-        "ballRecovery": 2,
-        "minutesPlayed": 90,
-        "touches": 36,
-        "rating": 5.6,
-        "possessionLostCtrl": 4,
-        "expectedAssists": 0.00089109,
-        "topSpeed": 29.66,
-        "kilometersCovered": 9.57,
-        "numberOfSprints": 17,
-        "totalBallCarriesDistance": 96.90737517863,
-        "ballCarriesCount": 9,
-        "totalProgression": 30.701739285049,
-        "bestBallCarryProgression": 20.482691579744,
-        "totalProgressiveBallCarriesDistance": 43.048150408571,
-        "progressiveBallCarriesCount": 2,
-        "ratingVersions": {
-          "original": 5.6,
-          "alternative": 6
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.03,
-        "dribbleValueNormalized": 0.04,
-        "defensiveValueNormalized": -0.67,
-        "metersCoveredRunningKm": 1.29,
-        "metersCoveredHighSpeedRunningKm": 0.55,
-        "metersCoveredSprintingKm": 0.18,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "13514532": {
     "id": 13514532,
     "match_info": {
@@ -22710,6 +22578,140 @@
           "alternative": 6.5
         },
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Aitor Paredes",
+        "firstName": "Aitor",
+        "lastName": "Paredes",
+        "slug": "aitor-paredes",
+        "shortName": "A. Paredes",
+        "position": "D",
+        "jerseyNumber": "4",
+        "height": 186,
+        "userCount": 1218,
+        "gender": "M",
+        "sofascoreId": "8jj3h4",
+        "id": 959872,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 956966400,
+        "proposedMarketValueRaw": {
+          "value": 7100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أيتور باريديس",
+            "bn": "আইটর পেরেদেস",
+            "hi": "एइटोर पारडेस",
+            "ru": "Аитор Паредес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. باريديس",
+            "bn": "এ. পেরেদেস",
+            "hi": "ए. पारडेस",
+            "ru": "А. Паредес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 524413,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 27,
+        "accuratePass": 23,
+        "totalLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 18,
+        "totalOwnHalfPasses": 20,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 7,
+        "duelLost": 1,
+        "challengeLost": 1,
+        "totalClearance": 4,
+        "interceptionWon": 2,
+        "ballRecovery": 2,
+        "minutesPlayed": 90,
+        "touches": 36,
+        "rating": 5.6,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.00089109,
+        "topSpeed": 29.66,
+        "kilometersCovered": 9.57,
+        "numberOfSprints": 17,
+        "totalBallCarriesDistance": 96.90737517863,
+        "ballCarriesCount": 9,
+        "totalProgression": 30.701739285049,
+        "bestBallCarryProgression": 20.482691579744,
+        "totalProgressiveBallCarriesDistance": 43.048150408571,
+        "progressiveBallCarriesCount": 2,
+        "ratingVersions": {
+          "original": 5.6,
+          "alternative": 6
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.03,
+        "dribbleValueNormalized": 0.04,
+        "defensiveValueNormalized": -0.67,
+        "metersCoveredRunningKm": 1.29,
+        "metersCoveredHighSpeedRunningKm": 0.55,
+        "metersCoveredSprintingKm": 0.18,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

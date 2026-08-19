@@ -3436,138 +3436,6 @@
       "extra": null
     }
   },
-  "14083710": {
-    "id": 14083710,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Betis",
-        "shortName": "Real Betis",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "awayTeam": {
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "color": "#0e3b68",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "levante-ud-real-betis"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Manuel Sánchez",
-        "slug": "manuel-sanchez",
-        "shortName": "M. Sánchez",
-        "position": "D",
-        "jerseyNumber": "23",
-        "height": 179,
-        "userCount": 734,
-        "gender": "M",
-        "id": 984789,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 966988800,
-        "proposedMarketValueRaw": {
-          "value": 6400000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "مانويل سانشيز",
-            "bn": "ম্যানুয়েল সানচেজ",
-            "hi": "मैनुअल सांचेज़",
-            "ru": "Мануэль Санчес"
-          },
-          "shortNameTranslation": {
-            "ar": "م. سانشيز",
-            "bn": "এম. সানচেজ",
-            "hi": "एम. सांचेज़",
-            "ru": "М. Санчес"
-          }
-        }
-      },
-      "team": {
-        "name": "Levante UD",
-        "slug": "levante-ud",
-        "shortName": "Levante",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 116374,
-        "nameCode": "LEV",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2849,
-        "teamColors": {
-          "primary": "#0e3b68",
-          "secondary": "#d70000",
-          "text": "#d70000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ليفانتي يو دي",
-            "hi": "लेवांटे यूडी",
-            "ru": "Леванте"
-          },
-          "shortNameTranslation": {
-            "ar": "ليفانتي",
-            "bn": "লেভান্তে",
-            "hi": "लेवांते"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 27,
-        "accuratePass": 20,
-        "totalLongBalls": 5,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 9,
-        "totalOwnHalfPasses": 11,
-        "accurateOppositionHalfPasses": 11,
-        "totalOppositionHalfPasses": 16,
-        "totalCross": 4,
-        "accurateCross": 1,
-        "aerialLost": 1,
-        "duelLost": 4,
-        "duelWon": 3,
-        "challengeLost": 3,
-        "bigChanceCreated": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 5,
-        "totalTackle": 3,
-        "wonTackle": 3,
-        "minutesPlayed": 90,
-        "touches": 41,
-        "rating": 6.6,
-        "possessionLostCtrl": 10,
-        "expectedAssists": 0.625718,
-        "totalBallCarriesDistance": 84.572795608498,
-        "ballCarriesCount": 12,
-        "totalProgression": 37.132267577849,
-        "progressiveBallCarriesCount": 0,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 6.6,
-          "alternative": 6.8
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.31,
-        "dribbleValueNormalized": 0.14,
-        "defensiveValueNormalized": -0.49,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437649": {
     "id": 12437649,
     "match_info": {
@@ -22615,6 +22483,145 @@
         "expectedGoalsOnTarget": 0,
         "expectedAssists": 0.00387021,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083710": {
+    "id": 14083710,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "levante-ud-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Manuel Sánchez",
+        "slug": "manuel-sanchez",
+        "shortName": "M. Sánchez",
+        "position": "D",
+        "jerseyNumber": "23",
+        "height": 179,
+        "userCount": 742,
+        "gender": "M",
+        "sofascoreId": "ce8e4n",
+        "id": 984789,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 966988800,
+        "proposedMarketValueRaw": {
+          "value": 6400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مانويل سانشيز",
+            "bn": "ম্যানুয়েল সানচেজ",
+            "hi": "मैनुअल सांचेज़",
+            "ru": "Мануэль Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "م. سانشيز",
+            "bn": "এম. সানচেজ",
+            "hi": "एम. सांचेज़",
+            "ru": "М. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Levante UD",
+        "slug": "levante-ud",
+        "shortName": "Levante",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 117899,
+        "nameCode": "LEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2849,
+        "teamColors": {
+          "primary": "#0e3b68",
+          "secondary": "#d70000",
+          "text": "#d70000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفانتي",
+            "hi": "लेवांटे यूडी",
+            "ru": "Леванте"
+          },
+          "shortNameTranslation": {
+            "ar": "ليفانتي",
+            "bn": "লেভান্তে",
+            "hi": "लेवांते"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 27,
+        "accuratePass": 20,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 9,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 16,
+        "totalCross": 4,
+        "accurateCross": 1,
+        "aerialLost": 1,
+        "duelLost": 4,
+        "duelWon": 3,
+        "challengeLost": 3,
+        "bigChanceCreated": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 5,
+        "totalTackle": 3,
+        "wonTackle": 3,
+        "minutesPlayed": 90,
+        "touches": 41,
+        "rating": 6.6,
+        "possessionLostCtrl": 10,
+        "expectedAssists": 0.625718,
+        "topSpeed": 31.83,
+        "kilometersCovered": 9.89,
+        "numberOfSprints": 12,
+        "totalBallCarriesDistance": 84.572795608498,
+        "ballCarriesCount": 12,
+        "totalProgression": 37.132267577849,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.31,
+        "dribbleValueNormalized": 0.14,
+        "defensiveValueNormalized": -0.49,
+        "metersCoveredRunningKm": 1.56,
+        "metersCoveredHighSpeedRunningKm": 0.57,
+        "metersCoveredSprintingKm": 0.15,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

@@ -3539,139 +3539,6 @@
       "extra": null
     }
   },
-  "14083723": {
-    "id": 14083723,
-    "match_info": {
-      "homeTeam": {
-        "name": "Getafe",
-        "shortName": "Getafe",
-        "color": "#00369e",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Osasuna",
-        "shortName": "Osasuna",
-        "color": "#cc0000",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "getafe-osasuna"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Abdel Abqar",
-        "firstName": "Abdel",
-        "lastName": "Abqar",
-        "slug": "abdel-abqar",
-        "shortName": "A. Abqar",
-        "position": "D",
-        "jerseyNumber": "3",
-        "height": 188,
-        "userCount": 4203,
-        "gender": "M",
-        "sofascoreId": "abdel.abqar",
-        "id": 1101232,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 921024000,
-        "proposedMarketValueRaw": {
-          "value": 3300000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "عبدال أبقار",
-            "bn": "আবকার, আবদেলকবির",
-            "hi": "अब्कार, अब्देलकबीर",
-            "ru": "Абдель Абкар"
-          },
-          "shortNameTranslation": {
-            "ar": "ع. أبقار",
-            "bn": "এ. আবকার",
-            "hi": "ए. अब्कार",
-            "ru": "А. Абкар"
-          }
-        }
-      },
-      "team": {
-        "name": "Getafe",
-        "slug": "getafe",
-        "shortName": "Getafe",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 199335,
-        "nameCode": "GET",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2859,
-        "teamColors": {
-          "primary": "#00369e",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "خيتافي",
-            "bn": "গেটাফে",
-            "hi": "गेटाफे",
-            "ru": "Хетафе"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 19,
-        "accuratePass": 14,
-        "totalLongBalls": 5,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 13,
-        "totalOwnHalfPasses": 13,
-        "accurateOppositionHalfPasses": 1,
-        "totalOppositionHalfPasses": 6,
-        "aerialLost": 4,
-        "aerialWon": 3,
-        "duelLost": 8,
-        "duelWon": 7,
-        "challengeLost": 1,
-        "totalClearance": 11,
-        "outfielderBlock": 1,
-        "totalTackle": 2,
-        "wonTackle": 1,
-        "wasFouled": 2,
-        "fouls": 3,
-        "minutesPlayed": 90,
-        "touches": 40,
-        "rating": 6.8,
-        "possessionLostCtrl": 5,
-        "expectedAssists": 0.00227257,
-        "totalBallCarriesDistance": 55.651434323243,
-        "ballCarriesCount": 5,
-        "totalProgression": 29.816546816538,
-        "bestBallCarryProgression": 15.133058074181,
-        "totalProgressiveBallCarriesDistance": 20.607441762625,
-        "progressiveBallCarriesCount": 1,
-        "ratingVersions": {
-          "original": 6.8,
-          "alternative": 7.1
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.01,
-        "dribbleValueNormalized": 0.06,
-        "defensiveValueNormalized": 0.21,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437694": {
     "id": 12437694,
     "match_info": {
@@ -20076,6 +19943,145 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083723": {
+    "id": 14083723,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "getafe-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Abdel Abqar",
+        "firstName": "Abdel",
+        "lastName": "Abqar",
+        "slug": "abdel-abqar",
+        "shortName": "A. Abqar",
+        "position": "D",
+        "jerseyNumber": "3",
+        "height": 188,
+        "userCount": 4296,
+        "gender": "M",
+        "sofascoreId": "abdel.abqar",
+        "id": 1101232,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 921024000,
+        "proposedMarketValueRaw": {
+          "value": 3300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "عبدال أبقار",
+            "bn": "আবকার, আবদেলকবির",
+            "hi": "अब्कार, अब्देलकबीर",
+            "ru": "Абдель Абкар"
+          },
+          "shortNameTranslation": {
+            "ar": "ع. أبقار",
+            "bn": "এ. আবকার",
+            "hi": "ए. अब्कार",
+            "ru": "А. Абкар"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 203865,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 19,
+        "accuratePass": 14,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 13,
+        "totalOwnHalfPasses": 13,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 6,
+        "aerialLost": 4,
+        "aerialWon": 3,
+        "duelLost": 8,
+        "duelWon": 7,
+        "challengeLost": 1,
+        "totalClearance": 11,
+        "outfielderBlock": 1,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "wasFouled": 2,
+        "fouls": 3,
+        "minutesPlayed": 90,
+        "touches": 40,
+        "rating": 6.8,
+        "possessionLostCtrl": 5,
+        "expectedAssists": 0.00227257,
+        "topSpeed": 34.06,
+        "kilometersCovered": 8.72,
+        "numberOfSprints": 11,
+        "totalBallCarriesDistance": 55.651434323243,
+        "ballCarriesCount": 5,
+        "totalProgression": 29.816546816538,
+        "bestBallCarryProgression": 15.133058074181,
+        "totalProgressiveBallCarriesDistance": 20.607441762625,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 7.1
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.01,
+        "dribbleValueNormalized": 0.06,
+        "defensiveValueNormalized": 0.21,
+        "metersCoveredRunningKm": 1.12,
+        "metersCoveredHighSpeedRunningKm": 0.29,
+        "metersCoveredSprintingKm": 0.13,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
     }
   }
 }

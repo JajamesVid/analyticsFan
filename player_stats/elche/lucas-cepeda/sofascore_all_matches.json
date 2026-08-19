@@ -3258,101 +3258,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Lucas Cepeda",
-        "firstName": "Lucas Cepeda",
-        "lastName": "",
-        "slug": "lucas-cepeda",
-        "shortName": "L. Cepeda",
-        "position": "M",
-        "jerseyNumber": "24",
-        "height": 177,
-        "userCount": 8154,
-        "gender": "M",
-        "sofascoreId": "iwvym8",
-        "id": 1126447,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1036022400,
-        "proposedMarketValueRaw": {
-          "value": 2600000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "لوكاس سيبيدا",
-            "bn": "লুকাস সেপেদা",
-            "hi": "लुकास सेपेडा",
-            "ru": "Лукас Сепеда"
-          },
-          "shortNameTranslation": {
-            "ar": "ل. سيبيدا",
-            "bn": "এল. সেপেদা",
-            "hi": "एल. सेपेडा",
-            "ru": "Л. Сепеда"
-          }
-        }
-      },
-      "team": {
-        "name": "Elche",
-        "slug": "elche",
-        "shortName": "Elche",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 116534,
-        "nameCode": "ELC",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2846,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#336600",
-          "text": "#336600"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إلتشي",
-            "bn": "এলচে",
-            "hi": "एल्चे",
-            "ru": "Эльче"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "15926543": {
     "id": 15926543,
     "match_info": {
@@ -18757,6 +18662,101 @@
         }
       },
       "position": "M",
+      "extra": null
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Lucas Cepeda",
+        "firstName": "Lucas Cepeda",
+        "lastName": "",
+        "slug": "lucas-cepeda",
+        "shortName": "L. Cepeda",
+        "position": "M",
+        "jerseyNumber": "24",
+        "height": 177,
+        "userCount": 8566,
+        "gender": "M",
+        "sofascoreId": "iwvym8",
+        "id": 1126447,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1036022400,
+        "proposedMarketValueRaw": {
+          "value": 2600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "لوكاس سيبيدا",
+            "bn": "লুকাস সেপেদা",
+            "hi": "लुकास सेपेडा",
+            "ru": "Лукас Сепеда"
+          },
+          "shortNameTranslation": {
+            "ar": "ل. سيبيدا",
+            "bn": "এল. সেপেদা",
+            "hi": "एल. सेपेडा",
+            "ru": "Л. Сепеда"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 118908,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
       "extra": null
     }
   }

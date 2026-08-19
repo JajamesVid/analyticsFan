@@ -3237,100 +3237,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Nico Serrano",
-        "firstName": "",
-        "lastName": "",
-        "slug": "nico-serrano",
-        "shortName": "N. Serrano",
-        "position": "M",
-        "jerseyNumber": "22",
-        "height": 178,
-        "userCount": 480,
-        "gender": "M",
-        "id": 1019318,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1046822400,
-        "proposedMarketValueRaw": {
-          "value": 1600000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "نيكو سيرانو",
-            "bn": "নিকো সেরানো",
-            "hi": "निको सेरानो",
-            "ru": "Нико Серрано"
-          },
-          "shortNameTranslation": {
-            "ar": "ن. سيرانو",
-            "bn": "এন. সেরানো",
-            "hi": "एन. सेरानो",
-            "ru": "Н. Серрано"
-          }
-        }
-      },
-      "team": {
-        "name": "Athletic Club",
-        "slug": "athletic-club",
-        "shortName": "Athletic Club",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 519382,
-        "nameCode": "ATH",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2825,
-        "teamColors": {
-          "primary": "#aa0000",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "نادي أتليتيك",
-            "bn": "অ্যাথলেটিক ক্লাব",
-            "hi": "एथलेटिक क्लब",
-            "ru": "Атлетик Бильбао"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12465911": {
     "id": 12465911,
     "match_info": {
@@ -21134,6 +21040,103 @@
         }
       },
       "position": "M",
+      "extra": null
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Nico Serrano",
+        "firstName": "",
+        "lastName": "",
+        "slug": "nico-serrano",
+        "shortName": "N. Serrano",
+        "position": "M",
+        "jerseyNumber": "22",
+        "height": 178,
+        "userCount": 505,
+        "gender": "M",
+        "sofascoreId": "dq7av2",
+        "id": 1019318,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1046822400,
+        "proposedMarketValueRaw": {
+          "value": 1600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نيكو سيرانو",
+            "bn": "নিকো সেরানো",
+            "hi": "निको सेरानो",
+            "ru": "Нико Серрано"
+          },
+          "shortNameTranslation": {
+            "ar": "ن. سيرانو",
+            "bn": "এন. সেরানো",
+            "hi": "एन. सेरानो",
+            "ru": "Н. Серрано"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 524413,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
       "extra": null
     }
   }

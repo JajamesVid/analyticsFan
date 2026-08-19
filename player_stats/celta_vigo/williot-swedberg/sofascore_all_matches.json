@@ -3702,137 +3702,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Williot Swedberg",
-        "slug": "williot-swedberg",
-        "shortName": "W. Swedberg",
-        "position": "M",
-        "jerseyNumber": "19",
-        "height": 185,
-        "userCount": 4534,
-        "gender": "M",
-        "id": 1126779,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1075593600,
-        "proposedMarketValueRaw": {
-          "value": 14000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ويليوت سويدبرغ",
-            "bn": "উইলিয়ট সুইডবার্গ",
-            "hi": "विलियट स्वेडबर्ग",
-            "ru": "Виллиот Сведберг"
-          },
-          "shortNameTranslation": {
-            "ar": "و. سويدبرغ",
-            "bn": "ডব্লিউ. সুইডবার্গ",
-            "hi": "डब्लू. स्वेडबर्ग",
-            "ru": "В. Сведберг"
-          }
-        }
-      },
-      "team": {
-        "name": "Celta Vigo",
-        "slug": "celta-vigo",
-        "shortName": "Celta",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 266335,
-        "nameCode": "CEL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2821,
-        "teamColors": {
-          "primary": "#6cace4",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "سيلتا فيغو",
-            "bn": "সেলটা ভিগো",
-            "ru": "Сельта"
-          },
-          "shortNameTranslation": {
-            "ar": "سيلتا",
-            "hi": "सेल्टा"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 13,
-        "accuratePass": 11,
-        "totalLongBalls": 1,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 2,
-        "totalOwnHalfPasses": 2,
-        "accurateOppositionHalfPasses": 9,
-        "totalOppositionHalfPasses": 11,
-        "totalCross": 1,
-        "duelLost": 2,
-        "duelWon": 1,
-        "challengeLost": 1,
-        "bigChanceMissed": 1,
-        "shotOffTarget": 2,
-        "wasFouled": 1,
-        "fouls": 1,
-        "minutesPlayed": 65,
-        "touches": 19,
-        "rating": 6.5,
-        "possessionLostCtrl": 3,
-        "expectedGoals": 0.691,
-        "expectedAssists": 0.0216969,
-        "totalBallCarriesDistance": 63.079977827663,
-        "ballCarriesCount": 5,
-        "totalProgression": 36.032782132122,
-        "bestBallCarryProgression": 22.410633044768,
-        "totalProgressiveBallCarriesDistance": 27.604356830037,
-        "progressiveBallCarriesCount": 1,
-        "ratingVersions": {
-          "original": 6.5,
-          "alternative": 6.5
-        },
-        "totalShots": 2,
-        "shotValueNormalized": -0.54,
-        "passValueNormalized": 0.03,
-        "dribbleValueNormalized": 0.27,
-        "defensiveValueNormalized": -0.05,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12437543": {
     "id": 12437543,
     "match_info": {
@@ -21004,6 +20873,144 @@
         }
       },
       "position": "M",
+      "extra": null
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Williot Swedberg",
+        "slug": "williot-swedberg",
+        "shortName": "W. Swedberg",
+        "position": "M",
+        "jerseyNumber": "19",
+        "height": 185,
+        "userCount": 4542,
+        "gender": "M",
+        "sofascoreId": "iwvyd9",
+        "id": 1126779,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1075593600,
+        "proposedMarketValueRaw": {
+          "value": 18700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويليوت سويدبرغ",
+            "bn": "উইলিয়ট সুইডবার্গ",
+            "hi": "विलियट स्वेडबर्ग",
+            "ru": "Виллиот Сведберг"
+          },
+          "shortNameTranslation": {
+            "ar": "و. سويدبرغ",
+            "bn": "ডব্লিউ. সুইডবার্গ",
+            "hi": "डब्लू. स्वेडबर्ग",
+            "ru": "В. Сведберг"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 267822,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 13,
+        "accuratePass": 11,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 11,
+        "totalCross": 1,
+        "duelLost": 2,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "bigChanceMissed": 1,
+        "shotOffTarget": 2,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 65,
+        "touches": 19,
+        "rating": 6.5,
+        "possessionLostCtrl": 3,
+        "expectedGoals": 0.691,
+        "expectedAssists": 0.0216969,
+        "topSpeed": 31.37,
+        "kilometersCovered": 7.89,
+        "numberOfSprints": 12,
+        "totalBallCarriesDistance": 63.079977827663,
+        "ballCarriesCount": 5,
+        "totalProgression": 36.032782132122,
+        "bestBallCarryProgression": 22.410633044768,
+        "totalProgressiveBallCarriesDistance": 27.604356830037,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.5
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.54,
+        "passValueNormalized": 0.03,
+        "dribbleValueNormalized": 0.27,
+        "defensiveValueNormalized": -0.05,
+        "metersCoveredRunningKm": 1.38,
+        "metersCoveredHighSpeedRunningKm": 0.6,
+        "metersCoveredSprintingKm": 0.21,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
       "extra": null
     }
   }

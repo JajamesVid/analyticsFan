@@ -3547,98 +3547,6 @@
       "extra": null
     }
   },
-  "14083706": {
-    "id": 14083706,
-    "match_info": {
-      "homeTeam": {
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "color": "#0232a0",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Rayo Vallecano",
-        "shortName": "Rayo Vallecano",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "deportivo-alaves-rayo-vallecano"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Josep Chavarría",
-        "slug": "josep-chavarria",
-        "shortName": "J. Chavarría",
-        "position": "D",
-        "jerseyNumber": "3",
-        "height": 174,
-        "userCount": 687,
-        "gender": "M",
-        "id": 1010421,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 892166400,
-        "proposedMarketValueRaw": {
-          "value": 9700000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "جوزيب شافاريا",
-            "bn": "জোসেপ চাভারিয়া",
-            "hi": "जोसेफ चावरिया",
-            "ru": "Жозеп Чаваррия"
-          },
-          "shortNameTranslation": {
-            "ar": "ج. شافاريا",
-            "bn": "জে. চাভারিয়া",
-            "hi": "जे. चावरिया",
-            "ru": "Ж. Чаваррия"
-          }
-        }
-      },
-      "team": {
-        "name": "Rayo Vallecano",
-        "slug": "rayo-vallecano",
-        "shortName": "Rayo Vallecano",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 227407,
-        "nameCode": "RAY",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2818,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "رايو فاليكانو",
-            "bn": "রায়ো ভ্যালেকানো",
-            "hi": "रेयो वैलेकैनो",
-            "ru": "Райо Вальекано"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "15632649": {
     "id": 15632649,
     "match_info": {
@@ -22753,6 +22661,99 @@
       },
       "statistics": {
         "expectedGoalsOnTarget": 0,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083706": {
+    "id": 14083706,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "deportivo-alaves-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pep Chavarría",
+        "slug": "josep-chavarria",
+        "shortName": "J. Chavarría",
+        "position": "D",
+        "jerseyNumber": "3",
+        "height": 174,
+        "userCount": 1301,
+        "gender": "M",
+        "sofascoreId": "ce86xm",
+        "id": 1010421,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 892166400,
+        "proposedMarketValueRaw": {
+          "value": 9700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جوزيب شافاريا",
+            "bn": "জোসেপ চাভারিয়া",
+            "hi": "जोसेफ चावरिया",
+            "ru": "Жозеп Чаваррия"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. شافاريا",
+            "bn": "জে. চাভারিয়া",
+            "hi": "जे. चावरिया",
+            "ru": "Ж. Чаваррия"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 227211,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
         "totalShots": 0,
         "statisticsType": {
           "sportSlug": "football",

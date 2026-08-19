@@ -3236,133 +3236,6 @@
       "extra": null
     }
   },
-  "14083706": {
-    "id": 14083706,
-    "match_info": {
-      "homeTeam": {
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "color": "#0232a0",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Rayo Vallecano",
-        "shortName": "Rayo Vallecano",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "deportivo-alaves-rayo-vallecano"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Carlos Benavídez",
-        "firstName": "Carlos",
-        "lastName": "Protesoni",
-        "slug": "carlos-benavidez",
-        "shortName": "C. Benavídez",
-        "position": "M",
-        "jerseyNumber": "23",
-        "height": 185,
-        "userCount": 405,
-        "gender": "M",
-        "id": 873717,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 891216000,
-        "proposedMarketValueRaw": {
-          "value": 960000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "كارلوس بينافيديز",
-            "bn": "কার্লোস বেনাভিদেজ",
-            "hi": "कार्लोस बेनाविडेज़",
-            "ru": "Карлос Бенавидрес"
-          },
-          "shortNameTranslation": {
-            "ar": "ك. بينافيديز",
-            "bn": "সি. বেনাভিদেজ",
-            "hi": "सी. बेनाविडेज़",
-            "ru": "К. Бенавидрес"
-          }
-        }
-      },
-      "team": {
-        "name": "Deportivo Alavés",
-        "slug": "deportivo-alaves",
-        "shortName": "Alavés",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 152876,
-        "nameCode": "ALA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2885,
-        "teamColors": {
-          "primary": "#0232a0",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ديبورتيفو ألافيس",
-            "ru": "Алавес"
-          },
-          "shortNameTranslation": {
-            "ar": "ألافيس",
-            "bn": "আলাভেস",
-            "hi": "अलावेस"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 14,
-        "accuratePass": 9,
-        "totalLongBalls": 4,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 4,
-        "totalOwnHalfPasses": 5,
-        "accurateOppositionHalfPasses": 5,
-        "totalOppositionHalfPasses": 9,
-        "aerialLost": 2,
-        "duelLost": 4,
-        "dispossessed": 1,
-        "outfielderBlock": 1,
-        "ballRecovery": 1,
-        "fouls": 1,
-        "minutesPlayed": 57,
-        "touches": 19,
-        "rating": 6.1,
-        "possessionLostCtrl": 6,
-        "expectedAssists": 0.00315587,
-        "totalBallCarriesDistance": 32.944971209905,
-        "ballCarriesCount": 5,
-        "totalProgression": -2.3610985567582,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.1,
-          "alternative": 6.3
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0,
-        "dribbleValueNormalized": 0.01,
-        "defensiveValueNormalized": -0.09,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12437849": {
     "id": 12437849,
     "match_info": {
@@ -22411,6 +22284,140 @@
         "possessionLostCtrl": 18,
         "keyPass": 1,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083706": {
+    "id": 14083706,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "deportivo-alaves-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Carlos Benavídez",
+        "firstName": "Carlos",
+        "lastName": "Protesoni",
+        "slug": "carlos-benavidez",
+        "shortName": "C. Benavídez",
+        "position": "D",
+        "jerseyNumber": "23",
+        "height": 185,
+        "userCount": 416,
+        "gender": "M",
+        "sofascoreId": "ch3jxg",
+        "id": 873717,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 891216000,
+        "proposedMarketValueRaw": {
+          "value": 960000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارلوس بينافيديز",
+            "bn": "কার্লোস বেনাভিদেজ",
+            "hi": "कार्लोस बेनाविडेज़",
+            "ru": "Карлос Бенавидрес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. بينافيديز",
+            "bn": "সি. বেনাভিদেজ",
+            "hi": "सी. बेनाविडेज़",
+            "ru": "К. Бенавидрес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 154032,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 14,
+        "accuratePass": 9,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 9,
+        "aerialLost": 2,
+        "duelLost": 4,
+        "dispossessed": 1,
+        "outfielderBlock": 1,
+        "ballRecovery": 1,
+        "fouls": 1,
+        "minutesPlayed": 57,
+        "touches": 19,
+        "rating": 6.1,
+        "possessionLostCtrl": 6,
+        "expectedAssists": 0.00315587,
+        "topSpeed": 31.53,
+        "kilometersCovered": 6.29,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 32.944971209905,
+        "ballCarriesCount": 5,
+        "totalProgression": -2.3610985567582,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.1,
+          "alternative": 6.3
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": -0.09,
+        "metersCoveredRunningKm": 0.67,
+        "metersCoveredHighSpeedRunningKm": 0.22,
+        "metersCoveredSprintingKm": 0.09,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

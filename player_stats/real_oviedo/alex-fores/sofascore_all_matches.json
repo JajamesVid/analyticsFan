@@ -2882,125 +2882,6 @@
       "extra": null
     }
   },
-  "14083727": {
-    "id": 14083727,
-    "match_info": {
-      "homeTeam": {
-        "name": "Mallorca",
-        "shortName": "Mallorca",
-        "color": "#cc0000",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "Real Oviedo",
-        "shortName": "Real Oviedo",
-        "color": "#3300ff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-oviedo-mallorca"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Álex Forés",
-        "firstName": "",
-        "lastName": "",
-        "slug": "alex-fores",
-        "shortName": "Á. Forés",
-        "position": "F",
-        "jerseyNumber": "19",
-        "height": 180,
-        "userCount": 181,
-        "gender": "M",
-        "id": 1086128,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 987033600,
-        "proposedMarketValueRaw": {
-          "value": 720000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أليكس فوريز"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. فوريز"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Oviedo",
-        "slug": "real-oviedo",
-        "shortName": "Real Oviedo",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 100042,
-        "nameCode": "OVI",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2851,
-        "teamColors": {
-          "primary": "#3300ff",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال اوفيدو",
-            "hi": "रियल ओविएडो",
-            "ru": "Реал Овьедо"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 7,
-        "accuratePass": 4,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 3,
-        "totalOwnHalfPasses": 4,
-        "accurateOppositionHalfPasses": 1,
-        "totalOppositionHalfPasses": 3,
-        "aerialLost": 1,
-        "aerialWon": 2,
-        "duelLost": 2,
-        "duelWon": 2,
-        "totalContest": 1,
-        "totalClearance": 1,
-        "unsuccessfulTouch": 1,
-        "minutesPlayed": 45,
-        "touches": 10,
-        "rating": 6.6,
-        "possessionLostCtrl": 5,
-        "expectedAssists": 0.00651696,
-        "totalBallCarriesDistance": 25.253200776924,
-        "ballCarriesCount": 3,
-        "totalProgression": 24.608528029903,
-        "bestBallCarryProgression": 16.179502041736,
-        "totalProgressiveBallCarriesDistance": 16.320461053536,
-        "progressiveBallCarriesCount": 1,
-        "ratingVersions": {
-          "original": 6.6,
-          "alternative": 6.5
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.07,
-        "dribbleValueNormalized": 0.07,
-        "defensiveValueNormalized": 0.14,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "11390061": {
     "id": 11390061,
     "match_info": {
@@ -16967,6 +16848,134 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083727": {
+    "id": 14083727,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-oviedo-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Álex Forés",
+        "firstName": "",
+        "lastName": "",
+        "slug": "alex-fores",
+        "shortName": "Á. Forés",
+        "position": "F",
+        "jerseyNumber": "29",
+        "height": 180,
+        "userCount": 194,
+        "gender": "M",
+        "sofascoreId": "snzad4",
+        "id": 1086128,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 987033600,
+        "proposedMarketValueRaw": {
+          "value": 630000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أليكس فوريز",
+            "ru": "Алекс Форэс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. فوريز",
+            "ru": "А. Форэс"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 98974,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 7,
+        "accuratePass": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 3,
+        "aerialLost": 1,
+        "aerialWon": 2,
+        "duelLost": 2,
+        "duelWon": 2,
+        "totalContest": 1,
+        "totalClearance": 1,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 45,
+        "touches": 10,
+        "rating": 6.6,
+        "possessionLostCtrl": 5,
+        "expectedAssists": 0.00651696,
+        "topSpeed": 28.42,
+        "kilometersCovered": 4.98,
+        "numberOfSprints": 10,
+        "totalBallCarriesDistance": 25.253200776924,
+        "ballCarriesCount": 3,
+        "totalProgression": 24.608528029903,
+        "bestBallCarryProgression": 16.179502041736,
+        "totalProgressiveBallCarriesDistance": 16.320461053536,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.07,
+        "dribbleValueNormalized": 0.07,
+        "defensiveValueNormalized": 0.14,
+        "metersCoveredRunningKm": 0.66,
+        "metersCoveredHighSpeedRunningKm": 0.4,
+        "metersCoveredSprintingKm": 0.15,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
     }
   }
 }

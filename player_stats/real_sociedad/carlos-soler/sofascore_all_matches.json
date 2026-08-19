@@ -3807,138 +3807,6 @@
       "extra": null
     }
   },
-  "14083719": {
-    "id": 14083719,
-    "match_info": {
-      "homeTeam": {
-        "name": "Espanyol",
-        "shortName": "Espanyol",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Real Sociedad",
-        "shortName": "Real Sociedad",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-sociedad-espanyol"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Carlos Soler",
-        "firstName": "Carlos",
-        "lastName": "Soler",
-        "slug": "carlos-soler",
-        "shortName": "C. Soler",
-        "position": "M",
-        "jerseyNumber": "18",
-        "height": 180,
-        "userCount": 4362,
-        "gender": "M",
-        "sofascoreId": "Carlos10Soler",
-        "id": 832427,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 852163200,
-        "proposedMarketValueRaw": {
-          "value": 6600000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "كارلوس سولير",
-            "bn": "কার্লোস সোলার",
-            "hi": "कार्लोस सोलर",
-            "ru": "Карлос Солер"
-          },
-          "shortNameTranslation": {
-            "ar": "ك. سولير",
-            "bn": "সি. সোলার",
-            "hi": "सी. सोलर",
-            "ru": "К. Солер"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Sociedad",
-        "slug": "real-sociedad",
-        "shortName": "Real Sociedad",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 413040,
-        "nameCode": "RSO",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2824,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#0077c7",
-          "text": "#0077c7"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال سوسيداد",
-            "bn": "রিয়াল সোসিয়েদাদ",
-            "hi": "रियल सोसियदाद",
-            "ru": "Реал Сосьедад"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 47,
-        "accuratePass": 38,
-        "totalLongBalls": 4,
-        "accurateLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 18,
-        "totalOwnHalfPasses": 18,
-        "accurateOppositionHalfPasses": 20,
-        "totalOppositionHalfPasses": 29,
-        "totalCross": 3,
-        "aerialLost": 2,
-        "duelLost": 8,
-        "duelWon": 2,
-        "challengeLost": 4,
-        "dispossessed": 1,
-        "totalContest": 1,
-        "outfielderBlock": 1,
-        "ballRecovery": 2,
-        "totalTackle": 2,
-        "unsuccessfulTouch": 1,
-        "fouls": 1,
-        "minutesPlayed": 89,
-        "touches": 58,
-        "rating": 6.1,
-        "possessionLostCtrl": 15,
-        "expectedAssists": 0.0188864,
-        "totalBallCarriesDistance": 72.387072541463,
-        "ballCarriesCount": 9,
-        "totalProgression": 1.4915594863481,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.1,
-          "alternative": 6.5
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.35,
-        "dribbleValueNormalized": 0.04,
-        "defensiveValueNormalized": -0.1,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12436893": {
     "id": 12436893,
     "match_info": {
@@ -24029,6 +23897,144 @@
         }
       },
       "position": "M",
+      "extra": null
+    }
+  },
+  "14083719": {
+    "id": 14083719,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-sociedad-espanyol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Carlos Soler",
+        "firstName": "Carlos",
+        "lastName": "Soler",
+        "slug": "carlos-soler",
+        "shortName": "C. Soler",
+        "position": "M",
+        "jerseyNumber": "18",
+        "height": 180,
+        "userCount": 4379,
+        "gender": "M",
+        "sofascoreId": "Carlos10Soler",
+        "id": 832427,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 852163200,
+        "proposedMarketValueRaw": {
+          "value": 6600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارلوس سولير",
+            "bn": "কার্লোস সোলার",
+            "hi": "कार्लोस सोलर",
+            "ru": "Карлос Солер"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سولير",
+            "bn": "সি. সোলার",
+            "hi": "सी. सोलर",
+            "ru": "К. Солер"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 417327,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 47,
+        "accuratePass": 38,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 18,
+        "totalOwnHalfPasses": 18,
+        "accurateOppositionHalfPasses": 20,
+        "totalOppositionHalfPasses": 29,
+        "totalCross": 3,
+        "aerialLost": 2,
+        "duelLost": 8,
+        "duelWon": 2,
+        "challengeLost": 4,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "outfielderBlock": 1,
+        "ballRecovery": 2,
+        "totalTackle": 2,
+        "unsuccessfulTouch": 1,
+        "fouls": 1,
+        "minutesPlayed": 89,
+        "touches": 58,
+        "rating": 6.1,
+        "possessionLostCtrl": 15,
+        "expectedAssists": 0.0188864,
+        "topSpeed": 29.05,
+        "kilometersCovered": 10.04,
+        "numberOfSprints": 8,
+        "totalBallCarriesDistance": 72.387072541463,
+        "ballCarriesCount": 9,
+        "totalProgression": 1.4915594863481,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.1,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.35,
+        "dribbleValueNormalized": 0.04,
+        "defensiveValueNormalized": -0.1,
+        "metersCoveredRunningKm": 1.66,
+        "metersCoveredHighSpeedRunningKm": 0.28,
+        "metersCoveredSprintingKm": 0.08,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
       "extra": null
     }
   }

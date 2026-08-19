@@ -3718,137 +3718,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Paulo Gazzaniga",
-        "firstName": "Paulo",
-        "lastName": "Gazzaniga",
-        "slug": "paulo-gazzaniga",
-        "shortName": "P. Gazzaniga",
-        "position": "G",
-        "jerseyNumber": "13",
-        "height": 196,
-        "userCount": 2163,
-        "gender": "M",
-        "sofascoreId": "xqg5yt",
-        "id": 164343,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 694310400,
-        "proposedMarketValueRaw": {
-          "value": 1900000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "باولو غازانيغا",
-            "bn": "পাওলো গাজ্জানিগা",
-            "hi": "पाउलो गज़ानिगा",
-            "ru": "Пауло Гаццанига"
-          },
-          "shortNameTranslation": {
-            "ar": "ب. غازانيغا",
-            "bn": "পি. গাজ্জানিগা",
-            "hi": "पी. गज़ानिगा",
-            "ru": "П. Гаццанига"
-          }
-        }
-      },
-      "team": {
-        "name": "Girona FC",
-        "slug": "girona-fc",
-        "shortName": "Girona",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 373675,
-        "nameCode": "GIR",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 24264,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ff0000",
-          "text": "#ff0000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "جيرونا إف سي",
-            "hi": "जिरोना",
-            "ru": "Жирона"
-          },
-          "shortNameTranslation": {
-            "ar": "جيرونا",
-            "bn": "জিরোনা",
-            "hi": "गिरोना"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 42,
-        "accuratePass": 32,
-        "totalLongBalls": 23,
-        "accurateLongBalls": 13,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 23,
-        "totalOwnHalfPasses": 24,
-        "accurateOppositionHalfPasses": 9,
-        "totalOppositionHalfPasses": 18,
-        "totalClearance": 3,
-        "ballRecovery": 14,
-        "goodHighClaim": 1,
-        "punches": 1,
-        "totalKeeperSweeper": 1,
-        "accurateKeeperSweeper": 1,
-        "minutesPlayed": 90,
-        "touches": 49,
-        "rating": 6.7,
-        "possessionLostCtrl": 10,
-        "expectedAssists": 0.0190813,
-        "totalBallCarriesDistance": 111.96875069061,
-        "ballCarriesCount": 11,
-        "totalProgression": 87.481188763351,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.7,
-          "alternative": 6.8
-        },
-        "totalShots": 0,
-        "goalsPrevented": -0.9046,
-        "passValueNormalized": 0.22,
-        "dribbleValueNormalized": 0.03,
-        "defensiveValueNormalized": -0.09,
-        "goalkeeperValueNormalized": -0.74,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "G",
-      "extra": null
-    }
-  },
   "12437749": {
     "id": 12437749,
     "match_info": {
@@ -23201,6 +23070,137 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Paulo Gazzaniga",
+        "firstName": "Paulo",
+        "lastName": "Gazzaniga",
+        "slug": "paulo-gazzaniga",
+        "shortName": "P. Gazzaniga",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 196,
+        "userCount": 2161,
+        "gender": "M",
+        "sofascoreId": "xqg5yt",
+        "id": 164343,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 694310400,
+        "proposedMarketValueRaw": {
+          "value": 1900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "باولو غازانيغا",
+            "bn": "পাওলো গাজ্জানিগা",
+            "hi": "पाउलो गज़ानिगा",
+            "ru": "Пауло Гаццанига"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. غازانيغا",
+            "bn": "পি. গাজ্জানিগা",
+            "hi": "पी. गज़ानिगा",
+            "ru": "П. Гаццанига"
+          }
+        }
+      },
+      "team": {
+        "name": "Girona FC",
+        "slug": "girona-fc",
+        "shortName": "Girona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 374248,
+        "nameCode": "GIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24264,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جيرونا إف سي",
+            "hi": "जिरोना",
+            "ru": "Жирона"
+          },
+          "shortNameTranslation": {
+            "ar": "جيرونا",
+            "bn": "জিরোনা",
+            "hi": "गिरोना"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 42,
+        "accuratePass": 32,
+        "totalLongBalls": 23,
+        "accurateLongBalls": 13,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 23,
+        "totalOwnHalfPasses": 24,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 18,
+        "totalClearance": 3,
+        "ballRecovery": 14,
+        "goodHighClaim": 1,
+        "punches": 1,
+        "totalKeeperSweeper": 1,
+        "accurateKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 49,
+        "rating": 6.7,
+        "possessionLostCtrl": 10,
+        "expectedAssists": 0.0190813,
+        "totalBallCarriesDistance": 111.96875069061,
+        "ballCarriesCount": 11,
+        "totalProgression": 87.481188763351,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "goalsPrevented": -0.9046,
+        "passValueNormalized": 0.22,
+        "dribbleValueNormalized": 0.03,
+        "defensiveValueNormalized": -0.09,
+        "goalkeeperValueNormalized": -0.74,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
     }
   }
 }

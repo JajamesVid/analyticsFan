@@ -3876,146 +3876,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Aleix Febas",
-        "firstName": "Aleix",
-        "lastName": "Febas",
-        "slug": "aleix-febas",
-        "shortName": "A. Febas",
-        "position": "M",
-        "jerseyNumber": "14",
-        "height": 168,
-        "userCount": 1208,
-        "gender": "M",
-        "sofascoreId": "x9empt",
-        "id": 286167,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 823219200,
-        "proposedMarketValueRaw": {
-          "value": 5200000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فيباس، أليكس",
-            "bn": "ফেবাস, আলেক্স",
-            "hi": "फ़ेबास, एलेक्स",
-            "ru": "Алейкс Фебас"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. فيباس",
-            "bn": "এ. ফেবাস",
-            "hi": "ए. फ़ेबास",
-            "ru": "А. Фебас"
-          }
-        }
-      },
-      "team": {
-        "name": "Elche",
-        "slug": "elche",
-        "shortName": "Elche",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 116534,
-        "nameCode": "ELC",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2846,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#336600",
-          "text": "#336600"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إلتشي",
-            "bn": "এলচে",
-            "hi": "एल्चे",
-            "ru": "Эльче"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 25,
-        "accuratePass": 20,
-        "totalLongBalls": 4,
-        "accurateLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 6,
-        "totalOwnHalfPasses": 7,
-        "accurateOppositionHalfPasses": 14,
-        "totalOppositionHalfPasses": 18,
-        "aerialLost": 1,
-        "duelLost": 4,
-        "duelWon": 13,
-        "challengeLost": 1,
-        "totalContest": 2,
-        "wonContest": 1,
-        "interceptionWon": 2,
-        "ballRecovery": 6,
-        "totalTackle": 4,
-        "unsuccessfulTouch": 2,
-        "wasFouled": 8,
-        "fouls": 1,
-        "minutesPlayed": 84,
-        "touches": 45,
-        "rating": 7.3,
-        "possessionLostCtrl": 8,
-        "expectedAssists": 0.0110744,
-        "topSpeed": 30.39,
-        "kilometersCovered": 8.87,
-        "numberOfSprints": 4,
-        "totalBallCarriesDistance": 146.3168364339,
-        "ballCarriesCount": 12,
-        "totalProgression": 97.267317367389,
-        "bestBallCarryProgression": 26.468318102731,
-        "totalProgressiveBallCarriesDistance": 49.686922468331,
-        "progressiveBallCarriesCount": 2,
-        "ratingVersions": {
-          "original": 7.3,
-          "alternative": 7
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.14,
-        "dribbleValueNormalized": 0.17,
-        "defensiveValueNormalized": -0.12,
-        "metersCoveredRunningKm": 1.11,
-        "metersCoveredHighSpeedRunningKm": 0.19,
-        "metersCoveredSprintingKm": 0.06,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12467462": {
     "id": 12467462,
     "match_info": {
@@ -24197,6 +24057,146 @@
         "possessionLostCtrl": 11,
         "keyPass": 2,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Aleix Febas",
+        "firstName": "Aleix",
+        "lastName": "Febas",
+        "slug": "aleix-febas",
+        "shortName": "A. Febas",
+        "position": "M",
+        "jerseyNumber": "14",
+        "height": 168,
+        "userCount": 1175,
+        "gender": "M",
+        "sofascoreId": "x9empt",
+        "id": 286167,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 823219200,
+        "proposedMarketValueRaw": {
+          "value": 5200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيباس، أليكس",
+            "bn": "ফেবাস, আলেক্স",
+            "hi": "फ़ेबास, एलेक्स",
+            "ru": "Алейкс Фебас"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. فيباس",
+            "bn": "এ. ফেবাস",
+            "hi": "ए. फ़ेबास",
+            "ru": "А. Фебас"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 118908,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 25,
+        "accuratePass": 20,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 6,
+        "totalOwnHalfPasses": 7,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 18,
+        "aerialLost": 1,
+        "duelLost": 4,
+        "duelWon": 13,
+        "challengeLost": 1,
+        "totalContest": 2,
+        "wonContest": 1,
+        "interceptionWon": 2,
+        "ballRecovery": 6,
+        "totalTackle": 4,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 8,
+        "fouls": 1,
+        "minutesPlayed": 84,
+        "touches": 45,
+        "rating": 7.3,
+        "possessionLostCtrl": 8,
+        "expectedAssists": 0.0110744,
+        "topSpeed": 30.39,
+        "kilometersCovered": 8.87,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 146.3168364339,
+        "ballCarriesCount": 12,
+        "totalProgression": 97.267317367389,
+        "bestBallCarryProgression": 26.468318102731,
+        "totalProgressiveBallCarriesDistance": 49.686922468331,
+        "progressiveBallCarriesCount": 2,
+        "ratingVersions": {
+          "original": 7.3,
+          "alternative": 7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.14,
+        "dribbleValueNormalized": 0.17,
+        "defensiveValueNormalized": -0.12,
+        "metersCoveredRunningKm": 1.11,
+        "metersCoveredHighSpeedRunningKm": 0.19,
+        "metersCoveredSprintingKm": 0.06,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

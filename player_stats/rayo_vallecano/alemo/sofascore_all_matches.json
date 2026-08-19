@@ -3221,129 +3221,6 @@
       "extra": null
     }
   },
-  "14083706": {
-    "id": 14083706,
-    "match_info": {
-      "homeTeam": {
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "color": "#0232a0",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Rayo Vallecano",
-        "shortName": "Rayo Vallecano",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "deportivo-alaves-rayo-vallecano"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Alemão",
-        "slug": "alemao",
-        "shortName": "Alemão",
-        "position": "F",
-        "jerseyNumber": "9",
-        "height": 182,
-        "userCount": 2410,
-        "gender": "M",
-        "id": 981604,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 891388800,
-        "proposedMarketValueRaw": {
-          "value": 4400000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أليماو",
-            "ru": "Алеман"
-          },
-          "shortNameTranslation": {
-            "ar": "أليماو",
-            "ru": "Алеман"
-          }
-        }
-      },
-      "team": {
-        "name": "Rayo Vallecano",
-        "slug": "rayo-vallecano",
-        "shortName": "Rayo Vallecano",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 227407,
-        "nameCode": "RAY",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2818,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "رايو فاليكانو",
-            "bn": "রায়ো ভ্যালেকানো",
-            "hi": "रेयो वैलेकैनो",
-            "ru": "Райо Вальекано"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 6,
-        "accuratePass": 5,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 2,
-        "totalOwnHalfPasses": 2,
-        "accurateOppositionHalfPasses": 3,
-        "totalOppositionHalfPasses": 4,
-        "aerialWon": 1,
-        "duelLost": 2,
-        "duelWon": 2,
-        "dispossessed": 1,
-        "totalContest": 1,
-        "wonContest": 1,
-        "shotOffTarget": 1,
-        "blockedScoringAttempt": 1,
-        "unsuccessfulTouch": 1,
-        "fouls": 1,
-        "minutesPlayed": 29,
-        "touches": 12,
-        "rating": 6.5,
-        "possessionLostCtrl": 3,
-        "expectedGoals": 0.0768,
-        "expectedAssists": 0.00132577,
-        "totalBallCarriesDistance": 25.231138949408,
-        "ballCarriesCount": 4,
-        "totalProgression": 8.2598817014133,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.5,
-          "alternative": 6.6
-        },
-        "totalShots": 2,
-        "shotValueNormalized": -0.26,
-        "passValueNormalized": -0.11,
-        "dribbleValueNormalized": 0.12,
-        "defensiveValueNormalized": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "15632649": {
     "id": 15632649,
     "match_info": {
@@ -23752,6 +23629,136 @@
         "expectedGoalsOnTarget": 0,
         "expectedAssists": 0.26397,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083706": {
+    "id": 14083706,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "deportivo-alaves-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Alemão",
+        "slug": "alemao",
+        "shortName": "Alemão",
+        "position": "F",
+        "jerseyNumber": "9",
+        "height": 182,
+        "userCount": 2414,
+        "gender": "M",
+        "sofascoreId": "q44bw3",
+        "id": 981604,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 891388800,
+        "proposedMarketValueRaw": {
+          "value": 4400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أليماو",
+            "ru": "Алеман"
+          },
+          "shortNameTranslation": {
+            "ar": "أليماو",
+            "ru": "Алеман"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 227211,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 6,
+        "accuratePass": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 4,
+        "aerialWon": 1,
+        "duelLost": 2,
+        "duelWon": 2,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "shotOffTarget": 1,
+        "blockedScoringAttempt": 1,
+        "unsuccessfulTouch": 1,
+        "fouls": 1,
+        "minutesPlayed": 29,
+        "touches": 12,
+        "rating": 6.5,
+        "possessionLostCtrl": 3,
+        "expectedGoals": 0.0768,
+        "expectedAssists": 0.00132577,
+        "topSpeed": 28.41,
+        "kilometersCovered": 3.73,
+        "numberOfSprints": 7,
+        "totalBallCarriesDistance": 25.231138949408,
+        "ballCarriesCount": 4,
+        "totalProgression": 8.2598817014133,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.6
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.26,
+        "passValueNormalized": -0.11,
+        "dribbleValueNormalized": 0.12,
+        "defensiveValueNormalized": 0,
+        "metersCoveredRunningKm": 0.61,
+        "metersCoveredHighSpeedRunningKm": 0.23,
+        "metersCoveredSprintingKm": 0.11,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

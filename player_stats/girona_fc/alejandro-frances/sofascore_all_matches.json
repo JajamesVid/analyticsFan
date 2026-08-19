@@ -3494,98 +3494,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Alejandro Francés",
-        "slug": "alejandro-frances",
-        "shortName": "A. Francés",
-        "position": "D",
-        "jerseyNumber": "16",
-        "height": 180,
-        "userCount": 647,
-        "gender": "M",
-        "sofascoreId": "vunc38",
-        "id": 1002347,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1028160000,
-        "proposedMarketValueRaw": {
-          "value": 2800000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أليخاندرو فرانثيس",
-            "ru": "Алехандро Франсес"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. فرانثيس",
-            "ru": "А. Франсес"
-          }
-        }
-      },
-      "team": {
-        "name": "Girona FC",
-        "slug": "girona-fc",
-        "shortName": "Girona",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 373692,
-        "nameCode": "GIR",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 24264,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ff0000",
-          "text": "#ff0000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "جيرونا إف سي",
-            "hi": "जिरोना",
-            "ru": "Жирона"
-          },
-          "shortNameTranslation": {
-            "ar": "جيرونا",
-            "bn": "জিরোনা",
-            "hi": "गिरोना"
-          }
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12763938": {
     "id": 12763938,
     "match_info": {
@@ -21235,6 +21143,98 @@
         "rating": 7,
         "possessionLostCtrl": 18,
         "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Alejandro Francés",
+        "slug": "alejandro-frances",
+        "shortName": "A. Francés",
+        "position": "D",
+        "jerseyNumber": "16",
+        "height": 180,
+        "userCount": 640,
+        "gender": "M",
+        "sofascoreId": "vunc38",
+        "id": 1002347,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1028160000,
+        "proposedMarketValueRaw": {
+          "value": 2800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أليخاندرو فرانثيس",
+            "ru": "Алехандро Франсес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. فرانثيس",
+            "ru": "А. Франсес"
+          }
+        }
+      },
+      "team": {
+        "name": "Girona FC",
+        "slug": "girona-fc",
+        "shortName": "Girona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 374248,
+        "nameCode": "GIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24264,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جيرونا إف سي",
+            "hi": "जिरोना",
+            "ru": "Жирона"
+          },
+          "shortNameTranslation": {
+            "ar": "جيرونا",
+            "bn": "জিরোনা",
+            "hi": "गिरोना"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

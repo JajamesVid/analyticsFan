@@ -2382,230 +2382,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Celta",
-        "abreviatura": "CEL",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
-      },
-      "visitante": {
-        "nombre": "Sevilla",
-        "abreviatura": "SEV",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/17.png"
-      }
-    },
-    "resultado": "1-0",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20443-celta-sevilla",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 1,
-      "cope": 4.0,
-      "sofascore": 6.2,
-      "relevo": 1.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 5.0,
-        "futbolfantasy-rpg": 2.0,
-        "comunio": 2.0,
-        "scale0": -2.0,
-        "biwenger-sofascore": 1.0,
-        "biwenger-social": -1.0,
-        "biwenger-as-sofascore": -1.0,
-        "biwenger-stats": 0.0,
-        "futmondo-prensa": -1.0,
-        "futmondo-mixto-as": -2.0,
-        "futmondo-stats": -4.0,
-        "futmondo-mixto": 0.1,
-        "cronistas-marca": -2.0,
-        "marca-mixto": 3.0,
-        "marca-sofascore": 1.0,
-        "mister-cronistas-md": 6.0,
-        "mister-mixto": 1.0,
-        "mister-mixto-2": -1.0,
-        "mister-sofascore": 1.0,
-        "stat-goles": 0.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 0.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 0.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 0.0,
-        "stat-regates-exito": 0.0,
-        "stat-faltas-recibidas": 0.0,
-        "stat-faltas-cometidas": 0.0,
-        "stat-pases-interceptados": 0.0,
-        "stat-balones-robados": 0.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 1.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 2.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 1.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 0.0,
-        "stat-despejes": 1.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 4.0,
-        "stat-tiros-totales": 0.0,
-        "stat-centros-totales": 0.0,
-        "stat-precision-pases": 86.4,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 0.0,
-        "stat-tackles": 0.0,
-        "stat-duelos-aereos": 0.0,
-        "stat-tiros-bloqueados": 0.0,
-        "stat-pases-totales": 22.0,
-        "stat-pases-completados": 19.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083715,
-      "match_info": {
-        "homeTeam": {
-          "name": "Celta Vigo",
-          "shortName": "Celta",
-          "color": "#6cace4",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Sevilla",
-          "shortName": "Sevilla",
-          "color": "#ffffff",
-          "score": 0
-        },
-        "startTimestamp": 1779562800,
-        "slug": "sevilla-celta-vigo",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Ørjan Nyland",
-          "slug": "rjan-nyland",
-          "shortName": "Ø. Nyland",
-          "position": "G",
-          "height": 192,
-          "userCount": 1969,
-          "gender": "M",
-          "id": 22209,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 652924800,
-          "proposedMarketValueRaw": {
-            "value": 825000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "أوريان نيلاند",
-              "bn": "অরজান নাইল্যান্ড",
-              "hi": "ओर्जन नाइलैंड",
-              "ru": "Эрьян Нюланд"
-            },
-            "shortNameTranslation": {
-              "ar": "أ. نيلاند",
-              "bn": "ও. নাইল্যান্ড",
-              "hi": "ओ. नाइलैंड",
-              "ru": "Э. Нюланд"
-            }
-          }
-        },
-        "team": {
-          "name": "Sevilla",
-          "slug": "sevilla",
-          "shortName": "Sevilla",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 400830,
-          "nameCode": "SEV",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2833,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#cc1020",
-            "text": "#cc1020"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "إشبيلية",
-              "bn": "সেভিলা",
-              "hi": "सेविला",
-              "ru": "Cевилья"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalPass": 22,
-          "accuratePass": 19,
-          "totalLongBalls": 6,
-          "accurateLongBalls": 3,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 17,
-          "totalOwnHalfPasses": 17,
-          "accurateOppositionHalfPasses": 2,
-          "totalOppositionHalfPasses": 5,
-          "duelLost": 1,
-          "dispossessed": 1,
-          "totalClearance": 1,
-          "ballRecovery": 5,
-          "errorLeadToAGoal": 1,
-          "savedShotsFromInsideTheBox": 1,
-          "saves": 2,
-          "minutesPlayed": 90,
-          "touches": 29,
-          "rating": 6.2,
-          "possessionLostCtrl": 4,
-          "expectedAssists": 0.00034212,
-          "totalBallCarriesDistance": 25.692017458705,
-          "ballCarriesCount": 5,
-          "totalProgression": 15.203448317719,
-          "progressiveBallCarriesCount": 0,
-          "keeperSaveValue": 0.077,
-          "ratingVersions": {
-            "original": 6.2,
-            "alternative": 5.9
-          },
-          "totalShots": 0,
-          "goalsPrevented": -0.8225,
-          "passValueNormalized": 0.02,
-          "dribbleValueNormalized": 0.02,
-          "defensiveValueNormalized": -0.37,
-          "goalkeeperValueNormalized": -0.66,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "G",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Athletic",
         "abreviatura": "ATH",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
@@ -17390,6 +17166,231 @@
           },
           "totalShots": 0,
           "goalsPrevented": 1.4138,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Sevilla",
+        "abreviatura": "SEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/17.png"
+      }
+    },
+    "resultado": "1-0",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20443-celta-sevilla",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 1,
+      "cope": 4.0,
+      "sofascore": 6.2,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 5.0,
+        "futbolfantasy-rpg": 2.0,
+        "comunio": 2.0,
+        "scale0": -2.0,
+        "biwenger-sofascore": 1.0,
+        "biwenger-social": -1.0,
+        "biwenger-as-sofascore": -1.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": -1.0,
+        "futmondo-mixto-as": -2.0,
+        "futmondo-stats": -4.0,
+        "futmondo-mixto": 0.1,
+        "cronistas-marca": -2.0,
+        "marca-mixto": 3.0,
+        "marca-sofascore": 1.0,
+        "mister-cronistas-md": 6.0,
+        "mister-mixto": 1.0,
+        "mister-mixto-2": -1.0,
+        "mister-sofascore": 1.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 1.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 2.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 1.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 4.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 86.4,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 22.0,
+        "stat-pases-completados": 19.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083715,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Sevilla",
+          "shortName": "Sevilla",
+          "color": "#ffffff",
+          "score": 0
+        },
+        "startTimestamp": 1779562800,
+        "slug": "sevilla-celta-vigo"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Ørjan Nyland",
+          "slug": "rjan-nyland",
+          "shortName": "Ø. Nyland",
+          "position": "G",
+          "jerseyNumber": "1",
+          "height": 192,
+          "userCount": 3156,
+          "gender": "M",
+          "sofascoreId": "g9ktin",
+          "id": 22209,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 652924800,
+          "proposedMarketValueRaw": {
+            "value": 825000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوريان نيلاند",
+              "bn": "অরজান নাইল্যান্ড",
+              "hi": "ओर्जन नाइलैंड",
+              "ru": "Эрьян Нюланд"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. نيلاند",
+              "bn": "ও. নাইল্যান্ড",
+              "hi": "ओ. नाइलैंड",
+              "ru": "Э. Нюланд"
+            }
+          }
+        },
+        "team": {
+          "name": "Sevilla",
+          "slug": "sevilla",
+          "shortName": "Sevilla",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 405935,
+          "nameCode": "SEV",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2833,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#cc1020",
+            "text": "#cc1020"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إشبيلية",
+              "bn": "সেভিলা",
+              "hi": "सेविला",
+              "ru": "Cевилья"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 22,
+          "accuratePass": 19,
+          "totalLongBalls": 6,
+          "accurateLongBalls": 3,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 17,
+          "totalOwnHalfPasses": 17,
+          "accurateOppositionHalfPasses": 2,
+          "totalOppositionHalfPasses": 5,
+          "duelLost": 1,
+          "dispossessed": 1,
+          "totalClearance": 1,
+          "ballRecovery": 5,
+          "errorLeadToAGoal": 1,
+          "savedShotsFromInsideTheBox": 1,
+          "saves": 2,
+          "minutesPlayed": 90,
+          "touches": 29,
+          "rating": 6.2,
+          "possessionLostCtrl": 4,
+          "expectedAssists": 0.00034212,
+          "totalBallCarriesDistance": 25.692017458705,
+          "ballCarriesCount": 5,
+          "totalProgression": 15.203448317719,
+          "progressiveBallCarriesCount": 0,
+          "keeperSaveValue": 0.077,
+          "ratingVersions": {
+            "original": 6.2,
+            "alternative": 5.9
+          },
+          "totalShots": 0,
+          "goalsPrevented": -0.8225,
+          "passValueNormalized": 0.02,
+          "dribbleValueNormalized": 0.02,
+          "defensiveValueNormalized": -0.37,
+          "goalkeeperValueNormalized": -0.66,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

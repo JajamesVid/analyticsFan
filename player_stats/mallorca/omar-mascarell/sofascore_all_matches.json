@@ -3858,139 +3858,6 @@
       "extra": null
     }
   },
-  "14083727": {
-    "id": 14083727,
-    "match_info": {
-      "homeTeam": {
-        "name": "Mallorca",
-        "shortName": "Mallorca",
-        "color": "#cc0000",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "Real Oviedo",
-        "shortName": "Real Oviedo",
-        "color": "#3300ff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-oviedo-mallorca"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Omar Mascarell",
-        "firstName": "Omar",
-        "lastName": "Mascarell",
-        "slug": "omar-mascarell",
-        "shortName": "O. Mascarell",
-        "position": "M",
-        "jerseyNumber": "5",
-        "height": 181,
-        "userCount": 585,
-        "gender": "M",
-        "sofascoreId": "hmduic",
-        "id": 255999,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 728611200,
-        "proposedMarketValueRaw": {
-          "value": 730000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "عمر ماسكاريل",
-            "bn": "ওমর মাসকারেল",
-            "hi": "उमर मास्करेल",
-            "ru": "Омар Маскарель"
-          },
-          "shortNameTranslation": {
-            "ar": "ع. ماسكاريل",
-            "bn": "ও. মাসকারেল",
-            "hi": "ओ. मास्करेल",
-            "ru": "О. Маскарель"
-          }
-        }
-      },
-      "team": {
-        "name": "Mallorca",
-        "slug": "mallorca",
-        "shortName": "Mallorca",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 201002,
-        "nameCode": "MLL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2826,
-        "teamColors": {
-          "primary": "#cc0000",
-          "secondary": "#000000",
-          "text": "#000000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "مايوركا",
-            "bn": "ম্যালোর্কা",
-            "hi": "मल्लोर्का",
-            "ru": "Мальорка"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 35,
-        "accuratePass": 32,
-        "totalLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 20,
-        "totalOwnHalfPasses": 20,
-        "accurateOppositionHalfPasses": 12,
-        "totalOppositionHalfPasses": 15,
-        "aerialLost": 2,
-        "aerialWon": 1,
-        "duelLost": 2,
-        "duelWon": 2,
-        "totalClearance": 3,
-        "totalTackle": 1,
-        "wonTackle": 1,
-        "unsuccessfulTouch": 1,
-        "minutesPlayed": 53,
-        "touches": 42,
-        "rating": 6.9,
-        "possessionLostCtrl": 4,
-        "expectedAssists": 0.00382605,
-        "topSpeed": 29.85,
-        "kilometersCovered": 5.35,
-        "numberOfSprints": 5,
-        "totalBallCarriesDistance": 77.044766035861,
-        "ballCarriesCount": 14,
-        "totalProgression": 12.782924991379,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.9,
-          "alternative": 6.9
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.06,
-        "dribbleValueNormalized": 0.02,
-        "defensiveValueNormalized": 0.21,
-        "metersCoveredRunningKm": 0.65,
-        "metersCoveredHighSpeedRunningKm": 0.18,
-        "metersCoveredSprintingKm": 0.04,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437565": {
     "id": 12437565,
     "match_info": {
@@ -24004,6 +23871,139 @@
         }
       },
       "position": "M",
+      "extra": null
+    }
+  },
+  "14083727": {
+    "id": 14083727,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-oviedo-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Omar Mascarell",
+        "firstName": "Omar",
+        "lastName": "Mascarell",
+        "slug": "omar-mascarell",
+        "shortName": "O. Mascarell",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 181,
+        "userCount": 586,
+        "gender": "M",
+        "sofascoreId": "hmduic",
+        "id": 255999,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 728611200,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "عمر ماسكاريل",
+            "bn": "ওমর মাসকারেল",
+            "hi": "उमर मास्करेल",
+            "ru": "Омар Маскарель"
+          },
+          "shortNameTranslation": {
+            "ar": "ع. ماسكاريل",
+            "bn": "ও. মাসকারেল",
+            "hi": "ओ. मास्करेल",
+            "ru": "О. Маскарель"
+          }
+        }
+      },
+      "team": {
+        "name": "Mallorca",
+        "slug": "mallorca",
+        "shortName": "Mallorca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202209,
+        "nameCode": "MLL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2826,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مايوركا",
+            "bn": "ম্যালোর্কা",
+            "hi": "मल्लोर्का",
+            "ru": "Мальорка"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 35,
+        "accuratePass": 32,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 20,
+        "totalOwnHalfPasses": 20,
+        "accurateOppositionHalfPasses": 12,
+        "totalOppositionHalfPasses": 15,
+        "aerialLost": 2,
+        "aerialWon": 1,
+        "duelLost": 2,
+        "duelWon": 2,
+        "totalClearance": 3,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 53,
+        "touches": 42,
+        "rating": 6.9,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.00382605,
+        "topSpeed": 29.85,
+        "kilometersCovered": 5.35,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 77.044766035861,
+        "ballCarriesCount": 14,
+        "totalProgression": 12.782924991379,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.06,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": 0.21,
+        "metersCoveredRunningKm": 0.65,
+        "metersCoveredHighSpeedRunningKm": 0.18,
+        "metersCoveredSprintingKm": 0.04,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
       "extra": null
     }
   }

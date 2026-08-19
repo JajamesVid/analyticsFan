@@ -2523,95 +2523,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Alexander Freeman",
-        "firstName": "Alexander Freeman",
-        "slug": "alexander-freeman",
-        "shortName": "A. Freeman",
-        "position": "D",
-        "jerseyNumber": "3",
-        "height": 188,
-        "userCount": 1737,
-        "gender": "M",
-        "id": 1184541,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1092009600,
-        "proposedMarketValueRaw": {
-          "value": 3200000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ألكس فريمان",
-            "ru": "Алекс Фримен"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. فريمان",
-            "ru": "А. Фримен"
-          }
-        }
-      },
-      "team": {
-        "name": "Villarreal",
-        "slug": "villarreal",
-        "shortName": "Villarreal",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 461754,
-        "nameCode": "VIL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2819,
-        "teamColors": {
-          "primary": "#ffff00",
-          "secondary": "#013765",
-          "text": "#013765"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فياريال",
-            "bn": "ভিলারিয়াল",
-            "hi": "विल्लारियल",
-            "ru": "Вильярреал"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "15362151": {
     "id": 15362151,
     "match_info": {
@@ -16025,6 +15936,96 @@
           "alternative": null
         },
         "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Alexander Freeman",
+        "firstName": "Alexander Freeman",
+        "slug": "alexander-freeman",
+        "shortName": "A. Freeman",
+        "position": "D",
+        "jerseyNumber": "3",
+        "height": 188,
+        "userCount": 2000,
+        "gender": "M",
+        "sofascoreId": "kmthar",
+        "id": 1184541,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1092009600,
+        "proposedMarketValueRaw": {
+          "value": 9200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ألكس فريمان",
+            "ru": "Алекс Фримен"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. فريمان",
+            "ru": "А. Фримен"
+          }
+        }
+      },
+      "team": {
+        "name": "Villarreal",
+        "slug": "villarreal",
+        "shortName": "Villarreal",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 465801,
+        "nameCode": "VIL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2819,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#013765",
+          "text": "#013765"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فياريال",
+            "bn": "ভিলারিয়াল",
+            "hi": "विल्लारियल",
+            "ru": "Вильярреал"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

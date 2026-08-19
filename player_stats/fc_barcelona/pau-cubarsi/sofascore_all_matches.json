@@ -2907,100 +2907,6 @@
       "extra": null
     }
   },
-  "14083739": {
-    "id": 14083739,
-    "match_info": {
-      "homeTeam": {
-        "name": "Valencia",
-        "shortName": "Valencia",
-        "color": "#ffffff",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "FC Barcelona",
-        "shortName": "Barcelona",
-        "color": "#154284",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "valencia-barcelona"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Pau Cubarsí",
-        "firstName": "Pau Cubarsí",
-        "slug": "pau-cubarsi",
-        "shortName": "P. Cubarsí",
-        "position": "D",
-        "jerseyNumber": "5",
-        "height": 184,
-        "userCount": 174622,
-        "gender": "M",
-        "sofascoreId": "PauCubarsí",
-        "id": 1402913,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1169424000,
-        "proposedMarketValueRaw": {
-          "value": 75000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "باو كوبارسي",
-            "bn": "পাউ কিউবারসি",
-            "hi": "पाउ क्यूबार्सी",
-            "ru": "Пау Кубарси"
-          },
-          "shortNameTranslation": {
-            "ar": "ب. كوبارسي",
-            "bn": "পি. কিউবারসি",
-            "hi": "पी. क्यूबार्सी",
-            "ru": "П. Кубарси"
-          }
-        }
-      },
-      "team": {
-        "name": "FC Barcelona",
-        "slug": "barcelona",
-        "shortName": "Barcelona",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 7651582,
-        "nameCode": "BAR",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2817,
-        "teamColors": {
-          "primary": "#154284",
-          "secondary": "#9d1009",
-          "text": "#9d1009"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "برشلونة",
-            "bn": "বার্সেলোনা",
-            "hi": "बार्सिलोना",
-            "ru": "Барселона"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "16186149": {
     "id": 16186149,
     "match_info": {
@@ -23663,6 +23569,100 @@
           "id": 1
         },
         "userCount": 7651582,
+        "nameCode": "BAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2817,
+        "teamColors": {
+          "primary": "#154284",
+          "secondary": "#9d1009",
+          "text": "#9d1009"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "برشلونة",
+            "bn": "বার্সেলোনা",
+            "hi": "बार्सिलोना",
+            "ru": "Барселона"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083739": {
+    "id": 14083739,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "valencia-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pau Cubarsí",
+        "firstName": "Pau Cubarsí",
+        "slug": "pau-cubarsi",
+        "shortName": "P. Cubarsí",
+        "position": "D",
+        "jerseyNumber": "5",
+        "height": 184,
+        "userCount": 198091,
+        "gender": "M",
+        "sofascoreId": "PauCubarsi",
+        "id": 1402913,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1169424000,
+        "proposedMarketValueRaw": {
+          "value": 94000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "باو كوبارسي",
+            "bn": "পাউ কিউবারসি",
+            "hi": "पाउ क्यूबार्सी",
+            "ru": "Пау Кубарси"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. كوبارسي",
+            "bn": "পি. কিউবারসি",
+            "hi": "पी. क्यूबार्सी",
+            "ru": "П. Кубарси"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Barcelona",
+        "slug": "barcelona",
+        "shortName": "Barcelona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 8036915,
         "nameCode": "BAR",
         "disabled": false,
         "national": false,

@@ -3656,125 +3656,6 @@
       "extra": null
     }
   },
-  "14083719": {
-    "id": 14083719,
-    "match_info": {
-      "homeTeam": {
-        "name": "Espanyol",
-        "shortName": "Espanyol",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Real Sociedad",
-        "shortName": "Real Sociedad",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-sociedad-espanyol"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Omar El Hilali",
-        "slug": "omar-el-hilali",
-        "shortName": "O. E. Hilali",
-        "position": "D",
-        "jerseyNumber": "23",
-        "height": 183,
-        "userCount": 7634,
-        "gender": "M",
-        "id": 1064026,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1063324800,
-        "proposedMarketValueRaw": {
-          "value": 15900000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "عمر الهلالي",
-            "bn": "ওমর এল হিলালী",
-            "hi": "उमर अल हिलाली",
-            "ru": "Омар Эль Хилали"
-          },
-          "shortNameTranslation": {
-            "ar": "ع. الهلالي",
-            "bn": "ও. ই. হিলালী",
-            "hi": "ओ.ई. हिलाली",
-            "ru": "О. Хилали"
-          }
-        }
-      },
-      "team": {
-        "name": "Espanyol",
-        "slug": "espanyol",
-        "shortName": "Espanyol",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 183240,
-        "nameCode": "ESP",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2814,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#1369d2",
-          "text": "#1369d2"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "اسبانيول",
-            "bn": "এসপানিওল",
-            "hi": "एस्पेनयोल",
-            "ru": "Эспаньол"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 3,
-        "accuratePass": 3,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 2,
-        "totalOwnHalfPasses": 2,
-        "accurateOppositionHalfPasses": 1,
-        "totalOppositionHalfPasses": 1,
-        "totalCross": 1,
-        "duelWon": 1,
-        "totalClearance": 2,
-        "totalTackle": 1,
-        "minutesPlayed": 11,
-        "touches": 7,
-        "rating": 6.7,
-        "possessionLostCtrl": 1,
-        "expectedAssists": 0.00209161,
-        "totalBallCarriesDistance": 10.549892409902,
-        "ballCarriesCount": 2,
-        "totalProgression": 0.092730503694142,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.7,
-          "alternative": 6.7
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.01,
-        "dribbleValueNormalized": -0.02,
-        "defensiveValueNormalized": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437881": {
     "id": 12437881,
     "match_info": {
@@ -19431,6 +19312,132 @@
       },
       "statistics": {
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083719": {
+    "id": 14083719,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-sociedad-espanyol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Omar El Hilali",
+        "slug": "omar-el-hilali",
+        "shortName": "O. E. Hilali",
+        "position": "D",
+        "jerseyNumber": "23",
+        "height": 183,
+        "userCount": 7713,
+        "gender": "M",
+        "sofascoreId": "tdqr7h",
+        "id": 1064026,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1063324800,
+        "proposedMarketValueRaw": {
+          "value": 15900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "عمر الهلالي",
+            "bn": "ওমর এল হিলালী",
+            "hi": "उमर अल हिलाली",
+            "ru": "Омар Эль Хилали"
+          },
+          "shortNameTranslation": {
+            "ar": "ع. الهلالي",
+            "bn": "ও. ই. হিলালী",
+            "hi": "ओ.ई. हिलाली",
+            "ru": "О. Хилали"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 184894,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 3,
+        "accuratePass": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 1,
+        "totalCross": 1,
+        "duelWon": 1,
+        "totalClearance": 2,
+        "totalTackle": 1,
+        "minutesPlayed": 11,
+        "touches": 7,
+        "rating": 6.7,
+        "possessionLostCtrl": 1,
+        "expectedAssists": 0.00209161,
+        "topSpeed": 31.88,
+        "kilometersCovered": 1.68,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 10.549892409902,
+        "ballCarriesCount": 2,
+        "totalProgression": 0.092730503694142,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.01,
+        "dribbleValueNormalized": -0.02,
+        "defensiveValueNormalized": 0,
+        "metersCoveredRunningKm": 0.22,
+        "metersCoveredHighSpeedRunningKm": 0.07,
+        "metersCoveredSprintingKm": 0.1,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

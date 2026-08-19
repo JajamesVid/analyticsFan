@@ -3536,124 +3536,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Arda Güler",
-        "firstName": "Arda Guler",
-        "slug": "arda-guler",
-        "shortName": "A. Güler",
-        "position": "M",
-        "jerseyNumber": "15",
-        "height": 176,
-        "userCount": 450502,
-        "gender": "M",
-        "sofascoreId": "AGüler",
-        "id": 1091116,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1109289600,
-        "proposedMarketValueRaw": {
-          "value": 87000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أردا غولر",
-            "bn": "আরদা গুলার",
-            "hi": "अर्डा गुलेर"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. غولر",
-            "bn": "এ.গুলার",
-            "hi": "ए. गुलेर"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Madrid",
-        "slug": "real-madrid",
-        "shortName": "Real Madrid",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 7733858,
-        "nameCode": "RMA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2829,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#004996",
-          "text": "#004996"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال مدريد",
-            "bn": "রিয়াল মাদ্রিদ",
-            "hi": "रियल मैड्रिड",
-            "ru": "Реал Мадрид"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 4,
-        "accuratePass": 4,
-        "totalLongBalls": 1,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 2,
-        "totalOwnHalfPasses": 2,
-        "accurateOppositionHalfPasses": 2,
-        "totalOppositionHalfPasses": 2,
-        "totalCross": 1,
-        "minutesPlayed": 16,
-        "touches": 5,
-        "rating": 6.6,
-        "possessionLostCtrl": 1,
-        "expectedAssists": 0.00345241,
-        "totalBallCarriesDistance": 4.3835055606215,
-        "ballCarriesCount": 1,
-        "totalProgression": 4.1053243358666,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.6,
-          "alternative": 6.5
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.1,
-        "dribbleValueNormalized": 0.01,
-        "defensiveValueNormalized": -0.06,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "16154025": {
     "id": 16154025,
     "match_info": {
@@ -24910,6 +24792,132 @@
         "passValueNormalized": 0.64,
         "dribbleValueNormalized": 0.33,
         "defensiveValueNormalized": 0.21,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Arda Güler",
+        "firstName": "Arda Guler",
+        "slug": "arda-guler",
+        "shortName": "A. Güler",
+        "position": "M",
+        "jerseyNumber": "15",
+        "height": 176,
+        "userCount": 470194,
+        "gender": "M",
+        "sofascoreId": "AGuler",
+        "id": 1091116,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1109289600,
+        "proposedMarketValueRaw": {
+          "value": 87000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أردا غولر",
+            "bn": "আরদা গুলার",
+            "hi": "अर्डा गुलेर",
+            "ru": "Арда Гюлер"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. غولر",
+            "bn": "এ.গুলার",
+            "hi": "ए. गुलेर",
+            "ru": "А. Гюлер"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Madrid",
+        "slug": "real-madrid",
+        "shortName": "Real Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 8378061,
+        "nameCode": "RMA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2829,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#004996",
+          "text": "#004996"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال مدريد",
+            "bn": "রিয়াল মাদ্রিদ",
+            "hi": "रियल मैड्रिड",
+            "ru": "Реал Мадрид"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 4,
+        "accuratePass": 4,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 2,
+        "totalCross": 1,
+        "minutesPlayed": 16,
+        "touches": 5,
+        "rating": 6.6,
+        "possessionLostCtrl": 1,
+        "expectedAssists": 0.00345241,
+        "topSpeed": 21.94,
+        "kilometersCovered": 1.73,
+        "numberOfSprints": 0,
+        "totalBallCarriesDistance": 4.3835055606215,
+        "ballCarriesCount": 1,
+        "totalProgression": 4.1053243358666,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.1,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": -0.06,
+        "metersCoveredRunningKm": 0.15,
+        "metersCoveredHighSpeedRunningKm": 0.06,
+        "metersCoveredSprintingKm": 0,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

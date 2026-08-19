@@ -3778,127 +3778,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Alassane Diatta",
-        "slug": "alassane-diatta",
-        "shortName": "A. Diatta",
-        "position": "M",
-        "jerseyNumber": "38",
-        "height": 190,
-        "userCount": 1483,
-        "gender": "M",
-        "id": 1893907,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1116028800,
-        "proposedMarketValueRaw": {
-          "value": 470000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ألاسان دياتا",
-            "ru": "Алассане Диата"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. دياتا",
-            "ru": "А. Диата"
-          }
-        }
-      },
-      "team": {
-        "name": "Villarreal",
-        "slug": "villarreal",
-        "shortName": "Villarreal",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 461754,
-        "nameCode": "VIL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2819,
-        "teamColors": {
-          "primary": "#ffff00",
-          "secondary": "#013765",
-          "text": "#013765"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فياريال",
-            "bn": "ভিলারিয়াল",
-            "hi": "विल्लारियल",
-            "ru": "Вильярреал"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 21,
-        "accuratePass": 18,
-        "totalLongBalls": 2,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 9,
-        "totalOwnHalfPasses": 11,
-        "accurateOppositionHalfPasses": 9,
-        "totalOppositionHalfPasses": 10,
-        "aerialWon": 1,
-        "duelWon": 3,
-        "totalContest": 1,
-        "wonContest": 1,
-        "totalClearance": 3,
-        "ballRecovery": 2,
-        "totalTackle": 1,
-        "unsuccessfulTouch": 2,
-        "minutesPlayed": 24,
-        "touches": 30,
-        "rating": 7.1,
-        "possessionLostCtrl": 5,
-        "expectedAssists": 0.00804121,
-        "totalBallCarriesDistance": 19.626802008445,
-        "ballCarriesCount": 4,
-        "totalProgression": -2.1169937382404,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 7.1,
-          "alternative": 6.8
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.01,
-        "dribbleValueNormalized": 0.02,
-        "defensiveValueNormalized": 0.25,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "16236414": {
     "id": 16236414,
     "match_info": {
@@ -11313,6 +11192,134 @@
           "alternative": null
         },
         "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Alassane Diatta",
+        "slug": "alassane-diatta",
+        "shortName": "A. Diatta",
+        "position": "M",
+        "jerseyNumber": "28",
+        "height": 190,
+        "userCount": 1605,
+        "gender": "M",
+        "sofascoreId": "u5tckj",
+        "id": 1893907,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1116028800,
+        "proposedMarketValueRaw": {
+          "value": 660000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ألاسان دياتا",
+            "ru": "Алассане Диата"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. دياتا",
+            "ru": "А. Диата"
+          }
+        }
+      },
+      "team": {
+        "name": "Villarreal",
+        "slug": "villarreal",
+        "shortName": "Villarreal",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 465801,
+        "nameCode": "VIL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2819,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#013765",
+          "text": "#013765"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فياريال",
+            "bn": "ভিলারিয়াল",
+            "hi": "विल्लारियल",
+            "ru": "Вильярреал"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 21,
+        "accuratePass": 18,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 9,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 10,
+        "aerialWon": 1,
+        "duelWon": 3,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalClearance": 3,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 2,
+        "minutesPlayed": 24,
+        "touches": 30,
+        "rating": 7.1,
+        "possessionLostCtrl": 5,
+        "expectedAssists": 0.00804121,
+        "topSpeed": 25.22,
+        "kilometersCovered": 2.87,
+        "numberOfSprints": 1,
+        "totalBallCarriesDistance": 19.626802008445,
+        "ballCarriesCount": 4,
+        "totalProgression": -2.1169937382404,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7.1,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.01,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": 0.25,
+        "metersCoveredRunningKm": 0.6,
+        "metersCoveredHighSpeedRunningKm": 0.17,
+        "metersCoveredSprintingKm": 0,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

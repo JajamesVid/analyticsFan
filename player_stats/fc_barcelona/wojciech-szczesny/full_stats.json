@@ -2284,233 +2284,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Valencia",
-        "abreviatura": "VAL",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/18.png"
-      },
-      "visitante": {
-        "nombre": "Barcelona",
-        "abreviatura": "BAR",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/3.png"
-      }
-    },
-    "resultado": "3-1",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20451-valencia-barcelona",
-    "puntuaciones": {
-      "picas": 1,
-      "marca": 1,
-      "cope": 8.0,
-      "sofascore": 5.9,
-      "relevo": 1.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 2.0,
-        "futbolfantasy-rpg": 4.0,
-        "scale1": 0.0,
-        "modo-picas": 2.0,
-        "biwenger-sofascore": -1.0,
-        "biwenger-social": 0.0,
-        "biwenger-as-sofascore": 1.0,
-        "biwenger-stats": 0.0,
-        "futmondo-prensa": 2.0,
-        "futmondo-mixto-as": 2.0,
-        "futmondo-stats": -5.0,
-        "futmondo-mixto": 5.2,
-        "cronistas-marca": 2.0,
-        "marca-mixto": 2.0,
-        "marca-sofascore": -1.0,
-        "mister-cronistas-md": 2.0,
-        "mister-mixto": 1.0,
-        "mister-mixto-2": 1.0,
-        "mister-sofascore": -1.0,
-        "stat-goles": 0.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 0.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 0.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 0.0,
-        "stat-regates-exito": 0.0,
-        "stat-faltas-recibidas": 0.0,
-        "stat-faltas-cometidas": 0.0,
-        "stat-pases-interceptados": 0.0,
-        "stat-balones-robados": 0.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 3.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 3.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 0.0,
-        "stat-despejes": 1.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 3.0,
-        "stat-tiros-totales": 0.0,
-        "stat-centros-totales": 0.0,
-        "stat-precision-pases": 90.6,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 0.0,
-        "stat-tackles": 0.0,
-        "stat-duelos-aereos": 1.0,
-        "stat-tiros-bloqueados": 0.0,
-        "stat-pases-totales": 32.0,
-        "stat-pases-completados": 29.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083739,
-      "match_info": {
-        "homeTeam": {
-          "name": "Valencia",
-          "shortName": "Valencia",
-          "color": "#ffffff",
-          "score": 3
-        },
-        "awayTeam": {
-          "name": "FC Barcelona",
-          "shortName": "Barcelona",
-          "color": "#154284",
-          "score": 1
-        },
-        "startTimestamp": 1779562800,
-        "slug": "valencia-barcelona",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Wojciech Szczęsny",
-          "slug": "wojciech-szczesny",
-          "shortName": "W. Szczęsny",
-          "position": "G",
-          "jerseyNumber": "25",
-          "height": 196,
-          "userCount": 101097,
-          "gender": "M",
-          "sofascoreId": "wojciech.szczesny1",
-          "id": 50490,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 640396800,
-          "proposedMarketValueRaw": {
-            "value": 730000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "فويتشيك شتشسني",
-              "bn": "ওজসিচ স্‌জ্‌সনি",
-              "hi": "वोज्शिएक स्ज़ेसनी",
-              "ru": "Войцех Щенсны"
-            },
-            "shortNameTranslation": {
-              "ar": "ف. شتشسني",
-              "bn": "ডব্লিউ. স্‌জ্‌সনি",
-              "hi": "डब्लू. स्ज़ेसनी",
-              "ru": "В. Щенсны"
-            }
-          }
-        },
-        "team": {
-          "name": "FC Barcelona",
-          "slug": "barcelona",
-          "shortName": "Barcelona",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 7651582,
-          "nameCode": "BAR",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2817,
-          "teamColors": {
-            "primary": "#154284",
-            "secondary": "#9d1009",
-            "text": "#9d1009"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "برشلونة",
-              "bn": "বার্সেলোনা",
-              "hi": "बार्सिलोना",
-              "ru": "Барселона"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalPass": 32,
-          "accuratePass": 29,
-          "totalLongBalls": 6,
-          "accurateLongBalls": 4,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 27,
-          "totalOwnHalfPasses": 29,
-          "accurateOppositionHalfPasses": 2,
-          "totalOppositionHalfPasses": 3,
-          "aerialWon": 1,
-          "duelWon": 1,
-          "totalClearance": 1,
-          "ballRecovery": 3,
-          "savedShotsFromInsideTheBox": 1,
-          "saves": 3,
-          "totalKeeperSweeper": 4,
-          "accurateKeeperSweeper": 4,
-          "minutesPlayed": 90,
-          "touches": 38,
-          "rating": 5.9,
-          "possessionLostCtrl": 3,
-          "expectedAssists": 0.0002979,
-          "totalBallCarriesDistance": 23.189731711165,
-          "ballCarriesCount": 5,
-          "totalProgression": -9.902189106099,
-          "progressiveBallCarriesCount": 0,
-          "keeperSaveValue": 0.3162,
-          "ratingVersions": {
-            "original": 5.9,
-            "alternative": 6.1
-          },
-          "totalShots": 0,
-          "goalsPrevented": -1.1597,
-          "passValueNormalized": 0.03,
-          "dribbleValueNormalized": -0.04,
-          "defensiveValueNormalized": -0.24,
-          "goalkeeperValueNormalized": -0.49,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "G",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Barcelona",
         "abreviatura": "BAR",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/3.png"
@@ -9970,6 +9743,232 @@
         },
         "statistics": {
           "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Valencia",
+        "abreviatura": "VAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/18.png"
+      },
+      "visitante": {
+        "nombre": "Barcelona",
+        "abreviatura": "BAR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/3.png"
+      }
+    },
+    "resultado": "3-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20451-valencia-barcelona",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 8.0,
+      "sofascore": 5.9,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 4.0,
+        "scale1": 0.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": -1.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 1.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": -5.0,
+        "futmondo-mixto": 5.2,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": -1.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 1.0,
+        "mister-mixto-2": 1.0,
+        "mister-sofascore": -1.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 3.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 3.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 1.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 3.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 90.6,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 32.0,
+        "stat-pases-completados": 29.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083739,
+      "match_info": {
+        "homeTeam": {
+          "name": "Valencia",
+          "shortName": "Valencia",
+          "color": "#ffffff",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "FC Barcelona",
+          "shortName": "Barcelona",
+          "color": "#154284",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "valencia-barcelona"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Wojciech Szczęsny",
+          "slug": "wojciech-szczesny",
+          "shortName": "W. Szczęsny",
+          "position": "G",
+          "jerseyNumber": "25",
+          "height": 196,
+          "userCount": 105244,
+          "gender": "M",
+          "sofascoreId": "wojciech.szczesny1",
+          "id": 50490,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 640396800,
+          "proposedMarketValueRaw": {
+            "value": 730000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فويتشيك شتشسني",
+              "bn": "ওজসিচ স্‌জ্‌সনি",
+              "hi": "वोज्शिएक स्ज़ेसनी",
+              "ru": "Войцех Щенсны"
+            },
+            "shortNameTranslation": {
+              "ar": "ف. شتشسني",
+              "bn": "ডব্লিউ. স্‌জ্‌সনি",
+              "hi": "डब्लू. स्ज़ेसनी",
+              "ru": "В. Щенсны"
+            }
+          }
+        },
+        "team": {
+          "name": "FC Barcelona",
+          "slug": "barcelona",
+          "shortName": "Barcelona",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 8036915,
+          "nameCode": "BAR",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2817,
+          "teamColors": {
+            "primary": "#154284",
+            "secondary": "#9d1009",
+            "text": "#9d1009"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "برشلونة",
+              "bn": "বার্সেলোনা",
+              "hi": "बार्सिलोना",
+              "ru": "Барселона"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 32,
+          "accuratePass": 29,
+          "totalLongBalls": 6,
+          "accurateLongBalls": 4,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 27,
+          "totalOwnHalfPasses": 29,
+          "accurateOppositionHalfPasses": 2,
+          "totalOppositionHalfPasses": 3,
+          "aerialWon": 1,
+          "duelWon": 1,
+          "totalClearance": 1,
+          "ballRecovery": 3,
+          "savedShotsFromInsideTheBox": 1,
+          "saves": 3,
+          "totalKeeperSweeper": 4,
+          "accurateKeeperSweeper": 4,
+          "minutesPlayed": 90,
+          "touches": 38,
+          "rating": 5.9,
+          "possessionLostCtrl": 3,
+          "expectedAssists": 0.0002979,
+          "totalBallCarriesDistance": 23.189731711165,
+          "ballCarriesCount": 5,
+          "totalProgression": -9.902189106099,
+          "progressiveBallCarriesCount": 0,
+          "keeperSaveValue": 0.3162,
+          "ratingVersions": {
+            "original": 5.9,
+            "alternative": 6.1
+          },
+          "totalShots": 0,
+          "goalsPrevented": -1.1597,
+          "passValueNormalized": 0.03,
+          "dribbleValueNormalized": -0.04,
+          "defensiveValueNormalized": -0.24,
+          "goalkeeperValueNormalized": -0.49,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

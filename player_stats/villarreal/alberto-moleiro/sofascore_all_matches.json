@@ -3593,139 +3593,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Alberto Moleiro",
-        "firstName": "",
-        "lastName": "",
-        "slug": "alberto-moleiro",
-        "shortName": "A. Moleiro",
-        "position": "M",
-        "jerseyNumber": "20",
-        "height": 172,
-        "userCount": 3868,
-        "gender": "M",
-        "id": 1012444,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1064880000,
-        "proposedMarketValueRaw": {
-          "value": 54000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ألبرتو موليرو",
-            "bn": "আলবার্তো মোলেরো",
-            "hi": "अल्बर्टो मोलेइरो",
-            "ru": "Альберто Молеиро"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. موليرو",
-            "bn": "এ. মোলেরো",
-            "hi": "ए. मोलेइरो",
-            "ru": "А. Молеиро"
-          }
-        }
-      },
-      "team": {
-        "name": "Villarreal",
-        "slug": "villarreal",
-        "shortName": "Villarreal",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 461754,
-        "nameCode": "VIL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2819,
-        "teamColors": {
-          "primary": "#ffff00",
-          "secondary": "#013765",
-          "text": "#013765"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فياريال",
-            "bn": "ভিলারিয়াল",
-            "hi": "विल्लारियल",
-            "ru": "Вильярреал"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 28,
-        "accuratePass": 23,
-        "totalLongBalls": 3,
-        "accurateLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 9,
-        "totalOwnHalfPasses": 9,
-        "accurateOppositionHalfPasses": 14,
-        "totalOppositionHalfPasses": 19,
-        "duelLost": 4,
-        "duelWon": 3,
-        "challengeLost": 1,
-        "totalContest": 3,
-        "wonContest": 1,
-        "totalClearance": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 2,
-        "unsuccessfulTouch": 1,
-        "wasFouled": 2,
-        "fouls": 1,
-        "minutesPlayed": 90,
-        "touches": 38,
-        "rating": 6.4,
-        "possessionLostCtrl": 8,
-        "expectedAssists": 0.0206521,
-        "totalBallCarriesDistance": 169.45382337995,
-        "ballCarriesCount": 16,
-        "totalProgression": 36.235273490702,
-        "bestBallCarryProgression": 19.006006865174,
-        "totalProgressiveBallCarriesDistance": 57.775677158216,
-        "progressiveBallCarriesCount": 3,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 6.4,
-          "alternative": 6.8
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0,
-        "dribbleValueNormalized": 0.23,
-        "defensiveValueNormalized": -0.1,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "13197555": {
     "id": 13197555,
     "match_info": {
@@ -23530,6 +23397,146 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Alberto Moleiro",
+        "firstName": "",
+        "lastName": "",
+        "slug": "alberto-moleiro",
+        "shortName": "A. Moleiro",
+        "position": "M",
+        "jerseyNumber": "20",
+        "height": 172,
+        "userCount": 3926,
+        "gender": "M",
+        "sofascoreId": "hieh5t",
+        "id": 1012444,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1064880000,
+        "proposedMarketValueRaw": {
+          "value": 54000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ألبرتو موليرو",
+            "bn": "আলবার্তো মোলেরো",
+            "hi": "अल्बर्टो मोलेइरो",
+            "ru": "Альберто Молеиро"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. موليرو",
+            "bn": "এ. মোলেরো",
+            "hi": "ए. मोलेइरो",
+            "ru": "А. Молеиро"
+          }
+        }
+      },
+      "team": {
+        "name": "Villarreal",
+        "slug": "villarreal",
+        "shortName": "Villarreal",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 465801,
+        "nameCode": "VIL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2819,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#013765",
+          "text": "#013765"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فياريال",
+            "bn": "ভিলারিয়াল",
+            "hi": "विल्लारियल",
+            "ru": "Вильярреал"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 28,
+        "accuratePass": 23,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 9,
+        "totalOwnHalfPasses": 9,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 19,
+        "duelLost": 4,
+        "duelWon": 3,
+        "challengeLost": 1,
+        "totalContest": 3,
+        "wonContest": 1,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 2,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 38,
+        "rating": 6.4,
+        "possessionLostCtrl": 8,
+        "expectedAssists": 0.0206521,
+        "topSpeed": 32.33,
+        "kilometersCovered": 11.25,
+        "numberOfSprints": 16,
+        "totalBallCarriesDistance": 169.45382337995,
+        "ballCarriesCount": 16,
+        "totalProgression": 36.235273490702,
+        "bestBallCarryProgression": 19.006006865174,
+        "totalProgressiveBallCarriesDistance": 57.775677158216,
+        "progressiveBallCarriesCount": 3,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0,
+        "dribbleValueNormalized": 0.23,
+        "defensiveValueNormalized": -0.1,
+        "metersCoveredRunningKm": 1.89,
+        "metersCoveredHighSpeedRunningKm": 0.87,
+        "metersCoveredSprintingKm": 0.26,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
     }
   }
 }

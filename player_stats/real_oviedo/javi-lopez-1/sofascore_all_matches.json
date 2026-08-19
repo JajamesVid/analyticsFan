@@ -3506,123 +3506,6 @@
       "extra": null
     }
   },
-  "14083727": {
-    "id": 14083727,
-    "match_info": {
-      "homeTeam": {
-        "name": "Mallorca",
-        "shortName": "Mallorca",
-        "color": "#cc0000",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "Real Oviedo",
-        "shortName": "Real Oviedo",
-        "color": "#3300ff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-oviedo-mallorca"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Javi López",
-        "firstName": "Javi",
-        "lastName": "Lopez",
-        "slug": "lopez-javi",
-        "shortName": "J. López",
-        "position": "D",
-        "jerseyNumber": "25",
-        "height": 183,
-        "userCount": 447,
-        "gender": "M",
-        "id": 945404,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1017014400,
-        "proposedMarketValueRaw": {
-          "value": 5400000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "لوبيز، جافي",
-            "bn": "লোপেজ, জাভি",
-            "hi": "लोपेज़, जावी"
-          },
-          "shortNameTranslation": {
-            "ar": "ج. لوبيز",
-            "bn": "জে. লোপেজ",
-            "hi": "जे. लोपेज़"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Oviedo",
-        "slug": "real-oviedo",
-        "shortName": "Real Oviedo",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 100010,
-        "nameCode": "OVI",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2851,
-        "teamColors": {
-          "primary": "#3300ff",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال اوفيدو",
-            "hi": "रियल ओविएडो",
-            "ru": "Реал Овьедо"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 8,
-        "accuratePass": 5,
-        "totalLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 3,
-        "totalOwnHalfPasses": 5,
-        "accurateOppositionHalfPasses": 2,
-        "totalOppositionHalfPasses": 3,
-        "totalCross": 1,
-        "ballRecovery": 2,
-        "minutesPlayed": 13,
-        "touches": 13,
-        "rating": 6,
-        "possessionLostCtrl": 4,
-        "expectedAssists": 0.00054888,
-        "totalBallCarriesDistance": 19.518565198821,
-        "ballCarriesCount": 3,
-        "totalProgression": 10.08658981962,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6,
-          "alternative": 5.9
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0,
-        "dribbleValueNormalized": 0.08,
-        "defensiveValueNormalized": -0.35,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437811": {
     "id": 12437811,
     "match_info": {
@@ -21508,6 +21391,132 @@
         "rating": 6.7,
         "possessionLostCtrl": 1,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083727": {
+    "id": 14083727,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-oviedo-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javi López",
+        "firstName": "Javi",
+        "lastName": "Lopez",
+        "slug": "lopez-javi",
+        "shortName": "J. López",
+        "position": "D",
+        "jerseyNumber": "12",
+        "height": 183,
+        "userCount": 450,
+        "gender": "M",
+        "sofascoreId": "higp7y",
+        "id": 945404,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1017014400,
+        "proposedMarketValueRaw": {
+          "value": 5400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "لوبيز، جافي",
+            "bn": "লোপেজ, জাভি",
+            "hi": "लोपेज़, जावी",
+            "ru": "Хави Лопес"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. لوبيز",
+            "bn": "জে. লোপেজ",
+            "hi": "जे. लोपेज़",
+            "ru": "Х. Лопес"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 98974,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 8,
+        "accuratePass": 5,
+        "totalLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 3,
+        "totalCross": 1,
+        "ballRecovery": 2,
+        "minutesPlayed": 13,
+        "touches": 13,
+        "rating": 6,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.00054888,
+        "topSpeed": 26.96,
+        "kilometersCovered": 1.67,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 19.518565198821,
+        "ballCarriesCount": 3,
+        "totalProgression": 10.08658981962,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6,
+          "alternative": 5.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0,
+        "dribbleValueNormalized": 0.08,
+        "defensiveValueNormalized": -0.35,
+        "metersCoveredRunningKm": 0.21,
+        "metersCoveredHighSpeedRunningKm": 0.13,
+        "metersCoveredSprintingKm": 0.02,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

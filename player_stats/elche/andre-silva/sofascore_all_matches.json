@@ -3748,134 +3748,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "André Silva",
-        "slug": "andre-silva",
-        "shortName": "A. Silva",
-        "position": "F",
-        "jerseyNumber": "9",
-        "height": 185,
-        "userCount": 6196,
-        "gender": "M",
-        "sofascoreId": "andresilva9",
-        "id": 190159,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 815616000,
-        "proposedMarketValueRaw": {
-          "value": 2800000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أندريه سيلفا",
-            "bn": "আন্দ্রে সিলভা",
-            "hi": "आंद्रे सिल्वा",
-            "ru": "Андре Силва"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. سيلفا",
-            "bn": "এ. সিলভা",
-            "hi": "ए. सिल्वा",
-            "ru": "А. Силва"
-          }
-        }
-      },
-      "team": {
-        "name": "Elche",
-        "slug": "elche",
-        "shortName": "Elche",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 116534,
-        "nameCode": "ELC",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2846,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#336600",
-          "text": "#336600"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إلتشي",
-            "bn": "এলচে",
-            "hi": "एल्चे",
-            "ru": "Эльче"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 5,
-        "goalAssist": 0,
-        "totalOwnHalfPasses": 1,
-        "totalOppositionHalfPasses": 4,
-        "totalCross": 1,
-        "aerialWon": 1,
-        "duelLost": 2,
-        "duelWon": 2,
-        "dispossessed": 1,
-        "totalContest": 1,
-        "totalClearance": 1,
-        "ballRecovery": 2,
-        "totalTackle": 1,
-        "unsuccessfulTouch": 6,
-        "minutesPlayed": 15,
-        "touches": 17,
-        "rating": 6.5,
-        "possessionLostCtrl": 15,
-        "topSpeed": 26.76,
-        "kilometersCovered": 2.62,
-        "numberOfSprints": 4,
-        "totalBallCarriesDistance": 16.240592045845,
-        "ballCarriesCount": 2,
-        "totalProgression": 10.27823863724,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.5,
-          "alternative": 6.4
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.07,
-        "dribbleValueNormalized": -0.03,
-        "defensiveValueNormalized": 0.17,
-        "metersCoveredRunningKm": 0.42,
-        "metersCoveredHighSpeedRunningKm": 0.11,
-        "metersCoveredSprintingKm": 0.03,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12764274": {
     "id": 12764274,
     "match_info": {
@@ -24038,6 +23910,134 @@
         "rating": 6.6,
         "possessionLostCtrl": 1,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "André Silva",
+        "slug": "andre-silva",
+        "shortName": "A. Silva",
+        "position": "F",
+        "jerseyNumber": "19",
+        "height": 185,
+        "userCount": 6540,
+        "gender": "M",
+        "sofascoreId": "andresilva9",
+        "id": 190159,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 815616000,
+        "proposedMarketValueRaw": {
+          "value": 2800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أندريه سيلفا",
+            "bn": "আন্দ্রে সিলভা",
+            "hi": "आंद्रे सिल्वा",
+            "ru": "Андре Силва"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. سيلفا",
+            "bn": "এ. সিলভা",
+            "hi": "ए. सिल्वा",
+            "ru": "А. Силва"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 118908,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 5,
+        "goalAssist": 0,
+        "totalOwnHalfPasses": 1,
+        "totalOppositionHalfPasses": 4,
+        "totalCross": 1,
+        "aerialWon": 1,
+        "duelLost": 2,
+        "duelWon": 2,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "totalClearance": 1,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 6,
+        "minutesPlayed": 15,
+        "touches": 17,
+        "rating": 6.5,
+        "possessionLostCtrl": 15,
+        "topSpeed": 26.76,
+        "kilometersCovered": 2.62,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 16.240592045845,
+        "ballCarriesCount": 2,
+        "totalProgression": 10.27823863724,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.07,
+        "dribbleValueNormalized": -0.03,
+        "defensiveValueNormalized": 0.17,
+        "metersCoveredRunningKm": 0.42,
+        "metersCoveredHighSpeedRunningKm": 0.11,
+        "metersCoveredSprintingKm": 0.03,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

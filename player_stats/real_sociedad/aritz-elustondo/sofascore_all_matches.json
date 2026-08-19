@@ -2959,126 +2959,6 @@
       "extra": null
     }
   },
-  "14083719": {
-    "id": 14083719,
-    "match_info": {
-      "homeTeam": {
-        "name": "Espanyol",
-        "shortName": "Espanyol",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Real Sociedad",
-        "shortName": "Real Sociedad",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-sociedad-espanyol"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Aritz Elustondo",
-        "firstName": "Aritz",
-        "lastName": "Elustondo",
-        "slug": "aritz-elustondo",
-        "shortName": "A. Elustondo",
-        "position": "D",
-        "jerseyNumber": "6",
-        "height": 178,
-        "userCount": 460,
-        "gender": "M",
-        "id": 785468,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 764812800,
-        "proposedMarketValueRaw": {
-          "value": 1600000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أريتس إيلوستوندو",
-            "bn": "আরিটজ ইলুস্টন্ডো",
-            "hi": "अरिट्स एलुस्टोंडो",
-            "ru": "Ариц Элустондо"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. إيلوستوندو",
-            "bn": "এ. ইলুস্টন্ডো",
-            "hi": "ओ. कैमारा",
-            "ru": "А. Элустондо"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Sociedad",
-        "slug": "real-sociedad",
-        "shortName": "Real Sociedad",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 413040,
-        "nameCode": "RSO",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2824,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#0077c7",
-          "text": "#0077c7"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال سوسيداد",
-            "bn": "রিয়াল সোসিয়েদাদ",
-            "hi": "रियल सोसियदाद",
-            "ru": "Реал Сосьедад"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 6,
-        "accuratePass": 3,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 1,
-        "totalOwnHalfPasses": 2,
-        "accurateOppositionHalfPasses": 2,
-        "totalOppositionHalfPasses": 4,
-        "aerialLost": 1,
-        "aerialWon": 2,
-        "duelLost": 2,
-        "duelWon": 3,
-        "totalContest": 1,
-        "ballRecovery": 1,
-        "wasFouled": 1,
-        "minutesPlayed": 13,
-        "touches": 11,
-        "rating": 6.7,
-        "possessionLostCtrl": 4,
-        "expectedAssists": 0.000903,
-        "ratingVersions": {
-          "original": 6.7,
-          "alternative": 6.6
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.09,
-        "dribbleValueNormalized": 0.01,
-        "defensiveValueNormalized": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437571": {
     "id": 12437571,
     "match_info": {
@@ -21973,6 +21853,133 @@
         "rating": 6.7,
         "possessionLostCtrl": 16,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083719": {
+    "id": 14083719,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-sociedad-espanyol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Aritz Elustondo",
+        "firstName": "Aritz",
+        "lastName": "Elustondo",
+        "slug": "aritz-elustondo",
+        "shortName": "A. Elustondo",
+        "position": "D",
+        "jerseyNumber": "6",
+        "height": 178,
+        "userCount": 581,
+        "gender": "M",
+        "sofascoreId": "ha3sqc",
+        "id": 785468,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 764812800,
+        "proposedMarketValueRaw": {
+          "value": 1600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أريتس إيلوستوندو",
+            "bn": "আরিটজ ইলুস্টন্ডো",
+            "hi": "अरिट्स एलुस्टोंडो",
+            "ru": "Ариц Элустондо"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إيلوستوندو",
+            "bn": "এ. ইলুস্টন্ডো",
+            "hi": "ओ. कैमारा",
+            "ru": "А. Элустондо"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 417327,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 6,
+        "accuratePass": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 4,
+        "aerialLost": 1,
+        "aerialWon": 2,
+        "duelLost": 2,
+        "duelWon": 3,
+        "totalContest": 1,
+        "ballRecovery": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 13,
+        "touches": 11,
+        "rating": 6.7,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.000903,
+        "topSpeed": 31.17,
+        "kilometersCovered": 1.77,
+        "numberOfSprints": 3,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.09,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": 0,
+        "metersCoveredRunningKm": 0.28,
+        "metersCoveredHighSpeedRunningKm": 0.16,
+        "metersCoveredSprintingKm": 0.07,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

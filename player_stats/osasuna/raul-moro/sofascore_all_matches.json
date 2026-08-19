@@ -3439,126 +3439,6 @@
       "extra": null
     }
   },
-  "14083723": {
-    "id": 14083723,
-    "match_info": {
-      "homeTeam": {
-        "name": "Getafe",
-        "shortName": "Getafe",
-        "color": "#00369e",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Osasuna",
-        "shortName": "Osasuna",
-        "color": "#cc0000",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "getafe-osasuna"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Raúl Moro",
-        "firstName": "Raul",
-        "lastName": "Moro",
-        "slug": "raul-moro",
-        "shortName": "R. Moro",
-        "position": "M",
-        "jerseyNumber": "18",
-        "height": 169,
-        "userCount": 1594,
-        "gender": "M",
-        "id": 980383,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1039046400,
-        "proposedMarketValueRaw": {
-          "value": 3300000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "راول مورو",
-            "bn": "রাউল মোরো",
-            "hi": "राउल मोरो",
-            "ru": "Рауль Моро"
-          },
-          "shortNameTranslation": {
-            "ar": "ر. مورو",
-            "bn": "আর. মোরো",
-            "hi": "आर. मोरो",
-            "ru": "Р. Моро"
-          }
-        }
-      },
-      "team": {
-        "name": "Osasuna",
-        "slug": "osasuna",
-        "shortName": "Osasuna",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 199411,
-        "nameCode": "OSA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2820,
-        "teamColors": {
-          "primary": "#cc0000",
-          "secondary": "#14213d",
-          "text": "#14213d"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أوساسونا",
-            "bn": "ওসাসুনা",
-            "hi": "ओसासुना",
-            "ru": "Осасуна"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 4,
-        "accuratePass": 2,
-        "totalLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 2,
-        "totalOwnHalfPasses": 2,
-        "totalOppositionHalfPasses": 2,
-        "totalCross": 2,
-        "aerialLost": 1,
-        "duelLost": 1,
-        "minutesPlayed": 8,
-        "touches": 6,
-        "rating": 6.3,
-        "possessionLostCtrl": 4,
-        "expectedAssists": 1.03e-05,
-        "totalBallCarriesDistance": 10.860297817342,
-        "ballCarriesCount": 2,
-        "totalProgression": -5.7520896582519,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.3,
-          "alternative": 6.5
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.07,
-        "dribbleValueNormalized": -0.39,
-        "defensiveValueNormalized": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12437526": {
     "id": 12437526,
     "match_info": {
@@ -22935,6 +22815,133 @@
       },
       "statistics": {
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083723": {
+    "id": 14083723,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "getafe-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Raúl Moro",
+        "firstName": "Raul",
+        "lastName": "Moro",
+        "slug": "raul-moro",
+        "shortName": "R. Moro",
+        "position": "M",
+        "jerseyNumber": "18",
+        "height": 169,
+        "userCount": 1602,
+        "gender": "M",
+        "sofascoreId": "hiiykm",
+        "id": 980383,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1039046400,
+        "proposedMarketValueRaw": {
+          "value": 3300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راول مورو",
+            "bn": "রাউল মোরো",
+            "hi": "राउल मोरो",
+            "ru": "Рауль Моро"
+          },
+          "shortNameTranslation": {
+            "ar": "ر. مورو",
+            "bn": "আর. মোরো",
+            "hi": "आर. मोरो",
+            "ru": "Р. Моро"
+          }
+        }
+      },
+      "team": {
+        "name": "Osasuna",
+        "slug": "osasuna",
+        "shortName": "Osasuna",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202237,
+        "nameCode": "OSA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2820,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#14213d",
+          "text": "#14213d"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوساسونا",
+            "bn": "ওসাসুনা",
+            "hi": "ओसासुना",
+            "ru": "Осасуна"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 4,
+        "accuratePass": 2,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "totalOppositionHalfPasses": 2,
+        "totalCross": 2,
+        "aerialLost": 1,
+        "duelLost": 1,
+        "minutesPlayed": 8,
+        "touches": 6,
+        "rating": 6.3,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 1.03e-05,
+        "topSpeed": 28.31,
+        "kilometersCovered": 1.49,
+        "numberOfSprints": 1,
+        "totalBallCarriesDistance": 10.860297817342,
+        "ballCarriesCount": 2,
+        "totalProgression": -5.7520896582519,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.07,
+        "dribbleValueNormalized": -0.39,
+        "defensiveValueNormalized": 0,
+        "metersCoveredRunningKm": 0.24,
+        "metersCoveredHighSpeedRunningKm": 0.07,
+        "metersCoveredSprintingKm": 0,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

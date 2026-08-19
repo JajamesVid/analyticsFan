@@ -3461,101 +3461,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Jesús Areso",
-        "firstName": "Jesus",
-        "lastName": "Areso",
-        "slug": "jesus-areso",
-        "shortName": "J. Areso",
-        "position": "D",
-        "jerseyNumber": "12",
-        "height": 183,
-        "userCount": 656,
-        "gender": "M",
-        "sofascoreId": "iibvze",
-        "id": 910267,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 930873600,
-        "proposedMarketValueRaw": {
-          "value": 5500000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "خيسوس أريسو",
-            "bn": "জেসুস আরেসো",
-            "hi": "जीसस एरेसो",
-            "ru": "Хесус Аресо"
-          },
-          "shortNameTranslation": {
-            "ar": "خ. أريسو",
-            "bn": "জে. আরেসো",
-            "hi": "जे. एरेसो",
-            "ru": "Х. Аресо"
-          }
-        }
-      },
-      "team": {
-        "name": "Athletic Club",
-        "slug": "athletic-club",
-        "shortName": "Athletic Club",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 519382,
-        "nameCode": "ATH",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2825,
-        "teamColors": {
-          "primary": "#aa0000",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "نادي أتليتيك",
-            "bn": "অ্যাথলেটিক ক্লাব",
-            "hi": "एथलेटिक क्लब",
-            "ru": "Атлетик Бильбао"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437502": {
     "id": 12437502,
     "match_info": {
@@ -23331,6 +23236,103 @@
         "minutesPlayed": 1,
         "touches": 1,
         "keyPass": 1,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Jesús Areso",
+        "firstName": "Jesus",
+        "lastName": "Areso",
+        "slug": "jesus-areso",
+        "shortName": "J. Areso",
+        "position": "D",
+        "jerseyNumber": "12",
+        "height": 183,
+        "userCount": 689,
+        "gender": "M",
+        "sofascoreId": "iibvze",
+        "id": 910267,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 930873600,
+        "proposedMarketValueRaw": {
+          "value": 5500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيسوس أريسو",
+            "bn": "জেসুস আরেসো",
+            "hi": "जीसस एरेसो",
+            "ru": "Хесус Аресо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. أريسو",
+            "bn": "জে. আরেসো",
+            "hi": "जे. एरेसो",
+            "ru": "Х. Аресо"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 524413,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
         "totalShots": 0,
         "statisticsType": {
           "sportSlug": "football",

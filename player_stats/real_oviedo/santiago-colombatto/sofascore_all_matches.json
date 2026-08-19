@@ -3644,129 +3644,6 @@
       "extra": null
     }
   },
-  "14083727": {
-    "id": 14083727,
-    "match_info": {
-      "homeTeam": {
-        "name": "Mallorca",
-        "shortName": "Mallorca",
-        "color": "#cc0000",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "Real Oviedo",
-        "shortName": "Real Oviedo",
-        "color": "#3300ff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-oviedo-mallorca"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Santiago Colombatto",
-        "firstName": "Santiago",
-        "lastName": "Colombatto",
-        "slug": "santiago-colombatto",
-        "shortName": "S. Colombatto",
-        "position": "M",
-        "jerseyNumber": "11",
-        "height": 180,
-        "userCount": 636,
-        "gender": "M",
-        "id": 822379,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 853459200,
-        "proposedMarketValueRaw": {
-          "value": 3100000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "سانتياغو كولومباتو",
-            "bn": "সান্তিয়াগো কলম্বাটো",
-            "hi": "सैंटियागो कोलोम्बाट्टो"
-          },
-          "shortNameTranslation": {
-            "ar": "س. كولومباتو",
-            "bn": "এস. কলম্বাটো",
-            "hi": "एस. कोलोम्बाट्टो"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Oviedo",
-        "slug": "real-oviedo",
-        "shortName": "Real Oviedo",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 100042,
-        "nameCode": "OVI",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2851,
-        "teamColors": {
-          "primary": "#3300ff",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال اوفيدو",
-            "hi": "रियल ओविएडो",
-            "ru": "Реал Овьедо"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 27,
-        "accuratePass": 22,
-        "totalLongBalls": 4,
-        "accurateLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 12,
-        "totalOwnHalfPasses": 15,
-        "accurateOppositionHalfPasses": 10,
-        "totalOppositionHalfPasses": 12,
-        "aerialWon": 1,
-        "duelWon": 4,
-        "totalClearance": 5,
-        "ballRecovery": 2,
-        "totalTackle": 1,
-        "wonTackle": 1,
-        "wasFouled": 3,
-        "minutesPlayed": 63,
-        "touches": 36,
-        "rating": 6.9,
-        "possessionLostCtrl": 5,
-        "expectedAssists": 0.0122874,
-        "totalBallCarriesDistance": 48.364791088999,
-        "ballCarriesCount": 9,
-        "totalProgression": 7.3374247778217,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.9,
-          "alternative": 6.8
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.06,
-        "dribbleValueNormalized": 0.07,
-        "defensiveValueNormalized": 0.18,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12467527": {
     "id": 12467527,
     "match_info": {
@@ -23867,6 +23744,138 @@
         "rating": 6.1,
         "possessionLostCtrl": 8,
         "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083727": {
+    "id": 14083727,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-oviedo-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Santiago Colombatto",
+        "firstName": "Santiago",
+        "lastName": "Colombatto",
+        "slug": "santiago-colombatto",
+        "shortName": "S. Colombatto",
+        "position": "M",
+        "jerseyNumber": "22",
+        "height": 180,
+        "userCount": 631,
+        "gender": "M",
+        "sofascoreId": "vj6eps",
+        "id": 822379,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 853459200,
+        "proposedMarketValueRaw": {
+          "value": 2600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سانتياغو كولومباتو",
+            "bn": "সান্তিয়াগো কলম্বাটো",
+            "hi": "सैंटियागो कोलोम्बाट्टो",
+            "ru": "Сантьяго Коломбатто"
+          },
+          "shortNameTranslation": {
+            "ar": "س. كولومباتو",
+            "bn": "এস. কলম্বাটো",
+            "hi": "एस. कोलोम्बाट्टो",
+            "ru": "С. Коломбатто"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 98974,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 27,
+        "accuratePass": 22,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 12,
+        "totalOwnHalfPasses": 15,
+        "accurateOppositionHalfPasses": 10,
+        "totalOppositionHalfPasses": 12,
+        "aerialWon": 1,
+        "duelWon": 4,
+        "totalClearance": 5,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "wasFouled": 3,
+        "minutesPlayed": 63,
+        "touches": 36,
+        "rating": 6.9,
+        "possessionLostCtrl": 5,
+        "expectedAssists": 0.0122874,
+        "topSpeed": 28.86,
+        "kilometersCovered": 7.26,
+        "numberOfSprints": 6,
+        "totalBallCarriesDistance": 48.364791088999,
+        "ballCarriesCount": 9,
+        "totalProgression": 7.3374247778217,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.06,
+        "dribbleValueNormalized": 0.07,
+        "defensiveValueNormalized": 0.18,
+        "metersCoveredRunningKm": 1.22,
+        "metersCoveredHighSpeedRunningKm": 0.3,
+        "metersCoveredSprintingKm": 0.09,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

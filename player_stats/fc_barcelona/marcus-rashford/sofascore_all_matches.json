@@ -2928,139 +2928,6 @@
       "extra": null
     }
   },
-  "14083739": {
-    "id": 14083739,
-    "match_info": {
-      "homeTeam": {
-        "name": "Valencia",
-        "shortName": "Valencia",
-        "color": "#ffffff",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "FC Barcelona",
-        "shortName": "Barcelona",
-        "color": "#154284",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "valencia-barcelona"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Marcus Rashford",
-        "firstName": "Marcus",
-        "lastName": "Rashford",
-        "slug": "marcus-rashford",
-        "shortName": "M. Rashford",
-        "position": "F",
-        "jerseyNumber": "14",
-        "height": 185,
-        "userCount": 394531,
-        "gender": "M",
-        "sofascoreId": "Rashford",
-        "id": 814590,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 878256000,
-        "proposedMarketValueRaw": {
-          "value": 38000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ماركوس راشفورد",
-            "bn": "মার্কাস রাশফোর্ড",
-            "hi": "मार्कस रैशफोर्ड",
-            "ru": "Маркус Рашфорд"
-          },
-          "shortNameTranslation": {
-            "ar": "م. راشفورد",
-            "bn": "এম. রাশফোর্ড",
-            "hi": "एम. रैशफोर्ड",
-            "ru": "М. Рашфорд"
-          }
-        }
-      },
-      "team": {
-        "name": "FC Barcelona",
-        "slug": "barcelona",
-        "shortName": "Barcelona",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 7651582,
-        "nameCode": "BAR",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2817,
-        "teamColors": {
-          "primary": "#154284",
-          "secondary": "#9d1009",
-          "text": "#9d1009"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "برشلونة",
-            "bn": "বার্সেলোনা",
-            "hi": "बार्सिलोना",
-            "ru": "Барселона"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 36,
-        "accuratePass": 32,
-        "totalLongBalls": 2,
-        "accurateLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 7,
-        "totalOwnHalfPasses": 9,
-        "accurateOppositionHalfPasses": 25,
-        "totalOppositionHalfPasses": 27,
-        "totalCross": 11,
-        "accurateCross": 3,
-        "duelLost": 6,
-        "duelWon": 1,
-        "dispossessed": 3,
-        "totalContest": 4,
-        "wonContest": 1,
-        "bigChanceCreated": 1,
-        "ballRecovery": 1,
-        "unsuccessfulTouch": 2,
-        "minutesPlayed": 90,
-        "touches": 60,
-        "rating": 6.2,
-        "possessionLostCtrl": 20,
-        "expectedAssists": 0.223288,
-        "totalBallCarriesDistance": 227.66522125445,
-        "ballCarriesCount": 20,
-        "totalProgression": 127.89356607028,
-        "bestBallCarryProgression": 28.453401671947,
-        "totalProgressiveBallCarriesDistance": 164.14116351648,
-        "progressiveBallCarriesCount": 8,
-        "keyPass": 4,
-        "ratingVersions": {
-          "original": 6.2,
-          "alternative": 6.5
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.05,
-        "dribbleValueNormalized": 0.31,
-        "defensiveValueNormalized": -0.19,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "15926544": {
     "id": 15926544,
     "match_info": {
@@ -26556,6 +26423,145 @@
         }
       },
       "position": "F",
+      "extra": null
+    }
+  },
+  "14083739": {
+    "id": 14083739,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "valencia-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Marcus Rashford",
+        "firstName": "Marcus",
+        "lastName": "Rashford",
+        "slug": "marcus-rashford",
+        "shortName": "M. Rashford",
+        "position": "F",
+        "jerseyNumber": "10",
+        "height": 188,
+        "userCount": 399694,
+        "gender": "M",
+        "sofascoreId": "Rashford",
+        "id": 814590,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 878256000,
+        "proposedMarketValueRaw": {
+          "value": 38000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماركوس راشفورد",
+            "bn": "মার্কাস রাশফোর্ড",
+            "hi": "मार्कस रैशफोर्ड",
+            "ru": "Маркус Рашфорд"
+          },
+          "shortNameTranslation": {
+            "ar": "م. راشفورد",
+            "bn": "এম. রাশফোর্ড",
+            "hi": "एम. रैशफोर्ड",
+            "ru": "М. Рашфорд"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Barcelona",
+        "slug": "barcelona",
+        "shortName": "Barcelona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 8036915,
+        "nameCode": "BAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2817,
+        "teamColors": {
+          "primary": "#154284",
+          "secondary": "#9d1009",
+          "text": "#9d1009"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "برشلونة",
+            "bn": "বার্সেলোনা",
+            "hi": "बार्सिलोना",
+            "ru": "Барселона"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 36,
+        "accuratePass": 32,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 7,
+        "totalOwnHalfPasses": 9,
+        "accurateOppositionHalfPasses": 25,
+        "totalOppositionHalfPasses": 27,
+        "totalCross": 11,
+        "accurateCross": 3,
+        "duelLost": 6,
+        "duelWon": 1,
+        "dispossessed": 3,
+        "totalContest": 4,
+        "wonContest": 1,
+        "bigChanceCreated": 1,
+        "ballRecovery": 1,
+        "unsuccessfulTouch": 2,
+        "minutesPlayed": 90,
+        "touches": 60,
+        "rating": 6.2,
+        "possessionLostCtrl": 20,
+        "expectedAssists": 0.223288,
+        "topSpeed": 33.67,
+        "kilometersCovered": 8.76,
+        "numberOfSprints": 11,
+        "totalBallCarriesDistance": 227.66522125445,
+        "ballCarriesCount": 20,
+        "totalProgression": 127.89356607028,
+        "bestBallCarryProgression": 28.453401671947,
+        "totalProgressiveBallCarriesDistance": 164.14116351648,
+        "progressiveBallCarriesCount": 8,
+        "keyPass": 4,
+        "ratingVersions": {
+          "original": 6.2,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.05,
+        "dribbleValueNormalized": 0.31,
+        "defensiveValueNormalized": -0.19,
+        "metersCoveredRunningKm": 0.99,
+        "metersCoveredHighSpeedRunningKm": 0.31,
+        "metersCoveredSprintingKm": 0.17,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
       "extra": null
     }
   }

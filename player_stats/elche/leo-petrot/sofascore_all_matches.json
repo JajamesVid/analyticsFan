@@ -3578,112 +3578,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Léo Pétrot",
-        "firstName": "Leo",
-        "lastName": "Petrot",
-        "slug": "leo-petrot",
-        "shortName": "L. Pétrot",
-        "position": "D",
-        "height": 188,
-        "userCount": 348,
-        "gender": "M",
-        "sofascoreId": "srwxi3",
-        "id": 827504,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 861062400,
-        "proposedMarketValueRaw": {
-          "value": 1400000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ليو بيتروت",
-            "bn": "লিও পেট্রট",
-            "hi": "लियो पेट्रोट",
-            "ru": "Лео Петрот"
-          },
-          "shortNameTranslation": {
-            "ar": "ل. بيتروت",
-            "bn": "এল. পেট্রট",
-            "hi": "एल. पेट्रोट",
-            "ru": "Л. Петрот"
-          }
-        }
-      },
-      "team": {
-        "name": "Elche",
-        "slug": "elche",
-        "shortName": "Elche",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 116534,
-        "nameCode": "ELC",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2846,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#336600",
-          "text": "#336600"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إلتشي",
-            "bn": "এলচে",
-            "hi": "एल्चे",
-            "ru": "Эльче"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "goalAssist": 0,
-        "aerialWon": 2,
-        "duelWon": 2,
-        "totalClearance": 3,
-        "minutesPlayed": 8,
-        "touches": 3,
-        "rating": 6.9,
-        "ratingVersions": {
-          "original": 6.9,
-          "alternative": 6.7
-        },
-        "totalShots": 0,
-        "defensiveValueNormalized": 0.19,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12450259": {
     "id": 12450259,
     "match_info": {
@@ -22109,6 +22003,113 @@
         "rating": 7,
         "possessionLostCtrl": 6,
         "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Léo Pétrot",
+        "firstName": "Leo",
+        "lastName": "Petrot",
+        "slug": "leo-petrot",
+        "shortName": "L. Pétrot",
+        "position": "D",
+        "jerseyNumber": "27",
+        "height": 188,
+        "userCount": 390,
+        "gender": "M",
+        "sofascoreId": "srwxi3",
+        "id": 827504,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 861062400,
+        "proposedMarketValueRaw": {
+          "value": 1400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليو بيتروت",
+            "bn": "লিও পেট্রট",
+            "hi": "लियो पेट्रोट",
+            "ru": "Лео Петрот"
+          },
+          "shortNameTranslation": {
+            "ar": "ل. بيتروت",
+            "bn": "এল. পেট্রট",
+            "hi": "एल. पेट्रोट",
+            "ru": "Л. Петрот"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 118908,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "goalAssist": 0,
+        "aerialWon": 2,
+        "duelWon": 2,
+        "totalClearance": 3,
+        "minutesPlayed": 8,
+        "touches": 3,
+        "rating": 6.9,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "defensiveValueNormalized": 0.19,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

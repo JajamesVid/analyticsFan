@@ -3497,135 +3497,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Álvaro Carreras",
-        "slug": "alvaro-carreras",
-        "shortName": "Á. Carreras",
-        "position": "D",
-        "jerseyNumber": "18",
-        "height": 186,
-        "userCount": 93379,
-        "gender": "M",
-        "id": 1085081,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1048377600,
-        "proposedMarketValueRaw": {
-          "value": 64000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ألفارو كاريراس",
-            "bn": "আলভারো ক্যারেরাস",
-            "hi": "अल्वारो कैरेरास"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. كاريراس",
-            "bn": "আ. ক্যারেরাস",
-            "hi": "ए. कैरेरास"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Madrid",
-        "slug": "real-madrid",
-        "shortName": "Real Madrid",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 7733858,
-        "nameCode": "RMA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2829,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#004996",
-          "text": "#004996"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال مدريد",
-            "bn": "রিয়াল মাদ্রিদ",
-            "hi": "रियल मैड्रिड",
-            "ru": "Реал Мадрид"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 83,
-        "accuratePass": 71,
-        "totalLongBalls": 2,
-        "accurateLongBalls": 1,
-        "goalAssist": 1,
-        "accurateOwnHalfPasses": 36,
-        "totalOwnHalfPasses": 44,
-        "accurateOppositionHalfPasses": 35,
-        "totalOppositionHalfPasses": 39,
-        "aerialLost": 1,
-        "aerialWon": 4,
-        "duelLost": 4,
-        "duelWon": 8,
-        "dispossessed": 1,
-        "totalContest": 3,
-        "wonContest": 2,
-        "interceptionWon": 3,
-        "ballRecovery": 5,
-        "wasFouled": 2,
-        "fouls": 1,
-        "minutesPlayed": 90,
-        "touches": 100,
-        "rating": 6.9,
-        "possessionLostCtrl": 16,
-        "expectedAssists": 0.0498983,
-        "totalBallCarriesDistance": 215.42880265096,
-        "ballCarriesCount": 29,
-        "totalProgression": 126.11979723812,
-        "bestBallCarryProgression": 17.888389938353,
-        "totalProgressiveBallCarriesDistance": 37.70418060465,
-        "progressiveBallCarriesCount": 2,
-        "keyPass": 2,
-        "ratingVersions": {
-          "original": 6.9,
-          "alternative": 7.1
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.36,
-        "dribbleValueNormalized": 0.24,
-        "defensiveValueNormalized": -0.38,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12513701": {
     "id": 12513701,
     "match_info": {
@@ -23968,6 +23839,144 @@
           "alternative": 6
         },
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Álvaro Carreras",
+        "slug": "alvaro-carreras",
+        "shortName": "Á. Carreras",
+        "position": "D",
+        "jerseyNumber": "18",
+        "height": 186,
+        "userCount": 99677,
+        "gender": "M",
+        "sofascoreId": "b7289v",
+        "id": 1085081,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1048377600,
+        "proposedMarketValueRaw": {
+          "value": 53000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ألفارو كاريراس",
+            "bn": "আলভারো ক্যারেরাস",
+            "hi": "अल्वारो कैरेरास",
+            "ru": "Альваро Каррерас"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. كاريراس",
+            "bn": "আ. ক্যারেরাস",
+            "hi": "ए. कैरेरास",
+            "ru": "А. Каррерас"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Madrid",
+        "slug": "real-madrid",
+        "shortName": "Real Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 8378061,
+        "nameCode": "RMA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2829,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#004996",
+          "text": "#004996"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال مدريد",
+            "bn": "রিয়াল মাদ্রিদ",
+            "hi": "रियल मैड्रिड",
+            "ru": "Реал Мадрид"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 83,
+        "accuratePass": 71,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 1,
+        "accurateOwnHalfPasses": 36,
+        "totalOwnHalfPasses": 44,
+        "accurateOppositionHalfPasses": 35,
+        "totalOppositionHalfPasses": 39,
+        "aerialLost": 1,
+        "aerialWon": 4,
+        "duelLost": 4,
+        "duelWon": 8,
+        "dispossessed": 1,
+        "totalContest": 3,
+        "wonContest": 2,
+        "interceptionWon": 3,
+        "ballRecovery": 5,
+        "wasFouled": 2,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 100,
+        "rating": 6.9,
+        "possessionLostCtrl": 16,
+        "expectedAssists": 0.0498983,
+        "topSpeed": 32,
+        "kilometersCovered": 9.74,
+        "numberOfSprints": 15,
+        "totalBallCarriesDistance": 215.42880265096,
+        "ballCarriesCount": 29,
+        "totalProgression": 126.11979723812,
+        "bestBallCarryProgression": 17.888389938353,
+        "totalProgressiveBallCarriesDistance": 37.70418060465,
+        "progressiveBallCarriesCount": 2,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 7.1
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.36,
+        "dribbleValueNormalized": 0.24,
+        "defensiveValueNormalized": -0.38,
+        "metersCoveredRunningKm": 1.33,
+        "metersCoveredHighSpeedRunningKm": 0.42,
+        "metersCoveredSprintingKm": 0.26,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

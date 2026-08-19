@@ -3790,154 +3790,6 @@
       "extra": null
     }
   },
-  "14083727": {
-    "id": 14083727,
-    "match_info": {
-      "homeTeam": {
-        "name": "Mallorca",
-        "shortName": "Mallorca",
-        "color": "#cc0000",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "Real Oviedo",
-        "shortName": "Real Oviedo",
-        "color": "#3300ff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-oviedo-mallorca"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Pablo Torre",
-        "slug": "pablo-torre",
-        "shortName": "P. Torre",
-        "position": "M",
-        "jerseyNumber": "20",
-        "height": 173,
-        "userCount": 36885,
-        "gender": "M",
-        "sofascoreId": "PabloTorre",
-        "id": 1082981,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1049328000,
-        "proposedMarketValueRaw": {
-          "value": 4900000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "بابلو توري",
-            "bn": "পাবলো টরে",
-            "hi": "पाब्लो टोरे",
-            "ru": "Пабло Торре"
-          },
-          "shortNameTranslation": {
-            "ar": "ب. توري",
-            "bn": "পি. টরে",
-            "hi": "पी. टोरे",
-            "ru": "П. Торре"
-          }
-        }
-      },
-      "team": {
-        "name": "Mallorca",
-        "slug": "mallorca",
-        "shortName": "Mallorca",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 201002,
-        "nameCode": "MLL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2826,
-        "teamColors": {
-          "primary": "#cc0000",
-          "secondary": "#000000",
-          "text": "#000000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "مايوركا",
-            "bn": "ম্যালোর্কা",
-            "hi": "मल्लोर्का",
-            "ru": "Мальорка"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 43,
-        "accuratePass": 39,
-        "totalLongBalls": 1,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 11,
-        "totalOwnHalfPasses": 13,
-        "accurateOppositionHalfPasses": 28,
-        "totalOppositionHalfPasses": 30,
-        "totalCross": 5,
-        "accurateCross": 2,
-        "aerialLost": 1,
-        "aerialWon": 2,
-        "duelLost": 3,
-        "duelWon": 8,
-        "challengeLost": 2,
-        "totalContest": 1,
-        "wonContest": 1,
-        "bigChanceCreated": 1,
-        "onTargetScoringAttempt": 2,
-        "blockedScoringAttempt": 1,
-        "goals": 1,
-        "ballRecovery": 8,
-        "totalTackle": 2,
-        "wonTackle": 2,
-        "unsuccessfulTouch": 1,
-        "wasFouled": 3,
-        "minutesPlayed": 85,
-        "touches": 66,
-        "rating": 8.7,
-        "possessionLostCtrl": 9,
-        "expectedGoals": 0.4039,
-        "expectedGoalsOnTarget": 0.9963,
-        "expectedAssists": 0.343118,
-        "topSpeed": 33.14,
-        "kilometersCovered": 10.07,
-        "numberOfSprints": 11,
-        "totalBallCarriesDistance": 136.39452331749,
-        "ballCarriesCount": 18,
-        "totalProgression": 16.587304613202,
-        "bestBallCarryProgression": 17.174281000205,
-        "totalProgressiveBallCarriesDistance": 18.74581876046,
-        "progressiveBallCarriesCount": 1,
-        "keyPass": 5,
-        "ratingVersions": {
-          "original": 8.7,
-          "alternative": 8.5
-        },
-        "totalShots": 3,
-        "shotValueNormalized": 0.51,
-        "passValueNormalized": 0.51,
-        "dribbleValueNormalized": 0.27,
-        "defensiveValueNormalized": 0.13,
-        "metersCoveredRunningKm": 1.75,
-        "metersCoveredHighSpeedRunningKm": 0.58,
-        "metersCoveredSprintingKm": 0.14,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "13513404": {
     "id": 13513404,
     "match_info": {
@@ -21072,6 +20924,154 @@
       "statistics": {
         "expectedGoalsOnTarget": 0,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083727": {
+    "id": 14083727,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-oviedo-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Torre",
+        "slug": "pablo-torre",
+        "shortName": "P. Torre",
+        "position": "M",
+        "jerseyNumber": "20",
+        "height": 173,
+        "userCount": 36931,
+        "gender": "M",
+        "sofascoreId": "PabloTorre",
+        "id": 1082981,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1049328000,
+        "proposedMarketValueRaw": {
+          "value": 4900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو توري",
+            "bn": "পাবলো টরে",
+            "hi": "पाब्लो टोरे",
+            "ru": "Пабло Торре"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. توري",
+            "bn": "পি. টরে",
+            "hi": "पी. टोरे",
+            "ru": "П. Торре"
+          }
+        }
+      },
+      "team": {
+        "name": "Mallorca",
+        "slug": "mallorca",
+        "shortName": "Mallorca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202209,
+        "nameCode": "MLL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2826,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مايوركا",
+            "bn": "ম্যালোর্কা",
+            "hi": "मल्लोर्का",
+            "ru": "Мальорка"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 43,
+        "accuratePass": 39,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 11,
+        "totalOwnHalfPasses": 13,
+        "accurateOppositionHalfPasses": 28,
+        "totalOppositionHalfPasses": 30,
+        "totalCross": 5,
+        "accurateCross": 2,
+        "aerialLost": 1,
+        "aerialWon": 2,
+        "duelLost": 3,
+        "duelWon": 8,
+        "challengeLost": 2,
+        "totalContest": 1,
+        "wonContest": 1,
+        "bigChanceCreated": 1,
+        "onTargetScoringAttempt": 2,
+        "blockedScoringAttempt": 1,
+        "goals": 1,
+        "ballRecovery": 8,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 3,
+        "minutesPlayed": 85,
+        "touches": 66,
+        "rating": 8.7,
+        "possessionLostCtrl": 9,
+        "expectedGoals": 0.4039,
+        "expectedGoalsOnTarget": 0.9963,
+        "expectedAssists": 0.343118,
+        "topSpeed": 33.14,
+        "kilometersCovered": 10.07,
+        "numberOfSprints": 11,
+        "totalBallCarriesDistance": 136.39452331749,
+        "ballCarriesCount": 18,
+        "totalProgression": 16.587304613202,
+        "bestBallCarryProgression": 17.174281000205,
+        "totalProgressiveBallCarriesDistance": 18.74581876046,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 5,
+        "ratingVersions": {
+          "original": 8.7,
+          "alternative": 8.5
+        },
+        "totalShots": 3,
+        "shotValueNormalized": 0.51,
+        "passValueNormalized": 0.51,
+        "dribbleValueNormalized": 0.27,
+        "defensiveValueNormalized": 0.13,
+        "metersCoveredRunningKm": 1.75,
+        "metersCoveredHighSpeedRunningKm": 0.58,
+        "metersCoveredSprintingKm": 0.14,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

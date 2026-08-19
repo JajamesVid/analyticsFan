@@ -3621,139 +3621,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Kike Salas",
-        "firstName": "",
-        "lastName": "",
-        "slug": "kike-salas",
-        "shortName": "K. Salas",
-        "position": "D",
-        "jerseyNumber": "4",
-        "height": 186,
-        "userCount": 1040,
-        "gender": "M",
-        "id": 1097719,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1019433600,
-        "proposedMarketValueRaw": {
-          "value": 15400000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "كيكي سالاس",
-            "bn": "কিক সালাস",
-            "hi": "किके सालास",
-            "ru": "Кике Салас"
-          },
-          "shortNameTranslation": {
-            "ar": "ك. سالاس",
-            "bn": "কে. সালাস",
-            "hi": "के. सालास",
-            "ru": "К. Салас"
-          }
-        }
-      },
-      "team": {
-        "name": "Sevilla",
-        "slug": "sevilla",
-        "shortName": "Sevilla",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 400830,
-        "nameCode": "SEV",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2833,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#cc1020",
-          "text": "#cc1020"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إشبيلية",
-            "bn": "সেভিলা",
-            "hi": "सेविला",
-            "ru": "Cевилья"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 49,
-        "accuratePass": 39,
-        "totalLongBalls": 6,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 33,
-        "totalOwnHalfPasses": 37,
-        "accurateOppositionHalfPasses": 6,
-        "totalOppositionHalfPasses": 12,
-        "aerialWon": 2,
-        "duelWon": 5,
-        "totalClearance": 3,
-        "interceptionWon": 1,
-        "ballRecovery": 4,
-        "totalTackle": 2,
-        "wonTackle": 1,
-        "wasFouled": 1,
-        "minutesPlayed": 90,
-        "touches": 59,
-        "rating": 7,
-        "possessionLostCtrl": 11,
-        "expectedAssists": 0.00283269,
-        "topSpeed": 32.37,
-        "kilometersCovered": 9.64,
-        "numberOfSprints": 11,
-        "totalBallCarriesDistance": 152.56299938908,
-        "ballCarriesCount": 19,
-        "totalProgression": 30.883943695738,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 7,
-          "alternative": 6.7
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.05,
-        "dribbleValueNormalized": 0.02,
-        "defensiveValueNormalized": 0.32,
-        "metersCoveredRunningKm": 1.2,
-        "metersCoveredHighSpeedRunningKm": 0.37,
-        "metersCoveredSprintingKm": 0.19,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437781": {
     "id": 12437781,
     "match_info": {
@@ -20385,6 +20252,140 @@
         "rating": 5.7,
         "possessionLostCtrl": 2,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kike Salas",
+        "firstName": "",
+        "lastName": "",
+        "slug": "kike-salas",
+        "shortName": "K. Salas",
+        "position": "D",
+        "jerseyNumber": "4",
+        "height": 186,
+        "userCount": 1063,
+        "gender": "M",
+        "sofascoreId": "xzqs49",
+        "id": 1097719,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1019433600,
+        "proposedMarketValueRaw": {
+          "value": 15400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيكي سالاس",
+            "bn": "কিক সালাস",
+            "hi": "किके सालास",
+            "ru": "Кике Салас"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سالاس",
+            "bn": "কে. সালাস",
+            "hi": "के. सालास",
+            "ru": "К. Салас"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 405935,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Cевилья"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 49,
+        "accuratePass": 39,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 33,
+        "totalOwnHalfPasses": 37,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 12,
+        "aerialWon": 2,
+        "duelWon": 5,
+        "totalClearance": 3,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 90,
+        "touches": 59,
+        "rating": 7,
+        "possessionLostCtrl": 11,
+        "expectedAssists": 0.00283269,
+        "topSpeed": 32.37,
+        "kilometersCovered": 9.64,
+        "numberOfSprints": 11,
+        "totalBallCarriesDistance": 152.56299938908,
+        "ballCarriesCount": 19,
+        "totalProgression": 30.883943695738,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.05,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": 0.32,
+        "metersCoveredRunningKm": 1.2,
+        "metersCoveredHighSpeedRunningKm": 0.37,
+        "metersCoveredSprintingKm": 0.19,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

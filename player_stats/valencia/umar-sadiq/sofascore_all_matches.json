@@ -3656,132 +3656,6 @@
       "extra": null
     }
   },
-  "14083739": {
-    "id": 14083739,
-    "match_info": {
-      "homeTeam": {
-        "name": "Valencia",
-        "shortName": "Valencia",
-        "color": "#ffffff",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "FC Barcelona",
-        "shortName": "Barcelona",
-        "color": "#154284",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "valencia-barcelona"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Umar Sadiq",
-        "firstName": "Umar",
-        "lastName": "Sadiq",
-        "slug": "umar-sadiq",
-        "shortName": "U. Sadiq",
-        "position": "F",
-        "jerseyNumber": "6",
-        "height": 192,
-        "userCount": 3201,
-        "gender": "M",
-        "id": 754710,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 854841600,
-        "proposedMarketValueRaw": {
-          "value": 3900000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "عمر صادق",
-            "bn": "উমর সাদিক",
-            "hi": "उमर सादिक",
-            "ru": "Умар Садик"
-          },
-          "shortNameTranslation": {
-            "ar": "ع. صادق",
-            "bn": "ইউ. সাদিক",
-            "hi": "यू. सादिक",
-            "ru": "У. Садик"
-          }
-        }
-      },
-      "team": {
-        "name": "Valencia",
-        "slug": "valencia",
-        "shortName": "Valencia",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 288160,
-        "nameCode": "VAL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2828,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#000000",
-          "text": "#000000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فالنسيا",
-            "bn": "ভ্যালেন্সিয়া",
-            "hi": "वेलेंसिया",
-            "ru": "Валенсия"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 3,
-        "accuratePass": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 1,
-        "totalOwnHalfPasses": 1,
-        "accurateOppositionHalfPasses": 1,
-        "totalOppositionHalfPasses": 2,
-        "aerialLost": 1,
-        "aerialWon": 1,
-        "duelLost": 1,
-        "duelWon": 2,
-        "totalContest": 1,
-        "wonContest": 1,
-        "totalClearance": 2,
-        "ballRecovery": 1,
-        "unsuccessfulTouch": 1,
-        "minutesPlayed": 10,
-        "touches": 7,
-        "rating": 6.7,
-        "possessionLostCtrl": 2,
-        "expectedAssists": 0.00567104,
-        "totalBallCarriesDistance": 12.626395210035,
-        "ballCarriesCount": 1,
-        "totalProgression": 12.578220172489,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.7,
-          "alternative": 6.7
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.05,
-        "dribbleValueNormalized": 0.01,
-        "defensiveValueNormalized": 0.22,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "13211207": {
     "id": 13211207,
     "match_info": {
@@ -23087,6 +22961,139 @@
         "keyPass": 1,
         "penaltyMiss": 1,
         "totalShots": 3,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083739": {
+    "id": 14083739,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "valencia-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Umar Sadiq",
+        "firstName": "Umar",
+        "lastName": "Sadiq",
+        "slug": "umar-sadiq",
+        "shortName": "U. Sadiq",
+        "position": "F",
+        "jerseyNumber": "6",
+        "height": 192,
+        "userCount": 3268,
+        "gender": "M",
+        "sofascoreId": "dnhh8f",
+        "id": 754710,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 854841600,
+        "proposedMarketValueRaw": {
+          "value": 3900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "عمر صادق",
+            "bn": "উমর সাদিক",
+            "hi": "उमर सादिक",
+            "ru": "Умар Садик"
+          },
+          "shortNameTranslation": {
+            "ar": "ع. صادق",
+            "bn": "ইউ. সাদিক",
+            "hi": "यू. सादिक",
+            "ru": "У. Садик"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 292379,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 3,
+        "accuratePass": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 2,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 1,
+        "duelWon": 2,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalClearance": 2,
+        "ballRecovery": 1,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 10,
+        "touches": 7,
+        "rating": 6.7,
+        "possessionLostCtrl": 2,
+        "expectedAssists": 0.00567104,
+        "topSpeed": 32.08,
+        "kilometersCovered": 1.95,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 12.626395210035,
+        "ballCarriesCount": 1,
+        "totalProgression": 12.578220172489,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.05,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": 0.22,
+        "metersCoveredRunningKm": 0.2,
+        "metersCoveredHighSpeedRunningKm": 0.1,
+        "metersCoveredSprintingKm": 0.09,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

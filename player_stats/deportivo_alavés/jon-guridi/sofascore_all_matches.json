@@ -3442,138 +3442,6 @@
       "extra": null
     }
   },
-  "14083706": {
-    "id": 14083706,
-    "match_info": {
-      "homeTeam": {
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "color": "#0232a0",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Rayo Vallecano",
-        "shortName": "Rayo Vallecano",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "deportivo-alaves-rayo-vallecano"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Jon Guridi",
-        "firstName": "Jon",
-        "lastName": "Guridi",
-        "slug": "jon-guridi",
-        "shortName": "J. Guridi",
-        "position": "M",
-        "jerseyNumber": "18",
-        "height": 179,
-        "userCount": 357,
-        "gender": "M",
-        "id": 788141,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 793929600,
-        "proposedMarketValueRaw": {
-          "value": 1900000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "جون غريدي",
-            "bn": "জন গুরিদি",
-            "hi": "जॉन गुरीडी",
-            "ru": "Джон Гуриди"
-          },
-          "shortNameTranslation": {
-            "ar": "ج. غريدي",
-            "bn": "জে. গুরিদি",
-            "hi": "जे. गुरीडी",
-            "ru": "Д. Гуриди"
-          }
-        }
-      },
-      "team": {
-        "name": "Deportivo Alavés",
-        "slug": "deportivo-alaves",
-        "shortName": "Alavés",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 152876,
-        "nameCode": "ALA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2885,
-        "teamColors": {
-          "primary": "#0232a0",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ديبورتيفو ألافيس",
-            "ru": "Алавес"
-          },
-          "shortNameTranslation": {
-            "ar": "ألافيس",
-            "bn": "আলাভেস",
-            "hi": "अलावेस"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 23,
-        "accuratePass": 18,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 5,
-        "totalOwnHalfPasses": 6,
-        "accurateOppositionHalfPasses": 13,
-        "totalOppositionHalfPasses": 17,
-        "totalCross": 2,
-        "duelLost": 1,
-        "duelWon": 4,
-        "challengeLost": 1,
-        "totalClearance": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 2,
-        "totalTackle": 4,
-        "wonTackle": 2,
-        "unsuccessfulTouch": 1,
-        "minutesPlayed": 84,
-        "touches": 36,
-        "rating": 7.1,
-        "possessionLostCtrl": 8,
-        "expectedAssists": 0.0968373,
-        "totalBallCarriesDistance": 41.109879593346,
-        "ballCarriesCount": 5,
-        "totalProgression": 15.242228792287,
-        "bestBallCarryProgression": 9.891934969551,
-        "totalProgressiveBallCarriesDistance": 17.342998488705,
-        "progressiveBallCarriesCount": 2,
-        "keyPass": 3,
-        "ratingVersions": {
-          "original": 7.1,
-          "alternative": 7.1
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.03,
-        "dribbleValueNormalized": 0.18,
-        "defensiveValueNormalized": 0.21,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12437872": {
     "id": 12437872,
     "match_info": {
@@ -23304,6 +23172,145 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083706": {
+    "id": 14083706,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "deportivo-alaves-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Jon Guridi",
+        "firstName": "Jon",
+        "lastName": "Guridi",
+        "slug": "jon-guridi",
+        "shortName": "J. Guridi",
+        "position": "M",
+        "jerseyNumber": "18",
+        "height": 179,
+        "userCount": 407,
+        "gender": "M",
+        "sofascoreId": "wgbvek",
+        "id": 788141,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 793929600,
+        "proposedMarketValueRaw": {
+          "value": 1700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جون غريدي",
+            "bn": "জন গুরিদি",
+            "hi": "जॉन गुरीडी",
+            "ru": "Джон Гуриди"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. غريدي",
+            "bn": "জে. গুরিদি",
+            "hi": "जे. गुरीडी",
+            "ru": "Д. Гуриди"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 154032,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 23,
+        "accuratePass": 18,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 6,
+        "accurateOppositionHalfPasses": 13,
+        "totalOppositionHalfPasses": 17,
+        "totalCross": 2,
+        "duelLost": 1,
+        "duelWon": 4,
+        "challengeLost": 1,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "totalTackle": 4,
+        "wonTackle": 2,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 84,
+        "touches": 36,
+        "rating": 7.1,
+        "possessionLostCtrl": 8,
+        "expectedAssists": 0.0968373,
+        "topSpeed": 29.36,
+        "kilometersCovered": 9.57,
+        "numberOfSprints": 7,
+        "totalBallCarriesDistance": 41.109879593346,
+        "ballCarriesCount": 5,
+        "totalProgression": 15.242228792287,
+        "bestBallCarryProgression": 9.891934969551,
+        "totalProgressiveBallCarriesDistance": 17.342998488705,
+        "progressiveBallCarriesCount": 2,
+        "keyPass": 3,
+        "ratingVersions": {
+          "original": 7.1,
+          "alternative": 7.1
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.03,
+        "dribbleValueNormalized": 0.18,
+        "defensiveValueNormalized": 0.21,
+        "metersCoveredRunningKm": 1.89,
+        "metersCoveredHighSpeedRunningKm": 0.52,
+        "metersCoveredSprintingKm": 0.06,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
     }
   }
 }

@@ -3632,123 +3632,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Dean Huijsen",
-        "slug": "dean-huijsen",
-        "shortName": "D. Huijsen",
-        "position": "D",
-        "jerseyNumber": "24",
-        "height": 195,
-        "userCount": 174914,
-        "gender": "M",
-        "sofascoreId": "deanhuijsen",
-        "id": 1176744,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1113436800,
-        "proposedMarketValueRaw": {
-          "value": 71000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "دين هويسين",
-            "bn": "ডিন হুইজসেন",
-            "hi": "डीन हुइजसेन"
-          },
-          "shortNameTranslation": {
-            "ar": "د. هويسين",
-            "bn": "ডি. হুইজসেন",
-            "hi": "डी. हुइजसेन"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Madrid",
-        "slug": "real-madrid",
-        "shortName": "Real Madrid",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 7733858,
-        "nameCode": "RMA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2829,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#004996",
-          "text": "#004996"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال مدريد",
-            "bn": "রিয়াল মাদ্রিদ",
-            "hi": "रियल मैड्रिड",
-            "ru": "Реал Мадрид"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 18,
-        "accuratePass": 15,
-        "totalLongBalls": 1,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 14,
-        "totalOwnHalfPasses": 15,
-        "accurateOppositionHalfPasses": 1,
-        "totalOppositionHalfPasses": 3,
-        "ballRecovery": 1,
-        "minutesPlayed": 20,
-        "touches": 18,
-        "rating": 6.3,
-        "possessionLostCtrl": 3,
-        "expectedAssists": 0.00046337,
-        "totalBallCarriesDistance": 15.752691604204,
-        "ballCarriesCount": 4,
-        "totalProgression": 0.25719388368149,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.3,
-          "alternative": 6.3
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0,
-        "dribbleValueNormalized": 0,
-        "defensiveValueNormalized": -0.19,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12436535": {
     "id": 12436535,
     "match_info": {
@@ -19286,6 +19169,131 @@
         "passValueNormalized": 0.32,
         "dribbleValueNormalized": 0.13,
         "defensiveValueNormalized": -0.18,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Dean Huijsen",
+        "slug": "dean-huijsen",
+        "shortName": "D. Huijsen",
+        "position": "D",
+        "jerseyNumber": "24",
+        "height": 195,
+        "userCount": 181280,
+        "gender": "M",
+        "sofascoreId": "deanhuijsen",
+        "id": 1176744,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1113436800,
+        "proposedMarketValueRaw": {
+          "value": 66000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دين هويسين",
+            "bn": "ডিন হুইজসেন",
+            "hi": "डीन हुइजसेन",
+            "ru": "Дин Хуйсен"
+          },
+          "shortNameTranslation": {
+            "ar": "د. هويسين",
+            "bn": "ডি. হুইজসেন",
+            "hi": "डी. हुइजसेन",
+            "ru": "Д. Хуйсен"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Madrid",
+        "slug": "real-madrid",
+        "shortName": "Real Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 8378061,
+        "nameCode": "RMA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2829,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#004996",
+          "text": "#004996"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال مدريد",
+            "bn": "রিয়াল মাদ্রিদ",
+            "hi": "रियल मैड्रिड",
+            "ru": "Реал Мадрид"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 18,
+        "accuratePass": 15,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 14,
+        "totalOwnHalfPasses": 15,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 3,
+        "ballRecovery": 1,
+        "minutesPlayed": 20,
+        "touches": 18,
+        "rating": 6.3,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 0.00046337,
+        "topSpeed": 31.27,
+        "kilometersCovered": 2.15,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 15.752691604204,
+        "ballCarriesCount": 4,
+        "totalProgression": 0.25719388368149,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.3
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": -0.19,
+        "metersCoveredRunningKm": 0.21,
+        "metersCoveredHighSpeedRunningKm": 0.08,
+        "metersCoveredSprintingKm": 0.05,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

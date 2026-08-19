@@ -2381,100 +2381,6 @@
       "extra": null
     }
   },
-  "14083719": {
-    "id": 14083719,
-    "match_info": {
-      "homeTeam": {
-        "name": "Espanyol",
-        "shortName": "Espanyol",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Real Sociedad",
-        "shortName": "Real Sociedad",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-sociedad-espanyol"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Pol Tristan",
-        "firstName": "Pol",
-        "lastName": "Tristan",
-        "slug": "pol-tristan",
-        "shortName": "P. Tristan",
-        "position": "G",
-        "jerseyNumber": "30",
-        "height": 188,
-        "userCount": 35,
-        "gender": "M",
-        "id": 962624,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1016409600,
-        "proposedMarketValueRaw": {
-          "value": 52000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "بول تريستان",
-            "bn": "পল ট্রিস্তান জিমেনেজ",
-            "hi": "पोल ट्रिस्टन जिमेनेज़",
-            "ru": "Пол Тристан"
-          },
-          "shortNameTranslation": {
-            "ar": "ب. تريستان",
-            "bn": "পি.টি. জিমেনেজ",
-            "hi": "पी.टी. जिमेनेज़",
-            "ru": "П. Тристан"
-          }
-        }
-      },
-      "team": {
-        "name": "Espanyol",
-        "slug": "espanyol",
-        "shortName": "Espanyol",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 183240,
-        "nameCode": "ESP",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2814,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#1369d2",
-          "text": "#1369d2"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "اسبانيول",
-            "bn": "এসপানিওল",
-            "hi": "एस्पेनयोल",
-            "ru": "Эспаньол"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "G",
-      "extra": null
-    }
-  },
   "11495388": {
     "id": 11495388,
     "match_info": {
@@ -7174,6 +7080,100 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083719": {
+    "id": 14083719,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-sociedad-espanyol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pol Tristan",
+        "firstName": "Pol",
+        "lastName": "Tristan",
+        "slug": "pol-tristan",
+        "shortName": "P. Tristan",
+        "position": "G",
+        "height": 188,
+        "userCount": 38,
+        "gender": "M",
+        "sofascoreId": "8jjxaz",
+        "id": 962624,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016409600,
+        "proposedMarketValueRaw": {
+          "value": 52000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بول تريستان",
+            "bn": "পল ট্রিস্তান জিমেনেজ",
+            "hi": "पोल ट्रिस्टन जिमेनेज़",
+            "ru": "Пол Тристан"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. تريستان",
+            "bn": "পি.টি. জিমেনেজ",
+            "hi": "पी.टी. जिमेनेज़",
+            "ru": "П. Тристан"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 184894,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
     }
   }
 }

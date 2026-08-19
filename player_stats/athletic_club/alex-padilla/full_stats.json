@@ -2585,231 +2585,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Real Madrid",
-        "abreviatura": "RMD",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
-      },
-      "visitante": {
-        "nombre": "Athletic",
-        "abreviatura": "ATH",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
-      }
-    },
-    "resultado": "4-2",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20450-real-madrid-athletic",
-    "puntuaciones": {
-      "picas": 1,
-      "marca": 1,
-      "cope": 5.0,
-      "sofascore": 5.1,
-      "relevo": 1.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 0.0,
-        "futbolfantasy-rpg": 5.0,
-        "scale0": -2.0,
-        "modo-picas": 2.0,
-        "biwenger-sofascore": -5.0,
-        "biwenger-social": -2.0,
-        "biwenger-as-sofascore": -2.0,
-        "biwenger-stats": 0.0,
-        "futmondo-prensa": 1.0,
-        "futmondo-mixto-as": 2.0,
-        "futmondo-stats": -5.0,
-        "futmondo-mixto": 1.3,
-        "cronistas-marca": 2.0,
-        "marca-mixto": 0.0,
-        "marca-sofascore": -3.0,
-        "mister-cronistas-md": 2.0,
-        "mister-mixto": 1.0,
-        "mister-mixto-2": -1.0,
-        "mister-sofascore": -3.0,
-        "stat-goles": 0.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 0.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 0.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 0.0,
-        "stat-regates-exito": 0.0,
-        "stat-faltas-recibidas": 0.0,
-        "stat-faltas-cometidas": 0.0,
-        "stat-pases-interceptados": 0.0,
-        "stat-balones-robados": 0.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 4.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 4.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 1.0,
-        "stat-despejes": 0.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 21.0,
-        "stat-tiros-totales": 0.0,
-        "stat-centros-totales": 0.0,
-        "stat-precision-pases": 35.5,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 0.0,
-        "stat-tackles": 0.0,
-        "stat-duelos-aereos": 0.0,
-        "stat-tiros-bloqueados": 0.0,
-        "stat-pases-totales": 31.0,
-        "stat-pases-completados": 11.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083731,
-      "match_info": {
-        "homeTeam": {
-          "name": "Real Madrid",
-          "shortName": "Real Madrid",
-          "color": "#ffffff",
-          "score": 4
-        },
-        "awayTeam": {
-          "name": "Athletic Club",
-          "shortName": "Athletic Club",
-          "color": "#aa0000",
-          "score": 2
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-madrid-athletic-club",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Alex Padilla",
-          "firstName": "Álex Padilla",
-          "lastName": "",
-          "slug": "padilla-alex",
-          "shortName": "Á. Padilla",
-          "position": "G",
-          "jerseyNumber": "27",
-          "height": 190,
-          "userCount": 1632,
-          "gender": "M",
-          "sofascoreId": "ek32e6",
-          "id": 1155116,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 1062374400,
-          "proposedMarketValueRaw": {
-            "value": 3100000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "باديلا، اليكس",
-              "bn": "প্যাডিলা, অ্যালেক্স",
-              "hi": "पैडिला, एलेक्स",
-              "ru": "Алекс Падилья"
-            },
-            "shortNameTranslation": {
-              "ar": "ب. اليكس",
-              "bn": "আ. প্যাডিলা",
-              "hi": "ए. पैडिला",
-              "ru": "А. Падилья"
-            }
-          }
-        },
-        "team": {
-          "name": "Athletic Club",
-          "slug": "athletic-club",
-          "shortName": "Athletic Club",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 519382,
-          "nameCode": "ATH",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2825,
-          "teamColors": {
-            "primary": "#aa0000",
-            "secondary": "#ffffff",
-            "text": "#ffffff"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "نادي أتليتيك",
-              "bn": "অ্যাথলেটিক ক্লাব",
-              "hi": "एथलेटिक क्लब",
-              "ru": "Атлетик Бильбао"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalPass": 31,
-          "accuratePass": 11,
-          "totalLongBalls": 27,
-          "accurateLongBalls": 8,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 3,
-          "totalOwnHalfPasses": 5,
-          "accurateOppositionHalfPasses": 8,
-          "totalOppositionHalfPasses": 26,
-          "ballRecovery": 7,
-          "goodHighClaim": 1,
-          "savedShotsFromInsideTheBox": 2,
-          "saves": 4,
-          "minutesPlayed": 90,
-          "touches": 42,
-          "rating": 5.1,
-          "possessionLostCtrl": 21,
-          "expectedAssists": 0.00135375,
-          "totalBallCarriesDistance": 44.581390458532,
-          "ballCarriesCount": 7,
-          "totalProgression": 16.715139649458,
-          "progressiveBallCarriesCount": 0,
-          "keeperSaveValue": 0.3118,
-          "ratingVersions": {
-            "original": 5.1,
-            "alternative": 6.3
-          },
-          "totalShots": 0,
-          "goalsPrevented": -1.8191,
-          "passValueNormalized": 0.03,
-          "dribbleValueNormalized": 0,
-          "defensiveValueNormalized": -0.46,
-          "goalkeeperValueNormalized": -0.8,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "G",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Athletic",
         "abreviatura": "ATH",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
@@ -7093,6 +6868,232 @@
           "code": 404,
           "message": "Not Found"
         }
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "4-2",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20450-real-madrid-athletic",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 5.1,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 0.0,
+        "futbolfantasy-rpg": 5.0,
+        "scale0": -2.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": -5.0,
+        "biwenger-social": -2.0,
+        "biwenger-as-sofascore": -2.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": 1.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": -5.0,
+        "futmondo-mixto": 1.3,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 0.0,
+        "marca-sofascore": -3.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 1.0,
+        "mister-mixto-2": -1.0,
+        "mister-sofascore": -3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 4.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 4.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 1.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 21.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 35.5,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 31.0,
+        "stat-pases-completados": 11.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083731,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Madrid",
+          "shortName": "Real Madrid",
+          "color": "#ffffff",
+          "score": 4
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 2
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-madrid-athletic-club"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Alex Padilla",
+          "firstName": "Álex Padilla",
+          "lastName": "",
+          "slug": "padilla-alex",
+          "shortName": "Á. Padilla",
+          "position": "G",
+          "jerseyNumber": "27",
+          "height": 190,
+          "userCount": 1790,
+          "gender": "M",
+          "sofascoreId": "ek32e6",
+          "id": 1155116,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1062374400,
+          "proposedMarketValueRaw": {
+            "value": 3100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "باديلا، اليكس",
+              "bn": "প্যাডিলা, অ্যালেক্স",
+              "hi": "पैडिला, एलेक्स",
+              "ru": "Алекс Падилья"
+            },
+            "shortNameTranslation": {
+              "ar": "ب. اليكس",
+              "bn": "আ. প্যাডিলা",
+              "hi": "ए. पैडिला",
+              "ru": "А. Падилья"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 524413,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيك بيلباو",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {
+              "ar": "أتلتيك بيلباو"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 31,
+          "accuratePass": 11,
+          "totalLongBalls": 27,
+          "accurateLongBalls": 8,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 3,
+          "totalOwnHalfPasses": 5,
+          "accurateOppositionHalfPasses": 8,
+          "totalOppositionHalfPasses": 26,
+          "ballRecovery": 7,
+          "goodHighClaim": 1,
+          "savedShotsFromInsideTheBox": 2,
+          "saves": 4,
+          "minutesPlayed": 90,
+          "touches": 42,
+          "rating": 5.1,
+          "possessionLostCtrl": 21,
+          "expectedAssists": 0.00135375,
+          "totalBallCarriesDistance": 44.581390458532,
+          "ballCarriesCount": 7,
+          "totalProgression": 16.715139649458,
+          "progressiveBallCarriesCount": 0,
+          "keeperSaveValue": 0.3118,
+          "ratingVersions": {
+            "original": 5.1,
+            "alternative": 6.3
+          },
+          "totalShots": 0,
+          "goalsPrevented": -1.8191,
+          "passValueNormalized": 0.03,
+          "dribbleValueNormalized": 0,
+          "defensiveValueNormalized": -0.46,
+          "goalkeeperValueNormalized": -0.8,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
       }
     }
   }

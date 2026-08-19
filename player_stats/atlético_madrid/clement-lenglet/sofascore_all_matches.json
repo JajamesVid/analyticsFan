@@ -3200,139 +3200,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Clément Lenglet",
-        "firstName": "Clement",
-        "lastName": "Lenglet",
-        "slug": "clement-lenglet",
-        "shortName": "C. Lenglet",
-        "position": "D",
-        "jerseyNumber": "15",
-        "height": 186,
-        "userCount": 8690,
-        "gender": "M",
-        "sofascoreId": "clement_lenglet",
-        "id": 580550,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 803347200,
-        "proposedMarketValueRaw": {
-          "value": 4200000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "كليمو لينغليه",
-            "bn": "ক্লেমেন্ট লেংলেট",
-            "hi": "क्लेमेंट लेंग्लेट",
-            "ru": "Клеман Лангле"
-          },
-          "shortNameTranslation": {
-            "ar": "ك. لينغليه",
-            "bn": "সি. লেংলেট",
-            "hi": "सी. लेंग्लेट",
-            "ru": "К. Лангле"
-          }
-        }
-      },
-      "team": {
-        "name": "Atlético Madrid",
-        "slug": "atletico-madrid",
-        "shortName": "Atl. Madrid",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 2591268,
-        "nameCode": "ATM",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2836,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#c40000",
-          "text": "#c40000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أتلتيكو مدريد",
-            "hi": "एटलेटिको मैड्रिड",
-            "ru": "Атлетико Мадрид"
-          },
-          "shortNameTranslation": {
-            "ar": "أتل. مدريد",
-            "bn": "এটিএল. মাদ্রিদ"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 57,
-        "accuratePass": 53,
-        "totalLongBalls": 5,
-        "accurateLongBalls": 3,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 35,
-        "totalOwnHalfPasses": 36,
-        "accurateOppositionHalfPasses": 18,
-        "totalOppositionHalfPasses": 21,
-        "aerialWon": 1,
-        "duelLost": 5,
-        "duelWon": 7,
-        "challengeLost": 3,
-        "totalClearance": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 2,
-        "totalTackle": 5,
-        "wonTackle": 2,
-        "wasFouled": 1,
-        "fouls": 2,
-        "minutesPlayed": 90,
-        "touches": 67,
-        "rating": 6,
-        "possessionLostCtrl": 4,
-        "expectedAssists": 0.0091072,
-        "totalBallCarriesDistance": 173.66551052861,
-        "ballCarriesCount": 18,
-        "totalProgression": 136.80580182688,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6,
-          "alternative": 6.1
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.21,
-        "dribbleValueNormalized": 0.11,
-        "defensiveValueNormalized": -0.93,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437509": {
     "id": 12437509,
     "match_info": {
@@ -23635,6 +23502,145 @@
           "alternative": 6.6
         },
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Clément Lenglet",
+        "firstName": "Clement",
+        "lastName": "Lenglet",
+        "slug": "clement-lenglet",
+        "shortName": "C. Lenglet",
+        "position": "D",
+        "jerseyNumber": "2",
+        "height": 186,
+        "userCount": 9381,
+        "gender": "M",
+        "sofascoreId": "clement_lenglet",
+        "id": 580550,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 803347200,
+        "proposedMarketValueRaw": {
+          "value": 4200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كليمو لينغليه",
+            "bn": "ক্লেমেন্ট লেংলেট",
+            "hi": "क्लेमेंट लेंग्लेट",
+            "ru": "Клеман Лангле"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. لينغليه",
+            "bn": "সি. লেংলেট",
+            "hi": "सी. लेंग्लेट",
+            "ru": "К. Лангле"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atl. Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2635078,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 57,
+        "accuratePass": 53,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 35,
+        "totalOwnHalfPasses": 36,
+        "accurateOppositionHalfPasses": 18,
+        "totalOppositionHalfPasses": 21,
+        "aerialWon": 1,
+        "duelLost": 5,
+        "duelWon": 7,
+        "challengeLost": 3,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "totalTackle": 5,
+        "wonTackle": 2,
+        "wasFouled": 1,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 67,
+        "rating": 6,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.0091072,
+        "topSpeed": 32.38,
+        "kilometersCovered": 9.41,
+        "numberOfSprints": 11,
+        "totalBallCarriesDistance": 173.66551052861,
+        "ballCarriesCount": 18,
+        "totalProgression": 136.80580182688,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6,
+          "alternative": 6.1
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.21,
+        "dribbleValueNormalized": 0.11,
+        "defensiveValueNormalized": -0.93,
+        "metersCoveredRunningKm": 1.26,
+        "metersCoveredHighSpeedRunningKm": 0.47,
+        "metersCoveredSprintingKm": 0.22,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

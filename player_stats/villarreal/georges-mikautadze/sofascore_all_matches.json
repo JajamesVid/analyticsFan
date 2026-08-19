@@ -3759,143 +3759,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Georges Mikautadze",
-        "firstName": "Georges",
-        "lastName": "Mikautadze",
-        "slug": "georges-mikautadze",
-        "shortName": "G. Mikautadze",
-        "position": "F",
-        "jerseyNumber": "9",
-        "height": 176,
-        "userCount": 14624,
-        "gender": "M",
-        "sofascoreId": "georgesmkd",
-        "id": 1009372,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 972950400,
-        "proposedMarketValueRaw": {
-          "value": 32000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ميكوتادزي، جيورج",
-            "bn": "মিকাউতাদজে, জর্জেস",
-            "hi": "मिकुटाड्ज़े, जॉर्जेस",
-            "ru": "Жорж Микаутадзе"
-          },
-          "shortNameTranslation": {
-            "ar": "ج. ميكوتادزي",
-            "bn": "জি. মিকাউতাদজে",
-            "hi": "जी. मिकुटाड्ज़े",
-            "ru": "Ж. Микаутадзе"
-          }
-        }
-      },
-      "team": {
-        "name": "Villarreal",
-        "slug": "villarreal",
-        "shortName": "Villarreal",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 461754,
-        "nameCode": "VIL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2819,
-        "teamColors": {
-          "primary": "#ffff00",
-          "secondary": "#013765",
-          "text": "#013765"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فياريال",
-            "bn": "ভিলারিয়াল",
-            "hi": "विल्लारियल",
-            "ru": "Вильярреал"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 21,
-        "accuratePass": 19,
-        "totalLongBalls": 1,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 4,
-        "totalOwnHalfPasses": 4,
-        "accurateOppositionHalfPasses": 15,
-        "totalOppositionHalfPasses": 17,
-        "totalCross": 1,
-        "aerialLost": 1,
-        "duelLost": 2,
-        "duelWon": 1,
-        "totalContest": 2,
-        "wonContest": 1,
-        "bigChanceMissed": 1,
-        "onTargetScoringAttempt": 3,
-        "goals": 1,
-        "ballRecovery": 1,
-        "unsuccessfulTouch": 2,
-        "minutesPlayed": 89,
-        "touches": 30,
-        "rating": 8.1,
-        "possessionLostCtrl": 6,
-        "expectedGoals": 1.0145,
-        "expectedGoalsOnTarget": 1.6459,
-        "expectedAssists": 0.0230413,
-        "totalBallCarriesDistance": 146.08507345273,
-        "ballCarriesCount": 12,
-        "totalProgression": 80.616654945462,
-        "bestBallCarryProgression": 39.90908548346,
-        "totalProgressiveBallCarriesDistance": 71.205159320048,
-        "progressiveBallCarriesCount": 2,
-        "keyPass": 2,
-        "ratingVersions": {
-          "original": 8.1,
-          "alternative": 7.5
-        },
-        "totalShots": 3,
-        "shotValueNormalized": 0.53,
-        "passValueNormalized": 0.07,
-        "dribbleValueNormalized": 0.58,
-        "defensiveValueNormalized": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12450182": {
     "id": 12450182,
     "match_info": {
@@ -24870,6 +24733,149 @@
           "alternative": 8.3
         },
         "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Georges Mikautadze",
+        "firstName": "Georges",
+        "lastName": "Mikautadze",
+        "slug": "georges-mikautadze",
+        "shortName": "G. Mikautadze",
+        "position": "F",
+        "jerseyNumber": "9",
+        "height": 176,
+        "userCount": 15083,
+        "gender": "M",
+        "sofascoreId": "georgesmkd",
+        "id": 1009372,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 972950400,
+        "proposedMarketValueRaw": {
+          "value": 32000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميكوتادزي، جيورج",
+            "bn": "মিকাউতাদজে, জর্জেস",
+            "hi": "मिकुटाड्ज़े, जॉर्जेस",
+            "ru": "Жорж Микаутадзе"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. ميكوتادزي",
+            "bn": "জি. মিকাউতাদজে",
+            "hi": "जी. मिकुटाड्ज़े",
+            "ru": "Ж. Микаутадзе"
+          }
+        }
+      },
+      "team": {
+        "name": "Villarreal",
+        "slug": "villarreal",
+        "shortName": "Villarreal",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 465801,
+        "nameCode": "VIL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2819,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#013765",
+          "text": "#013765"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فياريال",
+            "bn": "ভিলারিয়াল",
+            "hi": "विल्लारियल",
+            "ru": "Вильярреал"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 21,
+        "accuratePass": 19,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 15,
+        "totalOppositionHalfPasses": 17,
+        "totalCross": 1,
+        "aerialLost": 1,
+        "duelLost": 2,
+        "duelWon": 1,
+        "totalContest": 2,
+        "wonContest": 1,
+        "bigChanceMissed": 1,
+        "onTargetScoringAttempt": 3,
+        "goals": 1,
+        "ballRecovery": 1,
+        "unsuccessfulTouch": 2,
+        "minutesPlayed": 89,
+        "touches": 30,
+        "rating": 8.1,
+        "possessionLostCtrl": 6,
+        "expectedGoals": 1.0145,
+        "expectedGoalsOnTarget": 1.6459,
+        "expectedAssists": 0.0230413,
+        "topSpeed": 33.27,
+        "kilometersCovered": 9.84,
+        "numberOfSprints": 17,
+        "totalBallCarriesDistance": 146.08507345273,
+        "ballCarriesCount": 12,
+        "totalProgression": 80.616654945462,
+        "bestBallCarryProgression": 39.90908548346,
+        "totalProgressiveBallCarriesDistance": 71.205159320048,
+        "progressiveBallCarriesCount": 2,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 8.1,
+          "alternative": 7.5
+        },
+        "totalShots": 3,
+        "shotValueNormalized": 0.53,
+        "passValueNormalized": 0.07,
+        "dribbleValueNormalized": 0.58,
+        "defensiveValueNormalized": 0,
+        "metersCoveredRunningKm": 1.24,
+        "metersCoveredHighSpeedRunningKm": 0.56,
+        "metersCoveredSprintingKm": 0.34,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

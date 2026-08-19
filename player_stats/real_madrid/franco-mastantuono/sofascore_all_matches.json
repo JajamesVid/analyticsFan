@@ -3385,134 +3385,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Franco Mastantuono",
-        "slug": "franco-mastantuono",
-        "shortName": "F. Mastantuono",
-        "position": "F",
-        "jerseyNumber": "30",
-        "height": 177,
-        "userCount": 187576,
-        "gender": "M",
-        "sofascoreId": "franco.mastantuono",
-        "id": 1403559,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1187049600,
-        "proposedMarketValueRaw": {
-          "value": 44000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فرانكو ماستانتونو",
-            "bn": "ফ্রাঙ্কো মাস্তানতুওনো",
-            "hi": "फ्रेंको मस्तांतुओनो"
-          },
-          "shortNameTranslation": {
-            "ar": "ف. ماستانتونو",
-            "bn": "এফ. মাস্তানতুওনো",
-            "hi": "एफ. मस्तांतुओनो"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Madrid",
-        "slug": "real-madrid",
-        "shortName": "Real Madrid",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 7733858,
-        "nameCode": "RMA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2829,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#004996",
-          "text": "#004996"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال مدريد",
-            "bn": "রিয়াল মাদ্রিদ",
-            "hi": "रियल मैड्रिड",
-            "ru": "Реал Мадрид"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 31,
-        "accuratePass": 26,
-        "totalLongBalls": 1,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 15,
-        "totalOwnHalfPasses": 16,
-        "accurateOppositionHalfPasses": 11,
-        "totalOppositionHalfPasses": 15,
-        "totalCross": 2,
-        "duelLost": 2,
-        "duelWon": 5,
-        "challengeLost": 2,
-        "totalContest": 3,
-        "wonContest": 3,
-        "ballRecovery": 1,
-        "unsuccessfulTouch": 6,
-        "wasFouled": 2,
-        "minutesPlayed": 74,
-        "touches": 46,
-        "rating": 6.7,
-        "possessionLostCtrl": 13,
-        "expectedAssists": 0.0177277,
-        "totalBallCarriesDistance": 128.04310839699,
-        "ballCarriesCount": 15,
-        "totalProgression": 26.186904773053,
-        "bestBallCarryProgression": 12.907232153385,
-        "totalProgressiveBallCarriesDistance": 13.017528029545,
-        "progressiveBallCarriesCount": 1,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 6.7,
-          "alternative": 6.9
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.11,
-        "dribbleValueNormalized": 0.21,
-        "defensiveValueNormalized": -0.13,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "13889176": {
     "id": 13889176,
     "match_info": {
@@ -17371,6 +17243,142 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Franco Mastantuono",
+        "slug": "franco-mastantuono",
+        "shortName": "F. Mastantuono",
+        "position": "F",
+        "jerseyNumber": "30",
+        "height": 177,
+        "userCount": 201262,
+        "gender": "M",
+        "sofascoreId": "franco.mastantuono",
+        "id": 1403559,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1187049600,
+        "proposedMarketValueRaw": {
+          "value": 44000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فرانكو ماستانتونو",
+            "bn": "ফ্রাঙ্কো মাস্তানতুওনো",
+            "hi": "फ्रेंको मस्तांतुओनो",
+            "ru": "Франко Мастантуоно"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. ماستانتونو",
+            "bn": "এফ. মাস্তানতুওনো",
+            "hi": "एफ. मस्तांतुओनो",
+            "ru": "Ф. Мастантуоно"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Madrid",
+        "slug": "real-madrid",
+        "shortName": "Real Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 8378061,
+        "nameCode": "RMA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2829,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#004996",
+          "text": "#004996"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال مدريد",
+            "bn": "রিয়াল মাদ্রিদ",
+            "hi": "रियल मैड्रिड",
+            "ru": "Реал Мадрид"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 31,
+        "accuratePass": 26,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 15,
+        "totalOwnHalfPasses": 16,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 15,
+        "totalCross": 2,
+        "duelLost": 2,
+        "duelWon": 5,
+        "challengeLost": 2,
+        "totalContest": 3,
+        "wonContest": 3,
+        "ballRecovery": 1,
+        "unsuccessfulTouch": 6,
+        "wasFouled": 2,
+        "minutesPlayed": 74,
+        "touches": 46,
+        "rating": 6.7,
+        "possessionLostCtrl": 13,
+        "expectedAssists": 0.0177277,
+        "topSpeed": 30.94,
+        "kilometersCovered": 8.16,
+        "numberOfSprints": 12,
+        "totalBallCarriesDistance": 128.04310839699,
+        "ballCarriesCount": 15,
+        "totalProgression": 26.186904773053,
+        "bestBallCarryProgression": 12.907232153385,
+        "totalProgressiveBallCarriesDistance": 13.017528029545,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.11,
+        "dribbleValueNormalized": 0.21,
+        "defensiveValueNormalized": -0.13,
+        "metersCoveredRunningKm": 1.25,
+        "metersCoveredHighSpeedRunningKm": 0.5,
+        "metersCoveredSprintingKm": 0.17,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
     }
   }
 }

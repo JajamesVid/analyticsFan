@@ -3774,143 +3774,6 @@
       "extra": null
     }
   },
-  "14083710": {
-    "id": 14083710,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Betis",
-        "shortName": "Real Betis",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "awayTeam": {
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "color": "#0e3b68",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "levante-ud-real-betis"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Jon Ander Olasagasti",
-        "slug": "jon-ander-olasagasti",
-        "shortName": "J. A. Olasagasti",
-        "position": "M",
-        "jerseyNumber": "8",
-        "height": 176,
-        "userCount": 351,
-        "gender": "M",
-        "id": 1010383,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 966384000,
-        "proposedMarketValueRaw": {
-          "value": 2700000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "جون أندير أولاساغاستي",
-            "bn": "জন অ্যান্ডার ওলাসাগাস্টি",
-            "hi": "जॉन एंडर ओलासागास्ती",
-            "ru": "Хон Андер Оласагасти"
-          },
-          "shortNameTranslation": {
-            "ar": "ج. أ. أولاساغاستي",
-            "bn": "জে. এ. ওলাসাগাস্টি",
-            "hi": "जे.ए. ओलासागास्ती",
-            "ru": "Х. Оласагасти"
-          }
-        }
-      },
-      "team": {
-        "name": "Levante UD",
-        "slug": "levante-ud",
-        "shortName": "Levante",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 116374,
-        "nameCode": "LEV",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2849,
-        "teamColors": {
-          "primary": "#0e3b68",
-          "secondary": "#d70000",
-          "text": "#d70000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ليفانتي يو دي",
-            "hi": "लेवांटे यूडी",
-            "ru": "Леванте"
-          },
-          "shortNameTranslation": {
-            "ar": "ليفانتي",
-            "bn": "লেভান্তে",
-            "hi": "लेवांते"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 22,
-        "accuratePass": 19,
-        "totalLongBalls": 1,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 7,
-        "totalOwnHalfPasses": 7,
-        "accurateOppositionHalfPasses": 12,
-        "totalOppositionHalfPasses": 15,
-        "totalCross": 6,
-        "accurateCross": 1,
-        "duelWon": 4,
-        "bigChanceMissed": 1,
-        "onTargetScoringAttempt": 1,
-        "blockedScoringAttempt": 1,
-        "interceptionWon": 2,
-        "ballRecovery": 2,
-        "totalTackle": 1,
-        "wonTackle": 1,
-        "wasFouled": 3,
-        "minutesPlayed": 78,
-        "touches": 38,
-        "rating": 7,
-        "possessionLostCtrl": 8,
-        "expectedGoals": 0.5572,
-        "expectedGoalsOnTarget": 0.4943,
-        "expectedAssists": 0.117859,
-        "totalBallCarriesDistance": 75.163218309522,
-        "ballCarriesCount": 6,
-        "totalProgression": 54.859919489498,
-        "bestBallCarryProgression": 26.538883767818,
-        "totalProgressiveBallCarriesDistance": 31.063084988455,
-        "progressiveBallCarriesCount": 1,
-        "keyPass": 2,
-        "ratingVersions": {
-          "original": 7,
-          "alternative": 6.9
-        },
-        "totalShots": 2,
-        "shotValueNormalized": 0.2,
-        "passValueNormalized": 0.24,
-        "dribbleValueNormalized": 0.11,
-        "defensiveValueNormalized": -0.08,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "13412314": {
     "id": 13412314,
     "match_info": {
@@ -19301,6 +19164,150 @@
           "alternative": 7.2
         },
         "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083710": {
+    "id": 14083710,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "levante-ud-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Jon Ander Olasagasti",
+        "slug": "jon-ander-olasagasti",
+        "shortName": "J. A. Olasagasti",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 176,
+        "userCount": 364,
+        "gender": "M",
+        "sofascoreId": "iwkct8",
+        "id": 1010383,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 966384000,
+        "proposedMarketValueRaw": {
+          "value": 2700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جون أندير أولاساغاستي",
+            "bn": "জন অ্যান্ডার ওলাসাগাস্টি",
+            "hi": "जॉन एंडर ओलासागास्ती",
+            "ru": "Хон Андер Оласагасти"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. أ. أولاساغاستي",
+            "bn": "জে. এ. ওলাসাগাস্টি",
+            "hi": "जे.ए. ओलासागास्ती",
+            "ru": "Х. Оласагасти"
+          }
+        }
+      },
+      "team": {
+        "name": "Levante UD",
+        "slug": "levante-ud",
+        "shortName": "Levante",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 117899,
+        "nameCode": "LEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2849,
+        "teamColors": {
+          "primary": "#0e3b68",
+          "secondary": "#d70000",
+          "text": "#d70000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفانتي",
+            "hi": "लेवांटे यूडी",
+            "ru": "Леванте"
+          },
+          "shortNameTranslation": {
+            "ar": "ليفانتي",
+            "bn": "লেভান্তে",
+            "hi": "लेवांते"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 22,
+        "accuratePass": 19,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 7,
+        "totalOwnHalfPasses": 7,
+        "accurateOppositionHalfPasses": 12,
+        "totalOppositionHalfPasses": 15,
+        "totalCross": 6,
+        "accurateCross": 1,
+        "duelWon": 4,
+        "bigChanceMissed": 1,
+        "onTargetScoringAttempt": 1,
+        "blockedScoringAttempt": 1,
+        "interceptionWon": 2,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "wasFouled": 3,
+        "minutesPlayed": 78,
+        "touches": 38,
+        "rating": 7,
+        "possessionLostCtrl": 8,
+        "expectedGoals": 0.5572,
+        "expectedGoalsOnTarget": 0.4943,
+        "expectedAssists": 0.117859,
+        "topSpeed": 32.66,
+        "kilometersCovered": 9.28,
+        "numberOfSprints": 8,
+        "totalBallCarriesDistance": 75.163218309522,
+        "ballCarriesCount": 6,
+        "totalProgression": 54.859919489498,
+        "bestBallCarryProgression": 26.538883767818,
+        "totalProgressiveBallCarriesDistance": 31.063084988455,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 6.9
+        },
+        "totalShots": 2,
+        "shotValueNormalized": 0.2,
+        "passValueNormalized": 0.24,
+        "dribbleValueNormalized": 0.11,
+        "defensiveValueNormalized": -0.08,
+        "metersCoveredRunningKm": 1.6,
+        "metersCoveredHighSpeedRunningKm": 0.59,
+        "metersCoveredSprintingKm": 0.18,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

@@ -3481,125 +3481,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Real Madrid",
-        "abreviatura": "RMD",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
-      },
-      "visitante": {
-        "nombre": "Athletic",
-        "abreviatura": "ATH",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
-      }
-    },
-    "resultado": "4-2",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20450-real-madrid-athletic",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083731,
-      "match_info": {
-        "homeTeam": {
-          "name": "Real Madrid",
-          "shortName": "Real Madrid",
-          "color": "#ffffff",
-          "score": 4
-        },
-        "awayTeam": {
-          "name": "Athletic Club",
-          "shortName": "Athletic Club",
-          "color": "#aa0000",
-          "score": 2
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-madrid-athletic-club",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Antonio Rüdiger",
-          "slug": "antonio-rudiger",
-          "shortName": "A. Rüdiger",
-          "position": "D",
-          "jerseyNumber": "22",
-          "height": 191,
-          "userCount": 193293,
-          "gender": "M",
-          "sofascoreId": "ARüdiger",
-          "id": 142622,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 731116800,
-          "proposedMarketValueRaw": {
-            "value": 9300000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "أنطونيو روديغر",
-              "bn": "আন্তোনিও রুডিগার",
-              "hi": "एंटोनियो रुडिगर"
-            },
-            "shortNameTranslation": {
-              "ar": "أ. روديغر",
-              "bn": "এ. রুডিগার",
-              "hi": "ए. रुडिगर"
-            }
-          }
-        },
-        "team": {
-          "name": "Real Madrid",
-          "slug": "real-madrid",
-          "shortName": "Real Madrid",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 7733858,
-          "nameCode": "RMA",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2829,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#004996",
-            "text": "#004996"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ريال مدريد",
-              "bn": "রিয়াল মাদ্রিদ",
-              "hi": "रियल मैड्रिड",
-              "ru": "Реал Мадрид"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "D",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Betis",
         "abreviatura": "BET",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/4.png"
@@ -22522,6 +22403,126 @@
             "original": 6.2,
             "alternative": 6.2
           },
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "4-2",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20450-real-madrid-athletic",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083731,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Madrid",
+          "shortName": "Real Madrid",
+          "color": "#ffffff",
+          "score": 4
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 2
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-madrid-athletic-club"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Antonio Rüdiger",
+          "slug": "antonio-rudiger",
+          "shortName": "A. Rüdiger",
+          "position": "D",
+          "jerseyNumber": "22",
+          "height": 191,
+          "userCount": 201619,
+          "gender": "M",
+          "sofascoreId": "ARudiger",
+          "id": 142622,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 731116800,
+          "proposedMarketValueRaw": {
+            "value": 6200000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أنطونيو روديغر",
+              "bn": "আন্তোনিও রুডিগার",
+              "hi": "एंटोनियो रुडिगर",
+              "ru": "Антонио Рюдигер"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. روديغر",
+              "bn": "এ. রুডিগার",
+              "hi": "ए. रुडिगर",
+              "ru": "А. Рюдигер"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Madrid",
+          "slug": "real-madrid",
+          "shortName": "Real Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 8378061,
+          "nameCode": "RMA",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2829,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#004996",
+            "text": "#004996"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال مدريد",
+              "bn": "রিয়াল মাদ্রিদ",
+              "hi": "रियल मैड्रिड",
+              "ru": "Реал Мадрид"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
           "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",

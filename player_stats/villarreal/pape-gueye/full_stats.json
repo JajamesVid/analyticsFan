@@ -3962,239 +3962,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Villarreal",
-        "abreviatura": "VIL",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
-      },
-      "visitante": {
-        "nombre": "Atlético",
-        "abreviatura": "ATM",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
-      }
-    },
-    "resultado": "5-1",
-    "fecha": "2026-05-24",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20452-villarreal-atletico",
-    "puntuaciones": {
-      "picas": 3,
-      "marca": 3,
-      "cope": 10.0,
-      "sofascore": 8.0,
-      "relevo": 3.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 12.0,
-        "futbolfantasy-rpg": 22.0,
-        "comunio": 14.0,
-        "modo-picas": 14.0,
-        "biwenger-sofascore": 14.0,
-        "biwenger-social": 12.0,
-        "biwenger-as-sofascore": 14.0,
-        "biwenger-stats": 8.0,
-        "futmondo-prensa": 15.0,
-        "futmondo-mixto-as": 14.0,
-        "futmondo-stats": 13.0,
-        "futmondo-mixto": 16.9,
-        "cronistas-marca": 14.0,
-        "marca-mixto": 10.0,
-        "marca-sofascore": 14.0,
-        "mister-cronistas-md": 14.0,
-        "mister-mixto": 14.0,
-        "mister-mixto-2": 14.0,
-        "mister-sofascore": 14.0,
-        "stat-goles": 1.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 1.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 0.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 0.0,
-        "stat-regates-exito": 0.0,
-        "stat-faltas-recibidas": 0.0,
-        "stat-faltas-cometidas": 0.0,
-        "stat-pases-interceptados": 1.0,
-        "stat-balones-robados": 2.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 0.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 1.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 0.0,
-        "stat-despejes": 4.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 9.0,
-        "stat-tiros-totales": 2.0,
-        "stat-centros-totales": 0.0,
-        "stat-precision-pases": 85.7,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 2.0,
-        "stat-tackles": 2.0,
-        "stat-duelos-aereos": 0.0,
-        "stat-tiros-bloqueados": 0.0,
-        "stat-pases-totales": 49.0,
-        "stat-pases-completados": 42.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083735,
-      "match_info": {
-        "homeTeam": {
-          "name": "Villarreal",
-          "shortName": "Villarreal",
-          "color": "#ffff00",
-          "score": 5
-        },
-        "awayTeam": {
-          "name": "Atlético Madrid",
-          "shortName": "Atl. Madrid",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "startTimestamp": 1779649200,
-        "slug": "atletico-madrid-villarreal",
-        "fecha_normalizada": "2026-05-24"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Pape Gueye",
-          "slug": "pape-gueye",
-          "shortName": "P. Gueye",
-          "position": "M",
-          "jerseyNumber": "18",
-          "height": 187,
-          "userCount": 38482,
-          "gender": "M",
-          "sofascoreId": "p.gueye24",
-          "id": 879694,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 917136000,
-          "proposedMarketValueRaw": {
-            "value": 39000000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "باب غاي",
-              "bn": "পেপে গুয়ে",
-              "hi": "पपे गुये",
-              "ru": "Пап Гейе"
-            },
-            "shortNameTranslation": {
-              "ar": "ب. غاي",
-              "bn": "পি.গুয়ে",
-              "hi": "पी. गुये",
-              "ru": "П. Гейе"
-            }
-          }
-        },
-        "team": {
-          "name": "Villarreal",
-          "slug": "villarreal",
-          "shortName": "Villarreal",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 461754,
-          "nameCode": "VIL",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2819,
-          "teamColors": {
-            "primary": "#ffff00",
-            "secondary": "#013765",
-            "text": "#013765"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "فياريال",
-              "bn": "ভিলারিয়াল",
-              "hi": "विल्लारियल",
-              "ru": "Вильярреал"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalPass": 49,
-          "accuratePass": 42,
-          "totalLongBalls": 6,
-          "accurateLongBalls": 3,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 20,
-          "totalOwnHalfPasses": 21,
-          "accurateOppositionHalfPasses": 22,
-          "totalOppositionHalfPasses": 28,
-          "duelLost": 3,
-          "duelWon": 2,
-          "challengeLost": 1,
-          "dispossessed": 2,
-          "onTargetScoringAttempt": 1,
-          "blockedScoringAttempt": 1,
-          "goals": 1,
-          "totalClearance": 4,
-          "interceptionWon": 1,
-          "ballRecovery": 7,
-          "totalTackle": 2,
-          "wonTackle": 2,
-          "minutesPlayed": 75,
-          "touches": 61,
-          "rating": 8,
-          "possessionLostCtrl": 9,
-          "expectedGoals": 0.0716,
-          "expectedGoalsOnTarget": 0.1373,
-          "expectedAssists": 0.0360829,
-          "totalBallCarriesDistance": 194.01987190054,
-          "ballCarriesCount": 18,
-          "totalProgression": 82.448290879951,
-          "bestBallCarryProgression": 50.799480072605,
-          "totalProgressiveBallCarriesDistance": 58.632635417487,
-          "progressiveBallCarriesCount": 1,
-          "ratingVersions": {
-            "original": 8,
-            "alternative": 7.5
-          },
-          "totalShots": 2,
-          "shotValueNormalized": 0.5,
-          "passValueNormalized": 0.21,
-          "dribbleValueNormalized": 0.37,
-          "defensiveValueNormalized": 0.16,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "M",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Celta",
         "abreviatura": "CEL",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
@@ -18338,6 +18105,244 @@
             "alternative": 6.9
           },
           "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      },
+      "visitante": {
+        "nombre": "Atlético",
+        "abreviatura": "ATM",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
+      }
+    },
+    "resultado": "5-1",
+    "fecha": "2026-05-24",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20452-villarreal-atletico",
+    "puntuaciones": {
+      "picas": 3,
+      "marca": 3,
+      "cope": 10.0,
+      "sofascore": 8.0,
+      "relevo": 3.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 12.0,
+        "futbolfantasy-rpg": 22.0,
+        "comunio": 14.0,
+        "modo-picas": 14.0,
+        "biwenger-sofascore": 14.0,
+        "biwenger-social": 12.0,
+        "biwenger-as-sofascore": 14.0,
+        "biwenger-stats": 8.0,
+        "futmondo-prensa": 15.0,
+        "futmondo-mixto-as": 14.0,
+        "futmondo-stats": 13.0,
+        "futmondo-mixto": 16.9,
+        "cronistas-marca": 14.0,
+        "marca-mixto": 10.0,
+        "marca-sofascore": 14.0,
+        "mister-cronistas-md": 14.0,
+        "mister-mixto": 14.0,
+        "mister-mixto-2": 14.0,
+        "mister-sofascore": 14.0,
+        "stat-goles": 1.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 1.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 1.0,
+        "stat-balones-robados": 2.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 4.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 9.0,
+        "stat-tiros-totales": 2.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 85.7,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 2.0,
+        "stat-tackles": 2.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 49.0,
+        "stat-pases-completados": 42.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083735,
+      "match_info": {
+        "homeTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 5
+        },
+        "awayTeam": {
+          "name": "Atlético Madrid",
+          "shortName": "Atl. Madrid",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1779649200,
+        "slug": "atletico-madrid-villarreal"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Pape Gueye",
+          "slug": "pape-gueye",
+          "shortName": "P. Gueye",
+          "position": "M",
+          "jerseyNumber": "18",
+          "height": 187,
+          "userCount": 41938,
+          "gender": "M",
+          "sofascoreId": "p.gueye24",
+          "id": 879694,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 917136000,
+          "proposedMarketValueRaw": {
+            "value": 39000000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "باب غاي",
+              "bn": "পেপে গুয়ে",
+              "hi": "पपे गुये",
+              "ru": "Пап Гейе"
+            },
+            "shortNameTranslation": {
+              "ar": "ب. غاي",
+              "bn": "পি.গুয়ে",
+              "hi": "पी. गुये",
+              "ru": "П. Гейе"
+            }
+          }
+        },
+        "team": {
+          "name": "Villarreal",
+          "slug": "villarreal",
+          "shortName": "Villarreal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 465801,
+          "nameCode": "VIL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2819,
+          "teamColors": {
+            "primary": "#ffff00",
+            "secondary": "#013765",
+            "text": "#013765"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فياريال",
+              "bn": "ভিলারিয়াল",
+              "hi": "विल्लारियल",
+              "ru": "Вильярреал"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 49,
+          "accuratePass": 42,
+          "totalLongBalls": 6,
+          "accurateLongBalls": 3,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 20,
+          "totalOwnHalfPasses": 21,
+          "accurateOppositionHalfPasses": 22,
+          "totalOppositionHalfPasses": 28,
+          "duelLost": 3,
+          "duelWon": 2,
+          "challengeLost": 1,
+          "dispossessed": 2,
+          "onTargetScoringAttempt": 1,
+          "blockedScoringAttempt": 1,
+          "goals": 1,
+          "totalClearance": 4,
+          "interceptionWon": 1,
+          "ballRecovery": 7,
+          "totalTackle": 2,
+          "wonTackle": 2,
+          "minutesPlayed": 75,
+          "touches": 61,
+          "rating": 8,
+          "possessionLostCtrl": 9,
+          "expectedGoals": 0.0716,
+          "expectedGoalsOnTarget": 0.1373,
+          "expectedAssists": 0.0360829,
+          "topSpeed": 27.98,
+          "kilometersCovered": 8.91,
+          "numberOfSprints": 4,
+          "totalBallCarriesDistance": 194.01987190054,
+          "ballCarriesCount": 18,
+          "totalProgression": 82.448290879951,
+          "bestBallCarryProgression": 50.799480072605,
+          "totalProgressiveBallCarriesDistance": 58.632635417487,
+          "progressiveBallCarriesCount": 1,
+          "ratingVersions": {
+            "original": 8,
+            "alternative": 7.5
+          },
+          "totalShots": 2,
+          "shotValueNormalized": 0.5,
+          "passValueNormalized": 0.21,
+          "dribbleValueNormalized": 0.37,
+          "defensiveValueNormalized": 0.16,
+          "metersCoveredRunningKm": 1.23,
+          "metersCoveredHighSpeedRunningKm": 0.33,
+          "metersCoveredSprintingKm": 0.03,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

@@ -3216,100 +3216,6 @@
       "extra": null
     }
   },
-  "14083739": {
-    "id": 14083739,
-    "match_info": {
-      "homeTeam": {
-        "name": "Valencia",
-        "shortName": "Valencia",
-        "color": "#ffffff",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "FC Barcelona",
-        "shortName": "Barcelona",
-        "color": "#154284",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "valencia-barcelona"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Roony Bardghji",
-        "firstName": "Roony",
-        "lastName": "Bardghji",
-        "slug": "roony-bardghji",
-        "shortName": "R. Bardghji",
-        "position": "F",
-        "jerseyNumber": "19",
-        "height": 173,
-        "userCount": 106767,
-        "gender": "M",
-        "id": 1162107,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1132012800,
-        "proposedMarketValueRaw": {
-          "value": 15500000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "روني باردغجي",
-            "bn": "রুনি বর্ধজী",
-            "hi": "रूनी बार्डघजी",
-            "ru": "Руни Баргдзи"
-          },
-          "shortNameTranslation": {
-            "ar": "ر. باردغجي",
-            "bn": "আর. বর্ধজী",
-            "hi": "आर. बार्डघजी",
-            "ru": "Р. Баргдзи"
-          }
-        }
-      },
-      "team": {
-        "name": "FC Barcelona",
-        "slug": "barcelona",
-        "shortName": "Barcelona",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 7651582,
-        "nameCode": "BAR",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2817,
-        "teamColors": {
-          "primary": "#154284",
-          "secondary": "#9d1009",
-          "text": "#9d1009"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "برشلونة",
-            "bn": "বার্সেলোনা",
-            "hi": "बार्सिलोना",
-            "ru": "Барселона"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "13500681": {
     "id": 13500681,
     "match_info": {
@@ -19492,6 +19398,101 @@
         }
       },
       "position": "M",
+      "extra": null
+    }
+  },
+  "14083739": {
+    "id": 14083739,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "valencia-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Roony Bardghji",
+        "firstName": "Roony",
+        "lastName": "Bardghji",
+        "slug": "roony-bardghji",
+        "shortName": "R. Bardghji",
+        "position": "F",
+        "jerseyNumber": "19",
+        "height": 173,
+        "userCount": 110461,
+        "gender": "M",
+        "sofascoreId": "iw383n",
+        "id": 1162107,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1132012800,
+        "proposedMarketValueRaw": {
+          "value": 15500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "روني باردغجي",
+            "bn": "রুনি বর্ধজী",
+            "hi": "रूनी बार्डघजी",
+            "ru": "Руни Баргдзи"
+          },
+          "shortNameTranslation": {
+            "ar": "ر. باردغجي",
+            "bn": "আর. বর্ধজী",
+            "hi": "आर. बार्डघजी",
+            "ru": "Р. Баргдзи"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Barcelona",
+        "slug": "barcelona",
+        "shortName": "Barcelona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 8036915,
+        "nameCode": "BAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2817,
+        "teamColors": {
+          "primary": "#154284",
+          "secondary": "#9d1009",
+          "text": "#9d1009"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "برشلونة",
+            "bn": "বার্সেলোনা",
+            "hi": "बार्सिलोना",
+            "ru": "Барселона"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
       "extra": null
     }
   }

@@ -3648,127 +3648,6 @@
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
       },
       "visitante": {
-        "nombre": "Athletic",
-        "abreviatura": "ATH",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
-      }
-    },
-    "resultado": "4-2",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20450-real-madrid-athletic",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083731,
-      "match_info": {
-        "homeTeam": {
-          "name": "Real Madrid",
-          "shortName": "Real Madrid",
-          "color": "#ffffff",
-          "score": 4
-        },
-        "awayTeam": {
-          "name": "Athletic Club",
-          "shortName": "Athletic Club",
-          "color": "#aa0000",
-          "score": 2
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-madrid-athletic-club",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Eduardo Camavinga",
-          "firstName": "Eduardo",
-          "lastName": "Camavinga",
-          "slug": "eduardo-camavinga",
-          "shortName": "E. Camavinga",
-          "position": "M",
-          "jerseyNumber": "6",
-          "height": 182,
-          "userCount": 196606,
-          "gender": "M",
-          "sofascoreId": "Tacklevinga",
-          "id": 973887,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 1036886400,
-          "proposedMarketValueRaw": {
-            "value": 48000000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "إدواردو كامافينغا",
-              "bn": "কামাভিঙ্গা, এডুয়ার্ডো",
-              "hi": "कैमाविंगा, एडुआर्डो"
-            },
-            "shortNameTranslation": {
-              "ar": "إ. كامافينغا",
-              "bn": "ই. কামাভিঙ্গা",
-              "hi": "ई. एडुआर्डो"
-            }
-          }
-        },
-        "team": {
-          "name": "Real Madrid",
-          "slug": "real-madrid",
-          "shortName": "Real Madrid",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 7733858,
-          "nameCode": "RMA",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2829,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#004996",
-            "text": "#004996"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ريال مدريد",
-              "bn": "রিয়াল মাদ্রিদ",
-              "hi": "रियल मैड्रिड",
-              "ru": "Реал Мадрид"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "M",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
-        "nombre": "Real Madrid",
-        "abreviatura": "RMD",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
-      },
-      "visitante": {
         "nombre": "Leganés",
         "abreviatura": "LEG",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/29.png"
@@ -23152,6 +23031,128 @@
           }
         },
         "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "4-2",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20450-real-madrid-athletic",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083731,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Madrid",
+          "shortName": "Real Madrid",
+          "color": "#ffffff",
+          "score": 4
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 2
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-madrid-athletic-club"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Eduardo Camavinga",
+          "firstName": "Eduardo",
+          "lastName": "Camavinga",
+          "slug": "eduardo-camavinga",
+          "shortName": "E. Camavinga",
+          "position": "M",
+          "jerseyNumber": "6",
+          "height": 182,
+          "userCount": 204127,
+          "gender": "M",
+          "sofascoreId": "Tacklevinga",
+          "id": 973887,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1036886400,
+          "proposedMarketValueRaw": {
+            "value": 48000000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إدواردو كامافينغا",
+              "bn": "কামাভিঙ্গা, এডুয়ার্ডো",
+              "hi": "कैमाविंगा, एडुआर्डो",
+              "ru": "Эдуардо Камавинга"
+            },
+            "shortNameTranslation": {
+              "ar": "إ. كامافينغا",
+              "bn": "ই. কামাভিঙ্গা",
+              "hi": "ई. एडुआर्डो",
+              "ru": "Э. Камавинга"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Madrid",
+          "slug": "real-madrid",
+          "shortName": "Real Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 8378061,
+          "nameCode": "RMA",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2829,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#004996",
+            "text": "#004996"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال مدريد",
+              "bn": "রিয়াল মাদ্রিদ",
+              "hi": "रियल मैड्रिड",
+              "ru": "Реал Мадрид"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
         "extra": null
       }
     }

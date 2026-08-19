@@ -3419,124 +3419,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Villarreal",
-        "abreviatura": "VIL",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
-      },
-      "visitante": {
-        "nombre": "Atlético",
-        "abreviatura": "ATM",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
-      }
-    },
-    "resultado": "5-1",
-    "fecha": "2026-05-24",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20452-villarreal-atletico",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083735,
-      "match_info": {
-        "homeTeam": {
-          "name": "Villarreal",
-          "shortName": "Villarreal",
-          "color": "#ffff00",
-          "score": 5
-        },
-        "awayTeam": {
-          "name": "Atlético Madrid",
-          "shortName": "Atl. Madrid",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "startTimestamp": 1779649200,
-        "slug": "atletico-madrid-villarreal",
-        "fecha_normalizada": "2026-05-24"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Tani Oluwaseyi",
-          "firstName": "Tani Oluwaseyi",
-          "lastName": "",
-          "slug": "oluwaseyi-tani",
-          "shortName": "T. Oluwaseyi",
-          "position": "F",
-          "jerseyNumber": "21",
-          "height": 188,
-          "userCount": 3558,
-          "gender": "M",
-          "id": 1172477,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 958348800,
-          "proposedMarketValueRaw": {
-            "value": 7500000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "تاني أولواسي",
-              "ru": "Тани Олувасейи"
-            },
-            "shortNameTranslation": {
-              "ar": "ت. أولواسي",
-              "ru": "Т. Олувасейи"
-            }
-          }
-        },
-        "team": {
-          "name": "Villarreal",
-          "slug": "villarreal",
-          "shortName": "Villarreal",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 461754,
-          "nameCode": "VIL",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2819,
-          "teamColors": {
-            "primary": "#ffff00",
-            "secondary": "#013765",
-            "text": "#013765"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "فياريال",
-              "bn": "ভিলারিয়াল",
-              "hi": "विल्लारियल",
-              "ru": "Вильярреал"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "F",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Atlético",
         "abreviatura": "ATM",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
@@ -6881,6 +6763,124 @@
           "passValueNormalized": -0.04,
           "dribbleValueNormalized": -0.21,
           "defensiveValueNormalized": 0.13,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      },
+      "visitante": {
+        "nombre": "Atlético",
+        "abreviatura": "ATM",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
+      }
+    },
+    "resultado": "5-1",
+    "fecha": "2026-05-24",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20452-villarreal-atletico",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083735,
+      "match_info": {
+        "homeTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 5
+        },
+        "awayTeam": {
+          "name": "Atlético Madrid",
+          "shortName": "Atl. Madrid",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1779649200,
+        "slug": "atletico-madrid-villarreal"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Tani Oluwaseyi",
+          "firstName": "Tani Oluwaseyi",
+          "lastName": "",
+          "slug": "oluwaseyi-tani",
+          "shortName": "T. Oluwaseyi",
+          "position": "F",
+          "jerseyNumber": "21",
+          "height": 188,
+          "userCount": 3671,
+          "gender": "M",
+          "sofascoreId": "kmtdmi",
+          "id": 1172477,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 958348800,
+          "proposedMarketValueRaw": {
+            "value": 7500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "تاني أولواسي",
+              "ru": "Тани Олувасейи"
+            },
+            "shortNameTranslation": {
+              "ar": "ت. أولواسي",
+              "ru": "Т. Олувасейи"
+            }
+          }
+        },
+        "team": {
+          "name": "Villarreal",
+          "slug": "villarreal",
+          "shortName": "Villarreal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 465801,
+          "nameCode": "VIL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2819,
+          "teamColors": {
+            "primary": "#ffff00",
+            "secondary": "#013765",
+            "text": "#013765"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فياريال",
+              "bn": "ভিলারিয়াল",
+              "hi": "विल्लारियल",
+              "ru": "Вильярреал"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

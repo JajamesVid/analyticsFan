@@ -3102,129 +3102,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Betis",
-        "abreviatura": "BET",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/4.png"
-      },
-      "visitante": {
-        "nombre": "Levante",
-        "abreviatura": "LEV",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/10.png"
-      }
-    },
-    "resultado": "2-1",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20449-betis-levante",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083710,
-      "match_info": {
-        "homeTeam": {
-          "name": "Real Betis",
-          "shortName": "Real Betis",
-          "color": "#ffffff",
-          "score": 2
-        },
-        "awayTeam": {
-          "name": "Levante UD",
-          "shortName": "Levante",
-          "color": "#0e3b68",
-          "score": 1
-        },
-        "startTimestamp": 1779562800,
-        "slug": "levante-ud-real-betis",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Cédric Bakambu",
-          "slug": "cedric-bakambu",
-          "shortName": "C. Bakambu",
-          "position": "F",
-          "jerseyNumber": "11",
-          "height": 182,
-          "userCount": 59886,
-          "gender": "M",
-          "sofascoreId": "bakambu17",
-          "id": 115665,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 671328000,
-          "proposedMarketValueRaw": {
-            "value": 1400000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "سيدريك باكامبو",
-              "bn": "সেড্রিক বাকাম্বু",
-              "hi": "सेड्रिक बाकाम्बू",
-              "ru": "Седрик Бакамбу"
-            },
-            "shortNameTranslation": {
-              "ar": "س. باكامبو",
-              "bn": "সি. বাকাম্বু",
-              "hi": "सी. बाकाम्बू",
-              "ru": "С. Бакамбу"
-            }
-          }
-        },
-        "team": {
-          "name": "Real Betis",
-          "slug": "real-betis",
-          "shortName": "Real Betis",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 600173,
-          "nameCode": "BET",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2816,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#006633",
-            "text": "#006633"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ريال بيتيس",
-              "ru": "Реал Бетис"
-            },
-            "shortNameTranslation": {
-              "ar": "ريال بيتيس",
-              "bn": "বেটিস",
-              "hi": "बेटिस"
-            }
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "F",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Elche",
         "abreviatura": "ELC",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
@@ -12863,6 +12740,127 @@
             "alternative": 6.6
           },
           "totalShots": 1,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Betis",
+        "abreviatura": "BET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/4.png"
+      },
+      "visitante": {
+        "nombre": "Levante",
+        "abreviatura": "LEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/10.png"
+      }
+    },
+    "resultado": "2-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20449-betis-levante",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083710,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Betis",
+          "shortName": "Real Betis",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Levante UD",
+          "shortName": "Levante",
+          "color": "#0e3b68",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "levante-ud-real-betis"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Cédric Bakambu",
+          "slug": "cedric-bakambu",
+          "shortName": "C. Bakambu",
+          "position": "F",
+          "height": 182,
+          "userCount": 65432,
+          "gender": "M",
+          "sofascoreId": "bakambu17",
+          "id": 115665,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 671328000,
+          "proposedMarketValueRaw": {
+            "value": 1200000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيدريك باكامبو",
+              "bn": "সেড্রিক বাকাম্বু",
+              "hi": "सेड्रिक बाकाम्बू",
+              "ru": "Седрик Бакамбу"
+            },
+            "shortNameTranslation": {
+              "ar": "س. باكامبو",
+              "bn": "সি. বাকাম্বু",
+              "hi": "सी. बाकाम्बू",
+              "ru": "С. Бакамбу"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Betis",
+          "slug": "real-betis",
+          "shortName": "Real Betis",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 609007,
+          "nameCode": "BET",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2816,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#006633",
+            "text": "#006633"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال بيتيس",
+              "ru": "Реал Бетис"
+            },
+            "shortNameTranslation": {
+              "ar": "ريال بيتيس",
+              "bn": "বেটিস",
+              "hi": "बेटिस"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

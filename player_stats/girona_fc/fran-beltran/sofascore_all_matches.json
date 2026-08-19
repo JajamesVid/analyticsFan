@@ -3699,149 +3699,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Fran Beltrán",
-        "firstName": "Fran",
-        "lastName": "Beltran",
-        "slug": "fran-beltran",
-        "shortName": "F. Beltrán",
-        "position": "M",
-        "jerseyNumber": "8",
-        "height": 170,
-        "userCount": 868,
-        "gender": "M",
-        "sofascoreId": "hyiu8c",
-        "id": 835484,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 918000000,
-        "proposedMarketValueRaw": {
-          "value": 4200000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فران بيلتران",
-            "bn": "ফ্রান বেল্টরান",
-            "hi": "फ्रान बेल्ट्रान",
-            "ru": "Фран Белтран"
-          },
-          "shortNameTranslation": {
-            "ar": "ف. بيلتران",
-            "bn": "এফ. বেলট্রান",
-            "hi": "एफ. बेल्ट्रान",
-            "ru": "Ф. Белтран"
-          }
-        }
-      },
-      "team": {
-        "name": "Girona FC",
-        "slug": "girona-fc",
-        "shortName": "Girona",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 373692,
-        "nameCode": "GIR",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 24264,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ff0000",
-          "text": "#ff0000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "جيرونا إف سي",
-            "hi": "जिरोना",
-            "ru": "Жирона"
-          },
-          "shortNameTranslation": {
-            "ar": "جيرونا",
-            "bn": "জিরোনা",
-            "hi": "गिरोना"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 24,
-        "accuratePass": 22,
-        "totalLongBalls": 2,
-        "accurateLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 8,
-        "totalOwnHalfPasses": 8,
-        "accurateOppositionHalfPasses": 14,
-        "totalOppositionHalfPasses": 16,
-        "totalCross": 1,
-        "aerialWon": 1,
-        "duelLost": 3,
-        "duelWon": 4,
-        "totalContest": 2,
-        "totalClearance": 2,
-        "interceptionWon": 1,
-        "ballRecovery": 2,
-        "totalTackle": 3,
-        "wonTackle": 1,
-        "unsuccessfulTouch": 1,
-        "fouls": 1,
-        "minutesPlayed": 32,
-        "touches": 37,
-        "rating": 7,
-        "possessionLostCtrl": 6,
-        "expectedAssists": 0.00827603,
-        "topSpeed": 30.5,
-        "kilometersCovered": 4.5,
-        "numberOfSprints": 4,
-        "totalBallCarriesDistance": 147.04548006738,
-        "ballCarriesCount": 13,
-        "totalProgression": 107.38437829301,
-        "bestBallCarryProgression": 25.546502407404,
-        "totalProgressiveBallCarriesDistance": 79.724761262144,
-        "progressiveBallCarriesCount": 4,
-        "ratingVersions": {
-          "original": 7,
-          "alternative": 6.7
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.02,
-        "dribbleValueNormalized": 0.18,
-        "defensiveValueNormalized": -0.01,
-        "metersCoveredRunningKm": 0.8,
-        "metersCoveredHighSpeedRunningKm": 0.15,
-        "metersCoveredSprintingKm": 0.07,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12437569": {
     "id": 12437569,
     "match_info": {
@@ -24317,6 +24174,149 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Fran Beltrán",
+        "firstName": "Fran",
+        "lastName": "Beltran",
+        "slug": "fran-beltran",
+        "shortName": "F. Beltrán",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 170,
+        "userCount": 854,
+        "gender": "M",
+        "sofascoreId": "hyiu8c",
+        "id": 835484,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 918000000,
+        "proposedMarketValueRaw": {
+          "value": 4200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فران بيلتران",
+            "bn": "ফ্রান বেল্টরান",
+            "hi": "फ्रान बेल्ट्रान",
+            "ru": "Фран Белтран"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. بيلتران",
+            "bn": "এফ. বেলট্রান",
+            "hi": "एफ. बेल्ट्रान",
+            "ru": "Ф. Белтран"
+          }
+        }
+      },
+      "team": {
+        "name": "Girona FC",
+        "slug": "girona-fc",
+        "shortName": "Girona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 374248,
+        "nameCode": "GIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24264,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جيرونا إف سي",
+            "hi": "जिरोना",
+            "ru": "Жирона"
+          },
+          "shortNameTranslation": {
+            "ar": "جيرونا",
+            "bn": "জিরোনা",
+            "hi": "गिरोना"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 24,
+        "accuratePass": 22,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 8,
+        "totalOwnHalfPasses": 8,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 16,
+        "totalCross": 1,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 4,
+        "totalContest": 2,
+        "totalClearance": 2,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "totalTackle": 3,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "fouls": 1,
+        "minutesPlayed": 32,
+        "touches": 37,
+        "rating": 7,
+        "possessionLostCtrl": 6,
+        "expectedAssists": 0.00827603,
+        "topSpeed": 30.5,
+        "kilometersCovered": 4.5,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 147.04548006738,
+        "ballCarriesCount": 13,
+        "totalProgression": 107.38437829301,
+        "bestBallCarryProgression": 25.546502407404,
+        "totalProgressiveBallCarriesDistance": 79.724761262144,
+        "progressiveBallCarriesCount": 4,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.02,
+        "dribbleValueNormalized": 0.18,
+        "defensiveValueNormalized": -0.01,
+        "metersCoveredRunningKm": 0.8,
+        "metersCoveredHighSpeedRunningKm": 0.15,
+        "metersCoveredSprintingKm": 0.07,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
     }
   }
 }

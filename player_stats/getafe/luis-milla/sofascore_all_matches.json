@@ -3902,143 +3902,6 @@
       "extra": null
     }
   },
-  "14083723": {
-    "id": 14083723,
-    "match_info": {
-      "homeTeam": {
-        "name": "Getafe",
-        "shortName": "Getafe",
-        "color": "#00369e",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Osasuna",
-        "shortName": "Osasuna",
-        "color": "#cc0000",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "getafe-osasuna"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Luis Milla",
-        "firstName": "Luis",
-        "lastName": "Milla",
-        "slug": "luis-milla",
-        "shortName": "L. Milla",
-        "position": "M",
-        "jerseyNumber": "5",
-        "height": 175,
-        "userCount": 1736,
-        "gender": "M",
-        "id": 811629,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 781488000,
-        "proposedMarketValueRaw": {
-          "value": 3200000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "لويس ميلا",
-            "bn": "লুইস মিলা",
-            "hi": "लुइस मिल्ला",
-            "ru": "Луис Милья"
-          },
-          "shortNameTranslation": {
-            "ar": "ل. ميلا",
-            "bn": "এল. মিলা",
-            "hi": "एल. मिल्ला",
-            "ru": "Л. Милья"
-          }
-        }
-      },
-      "team": {
-        "name": "Getafe",
-        "slug": "getafe",
-        "shortName": "Getafe",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 199335,
-        "nameCode": "GET",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2859,
-        "teamColors": {
-          "primary": "#00369e",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "خيتافي",
-            "bn": "গেটাফে",
-            "hi": "गेटाफे",
-            "ru": "Хетафе"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 32,
-        "accuratePass": 25,
-        "totalLongBalls": 4,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 11,
-        "totalOwnHalfPasses": 12,
-        "accurateOppositionHalfPasses": 14,
-        "totalOppositionHalfPasses": 20,
-        "totalCross": 5,
-        "accurateCross": 1,
-        "aerialLost": 2,
-        "aerialWon": 1,
-        "duelLost": 5,
-        "duelWon": 2,
-        "challengeLost": 1,
-        "onTargetScoringAttempt": 2,
-        "goals": 1,
-        "ballRecovery": 3,
-        "totalTackle": 1,
-        "wonTackle": 1,
-        "unsuccessfulTouch": 3,
-        "fouls": 3,
-        "minutesPlayed": 90,
-        "touches": 48,
-        "rating": 7.5,
-        "possessionLostCtrl": 15,
-        "expectedGoals": 0.0565,
-        "expectedGoalsOnTarget": 0.2218,
-        "expectedAssists": 0.0683501,
-        "totalBallCarriesDistance": 36.146548107768,
-        "ballCarriesCount": 5,
-        "totalProgression": 0.65170273879108,
-        "progressiveBallCarriesCount": 0,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 7.5,
-          "alternative": 7.5
-        },
-        "totalShots": 2,
-        "shotValueNormalized": 0.51,
-        "passValueNormalized": 0.16,
-        "dribbleValueNormalized": 0.02,
-        "defensiveValueNormalized": -0.06,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "13211209": {
     "id": 13211209,
     "match_info": {
@@ -24764,6 +24627,150 @@
         "rating": 6.5,
         "possessionLostCtrl": 12,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083723": {
+    "id": 14083723,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "getafe-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Luis Milla",
+        "firstName": "Luis",
+        "lastName": "Milla",
+        "slug": "luis-milla",
+        "shortName": "L. Milla",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 175,
+        "userCount": 1797,
+        "gender": "M",
+        "sofascoreId": "win74k",
+        "id": 811629,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 781488000,
+        "proposedMarketValueRaw": {
+          "value": 3200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "لويس ميلا",
+            "bn": "লুইস মিলা",
+            "hi": "लुइस मिल्ला",
+            "ru": "Луис Милья"
+          },
+          "shortNameTranslation": {
+            "ar": "ل. ميلا",
+            "bn": "এল. মিলা",
+            "hi": "एल. मिल्ला",
+            "ru": "Л. Милья"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 203865,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 32,
+        "accuratePass": 25,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 11,
+        "totalOwnHalfPasses": 12,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 20,
+        "totalCross": 5,
+        "accurateCross": 1,
+        "aerialLost": 2,
+        "aerialWon": 1,
+        "duelLost": 5,
+        "duelWon": 2,
+        "challengeLost": 1,
+        "onTargetScoringAttempt": 2,
+        "goals": 1,
+        "ballRecovery": 3,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 3,
+        "fouls": 3,
+        "minutesPlayed": 90,
+        "touches": 48,
+        "rating": 7.5,
+        "possessionLostCtrl": 15,
+        "expectedGoals": 0.0565,
+        "expectedGoalsOnTarget": 0.2218,
+        "expectedAssists": 0.0683501,
+        "topSpeed": 27.79,
+        "kilometersCovered": 9.51,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 36.146548107768,
+        "ballCarriesCount": 5,
+        "totalProgression": 0.65170273879108,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.5,
+          "alternative": 7.5
+        },
+        "totalShots": 2,
+        "shotValueNormalized": 0.51,
+        "passValueNormalized": 0.16,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": -0.06,
+        "metersCoveredRunningKm": 1.53,
+        "metersCoveredHighSpeedRunningKm": 0.33,
+        "metersCoveredSprintingKm": 0.04,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

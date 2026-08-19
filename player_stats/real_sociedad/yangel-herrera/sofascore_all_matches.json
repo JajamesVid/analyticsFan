@@ -2522,138 +2522,6 @@
       "extra": null
     }
   },
-  "14083719": {
-    "id": 14083719,
-    "match_info": {
-      "homeTeam": {
-        "name": "Espanyol",
-        "shortName": "Espanyol",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Real Sociedad",
-        "shortName": "Real Sociedad",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-sociedad-espanyol"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Yangel Herrera",
-        "slug": "yangel-herrera",
-        "shortName": "Y. Herrera",
-        "position": "M",
-        "jerseyNumber": "12",
-        "height": 184,
-        "userCount": 4455,
-        "gender": "M",
-        "sofascoreId": "YangelHerrera8",
-        "id": 839585,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 884131200,
-        "proposedMarketValueRaw": {
-          "value": 5600000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "يانخيل هيريرا",
-            "bn": "ব্যান হেরেরা",
-            "hi": "यंगेल हेरेरा",
-            "ru": "Янхель Эррера"
-          },
-          "shortNameTranslation": {
-            "ar": "ي. هيريرا",
-            "bn": "ওয়াই. হেরেরা",
-            "hi": "वाई. हेरेरा",
-            "ru": "Я. Эррера"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Sociedad",
-        "slug": "real-sociedad",
-        "shortName": "Real Sociedad",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 413040,
-        "nameCode": "RSO",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2824,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#0077c7",
-          "text": "#0077c7"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال سوسيداد",
-            "bn": "রিয়াল সোসিয়েদাদ",
-            "hi": "रियल सोसियदाद",
-            "ru": "Реал Сосьедад"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 43,
-        "accuratePass": 36,
-        "totalLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 15,
-        "totalOwnHalfPasses": 17,
-        "accurateOppositionHalfPasses": 21,
-        "totalOppositionHalfPasses": 26,
-        "aerialLost": 2,
-        "aerialWon": 3,
-        "duelLost": 7,
-        "duelWon": 6,
-        "dispossessed": 2,
-        "totalContest": 1,
-        "totalClearance": 1,
-        "outfielderBlock": 2,
-        "ballRecovery": 4,
-        "totalTackle": 1,
-        "unsuccessfulTouch": 1,
-        "wasFouled": 2,
-        "fouls": 2,
-        "totalOffside": 1,
-        "minutesPlayed": 90,
-        "touches": 54,
-        "rating": 6.8,
-        "possessionLostCtrl": 11,
-        "expectedAssists": 0.0229259,
-        "totalBallCarriesDistance": 92.14305328476,
-        "ballCarriesCount": 11,
-        "totalProgression": 41.508816483416,
-        "progressiveBallCarriesCount": 0,
-        "keyPass": 2,
-        "ratingVersions": {
-          "original": 6.8,
-          "alternative": 6.6
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.22,
-        "dribbleValueNormalized": -0.03,
-        "defensiveValueNormalized": 0.41,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "16130144": {
     "id": 16130144,
     "match_info": {
@@ -23717,6 +23585,144 @@
         "rating": 6.6,
         "possessionLostCtrl": 18,
         "totalShots": 5,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083719": {
+    "id": 14083719,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-sociedad-espanyol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Yangel Herrera",
+        "slug": "yangel-herrera",
+        "shortName": "Y. Herrera",
+        "position": "M",
+        "jerseyNumber": "12",
+        "height": 184,
+        "userCount": 4544,
+        "gender": "M",
+        "sofascoreId": "YangelHerrera8",
+        "id": 839585,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 884131200,
+        "proposedMarketValueRaw": {
+          "value": 5600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "يانخيل هيريرا",
+            "bn": "ব্যান হেরেরা",
+            "hi": "यंगेल हेरेरा",
+            "ru": "Янхель Эррера"
+          },
+          "shortNameTranslation": {
+            "ar": "ي. هيريرا",
+            "bn": "ওয়াই. হেরেরা",
+            "hi": "वाई. हेरेरा",
+            "ru": "Я. Эррера"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 417327,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 43,
+        "accuratePass": 36,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 15,
+        "totalOwnHalfPasses": 17,
+        "accurateOppositionHalfPasses": 21,
+        "totalOppositionHalfPasses": 26,
+        "aerialLost": 2,
+        "aerialWon": 3,
+        "duelLost": 7,
+        "duelWon": 6,
+        "dispossessed": 2,
+        "totalContest": 1,
+        "totalClearance": 1,
+        "outfielderBlock": 2,
+        "ballRecovery": 4,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 2,
+        "fouls": 2,
+        "totalOffside": 1,
+        "minutesPlayed": 90,
+        "touches": 54,
+        "rating": 6.8,
+        "possessionLostCtrl": 11,
+        "expectedAssists": 0.0229259,
+        "topSpeed": 29.14,
+        "kilometersCovered": 10.85,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 92.14305328476,
+        "ballCarriesCount": 11,
+        "totalProgression": 41.508816483416,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.22,
+        "dribbleValueNormalized": -0.03,
+        "defensiveValueNormalized": 0.41,
+        "metersCoveredRunningKm": 1.78,
+        "metersCoveredHighSpeedRunningKm": 0.45,
+        "metersCoveredSprintingKm": 0.04,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

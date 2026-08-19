@@ -3493,129 +3493,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Alejandro Rego Mora",
-        "firstName": "Alejandro",
-        "lastName": "Rego Mora",
-        "slug": "alejandro-rego-mora",
-        "shortName": "A. Rego Mora",
-        "position": "M",
-        "jerseyNumber": "30",
-        "height": 192,
-        "userCount": 663,
-        "gender": "M",
-        "id": 2110897,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1055289600,
-        "proposedMarketValueRaw": {
-          "value": 5500000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أليخاندرو ريجو مورا",
-            "ru": "Алехандро Рего Мора"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. مورا",
-            "ru": "А. Мора"
-          }
-        }
-      },
-      "team": {
-        "name": "Athletic Club",
-        "slug": "athletic-club",
-        "shortName": "Athletic Club",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 519382,
-        "nameCode": "ATH",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2825,
-        "teamColors": {
-          "primary": "#aa0000",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "نادي أتليتيك",
-            "bn": "অ্যাথলেটিক ক্লাব",
-            "hi": "एथलेटिक क्लब",
-            "ru": "Атлетик Бильбао"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 15,
-        "accuratePass": 14,
-        "totalLongBalls": 1,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 5,
-        "totalOwnHalfPasses": 5,
-        "accurateOppositionHalfPasses": 9,
-        "totalOppositionHalfPasses": 10,
-        "interceptionWon": 1,
-        "ballRecovery": 2,
-        "minutesPlayed": 30,
-        "touches": 17,
-        "rating": 6.6,
-        "possessionLostCtrl": 2,
-        "expectedAssists": 0.00340621,
-        "topSpeed": 24.68,
-        "kilometersCovered": 3.54,
-        "numberOfSprints": 0,
-        "totalBallCarriesDistance": 39.20158545533,
-        "ballCarriesCount": 4,
-        "totalProgression": 22.184309306823,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.6,
-          "alternative": 6.6
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.07,
-        "dribbleValueNormalized": 0.03,
-        "defensiveValueNormalized": -0.03,
-        "metersCoveredRunningKm": 0.65,
-        "metersCoveredHighSpeedRunningKm": 0.09,
-        "metersCoveredSprintingKm": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12437492": {
     "id": 12437492,
     "match_info": {
@@ -13399,6 +13276,132 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Alejandro Rego Mora",
+        "firstName": "Alejandro",
+        "lastName": "Rego Mora",
+        "slug": "alejandro-rego-mora",
+        "shortName": "A. Rego Mora",
+        "position": "M",
+        "jerseyNumber": "30",
+        "height": 192,
+        "userCount": 686,
+        "gender": "M",
+        "sofascoreId": "kvti4q",
+        "id": 2110897,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1055289600,
+        "proposedMarketValueRaw": {
+          "value": 5500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أليخاندرو ريجو مورا",
+            "ru": "Алехандро Рего Мора"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. مورا",
+            "ru": "А. Мора"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 524413,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 15,
+        "accuratePass": 14,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 10,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "minutesPlayed": 30,
+        "touches": 17,
+        "rating": 6.6,
+        "possessionLostCtrl": 2,
+        "expectedAssists": 0.00340621,
+        "topSpeed": 24.68,
+        "kilometersCovered": 3.54,
+        "numberOfSprints": 0,
+        "totalBallCarriesDistance": 39.20158545533,
+        "ballCarriesCount": 4,
+        "totalProgression": 22.184309306823,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.07,
+        "dribbleValueNormalized": 0.03,
+        "defensiveValueNormalized": -0.03,
+        "metersCoveredRunningKm": 0.65,
+        "metersCoveredHighSpeedRunningKm": 0.09,
+        "metersCoveredSprintingKm": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
     }
   }
 }

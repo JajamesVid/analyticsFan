@@ -3676,142 +3676,6 @@
       "extra": null
     }
   },
-  "14083710": {
-    "id": 14083710,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Betis",
-        "shortName": "Real Betis",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "awayTeam": {
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "color": "#0e3b68",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "levante-ud-real-betis"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Marc Roca",
-        "firstName": "Marc",
-        "lastName": "Roca",
-        "slug": "marc-roca",
-        "shortName": "M. Roca",
-        "position": "M",
-        "jerseyNumber": "21",
-        "height": 184,
-        "userCount": 1547,
-        "gender": "M",
-        "id": 847128,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 848966400,
-        "proposedMarketValueRaw": {
-          "value": 4200000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "مارك روكا",
-            "bn": "মার্ক রোকা",
-            "hi": "मार्क रोका",
-            "ru": "Марс Рока"
-          },
-          "shortNameTranslation": {
-            "ar": "م. روكا",
-            "bn": "এম. রোকা",
-            "hi": "एम. रोका",
-            "ru": "М. Рока"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Betis",
-        "slug": "real-betis",
-        "shortName": "Real Betis",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 600173,
-        "nameCode": "BET",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2816,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#006633",
-          "text": "#006633"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال بيتيس",
-            "ru": "Реал Бетис"
-          },
-          "shortNameTranslation": {
-            "ar": "ريال بيتيس",
-            "bn": "বেটিস",
-            "hi": "बेटिस"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 84,
-        "accuratePass": 78,
-        "totalLongBalls": 4,
-        "accurateLongBalls": 4,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 48,
-        "totalOwnHalfPasses": 51,
-        "accurateOppositionHalfPasses": 30,
-        "totalOppositionHalfPasses": 33,
-        "duelLost": 2,
-        "duelWon": 2,
-        "onTargetScoringAttempt": 2,
-        "blockedScoringAttempt": 1,
-        "totalClearance": 1,
-        "outfielderBlock": 1,
-        "ballRecovery": 3,
-        "totalTackle": 1,
-        "unsuccessfulTouch": 1,
-        "wasFouled": 1,
-        "fouls": 2,
-        "minutesPlayed": 90,
-        "touches": 94,
-        "rating": 6.9,
-        "possessionLostCtrl": 7,
-        "expectedGoals": 0.0724,
-        "expectedGoalsOnTarget": 0.0896,
-        "expectedAssists": 0.016731,
-        "totalBallCarriesDistance": 197.9859379522,
-        "ballCarriesCount": 30,
-        "totalProgression": 73.814457901882,
-        "progressiveBallCarriesCount": 0,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 6.9,
-          "alternative": 7.3
-        },
-        "totalShots": 3,
-        "shotValueNormalized": -0.14,
-        "passValueNormalized": 0.16,
-        "dribbleValueNormalized": 0.18,
-        "defensiveValueNormalized": -0.04,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12437828": {
     "id": 12437828,
     "match_info": {
@@ -23612,6 +23476,149 @@
         "rating": 6.4,
         "possessionLostCtrl": 1,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083710": {
+    "id": 14083710,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "levante-ud-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Marc Roca",
+        "firstName": "Marc",
+        "lastName": "Roca",
+        "slug": "marc-roca",
+        "shortName": "M. Roca",
+        "position": "M",
+        "jerseyNumber": "21",
+        "height": 184,
+        "userCount": 1603,
+        "gender": "M",
+        "sofascoreId": "5xcimz",
+        "id": 847128,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 848966400,
+        "proposedMarketValueRaw": {
+          "value": 4200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مارك روكا",
+            "bn": "মার্ক রোকা",
+            "hi": "मार्क रोका",
+            "ru": "Марс Рока"
+          },
+          "shortNameTranslation": {
+            "ar": "م. روكا",
+            "bn": "এম. রোকা",
+            "hi": "एम. रोका",
+            "ru": "М. Рока"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Betis",
+        "slug": "real-betis",
+        "shortName": "Real Betis",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 609007,
+        "nameCode": "BET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2816,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#006633",
+          "text": "#006633"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال بيتيس",
+            "ru": "Реал Бетис"
+          },
+          "shortNameTranslation": {
+            "ar": "ريال بيتيس",
+            "bn": "বেটিস",
+            "hi": "बेटिस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 84,
+        "accuratePass": 78,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 48,
+        "totalOwnHalfPasses": 51,
+        "accurateOppositionHalfPasses": 30,
+        "totalOppositionHalfPasses": 33,
+        "duelLost": 2,
+        "duelWon": 2,
+        "onTargetScoringAttempt": 2,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 1,
+        "outfielderBlock": 1,
+        "ballRecovery": 3,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 94,
+        "rating": 6.9,
+        "possessionLostCtrl": 7,
+        "expectedGoals": 0.0724,
+        "expectedGoalsOnTarget": 0.0896,
+        "expectedAssists": 0.016731,
+        "topSpeed": 28.77,
+        "kilometersCovered": 11,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 197.9859379522,
+        "ballCarriesCount": 30,
+        "totalProgression": 73.814457901882,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 7.3
+        },
+        "totalShots": 3,
+        "shotValueNormalized": -0.14,
+        "passValueNormalized": 0.16,
+        "dribbleValueNormalized": 0.18,
+        "defensiveValueNormalized": -0.04,
+        "metersCoveredRunningKm": 1.88,
+        "metersCoveredHighSpeedRunningKm": 0.5,
+        "metersCoveredSprintingKm": 0.11,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

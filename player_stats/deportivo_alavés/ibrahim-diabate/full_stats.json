@@ -2592,8 +2592,7 @@
           "score": 2
         },
         "startTimestamp": 1779562800,
-        "slug": "deportivo-alaves-rayo-vallecano",
-        "fecha_normalizada": "2026-05-23"
+        "slug": "deportivo-alaves-rayo-vallecano"
       },
       "player_stats": {
         "player": {
@@ -2603,10 +2602,11 @@
           "slug": "ibrahim-diabate",
           "shortName": "I. Diabaté",
           "position": "F",
-          "jerseyNumber": "22",
+          "jerseyNumber": "19",
           "height": 185,
-          "userCount": 2426,
+          "userCount": 2358,
           "gender": "M",
+          "sofascoreId": "vu57ut",
           "id": 1084043,
           "marketValueCurrency": "EUR",
           "dateOfBirthTimestamp": 942796800,
@@ -2616,10 +2616,12 @@
           },
           "fieldTranslations": {
             "nameTranslation": {
-              "ar": "إبراهيم دياباتيه"
+              "ar": "إبراهيم دياباتيه",
+              "ru": "Ибрагим Диабате"
             },
             "shortNameTranslation": {
-              "ar": "إ. دياباتيه"
+              "ar": "إ. دياباتيه",
+              "ru": "И. Диабате"
             }
           }
         },
@@ -2633,7 +2635,7 @@
             "slug": "football",
             "id": 1
           },
-          "userCount": 152876,
+          "userCount": 154032,
           "nameCode": "ALA",
           "disabled": false,
           "national": false,
@@ -2673,6 +2675,9 @@
           "possessionLostCtrl": 3,
           "expectedGoals": 0.0807,
           "expectedAssists": 0.00278261,
+          "topSpeed": 27.81,
+          "kilometersCovered": 1.27,
+          "numberOfSprints": 1,
           "totalBallCarriesDistance": 29.890417607914,
           "ballCarriesCount": 4,
           "totalProgression": 0.92554012050723,
@@ -2688,6 +2693,9 @@
           "passValueNormalized": -0.07,
           "dribbleValueNormalized": -0.04,
           "defensiveValueNormalized": 0,
+          "metersCoveredRunningKm": 0.2,
+          "metersCoveredHighSpeedRunningKm": 0.1,
+          "metersCoveredSprintingKm": 0.01,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

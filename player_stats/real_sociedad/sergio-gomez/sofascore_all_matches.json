@@ -3730,143 +3730,6 @@
       "extra": null
     }
   },
-  "14083719": {
-    "id": 14083719,
-    "match_info": {
-      "homeTeam": {
-        "name": "Espanyol",
-        "shortName": "Espanyol",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Real Sociedad",
-        "shortName": "Real Sociedad",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-sociedad-espanyol"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Sergio Gómez",
-        "firstName": "Sergio",
-        "lastName": "Gomez",
-        "slug": "sergio-gomez",
-        "shortName": "S. Gómez",
-        "position": "D",
-        "jerseyNumber": "17",
-        "height": 171,
-        "userCount": 4544,
-        "gender": "M",
-        "sofascoreId": "sergiogm_10",
-        "id": 855835,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 968025600,
-        "proposedMarketValueRaw": {
-          "value": 14600000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "سيرجيو غوميز",
-            "bn": "সার্জিও গোমেজ",
-            "hi": "सर्जियो गोमेज़",
-            "ru": "Серхио Гомес"
-          },
-          "shortNameTranslation": {
-            "ar": "س. غوميز",
-            "bn": "এস. গোমেজ",
-            "hi": "एस. गोमेज़",
-            "ru": "С. Гомес"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Sociedad",
-        "slug": "real-sociedad",
-        "shortName": "Real Sociedad",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 413040,
-        "nameCode": "RSO",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2824,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#0077c7",
-          "text": "#0077c7"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال سوسيداد",
-            "bn": "রিয়াল সোসিয়েদাদ",
-            "hi": "रियल सोसियदाद",
-            "ru": "Реал Сосьедад"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 34,
-        "accuratePass": 27,
-        "totalLongBalls": 7,
-        "accurateLongBalls": 3,
-        "goalAssist": 1,
-        "accurateOwnHalfPasses": 14,
-        "totalOwnHalfPasses": 17,
-        "accurateOppositionHalfPasses": 13,
-        "totalOppositionHalfPasses": 17,
-        "totalCross": 4,
-        "accurateCross": 1,
-        "duelLost": 2,
-        "duelWon": 2,
-        "bigChanceCreated": 1,
-        "totalClearance": 4,
-        "interceptionWon": 1,
-        "ballRecovery": 3,
-        "totalTackle": 1,
-        "wonTackle": 1,
-        "errorLeadToAGoal": 1,
-        "unsuccessfulTouch": 2,
-        "wasFouled": 1,
-        "fouls": 2,
-        "minutesPlayed": 68,
-        "touches": 57,
-        "rating": 6.8,
-        "possessionLostCtrl": 14,
-        "expectedAssists": 0.368321,
-        "totalBallCarriesDistance": 41.440358507205,
-        "ballCarriesCount": 7,
-        "totalProgression": 22.043299416404,
-        "bestBallCarryProgression": 13.538510016035,
-        "totalProgressiveBallCarriesDistance": 15.329737897303,
-        "progressiveBallCarriesCount": 1,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 6.8,
-          "alternative": 6.5
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.69,
-        "dribbleValueNormalized": 0.09,
-        "defensiveValueNormalized": -0.48,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "16186149": {
     "id": 16186149,
     "match_info": {
@@ -23427,6 +23290,149 @@
         }
       },
       "position": "M",
+      "extra": null
+    }
+  },
+  "14083719": {
+    "id": 14083719,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-sociedad-espanyol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Sergio Gómez",
+        "firstName": "Sergio",
+        "lastName": "Gomez",
+        "slug": "sergio-gomez",
+        "shortName": "S. Gómez",
+        "position": "D",
+        "jerseyNumber": "17",
+        "height": 171,
+        "userCount": 4600,
+        "gender": "M",
+        "sofascoreId": "sergiogm_10",
+        "id": 855835,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 968025600,
+        "proposedMarketValueRaw": {
+          "value": 14600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيرجيو غوميز",
+            "bn": "সার্জিও গোমেজ",
+            "hi": "सर्जियो गोमेज़",
+            "ru": "Серхио Гомес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. غوميز",
+            "bn": "এস. গোমেজ",
+            "hi": "एस. गोमेज़",
+            "ru": "С. Гомес"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 417327,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 34,
+        "accuratePass": 27,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 3,
+        "goalAssist": 1,
+        "accurateOwnHalfPasses": 14,
+        "totalOwnHalfPasses": 17,
+        "accurateOppositionHalfPasses": 13,
+        "totalOppositionHalfPasses": 17,
+        "totalCross": 4,
+        "accurateCross": 1,
+        "duelLost": 2,
+        "duelWon": 2,
+        "bigChanceCreated": 1,
+        "totalClearance": 4,
+        "interceptionWon": 1,
+        "ballRecovery": 3,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "errorLeadToAGoal": 1,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "fouls": 2,
+        "minutesPlayed": 68,
+        "touches": 57,
+        "rating": 6.8,
+        "possessionLostCtrl": 14,
+        "expectedAssists": 0.368321,
+        "topSpeed": 32.66,
+        "kilometersCovered": 6.88,
+        "numberOfSprints": 9,
+        "totalBallCarriesDistance": 41.440358507205,
+        "ballCarriesCount": 7,
+        "totalProgression": 22.043299416404,
+        "bestBallCarryProgression": 13.538510016035,
+        "totalProgressiveBallCarriesDistance": 15.329737897303,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.69,
+        "dribbleValueNormalized": 0.09,
+        "defensiveValueNormalized": -0.48,
+        "metersCoveredRunningKm": 1.04,
+        "metersCoveredHighSpeedRunningKm": 0.17,
+        "metersCoveredSprintingKm": 0.16,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
       "extra": null
     }
   }

@@ -3713,100 +3713,6 @@
       "extra": null
     }
   },
-  "14083706": {
-    "id": 14083706,
-    "match_info": {
-      "homeTeam": {
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "color": "#0232a0",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Rayo Vallecano",
-        "shortName": "Rayo Vallecano",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "deportivo-alaves-rayo-vallecano"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Carles Aleñá",
-        "firstName": "Carles",
-        "lastName": "Alena",
-        "slug": "carles-alena",
-        "shortName": "C. Aleñá",
-        "position": "M",
-        "jerseyNumber": "10",
-        "height": 180,
-        "userCount": 1642,
-        "gender": "M",
-        "id": 794937,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 883958400,
-        "proposedMarketValueRaw": {
-          "value": 3300000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "كارليس ألينيا",
-            "bn": "কার্লেস আলেনা",
-            "hi": "कार्ल्स एलेना"
-          },
-          "shortNameTranslation": {
-            "ar": "ك. ألينيا",
-            "bn": "সি. আলেনা",
-            "hi": "सी. एलेना"
-          }
-        }
-      },
-      "team": {
-        "name": "Deportivo Alavés",
-        "slug": "deportivo-alaves",
-        "shortName": "Alavés",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 152876,
-        "nameCode": "ALA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2885,
-        "teamColors": {
-          "primary": "#0232a0",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ديبورتيفو ألافيس",
-            "ru": "Алавес"
-          },
-          "shortNameTranslation": {
-            "ar": "ألافيس",
-            "bn": "আলাভেস",
-            "hi": "अलावेस"
-          }
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12437552": {
     "id": 12437552,
     "match_info": {
@@ -22695,6 +22601,103 @@
         "rating": 6.5,
         "possessionLostCtrl": 8,
         "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083706": {
+    "id": 14083706,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "deportivo-alaves-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Carles Aleñá",
+        "firstName": "Carles",
+        "lastName": "Alena",
+        "slug": "carles-alena",
+        "shortName": "C. Aleñá",
+        "position": "M",
+        "jerseyNumber": "10",
+        "height": 180,
+        "userCount": 1745,
+        "gender": "M",
+        "sofascoreId": "b53yaq",
+        "id": 794937,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 883958400,
+        "proposedMarketValueRaw": {
+          "value": 2800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارليس ألينيا",
+            "bn": "কার্লেস আলেনা",
+            "hi": "कार्ल्स एलेना",
+            "ru": "Карлес Аленья"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. ألينيا",
+            "bn": "সি. আলেনা",
+            "hi": "सी. एलेना",
+            "ru": "К. Аленья"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 154032,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

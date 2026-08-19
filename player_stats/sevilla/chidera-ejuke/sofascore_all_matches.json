@@ -3132,136 +3132,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Chidera Ejuke",
-        "firstName": "",
-        "lastName": "",
-        "slug": "chidera-ejuke",
-        "shortName": "C. Ejuke",
-        "position": "F",
-        "jerseyNumber": "21",
-        "height": 176,
-        "userCount": 3281,
-        "gender": "M",
-        "id": 875890,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 883699200,
-        "proposedMarketValueRaw": {
-          "value": 3700000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "تشيديرا إيجوكي",
-            "bn": "চিদের এজুকে",
-            "hi": "चिडेरा एजुके",
-            "ru": "Чидера Эджук"
-          },
-          "shortNameTranslation": {
-            "ar": "ت. إيجوكي",
-            "bn": "সি. এজুকে",
-            "hi": "सी. एजुके",
-            "ru": "Ч. Эджук"
-          }
-        }
-      },
-      "team": {
-        "name": "Sevilla",
-        "slug": "sevilla",
-        "shortName": "Sevilla",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 400830,
-        "nameCode": "SEV",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2833,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#cc1020",
-          "text": "#cc1020"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إشبيلية",
-            "bn": "সেভিলা",
-            "hi": "सेविला",
-            "ru": "Cевилья"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 5,
-        "accuratePass": 5,
-        "totalLongBalls": 1,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOppositionHalfPasses": 5,
-        "totalOppositionHalfPasses": 5,
-        "totalCross": 1,
-        "accurateCross": 1,
-        "aerialLost": 1,
-        "duelLost": 1,
-        "duelWon": 1,
-        "totalContest": 1,
-        "wonContest": 1,
-        "ballRecovery": 1,
-        "minutesPlayed": 13,
-        "touches": 7,
-        "rating": 6.6,
-        "expectedAssists": 0.00595443,
-        "topSpeed": 32.41,
-        "kilometersCovered": 1.73,
-        "numberOfSprints": 2,
-        "totalBallCarriesDistance": 27.211990873788,
-        "ballCarriesCount": 3,
-        "totalProgression": 9.4876116315723,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.6,
-          "alternative": 6.7
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.04,
-        "dribbleValueNormalized": 0,
-        "defensiveValueNormalized": 0.13,
-        "metersCoveredRunningKm": 0.24,
-        "metersCoveredHighSpeedRunningKm": 0.04,
-        "metersCoveredSprintingKm": 0.06,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12437517": {
     "id": 12437517,
     "match_info": {
@@ -21761,6 +21631,137 @@
         "rating": 6.2,
         "possessionLostCtrl": 16,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Chidera Ejuke",
+        "firstName": "",
+        "lastName": "",
+        "slug": "chidera-ejuke",
+        "shortName": "C. Ejuke",
+        "position": "F",
+        "jerseyNumber": "21",
+        "height": 176,
+        "userCount": 3314,
+        "gender": "M",
+        "sofascoreId": "nu2ycx",
+        "id": 875890,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 883699200,
+        "proposedMarketValueRaw": {
+          "value": 3700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "تشيديرا إيجوكي",
+            "bn": "চিদের এজুকে",
+            "hi": "चिडेरा एजुके",
+            "ru": "Чидера Эджук"
+          },
+          "shortNameTranslation": {
+            "ar": "ت. إيجوكي",
+            "bn": "সি. এজুকে",
+            "hi": "सी. एजुके",
+            "ru": "Ч. Эджук"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 405935,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Cевилья"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 5,
+        "accuratePass": 5,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 5,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "aerialLost": 1,
+        "duelLost": 1,
+        "duelWon": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "ballRecovery": 1,
+        "minutesPlayed": 13,
+        "touches": 7,
+        "rating": 6.6,
+        "expectedAssists": 0.00595443,
+        "topSpeed": 32.41,
+        "kilometersCovered": 1.73,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 27.211990873788,
+        "ballCarriesCount": 3,
+        "totalProgression": 9.4876116315723,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.04,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": 0.13,
+        "metersCoveredRunningKm": 0.24,
+        "metersCoveredHighSpeedRunningKm": 0.04,
+        "metersCoveredSprintingKm": 0.06,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

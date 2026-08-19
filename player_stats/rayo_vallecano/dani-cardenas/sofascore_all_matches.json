@@ -2812,133 +2812,6 @@
       "extra": null
     }
   },
-  "14083706": {
-    "id": 14083706,
-    "match_info": {
-      "homeTeam": {
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "color": "#0232a0",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Rayo Vallecano",
-        "shortName": "Rayo Vallecano",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "deportivo-alaves-rayo-vallecano"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Dani Cárdenas",
-        "firstName": "",
-        "lastName": "",
-        "slug": "dani-cardenas",
-        "shortName": "D. Cárdenas",
-        "position": "G",
-        "jerseyNumber": "1",
-        "height": 185,
-        "userCount": 259,
-        "gender": "M",
-        "id": 965832,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 859507200,
-        "proposedMarketValueRaw": {
-          "value": 1700000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "داني كارديناس",
-            "bn": "দানি কার্ডেনাস",
-            "hi": "दानी कार्डेनास",
-            "ru": "Дани Кардена"
-          },
-          "shortNameTranslation": {
-            "ar": "د. كارديناس",
-            "bn": "ডি. কার্ডেনাস",
-            "hi": "डी. कार्डेनास",
-            "ru": "Д. Кардена"
-          }
-        }
-      },
-      "team": {
-        "name": "Rayo Vallecano",
-        "slug": "rayo-vallecano",
-        "shortName": "Rayo Vallecano",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 227407,
-        "nameCode": "RAY",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2818,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "رايو فاليكانو",
-            "bn": "রায়ো ভ্যালেকানো",
-            "hi": "रेयो वैलेकैनो",
-            "ru": "Райо Вальекано"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 30,
-        "accuratePass": 24,
-        "totalLongBalls": 13,
-        "accurateLongBalls": 7,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 20,
-        "totalOwnHalfPasses": 21,
-        "accurateOppositionHalfPasses": 4,
-        "totalOppositionHalfPasses": 9,
-        "totalClearance": 2,
-        "ballRecovery": 13,
-        "savedShotsFromInsideTheBox": 5,
-        "saves": 10,
-        "punches": 1,
-        "minutesPlayed": 90,
-        "touches": 50,
-        "rating": 8.7,
-        "possessionLostCtrl": 7,
-        "expectedAssists": 0.00103197,
-        "totalBallCarriesDistance": 68.694793508877,
-        "ballCarriesCount": 12,
-        "totalProgression": 35.650253492282,
-        "progressiveBallCarriesCount": 0,
-        "keeperSaveValue": 1.2834,
-        "ratingVersions": {
-          "original": 8.7,
-          "alternative": 9
-        },
-        "totalShots": 0,
-        "goalsPrevented": 1.7084,
-        "passValueNormalized": 0.13,
-        "dribbleValueNormalized": -0.05,
-        "defensiveValueNormalized": 0.25,
-        "goalkeeperValueNormalized": 0.87,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "G",
-      "extra": null
-    }
-  },
   "15632649": {
     "id": 15632649,
     "match_info": {
@@ -20595,6 +20468,134 @@
         "rating": 6.1,
         "possessionLostCtrl": 12,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083706": {
+    "id": 14083706,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "deportivo-alaves-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Dani Cárdenas",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dani-cardenas",
+        "shortName": "D. Cárdenas",
+        "position": "G",
+        "jerseyNumber": "1",
+        "height": 185,
+        "userCount": 256,
+        "gender": "M",
+        "sofascoreId": "ekkzwc",
+        "id": 965832,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 859507200,
+        "proposedMarketValueRaw": {
+          "value": 1700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "داني كارديناس",
+            "bn": "দানি কার্ডেনাস",
+            "hi": "दानी कार्डेनास",
+            "ru": "Дани Кардена"
+          },
+          "shortNameTranslation": {
+            "ar": "د. كارديناس",
+            "bn": "ডি. কার্ডেনাস",
+            "hi": "डी. कार्डेनास",
+            "ru": "Д. Кардена"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 227211,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 30,
+        "accuratePass": 24,
+        "totalLongBalls": 13,
+        "accurateLongBalls": 7,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 20,
+        "totalOwnHalfPasses": 21,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 9,
+        "totalClearance": 2,
+        "ballRecovery": 13,
+        "savedShotsFromInsideTheBox": 5,
+        "saves": 10,
+        "punches": 1,
+        "minutesPlayed": 90,
+        "touches": 50,
+        "rating": 8.7,
+        "possessionLostCtrl": 7,
+        "expectedAssists": 0.00103197,
+        "totalBallCarriesDistance": 68.694793508877,
+        "ballCarriesCount": 12,
+        "totalProgression": 35.650253492282,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 1.2834,
+        "ratingVersions": {
+          "original": 8.7,
+          "alternative": 9
+        },
+        "totalShots": 0,
+        "goalsPrevented": 1.7084,
+        "passValueNormalized": 0.13,
+        "dribbleValueNormalized": -0.05,
+        "defensiveValueNormalized": 0.25,
+        "goalkeeperValueNormalized": 0.87,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

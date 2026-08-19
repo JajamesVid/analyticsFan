@@ -2839,128 +2839,6 @@
       "extra": null
     }
   },
-  "14083719": {
-    "id": 14083719,
-    "match_info": {
-      "homeTeam": {
-        "name": "Espanyol",
-        "shortName": "Espanyol",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Real Sociedad",
-        "shortName": "Real Sociedad",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-sociedad-espanyol"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Antoniu Roca",
-        "slug": "antoniu-roca",
-        "shortName": "A. Roca",
-        "position": "M",
-        "jerseyNumber": "20",
-        "height": 180,
-        "userCount": 193,
-        "gender": "M",
-        "id": 1099344,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1031184000,
-        "proposedMarketValueRaw": {
-          "value": 1600000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أنتونيو روكا",
-            "ru": "Антониу Рока"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. روكا",
-            "ru": "А. Рока"
-          }
-        }
-      },
-      "team": {
-        "name": "Espanyol",
-        "slug": "espanyol",
-        "shortName": "Espanyol",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 183240,
-        "nameCode": "ESP",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2814,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#1369d2",
-          "text": "#1369d2"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "اسبانيول",
-            "bn": "এসপানিওল",
-            "hi": "एस्पेनयोल",
-            "ru": "Эспаньол"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 5,
-        "accuratePass": 3,
-        "goalAssist": 0,
-        "accurateOppositionHalfPasses": 3,
-        "totalOppositionHalfPasses": 5,
-        "duelLost": 6,
-        "duelWon": 1,
-        "challengeLost": 1,
-        "dispossessed": 2,
-        "totalContest": 2,
-        "wonContest": 1,
-        "onTargetScoringAttempt": 1,
-        "ballRecovery": 1,
-        "unsuccessfulTouch": 2,
-        "fouls": 2,
-        "minutesPlayed": 45,
-        "touches": 12,
-        "rating": 6.1,
-        "possessionLostCtrl": 7,
-        "expectedGoals": 0.0119,
-        "expectedGoalsOnTarget": 0.0361,
-        "expectedAssists": 0.00111198,
-        "totalBallCarriesDistance": 6.0594356997991,
-        "ballCarriesCount": 1,
-        "totalProgression": -5.358698912486,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.1,
-          "alternative": 6.3
-        },
-        "totalShots": 1,
-        "shotValueNormalized": 0.01,
-        "passValueNormalized": -0.01,
-        "dribbleValueNormalized": -0.37,
-        "defensiveValueNormalized": -0.11,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12437821": {
     "id": 12437821,
     "match_info": {
@@ -9758,6 +9636,135 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083719": {
+    "id": 14083719,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-sociedad-espanyol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Antoniu Roca",
+        "slug": "antoniu-roca",
+        "shortName": "A. Roca",
+        "position": "M",
+        "jerseyNumber": "15",
+        "height": 180,
+        "userCount": 219,
+        "gender": "M",
+        "sofascoreId": "snzrve",
+        "id": 1099344,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1031184000,
+        "proposedMarketValueRaw": {
+          "value": 1600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنتونيو روكا",
+            "ru": "Антониу Рока"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. روكا",
+            "ru": "А. Рока"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 184894,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 5,
+        "accuratePass": 3,
+        "goalAssist": 0,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 5,
+        "duelLost": 6,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "dispossessed": 2,
+        "totalContest": 2,
+        "wonContest": 1,
+        "onTargetScoringAttempt": 1,
+        "ballRecovery": 1,
+        "unsuccessfulTouch": 2,
+        "fouls": 2,
+        "minutesPlayed": 45,
+        "touches": 12,
+        "rating": 6.1,
+        "possessionLostCtrl": 7,
+        "expectedGoals": 0.0119,
+        "expectedGoalsOnTarget": 0.0361,
+        "expectedAssists": 0.00111198,
+        "topSpeed": 29.26,
+        "kilometersCovered": 5.07,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 6.0594356997991,
+        "ballCarriesCount": 1,
+        "totalProgression": -5.358698912486,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.1,
+          "alternative": 6.3
+        },
+        "totalShots": 1,
+        "shotValueNormalized": 0.01,
+        "passValueNormalized": -0.01,
+        "dribbleValueNormalized": -0.37,
+        "defensiveValueNormalized": -0.11,
+        "metersCoveredRunningKm": 0.78,
+        "metersCoveredHighSpeedRunningKm": 0.21,
+        "metersCoveredSprintingKm": 0.07,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
     }
   }
 }

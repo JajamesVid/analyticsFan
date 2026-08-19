@@ -2674,8 +2674,7 @@
           "score": 1
         },
         "startTimestamp": 1779562800,
-        "slug": "levante-ud-real-betis",
-        "fecha_normalizada": "2026-05-23"
+        "slug": "levante-ud-real-betis"
       },
       "player_stats": {
         "player": {
@@ -2685,8 +2684,9 @@
           "position": "F",
           "jerseyNumber": "55",
           "height": 177,
-          "userCount": 633,
+          "userCount": 651,
           "gender": "M",
+          "sofascoreId": "td4x2h",
           "id": 1160250,
           "marketValueCurrency": "EUR",
           "dateOfBirthTimestamp": 1091491200,
@@ -2715,7 +2715,7 @@
             "slug": "football",
             "id": 1
           },
-          "userCount": 116374,
+          "userCount": 117899,
           "nameCode": "LEV",
           "disabled": false,
           "national": false,
@@ -2728,7 +2728,7 @@
           },
           "fieldTranslations": {
             "nameTranslation": {
-              "ar": "ليفانتي يو دي",
+              "ar": "ليفانتي",
               "hi": "लेवांटे यूडी",
               "ru": "Леванте"
             },
@@ -2767,6 +2767,9 @@
           "expectedGoals": 0.231,
           "expectedGoalsOnTarget": 0.4192,
           "expectedAssists": 0.119778,
+          "topSpeed": 33.63,
+          "kilometersCovered": 5.47,
+          "numberOfSprints": 7,
           "totalBallCarriesDistance": 75.21735721901,
           "ballCarriesCount": 8,
           "totalProgression": 44.276281525509,
@@ -2783,6 +2786,9 @@
           "passValueNormalized": 0.07,
           "dribbleValueNormalized": 0.28,
           "defensiveValueNormalized": -0.02,
+          "metersCoveredRunningKm": 0.99,
+          "metersCoveredHighSpeedRunningKm": 0.33,
+          "metersCoveredSprintingKm": 0.14,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

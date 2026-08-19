@@ -3844,149 +3844,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "José Ángel Carmona",
-        "firstName": "",
-        "lastName": "",
-        "slug": "jose-angel-carmona",
-        "shortName": "J. Á. Carmona",
-        "position": "D",
-        "jerseyNumber": "2",
-        "height": 183,
-        "userCount": 1057,
-        "gender": "M",
-        "id": 1015240,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1012262400,
-        "proposedMarketValueRaw": {
-          "value": 11100000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "خوسيه أنخيل كارمونا",
-            "bn": "হোসে অ্যাঞ্জেল কারমোনা",
-            "hi": "जोस एंजेल कार्मोना",
-            "ru": "Хосе Анхель Кармона"
-          },
-          "shortNameTranslation": {
-            "ar": "خ. كارمونا",
-            "bn": "জে. এ. কারমোনা",
-            "hi": "जे.ए. कार्मोना",
-            "ru": "Х. Кармона"
-          }
-        }
-      },
-      "team": {
-        "name": "Sevilla",
-        "slug": "sevilla",
-        "shortName": "Sevilla",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 400830,
-        "nameCode": "SEV",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2833,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#cc1020",
-          "text": "#cc1020"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إشبيلية",
-            "bn": "সেভিলা",
-            "hi": "सेविला",
-            "ru": "Cевилья"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 40,
-        "accuratePass": 35,
-        "totalLongBalls": 4,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 15,
-        "totalOwnHalfPasses": 16,
-        "accurateOppositionHalfPasses": 20,
-        "totalOppositionHalfPasses": 24,
-        "totalCross": 5,
-        "accurateCross": 2,
-        "aerialWon": 1,
-        "duelLost": 4,
-        "duelWon": 4,
-        "challengeLost": 2,
-        "dispossessed": 1,
-        "totalContest": 1,
-        "wonContest": 1,
-        "bigChanceCreated": 1,
-        "interceptionWon": 2,
-        "ballRecovery": 6,
-        "totalTackle": 1,
-        "unsuccessfulTouch": 1,
-        "wasFouled": 1,
-        "fouls": 1,
-        "minutesPlayed": 90,
-        "touches": 59,
-        "rating": 6.9,
-        "possessionLostCtrl": 11,
-        "expectedAssists": 0.431319,
-        "topSpeed": 31.39,
-        "kilometersCovered": 10.33,
-        "numberOfSprints": 19,
-        "totalBallCarriesDistance": 242.56441477747,
-        "ballCarriesCount": 19,
-        "totalProgression": 168.57262734459,
-        "bestBallCarryProgression": 29.844299962723,
-        "totalProgressiveBallCarriesDistance": 135.17290388399,
-        "progressiveBallCarriesCount": 6,
-        "keyPass": 2,
-        "ratingVersions": {
-          "original": 6.9,
-          "alternative": 7
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.39,
-        "dribbleValueNormalized": 0.29,
-        "defensiveValueNormalized": -0.24,
-        "metersCoveredRunningKm": 1.6,
-        "metersCoveredHighSpeedRunningKm": 0.53,
-        "metersCoveredSprintingKm": 0.32,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437867": {
     "id": 12437867,
     "match_info": {
@@ -20732,6 +20589,150 @@
       },
       "statistics": {
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "José Ángel Carmona",
+        "firstName": "",
+        "lastName": "",
+        "slug": "jose-angel-carmona",
+        "shortName": "J. Á. Carmona",
+        "position": "D",
+        "jerseyNumber": "2",
+        "height": 183,
+        "userCount": 1078,
+        "gender": "M",
+        "sofascoreId": "ekrjz9",
+        "id": 1015240,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1012262400,
+        "proposedMarketValueRaw": {
+          "value": 11100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوسيه أنخيل كارمونا",
+            "bn": "হোসে অ্যাঞ্জেল কারমোনা",
+            "hi": "जोस एंजेल कार्मोना",
+            "ru": "Хосе Анхель Кармона"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. كارمونا",
+            "bn": "জে. এ. কারমোনা",
+            "hi": "जे.ए. कार्मोना",
+            "ru": "Х. Кармона"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 405935,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Cевилья"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 40,
+        "accuratePass": 35,
+        "totalLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 15,
+        "totalOwnHalfPasses": 16,
+        "accurateOppositionHalfPasses": 20,
+        "totalOppositionHalfPasses": 24,
+        "totalCross": 5,
+        "accurateCross": 2,
+        "aerialWon": 1,
+        "duelLost": 4,
+        "duelWon": 4,
+        "challengeLost": 2,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "bigChanceCreated": 1,
+        "interceptionWon": 2,
+        "ballRecovery": 6,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 59,
+        "rating": 6.9,
+        "possessionLostCtrl": 11,
+        "expectedAssists": 0.431319,
+        "topSpeed": 31.39,
+        "kilometersCovered": 10.33,
+        "numberOfSprints": 19,
+        "totalBallCarriesDistance": 242.56441477747,
+        "ballCarriesCount": 19,
+        "totalProgression": 168.57262734459,
+        "bestBallCarryProgression": 29.844299962723,
+        "totalProgressiveBallCarriesDistance": 135.17290388399,
+        "progressiveBallCarriesCount": 6,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.39,
+        "dribbleValueNormalized": 0.29,
+        "defensiveValueNormalized": -0.24,
+        "metersCoveredRunningKm": 1.6,
+        "metersCoveredHighSpeedRunningKm": 0.53,
+        "metersCoveredSprintingKm": 0.32,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

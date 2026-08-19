@@ -2996,100 +2996,6 @@
       "extra": null
     }
   },
-  "14083710": {
-    "id": 14083710,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Betis",
-        "shortName": "Real Betis",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "awayTeam": {
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "color": "#0e3b68",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "levante-ud-real-betis"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Pau López",
-        "slug": "pau-lopez",
-        "shortName": "P. López",
-        "position": "G",
-        "jerseyNumber": "25",
-        "height": 189,
-        "userCount": 1406,
-        "gender": "M",
-        "id": 548848,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 787276800,
-        "proposedMarketValueRaw": {
-          "value": 2700000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "باو لوبيز",
-            "bn": "পাউ লোপেজ",
-            "hi": "पाऊ लोपेज़",
-            "ru": "Пау Лопес"
-          },
-          "shortNameTranslation": {
-            "ar": "ب. لوبيز",
-            "bn": "পি. লোপেজ",
-            "hi": "पी. लोपेज़",
-            "ru": "П. Лопес"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Betis",
-        "slug": "real-betis",
-        "shortName": "Real Betis",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 600173,
-        "nameCode": "BET",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2816,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#006633",
-          "text": "#006633"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال بيتيس",
-            "ru": "Реал Бетис"
-          },
-          "shortNameTranslation": {
-            "ar": "ريال بيتيس",
-            "bn": "বেটিস",
-            "hi": "बेटिस"
-          }
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "G",
-      "extra": null
-    }
-  },
   "13295799": {
     "id": 13295799,
     "match_info": {
@@ -22053,6 +21959,100 @@
         "expectedAssists": 0.00130132,
         "totalShots": 0,
         "goalsPrevented": 1.0189,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083710": {
+    "id": 14083710,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "levante-ud-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pau López",
+        "slug": "pau-lopez",
+        "shortName": "P. López",
+        "position": "G",
+        "height": 189,
+        "userCount": 1527,
+        "gender": "M",
+        "sofascoreId": "sh9tw3",
+        "id": 548848,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 787276800,
+        "proposedMarketValueRaw": {
+          "value": 2700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "باو لوبيز",
+            "bn": "পাউ লোপেজ",
+            "hi": "पाऊ लोपेज़",
+            "ru": "Пау Лопес"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. لوبيز",
+            "bn": "পি. লোপেজ",
+            "hi": "पी. लोपेज़",
+            "ru": "П. Лопес"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Betis",
+        "slug": "real-betis",
+        "shortName": "Real Betis",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 609007,
+        "nameCode": "BET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2816,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#006633",
+          "text": "#006633"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال بيتيس",
+            "ru": "Реал Бетис"
+          },
+          "shortNameTranslation": {
+            "ar": "ريال بيتيس",
+            "bn": "বেটিস",
+            "hi": "बेटिस"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

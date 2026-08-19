@@ -2725,126 +2725,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Logan Costa",
-        "firstName": "Logan",
-        "lastName": "Costa",
-        "slug": "logan-costa",
-        "shortName": "L. Costa",
-        "position": "D",
-        "jerseyNumber": "2",
-        "height": 188,
-        "userCount": 1022,
-        "gender": "M",
-        "id": 911853,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 986083200,
-        "proposedMarketValueRaw": {
-          "value": 14600000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "لوجان كوستا",
-            "bn": "লোগান কোস্টা",
-            "hi": "लोगन कोस्टा",
-            "ru": "Логан Коста"
-          },
-          "shortNameTranslation": {
-            "ar": "ل. كوستا",
-            "bn": "এল. কোস্টা",
-            "hi": "एल. कोस्टा",
-            "ru": "Л. Коста"
-          }
-        }
-      },
-      "team": {
-        "name": "Villarreal",
-        "slug": "villarreal",
-        "shortName": "Villarreal",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 461754,
-        "nameCode": "VIL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2819,
-        "teamColors": {
-          "primary": "#ffff00",
-          "secondary": "#013765",
-          "text": "#013765"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فياريال",
-            "bn": "ভিলারিয়াল",
-            "hi": "विल्लारियल",
-            "ru": "Вильярреал"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 14,
-        "accuratePass": 13,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 9,
-        "totalOwnHalfPasses": 10,
-        "accurateOppositionHalfPasses": 4,
-        "totalOppositionHalfPasses": 4,
-        "duelWon": 1,
-        "totalClearance": 1,
-        "totalTackle": 1,
-        "minutesPlayed": 15,
-        "touches": 16,
-        "rating": 6.8,
-        "possessionLostCtrl": 1,
-        "expectedAssists": 0.00152471,
-        "totalBallCarriesDistance": 16.654820726716,
-        "ballCarriesCount": 3,
-        "totalProgression": 0.90483863633794,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.8,
-          "alternative": 6.6
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.02,
-        "dribbleValueNormalized": 0.02,
-        "defensiveValueNormalized": -0.02,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "16130132": {
     "id": 16130132,
     "match_info": {
@@ -19536,6 +19416,133 @@
       },
       "statistics": {
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Logan Costa",
+        "firstName": "Logan",
+        "lastName": "Costa",
+        "slug": "logan-costa",
+        "shortName": "L. Costa",
+        "position": "D",
+        "jerseyNumber": "2",
+        "height": 188,
+        "userCount": 1230,
+        "gender": "M",
+        "sofascoreId": "ww4g9k",
+        "id": 911853,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 986083200,
+        "proposedMarketValueRaw": {
+          "value": 14600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "لوجان كوستا",
+            "bn": "লোগান কোস্টা",
+            "hi": "लोगन कोस्टा",
+            "ru": "Логан Коста"
+          },
+          "shortNameTranslation": {
+            "ar": "ل. كوستا",
+            "bn": "এল. কোস্টা",
+            "hi": "एल. कोस्टा",
+            "ru": "Л. Коста"
+          }
+        }
+      },
+      "team": {
+        "name": "Villarreal",
+        "slug": "villarreal",
+        "shortName": "Villarreal",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 465801,
+        "nameCode": "VIL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2819,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#013765",
+          "text": "#013765"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فياريال",
+            "bn": "ভিলারিয়াল",
+            "hi": "विल्लारियल",
+            "ru": "Вильярреал"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 14,
+        "accuratePass": 13,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 9,
+        "totalOwnHalfPasses": 10,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 4,
+        "duelWon": 1,
+        "totalClearance": 1,
+        "totalTackle": 1,
+        "minutesPlayed": 15,
+        "touches": 16,
+        "rating": 6.8,
+        "possessionLostCtrl": 1,
+        "expectedAssists": 0.00152471,
+        "topSpeed": 27.96,
+        "kilometersCovered": 1.68,
+        "numberOfSprints": 1,
+        "totalBallCarriesDistance": 16.654820726716,
+        "ballCarriesCount": 3,
+        "totalProgression": 0.90483863633794,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.02,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": -0.02,
+        "metersCoveredRunningKm": 0.28,
+        "metersCoveredHighSpeedRunningKm": 0.06,
+        "metersCoveredSprintingKm": 0.03,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

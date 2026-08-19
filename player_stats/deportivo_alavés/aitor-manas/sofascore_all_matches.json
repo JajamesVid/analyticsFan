@@ -2491,97 +2491,6 @@
       "extra": null
     }
   },
-  "14083706": {
-    "id": 14083706,
-    "match_info": {
-      "homeTeam": {
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "color": "#0232a0",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Rayo Vallecano",
-        "shortName": "Rayo Vallecano",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "deportivo-alaves-rayo-vallecano"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Aitor Mañas",
-        "firstName": "Aitor Mañas",
-        "slug": "aitor-manas",
-        "shortName": "A. Mañas",
-        "position": "F",
-        "jerseyNumber": "34",
-        "height": 185,
-        "userCount": 60,
-        "gender": "M",
-        "id": 1639543,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1041724800,
-        "proposedMarketValueRaw": {
-          "value": 570000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أيتور ماناس",
-            "ru": "Аитор Маньяс"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. ماناس",
-            "ru": "А. Маньяс"
-          }
-        }
-      },
-      "team": {
-        "name": "Deportivo Alavés",
-        "slug": "deportivo-alaves",
-        "shortName": "Alavés",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 152876,
-        "nameCode": "ALA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2885,
-        "teamColors": {
-          "primary": "#0232a0",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ديبورتيفو ألافيس",
-            "ru": "Алавес"
-          },
-          "shortNameTranslation": {
-            "ar": "ألافيس",
-            "bn": "আলাভেস",
-            "hi": "अलावेस"
-          }
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "11390244": {
     "id": 11390244,
     "match_info": {
@@ -3399,6 +3308,98 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083706": {
+    "id": 14083706,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "deportivo-alaves-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Aitor Mañas",
+        "firstName": "Aitor Mañas",
+        "slug": "aitor-manas",
+        "shortName": "A. Mañas",
+        "position": "F",
+        "jerseyNumber": "34",
+        "height": 185,
+        "userCount": 67,
+        "gender": "M",
+        "sofascoreId": "xzmzdc",
+        "id": 1639543,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1041724800,
+        "proposedMarketValueRaw": {
+          "value": 570000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أيتور ماناس",
+            "ru": "Аитор Маньяс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. ماناس",
+            "ru": "А. Маньяс"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 154032,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
     }
   }
 }

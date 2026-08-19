@@ -3118,143 +3118,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Thiago Pitarch",
-        "firstName": "Thiago",
-        "lastName": "Pitarch Pinar",
-        "slug": "thiago-pitarch-pinar",
-        "shortName": "T. Pitarch",
-        "position": "M",
-        "jerseyNumber": "8",
-        "height": 179,
-        "userCount": 66647,
-        "gender": "M",
-        "id": 2237795,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1186099200,
-        "proposedMarketValueRaw": {
-          "value": 18200000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "تياغو بيتارش"
-          },
-          "shortNameTranslation": {
-            "ar": "ت. بيتارش"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Madrid",
-        "slug": "real-madrid",
-        "shortName": "Real Madrid",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 7733858,
-        "nameCode": "RMA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2829,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#004996",
-          "text": "#004996"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال مدريد",
-            "bn": "রিয়াল মাদ্রিদ",
-            "hi": "रियल मैड्रिड",
-            "ru": "Реал Мадрид"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 87,
-        "accuratePass": 79,
-        "totalLongBalls": 2,
-        "accurateLongBalls": 1,
-        "goalAssist": 2,
-        "accurateOwnHalfPasses": 54,
-        "totalOwnHalfPasses": 56,
-        "accurateOppositionHalfPasses": 25,
-        "totalOppositionHalfPasses": 31,
-        "aerialLost": 2,
-        "aerialWon": 1,
-        "duelLost": 6,
-        "duelWon": 8,
-        "challengeLost": 2,
-        "dispossessed": 1,
-        "totalContest": 2,
-        "wonContest": 2,
-        "bigChanceCreated": 1,
-        "shotOffTarget": 1,
-        "onTargetScoringAttempt": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 6,
-        "totalTackle": 2,
-        "unsuccessfulTouch": 2,
-        "wasFouled": 3,
-        "fouls": 1,
-        "totalOffside": 1,
-        "minutesPlayed": 90,
-        "touches": 104,
-        "rating": 7.5,
-        "possessionLostCtrl": 11,
-        "expectedGoals": 0.1627,
-        "expectedGoalsOnTarget": 0.1306,
-        "expectedAssists": 0.153438,
-        "totalBallCarriesDistance": 202.2577005998,
-        "ballCarriesCount": 31,
-        "totalProgression": 25.173817242623,
-        "bestBallCarryProgression": 10.611366841703,
-        "totalProgressiveBallCarriesDistance": 10.777152917167,
-        "progressiveBallCarriesCount": 1,
-        "keyPass": 2,
-        "ratingVersions": {
-          "original": 7.5,
-          "alternative": 8.1
-        },
-        "totalShots": 2,
-        "shotValueNormalized": -0.02,
-        "passValueNormalized": 0.49,
-        "dribbleValueNormalized": 0.17,
-        "defensiveValueNormalized": -0.2,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "16236412": {
     "id": 16236412,
     "match_info": {
@@ -8453,6 +8316,152 @@
         "passValueNormalized": 0.39,
         "dribbleValueNormalized": -0.1,
         "defensiveValueNormalized": -0.04,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Thiago Pitarch",
+        "firstName": "Thiago",
+        "lastName": "Pitarch Pinar",
+        "slug": "thiago-pitarch-pinar",
+        "shortName": "T. Pitarch",
+        "position": "M",
+        "jerseyNumber": "45",
+        "height": 179,
+        "userCount": 72978,
+        "gender": "M",
+        "sofascoreId": "jsq3ak",
+        "id": 2237795,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1186099200,
+        "proposedMarketValueRaw": {
+          "value": 18200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "تياغو بيتارش",
+            "ru": "Тьяго Питарч"
+          },
+          "shortNameTranslation": {
+            "ar": "ت. بيتارش",
+            "ru": "Т. Питарч"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Madrid",
+        "slug": "real-madrid",
+        "shortName": "Real Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 8378061,
+        "nameCode": "RMA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2829,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#004996",
+          "text": "#004996"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال مدريد",
+            "bn": "রিয়াল মাদ্রিদ",
+            "hi": "रियल मैड्रिड",
+            "ru": "Реал Мадрид"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 87,
+        "accuratePass": 79,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 2,
+        "accurateOwnHalfPasses": 54,
+        "totalOwnHalfPasses": 56,
+        "accurateOppositionHalfPasses": 25,
+        "totalOppositionHalfPasses": 31,
+        "aerialLost": 2,
+        "aerialWon": 1,
+        "duelLost": 6,
+        "duelWon": 8,
+        "challengeLost": 2,
+        "dispossessed": 1,
+        "totalContest": 2,
+        "wonContest": 2,
+        "bigChanceCreated": 1,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 6,
+        "totalTackle": 2,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 3,
+        "fouls": 1,
+        "totalOffside": 1,
+        "minutesPlayed": 90,
+        "touches": 104,
+        "rating": 7.5,
+        "possessionLostCtrl": 11,
+        "expectedGoals": 0.1627,
+        "expectedGoalsOnTarget": 0.1306,
+        "expectedAssists": 0.153438,
+        "topSpeed": 29.89,
+        "kilometersCovered": 11.67,
+        "numberOfSprints": 12,
+        "totalBallCarriesDistance": 202.2577005998,
+        "ballCarriesCount": 31,
+        "totalProgression": 25.173817242623,
+        "bestBallCarryProgression": 10.611366841703,
+        "totalProgressiveBallCarriesDistance": 10.777152917167,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 7.5,
+          "alternative": 8.1
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.02,
+        "passValueNormalized": 0.49,
+        "dribbleValueNormalized": 0.17,
+        "defensiveValueNormalized": -0.2,
+        "metersCoveredRunningKm": 1.98,
+        "metersCoveredHighSpeedRunningKm": 0.55,
+        "metersCoveredSprintingKm": 0.13,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

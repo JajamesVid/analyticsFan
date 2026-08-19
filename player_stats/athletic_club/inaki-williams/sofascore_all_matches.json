@@ -3358,149 +3358,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Iñaki Williams",
-        "firstName": "Inaki",
-        "lastName": "Williams",
-        "slug": "inaki-williams",
-        "shortName": "I. Williams",
-        "position": "M",
-        "jerseyNumber": "9",
-        "height": 186,
-        "userCount": 21697,
-        "gender": "M",
-        "sofascoreId": "IñakiWill",
-        "id": 783374,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 771638400,
-        "proposedMarketValueRaw": {
-          "value": 7300000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إيناكي ويليامز",
-            "bn": "ইনাকি উইলিয়ামস",
-            "hi": "इनाकी विलियम्स",
-            "ru": "Иньяки Уильямс"
-          },
-          "shortNameTranslation": {
-            "ar": "إ. ويليامز",
-            "bn": "আই. উইলিয়ামস",
-            "hi": "आई. विलियम्स",
-            "ru": "И. Уильямс"
-          }
-        }
-      },
-      "team": {
-        "name": "Athletic Club",
-        "slug": "athletic-club",
-        "shortName": "Athletic Club",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 519382,
-        "nameCode": "ATH",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2825,
-        "teamColors": {
-          "primary": "#aa0000",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "نادي أتليتيك",
-            "bn": "অ্যাথলেটিক ক্লাব",
-            "hi": "एथलेटिक क्लब",
-            "ru": "Атлетик Бильбао"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 14,
-        "accuratePass": 5,
-        "goalAssist": 2,
-        "totalOwnHalfPasses": 1,
-        "accurateOppositionHalfPasses": 5,
-        "totalOppositionHalfPasses": 13,
-        "totalCross": 3,
-        "accurateCross": 2,
-        "aerialLost": 4,
-        "aerialWon": 1,
-        "duelLost": 7,
-        "duelWon": 4,
-        "challengeLost": 1,
-        "totalContest": 2,
-        "wonContest": 2,
-        "bigChanceCreated": 2,
-        "totalClearance": 1,
-        "interceptionWon": 2,
-        "ballRecovery": 1,
-        "totalTackle": 1,
-        "unsuccessfulTouch": 2,
-        "fouls": 2,
-        "totalOffside": 1,
-        "minutesPlayed": 90,
-        "touches": 28,
-        "rating": 6.9,
-        "possessionLostCtrl": 12,
-        "expectedAssists": 0.514664,
-        "topSpeed": 30.91,
-        "kilometersCovered": 9.63,
-        "numberOfSprints": 7,
-        "totalBallCarriesDistance": 64.481912607618,
-        "ballCarriesCount": 7,
-        "totalProgression": 23.134739023498,
-        "bestBallCarryProgression": 11.28236842855,
-        "totalProgressiveBallCarriesDistance": 17.081750378694,
-        "progressiveBallCarriesCount": 1,
-        "keyPass": 2,
-        "ratingVersions": {
-          "original": 6.9,
-          "alternative": 7.7
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.54,
-        "dribbleValueNormalized": 0.26,
-        "defensiveValueNormalized": -0.23,
-        "metersCoveredRunningKm": 1.42,
-        "metersCoveredHighSpeedRunningKm": 0.45,
-        "metersCoveredSprintingKm": 0.06,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "15926537": {
     "id": 15926537,
     "match_info": {
@@ -25635,6 +25492,151 @@
         }
       },
       "position": "F",
+      "extra": null
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Iñaki Williams",
+        "firstName": "Inaki",
+        "lastName": "Williams",
+        "slug": "inaki-williams",
+        "shortName": "I. Williams",
+        "position": "M",
+        "jerseyNumber": "9",
+        "height": 186,
+        "userCount": 22029,
+        "gender": "M",
+        "sofascoreId": "InakiWill",
+        "id": 783374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 771638400,
+        "proposedMarketValueRaw": {
+          "value": 7300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيناكي ويليامز",
+            "bn": "ইনাকি উইলিয়ামস",
+            "hi": "इनाकी विलियम्स",
+            "ru": "Иньяки Уильямс"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. ويليامز",
+            "bn": "আই. উইলিয়ামস",
+            "hi": "आई. विलियम्स",
+            "ru": "И. Уильямс"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 524413,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 14,
+        "accuratePass": 5,
+        "goalAssist": 2,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 13,
+        "totalCross": 3,
+        "accurateCross": 2,
+        "aerialLost": 4,
+        "aerialWon": 1,
+        "duelLost": 7,
+        "duelWon": 4,
+        "challengeLost": 1,
+        "totalContest": 2,
+        "wonContest": 2,
+        "bigChanceCreated": 2,
+        "totalClearance": 1,
+        "interceptionWon": 2,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 2,
+        "fouls": 2,
+        "totalOffside": 1,
+        "minutesPlayed": 90,
+        "touches": 28,
+        "rating": 6.9,
+        "possessionLostCtrl": 12,
+        "expectedAssists": 0.514664,
+        "topSpeed": 30.91,
+        "kilometersCovered": 9.63,
+        "numberOfSprints": 7,
+        "totalBallCarriesDistance": 64.481912607618,
+        "ballCarriesCount": 7,
+        "totalProgression": 23.134739023498,
+        "bestBallCarryProgression": 11.28236842855,
+        "totalProgressiveBallCarriesDistance": 17.081750378694,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 7.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.54,
+        "dribbleValueNormalized": 0.26,
+        "defensiveValueNormalized": -0.23,
+        "metersCoveredRunningKm": 1.42,
+        "metersCoveredHighSpeedRunningKm": 0.45,
+        "metersCoveredSprintingKm": 0.06,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
       "extra": null
     }
   }

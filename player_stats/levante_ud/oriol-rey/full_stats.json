@@ -4585,233 +4585,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Betis",
-        "abreviatura": "BET",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/4.png"
-      },
-      "visitante": {
-        "nombre": "Levante",
-        "abreviatura": "LEV",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/10.png"
-      }
-    },
-    "resultado": "2-1",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20449-betis-levante",
-    "puntuaciones": {
-      "picas": 1,
-      "marca": 1,
-      "cope": 5.0,
-      "sofascore": 6.5,
-      "relevo": 0.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 1.0,
-        "futbolfantasy-rpg": 5.0,
-        "comunio": 3.0,
-        "modo-picas": 2.0,
-        "biwenger-sofascore": 2.0,
-        "biwenger-social": 0.0,
-        "biwenger-as-sofascore": 2.0,
-        "biwenger-stats": 3.0,
-        "futmondo-prensa": 2.0,
-        "futmondo-mixto-as": 2.0,
-        "futmondo-stats": 1.0,
-        "futmondo-mixto": 4.3,
-        "cronistas-marca": 2.0,
-        "marca-mixto": 2.0,
-        "marca-sofascore": 2.0,
-        "mister-cronistas-md": 0.0,
-        "mister-mixto": 2.0,
-        "mister-mixto-2": 2.0,
-        "mister-sofascore": 2.0,
-        "stat-goles": 0.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 0.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 0.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 0.0,
-        "stat-regates-exito": 0.0,
-        "stat-faltas-recibidas": 0.0,
-        "stat-faltas-cometidas": 0.0,
-        "stat-pases-interceptados": 1.0,
-        "stat-balones-robados": 0.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 0.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 1.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 0.0,
-        "stat-despejes": 0.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 4.0,
-        "stat-tiros-totales": 0.0,
-        "stat-centros-totales": 0.0,
-        "stat-precision-pases": 92.0,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 0.0,
-        "stat-tackles": 0.0,
-        "stat-duelos-aereos": 0.0,
-        "stat-tiros-bloqueados": 1.0,
-        "stat-pases-totales": 25.0,
-        "stat-pases-completados": 23.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083710,
-      "match_info": {
-        "homeTeam": {
-          "name": "Real Betis",
-          "shortName": "Real Betis",
-          "color": "#ffffff",
-          "score": 2
-        },
-        "awayTeam": {
-          "name": "Levante UD",
-          "shortName": "Levante",
-          "color": "#0e3b68",
-          "score": 1
-        },
-        "startTimestamp": 1779562800,
-        "slug": "levante-ud-real-betis",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Oriol Rey",
-          "firstName": "Oriol",
-          "lastName": "Rey",
-          "slug": "oriol-rey",
-          "shortName": "O. Rey",
-          "position": "M",
-          "jerseyNumber": "20",
-          "height": 175,
-          "userCount": 886,
-          "gender": "M",
-          "id": 859769,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 888364800,
-          "proposedMarketValueRaw": {
-            "value": 1700000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ريه، أوريول",
-              "bn": "রে, ওরিওল",
-              "hi": "रे, ओरिओल",
-              "ru": "Ориол Рей"
-            },
-            "shortNameTranslation": {
-              "ar": "ر. أوريول",
-              "bn": "ও. রে",
-              "hi": "ओ. रे",
-              "ru": "О. Рей"
-            }
-          }
-        },
-        "team": {
-          "name": "Levante UD",
-          "slug": "levante-ud",
-          "shortName": "Levante",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 116374,
-          "nameCode": "LEV",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2849,
-          "teamColors": {
-            "primary": "#0e3b68",
-            "secondary": "#d70000",
-            "text": "#d70000"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ليفانتي يو دي",
-              "hi": "लेवांटे यूडी",
-              "ru": "Леванте"
-            },
-            "shortNameTranslation": {
-              "ar": "ليفانتي",
-              "bn": "লেভান্তে",
-              "hi": "लेवांते"
-            }
-          }
-        },
-        "statistics": {
-          "totalPass": 25,
-          "accuratePass": 23,
-          "totalLongBalls": 3,
-          "accurateLongBalls": 2,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 14,
-          "totalOwnHalfPasses": 14,
-          "accurateOppositionHalfPasses": 9,
-          "totalOppositionHalfPasses": 11,
-          "duelLost": 3,
-          "challengeLost": 2,
-          "dispossessed": 1,
-          "outfielderBlock": 1,
-          "interceptionWon": 1,
-          "ballRecovery": 3,
-          "unsuccessfulTouch": 1,
-          "minutesPlayed": 45,
-          "touches": 30,
-          "rating": 6.5,
-          "possessionLostCtrl": 4,
-          "expectedAssists": 0.00372006,
-          "totalBallCarriesDistance": 95.42660617127,
-          "ballCarriesCount": 12,
-          "totalProgression": 55.194373038449,
-          "progressiveBallCarriesCount": 0,
-          "ratingVersions": {
-            "original": 6.5,
-            "alternative": 6.5
-          },
-          "totalShots": 0,
-          "passValueNormalized": 0.02,
-          "dribbleValueNormalized": 0.12,
-          "defensiveValueNormalized": -0.08,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "M",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Alavés",
         "abreviatura": "ALA",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
@@ -6158,6 +5931,239 @@
           "passValueNormalized": 0.33,
           "dribbleValueNormalized": 0.17,
           "defensiveValueNormalized": -0.18,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Betis",
+        "abreviatura": "BET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/4.png"
+      },
+      "visitante": {
+        "nombre": "Levante",
+        "abreviatura": "LEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/10.png"
+      }
+    },
+    "resultado": "2-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20449-betis-levante",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.5,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 1.0,
+        "futbolfantasy-rpg": 5.0,
+        "comunio": 3.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 3.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 1.0,
+        "futmondo-mixto": 4.3,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 0.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 1.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 4.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 92.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 1.0,
+        "stat-pases-totales": 25.0,
+        "stat-pases-completados": 23.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083710,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Betis",
+          "shortName": "Real Betis",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Levante UD",
+          "shortName": "Levante",
+          "color": "#0e3b68",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "levante-ud-real-betis"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Oriol Rey",
+          "firstName": "Oriol",
+          "lastName": "Rey",
+          "slug": "oriol-rey",
+          "shortName": "O. Rey",
+          "position": "M",
+          "jerseyNumber": "20",
+          "height": 175,
+          "userCount": 930,
+          "gender": "M",
+          "sofascoreId": "bd5skq",
+          "id": 859769,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 888364800,
+          "proposedMarketValueRaw": {
+            "value": 1700000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريه، أوريول",
+              "bn": "রে, ওরিওল",
+              "hi": "रे, ओरिओल",
+              "ru": "Ориол Рей"
+            },
+            "shortNameTranslation": {
+              "ar": "ر. أوريول",
+              "bn": "ও. রে",
+              "hi": "ओ. रे",
+              "ru": "О. Рей"
+            }
+          }
+        },
+        "team": {
+          "name": "Levante UD",
+          "slug": "levante-ud",
+          "shortName": "Levante",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 117899,
+          "nameCode": "LEV",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2849,
+          "teamColors": {
+            "primary": "#0e3b68",
+            "secondary": "#d70000",
+            "text": "#d70000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ليفانتي",
+              "hi": "लेवांटे यूडी",
+              "ru": "Леванте"
+            },
+            "shortNameTranslation": {
+              "ar": "ليفانتي",
+              "bn": "লেভান্তে",
+              "hi": "लेवांते"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 25,
+          "accuratePass": 23,
+          "totalLongBalls": 3,
+          "accurateLongBalls": 2,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 14,
+          "totalOwnHalfPasses": 14,
+          "accurateOppositionHalfPasses": 9,
+          "totalOppositionHalfPasses": 11,
+          "duelLost": 3,
+          "challengeLost": 2,
+          "dispossessed": 1,
+          "outfielderBlock": 1,
+          "interceptionWon": 1,
+          "ballRecovery": 3,
+          "unsuccessfulTouch": 1,
+          "minutesPlayed": 45,
+          "touches": 30,
+          "rating": 6.5,
+          "possessionLostCtrl": 4,
+          "expectedAssists": 0.00372006,
+          "topSpeed": 29.76,
+          "kilometersCovered": 5.56,
+          "numberOfSprints": 7,
+          "totalBallCarriesDistance": 95.42660617127,
+          "ballCarriesCount": 12,
+          "totalProgression": 55.194373038449,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 6.5,
+            "alternative": 6.5
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.02,
+          "dribbleValueNormalized": 0.12,
+          "defensiveValueNormalized": -0.08,
+          "metersCoveredRunningKm": 1.01,
+          "metersCoveredHighSpeedRunningKm": 0.32,
+          "metersCoveredSprintingKm": 0.11,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

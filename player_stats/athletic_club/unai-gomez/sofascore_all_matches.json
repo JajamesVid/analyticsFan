@@ -3415,130 +3415,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Unai Gómez",
-        "slug": "unai-gomez",
-        "shortName": "U. Gómez",
-        "position": "M",
-        "jerseyNumber": "20",
-        "height": 183,
-        "userCount": 865,
-        "gender": "M",
-        "id": 1391375,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1053820800,
-        "proposedMarketValueRaw": {
-          "value": 5200000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أوناي جوميز",
-            "bn": "উনাই গোমেজ",
-            "hi": "उनाई गोमेज़",
-            "ru": "Унай Гомес"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. جوميز",
-            "bn": "ইউ. গোমেজ",
-            "hi": "यू. गोमेज़",
-            "ru": "У. Гомес"
-          }
-        }
-      },
-      "team": {
-        "name": "Athletic Club",
-        "slug": "athletic-club",
-        "shortName": "Athletic Club",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 519382,
-        "nameCode": "ATH",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2825,
-        "teamColors": {
-          "primary": "#aa0000",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "نادي أتليتيك",
-            "bn": "অ্যাথলেটিক ক্লাব",
-            "hi": "एथलेटिक क्लब",
-            "ru": "Атлетик Бильбао"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 6,
-        "accuratePass": 6,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 4,
-        "totalOwnHalfPasses": 4,
-        "accurateOppositionHalfPasses": 2,
-        "totalOppositionHalfPasses": 2,
-        "duelLost": 3,
-        "unsuccessfulTouch": 2,
-        "fouls": 3,
-        "minutesPlayed": 60,
-        "touches": 11,
-        "rating": 6,
-        "possessionLostCtrl": 2,
-        "expectedAssists": 0.00104008,
-        "topSpeed": 28.48,
-        "kilometersCovered": 7,
-        "numberOfSprints": 5,
-        "totalBallCarriesDistance": 17.29387260091,
-        "ballCarriesCount": 3,
-        "totalProgression": -3.8000099700623,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6,
-          "alternative": 6.1
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.02,
-        "dribbleValueNormalized": -0.24,
-        "defensiveValueNormalized": -0.17,
-        "metersCoveredRunningKm": 0.88,
-        "metersCoveredHighSpeedRunningKm": 0.27,
-        "metersCoveredSprintingKm": 0.06,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12437501": {
     "id": 12437501,
     "match_info": {
@@ -19028,6 +18904,133 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Gómez",
+        "slug": "unai-gomez",
+        "shortName": "U. Gómez",
+        "position": "M",
+        "jerseyNumber": "20",
+        "height": 183,
+        "userCount": 951,
+        "gender": "M",
+        "sofascoreId": "iwd46k",
+        "id": 1391375,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1053820800,
+        "proposedMarketValueRaw": {
+          "value": 5200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي جوميز",
+            "bn": "উনাই গোমেজ",
+            "hi": "उनाई गोमेज़",
+            "ru": "Унай Гомес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. جوميز",
+            "bn": "ইউ. গোমেজ",
+            "hi": "यू. गोमेज़",
+            "ru": "У. Гомес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 524413,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 6,
+        "accuratePass": 6,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 2,
+        "duelLost": 3,
+        "unsuccessfulTouch": 2,
+        "fouls": 3,
+        "minutesPlayed": 60,
+        "touches": 11,
+        "rating": 6,
+        "possessionLostCtrl": 2,
+        "expectedAssists": 0.00104008,
+        "topSpeed": 28.48,
+        "kilometersCovered": 7,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 17.29387260091,
+        "ballCarriesCount": 3,
+        "totalProgression": -3.8000099700623,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6,
+          "alternative": 6.1
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.02,
+        "dribbleValueNormalized": -0.24,
+        "defensiveValueNormalized": -0.17,
+        "metersCoveredRunningKm": 0.88,
+        "metersCoveredHighSpeedRunningKm": 0.27,
+        "metersCoveredSprintingKm": 0.06,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
     }
   }
 }

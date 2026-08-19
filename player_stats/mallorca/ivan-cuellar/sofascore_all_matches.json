@@ -2699,98 +2699,6 @@
       "extra": null
     }
   },
-  "14083727": {
-    "id": 14083727,
-    "match_info": {
-      "homeTeam": {
-        "name": "Mallorca",
-        "shortName": "Mallorca",
-        "color": "#cc0000",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "Real Oviedo",
-        "shortName": "Real Oviedo",
-        "color": "#3300ff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-oviedo-mallorca"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Iván Cuéllar",
-        "slug": "ivan-cuellar",
-        "shortName": "I. Cuéllar",
-        "position": "G",
-        "height": 187,
-        "userCount": 175,
-        "gender": "M",
-        "sofascoreId": "zj36dx",
-        "id": 19013,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 454464000,
-        "proposedMarketValueRaw": {
-          "value": 110000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إيفان كويلار",
-            "bn": "ইভান কুয়েলার",
-            "hi": "इवान कुएला",
-            "ru": "Иван Куэльяр"
-          },
-          "shortNameTranslation": {
-            "ar": "إ. كويلار",
-            "bn": "আই. কুয়েলার",
-            "hi": "आई. कुएला",
-            "ru": "И. Куэльяр"
-          }
-        }
-      },
-      "team": {
-        "name": "Mallorca",
-        "slug": "mallorca",
-        "shortName": "Mallorca",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 201002,
-        "nameCode": "MLL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2826,
-        "teamColors": {
-          "primary": "#cc0000",
-          "secondary": "#000000",
-          "text": "#000000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "مايوركا",
-            "bn": "ম্যালোর্কা",
-            "hi": "मल्लोर्का",
-            "ru": "Мальорка"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "G",
-      "extra": null
-    }
-  },
   "12437763": {
     "id": 12437763,
     "match_info": {
@@ -19711,6 +19619,99 @@
             "bn": "লেগানেস",
             "hi": "लेगानेस",
             "ru": "Леганес"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083727": {
+    "id": 14083727,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-oviedo-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Iván Cuéllar",
+        "slug": "ivan-cuellar",
+        "shortName": "I. Cuéllar",
+        "position": "G",
+        "jerseyNumber": "25",
+        "height": 187,
+        "userCount": 178,
+        "gender": "M",
+        "sofascoreId": "zj36dx",
+        "id": 19013,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 454464000,
+        "proposedMarketValueRaw": {
+          "value": 110000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيفان كويلار",
+            "bn": "ইভান কুয়েলার",
+            "hi": "इवान कुएला",
+            "ru": "Иван Куэльяр"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. كويلار",
+            "bn": "আই. কুয়েলার",
+            "hi": "आई. कुएला",
+            "ru": "И. Куэльяр"
+          }
+        }
+      },
+      "team": {
+        "name": "Mallorca",
+        "slug": "mallorca",
+        "shortName": "Mallorca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202209,
+        "nameCode": "MLL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2826,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مايوركا",
+            "bn": "ম্যালোর্কা",
+            "hi": "मल्लोर्का",
+            "ru": "Мальорка"
           },
           "shortNameTranslation": {}
         }

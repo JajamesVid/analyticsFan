@@ -3374,126 +3374,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Adrià Pedrosa",
-        "slug": "adria-pedrosa",
-        "shortName": "A. Pedrosa",
-        "position": "D",
-        "jerseyNumber": "3",
-        "height": 176,
-        "userCount": 822,
-        "gender": "M",
-        "sofascoreId": "8jks5s",
-        "id": 928672,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 895017600,
-        "proposedMarketValueRaw": {
-          "value": 2700000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أدريا بيدروسا",
-            "bn": "আদ্রিয়া পেড্রোসা",
-            "hi": "एड्रिया पेड्रोसा",
-            "ru": "Адриа Педроса"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. بيدروسا",
-            "bn": "এ. পেড্রোসা",
-            "hi": "ए. पेड्रोसा",
-            "ru": "А. Педроса"
-          }
-        }
-      },
-      "team": {
-        "name": "Elche",
-        "slug": "elche",
-        "shortName": "Elche",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 116534,
-        "nameCode": "ELC",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2846,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#336600",
-          "text": "#336600"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إلتشي",
-            "bn": "এলচে",
-            "hi": "एल्चे",
-            "ru": "Эльче"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "goalAssist": 0,
-        "aerialLost": 1,
-        "duelLost": 3,
-        "duelWon": 1,
-        "challengeLost": 1,
-        "totalContest": 1,
-        "totalClearance": 2,
-        "outfielderBlock": 1,
-        "totalTackle": 1,
-        "wonTackle": 1,
-        "minutesPlayed": 15,
-        "touches": 8,
-        "rating": 6.8,
-        "possessionLostCtrl": 2,
-        "expectedAssists": 0.00033843,
-        "topSpeed": 29.78,
-        "kilometersCovered": 2.48,
-        "numberOfSprints": 3,
-        "ratingVersions": {
-          "original": 6.8,
-          "alternative": 6.7
-        },
-        "totalShots": 0,
-        "dribbleValueNormalized": -0.04,
-        "defensiveValueNormalized": 0.27,
-        "metersCoveredRunningKm": 0.37,
-        "metersCoveredHighSpeedRunningKm": 0.07,
-        "metersCoveredSprintingKm": 0.05,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437867": {
     "id": 12437867,
     "match_info": {
@@ -23314,6 +23194,126 @@
         "rating": 6.4,
         "possessionLostCtrl": 6,
         "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Adrià Pedrosa",
+        "slug": "adria-pedrosa",
+        "shortName": "A. Pedrosa",
+        "position": "D",
+        "jerseyNumber": "3",
+        "height": 176,
+        "userCount": 839,
+        "gender": "M",
+        "sofascoreId": "8jks5s",
+        "id": 928672,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 895017600,
+        "proposedMarketValueRaw": {
+          "value": 2700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أدريا بيدروسا",
+            "bn": "আদ্রিয়া পেড্রোসা",
+            "hi": "एड्रिया पेड्रोसा",
+            "ru": "Адриа Педроса"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيدروسا",
+            "bn": "এ. পেড্রোসা",
+            "hi": "ए. पेड्रोसा",
+            "ru": "А. Педроса"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 118908,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "goalAssist": 0,
+        "aerialLost": 1,
+        "duelLost": 3,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "totalContest": 1,
+        "totalClearance": 2,
+        "outfielderBlock": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "minutesPlayed": 15,
+        "touches": 8,
+        "rating": 6.8,
+        "possessionLostCtrl": 2,
+        "expectedAssists": 0.00033843,
+        "topSpeed": 29.78,
+        "kilometersCovered": 2.48,
+        "numberOfSprints": 3,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "dribbleValueNormalized": -0.04,
+        "defensiveValueNormalized": 0.27,
+        "metersCoveredRunningKm": 0.37,
+        "metersCoveredHighSpeedRunningKm": 0.07,
+        "metersCoveredSprintingKm": 0.05,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

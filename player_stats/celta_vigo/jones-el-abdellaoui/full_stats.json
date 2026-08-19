@@ -3936,125 +3936,6 @@
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
       },
       "visitante": {
-        "nombre": "Sevilla",
-        "abreviatura": "SEV",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/17.png"
-      }
-    },
-    "resultado": "1-0",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20443-celta-sevilla",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083715,
-      "match_info": {
-        "homeTeam": {
-          "name": "Celta Vigo",
-          "shortName": "Celta",
-          "color": "#6cace4",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Sevilla",
-          "shortName": "Sevilla",
-          "color": "#ffffff",
-          "score": 0
-        },
-        "startTimestamp": 1779562800,
-        "slug": "sevilla-celta-vigo",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Jones El-Abdellaoui",
-          "firstName": "Jones El-Abdellaoui",
-          "slug": "jones-el-abdellaoui",
-          "shortName": "J. El-Abdellaoui",
-          "position": "F",
-          "jerseyNumber": "39",
-          "height": 184,
-          "userCount": 2072,
-          "gender": "M",
-          "id": 1173575,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 1137024000,
-          "proposedMarketValueRaw": {
-            "value": 8400000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "جونز العبدلاوي",
-              "ru": "Джонс Эль-Абделлауви"
-            },
-            "shortNameTranslation": {
-              "ar": "ج. العبدلاوي",
-              "ru": "Д. Эль-Абделлауви"
-            }
-          }
-        },
-        "team": {
-          "name": "Celta Vigo",
-          "slug": "celta-vigo",
-          "shortName": "Celta",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 266335,
-          "nameCode": "CEL",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2821,
-          "teamColors": {
-            "primary": "#6cace4",
-            "secondary": "#ffffff",
-            "text": "#ffffff"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "سيلتا فيغو",
-              "bn": "সেলটা ভিগো",
-              "ru": "Сельта"
-            },
-            "shortNameTranslation": {
-              "ar": "سيلتا",
-              "hi": "सेल्टा"
-            }
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "F",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
-        "nombre": "Celta",
-        "abreviatura": "CEL",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
-      },
-      "visitante": {
         "nombre": "Getafe",
         "abreviatura": "GET",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/8.png"
@@ -7847,6 +7728,125 @@
             "alternative": null
           },
           "totalShots": 4,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Sevilla",
+        "abreviatura": "SEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/17.png"
+      }
+    },
+    "resultado": "1-0",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20443-celta-sevilla",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083715,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Sevilla",
+          "shortName": "Sevilla",
+          "color": "#ffffff",
+          "score": 0
+        },
+        "startTimestamp": 1779562800,
+        "slug": "sevilla-celta-vigo"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Jones El-Abdellaoui",
+          "firstName": "Jones El-Abdellaoui",
+          "slug": "jones-el-abdellaoui",
+          "shortName": "J. El-Abdellaoui",
+          "position": "F",
+          "jerseyNumber": "39",
+          "height": 184,
+          "userCount": 2155,
+          "gender": "M",
+          "sofascoreId": "6gr3kr",
+          "id": 1173575,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1137024000,
+          "proposedMarketValueRaw": {
+            "value": 8400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جونز العبدلاوي",
+              "ru": "Джонс Эль-Абделлауви"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. العبدلاوي",
+              "ru": "Д. Эль-Абделлауви"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 267822,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

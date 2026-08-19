@@ -2768,102 +2768,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Rubén Blanco",
-        "slug": "ruben-blanco",
-        "shortName": "R. Blanco",
-        "position": "G",
-        "jerseyNumber": "1",
-        "height": 188,
-        "userCount": 483,
-        "gender": "M",
-        "sofascoreId": "jxvesr",
-        "id": 180515,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 806630400,
-        "proposedMarketValueRaw": {
-          "value": 730000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "روبين بلانكو",
-            "bn": "রুবেন ব্লাঙ্কো",
-            "hi": "रुबेन ब्लांको",
-            "ru": "Рубен Бланко"
-          },
-          "shortNameTranslation": {
-            "ar": "ر. بلانكو",
-            "bn": "আর. ব্লাঙ্কো",
-            "hi": "आर. ब्लांको",
-            "ru": "Р. Бланко"
-          }
-        }
-      },
-      "team": {
-        "name": "Girona FC",
-        "slug": "girona-fc",
-        "shortName": "Girona",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 373675,
-        "nameCode": "GIR",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 24264,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ff0000",
-          "text": "#ff0000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "جيرونا إف سي",
-            "hi": "जिरोना",
-            "ru": "Жирона"
-          },
-          "shortNameTranslation": {
-            "ar": "جيرونا",
-            "bn": "জিরোনা",
-            "hi": "गिरोना"
-          }
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "G",
-      "extra": null
-    }
-  },
   "11392866": {
     "id": 11392866,
     "match_info": {
@@ -20319,6 +20223,102 @@
         "touches": 27,
         "rating": 6.3,
         "possessionLostCtrl": 6,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Rubén Blanco",
+        "slug": "ruben-blanco",
+        "shortName": "R. Blanco",
+        "position": "G",
+        "jerseyNumber": "36",
+        "height": 188,
+        "userCount": 485,
+        "gender": "M",
+        "sofascoreId": "jxvesr",
+        "id": 180515,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 806630400,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "روبين بلانكو",
+            "bn": "রুবেন ব্লাঙ্কো",
+            "hi": "रुबेन ब्लांको",
+            "ru": "Рубен Бланко"
+          },
+          "shortNameTranslation": {
+            "ar": "ر. بلانكو",
+            "bn": "আর. ব্লাঙ্কো",
+            "hi": "आर. ब्लांको",
+            "ru": "Р. Бланко"
+          }
+        }
+      },
+      "team": {
+        "name": "Girona FC",
+        "slug": "girona-fc",
+        "shortName": "Girona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 374248,
+        "nameCode": "GIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24264,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جيرونا إف سي",
+            "hi": "जिरोना",
+            "ru": "Жирона"
+          },
+          "shortNameTranslation": {
+            "ar": "جيرونا",
+            "bn": "জিরোনা",
+            "hi": "गिरोना"
+          }
+        }
+      },
+      "statistics": {
         "totalShots": 0,
         "statisticsType": {
           "sportSlug": "football",

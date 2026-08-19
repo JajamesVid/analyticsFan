@@ -3908,143 +3908,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Mikel Jauregizar",
-        "firstName": "",
-        "lastName": "",
-        "slug": "mikel-jauregizar",
-        "shortName": "M. Jauregizar",
-        "position": "M",
-        "jerseyNumber": "18",
-        "height": 177,
-        "userCount": 1808,
-        "gender": "M",
-        "id": 1495844,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1068681600,
-        "proposedMarketValueRaw": {
-          "value": 31000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ميكيل جوريجيزار",
-            "bn": "মিকেল জাউরেগিজার",
-            "hi": "मिकेल जौरेगिज़ार",
-            "ru": "Микель Хаурегизар"
-          },
-          "shortNameTranslation": {
-            "ar": "م. جوريجيزار",
-            "bn": "এম. জওরেগিজার",
-            "hi": "एम. जौरेगिज़ार",
-            "ru": "М. Хаурегизар"
-          }
-        }
-      },
-      "team": {
-        "name": "Athletic Club",
-        "slug": "athletic-club",
-        "shortName": "Athletic Club",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 519382,
-        "nameCode": "ATH",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2825,
-        "teamColors": {
-          "primary": "#aa0000",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "نادي أتليتيك",
-            "bn": "অ্যাথলেটিক ক্লাব",
-            "hi": "एथलेटिक क्लब",
-            "ru": "Атлетик Бильбао"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 24,
-        "accuratePass": 13,
-        "totalLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 6,
-        "totalOwnHalfPasses": 7,
-        "accurateOppositionHalfPasses": 7,
-        "totalOppositionHalfPasses": 17,
-        "totalCross": 1,
-        "aerialWon": 2,
-        "duelLost": 7,
-        "duelWon": 7,
-        "challengeLost": 1,
-        "totalContest": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 7,
-        "totalTackle": 4,
-        "wonTackle": 3,
-        "unsuccessfulTouch": 1,
-        "wasFouled": 1,
-        "fouls": 5,
-        "minutesPlayed": 85,
-        "touches": 34,
-        "rating": 6.3,
-        "possessionLostCtrl": 14,
-        "expectedAssists": 0.00340331,
-        "topSpeed": 28.61,
-        "kilometersCovered": 10.51,
-        "numberOfSprints": 3,
-        "totalBallCarriesDistance": 55.363667577488,
-        "ballCarriesCount": 8,
-        "totalProgression": 20.797992638121,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.3,
-          "alternative": 6.4
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.21,
-        "dribbleValueNormalized": 0.21,
-        "defensiveValueNormalized": -0.16,
-        "metersCoveredRunningKm": 1.76,
-        "metersCoveredHighSpeedRunningKm": 0.28,
-        "metersCoveredSprintingKm": 0.05,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "13963315": {
     "id": 13963315,
     "match_info": {
@@ -16145,6 +16008,146 @@
       },
       "statistics": {
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Mikel Jauregizar",
+        "firstName": "",
+        "lastName": "",
+        "slug": "mikel-jauregizar",
+        "shortName": "M. Jauregizar",
+        "position": "M",
+        "jerseyNumber": "18",
+        "height": 177,
+        "userCount": 1883,
+        "gender": "M",
+        "sofascoreId": "q4s6m4",
+        "id": 1495844,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1068681600,
+        "proposedMarketValueRaw": {
+          "value": 31000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميكيل جوريجيزار",
+            "bn": "মিকেল জাউরেগিজার",
+            "hi": "मिकेल जौरेगिज़ार",
+            "ru": "Микель Хаурегизар"
+          },
+          "shortNameTranslation": {
+            "ar": "م. جوريجيزار",
+            "bn": "এম. জওরেগিজার",
+            "hi": "एम. जौरेगिज़ार",
+            "ru": "М. Хаурегизар"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 524413,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 24,
+        "accuratePass": 13,
+        "totalLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 6,
+        "totalOwnHalfPasses": 7,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 17,
+        "totalCross": 1,
+        "aerialWon": 2,
+        "duelLost": 7,
+        "duelWon": 7,
+        "challengeLost": 1,
+        "totalContest": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 7,
+        "totalTackle": 4,
+        "wonTackle": 3,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "fouls": 5,
+        "minutesPlayed": 85,
+        "touches": 34,
+        "rating": 6.3,
+        "possessionLostCtrl": 14,
+        "expectedAssists": 0.00340331,
+        "topSpeed": 28.61,
+        "kilometersCovered": 10.51,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 55.363667577488,
+        "ballCarriesCount": 8,
+        "totalProgression": 20.797992638121,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.21,
+        "dribbleValueNormalized": 0.21,
+        "defensiveValueNormalized": -0.16,
+        "metersCoveredRunningKm": 1.76,
+        "metersCoveredHighSpeedRunningKm": 0.28,
+        "metersCoveredSprintingKm": 0.05,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

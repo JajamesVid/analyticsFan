@@ -4144,129 +4144,6 @@
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
       },
       "visitante": {
-        "nombre": "Real Sociedad",
-        "abreviatura": "RSO",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
-      }
-    },
-    "resultado": "1-1",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20445-espanyol-real-sociedad",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083719,
-      "match_info": {
-        "homeTeam": {
-          "name": "Espanyol",
-          "shortName": "Espanyol",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Real Sociedad",
-          "shortName": "Real Sociedad",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-sociedad-espanyol",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Charles Pickel",
-          "firstName": "Charles",
-          "lastName": "Pickel",
-          "slug": "charles-pickel",
-          "shortName": "C. Pickel",
-          "position": "M",
-          "jerseyNumber": "18",
-          "height": 184,
-          "userCount": 12212,
-          "gender": "M",
-          "sofascoreId": "charlespickel",
-          "id": 758664,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 863654400,
-          "proposedMarketValueRaw": {
-            "value": 2700000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "شارليس بيكيل",
-              "bn": "চার্লস পিকেল",
-              "hi": "चार्ल्स पिकेल",
-              "ru": "Чарльз Пикель"
-            },
-            "shortNameTranslation": {
-              "ar": "ش. بيكيل",
-              "bn": "সি. পিকেল",
-              "hi": "सी. पिकेल",
-              "ru": "Ч. Пикель"
-            }
-          }
-        },
-        "team": {
-          "name": "Espanyol",
-          "slug": "espanyol",
-          "shortName": "Espanyol",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 183425,
-          "nameCode": "ESP",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2814,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#1369d2",
-            "text": "#1369d2"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "اسبانيول",
-              "bn": "এসপানিওল",
-              "hi": "एस्पेनयोल",
-              "ru": "Эспаньол"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "M",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
-        "nombre": "Espanyol",
-        "abreviatura": "ESP",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
-      },
-      "visitante": {
         "nombre": "Osasuna",
         "abreviatura": "OSA",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
@@ -6165,6 +6042,128 @@
           "passValueNormalized": 0.09,
           "dribbleValueNormalized": 0.02,
           "defensiveValueNormalized": -0.06,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Espanyol",
+        "abreviatura": "ESP",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
+      },
+      "visitante": {
+        "nombre": "Real Sociedad",
+        "abreviatura": "RSO",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20445-espanyol-real-sociedad",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083719,
+      "match_info": {
+        "homeTeam": {
+          "name": "Espanyol",
+          "shortName": "Espanyol",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Real Sociedad",
+          "shortName": "Real Sociedad",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-sociedad-espanyol"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Charles Pickel",
+          "firstName": "Charles",
+          "lastName": "Pickel",
+          "slug": "charles-pickel",
+          "shortName": "C. Pickel",
+          "position": "M",
+          "jerseyNumber": "18",
+          "height": 184,
+          "userCount": 12679,
+          "gender": "M",
+          "sofascoreId": "charlespickel",
+          "id": 758664,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 863654400,
+          "proposedMarketValueRaw": {
+            "value": 2700000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "شارليس بيكيل",
+              "bn": "চার্লস পিকেল",
+              "hi": "चार्ल्स पिकेल",
+              "ru": "Шарль Пикель"
+            },
+            "shortNameTranslation": {
+              "ar": "ش. بيكيل",
+              "bn": "সি. পিকেল",
+              "hi": "सी. पिकेल",
+              "ru": "Ш. Пикель"
+            }
+          }
+        },
+        "team": {
+          "name": "Espanyol",
+          "slug": "espanyol",
+          "shortName": "Espanyol",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 184894,
+          "nameCode": "ESP",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2814,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#1369d2",
+            "text": "#1369d2"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "اسبانيول",
+              "bn": "এসপানিওল",
+              "hi": "एस्पेनयोल",
+              "ru": "Эспаньол"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

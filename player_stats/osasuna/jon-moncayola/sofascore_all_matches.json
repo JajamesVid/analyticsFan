@@ -3752,137 +3752,6 @@
       "extra": null
     }
   },
-  "14083723": {
-    "id": 14083723,
-    "match_info": {
-      "homeTeam": {
-        "name": "Getafe",
-        "shortName": "Getafe",
-        "color": "#00369e",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Osasuna",
-        "shortName": "Osasuna",
-        "color": "#cc0000",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "getafe-osasuna"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Jon Moncayola",
-        "slug": "jon-moncayola",
-        "shortName": "J. Moncayola",
-        "position": "M",
-        "jerseyNumber": "7",
-        "height": 182,
-        "userCount": 812,
-        "gender": "M",
-        "id": 976141,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 895017600,
-        "proposedMarketValueRaw": {
-          "value": 7300000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "جون مونسايولا",
-            "bn": "জন মনকাইয়োলা",
-            "hi": "जॉन मोन्कायोला",
-            "ru": "Джон Монкайола"
-          },
-          "shortNameTranslation": {
-            "ar": "ج. مونسايولا",
-            "bn": "জে. মনকাইয়োলা",
-            "hi": "जे. मोन्कायोला",
-            "ru": "Д. Монкайола"
-          }
-        }
-      },
-      "team": {
-        "name": "Osasuna",
-        "slug": "osasuna",
-        "shortName": "Osasuna",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 199411,
-        "nameCode": "OSA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2820,
-        "teamColors": {
-          "primary": "#cc0000",
-          "secondary": "#14213d",
-          "text": "#14213d"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أوساسونا",
-            "bn": "ওসাসুনা",
-            "hi": "ओसासुना",
-            "ru": "Осасуна"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 18,
-        "accuratePass": 8,
-        "totalLongBalls": 6,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 4,
-        "totalOwnHalfPasses": 4,
-        "accurateOppositionHalfPasses": 4,
-        "totalOppositionHalfPasses": 14,
-        "totalCross": 4,
-        "accurateCross": 1,
-        "duelLost": 5,
-        "duelWon": 2,
-        "challengeLost": 2,
-        "dispossessed": 1,
-        "totalClearance": 1,
-        "interceptionWon": 2,
-        "ballRecovery": 6,
-        "totalTackle": 2,
-        "wonTackle": 1,
-        "unsuccessfulTouch": 1,
-        "fouls": 2,
-        "minutesPlayed": 81,
-        "touches": 37,
-        "rating": 6.5,
-        "possessionLostCtrl": 21,
-        "expectedAssists": 0.0755726,
-        "totalBallCarriesDistance": 7.83821994975,
-        "ballCarriesCount": 2,
-        "totalProgression": -0.87626920328007,
-        "progressiveBallCarriesCount": 0,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 6.5,
-          "alternative": 6.6
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.15,
-        "dribbleValueNormalized": 0.05,
-        "defensiveValueNormalized": -0.11,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12437817": {
     "id": 12437817,
     "match_info": {
@@ -22635,6 +22504,144 @@
         "expectedGoalsOnTarget": 0,
         "expectedAssists": 0.0120708,
         "totalShots": 5,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083723": {
+    "id": 14083723,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "getafe-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Jon Moncayola",
+        "slug": "jon-moncayola",
+        "shortName": "J. Moncayola",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 182,
+        "userCount": 819,
+        "gender": "M",
+        "sofascoreId": "wrr66f",
+        "id": 976141,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 895017600,
+        "proposedMarketValueRaw": {
+          "value": 7300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جون مونسايولا",
+            "bn": "জন মনকাইয়োলা",
+            "hi": "जॉन मोन्कायोला",
+            "ru": "Джон Монкайола"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. مونسايولا",
+            "bn": "জে. মনকাইয়োলা",
+            "hi": "जे. मोन्कायोला",
+            "ru": "Д. Монкайола"
+          }
+        }
+      },
+      "team": {
+        "name": "Osasuna",
+        "slug": "osasuna",
+        "shortName": "Osasuna",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202237,
+        "nameCode": "OSA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2820,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#14213d",
+          "text": "#14213d"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوساسونا",
+            "bn": "ওসাসুনা",
+            "hi": "ओसासुना",
+            "ru": "Осасуна"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 18,
+        "accuratePass": 8,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 14,
+        "totalCross": 4,
+        "accurateCross": 1,
+        "duelLost": 5,
+        "duelWon": 2,
+        "challengeLost": 2,
+        "dispossessed": 1,
+        "totalClearance": 1,
+        "interceptionWon": 2,
+        "ballRecovery": 6,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "fouls": 2,
+        "minutesPlayed": 81,
+        "touches": 37,
+        "rating": 6.5,
+        "possessionLostCtrl": 21,
+        "expectedAssists": 0.0755726,
+        "topSpeed": 33.21,
+        "kilometersCovered": 8.5,
+        "numberOfSprints": 13,
+        "totalBallCarriesDistance": 7.83821994975,
+        "ballCarriesCount": 2,
+        "totalProgression": -0.87626920328007,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.15,
+        "dribbleValueNormalized": 0.05,
+        "defensiveValueNormalized": -0.11,
+        "metersCoveredRunningKm": 1.34,
+        "metersCoveredHighSpeedRunningKm": 0.39,
+        "metersCoveredSprintingKm": 0.19,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

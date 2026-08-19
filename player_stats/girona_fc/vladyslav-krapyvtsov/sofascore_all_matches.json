@@ -2637,100 +2637,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Vladyslav Krapyvtsov",
-        "firstName": "Vladyslav",
-        "lastName": "Krapyvtsov",
-        "slug": "vladyslav-krapyvtsov",
-        "shortName": "V. Krapyvtsov",
-        "position": "G",
-        "jerseyNumber": "25",
-        "height": 188,
-        "userCount": 650,
-        "gender": "M",
-        "sofascoreId": "zbrqe4",
-        "id": 1521733,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1119657600,
-        "proposedMarketValueRaw": {
-          "value": 330000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فلاديسلاف كرابيفتسوف",
-            "ru": "Владислав Крапивцов"
-          },
-          "shortNameTranslation": {
-            "ar": "ف. كرابيفتسوف",
-            "ru": "В. Крапивцов"
-          }
-        }
-      },
-      "team": {
-        "name": "Girona FC",
-        "slug": "girona-fc",
-        "shortName": "Girona",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 373675,
-        "nameCode": "GIR",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 24264,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ff0000",
-          "text": "#ff0000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "جيرونا إف سي",
-            "hi": "जिरोना",
-            "ru": "Жирона"
-          },
-          "shortNameTranslation": {
-            "ar": "جيرونا",
-            "bn": "জিরোনা",
-            "hi": "गिरोना"
-          }
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "G",
-      "extra": null
-    }
-  },
   "16277707": {
     "id": 16277707,
     "match_info": {
@@ -6393,6 +6299,100 @@
           "id": 1
         },
         "userCount": 373675,
+        "nameCode": "GIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24264,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جيرونا إف سي",
+            "hi": "जिरोना",
+            "ru": "Жирона"
+          },
+          "shortNameTranslation": {
+            "ar": "جيرونا",
+            "bn": "জিরোনা",
+            "hi": "गिरोना"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Vladyslav Krapyvtsov",
+        "firstName": "Vladyslav",
+        "lastName": "Krapyvtsov",
+        "slug": "vladyslav-krapyvtsov",
+        "shortName": "V. Krapyvtsov",
+        "position": "G",
+        "jerseyNumber": "25",
+        "height": 188,
+        "userCount": 671,
+        "gender": "M",
+        "sofascoreId": "zbrqe4",
+        "id": 1521733,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1119657600,
+        "proposedMarketValueRaw": {
+          "value": 330000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فلاديسلاف كرابيفتسوف",
+            "ru": "Владислав Крапивцов"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. كرابيفتسوف",
+            "ru": "В. Крапивцов"
+          }
+        }
+      },
+      "team": {
+        "name": "Girona FC",
+        "slug": "girona-fc",
+        "shortName": "Girona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 374248,
         "nameCode": "GIR",
         "disabled": false,
         "national": false,

@@ -3582,100 +3582,6 @@
       "extra": null
     }
   },
-  "14083739": {
-    "id": 14083739,
-    "match_info": {
-      "homeTeam": {
-        "name": "Valencia",
-        "shortName": "Valencia",
-        "color": "#ffffff",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "FC Barcelona",
-        "shortName": "Barcelona",
-        "color": "#154284",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "valencia-barcelona"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Arnaut Danjuma",
-        "firstName": "Arnaut",
-        "lastName": "Danjuma",
-        "slug": "arnaut-danjuma",
-        "shortName": "A. Danjuma",
-        "position": "F",
-        "jerseyNumber": "7",
-        "height": 178,
-        "userCount": 3543,
-        "gender": "M",
-        "id": 827064,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 854668800,
-        "proposedMarketValueRaw": {
-          "value": 2800000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أرنوت دانجوما",
-            "bn": "আরনাউত দানজুমা",
-            "hi": "अरनौत दानजुमा",
-            "ru": "Арнаут Данжума"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. دانجوما",
-            "bn": "এ. দানজুমা",
-            "hi": "ए. दानजुमा",
-            "ru": "А. Данжума"
-          }
-        }
-      },
-      "team": {
-        "name": "Valencia",
-        "slug": "valencia",
-        "shortName": "Valencia",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 288160,
-        "nameCode": "VAL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2828,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#000000",
-          "text": "#000000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فالنسيا",
-            "bn": "ভ্যালেন্সিয়া",
-            "hi": "वेलेंसिया",
-            "ru": "Валенсия"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12764241": {
     "id": 12764241,
     "match_info": {
@@ -23405,6 +23311,101 @@
         "rating": 6.9,
         "possessionLostCtrl": 11,
         "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083739": {
+    "id": 14083739,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "valencia-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Arnaut Danjuma",
+        "firstName": "Arnaut",
+        "lastName": "Danjuma",
+        "slug": "arnaut-danjuma",
+        "shortName": "A. Danjuma",
+        "position": "F",
+        "jerseyNumber": "7",
+        "height": 178,
+        "userCount": 3586,
+        "gender": "M",
+        "sofascoreId": "5nvkiz",
+        "id": 827064,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 854668800,
+        "proposedMarketValueRaw": {
+          "value": 2800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أرنوت دانجوما",
+            "bn": "আরনাউত দানজুমা",
+            "hi": "अरनौत दानजुमा",
+            "ru": "Арнаут Данжума"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. دانجوما",
+            "bn": "এ. দানজুমা",
+            "hi": "ए. दानजुमा",
+            "ru": "А. Данжума"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 292379,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

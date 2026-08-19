@@ -1358,129 +1358,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Villarreal",
-        "abreviatura": "VIL",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
-      },
-      "visitante": {
-        "nombre": "Atlético",
-        "abreviatura": "ATM",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
-      }
-    },
-    "resultado": "5-1",
-    "fecha": "2026-05-24",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20452-villarreal-atletico",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083735,
-      "match_info": {
-        "homeTeam": {
-          "name": "Villarreal",
-          "shortName": "Villarreal",
-          "color": "#ffff00",
-          "score": 5
-        },
-        "awayTeam": {
-          "name": "Atlético Madrid",
-          "shortName": "Atl. Madrid",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "startTimestamp": 1779649200,
-        "slug": "atletico-madrid-villarreal",
-        "fecha_normalizada": "2026-05-24"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Rayane Belaid",
-          "firstName": "Rayane Belaid Khellil",
-          "slug": "rayane-belaid",
-          "shortName": "R. Belaid",
-          "position": "M",
-          "jerseyNumber": "29",
-          "height": 175,
-          "userCount": 2367,
-          "gender": "M",
-          "id": 1179148,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 1130889600,
-          "proposedMarketValueRaw": {
-            "value": 565000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "بابلو غارسيا رودريغو",
-              "bn": "রায়ানে বেলাদ খেলিল",
-              "hi": "रेयान बेलैड खेलिल",
-              "ru": "Райан Белаид"
-            },
-            "shortNameTranslation": {
-              "ar": "ر. ب. خليل",
-              "bn": "আর. বি. খেলিল",
-              "hi": "आर.बी. बेलैड",
-              "ru": "Р. Белаид"
-            }
-          }
-        },
-        "team": {
-          "name": "Atlético Madrid",
-          "slug": "atletico-madrid",
-          "shortName": "Atl. Madrid",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 2590653,
-          "nameCode": "ATM",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2836,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#c40000",
-            "text": "#c40000"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "أتلتيكو مدريد",
-              "hi": "एटलेटिको मैड्रिड",
-              "ru": "Атлетико Мадрид"
-            },
-            "shortNameTranslation": {
-              "ar": "أتل. مدريد",
-              "bn": "এটিএল. মাদ্রিদ"
-            }
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "F",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Sevilla",
         "abreviatura": "SEV",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/17.png"
@@ -2981,6 +2858,129 @@
           "code": 404,
           "message": "Not Found"
         }
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      },
+      "visitante": {
+        "nombre": "Atlético",
+        "abreviatura": "ATM",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
+      }
+    },
+    "resultado": "5-1",
+    "fecha": "2026-05-24",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20452-villarreal-atletico",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083735,
+      "match_info": {
+        "homeTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 5
+        },
+        "awayTeam": {
+          "name": "Atlético Madrid",
+          "shortName": "Atl. Madrid",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1779649200,
+        "slug": "atletico-madrid-villarreal"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Rayane Belaid",
+          "firstName": "Rayane Belaid Khellil",
+          "slug": "rayane-belaid",
+          "shortName": "R. Belaid",
+          "position": "M",
+          "jerseyNumber": "29",
+          "height": 175,
+          "userCount": 2348,
+          "gender": "M",
+          "sofascoreId": "ekupwk",
+          "id": 1179148,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1130889600,
+          "proposedMarketValueRaw": {
+            "value": 565000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "بابلو غارسيا رودريغو",
+              "bn": "রায়ানে বেলাদ খেলিল",
+              "hi": "रेयान बेलैड खेलिल",
+              "ru": "Райан Белаид"
+            },
+            "shortNameTranslation": {
+              "ar": "ر. ب. خليل",
+              "bn": "আর. বি. খেলিল",
+              "hi": "आर.बी. बेलैड",
+              "ru": "Р. Белаид"
+            }
+          }
+        },
+        "team": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2635078,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
       }
     }
   }

@@ -41,8 +41,7 @@
           "score": 2
         },
         "startTimestamp": 1779562800,
-        "slug": "real-madrid-athletic-club",
-        "fecha_normalizada": "2026-05-23"
+        "slug": "real-madrid-athletic-club"
       },
       "player_stats": {
         "player": {
@@ -51,10 +50,11 @@
           "slug": "alvaro-gonzalez",
           "shortName": "Á. González",
           "position": "G",
-          "jerseyNumber": "13",
+          "jerseyNumber": "50",
           "height": 185,
-          "userCount": 1232,
+          "userCount": 1832,
           "gender": "M",
+          "sofascoreId": "n58r4k",
           "id": 1542706,
           "marketValueCurrency": "EUR",
           "dateOfBirthTimestamp": 1176076800,
@@ -64,10 +64,12 @@
           },
           "fieldTranslations": {
             "nameTranslation": {
-              "ar": "ألفارو غونزاليس"
+              "ar": "ألفارو غونزاليس",
+              "ru": "Альваро Гонсалес"
             },
             "shortNameTranslation": {
-              "ar": "أ. غونزاليس"
+              "ar": "أ. غونزاليس",
+              "ru": "А. Гонсалес"
             }
           }
         },
@@ -81,7 +83,7 @@
             "slug": "football",
             "id": 1
           },
-          "userCount": 7733858,
+          "userCount": 8378061,
           "nameCode": "RMA",
           "disabled": false,
           "national": false,

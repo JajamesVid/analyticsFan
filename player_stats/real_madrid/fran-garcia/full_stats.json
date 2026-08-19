@@ -2850,127 +2850,6 @@
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
       },
       "visitante": {
-        "nombre": "Athletic",
-        "abreviatura": "ATH",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
-      }
-    },
-    "resultado": "4-2",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20450-real-madrid-athletic",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083731,
-      "match_info": {
-        "homeTeam": {
-          "name": "Real Madrid",
-          "shortName": "Real Madrid",
-          "color": "#ffffff",
-          "score": 4
-        },
-        "awayTeam": {
-          "name": "Athletic Club",
-          "shortName": "Athletic Club",
-          "color": "#aa0000",
-          "score": 2
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-madrid-athletic-club",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Fran García",
-          "firstName": "Francisco",
-          "lastName": "Garcia",
-          "slug": "fran-garcia",
-          "shortName": "F. Garcia",
-          "position": "D",
-          "jerseyNumber": "20",
-          "height": 170,
-          "userCount": 69487,
-          "gender": "M",
-          "sofascoreId": "frangarci11",
-          "id": 851271,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 934588800,
-          "proposedMarketValueRaw": {
-            "value": 11100000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "فران غارسيا",
-              "bn": "ফ্রান গার্সিয়া",
-              "hi": "फ्रान गार्सिया"
-            },
-            "shortNameTranslation": {
-              "ar": "ف. غارسيا",
-              "bn": "এফ. গার্সিয়া",
-              "hi": "एफ. गार्सिया"
-            }
-          }
-        },
-        "team": {
-          "name": "Real Madrid",
-          "slug": "real-madrid",
-          "shortName": "Real Madrid",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 7733858,
-          "nameCode": "RMA",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2829,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#004996",
-            "text": "#004996"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ريال مدريد",
-              "bn": "রিয়াল মাদ্রিদ",
-              "hi": "रियल मैड्रिड",
-              "ru": "Реал Мадрид"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "D",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
-        "nombre": "Real Madrid",
-        "abreviatura": "RMD",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
-      },
-      "visitante": {
         "nombre": "Osasuna",
         "abreviatura": "OSA",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
@@ -25358,6 +25237,128 @@
             "alternative": 7
           },
           "totalShots": 1,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "4-2",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20450-real-madrid-athletic",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083731,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Madrid",
+          "shortName": "Real Madrid",
+          "color": "#ffffff",
+          "score": 4
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 2
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-madrid-athletic-club"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Fran García",
+          "firstName": "Francisco",
+          "lastName": "Garcia",
+          "slug": "fran-garcia",
+          "shortName": "F. Garcia",
+          "position": "D",
+          "jerseyNumber": "11",
+          "height": 170,
+          "userCount": 76238,
+          "gender": "M",
+          "sofascoreId": "frangarci11",
+          "id": 851271,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 934588800,
+          "proposedMarketValueRaw": {
+            "value": 9200000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فران غارسيا",
+              "bn": "ফ্রান গার্সিয়া",
+              "hi": "फ्रान गार्सिया",
+              "ru": "Фран Гарсия"
+            },
+            "shortNameTranslation": {
+              "ar": "ف. غارسيا",
+              "bn": "এফ. গার্সিয়া",
+              "hi": "एफ. गार्सिया",
+              "ru": "Ф. Гарсия"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Madrid",
+          "slug": "real-madrid",
+          "shortName": "Real Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 8378061,
+          "nameCode": "RMA",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2829,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#004996",
+            "text": "#004996"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال مدريد",
+              "bn": "রিয়াল মাদ্রিদ",
+              "hi": "रियल मैड्रिड",
+              "ru": "Реал Мадрид"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

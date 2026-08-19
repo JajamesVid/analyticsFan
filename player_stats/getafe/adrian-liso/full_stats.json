@@ -5123,228 +5123,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Getafe",
-        "abreviatura": "GET",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/8.png"
-      },
-      "visitante": {
-        "nombre": "Osasuna",
-        "abreviatura": "OSA",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
-      }
-    },
-    "resultado": "1-0",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20446-getafe-osasuna",
-    "puntuaciones": {
-      "picas": 1,
-      "marca": 1,
-      "cope": 5.0,
-      "sofascore": 6.6,
-      "relevo": 1.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 3.0,
-        "futbolfantasy-rpg": 1.0,
-        "comunio": 3.0,
-        "modo-picas": 2.0,
-        "biwenger-sofascore": 3.0,
-        "biwenger-social": 0.0,
-        "biwenger-as-sofascore": 3.0,
-        "biwenger-stats": 1.0,
-        "futmondo-prensa": 3.0,
-        "futmondo-mixto-as": 2.0,
-        "futmondo-stats": 0.0,
-        "futmondo-mixto": 3.5,
-        "cronistas-marca": 2.0,
-        "marca-mixto": 5.0,
-        "marca-sofascore": 3.0,
-        "mister-cronistas-md": 6.0,
-        "mister-mixto": 3.0,
-        "mister-mixto-2": 3.0,
-        "mister-sofascore": 3.0,
-        "stat-goles": 0.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 0.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 1.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 0.0,
-        "stat-regates-exito": 0.0,
-        "stat-faltas-recibidas": 2.0,
-        "stat-faltas-cometidas": 2.0,
-        "stat-pases-interceptados": 0.0,
-        "stat-balones-robados": 0.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 0.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 0.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 0.0,
-        "stat-despejes": 0.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 13.0,
-        "stat-tiros-totales": 0.0,
-        "stat-centros-totales": 2.0,
-        "stat-precision-pases": 50.0,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 0.0,
-        "stat-tackles": 0.0,
-        "stat-duelos-aereos": 3.0,
-        "stat-tiros-bloqueados": 0.0,
-        "stat-pases-totales": 10.0,
-        "stat-pases-completados": 5.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083723,
-      "match_info": {
-        "homeTeam": {
-          "name": "Getafe",
-          "shortName": "Getafe",
-          "color": "#00369e",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Osasuna",
-          "shortName": "Osasuna",
-          "color": "#cc0000",
-          "score": 0
-        },
-        "startTimestamp": 1779562800,
-        "slug": "getafe-osasuna",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Adrian Liso",
-          "slug": "liso-adrian",
-          "shortName": "A. Liso",
-          "position": "F",
-          "jerseyNumber": "23",
-          "height": 182,
-          "userCount": 1100,
-          "gender": "M",
-          "id": 1515554,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 1112400000,
-          "proposedMarketValueRaw": {
-            "value": 3100000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "أدريان ليسو",
-              "ru": "Адриан Лисо"
-            },
-            "shortNameTranslation": {
-              "ar": "أ. ليسو",
-              "ru": "А. Лисо"
-            }
-          }
-        },
-        "team": {
-          "name": "Getafe",
-          "slug": "getafe",
-          "shortName": "Getafe",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 199398,
-          "nameCode": "GET",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2859,
-          "teamColors": {
-            "primary": "#00369e",
-            "secondary": "#ffffff",
-            "text": "#ffffff"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "خيتافي",
-              "bn": "গেটাফে",
-              "hi": "गेटाफे",
-              "ru": "Хетафе"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalPass": 10,
-          "accuratePass": 5,
-          "totalLongBalls": 1,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 2,
-          "totalOwnHalfPasses": 3,
-          "accurateOppositionHalfPasses": 3,
-          "totalOppositionHalfPasses": 7,
-          "totalCross": 2,
-          "aerialLost": 1,
-          "aerialWon": 3,
-          "duelLost": 6,
-          "duelWon": 5,
-          "totalContest": 3,
-          "ballRecovery": 1,
-          "unsuccessfulTouch": 3,
-          "wasFouled": 2,
-          "fouls": 2,
-          "minutesPlayed": 82,
-          "touches": 23,
-          "rating": 6.6,
-          "possessionLostCtrl": 13,
-          "expectedAssists": 0.0291284,
-          "totalBallCarriesDistance": 45.789240529601,
-          "ballCarriesCount": 5,
-          "totalProgression": 12.329622302136,
-          "bestBallCarryProgression": 20.018101381032,
-          "totalProgressiveBallCarriesDistance": 23.117617718961,
-          "progressiveBallCarriesCount": 1,
-          "ratingVersions": {
-            "original": 6.6,
-            "alternative": 6.4
-          },
-          "totalShots": 0,
-          "passValueNormalized": -0.01,
-          "dribbleValueNormalized": 0.12,
-          "defensiveValueNormalized": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "F",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Celta",
         "abreviatura": "CEL",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
@@ -6897,6 +6675,234 @@
           }
         },
         "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Getafe",
+        "abreviatura": "GET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/8.png"
+      },
+      "visitante": {
+        "nombre": "Osasuna",
+        "abreviatura": "OSA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
+      }
+    },
+    "resultado": "1-0",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20446-getafe-osasuna",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.6,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 3.0,
+        "futbolfantasy-rpg": 1.0,
+        "comunio": 3.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 3.0,
+        "biwenger-stats": 1.0,
+        "futmondo-prensa": 3.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 0.0,
+        "futmondo-mixto": 3.5,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 5.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 6.0,
+        "mister-mixto": 3.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 1.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 2.0,
+        "stat-faltas-cometidas": 2.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 13.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 2.0,
+        "stat-precision-pases": 50.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 3.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 10.0,
+        "stat-pases-completados": 5.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083723,
+      "match_info": {
+        "homeTeam": {
+          "name": "Getafe",
+          "shortName": "Getafe",
+          "color": "#00369e",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Osasuna",
+          "shortName": "Osasuna",
+          "color": "#cc0000",
+          "score": 0
+        },
+        "startTimestamp": 1779562800,
+        "slug": "getafe-osasuna"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Adrian Liso",
+          "slug": "liso-adrian",
+          "shortName": "A. Liso",
+          "position": "F",
+          "jerseyNumber": "23",
+          "height": 182,
+          "userCount": 1122,
+          "gender": "M",
+          "sofascoreId": "rsyws8",
+          "id": 1515554,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1112400000,
+          "proposedMarketValueRaw": {
+            "value": 3100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أدريان ليسو",
+              "ru": "Адриан Лисо"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. ليسو",
+              "ru": "А. Лисо"
+            }
+          }
+        },
+        "team": {
+          "name": "Getafe",
+          "slug": "getafe",
+          "shortName": "Getafe",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 203865,
+          "nameCode": "GET",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2859,
+          "teamColors": {
+            "primary": "#00369e",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "خيتافي",
+              "bn": "গেটাফে",
+              "hi": "गेटाफे",
+              "ru": "Хетафе"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 10,
+          "accuratePass": 5,
+          "totalLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 2,
+          "totalOwnHalfPasses": 3,
+          "accurateOppositionHalfPasses": 3,
+          "totalOppositionHalfPasses": 7,
+          "totalCross": 2,
+          "aerialLost": 1,
+          "aerialWon": 3,
+          "duelLost": 6,
+          "duelWon": 5,
+          "totalContest": 3,
+          "ballRecovery": 1,
+          "unsuccessfulTouch": 3,
+          "wasFouled": 2,
+          "fouls": 2,
+          "minutesPlayed": 82,
+          "touches": 23,
+          "rating": 6.6,
+          "possessionLostCtrl": 13,
+          "expectedAssists": 0.0291284,
+          "topSpeed": 32.42,
+          "kilometersCovered": 8.36,
+          "numberOfSprints": 14,
+          "totalBallCarriesDistance": 45.789240529601,
+          "ballCarriesCount": 5,
+          "totalProgression": 12.329622302136,
+          "bestBallCarryProgression": 20.018101381032,
+          "totalProgressiveBallCarriesDistance": 23.117617718961,
+          "progressiveBallCarriesCount": 1,
+          "ratingVersions": {
+            "original": 6.6,
+            "alternative": 6.4
+          },
+          "totalShots": 0,
+          "passValueNormalized": -0.01,
+          "dribbleValueNormalized": 0.12,
+          "defensiveValueNormalized": 0,
+          "metersCoveredRunningKm": 1.11,
+          "metersCoveredHighSpeedRunningKm": 0.51,
+          "metersCoveredSprintingKm": 0.25,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
         "extra": null
       }
     }

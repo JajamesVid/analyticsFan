@@ -3473,135 +3473,6 @@
       "extra": null
     }
   },
-  "14083727": {
-    "id": 14083727,
-    "match_info": {
-      "homeTeam": {
-        "name": "Mallorca",
-        "shortName": "Mallorca",
-        "color": "#cc0000",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "Real Oviedo",
-        "shortName": "Real Oviedo",
-        "color": "#3300ff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-oviedo-mallorca"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Antonio Sánchez",
-        "slug": "antonio-sanchez",
-        "shortName": "A. Sánchez",
-        "position": "M",
-        "jerseyNumber": "6",
-        "height": 179,
-        "userCount": 285,
-        "gender": "M",
-        "sofascoreId": "tdzu97",
-        "id": 949722,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 861667200,
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أنطونيو سانشيز",
-            "bn": "আন্তোনিও সানচেজ",
-            "hi": "एंटोनियो सांचेज़",
-            "ru": "Антонио Санчес"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. سانشيز",
-            "bn": "এ. সানচেজ",
-            "hi": "ए. सांचेज़",
-            "ru": "А. Санчес"
-          }
-        }
-      },
-      "team": {
-        "name": "Mallorca",
-        "slug": "mallorca",
-        "shortName": "Mallorca",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 201002,
-        "nameCode": "MLL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2826,
-        "teamColors": {
-          "primary": "#cc0000",
-          "secondary": "#000000",
-          "text": "#000000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "مايوركا",
-            "bn": "ম্যালোর্কা",
-            "hi": "मल्लोर्का",
-            "ru": "Мальорка"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 14,
-        "accuratePass": 10,
-        "totalLongBalls": 3,
-        "accurateLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 3,
-        "totalOwnHalfPasses": 4,
-        "accurateOppositionHalfPasses": 7,
-        "totalOppositionHalfPasses": 10,
-        "totalCross": 1,
-        "duelLost": 2,
-        "duelWon": 1,
-        "dispossessed": 1,
-        "totalTackle": 1,
-        "wonTackle": 1,
-        "unsuccessfulTouch": 1,
-        "fouls": 1,
-        "minutesPlayed": 28,
-        "touches": 18,
-        "rating": 6.8,
-        "possessionLostCtrl": 7,
-        "expectedAssists": 0.127025,
-        "topSpeed": 29.67,
-        "kilometersCovered": 3.36,
-        "numberOfSprints": 5,
-        "totalBallCarriesDistance": 61.121675958757,
-        "ballCarriesCount": 7,
-        "totalProgression": -11.350875984099,
-        "progressiveBallCarriesCount": 0,
-        "keyPass": 2,
-        "ratingVersions": {
-          "original": 6.8,
-          "alternative": 6.8
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.29,
-        "dribbleValueNormalized": 0.02,
-        "defensiveValueNormalized": -0.02,
-        "metersCoveredRunningKm": 0.71,
-        "metersCoveredHighSpeedRunningKm": 0.17,
-        "metersCoveredSprintingKm": 0.05,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12437657": {
     "id": 12437657,
     "match_info": {
@@ -22848,6 +22719,135 @@
         "rating": 6.9,
         "possessionLostCtrl": 1,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083727": {
+    "id": 14083727,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-oviedo-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Antonio Sánchez",
+        "slug": "antonio-sanchez",
+        "shortName": "A. Sánchez",
+        "position": "M",
+        "jerseyNumber": "6",
+        "height": 179,
+        "userCount": 286,
+        "gender": "M",
+        "sofascoreId": "tdzu97",
+        "id": 949722,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 861667200,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنطونيو سانشيز",
+            "bn": "আন্তোনিও সানচেজ",
+            "hi": "एंटोनियो सांचेज़",
+            "ru": "Антонио Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. سانشيز",
+            "bn": "এ. সানচেজ",
+            "hi": "ए. सांचेज़",
+            "ru": "А. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Mallorca",
+        "slug": "mallorca",
+        "shortName": "Mallorca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202209,
+        "nameCode": "MLL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2826,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مايوركا",
+            "bn": "ম্যালোর্কা",
+            "hi": "मल्लोर्का",
+            "ru": "Мальорка"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 14,
+        "accuratePass": 10,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 10,
+        "totalCross": 1,
+        "duelLost": 2,
+        "duelWon": 1,
+        "dispossessed": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "fouls": 1,
+        "minutesPlayed": 28,
+        "touches": 18,
+        "rating": 6.8,
+        "possessionLostCtrl": 7,
+        "expectedAssists": 0.127025,
+        "topSpeed": 29.67,
+        "kilometersCovered": 3.36,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 61.121675958757,
+        "ballCarriesCount": 7,
+        "totalProgression": -11.350875984099,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.29,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": -0.02,
+        "metersCoveredRunningKm": 0.71,
+        "metersCoveredHighSpeedRunningKm": 0.17,
+        "metersCoveredSprintingKm": 0.05,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

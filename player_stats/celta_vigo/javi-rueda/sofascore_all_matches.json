@@ -3465,138 +3465,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Javier Rueda",
-        "slug": "javier-rueda",
-        "shortName": "J. Rueda",
-        "position": "M",
-        "jerseyNumber": "17",
-        "height": 176,
-        "userCount": 461,
-        "gender": "M",
-        "id": 1008259,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1020816000,
-        "proposedMarketValueRaw": {
-          "value": 4099999,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "هافيير روييدا",
-            "ru": "Хавьер Руэда"
-          },
-          "shortNameTranslation": {
-            "ar": "ه. روييدا",
-            "ru": "Х. Руэда"
-          }
-        }
-      },
-      "team": {
-        "name": "Celta Vigo",
-        "slug": "celta-vigo",
-        "shortName": "Celta",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 266335,
-        "nameCode": "CEL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2821,
-        "teamColors": {
-          "primary": "#6cace4",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "سيلتا فيغو",
-            "bn": "সেলটা ভিগো",
-            "ru": "Сельта"
-          },
-          "shortNameTranslation": {
-            "ar": "سيلتا",
-            "hi": "सेल्टा"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 35,
-        "accuratePass": 32,
-        "totalLongBalls": 5,
-        "accurateLongBalls": 3,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 16,
-        "totalOwnHalfPasses": 17,
-        "accurateOppositionHalfPasses": 16,
-        "totalOppositionHalfPasses": 18,
-        "totalCross": 2,
-        "accurateCross": 1,
-        "aerialLost": 2,
-        "aerialWon": 1,
-        "duelLost": 4,
-        "duelWon": 5,
-        "dispossessed": 1,
-        "totalContest": 3,
-        "wonContest": 2,
-        "totalClearance": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 4,
-        "totalTackle": 1,
-        "wonTackle": 1,
-        "unsuccessfulTouch": 3,
-        "wasFouled": 1,
-        "minutesPlayed": 89,
-        "touches": 54,
-        "rating": 7,
-        "possessionLostCtrl": 10,
-        "expectedAssists": 0.118331,
-        "totalBallCarriesDistance": 47.827625392174,
-        "ballCarriesCount": 8,
-        "totalProgression": 25.616168367276,
-        "progressiveBallCarriesCount": 0,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 7,
-          "alternative": 7.1
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.07,
-        "dribbleValueNormalized": 0.08,
-        "defensiveValueNormalized": 0.2,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12467513": {
     "id": 12467513,
     "match_info": {
@@ -15471,6 +15339,145 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javier Rueda",
+        "slug": "javier-rueda",
+        "shortName": "J. Rueda",
+        "position": "M",
+        "jerseyNumber": "17",
+        "height": 176,
+        "userCount": 465,
+        "gender": "M",
+        "sofascoreId": "jvsen7",
+        "id": 1008259,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1020816000,
+        "proposedMarketValueRaw": {
+          "value": 6200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هافيير روييدا",
+            "ru": "Хавьер Руэда"
+          },
+          "shortNameTranslation": {
+            "ar": "ه. روييدا",
+            "ru": "Х. Руэда"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 267822,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 35,
+        "accuratePass": 32,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 16,
+        "totalOwnHalfPasses": 17,
+        "accurateOppositionHalfPasses": 16,
+        "totalOppositionHalfPasses": 18,
+        "totalCross": 2,
+        "accurateCross": 1,
+        "aerialLost": 2,
+        "aerialWon": 1,
+        "duelLost": 4,
+        "duelWon": 5,
+        "dispossessed": 1,
+        "totalContest": 3,
+        "wonContest": 2,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 3,
+        "wasFouled": 1,
+        "minutesPlayed": 89,
+        "touches": 54,
+        "rating": 7,
+        "possessionLostCtrl": 10,
+        "expectedAssists": 0.118331,
+        "topSpeed": 32.07,
+        "kilometersCovered": 9.33,
+        "numberOfSprints": 20,
+        "totalBallCarriesDistance": 47.827625392174,
+        "ballCarriesCount": 8,
+        "totalProgression": 25.616168367276,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 7.1
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.07,
+        "dribbleValueNormalized": 0.08,
+        "defensiveValueNormalized": 0.2,
+        "metersCoveredRunningKm": 1.33,
+        "metersCoveredHighSpeedRunningKm": 0.65,
+        "metersCoveredSprintingKm": 0.27,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
     }
   }
 }

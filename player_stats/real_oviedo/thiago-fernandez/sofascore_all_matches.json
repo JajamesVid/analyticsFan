@@ -3573,92 +3573,6 @@
       "extra": null
     }
   },
-  "14083727": {
-    "id": 14083727,
-    "match_info": {
-      "homeTeam": {
-        "name": "Mallorca",
-        "shortName": "Mallorca",
-        "color": "#cc0000",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "Real Oviedo",
-        "shortName": "Real Oviedo",
-        "color": "#3300ff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-oviedo-mallorca"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Thiago Fernández",
-        "firstName": "Thiago Fernández",
-        "slug": "thiago-fernandez",
-        "shortName": "T. Fernández",
-        "position": "M",
-        "jerseyNumber": "15",
-        "height": 175,
-        "userCount": 1218,
-        "gender": "M",
-        "id": 1201412,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1080950400,
-        "proposedMarketValueRaw": {
-          "value": 4700000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "تياغو فرنانديز"
-          },
-          "shortNameTranslation": {
-            "ar": "ت. فرنانديز"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Oviedo",
-        "slug": "real-oviedo",
-        "shortName": "Real Oviedo",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 100042,
-        "nameCode": "OVI",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2851,
-        "teamColors": {
-          "primary": "#3300ff",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال اوفيدو",
-            "hi": "रियल ओविएडो",
-            "ru": "Реал Овьедо"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "11938088": {
     "id": 11938088,
     "match_info": {
@@ -9567,6 +9481,95 @@
         }
       },
       "position": "M",
+      "extra": null
+    }
+  },
+  "14083727": {
+    "id": 14083727,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-oviedo-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Thiago Fernández",
+        "firstName": "Thiago Fernández",
+        "slug": "thiago-fernandez",
+        "shortName": "T. Fernández",
+        "position": "M",
+        "jerseyNumber": "24",
+        "height": 175,
+        "userCount": 1332,
+        "gender": "M",
+        "sofascoreId": "q4giyh",
+        "id": 1201412,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1080950400,
+        "proposedMarketValueRaw": {
+          "value": 4700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "تياغو فرنانديز",
+            "ru": "Тьяго Фернандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ت. فرنانديز",
+            "ru": "Т. Фернандес"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 98974,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
       "extra": null
     }
   }

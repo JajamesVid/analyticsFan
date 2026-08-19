@@ -2785,233 +2785,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Espanyol",
-        "abreviatura": "ESP",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
-      },
-      "visitante": {
-        "nombre": "Real Sociedad",
-        "abreviatura": "RSO",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
-      }
-    },
-    "resultado": "1-1",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20445-espanyol-real-sociedad",
-    "puntuaciones": {
-      "picas": 2,
-      "marca": 2,
-      "cope": 7.0,
-      "sofascore": 7.7,
-      "relevo": 4.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 8.0,
-        "futbolfantasy-rpg": 18.0,
-        "comunio": 9.0,
-        "modo-picas": 6.0,
-        "biwenger-sofascore": 8.0,
-        "biwenger-social": 2.0,
-        "biwenger-as-sofascore": 7.0,
-        "biwenger-stats": 5.0,
-        "futmondo-prensa": 7.0,
-        "futmondo-mixto-as": 6.0,
-        "futmondo-stats": 11.0,
-        "futmondo-mixto": 8.4,
-        "cronistas-marca": 6.0,
-        "marca-mixto": 5.0,
-        "marca-sofascore": 8.0,
-        "mister-cronistas-md": 10.0,
-        "mister-mixto": 8.0,
-        "mister-mixto-2": 7.0,
-        "mister-sofascore": 8.0,
-        "stat-goles": 0.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 0.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 0.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 0.0,
-        "stat-regates-exito": 0.0,
-        "stat-faltas-recibidas": 0.0,
-        "stat-faltas-cometidas": 0.0,
-        "stat-pases-interceptados": 0.0,
-        "stat-balones-robados": 0.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 1.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 7.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 1.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 1.0,
-        "stat-despejes": 0.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 17.0,
-        "stat-tiros-totales": 0.0,
-        "stat-centros-totales": 0.0,
-        "stat-precision-pases": 55.3,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 0.0,
-        "stat-tackles": 0.0,
-        "stat-duelos-aereos": 0.0,
-        "stat-tiros-bloqueados": 0.0,
-        "stat-pases-totales": 38.0,
-        "stat-pases-completados": 21.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083719,
-      "match_info": {
-        "homeTeam": {
-          "name": "Espanyol",
-          "shortName": "Espanyol",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Real Sociedad",
-          "shortName": "Real Sociedad",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-sociedad-espanyol",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Unai Marrero",
-          "firstName": "Unai Marrero",
-          "slug": "unai-marrero",
-          "shortName": "U. Marrero",
-          "position": "G",
-          "jerseyNumber": "32",
-          "height": 187,
-          "userCount": 446,
-          "gender": "M",
-          "id": 1094782,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 1002585600,
-          "proposedMarketValueRaw": {
-            "value": 1100000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "أوناي ماريرو",
-              "bn": "উনাই মারেরো",
-              "hi": "उनाई मरेरो",
-              "ru": "Унай Марреро"
-            },
-            "shortNameTranslation": {
-              "ar": "أ. ماريرو",
-              "bn": "ইউ. মারেরো",
-              "hi": "यू. मरेरो",
-              "ru": "У. Марреро"
-            }
-          }
-        },
-        "team": {
-          "name": "Real Sociedad",
-          "slug": "real-sociedad",
-          "shortName": "Real Sociedad",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 413040,
-          "nameCode": "RSO",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2824,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#0077c7",
-            "text": "#0077c7"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ريال سوسيداد",
-              "bn": "রিয়াল সোসিয়েদাদ",
-              "hi": "रियल सोसियदाद",
-              "ru": "Реал Сосьедад"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalPass": 38,
-          "accuratePass": 21,
-          "totalLongBalls": 28,
-          "accurateLongBalls": 11,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 13,
-          "totalOwnHalfPasses": 21,
-          "accurateOppositionHalfPasses": 8,
-          "totalOppositionHalfPasses": 17,
-          "totalClearance": 1,
-          "ballRecovery": 13,
-          "goodHighClaim": 1,
-          "savedShotsFromInsideTheBox": 6,
-          "saves": 7,
-          "punches": 1,
-          "totalKeeperSweeper": 1,
-          "accurateKeeperSweeper": 1,
-          "minutesPlayed": 90,
-          "touches": 52,
-          "rating": 7.7,
-          "possessionLostCtrl": 17,
-          "expectedAssists": 0.003766,
-          "totalBallCarriesDistance": 16.18965596869,
-          "ballCarriesCount": 4,
-          "totalProgression": 11.265449695185,
-          "progressiveBallCarriesCount": 0,
-          "keeperSaveValue": 0.7616,
-          "ratingVersions": {
-            "original": 7.7,
-            "alternative": 8.1
-          },
-          "totalShots": 0,
-          "goalsPrevented": 0.7581,
-          "passValueNormalized": 0.13,
-          "dribbleValueNormalized": -0.03,
-          "defensiveValueNormalized": -0.12,
-          "goalkeeperValueNormalized": 0.57,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "G",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Real Sociedad",
         "abreviatura": "RSO",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
@@ -15519,6 +15292,233 @@
         "statistics": {
           "expectedGoalsOnTarget": 0,
           "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Espanyol",
+        "abreviatura": "ESP",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
+      },
+      "visitante": {
+        "nombre": "Real Sociedad",
+        "abreviatura": "RSO",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20445-espanyol-real-sociedad",
+    "puntuaciones": {
+      "picas": 2,
+      "marca": 2,
+      "cope": 7.0,
+      "sofascore": 7.7,
+      "relevo": 4.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 8.0,
+        "futbolfantasy-rpg": 18.0,
+        "comunio": 9.0,
+        "modo-picas": 6.0,
+        "biwenger-sofascore": 8.0,
+        "biwenger-social": 2.0,
+        "biwenger-as-sofascore": 7.0,
+        "biwenger-stats": 5.0,
+        "futmondo-prensa": 7.0,
+        "futmondo-mixto-as": 6.0,
+        "futmondo-stats": 11.0,
+        "futmondo-mixto": 8.4,
+        "cronistas-marca": 6.0,
+        "marca-mixto": 5.0,
+        "marca-sofascore": 8.0,
+        "mister-cronistas-md": 10.0,
+        "mister-mixto": 8.0,
+        "mister-mixto-2": 7.0,
+        "mister-sofascore": 8.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 1.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 7.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 1.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 17.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 55.3,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 38.0,
+        "stat-pases-completados": 21.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083719,
+      "match_info": {
+        "homeTeam": {
+          "name": "Espanyol",
+          "shortName": "Espanyol",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Real Sociedad",
+          "shortName": "Real Sociedad",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-sociedad-espanyol"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Unai Marrero",
+          "firstName": "Unai Marrero",
+          "slug": "unai-marrero",
+          "shortName": "U. Marrero",
+          "position": "G",
+          "jerseyNumber": "13",
+          "height": 187,
+          "userCount": 458,
+          "gender": "M",
+          "sofascoreId": "p96thv",
+          "id": 1094782,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1002585600,
+          "proposedMarketValueRaw": {
+            "value": 1100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوناي ماريرو",
+              "bn": "উনাই মারেরো",
+              "hi": "उनाई मरेरो",
+              "ru": "Унай Марреро"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. ماريرو",
+              "bn": "ইউ. মারেরো",
+              "hi": "यू. मरेरो",
+              "ru": "У. Марреро"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Sociedad",
+          "slug": "real-sociedad",
+          "shortName": "Real Sociedad",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 417327,
+          "nameCode": "RSO",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2824,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#0077c7",
+            "text": "#0077c7"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال سوسيداد",
+              "bn": "রিয়াল সোসিয়েদাদ",
+              "hi": "रियल सोसियदाद",
+              "ru": "Реал Сосьедад"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 38,
+          "accuratePass": 21,
+          "totalLongBalls": 28,
+          "accurateLongBalls": 11,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 13,
+          "totalOwnHalfPasses": 21,
+          "accurateOppositionHalfPasses": 8,
+          "totalOppositionHalfPasses": 17,
+          "totalClearance": 1,
+          "ballRecovery": 13,
+          "goodHighClaim": 1,
+          "savedShotsFromInsideTheBox": 6,
+          "saves": 7,
+          "punches": 1,
+          "totalKeeperSweeper": 1,
+          "accurateKeeperSweeper": 1,
+          "minutesPlayed": 90,
+          "touches": 52,
+          "rating": 7.7,
+          "possessionLostCtrl": 17,
+          "expectedAssists": 0.003766,
+          "totalBallCarriesDistance": 16.18965596869,
+          "ballCarriesCount": 4,
+          "totalProgression": 11.265449695185,
+          "progressiveBallCarriesCount": 0,
+          "keeperSaveValue": 0.7616,
+          "ratingVersions": {
+            "original": 7.7,
+            "alternative": 8.1
+          },
+          "totalShots": 0,
+          "goalsPrevented": 0.7581,
+          "passValueNormalized": 0.13,
+          "dribbleValueNormalized": -0.03,
+          "defensiveValueNormalized": -0.12,
+          "goalkeeperValueNormalized": 0.57,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

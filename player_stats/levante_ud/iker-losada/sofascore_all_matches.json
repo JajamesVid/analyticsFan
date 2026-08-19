@@ -3477,131 +3477,6 @@
       "extra": null
     }
   },
-  "14083710": {
-    "id": 14083710,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Betis",
-        "shortName": "Real Betis",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "awayTeam": {
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "color": "#0e3b68",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "levante-ud-real-betis"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Iker Losada",
-        "slug": "iker-losada",
-        "shortName": "I. Losada",
-        "position": "M",
-        "jerseyNumber": "18",
-        "height": 175,
-        "userCount": 434,
-        "gender": "M",
-        "id": 992331,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 996624000,
-        "proposedMarketValueRaw": {
-          "value": 2000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إيكر لوسادا",
-            "bn": "ইকার লোসাদা",
-            "hi": "इकर लोसादा",
-            "ru": "Икер Лосада"
-          },
-          "shortNameTranslation": {
-            "ar": "إ. لوسادا",
-            "bn": "আই. লোসাদা",
-            "hi": "आई. लोसादा",
-            "ru": "И. Лосада"
-          }
-        }
-      },
-      "team": {
-        "name": "Levante UD",
-        "slug": "levante-ud",
-        "shortName": "Levante",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 116374,
-        "nameCode": "LEV",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2849,
-        "teamColors": {
-          "primary": "#0e3b68",
-          "secondary": "#d70000",
-          "text": "#d70000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ليفانتي يو دي",
-            "hi": "लेवांटे यूडी",
-            "ru": "Леванте"
-          },
-          "shortNameTranslation": {
-            "ar": "ليفانتي",
-            "bn": "লেভান্তে",
-            "hi": "लेवांते"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 4,
-        "accuratePass": 3,
-        "goalAssist": 0,
-        "totalOwnHalfPasses": 1,
-        "accurateOppositionHalfPasses": 3,
-        "totalOppositionHalfPasses": 3,
-        "totalCross": 1,
-        "duelLost": 1,
-        "duelWon": 1,
-        "totalContest": 1,
-        "ballRecovery": 1,
-        "totalTackle": 1,
-        "wonTackle": 1,
-        "totalOffside": 1,
-        "minutesPlayed": 12,
-        "touches": 8,
-        "rating": 6.5,
-        "possessionLostCtrl": 3,
-        "expectedAssists": 0.020904,
-        "totalBallCarriesDistance": 26.83383446867,
-        "ballCarriesCount": 3,
-        "totalProgression": 5.6950126998663,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.5,
-          "alternative": 6.5
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.01,
-        "dribbleValueNormalized": -0.09,
-        "defensiveValueNormalized": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12437737": {
     "id": 12437737,
     "match_info": {
@@ -16699,6 +16574,138 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083710": {
+    "id": 14083710,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "levante-ud-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Iker Losada",
+        "slug": "iker-losada",
+        "shortName": "I. Losada",
+        "position": "M",
+        "jerseyNumber": "14",
+        "height": 175,
+        "userCount": 468,
+        "gender": "M",
+        "sofascoreId": "vunb6g",
+        "id": 992331,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 996624000,
+        "proposedMarketValueRaw": {
+          "value": 2000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيكر لوسادا",
+            "bn": "ইকার লোসাদা",
+            "hi": "इकर लोसादा",
+            "ru": "Икер Лосада"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. لوسادا",
+            "bn": "আই. লোসাদা",
+            "hi": "आई. लोसादा",
+            "ru": "И. Лосада"
+          }
+        }
+      },
+      "team": {
+        "name": "Levante UD",
+        "slug": "levante-ud",
+        "shortName": "Levante",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 117899,
+        "nameCode": "LEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2849,
+        "teamColors": {
+          "primary": "#0e3b68",
+          "secondary": "#d70000",
+          "text": "#d70000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفانتي",
+            "hi": "लेवांटे यूडी",
+            "ru": "Леванте"
+          },
+          "shortNameTranslation": {
+            "ar": "ليفانتي",
+            "bn": "লেভান্তে",
+            "hi": "लेवांते"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 4,
+        "accuratePass": 3,
+        "goalAssist": 0,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 3,
+        "totalCross": 1,
+        "duelLost": 1,
+        "duelWon": 1,
+        "totalContest": 1,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "totalOffside": 1,
+        "minutesPlayed": 12,
+        "touches": 8,
+        "rating": 6.5,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 0.020904,
+        "topSpeed": 27.53,
+        "kilometersCovered": 2.05,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 26.83383446867,
+        "ballCarriesCount": 3,
+        "totalProgression": 5.6950126998663,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.01,
+        "dribbleValueNormalized": -0.09,
+        "defensiveValueNormalized": 0,
+        "metersCoveredRunningKm": 0.42,
+        "metersCoveredHighSpeedRunningKm": 0.12,
+        "metersCoveredSprintingKm": 0.03,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
     }
   }
 }

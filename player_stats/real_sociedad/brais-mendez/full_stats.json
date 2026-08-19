@@ -4624,126 +4624,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Espanyol",
-        "abreviatura": "ESP",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
-      },
-      "visitante": {
-        "nombre": "Real Sociedad",
-        "abreviatura": "RSO",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
-      }
-    },
-    "resultado": "1-1",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20445-espanyol-real-sociedad",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083719,
-      "match_info": {
-        "homeTeam": {
-          "name": "Espanyol",
-          "shortName": "Espanyol",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Real Sociedad",
-          "shortName": "Real Sociedad",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-sociedad-espanyol",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Brais Méndez",
-          "slug": "brais-mendez",
-          "shortName": "B. Méndez",
-          "position": "M",
-          "jerseyNumber": "23",
-          "height": 184,
-          "userCount": 2025,
-          "gender": "M",
-          "id": 845385,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 852595200,
-          "proposedMarketValueRaw": {
-            "value": 7800000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "برايس مينديز",
-              "bn": "ব্রাইস মেন্ডেজ",
-              "hi": "ब्राइस मेंडेज़",
-              "ru": "Брайс Мендес"
-            },
-            "shortNameTranslation": {
-              "ar": "ب. مينديز",
-              "bn": "বি. মেন্ডেজ",
-              "hi": "बी. मेंडेज़",
-              "ru": "Б. Мендес"
-            }
-          }
-        },
-        "team": {
-          "name": "Real Sociedad",
-          "slug": "real-sociedad",
-          "shortName": "Real Sociedad",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 413040,
-          "nameCode": "RSO",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2824,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#0077c7",
-            "text": "#0077c7"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ريال سوسيداد",
-              "bn": "রিয়াল সোসিয়েদাদ",
-              "hi": "रियल सोसियदाद",
-              "ru": "Реал Сосьедад"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "M",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Real Sociedad",
         "abreviatura": "RSO",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
@@ -28291,6 +28171,126 @@
           "expectedGoalsOnTarget": 0.0762,
           "expectedAssists": 0.219602,
           "totalShots": 1,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Espanyol",
+        "abreviatura": "ESP",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
+      },
+      "visitante": {
+        "nombre": "Real Sociedad",
+        "abreviatura": "RSO",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20445-espanyol-real-sociedad",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083719,
+      "match_info": {
+        "homeTeam": {
+          "name": "Espanyol",
+          "shortName": "Espanyol",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Real Sociedad",
+          "shortName": "Real Sociedad",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-sociedad-espanyol"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Brais Méndez",
+          "slug": "brais-mendez",
+          "shortName": "B. Méndez",
+          "position": "M",
+          "jerseyNumber": "10",
+          "height": 184,
+          "userCount": 2259,
+          "gender": "M",
+          "sofascoreId": "8i5abw",
+          "id": 845385,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 852595200,
+          "proposedMarketValueRaw": {
+            "value": 7800000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "برايس مينديز",
+              "bn": "ব্রাইস মেন্ডেজ",
+              "hi": "ब्राइस मेंडेज़",
+              "ru": "Брайс Мендес"
+            },
+            "shortNameTranslation": {
+              "ar": "ب. مينديز",
+              "bn": "বি. মেন্ডেজ",
+              "hi": "बी. मेंडेज़",
+              "ru": "Б. Мендес"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Sociedad",
+          "slug": "real-sociedad",
+          "shortName": "Real Sociedad",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 417327,
+          "nameCode": "RSO",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2824,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#0077c7",
+            "text": "#0077c7"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال سوسيداد",
+              "bn": "রিয়াল সোসিয়েদাদ",
+              "hi": "रियल सोसियदाद",
+              "ru": "Реал Сосьедад"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

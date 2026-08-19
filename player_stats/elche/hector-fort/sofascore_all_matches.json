@@ -3299,127 +3299,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Hector Fort",
-        "firstName": "Héctor Fort",
-        "slug": "fort-hector",
-        "shortName": "H. Fort",
-        "position": "D",
-        "jerseyNumber": "32",
-        "height": 185,
-        "userCount": 46242,
-        "gender": "M",
-        "sofascoreId": "hctorfort",
-        "id": 1402908,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1154476800,
-        "proposedMarketValueRaw": {
-          "value": 11600000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "هيكتور فورت",
-            "bn": "ফোর্ট, হেক্টর",
-            "hi": "फोर्ट, हेक्टर",
-            "ru": "Гектор Форт"
-          },
-          "shortNameTranslation": {
-            "ar": "ه. فورت",
-            "bn": "এইচ. ফোর্ট",
-            "hi": "एच. फोर्ट",
-            "ru": "Г. Форт"
-          }
-        }
-      },
-      "team": {
-        "name": "Elche",
-        "slug": "elche",
-        "shortName": "Elche",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 116534,
-        "nameCode": "ELC",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2846,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#336600",
-          "text": "#336600"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إلتشي",
-            "bn": "এলচে",
-            "hi": "एल्चे",
-            "ru": "Эльче"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 1,
-        "accuratePass": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 1,
-        "totalOwnHalfPasses": 1,
-        "duelLost": 2,
-        "dispossessed": 1,
-        "totalClearance": 2,
-        "ballRecovery": 1,
-        "fouls": 1,
-        "minutesPlayed": 14,
-        "touches": 6,
-        "rating": 6.6,
-        "possessionLostCtrl": 1,
-        "expectedAssists": 1.5e-05,
-        "topSpeed": 31.27,
-        "kilometersCovered": 1.79,
-        "numberOfSprints": 3,
-        "ratingVersions": {
-          "original": 6.6,
-          "alternative": 6.4
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0,
-        "defensiveValueNormalized": 0.17,
-        "metersCoveredRunningKm": 0.37,
-        "metersCoveredHighSpeedRunningKm": 0.08,
-        "metersCoveredSprintingKm": 0.04,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "13315898": {
     "id": 13315898,
     "match_info": {
@@ -16098,6 +15977,127 @@
       "statistics": {
         "minutesPlayed": 88,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Hector Fort",
+        "firstName": "Héctor Fort",
+        "slug": "fort-hector",
+        "shortName": "H. Fort",
+        "position": "D",
+        "jerseyNumber": "2",
+        "height": 185,
+        "userCount": 52539,
+        "gender": "M",
+        "sofascoreId": "hctorfort",
+        "id": 1402908,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1154476800,
+        "proposedMarketValueRaw": {
+          "value": 11600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هيكتور فورت",
+            "bn": "ফোর্ট, হেক্টর",
+            "hi": "फोर्ट, हेक्टर",
+            "ru": "Гектор Форт"
+          },
+          "shortNameTranslation": {
+            "ar": "ه. فورت",
+            "bn": "এইচ. ফোর্ট",
+            "hi": "एच. फोर्ट",
+            "ru": "Г. Форт"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 118908,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 1,
+        "accuratePass": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "duelLost": 2,
+        "dispossessed": 1,
+        "totalClearance": 2,
+        "ballRecovery": 1,
+        "fouls": 1,
+        "minutesPlayed": 14,
+        "touches": 6,
+        "rating": 6.6,
+        "possessionLostCtrl": 1,
+        "expectedAssists": 1.5e-05,
+        "topSpeed": 31.27,
+        "kilometersCovered": 1.79,
+        "numberOfSprints": 3,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0,
+        "defensiveValueNormalized": 0.17,
+        "metersCoveredRunningKm": 0.37,
+        "metersCoveredHighSpeedRunningKm": 0.08,
+        "metersCoveredSprintingKm": 0.04,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

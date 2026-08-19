@@ -3620,149 +3620,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Isaac Romero",
-        "firstName": "",
-        "lastName": "",
-        "slug": "romero-isaac",
-        "shortName": "I. Romero",
-        "position": "F",
-        "jerseyNumber": "7",
-        "height": 184,
-        "userCount": 1513,
-        "gender": "M",
-        "id": 1018190,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 958608000,
-        "proposedMarketValueRaw": {
-          "value": 5200000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "روميرو، إسحاق",
-            "bn": "রোমেরো, আইজ্যাক",
-            "hi": "रोमेरो, इसहाक",
-            "ru": "Ромеро, Исак"
-          },
-          "shortNameTranslation": {
-            "ar": "إ. روميرو",
-            "bn": "আই. রোমেরো",
-            "hi": "आई. रोमेरो",
-            "ru": "И. Ромеро"
-          }
-        }
-      },
-      "team": {
-        "name": "Sevilla",
-        "slug": "sevilla",
-        "shortName": "Sevilla",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 400830,
-        "nameCode": "SEV",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2833,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#cc1020",
-          "text": "#cc1020"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إشبيلية",
-            "bn": "সেভিলা",
-            "hi": "सेविला",
-            "ru": "Cевилья"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 11,
-        "accuratePass": 9,
-        "totalLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 2,
-        "totalOwnHalfPasses": 2,
-        "accurateOppositionHalfPasses": 7,
-        "totalOppositionHalfPasses": 9,
-        "totalCross": 1,
-        "aerialLost": 3,
-        "aerialWon": 1,
-        "duelLost": 8,
-        "duelWon": 3,
-        "dispossessed": 1,
-        "totalContest": 2,
-        "shotOffTarget": 2,
-        "totalClearance": 1,
-        "ballRecovery": 2,
-        "totalTackle": 1,
-        "wonTackle": 1,
-        "unsuccessfulTouch": 1,
-        "wasFouled": 1,
-        "fouls": 2,
-        "minutesPlayed": 64,
-        "touches": 22,
-        "rating": 6.1,
-        "possessionLostCtrl": 7,
-        "expectedGoals": 0.0532,
-        "expectedAssists": 0.0154342,
-        "topSpeed": 30.17,
-        "kilometersCovered": 7.9,
-        "numberOfSprints": 6,
-        "totalBallCarriesDistance": 41.984380085479,
-        "ballCarriesCount": 6,
-        "totalProgression": 31.395897018535,
-        "bestBallCarryProgression": 12.232460872891,
-        "totalProgressiveBallCarriesDistance": 12.548066942761,
-        "progressiveBallCarriesCount": 1,
-        "ratingVersions": {
-          "original": 6.1,
-          "alternative": 6.7
-        },
-        "totalShots": 2,
-        "shotValueNormalized": -0.35,
-        "passValueNormalized": -0.29,
-        "dribbleValueNormalized": 0.14,
-        "defensiveValueNormalized": 0.14,
-        "metersCoveredRunningKm": 1.29,
-        "metersCoveredHighSpeedRunningKm": 0.44,
-        "metersCoveredSprintingKm": 0.1,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12437733": {
     "id": 12437733,
     "match_info": {
@@ -12322,6 +12179,150 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Isaac Romero",
+        "firstName": "",
+        "lastName": "",
+        "slug": "romero-isaac",
+        "shortName": "I. Romero",
+        "position": "F",
+        "jerseyNumber": "7",
+        "height": 184,
+        "userCount": 1572,
+        "gender": "M",
+        "sofascoreId": "wrv3qg",
+        "id": 1018190,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 958608000,
+        "proposedMarketValueRaw": {
+          "value": 5200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "روميرو، إسحاق",
+            "bn": "রোমেরো, আইজ্যাক",
+            "hi": "रोमेरो, इसहाक",
+            "ru": "Ромеро, Исак"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. روميرو",
+            "bn": "আই. রোমেরো",
+            "hi": "आई. रोमेरो",
+            "ru": "И. Ромеро"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 405935,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Cевилья"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 11,
+        "accuratePass": 9,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 9,
+        "totalCross": 1,
+        "aerialLost": 3,
+        "aerialWon": 1,
+        "duelLost": 8,
+        "duelWon": 3,
+        "dispossessed": 1,
+        "totalContest": 2,
+        "shotOffTarget": 2,
+        "totalClearance": 1,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "fouls": 2,
+        "minutesPlayed": 64,
+        "touches": 22,
+        "rating": 6.1,
+        "possessionLostCtrl": 7,
+        "expectedGoals": 0.0532,
+        "expectedAssists": 0.0154342,
+        "topSpeed": 30.17,
+        "kilometersCovered": 7.9,
+        "numberOfSprints": 6,
+        "totalBallCarriesDistance": 41.984380085479,
+        "ballCarriesCount": 6,
+        "totalProgression": 31.395897018535,
+        "bestBallCarryProgression": 12.232460872891,
+        "totalProgressiveBallCarriesDistance": 12.548066942761,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.1,
+          "alternative": 6.7
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.35,
+        "passValueNormalized": -0.29,
+        "dribbleValueNormalized": 0.14,
+        "defensiveValueNormalized": 0.14,
+        "metersCoveredRunningKm": 1.29,
+        "metersCoveredHighSpeedRunningKm": 0.44,
+        "metersCoveredSprintingKm": 0.1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
     }
   }
 }

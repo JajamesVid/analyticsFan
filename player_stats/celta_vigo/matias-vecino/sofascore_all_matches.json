@@ -3391,124 +3391,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Matías Vecino",
-        "slug": "matias-vecino",
-        "shortName": "M. Vecino",
-        "position": "M",
-        "jerseyNumber": "15",
-        "height": 187,
-        "userCount": 1459,
-        "gender": "M",
-        "id": 158615,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 682992000,
-        "proposedMarketValueRaw": {
-          "value": 1600000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ماتياس فيسينو",
-            "bn": "মাতিয়াস ভেকিনো",
-            "hi": "मटियास वेसिनो",
-            "ru": "Матиас Вечино"
-          },
-          "shortNameTranslation": {
-            "ar": "م. فيسينو",
-            "bn": "মি. ভেকিনো",
-            "hi": "एम. वेसिनो",
-            "ru": "М. Вечино"
-          }
-        }
-      },
-      "team": {
-        "name": "Celta Vigo",
-        "slug": "celta-vigo",
-        "shortName": "Celta",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 266335,
-        "nameCode": "CEL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2821,
-        "teamColors": {
-          "primary": "#6cace4",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "سيلتا فيغو",
-            "bn": "সেলটা ভিগো",
-            "ru": "Сельта"
-          },
-          "shortNameTranslation": {
-            "ar": "سيلتا",
-            "hi": "सेल्टा"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 7,
-        "accuratePass": 7,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 3,
-        "totalOwnHalfPasses": 3,
-        "accurateOppositionHalfPasses": 4,
-        "totalOppositionHalfPasses": 4,
-        "duelLost": 1,
-        "duelWon": 1,
-        "totalClearance": 1,
-        "interceptionWon": 1,
-        "totalTackle": 1,
-        "wonTackle": 1,
-        "fouls": 1,
-        "minutesPlayed": 16,
-        "touches": 10,
-        "rating": 6.6,
-        "expectedAssists": 0.00173604,
-        "ratingVersions": {
-          "original": 6.6,
-          "alternative": 6.7
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.09,
-        "defensiveValueNormalized": 0.16,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12764092": {
     "id": 12764092,
     "match_info": {
@@ -22688,6 +22570,131 @@
       },
       "statistics": {
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Matías Vecino",
+        "slug": "matias-vecino",
+        "shortName": "M. Vecino",
+        "position": "M",
+        "jerseyNumber": "15",
+        "height": 187,
+        "userCount": 1484,
+        "gender": "M",
+        "sofascoreId": "xqaz8t",
+        "id": 158615,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 682992000,
+        "proposedMarketValueRaw": {
+          "value": 1100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماتياس فيسينو",
+            "bn": "মাতিয়াস ভেকিনো",
+            "hi": "मटियास वेसिनो",
+            "ru": "Матиас Вечино"
+          },
+          "shortNameTranslation": {
+            "ar": "م. فيسينو",
+            "bn": "মি. ভেকিনো",
+            "hi": "एम. वेसिनो",
+            "ru": "М. Вечино"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 267822,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 7,
+        "accuratePass": 7,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 4,
+        "duelLost": 1,
+        "duelWon": 1,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "fouls": 1,
+        "minutesPlayed": 16,
+        "touches": 10,
+        "rating": 6.6,
+        "expectedAssists": 0.00173604,
+        "topSpeed": 30.48,
+        "kilometersCovered": 2.4,
+        "numberOfSprints": 1,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.09,
+        "defensiveValueNormalized": 0.16,
+        "metersCoveredRunningKm": 0.4,
+        "metersCoveredHighSpeedRunningKm": 0.19,
+        "metersCoveredSprintingKm": 0.04,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

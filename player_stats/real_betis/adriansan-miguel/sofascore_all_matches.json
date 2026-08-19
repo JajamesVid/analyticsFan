@@ -2818,135 +2818,6 @@
       "extra": null
     }
   },
-  "14083710": {
-    "id": 14083710,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Betis",
-        "shortName": "Real Betis",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "awayTeam": {
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "color": "#0e3b68",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "levante-ud-real-betis"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Adrián",
-        "slug": "adrian",
-        "shortName": "Adrián",
-        "position": "G",
-        "jerseyNumber": "13",
-        "height": 190,
-        "userCount": 2157,
-        "gender": "M",
-        "id": 50539,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 536630400,
-        "proposedMarketValueRaw": {
-          "value": 415000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أدريان",
-            "bn": "অ্যাড্রিয়ান",
-            "hi": "एड्रियन",
-            "ru": "Адриан"
-          },
-          "shortNameTranslation": {
-            "ar": "أدريان",
-            "bn": "অ্যাড্রিয়ান",
-            "hi": "एड्रियन",
-            "ru": "Адриан"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Betis",
-        "slug": "real-betis",
-        "shortName": "Real Betis",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 600173,
-        "nameCode": "BET",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2816,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#006633",
-          "text": "#006633"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال بيتيس",
-            "ru": "Реал Бетис"
-          },
-          "shortNameTranslation": {
-            "ar": "ريال بيتيس",
-            "bn": "বেটিস",
-            "hi": "बेटिस"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 32,
-        "accuratePass": 26,
-        "totalLongBalls": 11,
-        "accurateLongBalls": 5,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 24,
-        "totalOwnHalfPasses": 26,
-        "accurateOppositionHalfPasses": 2,
-        "totalOppositionHalfPasses": 6,
-        "totalClearance": 1,
-        "ballRecovery": 14,
-        "savedShotsFromInsideTheBox": 5,
-        "saves": 6,
-        "punches": 1,
-        "totalKeeperSweeper": 1,
-        "accurateKeeperSweeper": 1,
-        "minutesPlayed": 90,
-        "touches": 47,
-        "rating": 8.1,
-        "possessionLostCtrl": 6,
-        "expectedAssists": 0.00057916,
-        "totalBallCarriesDistance": 37.863451481793,
-        "ballCarriesCount": 7,
-        "totalProgression": 19.742360819139,
-        "progressiveBallCarriesCount": 0,
-        "keeperSaveValue": 1.1188,
-        "ratingVersions": {
-          "original": 8.1,
-          "alternative": 8.1
-        },
-        "totalShots": 0,
-        "goalsPrevented": 2.2187,
-        "passValueNormalized": 0.07,
-        "dribbleValueNormalized": 0.05,
-        "defensiveValueNormalized": 0.35,
-        "goalkeeperValueNormalized": 0.78,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "G",
-      "extra": null
-    }
-  },
   "12437547": {
     "id": 12437547,
     "match_info": {
@@ -19347,6 +19218,132 @@
       },
       "statistics": {
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083710": {
+    "id": 14083710,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "levante-ud-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Adrián",
+        "slug": "adrian",
+        "shortName": "Adrián",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 190,
+        "userCount": 2172,
+        "gender": "M",
+        "sofascoreId": "vug6bs",
+        "id": 50539,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 536630400,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أدريان",
+            "bn": "অ্যাড্রিয়ান",
+            "hi": "एड्रियन",
+            "ru": "Адриан"
+          },
+          "shortNameTranslation": {
+            "ar": "أدريان",
+            "bn": "অ্যাড্রিয়ান",
+            "hi": "एड्रियन",
+            "ru": "Адриан"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Betis",
+        "slug": "real-betis",
+        "shortName": "Real Betis",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 609007,
+        "nameCode": "BET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2816,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#006633",
+          "text": "#006633"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال بيتيس",
+            "ru": "Реал Бетис"
+          },
+          "shortNameTranslation": {
+            "ar": "ريال بيتيس",
+            "bn": "বেটিস",
+            "hi": "बेटिस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 32,
+        "accuratePass": 26,
+        "totalLongBalls": 11,
+        "accurateLongBalls": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 24,
+        "totalOwnHalfPasses": 26,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 6,
+        "totalClearance": 1,
+        "ballRecovery": 14,
+        "savedShotsFromInsideTheBox": 5,
+        "saves": 6,
+        "punches": 1,
+        "totalKeeperSweeper": 1,
+        "accurateKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 47,
+        "rating": 8.1,
+        "possessionLostCtrl": 6,
+        "expectedAssists": 0.00057916,
+        "totalBallCarriesDistance": 37.863451481793,
+        "ballCarriesCount": 7,
+        "totalProgression": 19.742360819139,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 1.7711,
+        "ratingVersions": {
+          "original": 8.1,
+          "alternative": 8.1
+        },
+        "totalShots": 0,
+        "goalsPrevented": 2.2187,
+        "passValueNormalized": 0.07,
+        "dribbleValueNormalized": 0.05,
+        "defensiveValueNormalized": 0.35,
+        "goalkeeperValueNormalized": 1,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

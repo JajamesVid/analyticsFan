@@ -2992,100 +2992,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Joan Jordán",
-        "firstName": "Joan",
-        "lastName": "Jordan",
-        "slug": "joan-jordan",
-        "shortName": "J. Jordán",
-        "position": "M",
-        "jerseyNumber": "8",
-        "height": 184,
-        "userCount": 771,
-        "gender": "M",
-        "id": 591750,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 773452800,
-        "proposedMarketValueRaw": {
-          "value": 970000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "جوان جوردان",
-            "bn": "জন জর্ডান",
-            "hi": "जोआन जॉर्डन",
-            "ru": "Жоан Жордан"
-          },
-          "shortNameTranslation": {
-            "ar": "ج. جوردان",
-            "bn": "জে. জর্ডান",
-            "hi": "जे. जॉर्डन",
-            "ru": "Ж. Жордан"
-          }
-        }
-      },
-      "team": {
-        "name": "Sevilla",
-        "slug": "sevilla",
-        "shortName": "Sevilla",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 400830,
-        "nameCode": "SEV",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2833,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#cc1020",
-          "text": "#cc1020"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إشبيلية",
-            "bn": "সেভিলা",
-            "hi": "सेविला",
-            "ru": "Cевилья"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "11368655": {
     "id": 11368655,
     "match_info": {
@@ -22175,6 +22081,101 @@
         "rating": 7.2,
         "possessionLostCtrl": 15,
         "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Joan Jordán",
+        "firstName": "Joan",
+        "lastName": "Jordan",
+        "slug": "joan-jordan",
+        "shortName": "J. Jordán",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 184,
+        "userCount": 785,
+        "gender": "M",
+        "sofascoreId": "fmtu3b",
+        "id": 591750,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 773452800,
+        "proposedMarketValueRaw": {
+          "value": 970000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جوان جوردان",
+            "bn": "জন জর্ডান",
+            "hi": "जोआन जॉर्डन",
+            "ru": "Жоан Жордан"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. جوردان",
+            "bn": "জে. জর্ডান",
+            "hi": "जे. जॉर्डन",
+            "ru": "Ж. Жордан"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 405935,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Cевилья"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

@@ -3784,143 +3784,6 @@
       "extra": null
     }
   },
-  "14083706": {
-    "id": 14083706,
-    "match_info": {
-      "homeTeam": {
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "color": "#0232a0",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Rayo Vallecano",
-        "shortName": "Rayo Vallecano",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "deportivo-alaves-rayo-vallecano"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Lucas Boyé",
-        "firstName": "Lucas",
-        "lastName": "Boye",
-        "slug": "lucas-boye",
-        "shortName": "L. Boyé",
-        "position": "F",
-        "jerseyNumber": "15",
-        "height": 183,
-        "userCount": 1646,
-        "gender": "M",
-        "id": 814385,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 825465600,
-        "proposedMarketValueRaw": {
-          "value": 5300000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "لوكاس بويه",
-            "bn": "লুকাস বোয়ে",
-            "hi": "लुकास बोये"
-          },
-          "shortNameTranslation": {
-            "ar": "ل. بويه",
-            "bn": "এল. বোয়ে",
-            "hi": "एल. बोये"
-          }
-        }
-      },
-      "team": {
-        "name": "Deportivo Alavés",
-        "slug": "deportivo-alaves",
-        "shortName": "Alavés",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 152876,
-        "nameCode": "ALA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2885,
-        "teamColors": {
-          "primary": "#0232a0",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ديبورتيفو ألافيس",
-            "ru": "Алавес"
-          },
-          "shortNameTranslation": {
-            "ar": "ألافيس",
-            "bn": "আলাভেস",
-            "hi": "अलावेस"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 21,
-        "accuratePass": 16,
-        "totalLongBalls": 3,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 4,
-        "totalOwnHalfPasses": 6,
-        "accurateOppositionHalfPasses": 12,
-        "totalOppositionHalfPasses": 15,
-        "aerialLost": 1,
-        "duelLost": 6,
-        "duelWon": 5,
-        "dispossessed": 3,
-        "onTargetScoringAttempt": 1,
-        "blockedScoringAttempt": 3,
-        "totalClearance": 1,
-        "ballRecovery": 2,
-        "totalTackle": 2,
-        "wonTackle": 1,
-        "unsuccessfulTouch": 7,
-        "wasFouled": 3,
-        "fouls": 2,
-        "totalOffside": 1,
-        "minutesPlayed": 84,
-        "touches": 48,
-        "rating": 6.7,
-        "possessionLostCtrl": 16,
-        "expectedGoals": 0.3873,
-        "expectedGoalsOnTarget": 0.5189,
-        "expectedAssists": 0.0145435,
-        "totalBallCarriesDistance": 150.64387724687,
-        "ballCarriesCount": 20,
-        "totalProgression": -21.629404326911,
-        "progressiveBallCarriesCount": 0,
-        "keyPass": 3,
-        "ratingVersions": {
-          "original": 6.7,
-          "alternative": 7
-        },
-        "totalShots": 4,
-        "shotValueNormalized": 0.14,
-        "passValueNormalized": -0.04,
-        "dribbleValueNormalized": 0.23,
-        "defensiveValueNormalized": 0.16,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12467658": {
     "id": 12467658,
     "match_info": {
@@ -24320,6 +24183,152 @@
         "rating": 6.3,
         "possessionLostCtrl": 14,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083706": {
+    "id": 14083706,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "deportivo-alaves-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Lucas Boyé",
+        "firstName": "Lucas",
+        "lastName": "Boye",
+        "slug": "lucas-boye",
+        "shortName": "L. Boyé",
+        "position": "F",
+        "jerseyNumber": "15",
+        "height": 183,
+        "userCount": 1693,
+        "gender": "M",
+        "sofascoreId": "kezbpj",
+        "id": 814385,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 825465600,
+        "proposedMarketValueRaw": {
+          "value": 5300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "لوكاس بويه",
+            "bn": "লুকাস বোয়ে",
+            "hi": "लुकास बोये",
+            "ru": "Лукас Бойе"
+          },
+          "shortNameTranslation": {
+            "ar": "ل. بويه",
+            "bn": "এল. বোয়ে",
+            "hi": "एल. बोये",
+            "ru": "Л. Бойе"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 154032,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 21,
+        "accuratePass": 16,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 6,
+        "accurateOppositionHalfPasses": 12,
+        "totalOppositionHalfPasses": 15,
+        "aerialLost": 1,
+        "duelLost": 6,
+        "duelWon": 5,
+        "dispossessed": 3,
+        "onTargetScoringAttempt": 1,
+        "blockedScoringAttempt": 3,
+        "totalClearance": 1,
+        "ballRecovery": 2,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 7,
+        "wasFouled": 3,
+        "fouls": 2,
+        "totalOffside": 1,
+        "minutesPlayed": 84,
+        "touches": 48,
+        "rating": 6.7,
+        "possessionLostCtrl": 16,
+        "expectedGoals": 0.3873,
+        "expectedGoalsOnTarget": 0.5189,
+        "expectedAssists": 0.0145435,
+        "topSpeed": 27.99,
+        "kilometersCovered": 8.43,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 150.64387724687,
+        "ballCarriesCount": 20,
+        "totalProgression": -21.629404326911,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 3,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 7
+        },
+        "totalShots": 4,
+        "shotValueNormalized": 0.21,
+        "passValueNormalized": -0.04,
+        "dribbleValueNormalized": 0.23,
+        "defensiveValueNormalized": 0.16,
+        "metersCoveredRunningKm": 1.36,
+        "metersCoveredHighSpeedRunningKm": 0.36,
+        "metersCoveredSprintingKm": 0.04,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

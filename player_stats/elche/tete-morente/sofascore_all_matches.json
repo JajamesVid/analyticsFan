@@ -3616,146 +3616,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Tete Morente",
-        "firstName": "Tete",
-        "lastName": "Morente",
-        "slug": "tete-morente",
-        "shortName": "T. Morente",
-        "position": "F",
-        "jerseyNumber": "15",
-        "height": 180,
-        "userCount": 452,
-        "gender": "M",
-        "sofascoreId": "puiqh7",
-        "id": 605374,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 849657600,
-        "proposedMarketValueRaw": {
-          "value": 1600000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "تيتي مورينتي",
-            "bn": "টেটে, মোরেন্তে",
-            "hi": "टेटे मोरेंटे",
-            "ru": "Тете Моренте"
-          },
-          "shortNameTranslation": {
-            "ar": "ت. مورينتي",
-            "bn": "টি. মোরেন্তে",
-            "hi": "टी. मोरेंटे",
-            "ru": "Т. Моренте"
-          }
-        }
-      },
-      "team": {
-        "name": "Elche",
-        "slug": "elche",
-        "shortName": "Elche",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 116534,
-        "nameCode": "ELC",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2846,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#336600",
-          "text": "#336600"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إلتشي",
-            "bn": "এলচে",
-            "hi": "एल्चे",
-            "ru": "Эльче"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 18,
-        "accuratePass": 12,
-        "totalLongBalls": 2,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 3,
-        "totalOwnHalfPasses": 4,
-        "accurateOppositionHalfPasses": 9,
-        "totalOppositionHalfPasses": 14,
-        "totalCross": 2,
-        "duelLost": 8,
-        "duelWon": 3,
-        "dispossessed": 1,
-        "totalContest": 3,
-        "wonContest": 2,
-        "totalClearance": 2,
-        "interceptionWon": 1,
-        "ballRecovery": 2,
-        "unsuccessfulTouch": 2,
-        "wasFouled": 1,
-        "fouls": 6,
-        "minutesPlayed": 90,
-        "touches": 34,
-        "rating": 6.1,
-        "possessionLostCtrl": 12,
-        "expectedAssists": 0.0150759,
-        "topSpeed": 33.42,
-        "kilometersCovered": 9.89,
-        "numberOfSprints": 13,
-        "totalBallCarriesDistance": 75.794266090324,
-        "ballCarriesCount": 6,
-        "totalProgression": 44.314188157522,
-        "bestBallCarryProgression": 32.981985423099,
-        "totalProgressiveBallCarriesDistance": 49.258912969196,
-        "progressiveBallCarriesCount": 2,
-        "ratingVersions": {
-          "original": 6.1,
-          "alternative": 6.5
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.28,
-        "dribbleValueNormalized": 0.19,
-        "defensiveValueNormalized": 0.14,
-        "metersCoveredRunningKm": 1.23,
-        "metersCoveredHighSpeedRunningKm": 0.32,
-        "metersCoveredSprintingKm": 0.18,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12504641": {
     "id": 12504641,
     "match_info": {
@@ -24488,6 +24348,146 @@
         "rating": 6.7,
         "possessionLostCtrl": 2,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Tete Morente",
+        "firstName": "Tete",
+        "lastName": "Morente",
+        "slug": "tete-morente",
+        "shortName": "T. Morente",
+        "position": "F",
+        "jerseyNumber": "15",
+        "height": 180,
+        "userCount": 445,
+        "gender": "M",
+        "sofascoreId": "puiqh7",
+        "id": 605374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 849657600,
+        "proposedMarketValueRaw": {
+          "value": 1600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "تيتي مورينتي",
+            "bn": "টেটে, মোরেন্তে",
+            "hi": "टेटे मोरेंटे",
+            "ru": "Тете Моренте"
+          },
+          "shortNameTranslation": {
+            "ar": "ت. مورينتي",
+            "bn": "টি. মোরেন্তে",
+            "hi": "टी. मोरेंटे",
+            "ru": "Т. Моренте"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 118908,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 18,
+        "accuratePass": 12,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 14,
+        "totalCross": 2,
+        "duelLost": 8,
+        "duelWon": 3,
+        "dispossessed": 1,
+        "totalContest": 3,
+        "wonContest": 2,
+        "totalClearance": 2,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "fouls": 6,
+        "minutesPlayed": 90,
+        "touches": 34,
+        "rating": 6.1,
+        "possessionLostCtrl": 12,
+        "expectedAssists": 0.0150759,
+        "topSpeed": 33.42,
+        "kilometersCovered": 9.89,
+        "numberOfSprints": 13,
+        "totalBallCarriesDistance": 75.794266090324,
+        "ballCarriesCount": 6,
+        "totalProgression": 44.314188157522,
+        "bestBallCarryProgression": 32.981985423099,
+        "totalProgressiveBallCarriesDistance": 49.258912969196,
+        "progressiveBallCarriesCount": 2,
+        "ratingVersions": {
+          "original": 6.1,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.28,
+        "dribbleValueNormalized": 0.19,
+        "defensiveValueNormalized": 0.14,
+        "metersCoveredRunningKm": 1.23,
+        "metersCoveredHighSpeedRunningKm": 0.32,
+        "metersCoveredSprintingKm": 0.18,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

@@ -3297,140 +3297,6 @@
       "extra": null
     }
   },
-  "14083706": {
-    "id": 14083706,
-    "match_info": {
-      "homeTeam": {
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "color": "#0232a0",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Rayo Vallecano",
-        "shortName": "Rayo Vallecano",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "deportivo-alaves-rayo-vallecano"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Sergio Camello",
-        "firstName": "Sergio",
-        "lastName": "Camello",
-        "slug": "sergio-camello",
-        "shortName": "S. Camello",
-        "position": "F",
-        "jerseyNumber": "10",
-        "height": 177,
-        "userCount": 1190,
-        "gender": "M",
-        "id": 910024,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 981763200,
-        "proposedMarketValueRaw": {
-          "value": 3300000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "سيرجيو كامييو",
-            "bn": "সার্জিও ক্যামেলো",
-            "hi": "सर्जियो कैमेलो",
-            "ru": "Серхио Камельо"
-          },
-          "shortNameTranslation": {
-            "ar": "س. كامييو",
-            "bn": "এস. ক্যামেলো",
-            "hi": "एस. कैमेलो",
-            "ru": "С. Камельо"
-          }
-        }
-      },
-      "team": {
-        "name": "Rayo Vallecano",
-        "slug": "rayo-vallecano",
-        "shortName": "Rayo Vallecano",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 227407,
-        "nameCode": "RAY",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2818,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "رايو فاليكانو",
-            "bn": "রায়ো ভ্যালেকানো",
-            "hi": "रेयो वैलेकैनो",
-            "ru": "Райо Вальекано"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 15,
-        "accuratePass": 13,
-        "goalAssist": 1,
-        "accurateOwnHalfPasses": 5,
-        "totalOwnHalfPasses": 6,
-        "accurateOppositionHalfPasses": 8,
-        "totalOppositionHalfPasses": 9,
-        "duelLost": 3,
-        "duelWon": 2,
-        "dispossessed": 2,
-        "bigChanceCreated": 1,
-        "onTargetScoringAttempt": 2,
-        "goals": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 5,
-        "totalTackle": 1,
-        "wonTackle": 1,
-        "unsuccessfulTouch": 2,
-        "wasFouled": 1,
-        "fouls": 1,
-        "minutesPlayed": 52,
-        "touches": 25,
-        "rating": 8.1,
-        "possessionLostCtrl": 6,
-        "expectedGoals": 0.3311,
-        "expectedGoalsOnTarget": 0.3874,
-        "expectedAssists": 0.153037,
-        "totalBallCarriesDistance": 104.63749458546,
-        "ballCarriesCount": 16,
-        "totalProgression": -5.4861171382972,
-        "progressiveBallCarriesCount": 0,
-        "keyPass": 2,
-        "ratingVersions": {
-          "original": 8.1,
-          "alternative": 8.3
-        },
-        "totalShots": 2,
-        "shotValueNormalized": 0.48,
-        "passValueNormalized": 0.25,
-        "dribbleValueNormalized": 0.51,
-        "defensiveValueNormalized": 0.18,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "15632649": {
     "id": 15632649,
     "match_info": {
@@ -23148,6 +23014,147 @@
         "expectedGoalsOnTarget": 0.018,
         "expectedAssists": 0.00075383,
         "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083706": {
+    "id": 14083706,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "deportivo-alaves-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Sergio Camello",
+        "firstName": "Sergio",
+        "lastName": "Camello",
+        "slug": "sergio-camello",
+        "shortName": "S. Camello",
+        "position": "F",
+        "jerseyNumber": "10",
+        "height": 177,
+        "userCount": 1195,
+        "gender": "M",
+        "sofascoreId": "eebi78",
+        "id": 910024,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 981763200,
+        "proposedMarketValueRaw": {
+          "value": 3300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيرجيو كامييو",
+            "bn": "সার্জিও ক্যামেলো",
+            "hi": "सर्जियो कैमेलो",
+            "ru": "Серхио Камельо"
+          },
+          "shortNameTranslation": {
+            "ar": "س. كامييو",
+            "bn": "এস. ক্যামেলো",
+            "hi": "एस. कैमेलो",
+            "ru": "С. Камельо"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 227211,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 15,
+        "accuratePass": 13,
+        "goalAssist": 1,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 6,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 9,
+        "duelLost": 3,
+        "duelWon": 2,
+        "dispossessed": 2,
+        "bigChanceCreated": 1,
+        "onTargetScoringAttempt": 2,
+        "goals": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 5,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 52,
+        "touches": 25,
+        "rating": 8.1,
+        "possessionLostCtrl": 6,
+        "expectedGoals": 0.3311,
+        "expectedGoalsOnTarget": 0.3874,
+        "expectedAssists": 0.153037,
+        "topSpeed": 31.13,
+        "kilometersCovered": 6.37,
+        "numberOfSprints": 10,
+        "totalBallCarriesDistance": 104.63749458546,
+        "ballCarriesCount": 16,
+        "totalProgression": -5.4861171382972,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 8.1,
+          "alternative": 8.3
+        },
+        "totalShots": 2,
+        "shotValueNormalized": 0.48,
+        "passValueNormalized": 0.25,
+        "dribbleValueNormalized": 0.51,
+        "defensiveValueNormalized": 0.18,
+        "metersCoveredRunningKm": 0.92,
+        "metersCoveredHighSpeedRunningKm": 0.4,
+        "metersCoveredSprintingKm": 0.14,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

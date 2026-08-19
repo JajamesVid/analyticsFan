@@ -4989,126 +4989,6 @@
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
       },
       "visitante": {
-        "nombre": "Real Sociedad",
-        "abreviatura": "RSO",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
-      }
-    },
-    "resultado": "1-1",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20445-espanyol-real-sociedad",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083719,
-      "match_info": {
-        "homeTeam": {
-          "name": "Espanyol",
-          "shortName": "Espanyol",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Real Sociedad",
-          "shortName": "Real Sociedad",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-sociedad-espanyol",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Clemens Riedel",
-          "slug": "clemens-riedel",
-          "shortName": "C. Riedel",
-          "position": "D",
-          "jerseyNumber": "38",
-          "height": 186,
-          "userCount": 372,
-          "gender": "M",
-          "id": 1129360,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 1058572800,
-          "proposedMarketValueRaw": {
-            "value": 3900000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "كليمنس ريدل",
-              "bn": "ক্লেমেন্স রিডেল",
-              "hi": "क्लेमेंस रीडेल",
-              "ru": "Клеменс Ридель"
-            },
-            "shortNameTranslation": {
-              "ar": "ك. ريدل",
-              "bn": "সি. রিডেল",
-              "hi": "सी. रीडेल",
-              "ru": "К. Ридель"
-            }
-          }
-        },
-        "team": {
-          "name": "Espanyol",
-          "slug": "espanyol",
-          "shortName": "Espanyol",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 183240,
-          "nameCode": "ESP",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2814,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#1369d2",
-            "text": "#1369d2"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "اسبانيول",
-              "bn": "এসপানিওল",
-              "hi": "एस्पेनयोल",
-              "ru": "Эспаньол"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "D",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
-        "nombre": "Espanyol",
-        "abreviatura": "ESP",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
-      },
-      "visitante": {
         "nombre": "Osasuna",
         "abreviatura": "OSA",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
@@ -6117,6 +5997,126 @@
           "passValueNormalized": 0.4,
           "dribbleValueNormalized": 0.14,
           "defensiveValueNormalized": 0.14,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Espanyol",
+        "abreviatura": "ESP",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
+      },
+      "visitante": {
+        "nombre": "Real Sociedad",
+        "abreviatura": "RSO",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20445-espanyol-real-sociedad",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083719,
+      "match_info": {
+        "homeTeam": {
+          "name": "Espanyol",
+          "shortName": "Espanyol",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Real Sociedad",
+          "shortName": "Real Sociedad",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-sociedad-espanyol"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Clemens Riedel",
+          "slug": "clemens-riedel",
+          "shortName": "C. Riedel",
+          "position": "D",
+          "jerseyNumber": "38",
+          "height": 186,
+          "userCount": 378,
+          "gender": "M",
+          "sofascoreId": "sndmzs",
+          "id": 1129360,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1058572800,
+          "proposedMarketValueRaw": {
+            "value": 3900000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كليمنس ريدل",
+              "bn": "ক্লেমেন্স রিডেল",
+              "hi": "क्लेमेंस रीडेल",
+              "ru": "Клеменс Ридель"
+            },
+            "shortNameTranslation": {
+              "ar": "ك. ريدل",
+              "bn": "সি. রিডেল",
+              "hi": "सी. रीडेल",
+              "ru": "К. Ридель"
+            }
+          }
+        },
+        "team": {
+          "name": "Espanyol",
+          "slug": "espanyol",
+          "shortName": "Espanyol",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 184894,
+          "nameCode": "ESP",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2814,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#1369d2",
+            "text": "#1369d2"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "اسبانيول",
+              "bn": "এসপানিওল",
+              "hi": "एस्पेनयोल",
+              "ru": "Эспаньол"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

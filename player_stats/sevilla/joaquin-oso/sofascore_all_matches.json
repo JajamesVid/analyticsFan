@@ -3578,141 +3578,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Oso",
-        "slug": "oso",
-        "shortName": "Oso",
-        "position": "M",
-        "jerseyNumber": "36",
-        "height": 183,
-        "userCount": 501,
-        "gender": "M",
-        "id": 1534422,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1057708800,
-        "proposedMarketValueRaw": {
-          "value": 10500000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أوسو",
-            "ru": "Осо"
-          },
-          "shortNameTranslation": {
-            "ar": "أوسو",
-            "ru": "Осо"
-          }
-        }
-      },
-      "team": {
-        "name": "Sevilla",
-        "slug": "sevilla",
-        "shortName": "Sevilla",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 400830,
-        "nameCode": "SEV",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2833,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#cc1020",
-          "text": "#cc1020"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إشبيلية",
-            "bn": "সেভিলা",
-            "hi": "सेविला",
-            "ru": "Cевилья"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 29,
-        "accuratePass": 23,
-        "totalLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 9,
-        "totalOwnHalfPasses": 10,
-        "accurateOppositionHalfPasses": 14,
-        "totalOppositionHalfPasses": 19,
-        "totalCross": 2,
-        "aerialWon": 1,
-        "duelLost": 3,
-        "duelWon": 6,
-        "totalContest": 3,
-        "wonContest": 2,
-        "totalClearance": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 6,
-        "totalTackle": 2,
-        "wonTackle": 1,
-        "unsuccessfulTouch": 2,
-        "wasFouled": 1,
-        "fouls": 2,
-        "minutesPlayed": 77,
-        "touches": 42,
-        "rating": 7,
-        "possessionLostCtrl": 12,
-        "expectedAssists": 0.0356869,
-        "topSpeed": 29.78,
-        "kilometersCovered": 8.27,
-        "numberOfSprints": 8,
-        "totalBallCarriesDistance": 109.64593901378,
-        "ballCarriesCount": 12,
-        "totalProgression": 46.061594396915,
-        "bestBallCarryProgression": 20.217795704544,
-        "totalProgressiveBallCarriesDistance": 25.253,
-        "progressiveBallCarriesCount": 1,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 7,
-          "alternative": 7
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0,
-        "dribbleValueNormalized": 0.09,
-        "defensiveValueNormalized": 0.27,
-        "metersCoveredRunningKm": 1.33,
-        "metersCoveredHighSpeedRunningKm": 0.47,
-        "metersCoveredSprintingKm": 0.09,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12597515": {
     "id": 12597515,
     "match_info": {
@@ -8942,6 +8807,142 @@
         }
       },
       "position": "M",
+      "extra": null
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Oso",
+        "slug": "oso",
+        "shortName": "Oso",
+        "position": "M",
+        "jerseyNumber": "36",
+        "height": 183,
+        "userCount": 573,
+        "gender": "M",
+        "sofascoreId": "dqm8v8",
+        "id": 1534422,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1057708800,
+        "proposedMarketValueRaw": {
+          "value": 10500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوسو",
+            "ru": "Осо"
+          },
+          "shortNameTranslation": {
+            "ar": "أوسو",
+            "ru": "Осо"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 405935,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Cевилья"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 29,
+        "accuratePass": 23,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 9,
+        "totalOwnHalfPasses": 10,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 19,
+        "totalCross": 2,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 6,
+        "totalContest": 3,
+        "wonContest": 2,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 6,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "fouls": 2,
+        "minutesPlayed": 77,
+        "touches": 42,
+        "rating": 7,
+        "possessionLostCtrl": 12,
+        "expectedAssists": 0.0356869,
+        "topSpeed": 29.78,
+        "kilometersCovered": 8.27,
+        "numberOfSprints": 8,
+        "totalBallCarriesDistance": 109.64593901378,
+        "ballCarriesCount": 12,
+        "totalProgression": 46.061594396915,
+        "bestBallCarryProgression": 20.217795704544,
+        "totalProgressiveBallCarriesDistance": 25.253,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0,
+        "dribbleValueNormalized": 0.09,
+        "defensiveValueNormalized": 0.27,
+        "metersCoveredRunningKm": 1.33,
+        "metersCoveredHighSpeedRunningKm": 0.47,
+        "metersCoveredSprintingKm": 0.09,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
       "extra": null
     }
   }

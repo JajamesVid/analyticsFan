@@ -3853,145 +3853,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Vitor Reis",
-        "slug": "reis-vitor",
-        "shortName": "V. Reis",
-        "position": "D",
-        "jerseyNumber": "22",
-        "height": 186,
-        "userCount": 13922,
-        "gender": "M",
-        "sofascoreId": "vitorreiss_06",
-        "id": 1485300,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1137024000,
-        "proposedMarketValueRaw": {
-          "value": 31000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فيتور ريس",
-            "bn": "ভিটর রেইস",
-            "hi": "विटोर रीस",
-            "ru": "Витор Рейс"
-          },
-          "shortNameTranslation": {
-            "ar": "ف. ريس",
-            "bn": "ভি. রেইস",
-            "hi": "वी. रीस",
-            "ru": "В. Рейс"
-          }
-        }
-      },
-      "team": {
-        "name": "Girona FC",
-        "slug": "girona-fc",
-        "shortName": "Girona",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 373692,
-        "nameCode": "GIR",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 24264,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ff0000",
-          "text": "#ff0000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "جيرونا إف سي",
-            "hi": "जिरोना",
-            "ru": "Жирона"
-          },
-          "shortNameTranslation": {
-            "ar": "جيرونا",
-            "bn": "জিরোনা",
-            "hi": "गिरोना"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 44,
-        "accuratePass": 37,
-        "totalLongBalls": 3,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 28,
-        "totalOwnHalfPasses": 31,
-        "accurateOppositionHalfPasses": 9,
-        "totalOppositionHalfPasses": 13,
-        "aerialLost": 4,
-        "aerialWon": 5,
-        "duelLost": 8,
-        "duelWon": 7,
-        "totalClearance": 8,
-        "interceptionWon": 2,
-        "ballRecovery": 4,
-        "totalTackle": 2,
-        "wonTackle": 2,
-        "unsuccessfulTouch": 5,
-        "fouls": 4,
-        "minutesPlayed": 90,
-        "touches": 67,
-        "rating": 6.2,
-        "possessionLostCtrl": 12,
-        "expectedAssists": 0.00456009,
-        "topSpeed": 28.04,
-        "kilometersCovered": 9.62,
-        "numberOfSprints": 4,
-        "totalBallCarriesDistance": 142.08074821725,
-        "ballCarriesCount": 17,
-        "totalProgression": 96.798787731575,
-        "bestBallCarryProgression": 23.46786154039,
-        "totalProgressiveBallCarriesDistance": 26.791919098863,
-        "progressiveBallCarriesCount": 1,
-        "ratingVersions": {
-          "original": 6.2,
-          "alternative": 6.8
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.05,
-        "dribbleValueNormalized": 0.11,
-        "defensiveValueNormalized": -0.19,
-        "metersCoveredRunningKm": 1.26,
-        "metersCoveredHighSpeedRunningKm": 0.3,
-        "metersCoveredSprintingKm": 0.03,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12117330": {
     "id": 12117330,
     "match_info": {
@@ -12503,6 +12364,145 @@
           "alternative": null
         },
         "totalShots": 3,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Vitor Reis",
+        "slug": "reis-vitor",
+        "shortName": "V. Reis",
+        "position": "D",
+        "jerseyNumber": "22",
+        "height": 186,
+        "userCount": 15497,
+        "gender": "M",
+        "sofascoreId": "vitorreiss_06",
+        "id": 1485300,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1137024000,
+        "proposedMarketValueRaw": {
+          "value": 31000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيتور ريس",
+            "bn": "ভিটর রেইস",
+            "hi": "विटोर रीस",
+            "ru": "Витор Рейс"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. ريس",
+            "bn": "ভি. রেইস",
+            "hi": "वी. रीस",
+            "ru": "В. Рейс"
+          }
+        }
+      },
+      "team": {
+        "name": "Girona FC",
+        "slug": "girona-fc",
+        "shortName": "Girona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 374248,
+        "nameCode": "GIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24264,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جيرونا إف سي",
+            "hi": "जिरोना",
+            "ru": "Жирона"
+          },
+          "shortNameTranslation": {
+            "ar": "جيرونا",
+            "bn": "জিরোনা",
+            "hi": "गिरोना"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 44,
+        "accuratePass": 37,
+        "totalLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 28,
+        "totalOwnHalfPasses": 31,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 13,
+        "aerialLost": 4,
+        "aerialWon": 5,
+        "duelLost": 8,
+        "duelWon": 7,
+        "totalClearance": 8,
+        "interceptionWon": 2,
+        "ballRecovery": 4,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "unsuccessfulTouch": 5,
+        "fouls": 4,
+        "minutesPlayed": 90,
+        "touches": 67,
+        "rating": 6.2,
+        "possessionLostCtrl": 12,
+        "expectedAssists": 0.00456009,
+        "topSpeed": 28.04,
+        "kilometersCovered": 9.62,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 142.08074821725,
+        "ballCarriesCount": 17,
+        "totalProgression": 96.798787731575,
+        "bestBallCarryProgression": 23.46786154039,
+        "totalProgressiveBallCarriesDistance": 26.791919098863,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.2,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.05,
+        "dribbleValueNormalized": 0.11,
+        "defensiveValueNormalized": -0.19,
+        "metersCoveredRunningKm": 1.26,
+        "metersCoveredHighSpeedRunningKm": 0.3,
+        "metersCoveredSprintingKm": 0.03,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

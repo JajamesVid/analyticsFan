@@ -3627,100 +3627,6 @@
       "extra": null
     }
   },
-  "14083706": {
-    "id": 14083706,
-    "match_info": {
-      "homeTeam": {
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "color": "#0232a0",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Rayo Vallecano",
-        "shortName": "Rayo Vallecano",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "deportivo-alaves-rayo-vallecano"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Fran Pérez",
-        "firstName": "",
-        "lastName": "",
-        "slug": "fran-perez",
-        "shortName": "F. Pérez",
-        "position": "M",
-        "jerseyNumber": "21",
-        "height": 176,
-        "userCount": 545,
-        "gender": "M",
-        "id": 966637,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1031529600,
-        "proposedMarketValueRaw": {
-          "value": 2300000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فران بيريز",
-            "bn": "ফ্রান পেরেজ",
-            "hi": "फ्रान पेरेज़",
-            "ru": "Фран Перес"
-          },
-          "shortNameTranslation": {
-            "ar": "ف. بيريز",
-            "bn": "এফ. পেরেজ",
-            "hi": "एफ. पेरेज़",
-            "ru": "Ф. Перес"
-          }
-        }
-      },
-      "team": {
-        "name": "Rayo Vallecano",
-        "slug": "rayo-vallecano",
-        "shortName": "Rayo Vallecano",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 227407,
-        "nameCode": "RAY",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2818,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "رايو فاليكانو",
-            "bn": "রায়ো ভ্যালেকানো",
-            "hi": "रेयो वैलेकैनो",
-            "ru": "Райо Вальекано"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12437556": {
     "id": 12437556,
     "match_info": {
@@ -19071,6 +18977,101 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083706": {
+    "id": 14083706,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "deportivo-alaves-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Fran Pérez",
+        "firstName": "",
+        "lastName": "",
+        "slug": "fran-perez",
+        "shortName": "F. Pérez",
+        "position": "M",
+        "jerseyNumber": "21",
+        "height": 176,
+        "userCount": 548,
+        "gender": "M",
+        "sofascoreId": "wrrfgg",
+        "id": 966637,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1031529600,
+        "proposedMarketValueRaw": {
+          "value": 2300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فران بيريز",
+            "bn": "ফ্রান পেরেজ",
+            "hi": "फ्रान पेरेज़",
+            "ru": "Фран Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. بيريز",
+            "bn": "এফ. পেরেজ",
+            "hi": "एफ. पेरेज़",
+            "ru": "Ф. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 227211,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
     }
   }
 }

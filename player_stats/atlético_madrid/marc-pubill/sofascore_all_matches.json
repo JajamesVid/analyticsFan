@@ -3007,136 +3007,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Marc Pubill",
-        "slug": "marc-pubill",
-        "shortName": "Pubill",
-        "position": "D",
-        "jerseyNumber": "18",
-        "height": 190,
-        "userCount": 5397,
-        "gender": "M",
-        "id": 1094106,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1056067200,
-        "proposedMarketValueRaw": {
-          "value": 33000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "مارك بوبيل",
-            "bn": "মার্ক পাবিল",
-            "hi": "मार्क पबिल",
-            "ru": "Марк Пубиль"
-          },
-          "shortNameTranslation": {
-            "ar": "بوبيل",
-            "bn": "পাবিল",
-            "hi": "पबिल पबिल",
-            "ru": "М. Пубиль"
-          }
-        }
-      },
-      "team": {
-        "name": "Atlético Madrid",
-        "slug": "atletico-madrid",
-        "shortName": "Atl. Madrid",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 2591268,
-        "nameCode": "ATM",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2836,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#c40000",
-          "text": "#c40000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أتلتيكو مدريد",
-            "hi": "एटलेटिको मैड्रिड",
-            "ru": "Атлетико Мадрид"
-          },
-          "shortNameTranslation": {
-            "ar": "أتل. مدريد",
-            "bn": "এটিএল. মাদ্রিদ"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 42,
-        "accuratePass": 39,
-        "totalLongBalls": 2,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 22,
-        "totalOwnHalfPasses": 24,
-        "accurateOppositionHalfPasses": 17,
-        "totalOppositionHalfPasses": 18,
-        "duelWon": 1,
-        "onTargetScoringAttempt": 1,
-        "goals": 1,
-        "ballRecovery": 1,
-        "totalTackle": 1,
-        "unsuccessfulTouch": 1,
-        "minutesPlayed": 45,
-        "touches": 48,
-        "rating": 6.6,
-        "possessionLostCtrl": 4,
-        "expectedGoals": 0.4462,
-        "expectedGoalsOnTarget": 0.9848,
-        "expectedAssists": 0.00621039,
-        "totalBallCarriesDistance": 155.91566407419,
-        "ballCarriesCount": 13,
-        "totalProgression": 92.701893777725,
-        "bestBallCarryProgression": 21.981111853886,
-        "totalProgressiveBallCarriesDistance": 50.533524257268,
-        "progressiveBallCarriesCount": 2,
-        "ratingVersions": {
-          "original": 6.6,
-          "alternative": 6.7
-        },
-        "totalShots": 1,
-        "shotValueNormalized": 0.44,
-        "passValueNormalized": 0.15,
-        "dribbleValueNormalized": 0.07,
-        "defensiveValueNormalized": -0.73,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "16186149": {
     "id": 16186149,
     "match_info": {
@@ -23668,6 +23538,143 @@
       },
       "statistics": {
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Marc Pubill",
+        "slug": "marc-pubill",
+        "shortName": "Pubill",
+        "position": "D",
+        "jerseyNumber": "18",
+        "height": 190,
+        "userCount": 6433,
+        "gender": "M",
+        "sofascoreId": "tdprgm",
+        "id": 1094106,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1056067200,
+        "proposedMarketValueRaw": {
+          "value": 33000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مارك بوبيل",
+            "bn": "মার্ক পাবিল",
+            "hi": "मार्क पबिल",
+            "ru": "Марк Пубиль"
+          },
+          "shortNameTranslation": {
+            "ar": "بوبيل",
+            "bn": "পাবিল",
+            "hi": "पबिल पबिल",
+            "ru": "М. Пубиль"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atl. Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2635078,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 42,
+        "accuratePass": 39,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 22,
+        "totalOwnHalfPasses": 24,
+        "accurateOppositionHalfPasses": 17,
+        "totalOppositionHalfPasses": 18,
+        "duelWon": 1,
+        "onTargetScoringAttempt": 1,
+        "goals": 1,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 45,
+        "touches": 48,
+        "rating": 6.6,
+        "possessionLostCtrl": 4,
+        "expectedGoals": 0.4462,
+        "expectedGoalsOnTarget": 0.9848,
+        "expectedAssists": 0.00621039,
+        "topSpeed": 34.26,
+        "kilometersCovered": 5.3,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 155.91566407419,
+        "ballCarriesCount": 13,
+        "totalProgression": 92.701893777725,
+        "bestBallCarryProgression": 21.981111853886,
+        "totalProgressiveBallCarriesDistance": 50.533524257268,
+        "progressiveBallCarriesCount": 2,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.7
+        },
+        "totalShots": 1,
+        "shotValueNormalized": 0.44,
+        "passValueNormalized": 0.15,
+        "dribbleValueNormalized": 0.07,
+        "defensiveValueNormalized": -0.73,
+        "metersCoveredRunningKm": 0.76,
+        "metersCoveredHighSpeedRunningKm": 0.24,
+        "metersCoveredSprintingKm": 0.06,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

@@ -3004,135 +3004,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Neal Maupay",
-        "firstName": "Neal",
-        "lastName": "Maupay",
-        "slug": "neal-maupay",
-        "shortName": "N. Maupay",
-        "position": "F",
-        "jerseyNumber": "17",
-        "height": 171,
-        "userCount": 2358,
-        "gender": "M",
-        "id": 268903,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 839980800,
-        "proposedMarketValueRaw": {
-          "value": 4099999,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "نيل موباي",
-            "bn": "নিল মাউপে",
-            "hi": "नील मौपे",
-            "ru": "Нил Мопай"
-          },
-          "shortNameTranslation": {
-            "ar": "ن. موباي",
-            "bn": "এন. মাউপে",
-            "hi": "एन. मौपे",
-            "ru": "Н. Мопай"
-          }
-        }
-      },
-      "team": {
-        "name": "Sevilla",
-        "slug": "sevilla",
-        "shortName": "Sevilla",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 400830,
-        "nameCode": "SEV",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2833,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#cc1020",
-          "text": "#cc1020"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إشبيلية",
-            "bn": "সেভিলা",
-            "hi": "सेविला",
-            "ru": "Cевилья"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 10,
-        "accuratePass": 8,
-        "totalLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 3,
-        "totalOwnHalfPasses": 3,
-        "accurateOppositionHalfPasses": 5,
-        "totalOppositionHalfPasses": 7,
-        "duelLost": 2,
-        "dispossessed": 1,
-        "totalContest": 1,
-        "unsuccessfulTouch": 1,
-        "minutesPlayed": 26,
-        "touches": 15,
-        "rating": 6.3,
-        "possessionLostCtrl": 6,
-        "expectedAssists": 0.00607076,
-        "topSpeed": 28.05,
-        "kilometersCovered": 3.54,
-        "numberOfSprints": 3,
-        "totalBallCarriesDistance": 25.691229956437,
-        "ballCarriesCount": 4,
-        "totalProgression": 18.581238040311,
-        "progressiveBallCarriesCount": 0,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 6.3,
-          "alternative": 6.4
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.02,
-        "dribbleValueNormalized": 0.03,
-        "defensiveValueNormalized": -0.01,
-        "metersCoveredRunningKm": 0.75,
-        "metersCoveredHighSpeedRunningKm": 0.26,
-        "metersCoveredSprintingKm": 0.02,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "11352549": {
     "id": 11352549,
     "match_info": {
@@ -22880,6 +22751,136 @@
         "rating": 7.1,
         "possessionLostCtrl": 15,
         "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Neal Maupay",
+        "firstName": "Neal",
+        "lastName": "Maupay",
+        "slug": "neal-maupay",
+        "shortName": "N. Maupay",
+        "position": "F",
+        "jerseyNumber": "11",
+        "height": 171,
+        "userCount": 2415,
+        "gender": "M",
+        "sofascoreId": "6mc4mh",
+        "id": 268903,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 839980800,
+        "proposedMarketValueRaw": {
+          "value": 4099999,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نيل موباي",
+            "bn": "নিল মাউপে",
+            "hi": "नील मौपे",
+            "ru": "Нил Мопай"
+          },
+          "shortNameTranslation": {
+            "ar": "ن. موباي",
+            "bn": "এন. মাউপে",
+            "hi": "एन. मौपे",
+            "ru": "Н. Мопай"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 405935,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Cевилья"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 10,
+        "accuratePass": 8,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 7,
+        "duelLost": 2,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 26,
+        "touches": 15,
+        "rating": 6.3,
+        "possessionLostCtrl": 6,
+        "expectedAssists": 0.00607076,
+        "topSpeed": 28.05,
+        "kilometersCovered": 3.54,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 25.691229956437,
+        "ballCarriesCount": 4,
+        "totalProgression": 18.581238040311,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.02,
+        "dribbleValueNormalized": 0.03,
+        "defensiveValueNormalized": -0.01,
+        "metersCoveredRunningKm": 0.75,
+        "metersCoveredHighSpeedRunningKm": 0.26,
+        "metersCoveredSprintingKm": 0.02,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

@@ -2767,135 +2767,6 @@
       "extra": null
     }
   },
-  "14083739": {
-    "id": 14083739,
-    "match_info": {
-      "homeTeam": {
-        "name": "Valencia",
-        "shortName": "Valencia",
-        "color": "#ffffff",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "FC Barcelona",
-        "shortName": "Barcelona",
-        "color": "#154284",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "valencia-barcelona"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Wojciech Szczęsny",
-        "slug": "wojciech-szczesny",
-        "shortName": "W. Szczęsny",
-        "position": "G",
-        "jerseyNumber": "25",
-        "height": 196,
-        "userCount": 101097,
-        "gender": "M",
-        "sofascoreId": "wojciech.szczesny1",
-        "id": 50490,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 640396800,
-        "proposedMarketValueRaw": {
-          "value": 730000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فويتشيك شتشسني",
-            "bn": "ওজসিচ স্‌জ্‌সনি",
-            "hi": "वोज्शिएक स्ज़ेसनी",
-            "ru": "Войцех Щенсны"
-          },
-          "shortNameTranslation": {
-            "ar": "ف. شتشسني",
-            "bn": "ডব্লিউ. স্‌জ্‌সনি",
-            "hi": "डब्लू. स्ज़ेसनी",
-            "ru": "В. Щенсны"
-          }
-        }
-      },
-      "team": {
-        "name": "FC Barcelona",
-        "slug": "barcelona",
-        "shortName": "Barcelona",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 7651582,
-        "nameCode": "BAR",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2817,
-        "teamColors": {
-          "primary": "#154284",
-          "secondary": "#9d1009",
-          "text": "#9d1009"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "برشلونة",
-            "bn": "বার্সেলোনা",
-            "hi": "बार्सिलोना",
-            "ru": "Барселона"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 32,
-        "accuratePass": 29,
-        "totalLongBalls": 6,
-        "accurateLongBalls": 4,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 27,
-        "totalOwnHalfPasses": 29,
-        "accurateOppositionHalfPasses": 2,
-        "totalOppositionHalfPasses": 3,
-        "aerialWon": 1,
-        "duelWon": 1,
-        "totalClearance": 1,
-        "ballRecovery": 3,
-        "savedShotsFromInsideTheBox": 1,
-        "saves": 3,
-        "totalKeeperSweeper": 4,
-        "accurateKeeperSweeper": 4,
-        "minutesPlayed": 90,
-        "touches": 38,
-        "rating": 5.9,
-        "possessionLostCtrl": 3,
-        "expectedAssists": 0.0002979,
-        "totalBallCarriesDistance": 23.189731711165,
-        "ballCarriesCount": 5,
-        "totalProgression": -9.902189106099,
-        "progressiveBallCarriesCount": 0,
-        "keeperSaveValue": 0.3162,
-        "ratingVersions": {
-          "original": 5.9,
-          "alternative": 6.1
-        },
-        "totalShots": 0,
-        "goalsPrevented": -1.1597,
-        "passValueNormalized": 0.03,
-        "dribbleValueNormalized": -0.04,
-        "defensiveValueNormalized": -0.24,
-        "goalkeeperValueNormalized": -0.49,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "G",
-      "extra": null
-    }
-  },
   "12437489": {
     "id": 12437489,
     "match_info": {
@@ -22540,6 +22411,135 @@
         },
         "totalShots": 0,
         "goalsPrevented": 0.3527,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083739": {
+    "id": 14083739,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "valencia-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Wojciech Szczęsny",
+        "slug": "wojciech-szczesny",
+        "shortName": "W. Szczęsny",
+        "position": "G",
+        "jerseyNumber": "25",
+        "height": 196,
+        "userCount": 105244,
+        "gender": "M",
+        "sofascoreId": "wojciech.szczesny1",
+        "id": 50490,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 640396800,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فويتشيك شتشسني",
+            "bn": "ওজসিচ স্‌জ্‌সনি",
+            "hi": "वोज्शिएक स्ज़ेसनी",
+            "ru": "Войцех Щенсны"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. شتشسني",
+            "bn": "ডব্লিউ. স্‌জ্‌সনি",
+            "hi": "डब्लू. स्ज़ेसनी",
+            "ru": "В. Щенсны"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Barcelona",
+        "slug": "barcelona",
+        "shortName": "Barcelona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 8036915,
+        "nameCode": "BAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2817,
+        "teamColors": {
+          "primary": "#154284",
+          "secondary": "#9d1009",
+          "text": "#9d1009"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "برشلونة",
+            "bn": "বার্সেলোনা",
+            "hi": "बार्सिलोना",
+            "ru": "Барселона"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 32,
+        "accuratePass": 29,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 27,
+        "totalOwnHalfPasses": 29,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 3,
+        "aerialWon": 1,
+        "duelWon": 1,
+        "totalClearance": 1,
+        "ballRecovery": 3,
+        "savedShotsFromInsideTheBox": 1,
+        "saves": 3,
+        "totalKeeperSweeper": 4,
+        "accurateKeeperSweeper": 4,
+        "minutesPlayed": 90,
+        "touches": 38,
+        "rating": 5.9,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 0.0002979,
+        "totalBallCarriesDistance": 23.189731711165,
+        "ballCarriesCount": 5,
+        "totalProgression": -9.902189106099,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.3162,
+        "ratingVersions": {
+          "original": 5.9,
+          "alternative": 6.1
+        },
+        "totalShots": 0,
+        "goalsPrevented": -1.1597,
+        "passValueNormalized": 0.03,
+        "dribbleValueNormalized": -0.04,
+        "defensiveValueNormalized": -0.24,
+        "goalkeeperValueNormalized": -0.49,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

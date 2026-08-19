@@ -3276,103 +3276,6 @@
       "extra": null
     }
   },
-  "14083710": {
-    "id": 14083710,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Betis",
-        "shortName": "Real Betis",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "awayTeam": {
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "color": "#0e3b68",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "levante-ud-real-betis"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Unai Vencedor",
-        "firstName": "",
-        "lastName": "",
-        "slug": "unai-vencedor",
-        "shortName": "U. Vencedor",
-        "position": "M",
-        "jerseyNumber": "12",
-        "height": 176,
-        "userCount": 283,
-        "gender": "M",
-        "id": 966802,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 974246400,
-        "proposedMarketValueRaw": {
-          "value": 1500000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أوناي فيندور",
-            "bn": "উনাই ভেনসেডর",
-            "hi": "उनाई वेन्सेडोर",
-            "ru": "Унай Венседор"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. فيندور",
-            "bn": "ইউ. ভেনসেডর",
-            "hi": "यू. वेन्सेडोर",
-            "ru": "У. Венседор"
-          }
-        }
-      },
-      "team": {
-        "name": "Levante UD",
-        "slug": "levante-ud",
-        "shortName": "Levante",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 116374,
-        "nameCode": "LEV",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2849,
-        "teamColors": {
-          "primary": "#0e3b68",
-          "secondary": "#d70000",
-          "text": "#d70000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ليفانتي يو دي",
-            "hi": "लेवांटे यूडी",
-            "ru": "Леванте"
-          },
-          "shortNameTranslation": {
-            "ar": "ليفانتي",
-            "bn": "লেভান্তে",
-            "hi": "लेवांते"
-          }
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12467562": {
     "id": 12467562,
     "match_info": {
@@ -21836,6 +21739,104 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083710": {
+    "id": 14083710,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "levante-ud-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Vencedor",
+        "firstName": "",
+        "lastName": "",
+        "slug": "unai-vencedor",
+        "shortName": "U. Vencedor",
+        "position": "M",
+        "jerseyNumber": "13",
+        "height": 176,
+        "userCount": 303,
+        "gender": "M",
+        "sofascoreId": "n5565b",
+        "id": 966802,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 974246400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي فيندور",
+            "bn": "উনাই ভেনসেডর",
+            "hi": "उनाई वेन्सेडोर",
+            "ru": "Унай Венседор"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. فيندور",
+            "bn": "ইউ. ভেনসেডর",
+            "hi": "यू. वेन्सेडोर",
+            "ru": "У. Венседор"
+          }
+        }
+      },
+      "team": {
+        "name": "Levante UD",
+        "slug": "levante-ud",
+        "shortName": "Levante",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 117899,
+        "nameCode": "LEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2849,
+        "teamColors": {
+          "primary": "#0e3b68",
+          "secondary": "#d70000",
+          "text": "#d70000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفانتي",
+            "hi": "लेवांटे यूडी",
+            "ru": "Леванте"
+          },
+          "shortNameTranslation": {
+            "ar": "ليفانتي",
+            "bn": "লেভান্তে",
+            "hi": "लेवांते"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
     }
   }
 }

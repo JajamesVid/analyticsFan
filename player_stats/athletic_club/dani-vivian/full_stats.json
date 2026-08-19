@@ -4518,241 +4518,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Real Madrid",
-        "abreviatura": "RMD",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
-      },
-      "visitante": {
-        "nombre": "Athletic",
-        "abreviatura": "ATH",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
-      }
-    },
-    "resultado": "4-2",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20450-real-madrid-athletic",
-    "puntuaciones": {
-      "picas": 1,
-      "marca": 1,
-      "cope": 5.0,
-      "sofascore": 5.6,
-      "relevo": 0.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 0.0,
-        "futbolfantasy-rpg": 1.0,
-        "scale0": -1.0,
-        "modo-picas": 2.0,
-        "biwenger-sofascore": -2.0,
-        "biwenger-social": -1.0,
-        "biwenger-as-sofascore": 0.0,
-        "biwenger-stats": 4.0,
-        "futmondo-prensa": 1.0,
-        "futmondo-mixto-as": 2.0,
-        "futmondo-stats": 4.0,
-        "futmondo-mixto": 3.3,
-        "cronistas-marca": 2.0,
-        "marca-mixto": 1.0,
-        "marca-sofascore": -2.0,
-        "mister-cronistas-md": 2.0,
-        "mister-mixto": 1.0,
-        "mister-mixto-2": 0.0,
-        "mister-sofascore": -2.0,
-        "stat-goles": 0.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 0.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 0.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 0.0,
-        "stat-regates-exito": 0.0,
-        "stat-faltas-recibidas": 1.0,
-        "stat-faltas-cometidas": 1.0,
-        "stat-pases-interceptados": 1.0,
-        "stat-balones-robados": 2.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 0.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 4.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 0.0,
-        "stat-despejes": 3.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 6.0,
-        "stat-tiros-totales": 0.0,
-        "stat-centros-totales": 0.0,
-        "stat-precision-pases": 86.4,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 2.0,
-        "stat-tackles": 2.0,
-        "stat-duelos-aereos": 0.0,
-        "stat-tiros-bloqueados": 0.0,
-        "stat-pases-totales": 22.0,
-        "stat-pases-completados": 19.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083731,
-      "match_info": {
-        "homeTeam": {
-          "name": "Real Madrid",
-          "shortName": "Real Madrid",
-          "color": "#ffffff",
-          "score": 4
-        },
-        "awayTeam": {
-          "name": "Athletic Club",
-          "shortName": "Athletic Club",
-          "color": "#aa0000",
-          "score": 2
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-madrid-athletic-club",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Dani Vivian",
-          "firstName": "Dani",
-          "lastName": "Vivian",
-          "slug": "dani-vivian",
-          "shortName": "D. Vivian",
-          "position": "D",
-          "jerseyNumber": "3",
-          "height": 183,
-          "userCount": 3267,
-          "gender": "M",
-          "sofascoreId": "rrajqm",
-          "id": 910978,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 931132800,
-          "proposedMarketValueRaw": {
-            "value": 18200000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "داني فيفيان",
-              "bn": "ড্যানিয়েল ভিভিয়ান",
-              "hi": "डैनियल विवियन",
-              "ru": "Дани Вивиан"
-            },
-            "shortNameTranslation": {
-              "ar": "د. فيفيان",
-              "bn": "ডি. ভিভিয়ান",
-              "hi": "डी. विवियन",
-              "ru": "Д. Вивиан"
-            }
-          }
-        },
-        "team": {
-          "name": "Athletic Club",
-          "slug": "athletic-club",
-          "shortName": "Athletic Club",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 519382,
-          "nameCode": "ATH",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2825,
-          "teamColors": {
-            "primary": "#aa0000",
-            "secondary": "#ffffff",
-            "text": "#ffffff"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "نادي أتليتيك",
-              "bn": "অ্যাথলেটিক ক্লাব",
-              "hi": "एथलेटिक क्लब",
-              "ru": "Атлетик Бильбао"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalPass": 22,
-          "accuratePass": 19,
-          "totalLongBalls": 1,
-          "accurateLongBalls": 1,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 12,
-          "totalOwnHalfPasses": 14,
-          "accurateOppositionHalfPasses": 7,
-          "totalOppositionHalfPasses": 8,
-          "duelLost": 5,
-          "duelWon": 4,
-          "challengeLost": 4,
-          "totalClearance": 3,
-          "interceptionWon": 1,
-          "ballRecovery": 5,
-          "totalTackle": 3,
-          "wonTackle": 2,
-          "unsuccessfulTouch": 3,
-          "wasFouled": 1,
-          "fouls": 1,
-          "minutesPlayed": 90,
-          "touches": 33,
-          "rating": 5.6,
-          "possessionLostCtrl": 6,
-          "expectedAssists": 0.0037925,
-          "topSpeed": 30.35,
-          "kilometersCovered": 9.51,
-          "numberOfSprints": 20,
-          "totalBallCarriesDistance": 58.29605090147,
-          "ballCarriesCount": 8,
-          "totalProgression": 33.532549514874,
-          "progressiveBallCarriesCount": 0,
-          "ratingVersions": {
-            "original": 5.6,
-            "alternative": 6
-          },
-          "totalShots": 0,
-          "passValueNormalized": 0.07,
-          "dribbleValueNormalized": 0.05,
-          "defensiveValueNormalized": -0.9,
-          "metersCoveredRunningKm": 1.18,
-          "metersCoveredHighSpeedRunningKm": 0.47,
-          "metersCoveredSprintingKm": 0.31,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "D",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Real Sociedad",
         "abreviatura": "RSO",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
@@ -28022,6 +27787,242 @@
             "alternative": 7.1
           },
           "totalShots": 2,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "4-2",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20450-real-madrid-athletic",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 5.6,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 0.0,
+        "futbolfantasy-rpg": 1.0,
+        "scale0": -1.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": -2.0,
+        "biwenger-social": -1.0,
+        "biwenger-as-sofascore": 0.0,
+        "biwenger-stats": 4.0,
+        "futmondo-prensa": 1.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 4.0,
+        "futmondo-mixto": 3.3,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 1.0,
+        "marca-sofascore": -2.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 1.0,
+        "mister-mixto-2": 0.0,
+        "mister-sofascore": -2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 1.0,
+        "stat-balones-robados": 2.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 4.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 3.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 6.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 86.4,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 2.0,
+        "stat-tackles": 2.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 22.0,
+        "stat-pases-completados": 19.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083731,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Madrid",
+          "shortName": "Real Madrid",
+          "color": "#ffffff",
+          "score": 4
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 2
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-madrid-athletic-club"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Dani Vivian",
+          "firstName": "Dani",
+          "lastName": "Vivian",
+          "slug": "dani-vivian",
+          "shortName": "D. Vivian",
+          "position": "D",
+          "jerseyNumber": "3",
+          "height": 183,
+          "userCount": 3338,
+          "gender": "M",
+          "sofascoreId": "rrajqm",
+          "id": 910978,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 931132800,
+          "proposedMarketValueRaw": {
+            "value": 18200000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "داني فيفيان",
+              "bn": "ড্যানিয়েল ভিভিয়ান",
+              "hi": "डैनियल विवियन",
+              "ru": "Дани Вивиан"
+            },
+            "shortNameTranslation": {
+              "ar": "د. فيفيان",
+              "bn": "ডি. ভিভিয়ান",
+              "hi": "डी. विवियन",
+              "ru": "Д. Вивиан"
+            }
+          }
+        },
+        "team": {
+          "name": "Athletic Club",
+          "slug": "athletic-club",
+          "shortName": "Athletic Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 524413,
+          "nameCode": "ATH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2825,
+          "teamColors": {
+            "primary": "#aa0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيك بيلباو",
+              "bn": "অ্যাথলেটিক ক্লাব",
+              "hi": "एथलेटिक क्लब",
+              "ru": "Атлетик Бильбао"
+            },
+            "shortNameTranslation": {
+              "ar": "أتلتيك بيلباو"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 22,
+          "accuratePass": 19,
+          "totalLongBalls": 1,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 12,
+          "totalOwnHalfPasses": 14,
+          "accurateOppositionHalfPasses": 7,
+          "totalOppositionHalfPasses": 8,
+          "duelLost": 5,
+          "duelWon": 4,
+          "challengeLost": 4,
+          "totalClearance": 3,
+          "interceptionWon": 1,
+          "ballRecovery": 5,
+          "totalTackle": 3,
+          "wonTackle": 2,
+          "unsuccessfulTouch": 3,
+          "wasFouled": 1,
+          "fouls": 1,
+          "minutesPlayed": 90,
+          "touches": 33,
+          "rating": 5.6,
+          "possessionLostCtrl": 6,
+          "expectedAssists": 0.0037925,
+          "topSpeed": 30.35,
+          "kilometersCovered": 9.51,
+          "numberOfSprints": 20,
+          "totalBallCarriesDistance": 58.29605090147,
+          "ballCarriesCount": 8,
+          "totalProgression": 33.532549514874,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 5.6,
+            "alternative": 6
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.07,
+          "dribbleValueNormalized": 0.05,
+          "defensiveValueNormalized": -0.9,
+          "metersCoveredRunningKm": 1.18,
+          "metersCoveredHighSpeedRunningKm": 0.47,
+          "metersCoveredSprintingKm": 0.31,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

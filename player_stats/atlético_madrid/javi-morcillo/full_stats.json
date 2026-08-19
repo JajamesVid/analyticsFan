@@ -1725,8 +1725,7 @@
           "score": 1
         },
         "startTimestamp": 1779649200,
-        "slug": "atletico-madrid-villarreal",
-        "fecha_normalizada": "2026-05-24"
+        "slug": "atletico-madrid-villarreal"
       },
       "player_stats": {
         "player": {
@@ -1736,13 +1735,14 @@
           "position": "M",
           "jerseyNumber": "47",
           "height": 183,
-          "userCount": 228,
+          "userCount": 240,
           "gender": "M",
+          "sofascoreId": "ekefz3",
           "id": 1832076,
           "marketValueCurrency": "EUR",
           "dateOfBirthTimestamp": 1142380800,
           "proposedMarketValueRaw": {
-            "value": 105000,
+            "value": 515000,
             "currency": "EUR"
           },
           "fieldTranslations": {
@@ -1766,7 +1766,7 @@
             "slug": "football",
             "id": 1
           },
-          "userCount": 2590653,
+          "userCount": 2635078,
           "nameCode": "ATM",
           "disabled": false,
           "national": false,
@@ -1784,7 +1784,7 @@
               "ru": "Атлетико Мадрид"
             },
             "shortNameTranslation": {
-              "ar": "أتل. مدريد",
+              "ar": "أتلتيكو مدريد",
               "bn": "এটিএল. মাদ্রিদ"
             }
           }
@@ -1808,6 +1808,9 @@
           "rating": 6.7,
           "possessionLostCtrl": 1,
           "expectedAssists": 0.0194532,
+          "topSpeed": 30.07,
+          "kilometersCovered": 3.46,
+          "numberOfSprints": 2,
           "totalBallCarriesDistance": 60.343169986219,
           "ballCarriesCount": 8,
           "totalProgression": 46.960329811973,
@@ -1820,6 +1823,9 @@
           "passValueNormalized": 0.09,
           "dribbleValueNormalized": 0.08,
           "defensiveValueNormalized": 0.13,
+          "metersCoveredRunningKm": 0.76,
+          "metersCoveredHighSpeedRunningKm": 0.24,
+          "metersCoveredSprintingKm": 0.04,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

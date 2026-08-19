@@ -3286,140 +3286,6 @@
       "extra": null
     }
   },
-  "14083710": {
-    "id": 14083710,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Betis",
-        "shortName": "Real Betis",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "awayTeam": {
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "color": "#0e3b68",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "levante-ud-real-betis"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Isco",
-        "firstName": "Francisco Roman",
-        "lastName": "Isco",
-        "slug": "isco",
-        "shortName": "Isco",
-        "position": "M",
-        "jerseyNumber": "22",
-        "height": 176,
-        "userCount": 27083,
-        "gender": "M",
-        "sofascoreId": "iscoalarcon",
-        "id": 103417,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 703814400,
-        "proposedMarketValueRaw": {
-          "value": 4099999,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إيسكو",
-            "bn": "ইসকো",
-            "hi": "इस्को",
-            "ru": "Любомир Лештански"
-          },
-          "shortNameTranslation": {
-            "ar": "إيسكو",
-            "bn": "ইসকো",
-            "hi": "इस्को",
-            "ru": "Л. Лештански"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Betis",
-        "slug": "real-betis",
-        "shortName": "Real Betis",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 600173,
-        "nameCode": "BET",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2816,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#006633",
-          "text": "#006633"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال بيتيس",
-            "ru": "Реал Бетис"
-          },
-          "shortNameTranslation": {
-            "ar": "ريال بيتيس",
-            "bn": "বেটিস",
-            "hi": "बेटिस"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 42,
-        "accuratePass": 40,
-        "totalLongBalls": 4,
-        "accurateLongBalls": 3,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 20,
-        "totalOwnHalfPasses": 20,
-        "accurateOppositionHalfPasses": 20,
-        "totalOppositionHalfPasses": 22,
-        "totalCross": 1,
-        "duelLost": 2,
-        "duelWon": 1,
-        "dispossessed": 1,
-        "blockedScoringAttempt": 2,
-        "totalClearance": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 1,
-        "wasFouled": 1,
-        "fouls": 1,
-        "minutesPlayed": 54,
-        "touches": 49,
-        "rating": 6.5,
-        "possessionLostCtrl": 4,
-        "expectedGoals": 0.0648,
-        "expectedAssists": 0.0166775,
-        "totalBallCarriesDistance": 95.408708140175,
-        "ballCarriesCount": 13,
-        "totalProgression": -4.1838129769635,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.5,
-          "alternative": 6.6
-        },
-        "totalShots": 2,
-        "shotValueNormalized": -0.07,
-        "passValueNormalized": -0.13,
-        "dribbleValueNormalized": 0.04,
-        "defensiveValueNormalized": -0.07,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "11369461": {
     "id": 11369461,
     "match_info": {
@@ -23997,6 +23863,146 @@
       },
       "statistics": {
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083710": {
+    "id": 14083710,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "levante-ud-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Isco",
+        "firstName": "Francisco Roman",
+        "lastName": "Isco",
+        "slug": "isco",
+        "shortName": "Isco",
+        "position": "M",
+        "jerseyNumber": "22",
+        "height": 176,
+        "userCount": 27943,
+        "gender": "M",
+        "sofascoreId": "iscoalarcon",
+        "id": 103417,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 703814400,
+        "proposedMarketValueRaw": {
+          "value": 3600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيسكو",
+            "bn": "ইসকো",
+            "hi": "इस्को",
+            "ru": "Иско"
+          },
+          "shortNameTranslation": {
+            "ar": "إيسكو",
+            "bn": "ইসকো",
+            "hi": "इस्को",
+            "ru": "Иско"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Betis",
+        "slug": "real-betis",
+        "shortName": "Real Betis",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 609007,
+        "nameCode": "BET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2816,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#006633",
+          "text": "#006633"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال بيتيس",
+            "ru": "Реал Бетис"
+          },
+          "shortNameTranslation": {
+            "ar": "ريال بيتيس",
+            "bn": "বেটিস",
+            "hi": "बेटिस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 42,
+        "accuratePass": 40,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 20,
+        "totalOwnHalfPasses": 20,
+        "accurateOppositionHalfPasses": 20,
+        "totalOppositionHalfPasses": 22,
+        "totalCross": 1,
+        "duelLost": 2,
+        "duelWon": 1,
+        "dispossessed": 1,
+        "blockedScoringAttempt": 2,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 54,
+        "touches": 49,
+        "rating": 6.5,
+        "possessionLostCtrl": 4,
+        "expectedGoals": 0.0648,
+        "expectedAssists": 0.0166775,
+        "topSpeed": 28.2,
+        "kilometersCovered": 6.05,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 95.408708140175,
+        "ballCarriesCount": 13,
+        "totalProgression": -4.1838129769635,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.6
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.07,
+        "passValueNormalized": -0.13,
+        "dribbleValueNormalized": 0.04,
+        "defensiveValueNormalized": -0.07,
+        "metersCoveredRunningKm": 1.08,
+        "metersCoveredHighSpeedRunningKm": 0.31,
+        "metersCoveredSprintingKm": 0.07,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

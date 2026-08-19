@@ -3120,131 +3120,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Íñigo Lekue",
-        "firstName": "Inigo",
-        "lastName": "Lekue",
-        "slug": "inigo-lekue",
-        "shortName": "Í. Lekue",
-        "position": "D",
-        "height": 180,
-        "userCount": 436,
-        "gender": "M",
-        "sofascoreId": "wgezyk",
-        "id": 801837,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 736473600,
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إينيغو ليكو",
-            "bn": "ইনিগো লেকু",
-            "hi": "इनिगो लेकुए",
-            "ru": "Иньиго Лекуэ"
-          },
-          "shortNameTranslation": {
-            "ar": "إ. ليكو",
-            "bn": "আই. লেকু",
-            "hi": "आई. लेकुए",
-            "ru": "И. Лекуэ"
-          }
-        }
-      },
-      "team": {
-        "name": "Athletic Club",
-        "slug": "athletic-club",
-        "shortName": "Athletic Club",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 519382,
-        "nameCode": "ATH",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2825,
-        "teamColors": {
-          "primary": "#aa0000",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "نادي أتليتيك",
-            "bn": "অ্যাথলেটিক ক্লাব",
-            "hi": "एथलेटिक क्लब",
-            "ru": "Атлетик Бильбао"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 9,
-        "accuratePass": 8,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 7,
-        "totalOwnHalfPasses": 8,
-        "accurateOppositionHalfPasses": 1,
-        "totalOppositionHalfPasses": 1,
-        "duelLost": 1,
-        "ballRecovery": 4,
-        "unsuccessfulTouch": 1,
-        "fouls": 1,
-        "minutesPlayed": 30,
-        "touches": 13,
-        "rating": 6.2,
-        "possessionLostCtrl": 2,
-        "expectedAssists": 0.00033698,
-        "topSpeed": 26.91,
-        "kilometersCovered": 3.07,
-        "numberOfSprints": 3,
-        "totalBallCarriesDistance": 63.799076665002,
-        "ballCarriesCount": 5,
-        "totalProgression": 50.782712510489,
-        "bestBallCarryProgression": 26.155212212666,
-        "totalProgressiveBallCarriesDistance": 27.352027804168,
-        "progressiveBallCarriesCount": 1,
-        "ratingVersions": {
-          "original": 6.2,
-          "alternative": 6.3
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.02,
-        "dribbleValueNormalized": 0.11,
-        "defensiveValueNormalized": -0.18,
-        "metersCoveredRunningKm": 0.53,
-        "metersCoveredHighSpeedRunningKm": 0.2,
-        "metersCoveredSprintingKm": 0.03,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "13514557": {
     "id": 13514557,
     "match_info": {
@@ -20602,6 +20477,133 @@
         "rating": 6.6,
         "possessionLostCtrl": 6,
         "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Íñigo Lekue",
+        "firstName": "Inigo",
+        "lastName": "Lekue",
+        "slug": "inigo-lekue",
+        "shortName": "Í. Lekue",
+        "position": "D",
+        "height": 180,
+        "userCount": 435,
+        "gender": "M",
+        "sofascoreId": "wgezyk",
+        "id": 801837,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 736473600,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إينيغو ليكو",
+            "bn": "ইনিগো লেকু",
+            "hi": "इनिगो लेकुए",
+            "ru": "Иньиго Лекуэ"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. ليكو",
+            "bn": "আই. লেকু",
+            "hi": "आई. लेकुए",
+            "ru": "И. Лекуэ"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 524413,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 9,
+        "accuratePass": 8,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 7,
+        "totalOwnHalfPasses": 8,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 1,
+        "duelLost": 1,
+        "ballRecovery": 4,
+        "unsuccessfulTouch": 1,
+        "fouls": 1,
+        "minutesPlayed": 30,
+        "touches": 13,
+        "rating": 6.2,
+        "possessionLostCtrl": 2,
+        "expectedAssists": 0.00033698,
+        "topSpeed": 26.91,
+        "kilometersCovered": 3.07,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 63.799076665002,
+        "ballCarriesCount": 5,
+        "totalProgression": 50.782712510489,
+        "bestBallCarryProgression": 26.155212212666,
+        "totalProgressiveBallCarriesDistance": 27.352027804168,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.2,
+          "alternative": 6.3
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.02,
+        "dribbleValueNormalized": 0.11,
+        "defensiveValueNormalized": -0.18,
+        "metersCoveredRunningKm": 0.53,
+        "metersCoveredHighSpeedRunningKm": 0.2,
+        "metersCoveredSprintingKm": 0.03,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

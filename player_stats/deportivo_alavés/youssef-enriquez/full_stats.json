@@ -4874,131 +4874,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Alavés",
-        "abreviatura": "ALA",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
-      },
-      "visitante": {
-        "nombre": "Rayo",
-        "abreviatura": "RAY",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/14.png"
-      }
-    },
-    "resultado": "1-2",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20444-alaves-rayo",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083706,
-      "match_info": {
-        "homeTeam": {
-          "name": "Deportivo Alavés",
-          "shortName": "Alavés",
-          "color": "#0232a0",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Rayo Vallecano",
-          "shortName": "Rayo Vallecano",
-          "color": "#ffffff",
-          "score": 2
-        },
-        "startTimestamp": 1779562800,
-        "slug": "deportivo-alaves-rayo-vallecano",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Youssef Enriquez",
-          "firstName": "Youssef",
-          "lastName": "Enriquez",
-          "slug": "youssef-enriquez",
-          "shortName": "Y. Enriquez",
-          "position": "D",
-          "jerseyNumber": "3",
-          "height": 170,
-          "userCount": 10307,
-          "gender": "M",
-          "sofascoreId": "yuusiii3",
-          "id": 1403364,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 1128643200,
-          "proposedMarketValueRaw": {
-            "value": 5300000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "يوسف إنريكيز",
-              "bn": "ইউসুফ লেখেদিম",
-              "hi": "यूसुफ़ लेखेदिम्",
-              "ru": "Юсеф Энрикес"
-            },
-            "shortNameTranslation": {
-              "ar": "ي. إنريكيز",
-              "bn": "ওয়াই. লেখেদিম",
-              "hi": "वाई. लेखेदिम्",
-              "ru": "Ю. Энрикес"
-            }
-          }
-        },
-        "team": {
-          "name": "Deportivo Alavés",
-          "slug": "deportivo-alaves",
-          "shortName": "Alavés",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 152876,
-          "nameCode": "ALA",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2885,
-          "teamColors": {
-            "primary": "#0232a0",
-            "secondary": "#ffffff",
-            "text": "#ffffff"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ديبورتيفو ألافيس",
-              "ru": "Алавес"
-            },
-            "shortNameTranslation": {
-              "ar": "ألافيس",
-              "bn": "আলাভেস",
-              "hi": "अलावेस"
-            }
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "D",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Real Madrid",
         "abreviatura": "RMD",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
@@ -9107,6 +8982,130 @@
           }
         },
         "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Alavés",
+        "abreviatura": "ALA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
+      },
+      "visitante": {
+        "nombre": "Rayo",
+        "abreviatura": "RAY",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/14.png"
+      }
+    },
+    "resultado": "1-2",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20444-alaves-rayo",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083706,
+      "match_info": {
+        "homeTeam": {
+          "name": "Deportivo Alavés",
+          "shortName": "Alavés",
+          "color": "#0232a0",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Rayo Vallecano",
+          "shortName": "Rayo Vallecano",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "startTimestamp": 1779562800,
+        "slug": "deportivo-alaves-rayo-vallecano"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Youssef Enriquez",
+          "firstName": "Youssef",
+          "lastName": "Enriquez",
+          "slug": "youssef-enriquez",
+          "shortName": "Y. Enriquez",
+          "position": "D",
+          "jerseyNumber": "3",
+          "height": 170,
+          "userCount": 10361,
+          "gender": "M",
+          "sofascoreId": "yuusiii3",
+          "id": 1403364,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1128643200,
+          "proposedMarketValueRaw": {
+            "value": 4300000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "يوسف إنريكيز",
+              "bn": "ইউসুফ লেখেদিম",
+              "hi": "यूसुफ़ लेखेदिम्",
+              "ru": "Юсеф Энрикес"
+            },
+            "shortNameTranslation": {
+              "ar": "ي. إنريكيز",
+              "bn": "ওয়াই. লেখেদিম",
+              "hi": "वाई. लेखेदिम्",
+              "ru": "Ю. Энрикес"
+            }
+          }
+        },
+        "team": {
+          "name": "Deportivo Alavés",
+          "slug": "deportivo-alaves",
+          "shortName": "Alavés",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 154032,
+          "nameCode": "ALA",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2885,
+          "teamColors": {
+            "primary": "#0232a0",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ديبورتيفو ألافيس",
+              "ru": "Алавес"
+            },
+            "shortNameTranslation": {
+              "ar": "ألافيس",
+              "bn": "আলাভেস",
+              "hi": "अलावेस"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
         "extra": null
       }
     }

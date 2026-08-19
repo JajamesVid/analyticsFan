@@ -2619,239 +2619,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Villarreal",
-        "abreviatura": "VIL",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
-      },
-      "visitante": {
-        "nombre": "Atlético",
-        "abreviatura": "ATM",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
-      }
-    },
-    "resultado": "5-1",
-    "fecha": "2026-05-24",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20452-villarreal-atletico",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 1,
-      "cope": 2.0,
-      "sofascore": 5.9,
-      "relevo": 0.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 0.0,
-        "futbolfantasy-rpg": 4.0,
-        "scale1": 0.0,
-        "scale0": -2.0,
-        "biwenger-sofascore": -1.0,
-        "biwenger-social": 0.0,
-        "biwenger-as-sofascore": -2.0,
-        "biwenger-stats": 3.0,
-        "futmondo-prensa": -1.0,
-        "futmondo-mixto-as": -2.0,
-        "futmondo-stats": -1.0,
-        "futmondo-mixto": 0.7,
-        "cronistas-marca": -2.0,
-        "marca-mixto": -1.0,
-        "marca-sofascore": -1.0,
-        "mister-cronistas-md": 2.0,
-        "mister-mixto": -1.0,
-        "mister-mixto-2": -2.0,
-        "mister-sofascore": -1.0,
-        "stat-goles": 0.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 0.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 2.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 0.0,
-        "stat-regates-exito": 0.0,
-        "stat-faltas-recibidas": 0.0,
-        "stat-faltas-cometidas": 1.0,
-        "stat-pases-interceptados": 0.0,
-        "stat-balones-robados": 0.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 0.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 5.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 0.0,
-        "stat-despejes": 0.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 14.0,
-        "stat-tiros-totales": 2.0,
-        "stat-centros-totales": 3.0,
-        "stat-precision-pases": 84.2,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 1.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 0.0,
-        "stat-tackles": 0.0,
-        "stat-duelos-aereos": 0.0,
-        "stat-tiros-bloqueados": 0.0,
-        "stat-pases-totales": 38.0,
-        "stat-pases-completados": 32.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083735,
-      "match_info": {
-        "homeTeam": {
-          "name": "Villarreal",
-          "shortName": "Villarreal",
-          "color": "#ffff00",
-          "score": 5
-        },
-        "awayTeam": {
-          "name": "Atlético Madrid",
-          "shortName": "Atl. Madrid",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "startTimestamp": 1779649200,
-        "slug": "atletico-madrid-villarreal",
-        "fecha_normalizada": "2026-05-24"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Alex Baena",
-          "firstName": "Alex",
-          "lastName": "Baena",
-          "slug": "alex-baena",
-          "shortName": "A. Baena",
-          "position": "M",
-          "jerseyNumber": "10",
-          "height": 174,
-          "userCount": 11385,
-          "gender": "M",
-          "sofascoreId": "alexbaena",
-          "id": 910031,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 995587200,
-          "proposedMarketValueRaw": {
-            "value": 43000000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "أليكس باينا",
-              "bn": "আলেজান্দ্রো বেনা",
-              "hi": "एलेजांद्रो बेना",
-              "ru": "Алекс Баэна"
-            },
-            "shortNameTranslation": {
-              "ar": "أ. باينا",
-              "bn": "এ. বেনা",
-              "hi": "ए. बेना",
-              "ru": "А. Баэна"
-            }
-          }
-        },
-        "team": {
-          "name": "Atlético Madrid",
-          "slug": "atletico-madrid",
-          "shortName": "Atl. Madrid",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 2590653,
-          "nameCode": "ATM",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2836,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#c40000",
-            "text": "#c40000"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "أتلتيكو مدريد",
-              "hi": "एटलेटिको मैड्रिड",
-              "ru": "Атлетико Мадрид"
-            },
-            "shortNameTranslation": {
-              "ar": "أتل. مدريد",
-              "bn": "এটিএল. মাদ্রিদ"
-            }
-          }
-        },
-        "statistics": {
-          "totalPass": 38,
-          "accuratePass": 32,
-          "totalLongBalls": 2,
-          "accurateLongBalls": 1,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 14,
-          "totalOwnHalfPasses": 15,
-          "accurateOppositionHalfPasses": 18,
-          "totalOppositionHalfPasses": 23,
-          "totalCross": 3,
-          "duelLost": 5,
-          "challengeLost": 1,
-          "dispossessed": 2,
-          "totalContest": 1,
-          "shotOffTarget": 2,
-          "ballRecovery": 5,
-          "unsuccessfulTouch": 2,
-          "fouls": 1,
-          "minutesPlayed": 61,
-          "touches": 48,
-          "rating": 5.9,
-          "possessionLostCtrl": 14,
-          "expectedGoals": 0.0648,
-          "expectedAssists": 0.167774,
-          "totalBallCarriesDistance": 148.06536022268,
-          "ballCarriesCount": 13,
-          "totalProgression": 97.313891727038,
-          "bestBallCarryProgression": 29.205179577906,
-          "totalProgressiveBallCarriesDistance": 75.618645563172,
-          "progressiveBallCarriesCount": 3,
-          "ratingVersions": {
-            "original": 5.9,
-            "alternative": 6.1
-          },
-          "totalShots": 2,
-          "shotValueNormalized": -0.19,
-          "passValueNormalized": 0.08,
-          "dribbleValueNormalized": 0.13,
-          "defensiveValueNormalized": -0.32,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "M",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Atlético",
         "abreviatura": "ATM",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
@@ -26319,6 +26086,244 @@
             "alternative": 6.8
           },
           "totalShots": 2,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      },
+      "visitante": {
+        "nombre": "Atlético",
+        "abreviatura": "ATM",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
+      }
+    },
+    "resultado": "5-1",
+    "fecha": "2026-05-24",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20452-villarreal-atletico",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 1,
+      "cope": 2.0,
+      "sofascore": 5.9,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 0.0,
+        "futbolfantasy-rpg": 4.0,
+        "scale1": 0.0,
+        "scale0": -2.0,
+        "biwenger-sofascore": -1.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": -2.0,
+        "biwenger-stats": 3.0,
+        "futmondo-prensa": -1.0,
+        "futmondo-mixto-as": -2.0,
+        "futmondo-stats": -1.0,
+        "futmondo-mixto": 0.7,
+        "cronistas-marca": -2.0,
+        "marca-mixto": -1.0,
+        "marca-sofascore": -1.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": -1.0,
+        "mister-mixto-2": -2.0,
+        "mister-sofascore": -1.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 2.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 5.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 14.0,
+        "stat-tiros-totales": 2.0,
+        "stat-centros-totales": 3.0,
+        "stat-precision-pases": 84.2,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 1.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 38.0,
+        "stat-pases-completados": 32.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083735,
+      "match_info": {
+        "homeTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 5
+        },
+        "awayTeam": {
+          "name": "Atlético Madrid",
+          "shortName": "Atl. Madrid",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1779649200,
+        "slug": "atletico-madrid-villarreal"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Alex Baena",
+          "firstName": "Alex",
+          "lastName": "Baena",
+          "slug": "alex-baena",
+          "shortName": "A. Baena",
+          "position": "M",
+          "jerseyNumber": "10",
+          "height": 174,
+          "userCount": 20448,
+          "gender": "M",
+          "sofascoreId": "alexbaena",
+          "id": 910031,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 995500800,
+          "proposedMarketValueRaw": {
+            "value": 43000000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أليكس باينا",
+              "bn": "আলেজান্দ্রো বেনা",
+              "hi": "एलेजांद्रो बेना",
+              "ru": "Алекс Баэна"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. باينا",
+              "bn": "এ. বেনা",
+              "hi": "ए. बेना",
+              "ru": "А. Баэна"
+            }
+          }
+        },
+        "team": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2635078,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 38,
+          "accuratePass": 32,
+          "totalLongBalls": 2,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 14,
+          "totalOwnHalfPasses": 15,
+          "accurateOppositionHalfPasses": 18,
+          "totalOppositionHalfPasses": 23,
+          "totalCross": 3,
+          "duelLost": 5,
+          "challengeLost": 1,
+          "dispossessed": 2,
+          "totalContest": 1,
+          "shotOffTarget": 2,
+          "ballRecovery": 5,
+          "unsuccessfulTouch": 2,
+          "fouls": 1,
+          "minutesPlayed": 61,
+          "touches": 48,
+          "rating": 5.9,
+          "possessionLostCtrl": 14,
+          "expectedGoals": 0.0648,
+          "expectedAssists": 0.167774,
+          "topSpeed": 32.97,
+          "kilometersCovered": 7.63,
+          "numberOfSprints": 11,
+          "totalBallCarriesDistance": 148.06536022268,
+          "ballCarriesCount": 13,
+          "totalProgression": 97.313891727038,
+          "bestBallCarryProgression": 29.205179577906,
+          "totalProgressiveBallCarriesDistance": 75.618645563172,
+          "progressiveBallCarriesCount": 3,
+          "ratingVersions": {
+            "original": 5.9,
+            "alternative": 6.1
+          },
+          "totalShots": 2,
+          "shotValueNormalized": -0.19,
+          "passValueNormalized": 0.08,
+          "dribbleValueNormalized": 0.13,
+          "defensiveValueNormalized": -0.32,
+          "metersCoveredRunningKm": 1.37,
+          "metersCoveredHighSpeedRunningKm": 0.34,
+          "metersCoveredSprintingKm": 0.17,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

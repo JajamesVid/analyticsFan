@@ -4830,129 +4830,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Girona",
-        "abreviatura": "GIR",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/30.png"
-      },
-      "visitante": {
-        "nombre": "Elche",
-        "abreviatura": "ELC",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
-      }
-    },
-    "resultado": "1-1",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20447-girona-elche",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083743,
-      "match_info": {
-        "homeTeam": {
-          "name": "Girona FC",
-          "shortName": "Girona",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Elche",
-          "shortName": "Elche",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "startTimestamp": 1779562800,
-        "slug": "girona-fc-elche",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Martim Neto",
-          "firstName": "Martim",
-          "lastName": "Neto",
-          "slug": "martim-neto",
-          "shortName": "M. Neto",
-          "position": "M",
-          "jerseyNumber": "16",
-          "height": 185,
-          "userCount": 826,
-          "gender": "M",
-          "sofascoreId": "fpadh3",
-          "id": 1100646,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 1042502400,
-          "proposedMarketValueRaw": {
-            "value": 3800000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "نيتو، مارتيم",
-              "bn": "নেটো, মার্টিম",
-              "hi": "नेटो, मार्टिम",
-              "ru": "Мартим Нето"
-            },
-            "shortNameTranslation": {
-              "ar": "م. نيتو",
-              "bn": "এম. নেটো",
-              "hi": "एम. नेटो",
-              "ru": "М. Нето"
-            }
-          }
-        },
-        "team": {
-          "name": "Elche",
-          "slug": "elche",
-          "shortName": "Elche",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 116534,
-          "nameCode": "ELC",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2846,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#336600",
-            "text": "#336600"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "إلتشي",
-              "bn": "এলচে",
-              "hi": "एल्चे",
-              "ru": "Эльче"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "M",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Elche",
         "abreviatura": "ELC",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
@@ -7032,6 +6909,128 @@
           "metersCoveredRunningKm": 0.76,
           "metersCoveredHighSpeedRunningKm": 0.4,
           "metersCoveredSprintingKm": 0.22,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Girona",
+        "abreviatura": "GIR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/30.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20447-girona-elche",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083743,
+      "match_info": {
+        "homeTeam": {
+          "name": "Girona FC",
+          "shortName": "Girona",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "girona-fc-elche"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Martim Neto",
+          "firstName": "Martim",
+          "lastName": "Neto",
+          "slug": "martim-neto",
+          "shortName": "M. Neto",
+          "position": "M",
+          "jerseyNumber": "16",
+          "height": 185,
+          "userCount": 846,
+          "gender": "M",
+          "sofascoreId": "fpadh3",
+          "id": 1100646,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1042502400,
+          "proposedMarketValueRaw": {
+            "value": 3800000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نيتو، مارتيم",
+              "bn": "নেটো, মার্টিম",
+              "hi": "नेटो, मार्टिम",
+              "ru": "Мартим Нето"
+            },
+            "shortNameTranslation": {
+              "ar": "م. نيتو",
+              "bn": "এম. নেটো",
+              "hi": "एम. नेटो",
+              "ru": "М. Нето"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 118908,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

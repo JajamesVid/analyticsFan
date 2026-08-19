@@ -3064,135 +3064,6 @@
       "extra": null
     }
   },
-  "14083706": {
-    "id": 14083706,
-    "match_info": {
-      "homeTeam": {
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "color": "#0232a0",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Rayo Vallecano",
-        "shortName": "Rayo Vallecano",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "deportivo-alaves-rayo-vallecano"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Nobel Mendy",
-        "firstName": "Nobel",
-        "lastName": "Mendy",
-        "slug": "nobel-mendy",
-        "shortName": "N. Mendy",
-        "position": "D",
-        "jerseyNumber": "32",
-        "height": 187,
-        "userCount": 6452,
-        "gender": "M",
-        "id": 1458073,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1092614400,
-        "proposedMarketValueRaw": {
-          "value": 7700000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "نوبل ميندي",
-            "bn": "মেন্ডি, নোবেল",
-            "hi": "मेंडी, नोबेल",
-            "ru": "Нобель Менди"
-          },
-          "shortNameTranslation": {
-            "ar": "ن. ميندي",
-            "bn": "এন. মেন্ডি",
-            "hi": "एन. मेंडी",
-            "ru": "Н. Менди"
-          }
-        }
-      },
-      "team": {
-        "name": "Rayo Vallecano",
-        "slug": "rayo-vallecano",
-        "shortName": "Rayo Vallecano",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 227407,
-        "nameCode": "RAY",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2818,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "رايو فاليكانو",
-            "bn": "রায়ো ভ্যালেকানো",
-            "hi": "रेयो वैलेकैनो",
-            "ru": "Райо Вальекано"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 47,
-        "accuratePass": 36,
-        "totalLongBalls": 10,
-        "accurateLongBalls": 5,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 33,
-        "totalOwnHalfPasses": 36,
-        "accurateOppositionHalfPasses": 3,
-        "totalOppositionHalfPasses": 11,
-        "aerialLost": 2,
-        "aerialWon": 2,
-        "duelLost": 4,
-        "duelWon": 4,
-        "totalClearance": 4,
-        "outfielderBlock": 3,
-        "ballRecovery": 6,
-        "totalTackle": 2,
-        "wonTackle": 2,
-        "fouls": 2,
-        "minutesPlayed": 90,
-        "touches": 62,
-        "rating": 7.3,
-        "possessionLostCtrl": 12,
-        "expectedAssists": 0.00179536,
-        "totalBallCarriesDistance": 76.095640474017,
-        "ballCarriesCount": 12,
-        "totalProgression": 30.893005980975,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 7.3,
-          "alternative": 7.1
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.03,
-        "dribbleValueNormalized": 0.05,
-        "defensiveValueNormalized": 0.56,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "15632649": {
     "id": 15632649,
     "match_info": {
@@ -10343,6 +10214,142 @@
           "alternative": null
         },
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083706": {
+    "id": 14083706,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "deportivo-alaves-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Nobel Mendy",
+        "firstName": "Nobel",
+        "lastName": "Mendy",
+        "slug": "nobel-mendy",
+        "shortName": "N. Mendy",
+        "position": "D",
+        "jerseyNumber": "32",
+        "height": 187,
+        "userCount": 6419,
+        "gender": "M",
+        "sofascoreId": "b7rf6v",
+        "id": 1458073,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1092614400,
+        "proposedMarketValueRaw": {
+          "value": 7700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نوبل ميندي",
+            "bn": "মেন্ডি, নোবেল",
+            "hi": "मेंडी, नोबेल",
+            "ru": "Нобель Менди"
+          },
+          "shortNameTranslation": {
+            "ar": "ن. ميندي",
+            "bn": "এন. মেন্ডি",
+            "hi": "एन. मेंडी",
+            "ru": "Н. Менди"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 227211,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 47,
+        "accuratePass": 36,
+        "totalLongBalls": 10,
+        "accurateLongBalls": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 33,
+        "totalOwnHalfPasses": 36,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 11,
+        "aerialLost": 2,
+        "aerialWon": 2,
+        "duelLost": 4,
+        "duelWon": 4,
+        "totalClearance": 4,
+        "outfielderBlock": 3,
+        "ballRecovery": 6,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 62,
+        "rating": 7.3,
+        "possessionLostCtrl": 12,
+        "expectedAssists": 0.00179536,
+        "topSpeed": 33.19,
+        "kilometersCovered": 8.53,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 76.095640474017,
+        "ballCarriesCount": 12,
+        "totalProgression": 30.893005980975,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7.3,
+          "alternative": 7.1
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.03,
+        "dribbleValueNormalized": 0.05,
+        "defensiveValueNormalized": 0.56,
+        "metersCoveredRunningKm": 0.89,
+        "metersCoveredHighSpeedRunningKm": 0.2,
+        "metersCoveredSprintingKm": 0.07,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

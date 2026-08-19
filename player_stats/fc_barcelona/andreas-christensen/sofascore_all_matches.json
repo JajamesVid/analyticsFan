@@ -3182,138 +3182,6 @@
       "extra": null
     }
   },
-  "14083739": {
-    "id": 14083739,
-    "match_info": {
-      "homeTeam": {
-        "name": "Valencia",
-        "shortName": "Valencia",
-        "color": "#ffffff",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "FC Barcelona",
-        "shortName": "Barcelona",
-        "color": "#154284",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "valencia-barcelona"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Andreas Christensen",
-        "firstName": "Andreas",
-        "lastName": "Christensen",
-        "slug": "andreas-christensen",
-        "shortName": "A. Christensen",
-        "position": "D",
-        "jerseyNumber": "15",
-        "height": 188,
-        "userCount": 73893,
-        "gender": "M",
-        "sofascoreId": "andreaschristensen3",
-        "id": 186795,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 829094400,
-        "proposedMarketValueRaw": {
-          "value": 7700000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أندرياس كريستنسن",
-            "bn": "আন্দ্রেয়াস ক্রিস্টেনসেন",
-            "hi": "एंड्रियास क्रिस्टेनसेन",
-            "ru": "Андреас Кристенсен"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. كريستنسن",
-            "bn": "এ. ক্রিস্টেনসেন",
-            "hi": "ए. क्रिस्टेनसेन",
-            "ru": "А. Кристенсен"
-          }
-        }
-      },
-      "team": {
-        "name": "FC Barcelona",
-        "slug": "barcelona",
-        "shortName": "Barcelona",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 7651582,
-        "nameCode": "BAR",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2817,
-        "teamColors": {
-          "primary": "#154284",
-          "secondary": "#9d1009",
-          "text": "#9d1009"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "برشلونة",
-            "bn": "বার্সেলোনা",
-            "hi": "बार्सिलोना",
-            "ru": "Барселона"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 35,
-        "accuratePass": 33,
-        "totalLongBalls": 1,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 14,
-        "totalOwnHalfPasses": 16,
-        "accurateOppositionHalfPasses": 19,
-        "totalOppositionHalfPasses": 19,
-        "aerialWon": 1,
-        "duelLost": 3,
-        "duelWon": 1,
-        "challengeLost": 1,
-        "bigChanceMissed": 1,
-        "onTargetScoringAttempt": 2,
-        "hitWoodwork": 1,
-        "ballRecovery": 1,
-        "fouls": 2,
-        "minutesPlayed": 28,
-        "touches": 38,
-        "rating": 6,
-        "possessionLostCtrl": 2,
-        "expectedGoals": 0.1713,
-        "expectedGoalsOnTarget": 0.9513,
-        "expectedAssists": 0.00926019,
-        "totalBallCarriesDistance": 55.492881182807,
-        "ballCarriesCount": 9,
-        "totalProgression": 33.856657745506,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6,
-          "alternative": 6.3
-        },
-        "totalShots": 2,
-        "shotValueNormalized": 0.29,
-        "passValueNormalized": 0.18,
-        "dribbleValueNormalized": 0.03,
-        "defensiveValueNormalized": -0.6,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "16130145": {
     "id": 16130145,
     "match_info": {
@@ -23459,6 +23327,144 @@
         "rating": 6.2,
         "possessionLostCtrl": 1,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083739": {
+    "id": 14083739,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "valencia-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Andreas Christensen",
+        "firstName": "Andreas",
+        "lastName": "Christensen",
+        "slug": "andreas-christensen",
+        "shortName": "A. Christensen",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 188,
+        "userCount": 77405,
+        "gender": "M",
+        "sofascoreId": "andreaschristensen3",
+        "id": 186795,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 829094400,
+        "proposedMarketValueRaw": {
+          "value": 7700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أندرياس كريستنسن",
+            "bn": "আন্দ্রেয়াস ক্রিস্টেনসেন",
+            "hi": "एंड्रियास क्रिस्टेनसेन",
+            "ru": "Андреас Кристенсен"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. كريستنسن",
+            "bn": "এ. ক্রিস্টেনসেন",
+            "hi": "ए. क्रिस्टेनसेन",
+            "ru": "А. Кристенсен"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Barcelona",
+        "slug": "barcelona",
+        "shortName": "Barcelona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 8036915,
+        "nameCode": "BAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2817,
+        "teamColors": {
+          "primary": "#154284",
+          "secondary": "#9d1009",
+          "text": "#9d1009"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "برشلونة",
+            "bn": "বার্সেলোনা",
+            "hi": "बार्सिलोना",
+            "ru": "Барселона"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 35,
+        "accuratePass": 33,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 14,
+        "totalOwnHalfPasses": 16,
+        "accurateOppositionHalfPasses": 19,
+        "totalOppositionHalfPasses": 19,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "bigChanceMissed": 1,
+        "onTargetScoringAttempt": 2,
+        "hitWoodwork": 1,
+        "ballRecovery": 1,
+        "fouls": 2,
+        "minutesPlayed": 28,
+        "touches": 38,
+        "rating": 6,
+        "possessionLostCtrl": 2,
+        "expectedGoals": 0.1713,
+        "expectedGoalsOnTarget": 0.9513,
+        "expectedAssists": 0.00926019,
+        "topSpeed": 31.96,
+        "kilometersCovered": 3.02,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 55.492881182807,
+        "ballCarriesCount": 9,
+        "totalProgression": 33.856657745506,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6,
+          "alternative": 6.3
+        },
+        "totalShots": 2,
+        "shotValueNormalized": 0.29,
+        "passValueNormalized": 0.18,
+        "dribbleValueNormalized": 0.03,
+        "defensiveValueNormalized": -0.6,
+        "metersCoveredRunningKm": 0.37,
+        "metersCoveredHighSpeedRunningKm": 0.14,
+        "metersCoveredSprintingKm": 0.07,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

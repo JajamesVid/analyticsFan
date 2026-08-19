@@ -3233,135 +3233,6 @@
       "extra": null
     }
   },
-  "14083710": {
-    "id": 14083710,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Betis",
-        "shortName": "Real Betis",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "awayTeam": {
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "color": "#0e3b68",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "levante-ud-real-betis"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Oriol Rey",
-        "firstName": "Oriol",
-        "lastName": "Rey",
-        "slug": "oriol-rey",
-        "shortName": "O. Rey",
-        "position": "M",
-        "jerseyNumber": "20",
-        "height": 175,
-        "userCount": 886,
-        "gender": "M",
-        "id": 859769,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 888364800,
-        "proposedMarketValueRaw": {
-          "value": 1700000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريه، أوريول",
-            "bn": "রে, ওরিওল",
-            "hi": "रे, ओरिओल",
-            "ru": "Ориол Рей"
-          },
-          "shortNameTranslation": {
-            "ar": "ر. أوريول",
-            "bn": "ও. রে",
-            "hi": "ओ. रे",
-            "ru": "О. Рей"
-          }
-        }
-      },
-      "team": {
-        "name": "Levante UD",
-        "slug": "levante-ud",
-        "shortName": "Levante",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 116374,
-        "nameCode": "LEV",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2849,
-        "teamColors": {
-          "primary": "#0e3b68",
-          "secondary": "#d70000",
-          "text": "#d70000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ليفانتي يو دي",
-            "hi": "लेवांटे यूडी",
-            "ru": "Леванте"
-          },
-          "shortNameTranslation": {
-            "ar": "ليفانتي",
-            "bn": "লেভান্তে",
-            "hi": "लेवांते"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 25,
-        "accuratePass": 23,
-        "totalLongBalls": 3,
-        "accurateLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 14,
-        "totalOwnHalfPasses": 14,
-        "accurateOppositionHalfPasses": 9,
-        "totalOppositionHalfPasses": 11,
-        "duelLost": 3,
-        "challengeLost": 2,
-        "dispossessed": 1,
-        "outfielderBlock": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 3,
-        "unsuccessfulTouch": 1,
-        "minutesPlayed": 45,
-        "touches": 30,
-        "rating": 6.5,
-        "possessionLostCtrl": 4,
-        "expectedAssists": 0.00372006,
-        "totalBallCarriesDistance": 95.42660617127,
-        "ballCarriesCount": 12,
-        "totalProgression": 55.194373038449,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.5,
-          "alternative": 6.5
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.02,
-        "dribbleValueNormalized": 0.12,
-        "defensiveValueNormalized": -0.08,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12467579": {
     "id": 12467579,
     "match_info": {
@@ -23534,6 +23405,142 @@
         "rating": 6.4,
         "possessionLostCtrl": 4,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083710": {
+    "id": 14083710,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "levante-ud-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Oriol Rey",
+        "firstName": "Oriol",
+        "lastName": "Rey",
+        "slug": "oriol-rey",
+        "shortName": "O. Rey",
+        "position": "M",
+        "jerseyNumber": "20",
+        "height": 175,
+        "userCount": 930,
+        "gender": "M",
+        "sofascoreId": "bd5skq",
+        "id": 859769,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 888364800,
+        "proposedMarketValueRaw": {
+          "value": 1700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريه، أوريول",
+            "bn": "রে, ওরিওল",
+            "hi": "रे, ओरिओल",
+            "ru": "Ориол Рей"
+          },
+          "shortNameTranslation": {
+            "ar": "ر. أوريول",
+            "bn": "ও. রে",
+            "hi": "ओ. रे",
+            "ru": "О. Рей"
+          }
+        }
+      },
+      "team": {
+        "name": "Levante UD",
+        "slug": "levante-ud",
+        "shortName": "Levante",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 117899,
+        "nameCode": "LEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2849,
+        "teamColors": {
+          "primary": "#0e3b68",
+          "secondary": "#d70000",
+          "text": "#d70000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفانتي",
+            "hi": "लेवांटे यूडी",
+            "ru": "Леванте"
+          },
+          "shortNameTranslation": {
+            "ar": "ليفانتي",
+            "bn": "লেভান্তে",
+            "hi": "लेवांते"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 25,
+        "accuratePass": 23,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 14,
+        "totalOwnHalfPasses": 14,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 11,
+        "duelLost": 3,
+        "challengeLost": 2,
+        "dispossessed": 1,
+        "outfielderBlock": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 3,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 45,
+        "touches": 30,
+        "rating": 6.5,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.00372006,
+        "topSpeed": 29.76,
+        "kilometersCovered": 5.56,
+        "numberOfSprints": 7,
+        "totalBallCarriesDistance": 95.42660617127,
+        "ballCarriesCount": 12,
+        "totalProgression": 55.194373038449,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.02,
+        "dribbleValueNormalized": 0.12,
+        "defensiveValueNormalized": -0.08,
+        "metersCoveredRunningKm": 1.01,
+        "metersCoveredHighSpeedRunningKm": 0.32,
+        "metersCoveredSprintingKm": 0.11,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

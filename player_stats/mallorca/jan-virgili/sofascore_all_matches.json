@@ -3741,134 +3741,6 @@
       "extra": null
     }
   },
-  "14083727": {
-    "id": 14083727,
-    "match_info": {
-      "homeTeam": {
-        "name": "Mallorca",
-        "shortName": "Mallorca",
-        "color": "#cc0000",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "Real Oviedo",
-        "shortName": "Real Oviedo",
-        "color": "#3300ff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-oviedo-mallorca"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Jan Virgili",
-        "firstName": "Jan Virgili",
-        "slug": "jan-virgili",
-        "shortName": "J. Virgili",
-        "position": "M",
-        "jerseyNumber": "17",
-        "height": 168,
-        "userCount": 7048,
-        "gender": "M",
-        "sofascoreId": "zqpqnz",
-        "id": 1939173,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1153872000,
-        "proposedMarketValueRaw": {
-          "value": 13800000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "يان فيرجيل",
-            "ru": "Ян Виргили"
-          },
-          "shortNameTranslation": {
-            "ar": "ي. فيرجيل",
-            "ru": "Я. Виргили"
-          }
-        }
-      },
-      "team": {
-        "name": "Mallorca",
-        "slug": "mallorca",
-        "shortName": "Mallorca",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 201002,
-        "nameCode": "MLL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2826,
-        "teamColors": {
-          "primary": "#cc0000",
-          "secondary": "#000000",
-          "text": "#000000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "مايوركا",
-            "bn": "ম্যালোর্কা",
-            "hi": "मल्लोर्का",
-            "ru": "Мальорка"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 13,
-        "accuratePass": 10,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 1,
-        "totalOwnHalfPasses": 1,
-        "accurateOppositionHalfPasses": 9,
-        "totalOppositionHalfPasses": 12,
-        "duelLost": 2,
-        "duelWon": 3,
-        "dispossessed": 1,
-        "totalContest": 4,
-        "wonContest": 3,
-        "ballRecovery": 6,
-        "minutesPlayed": 29,
-        "touches": 18,
-        "rating": 7.1,
-        "possessionLostCtrl": 5,
-        "expectedAssists": 0.0318625,
-        "topSpeed": 31.88,
-        "kilometersCovered": 3.05,
-        "numberOfSprints": 4,
-        "totalBallCarriesDistance": 150.88026163289,
-        "ballCarriesCount": 15,
-        "totalProgression": 78.311498099107,
-        "bestBallCarryProgression": 17.539230250875,
-        "totalProgressiveBallCarriesDistance": 62.579164367777,
-        "progressiveBallCarriesCount": 3,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 7.1,
-          "alternative": 7.4
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.08,
-        "dribbleValueNormalized": 0.45,
-        "defensiveValueNormalized": 0,
-        "metersCoveredRunningKm": 0.38,
-        "metersCoveredHighSpeedRunningKm": 0.16,
-        "metersCoveredSprintingKm": 0.06,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "13573280": {
     "id": 13573280,
     "match_info": {
@@ -9923,6 +9795,134 @@
         }
       },
       "position": "M",
+      "extra": null
+    }
+  },
+  "14083727": {
+    "id": 14083727,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-oviedo-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Jan Virgili",
+        "firstName": "Jan Virgili",
+        "slug": "jan-virgili",
+        "shortName": "J. Virgili",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 168,
+        "userCount": 7318,
+        "gender": "M",
+        "sofascoreId": "zqpqnz",
+        "id": 1939173,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1153872000,
+        "proposedMarketValueRaw": {
+          "value": 13800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "يان فيرجيل",
+            "ru": "Ян Виргили"
+          },
+          "shortNameTranslation": {
+            "ar": "ي. فيرجيل",
+            "ru": "Я. Виргили"
+          }
+        }
+      },
+      "team": {
+        "name": "Mallorca",
+        "slug": "mallorca",
+        "shortName": "Mallorca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202209,
+        "nameCode": "MLL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2826,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مايوركا",
+            "bn": "ম্যালোর্কা",
+            "hi": "मल्लोर्का",
+            "ru": "Мальорка"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 13,
+        "accuratePass": 10,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 12,
+        "duelLost": 2,
+        "duelWon": 3,
+        "dispossessed": 1,
+        "totalContest": 4,
+        "wonContest": 3,
+        "ballRecovery": 6,
+        "minutesPlayed": 29,
+        "touches": 18,
+        "rating": 7.1,
+        "possessionLostCtrl": 5,
+        "expectedAssists": 0.0318625,
+        "topSpeed": 31.88,
+        "kilometersCovered": 3.05,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 150.88026163289,
+        "ballCarriesCount": 15,
+        "totalProgression": 78.311498099107,
+        "bestBallCarryProgression": 17.539230250875,
+        "totalProgressiveBallCarriesDistance": 62.579164367777,
+        "progressiveBallCarriesCount": 3,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.1,
+          "alternative": 7.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.08,
+        "dribbleValueNormalized": 0.45,
+        "defensiveValueNormalized": 0,
+        "metersCoveredRunningKm": 0.38,
+        "metersCoveredHighSpeedRunningKm": 0.16,
+        "metersCoveredSprintingKm": 0.06,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
       "extra": null
     }
   }

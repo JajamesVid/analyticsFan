@@ -3539,140 +3539,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Claudio Echeverri",
-        "slug": "claudio-echeverri",
-        "shortName": "C. Echeverri",
-        "position": "M",
-        "jerseyNumber": "30",
-        "height": 171,
-        "userCount": 38065,
-        "gender": "M",
-        "sofascoreId": "claudio_echeverri",
-        "id": 1482424,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1136160000,
-        "proposedMarketValueRaw": {
-          "value": 14300000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "كلاوديو إتشيفيري",
-            "bn": "ক্লাউদিও এচেভেরি",
-            "hi": "क्लाउडियो एचेवेरी",
-            "ru": "Клаудио Эчеверри"
-          },
-          "shortNameTranslation": {
-            "ar": "ك. إتشيفيري",
-            "bn": "সি. এচেভেরি",
-            "hi": "सी. एचेवेरी",
-            "ru": "К. Эчеверри"
-          }
-        }
-      },
-      "team": {
-        "name": "Girona FC",
-        "slug": "girona-fc",
-        "shortName": "Girona",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 373692,
-        "nameCode": "GIR",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 24264,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ff0000",
-          "text": "#ff0000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "جيرونا إف سي",
-            "hi": "जिरोना",
-            "ru": "Жирона"
-          },
-          "shortNameTranslation": {
-            "ar": "جيرونا",
-            "bn": "জিরোনা",
-            "hi": "गिरोना"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 13,
-        "accuratePass": 10,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 2,
-        "totalOwnHalfPasses": 2,
-        "accurateOppositionHalfPasses": 8,
-        "totalOppositionHalfPasses": 11,
-        "duelLost": 4,
-        "totalContest": 1,
-        "onTargetScoringAttempt": 1,
-        "fouls": 3,
-        "minutesPlayed": 23,
-        "touches": 18,
-        "rating": 6.2,
-        "possessionLostCtrl": 5,
-        "expectedGoals": 0.0914,
-        "expectedGoalsOnTarget": 0.1855,
-        "expectedAssists": 0.00909297,
-        "topSpeed": 24.58,
-        "kilometersCovered": 3.26,
-        "numberOfSprints": 0,
-        "totalBallCarriesDistance": 64.604126441559,
-        "ballCarriesCount": 9,
-        "totalProgression": 13.999188246024,
-        "bestBallCarryProgression": 9.8258679271465,
-        "totalProgressiveBallCarriesDistance": 11.42880785559,
-        "progressiveBallCarriesCount": 1,
-        "ratingVersions": {
-          "original": 6.2,
-          "alternative": 6.5
-        },
-        "totalShots": 1,
-        "shotValueNormalized": -0.11,
-        "passValueNormalized": -0.07,
-        "dribbleValueNormalized": 0.08,
-        "defensiveValueNormalized": -0.01,
-        "metersCoveredRunningKm": 0.55,
-        "metersCoveredHighSpeedRunningKm": 0.1,
-        "metersCoveredSprintingKm": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12375376": {
     "id": 12375376,
     "match_info": {
@@ -15560,6 +15426,140 @@
       },
       "statistics": {
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Claudio Echeverri",
+        "slug": "claudio-echeverri",
+        "shortName": "C. Echeverri",
+        "position": "M",
+        "jerseyNumber": "30",
+        "height": 171,
+        "userCount": 39997,
+        "gender": "M",
+        "sofascoreId": "claudio_echeverri",
+        "id": 1482424,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1136160000,
+        "proposedMarketValueRaw": {
+          "value": 14300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كلاوديو إتشيفيري",
+            "bn": "ক্লাউদিও এচেভেরি",
+            "hi": "क्लाउडियो एचेवेरी",
+            "ru": "Клаудио Эчеверри"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. إتشيفيري",
+            "bn": "সি. এচেভেরি",
+            "hi": "सी. एचेवेरी",
+            "ru": "К. Эчеверри"
+          }
+        }
+      },
+      "team": {
+        "name": "Girona FC",
+        "slug": "girona-fc",
+        "shortName": "Girona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 374248,
+        "nameCode": "GIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24264,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جيرونا إف سي",
+            "hi": "जिरोना",
+            "ru": "Жирона"
+          },
+          "shortNameTranslation": {
+            "ar": "جيرونا",
+            "bn": "জিরোনা",
+            "hi": "गिरोना"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 13,
+        "accuratePass": 10,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 11,
+        "duelLost": 4,
+        "totalContest": 1,
+        "onTargetScoringAttempt": 1,
+        "fouls": 3,
+        "minutesPlayed": 23,
+        "touches": 18,
+        "rating": 6.2,
+        "possessionLostCtrl": 5,
+        "expectedGoals": 0.0914,
+        "expectedGoalsOnTarget": 0.1855,
+        "expectedAssists": 0.00909297,
+        "topSpeed": 24.58,
+        "kilometersCovered": 3.26,
+        "numberOfSprints": 0,
+        "totalBallCarriesDistance": 64.604126441559,
+        "ballCarriesCount": 9,
+        "totalProgression": 13.999188246024,
+        "bestBallCarryProgression": 9.8258679271465,
+        "totalProgressiveBallCarriesDistance": 11.42880785559,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.2,
+          "alternative": 6.5
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.11,
+        "passValueNormalized": -0.07,
+        "dribbleValueNormalized": 0.08,
+        "defensiveValueNormalized": -0.01,
+        "metersCoveredRunningKm": 0.55,
+        "metersCoveredHighSpeedRunningKm": 0.1,
+        "metersCoveredSprintingKm": 0,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

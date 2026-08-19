@@ -3324,138 +3324,6 @@
       "extra": null
     }
   },
-  "14083739": {
-    "id": 14083739,
-    "match_info": {
-      "homeTeam": {
-        "name": "Valencia",
-        "shortName": "Valencia",
-        "color": "#ffffff",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "FC Barcelona",
-        "shortName": "Barcelona",
-        "color": "#154284",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "valencia-barcelona"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Jesús Vázquez",
-        "firstName": "",
-        "lastName": "",
-        "slug": "jesus-vazquez",
-        "shortName": "J. Vázquez",
-        "position": "D",
-        "jerseyNumber": "21",
-        "height": 182,
-        "userCount": 434,
-        "gender": "M",
-        "id": 996929,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1041465600,
-        "proposedMarketValueRaw": {
-          "value": 4200000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "خيسوس فاسكيز",
-            "bn": "জেসুস ভাজকুয়েজ",
-            "hi": "जीसस वाज़क्वेज़",
-            "ru": "Хесус Васкес"
-          },
-          "shortNameTranslation": {
-            "ar": "خ. فاسكيز",
-            "bn": "জে. ভাজকেজ",
-            "hi": "जे. वाज़क्वेज़",
-            "ru": "Х. Васкес"
-          }
-        }
-      },
-      "team": {
-        "name": "Valencia",
-        "slug": "valencia",
-        "shortName": "Valencia",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 288160,
-        "nameCode": "VAL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2828,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#000000",
-          "text": "#000000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فالنسيا",
-            "bn": "ভ্যালেন্সিয়া",
-            "hi": "वेलेंसिया",
-            "ru": "Валенсия"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 17,
-        "accuratePass": 12,
-        "totalLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 2,
-        "totalOwnHalfPasses": 2,
-        "accurateOppositionHalfPasses": 10,
-        "totalOppositionHalfPasses": 15,
-        "totalCross": 1,
-        "accurateCross": 1,
-        "duelLost": 2,
-        "duelWon": 2,
-        "challengeLost": 1,
-        "totalContest": 1,
-        "totalClearance": 1,
-        "interceptionWon": 2,
-        "ballRecovery": 5,
-        "totalTackle": 1,
-        "wasFouled": 1,
-        "minutesPlayed": 80,
-        "touches": 36,
-        "rating": 6.8,
-        "possessionLostCtrl": 7,
-        "expectedAssists": 0.198879,
-        "totalBallCarriesDistance": 68.23113687548,
-        "ballCarriesCount": 7,
-        "totalProgression": 59.244762333197,
-        "bestBallCarryProgression": 17.986452447458,
-        "totalProgressiveBallCarriesDistance": 52.49763113045,
-        "progressiveBallCarriesCount": 3,
-        "keyPass": 2,
-        "ratingVersions": {
-          "original": 6.8,
-          "alternative": 6.8
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.39,
-        "dribbleValueNormalized": 0.27,
-        "defensiveValueNormalized": -0.21,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437858": {
     "id": 12437858,
     "match_info": {
@@ -21376,6 +21244,145 @@
         }
       },
       "position": "M",
+      "extra": null
+    }
+  },
+  "14083739": {
+    "id": 14083739,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "valencia-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Jesús Vázquez",
+        "firstName": "",
+        "lastName": "",
+        "slug": "jesus-vazquez",
+        "shortName": "J. Vázquez",
+        "position": "D",
+        "jerseyNumber": "21",
+        "height": 182,
+        "userCount": 450,
+        "gender": "M",
+        "sofascoreId": "g8w5xe",
+        "id": 996929,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1041465600,
+        "proposedMarketValueRaw": {
+          "value": 4200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيسوس فاسكيز",
+            "bn": "জেসুস ভাজকুয়েজ",
+            "hi": "जीसस वाज़क्वेज़",
+            "ru": "Хесус Васкес"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. فاسكيز",
+            "bn": "জে. ভাজকেজ",
+            "hi": "जे. वाज़क्वेज़",
+            "ru": "Х. Васкес"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 292379,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 17,
+        "accuratePass": 12,
+        "totalLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 10,
+        "totalOppositionHalfPasses": 15,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "duelLost": 2,
+        "duelWon": 2,
+        "challengeLost": 1,
+        "totalContest": 1,
+        "totalClearance": 1,
+        "interceptionWon": 2,
+        "ballRecovery": 5,
+        "totalTackle": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 80,
+        "touches": 36,
+        "rating": 6.8,
+        "possessionLostCtrl": 7,
+        "expectedAssists": 0.198879,
+        "topSpeed": 35.22,
+        "kilometersCovered": 8.52,
+        "numberOfSprints": 18,
+        "totalBallCarriesDistance": 68.23113687548,
+        "ballCarriesCount": 7,
+        "totalProgression": 59.244762333197,
+        "bestBallCarryProgression": 17.986452447458,
+        "totalProgressiveBallCarriesDistance": 52.49763113045,
+        "progressiveBallCarriesCount": 3,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.39,
+        "dribbleValueNormalized": 0.27,
+        "defensiveValueNormalized": -0.21,
+        "metersCoveredRunningKm": 1.24,
+        "metersCoveredHighSpeedRunningKm": 0.42,
+        "metersCoveredSprintingKm": 0.39,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
       "extra": null
     }
   }

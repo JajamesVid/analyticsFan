@@ -3604,137 +3604,6 @@
       "extra": null
     }
   },
-  "14083723": {
-    "id": 14083723,
-    "match_info": {
-      "homeTeam": {
-        "name": "Getafe",
-        "shortName": "Getafe",
-        "color": "#00369e",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Osasuna",
-        "shortName": "Osasuna",
-        "color": "#cc0000",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "getafe-osasuna"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Domingos Duarte",
-        "firstName": "Domingos",
-        "lastName": "Duarte",
-        "slug": "domingos-duarte",
-        "shortName": "D. Duarte",
-        "position": "D",
-        "jerseyNumber": "22",
-        "height": 191,
-        "userCount": 802,
-        "gender": "M",
-        "id": 576276,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 794793600,
-        "proposedMarketValueRaw": {
-          "value": 870000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "دومينغوس دوارتي",
-            "bn": "ডমিঙ্গোস ডুয়ার্তে",
-            "hi": "डोमिंगोस डुआर्टे",
-            "ru": "Домингос Дуарт"
-          },
-          "shortNameTranslation": {
-            "ar": "د. دوارتي",
-            "bn": "ডি. ডুয়ার্তে",
-            "hi": "डी. डुआर्टे",
-            "ru": "Д. Дуарт"
-          }
-        }
-      },
-      "team": {
-        "name": "Getafe",
-        "slug": "getafe",
-        "shortName": "Getafe",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 199335,
-        "nameCode": "GET",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2859,
-        "teamColors": {
-          "primary": "#00369e",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "خيتافي",
-            "bn": "গেটাফে",
-            "hi": "गेटाफे",
-            "ru": "Хетафе"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 32,
-        "accuratePass": 24,
-        "totalLongBalls": 10,
-        "accurateLongBalls": 6,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 15,
-        "totalOwnHalfPasses": 20,
-        "accurateOppositionHalfPasses": 9,
-        "totalOppositionHalfPasses": 12,
-        "aerialLost": 5,
-        "aerialWon": 5,
-        "duelLost": 7,
-        "duelWon": 6,
-        "dispossessed": 1,
-        "shotOffTarget": 1,
-        "totalClearance": 14,
-        "ballRecovery": 3,
-        "wasFouled": 1,
-        "fouls": 1,
-        "minutesPlayed": 90,
-        "touches": 50,
-        "rating": 7.1,
-        "possessionLostCtrl": 9,
-        "expectedGoals": 0.0356,
-        "expectedAssists": 0.00527928,
-        "totalBallCarriesDistance": 54.275543472931,
-        "ballCarriesCount": 8,
-        "totalProgression": 15.366101159652,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 7.1,
-          "alternative": 7.2
-        },
-        "totalShots": 1,
-        "shotValueNormalized": -0.23,
-        "passValueNormalized": 0.11,
-        "dribbleValueNormalized": 0.02,
-        "defensiveValueNormalized": 0.32,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437695": {
     "id": 12437695,
     "match_info": {
@@ -22081,6 +21950,144 @@
       },
       "statistics": {
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083723": {
+    "id": 14083723,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "getafe-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Domingos Duarte",
+        "firstName": "Domingos",
+        "lastName": "Duarte",
+        "slug": "domingos-duarte",
+        "shortName": "D. Duarte",
+        "position": "D",
+        "jerseyNumber": "22",
+        "height": 191,
+        "userCount": 947,
+        "gender": "M",
+        "sofascoreId": "gqupfi",
+        "id": 576276,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 794793600,
+        "proposedMarketValueRaw": {
+          "value": 870000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دومينغوس دوارتي",
+            "bn": "ডমিঙ্গোস ডুয়ার্তে",
+            "hi": "डोमिंगोस डुआर्टे",
+            "ru": "Домингос Дуарт"
+          },
+          "shortNameTranslation": {
+            "ar": "د. دوارتي",
+            "bn": "ডি. ডুয়ার্তে",
+            "hi": "डी. डुआर्टे",
+            "ru": "Д. Дуарт"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 203865,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 32,
+        "accuratePass": 24,
+        "totalLongBalls": 10,
+        "accurateLongBalls": 6,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 15,
+        "totalOwnHalfPasses": 20,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 12,
+        "aerialLost": 5,
+        "aerialWon": 5,
+        "duelLost": 7,
+        "duelWon": 6,
+        "dispossessed": 1,
+        "shotOffTarget": 1,
+        "totalClearance": 14,
+        "ballRecovery": 3,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 50,
+        "rating": 7.1,
+        "possessionLostCtrl": 9,
+        "expectedGoals": 0.0356,
+        "expectedAssists": 0.00527928,
+        "topSpeed": 30.62,
+        "kilometersCovered": 7.81,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 54.275543472931,
+        "ballCarriesCount": 8,
+        "totalProgression": 15.366101159652,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7.1,
+          "alternative": 7.2
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.23,
+        "passValueNormalized": 0.11,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": 0.32,
+        "metersCoveredRunningKm": 0.68,
+        "metersCoveredHighSpeedRunningKm": 0.2,
+        "metersCoveredSprintingKm": 0.06,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

@@ -3247,126 +3247,6 @@
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
       },
       "visitante": {
-        "nombre": "Real Oviedo",
-        "abreviatura": "ROV",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/43.png"
-      }
-    },
-    "resultado": "3-0",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20448-mallorca-real-oviedo",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083727,
-      "match_info": {
-        "homeTeam": {
-          "name": "Mallorca",
-          "shortName": "Mallorca",
-          "color": "#cc0000",
-          "score": 3
-        },
-        "awayTeam": {
-          "name": "Real Oviedo",
-          "shortName": "Real Oviedo",
-          "color": "#3300ff",
-          "score": 0
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-oviedo-mallorca",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Iván Cuéllar",
-          "slug": "ivan-cuellar",
-          "shortName": "I. Cuéllar",
-          "position": "G",
-          "height": 187,
-          "userCount": 175,
-          "gender": "M",
-          "sofascoreId": "zj36dx",
-          "id": 19013,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 454464000,
-          "proposedMarketValueRaw": {
-            "value": 110000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "إيفان كويلار",
-              "bn": "ইভান কুয়েলার",
-              "hi": "इवान कुएला",
-              "ru": "Иван Куэльяр"
-            },
-            "shortNameTranslation": {
-              "ar": "إ. كويلار",
-              "bn": "আই. কুয়েলার",
-              "hi": "आई. कुएला",
-              "ru": "И. Куэльяр"
-            }
-          }
-        },
-        "team": {
-          "name": "Mallorca",
-          "slug": "mallorca",
-          "shortName": "Mallorca",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 201002,
-          "nameCode": "MLL",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2826,
-          "teamColors": {
-            "primary": "#cc0000",
-            "secondary": "#000000",
-            "text": "#000000"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "مايوركا",
-              "bn": "ম্যালোর্কা",
-              "hi": "मल्लोर्का",
-              "ru": "Мальорка"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "G",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
-        "nombre": "Mallorca",
-        "abreviatura": "MAL",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
-      },
-      "visitante": {
         "nombre": "Real Sociedad",
         "abreviatura": "RSO",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
@@ -10863,6 +10743,126 @@
             "id": 1
           },
           "userCount": 201002,
+          "nameCode": "MLL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2826,
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مايوركا",
+              "bn": "ম্যালোর্কা",
+              "hi": "मल्लोर्का",
+              "ru": "Мальорка"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      },
+      "visitante": {
+        "nombre": "Real Oviedo",
+        "abreviatura": "ROV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/43.png"
+      }
+    },
+    "resultado": "3-0",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20448-mallorca-real-oviedo",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083727,
+      "match_info": {
+        "homeTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Real Oviedo",
+          "shortName": "Real Oviedo",
+          "color": "#3300ff",
+          "score": 0
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-oviedo-mallorca"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Iván Cuéllar",
+          "slug": "ivan-cuellar",
+          "shortName": "I. Cuéllar",
+          "position": "G",
+          "jerseyNumber": "25",
+          "height": 187,
+          "userCount": 178,
+          "gender": "M",
+          "sofascoreId": "zj36dx",
+          "id": 19013,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 454464000,
+          "proposedMarketValueRaw": {
+            "value": 110000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إيفان كويلار",
+              "bn": "ইভান কুয়েলার",
+              "hi": "इवान कुएला",
+              "ru": "Иван Куэльяр"
+            },
+            "shortNameTranslation": {
+              "ar": "إ. كويلار",
+              "bn": "আই. কুয়েলার",
+              "hi": "आई. कुएला",
+              "ru": "И. Куэльяр"
+            }
+          }
+        },
+        "team": {
+          "name": "Mallorca",
+          "slug": "mallorca",
+          "shortName": "Mallorca",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 202209,
           "nameCode": "MLL",
           "disabled": false,
           "national": false,

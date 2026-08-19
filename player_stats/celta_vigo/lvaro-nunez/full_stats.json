@@ -4275,124 +4275,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Celta",
-        "abreviatura": "CEL",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
-      },
-      "visitante": {
-        "nombre": "Sevilla",
-        "abreviatura": "SEV",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/17.png"
-      }
-    },
-    "resultado": "1-0",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20443-celta-sevilla",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083715,
-      "match_info": {
-        "homeTeam": {
-          "name": "Celta Vigo",
-          "shortName": "Celta",
-          "color": "#6cace4",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Sevilla",
-          "shortName": "Sevilla",
-          "color": "#ffffff",
-          "score": 0
-        },
-        "startTimestamp": 1779562800,
-        "slug": "sevilla-celta-vigo",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Alvaro Núñez",
-          "slug": "nunez-alvaro",
-          "shortName": "A. Núñez",
-          "position": "D",
-          "jerseyNumber": "14",
-          "height": 174,
-          "userCount": 480,
-          "gender": "M",
-          "id": 1012410,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 962928000,
-          "proposedMarketValueRaw": {
-            "value": 5800000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ألفارو نونيز",
-              "ru": "Альваро Нуньес"
-            },
-            "shortNameTranslation": {
-              "ar": "أ. نونيز",
-              "ru": "А. Нуньес"
-            }
-          }
-        },
-        "team": {
-          "name": "Celta Vigo",
-          "slug": "celta-vigo",
-          "shortName": "Celta",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 266335,
-          "nameCode": "CEL",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2821,
-          "teamColors": {
-            "primary": "#6cace4",
-            "secondary": "#ffffff",
-            "text": "#ffffff"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "سيلتا فيغو",
-              "bn": "সেলটা ভিগো",
-              "ru": "Сельта"
-            },
-            "shortNameTranslation": {
-              "ar": "سيلتا",
-              "hi": "सेल्टा"
-            }
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "D",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Elche",
         "abreviatura": "ELC",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
@@ -6378,6 +6260,124 @@
           "passValueNormalized": 0.25,
           "dribbleValueNormalized": 0.08,
           "defensiveValueNormalized": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Sevilla",
+        "abreviatura": "SEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/17.png"
+      }
+    },
+    "resultado": "1-0",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20443-celta-sevilla",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083715,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Sevilla",
+          "shortName": "Sevilla",
+          "color": "#ffffff",
+          "score": 0
+        },
+        "startTimestamp": 1779562800,
+        "slug": "sevilla-celta-vigo"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Alvaro Núñez",
+          "slug": "nunez-alvaro",
+          "shortName": "A. Núñez",
+          "position": "D",
+          "jerseyNumber": "14",
+          "height": 174,
+          "userCount": 471,
+          "gender": "M",
+          "sofascoreId": "tdftg6",
+          "id": 1012410,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 962928000,
+          "proposedMarketValueRaw": {
+            "value": 3900000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ألفارو نونيز",
+              "ru": "Альваро Нуньес"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. نونيز",
+              "ru": "А. Нуньес"
+            }
+          }
+        },
+        "team": {
+          "name": "Celta Vigo",
+          "slug": "celta-vigo",
+          "shortName": "Celta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 267822,
+          "nameCode": "CEL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2821,
+          "teamColors": {
+            "primary": "#6cace4",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيلتا فيغو",
+              "bn": "সেলটা ভিগো",
+              "ru": "Сельта"
+            },
+            "shortNameTranslation": {
+              "ar": "سيلتا",
+              "hi": "सेल्टा"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

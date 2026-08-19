@@ -3084,139 +3084,6 @@
       "extra": null
     }
   },
-  "14083710": {
-    "id": 14083710,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Betis",
-        "shortName": "Real Betis",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "awayTeam": {
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "color": "#0e3b68",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "levante-ud-real-betis"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Tai Abed",
-        "slug": "tay-abed-kassus",
-        "shortName": "T. A. Kassus",
-        "position": "F",
-        "jerseyNumber": "55",
-        "height": 177,
-        "userCount": 633,
-        "gender": "M",
-        "id": 1160250,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1091491200,
-        "proposedMarketValueRaw": {
-          "value": 955000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "تاي عابد كاسوس",
-            "ru": "Тай Абед"
-          },
-          "shortNameTranslation": {
-            "ar": "ت. كاسوس",
-            "ru": "Т. Абед"
-          }
-        }
-      },
-      "team": {
-        "name": "Levante UD",
-        "slug": "levante-ud",
-        "shortName": "Levante",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 116374,
-        "nameCode": "LEV",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2849,
-        "teamColors": {
-          "primary": "#0e3b68",
-          "secondary": "#d70000",
-          "text": "#d70000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ليفانتي يو دي",
-            "hi": "लेवांटे यूडी",
-            "ru": "Леванте"
-          },
-          "shortNameTranslation": {
-            "ar": "ليفانتي",
-            "bn": "লেভান্তে",
-            "hi": "लेवांते"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 8,
-        "accuratePass": 8,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 5,
-        "totalOwnHalfPasses": 5,
-        "accurateOppositionHalfPasses": 3,
-        "totalOppositionHalfPasses": 3,
-        "totalCross": 2,
-        "duelLost": 3,
-        "duelWon": 1,
-        "dispossessed": 1,
-        "totalContest": 2,
-        "wonContest": 1,
-        "bigChanceCreated": 1,
-        "shotOffTarget": 1,
-        "onTargetScoringAttempt": 1,
-        "hitWoodwork": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 5,
-        "fouls": 1,
-        "minutesPlayed": 45,
-        "touches": 18,
-        "rating": 6.5,
-        "possessionLostCtrl": 5,
-        "expectedGoals": 0.231,
-        "expectedGoalsOnTarget": 0.4192,
-        "expectedAssists": 0.119778,
-        "totalBallCarriesDistance": 75.21735721901,
-        "ballCarriesCount": 8,
-        "totalProgression": 44.276281525509,
-        "bestBallCarryProgression": 19.832279902926,
-        "totalProgressiveBallCarriesDistance": 28.086176111982,
-        "progressiveBallCarriesCount": 2,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 6.5,
-          "alternative": 7.1
-        },
-        "totalShots": 2,
-        "shotValueNormalized": 0.11,
-        "passValueNormalized": 0.07,
-        "dribbleValueNormalized": 0.28,
-        "defensiveValueNormalized": -0.02,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "16174762": {
     "id": 16174762,
     "match_info": {
@@ -17666,6 +17533,146 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083710": {
+    "id": 14083710,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "levante-ud-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Tai Abed",
+        "slug": "tay-abed-kassus",
+        "shortName": "T. A. Kassus",
+        "position": "F",
+        "jerseyNumber": "55",
+        "height": 177,
+        "userCount": 651,
+        "gender": "M",
+        "sofascoreId": "td4x2h",
+        "id": 1160250,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1091491200,
+        "proposedMarketValueRaw": {
+          "value": 955000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "تاي عابد كاسوس",
+            "ru": "Тай Абед"
+          },
+          "shortNameTranslation": {
+            "ar": "ت. كاسوس",
+            "ru": "Т. Абед"
+          }
+        }
+      },
+      "team": {
+        "name": "Levante UD",
+        "slug": "levante-ud",
+        "shortName": "Levante",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 117899,
+        "nameCode": "LEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2849,
+        "teamColors": {
+          "primary": "#0e3b68",
+          "secondary": "#d70000",
+          "text": "#d70000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفانتي",
+            "hi": "लेवांटे यूडी",
+            "ru": "Леванте"
+          },
+          "shortNameTranslation": {
+            "ar": "ليفانتي",
+            "bn": "লেভান্তে",
+            "hi": "लेवांते"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 8,
+        "accuratePass": 8,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 3,
+        "totalCross": 2,
+        "duelLost": 3,
+        "duelWon": 1,
+        "dispossessed": 1,
+        "totalContest": 2,
+        "wonContest": 1,
+        "bigChanceCreated": 1,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 1,
+        "hitWoodwork": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 5,
+        "fouls": 1,
+        "minutesPlayed": 45,
+        "touches": 18,
+        "rating": 6.5,
+        "possessionLostCtrl": 5,
+        "expectedGoals": 0.231,
+        "expectedGoalsOnTarget": 0.4192,
+        "expectedAssists": 0.119778,
+        "topSpeed": 33.63,
+        "kilometersCovered": 5.47,
+        "numberOfSprints": 7,
+        "totalBallCarriesDistance": 75.21735721901,
+        "ballCarriesCount": 8,
+        "totalProgression": 44.276281525509,
+        "bestBallCarryProgression": 19.832279902926,
+        "totalProgressiveBallCarriesDistance": 28.086176111982,
+        "progressiveBallCarriesCount": 2,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 7.1
+        },
+        "totalShots": 2,
+        "shotValueNormalized": 0.11,
+        "passValueNormalized": 0.07,
+        "dribbleValueNormalized": 0.28,
+        "defensiveValueNormalized": -0.02,
+        "metersCoveredRunningKm": 0.99,
+        "metersCoveredHighSpeedRunningKm": 0.33,
+        "metersCoveredSprintingKm": 0.14,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
     }
   }
 }

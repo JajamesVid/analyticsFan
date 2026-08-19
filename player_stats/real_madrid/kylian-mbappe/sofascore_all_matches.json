@@ -3395,138 +3395,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Kylian Mbappé",
-        "slug": "kylian-mbappe",
-        "shortName": "K. Mbappé",
-        "position": "F",
-        "jerseyNumber": "10",
-        "height": 180,
-        "userCount": 2081513,
-        "gender": "M",
-        "sofascoreId": "KMbappé",
-        "id": 826643,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 914112000,
-        "proposedMarketValueRaw": {
-          "value": 212000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "كيليان مبابي",
-            "bn": "কিলিয়ান এমবাপ্পে",
-            "hi": "किलियन एमबाप्पे"
-          },
-          "shortNameTranslation": {
-            "ar": "ك. مبابي",
-            "bn": "কে. এমবাপ্পে",
-            "hi": "के. एमबाप्पे"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Madrid",
-        "slug": "real-madrid",
-        "shortName": "Real Madrid",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 7733858,
-        "nameCode": "RMA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2829,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#004996",
-          "text": "#004996"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال مدريد",
-            "bn": "রিয়াল মাদ্রিদ",
-            "hi": "रियल मैड्रिड",
-            "ru": "Реал Мадрид"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 39,
-        "accuratePass": 31,
-        "totalLongBalls": 2,
-        "accurateLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 10,
-        "totalOwnHalfPasses": 11,
-        "accurateOppositionHalfPasses": 21,
-        "totalOppositionHalfPasses": 28,
-        "duelLost": 1,
-        "duelWon": 3,
-        "totalContest": 2,
-        "wonContest": 1,
-        "bigChanceMissed": 1,
-        "shotOffTarget": 3,
-        "onTargetScoringAttempt": 2,
-        "goals": 1,
-        "ballRecovery": 1,
-        "wasFouled": 2,
-        "totalOffside": 5,
-        "minutesPlayed": 90,
-        "touches": 50,
-        "rating": 8.1,
-        "possessionLostCtrl": 10,
-        "expectedGoals": 0.2598,
-        "expectedGoalsOnTarget": 0.271,
-        "expectedAssists": 0.0680639,
-        "totalBallCarriesDistance": 203.30936818876,
-        "ballCarriesCount": 22,
-        "totalProgression": 103.11516618028,
-        "bestBallCarryProgression": 23.035756809429,
-        "totalProgressiveBallCarriesDistance": 127.54502385505,
-        "progressiveBallCarriesCount": 9,
-        "ratingVersions": {
-          "original": 8.1,
-          "alternative": 7.5
-        },
-        "totalShots": 5,
-        "shotValueNormalized": 0.51,
-        "passValueNormalized": -0.32,
-        "dribbleValueNormalized": 0.64,
-        "defensiveValueNormalized": -0.01,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "16112840": {
     "id": 16112840,
     "match_info": {
@@ -27160,6 +27028,146 @@
         "metersCoveredRunningKm": 1.04,
         "metersCoveredHighSpeedRunningKm": 0.28,
         "metersCoveredSprintingKm": 0.13,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kylian Mbappé",
+        "slug": "kylian-mbappe",
+        "shortName": "K. Mbappé",
+        "position": "F",
+        "jerseyNumber": "10",
+        "height": 180,
+        "userCount": 2438814,
+        "gender": "M",
+        "sofascoreId": "KMbappe",
+        "id": 826643,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 914112000,
+        "proposedMarketValueRaw": {
+          "value": 212000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيليان مبابي",
+            "bn": "কিলিয়ান এমবাপ্পে",
+            "hi": "किलियन एमबाप्पे",
+            "ru": "Килиан Мбаппе"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. مبابي",
+            "bn": "কে. এমবাপ্পে",
+            "hi": "के. एमबाप्पे",
+            "ru": "К. Мбаппе"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Madrid",
+        "slug": "real-madrid",
+        "shortName": "Real Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 8378061,
+        "nameCode": "RMA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2829,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#004996",
+          "text": "#004996"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال مدريد",
+            "bn": "রিয়াল মাদ্রিদ",
+            "hi": "रियल मैड्रिड",
+            "ru": "Реал Мадрид"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 39,
+        "accuratePass": 31,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 10,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 21,
+        "totalOppositionHalfPasses": 28,
+        "duelLost": 1,
+        "duelWon": 3,
+        "totalContest": 2,
+        "wonContest": 1,
+        "bigChanceMissed": 1,
+        "shotOffTarget": 3,
+        "onTargetScoringAttempt": 2,
+        "goals": 1,
+        "ballRecovery": 1,
+        "wasFouled": 2,
+        "totalOffside": 5,
+        "minutesPlayed": 90,
+        "touches": 50,
+        "rating": 8.1,
+        "possessionLostCtrl": 10,
+        "expectedGoals": 0.2598,
+        "expectedGoalsOnTarget": 0.271,
+        "expectedAssists": 0.0680639,
+        "topSpeed": 33.34,
+        "kilometersCovered": 8.18,
+        "numberOfSprints": 20,
+        "totalBallCarriesDistance": 203.30936818876,
+        "ballCarriesCount": 22,
+        "totalProgression": 103.11516618028,
+        "bestBallCarryProgression": 23.035756809429,
+        "totalProgressiveBallCarriesDistance": 127.54502385505,
+        "progressiveBallCarriesCount": 9,
+        "ratingVersions": {
+          "original": 8.1,
+          "alternative": 7.5
+        },
+        "totalShots": 5,
+        "shotValueNormalized": 0.45,
+        "passValueNormalized": -0.32,
+        "dribbleValueNormalized": 0.64,
+        "defensiveValueNormalized": -0.01,
+        "metersCoveredRunningKm": 0.76,
+        "metersCoveredHighSpeedRunningKm": 0.37,
+        "metersCoveredSprintingKm": 0.28,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

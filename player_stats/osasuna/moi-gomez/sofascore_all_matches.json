@@ -3311,128 +3311,6 @@
       "extra": null
     }
   },
-  "14083723": {
-    "id": 14083723,
-    "match_info": {
-      "homeTeam": {
-        "name": "Getafe",
-        "shortName": "Getafe",
-        "color": "#00369e",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Osasuna",
-        "shortName": "Osasuna",
-        "color": "#cc0000",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "getafe-osasuna"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Moi Gómez",
-        "slug": "moi-gomez",
-        "shortName": "M. Gómez",
-        "position": "M",
-        "jerseyNumber": "16",
-        "height": 174,
-        "userCount": 644,
-        "gender": "M",
-        "id": 149370,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 772329600,
-        "proposedMarketValueRaw": {
-          "value": 1600000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "موي غوميز",
-            "bn": "মোই গোমেজ",
-            "hi": "मोई गोमेज़",
-            "ru": "Мой Гомес"
-          },
-          "shortNameTranslation": {
-            "ar": "م. غوميز",
-            "bn": "এম. গোমেজ",
-            "hi": "एम. गोमेज़",
-            "ru": "М. Гомес"
-          }
-        }
-      },
-      "team": {
-        "name": "Osasuna",
-        "slug": "osasuna",
-        "shortName": "Osasuna",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 199411,
-        "nameCode": "OSA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2820,
-        "teamColors": {
-          "primary": "#cc0000",
-          "secondary": "#14213d",
-          "text": "#14213d"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أوساسونا",
-            "bn": "ওসাসুনা",
-            "hi": "ओसासुना",
-            "ru": "Осасуна"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 15,
-        "accuratePass": 14,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 8,
-        "totalOwnHalfPasses": 8,
-        "accurateOppositionHalfPasses": 6,
-        "totalOppositionHalfPasses": 7,
-        "aerialWon": 1,
-        "duelLost": 2,
-        "duelWon": 1,
-        "challengeLost": 1,
-        "totalClearance": 1,
-        "ballRecovery": 2,
-        "fouls": 1,
-        "minutesPlayed": 20,
-        "touches": 16,
-        "rating": 6.6,
-        "possessionLostCtrl": 1,
-        "expectedAssists": 0.00382624,
-        "totalBallCarriesDistance": 23.437107248558,
-        "ballCarriesCount": 4,
-        "totalProgression": 11.989297756491,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.6,
-          "alternative": 6.6
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.08,
-        "dribbleValueNormalized": 0.03,
-        "defensiveValueNormalized": 0.13,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "13637082": {
     "id": 13637082,
     "match_info": {
@@ -21431,6 +21309,135 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083723": {
+    "id": 14083723,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "getafe-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Moi Gómez",
+        "slug": "moi-gomez",
+        "shortName": "M. Gómez",
+        "position": "M",
+        "jerseyNumber": "16",
+        "height": 174,
+        "userCount": 651,
+        "gender": "M",
+        "sofascoreId": "tpzh65",
+        "id": 149370,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 772329600,
+        "proposedMarketValueRaw": {
+          "value": 1600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موي غوميز",
+            "bn": "মোই গোমেজ",
+            "hi": "मोई गोमेज़",
+            "ru": "Мой Гомес"
+          },
+          "shortNameTranslation": {
+            "ar": "م. غوميز",
+            "bn": "এম. গোমেজ",
+            "hi": "एम. गोमेज़",
+            "ru": "М. Гомес"
+          }
+        }
+      },
+      "team": {
+        "name": "Osasuna",
+        "slug": "osasuna",
+        "shortName": "Osasuna",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202237,
+        "nameCode": "OSA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2820,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#14213d",
+          "text": "#14213d"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوساسونا",
+            "bn": "ওসাসুনা",
+            "hi": "ओसासुना",
+            "ru": "Осасуна"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 15,
+        "accuratePass": 14,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 8,
+        "totalOwnHalfPasses": 8,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 7,
+        "aerialWon": 1,
+        "duelLost": 2,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "totalClearance": 1,
+        "ballRecovery": 2,
+        "fouls": 1,
+        "minutesPlayed": 20,
+        "touches": 16,
+        "rating": 6.6,
+        "possessionLostCtrl": 1,
+        "expectedAssists": 0.00382624,
+        "topSpeed": 32.84,
+        "kilometersCovered": 2.62,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 23.437107248558,
+        "ballCarriesCount": 4,
+        "totalProgression": 11.989297756491,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.08,
+        "dribbleValueNormalized": 0.03,
+        "defensiveValueNormalized": 0.13,
+        "metersCoveredRunningKm": 0.41,
+        "metersCoveredHighSpeedRunningKm": 0.13,
+        "metersCoveredSprintingKm": 0.04,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
     }
   }
 }

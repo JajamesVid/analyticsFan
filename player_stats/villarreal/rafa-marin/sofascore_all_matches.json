@@ -3268,134 +3268,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Rafa Marín",
-        "slug": "rafa-marin",
-        "shortName": "R. Marín",
-        "position": "D",
-        "jerseyNumber": "4",
-        "height": 190,
-        "userCount": 2384,
-        "gender": "M",
-        "id": 984623,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1021766400,
-        "proposedMarketValueRaw": {
-          "value": 11600000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "رافا مارين",
-            "bn": "রাফা মারিন",
-            "hi": "राफा मारिन",
-            "ru": "Рафа Марин"
-          },
-          "shortNameTranslation": {
-            "ar": "ر. مارين",
-            "bn": "আর. মারিন",
-            "hi": "आर. मारिन",
-            "ru": "Р. Марин"
-          }
-        }
-      },
-      "team": {
-        "name": "Villarreal",
-        "slug": "villarreal",
-        "shortName": "Villarreal",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 461754,
-        "nameCode": "VIL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2819,
-        "teamColors": {
-          "primary": "#ffff00",
-          "secondary": "#013765",
-          "text": "#013765"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فياريال",
-            "bn": "ভিলারিয়াল",
-            "hi": "विल्लारियल",
-            "ru": "Вильярреал"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 47,
-        "accuratePass": 45,
-        "totalLongBalls": 7,
-        "accurateLongBalls": 6,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 26,
-        "totalOwnHalfPasses": 26,
-        "accurateOppositionHalfPasses": 19,
-        "totalOppositionHalfPasses": 21,
-        "aerialWon": 2,
-        "duelWon": 7,
-        "totalContest": 1,
-        "wonContest": 1,
-        "bigChanceCreated": 1,
-        "totalClearance": 7,
-        "ballRecovery": 1,
-        "totalTackle": 3,
-        "unsuccessfulTouch": 1,
-        "wasFouled": 1,
-        "minutesPlayed": 90,
-        "touches": 62,
-        "rating": 7.5,
-        "possessionLostCtrl": 3,
-        "expectedAssists": 0.0118743,
-        "totalBallCarriesDistance": 98.732567330005,
-        "ballCarriesCount": 16,
-        "totalProgression": 15.651993458925,
-        "progressiveBallCarriesCount": 0,
-        "keyPass": 2,
-        "ratingVersions": {
-          "original": 7.5,
-          "alternative": 7.5
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.23,
-        "dribbleValueNormalized": 0.01,
-        "defensiveValueNormalized": -0.03,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12501537": {
     "id": 12501537,
     "match_info": {
@@ -17106,6 +16978,141 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Rafa Marín",
+        "slug": "rafa-marin",
+        "shortName": "R. Marín",
+        "position": "D",
+        "jerseyNumber": "16",
+        "height": 190,
+        "userCount": 2487,
+        "gender": "M",
+        "sofascoreId": "iwkwqw",
+        "id": 984623,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1021766400,
+        "proposedMarketValueRaw": {
+          "value": 11600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رافا مارين",
+            "bn": "রাফা মারিন",
+            "hi": "राफा मारिन",
+            "ru": "Рафа Марин"
+          },
+          "shortNameTranslation": {
+            "ar": "ر. مارين",
+            "bn": "আর. মারিন",
+            "hi": "आर. मारिन",
+            "ru": "Р. Марин"
+          }
+        }
+      },
+      "team": {
+        "name": "Villarreal",
+        "slug": "villarreal",
+        "shortName": "Villarreal",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 465801,
+        "nameCode": "VIL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2819,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#013765",
+          "text": "#013765"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فياريال",
+            "bn": "ভিলারিয়াল",
+            "hi": "विल्लारियल",
+            "ru": "Вильярреал"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 47,
+        "accuratePass": 45,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 6,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 26,
+        "totalOwnHalfPasses": 26,
+        "accurateOppositionHalfPasses": 19,
+        "totalOppositionHalfPasses": 21,
+        "aerialWon": 2,
+        "duelWon": 7,
+        "totalContest": 1,
+        "wonContest": 1,
+        "bigChanceCreated": 1,
+        "totalClearance": 7,
+        "ballRecovery": 1,
+        "totalTackle": 3,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 90,
+        "touches": 62,
+        "rating": 7.5,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 0.0118743,
+        "topSpeed": 31.46,
+        "kilometersCovered": 9.66,
+        "numberOfSprints": 7,
+        "totalBallCarriesDistance": 98.732567330005,
+        "ballCarriesCount": 16,
+        "totalProgression": 15.651993458925,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 7.5,
+          "alternative": 7.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.23,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": -0.03,
+        "metersCoveredRunningKm": 1.05,
+        "metersCoveredHighSpeedRunningKm": 0.34,
+        "metersCoveredSprintingKm": 0.1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
     }
   }
 }

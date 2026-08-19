@@ -3086,99 +3086,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Andriy Lunin",
-        "firstName": "Andriy",
-        "lastName": "Lunin",
-        "slug": "andriy-lunin",
-        "shortName": "A. Lunin",
-        "position": "G",
-        "jerseyNumber": "13",
-        "height": 191,
-        "userCount": 84520,
-        "gender": "M",
-        "sofascoreId": "ALunin",
-        "id": 857574,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 918691200,
-        "proposedMarketValueRaw": {
-          "value": 14100000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أندري لونين",
-            "bn": "অ্যান্ড্রি লুনিন",
-            "hi": "एंड्री लुनिन"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. لونين",
-            "bn": "এ. লুনিন",
-            "hi": "ए. लुनिन"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Madrid",
-        "slug": "real-madrid",
-        "shortName": "Real Madrid",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 7733858,
-        "nameCode": "RMA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2829,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#004996",
-          "text": "#004996"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال مدريد",
-            "bn": "রিয়াল মাদ্রিদ",
-            "hi": "रियल मैड्रिड",
-            "ru": "Реал Мадрид"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "G",
-      "extra": null
-    }
-  },
   "13881603": {
     "id": 13881603,
     "match_info": {
@@ -21150,6 +21057,101 @@
       },
       "statistics": {
         "expectedGoalsOnTarget": 0,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Andriy Lunin",
+        "firstName": "Andriy",
+        "lastName": "Lunin",
+        "slug": "andriy-lunin",
+        "shortName": "A. Lunin",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 191,
+        "userCount": 90812,
+        "gender": "M",
+        "sofascoreId": "ALunin",
+        "id": 857574,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 918691200,
+        "proposedMarketValueRaw": {
+          "value": 11300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أندري لونين",
+            "bn": "অ্যান্ড্রি লুনিন",
+            "hi": "एंड्री लुनिन",
+            "ru": "Андрий Лунін"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. لونين",
+            "bn": "এ. লুনিন",
+            "hi": "ए. लुनिन",
+            "ru": "А. Лунін"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Madrid",
+        "slug": "real-madrid",
+        "shortName": "Real Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 8378061,
+        "nameCode": "RMA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2829,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#004996",
+          "text": "#004996"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال مدريد",
+            "bn": "রিয়াল মাদ্রিদ",
+            "hi": "रियल मैड्रिड",
+            "ru": "Реал Мадрид"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
         "totalShots": 0,
         "statisticsType": {
           "sportSlug": "football",

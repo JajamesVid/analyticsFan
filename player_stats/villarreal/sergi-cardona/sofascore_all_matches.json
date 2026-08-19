@@ -3523,127 +3523,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Sergi Cardona",
-        "slug": "sergi-cardona",
-        "shortName": "S. Cardona",
-        "position": "D",
-        "jerseyNumber": "23",
-        "height": 186,
-        "userCount": 1186,
-        "gender": "M",
-        "id": 986245,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 931392000,
-        "proposedMarketValueRaw": {
-          "value": 8600000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "سيرجي كاردونا",
-            "bn": "সার্জি কার্ডোনা",
-            "hi": "सर्जी कार्डोना",
-            "ru": "Серги Кардона"
-          },
-          "shortNameTranslation": {
-            "ar": "س. كاردونا",
-            "bn": "এস. কার্ডোনা",
-            "hi": "एस. कार्डोना",
-            "ru": "С. Кардона"
-          }
-        }
-      },
-      "team": {
-        "name": "Villarreal",
-        "slug": "villarreal",
-        "shortName": "Villarreal",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 461754,
-        "nameCode": "VIL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2819,
-        "teamColors": {
-          "primary": "#ffff00",
-          "secondary": "#013765",
-          "text": "#013765"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فياريال",
-            "bn": "ভিলারিয়াল",
-            "hi": "विल्लारियल",
-            "ru": "Вильярреал"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 12,
-        "accuratePass": 10,
-        "totalLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 4,
-        "totalOwnHalfPasses": 5,
-        "accurateOppositionHalfPasses": 6,
-        "totalOppositionHalfPasses": 7,
-        "duelWon": 1,
-        "totalClearance": 2,
-        "wasFouled": 1,
-        "minutesPlayed": 23,
-        "touches": 16,
-        "rating": 6.9,
-        "possessionLostCtrl": 2,
-        "expectedAssists": 0.014611,
-        "totalBallCarriesDistance": 30.214301559456,
-        "ballCarriesCount": 4,
-        "totalProgression": 25.028448444463,
-        "bestBallCarryProgression": 16.14999203743,
-        "totalProgressiveBallCarriesDistance": 16.521516274241,
-        "progressiveBallCarriesCount": 1,
-        "ratingVersions": {
-          "original": 6.9,
-          "alternative": 6.7
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.14,
-        "dribbleValueNormalized": 0.04,
-        "defensiveValueNormalized": 0.24,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437489": {
     "id": 12437489,
     "match_info": {
@@ -24018,6 +23897,134 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Sergi Cardona",
+        "slug": "sergi-cardona",
+        "shortName": "S. Cardona",
+        "position": "D",
+        "jerseyNumber": "23",
+        "height": 186,
+        "userCount": 1165,
+        "gender": "M",
+        "sofascoreId": "zbqp2h",
+        "id": 986245,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 931392000,
+        "proposedMarketValueRaw": {
+          "value": 8600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيرجي كاردونا",
+            "bn": "সার্জি কার্ডোনা",
+            "hi": "सर्जी कार्डोना",
+            "ru": "Серги Кардона"
+          },
+          "shortNameTranslation": {
+            "ar": "س. كاردونا",
+            "bn": "এস. কার্ডোনা",
+            "hi": "एस. कार्डोना",
+            "ru": "С. Кардона"
+          }
+        }
+      },
+      "team": {
+        "name": "Villarreal",
+        "slug": "villarreal",
+        "shortName": "Villarreal",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 465801,
+        "nameCode": "VIL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2819,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#013765",
+          "text": "#013765"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فياريال",
+            "bn": "ভিলারিয়াল",
+            "hi": "विल्लारियल",
+            "ru": "Вильярреал"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 12,
+        "accuratePass": 10,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 7,
+        "duelWon": 1,
+        "totalClearance": 2,
+        "wasFouled": 1,
+        "minutesPlayed": 23,
+        "touches": 16,
+        "rating": 6.9,
+        "possessionLostCtrl": 2,
+        "expectedAssists": 0.014611,
+        "topSpeed": 28.9,
+        "kilometersCovered": 2.77,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 30.214301559456,
+        "ballCarriesCount": 4,
+        "totalProgression": 25.028448444463,
+        "bestBallCarryProgression": 16.14999203743,
+        "totalProgressiveBallCarriesDistance": 16.521516274241,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.14,
+        "dribbleValueNormalized": 0.04,
+        "defensiveValueNormalized": 0.24,
+        "metersCoveredRunningKm": 0.46,
+        "metersCoveredHighSpeedRunningKm": 0.22,
+        "metersCoveredSprintingKm": 0.06,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
     }
   }
 }

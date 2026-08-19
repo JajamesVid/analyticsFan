@@ -2782,135 +2782,6 @@
       "extra": null
     }
   },
-  "14083719": {
-    "id": 14083719,
-    "match_info": {
-      "homeTeam": {
-        "name": "Espanyol",
-        "shortName": "Espanyol",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Real Sociedad",
-        "shortName": "Real Sociedad",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-sociedad-espanyol"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Angel Fortuno",
-        "firstName": "Angel",
-        "lastName": "Fortuno",
-        "slug": "angel-fortuno",
-        "shortName": "A. Fortuno",
-        "position": "G",
-        "jerseyNumber": "1",
-        "height": 183,
-        "userCount": 121,
-        "gender": "M",
-        "id": 1082734,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 978307200,
-        "proposedMarketValueRaw": {
-          "value": 290000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فورتونو، أنخيل",
-            "bn": "ফরচুনো, অ্যাঞ্জেল",
-            "hi": "फ़ोर्टुनो, एंजेल",
-            "ru": "Анхель Фортунo"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. فورتونو",
-            "bn": "এ. ফরচুনো",
-            "hi": "ए. फ़ोर्टुनो",
-            "ru": "А. Фортунo"
-          }
-        }
-      },
-      "team": {
-        "name": "Espanyol",
-        "slug": "espanyol",
-        "shortName": "Espanyol",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 183240,
-        "nameCode": "ESP",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2814,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#1369d2",
-          "text": "#1369d2"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "اسبانيول",
-            "bn": "এসপানিওল",
-            "hi": "एस्पेनयोल",
-            "ru": "Эспаньол"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 23,
-        "accuratePass": 21,
-        "totalLongBalls": 10,
-        "accurateLongBalls": 8,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 17,
-        "totalOwnHalfPasses": 18,
-        "accurateOppositionHalfPasses": 4,
-        "totalOppositionHalfPasses": 5,
-        "aerialWon": 2,
-        "duelWon": 2,
-        "ballRecovery": 10,
-        "unsuccessfulTouch": 1,
-        "goodHighClaim": 5,
-        "savedShotsFromInsideTheBox": 2,
-        "saves": 2,
-        "minutesPlayed": 90,
-        "touches": 41,
-        "rating": 7.9,
-        "possessionLostCtrl": 4,
-        "expectedAssists": 0.00286108,
-        "totalBallCarriesDistance": 14.340623113611,
-        "ballCarriesCount": 3,
-        "totalProgression": 8.202905144599,
-        "progressiveBallCarriesCount": 0,
-        "keeperSaveValue": 0.3105,
-        "ratingVersions": {
-          "original": 7.9,
-          "alternative": 7.6
-        },
-        "totalShots": 0,
-        "goalsPrevented": 0.2618,
-        "passValueNormalized": 0.12,
-        "dribbleValueNormalized": 0,
-        "defensiveValueNormalized": 0.18,
-        "goalkeeperValueNormalized": 0.31,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "G",
-      "extra": null
-    }
-  },
   "12437880": {
     "id": 12437880,
     "match_info": {
@@ -13939,6 +13810,136 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083719": {
+    "id": 14083719,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-sociedad-espanyol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Angel Fortuno",
+        "firstName": "Angel",
+        "lastName": "Fortuno",
+        "slug": "angel-fortuno",
+        "shortName": "A. Fortuno",
+        "position": "G",
+        "jerseyNumber": "1",
+        "height": 183,
+        "userCount": 123,
+        "gender": "M",
+        "sofascoreId": "wr35ae",
+        "id": 1082734,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 978307200,
+        "proposedMarketValueRaw": {
+          "value": 290000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فورتونو، أنخيل",
+            "bn": "ফরচুনো, অ্যাঞ্জেল",
+            "hi": "फ़ोर्टुनो, एंजेल",
+            "ru": "Анхель Фортунo"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. فورتونو",
+            "bn": "এ. ফরচুনো",
+            "hi": "ए. फ़ोर्टुनो",
+            "ru": "А. Фортунo"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 184894,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 23,
+        "accuratePass": 21,
+        "totalLongBalls": 10,
+        "accurateLongBalls": 8,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 17,
+        "totalOwnHalfPasses": 18,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 5,
+        "aerialWon": 2,
+        "duelWon": 2,
+        "ballRecovery": 10,
+        "unsuccessfulTouch": 1,
+        "goodHighClaim": 5,
+        "savedShotsFromInsideTheBox": 2,
+        "saves": 2,
+        "minutesPlayed": 90,
+        "touches": 41,
+        "rating": 7.9,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.00286108,
+        "totalBallCarriesDistance": 14.340623113611,
+        "ballCarriesCount": 3,
+        "totalProgression": 8.202905144599,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.3105,
+        "ratingVersions": {
+          "original": 7.9,
+          "alternative": 7.6
+        },
+        "totalShots": 0,
+        "goalsPrevented": 0.2618,
+        "passValueNormalized": 0.12,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": 0.18,
+        "goalkeeperValueNormalized": 0.31,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
     }
   }
 }

@@ -3644,139 +3644,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Iago Aspas",
-        "slug": "iago-aspas",
-        "shortName": "I. Aspas",
-        "position": "F",
-        "jerseyNumber": "10",
-        "height": 176,
-        "userCount": 5333,
-        "gender": "M",
-        "sofascoreId": "i.aspas10",
-        "id": 19356,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 554774400,
-        "proposedMarketValueRaw": {
-          "value": 1700000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إياغو أسباس",
-            "bn": "ইয়াগো আসপাস",
-            "hi": "इयागो अस्पास",
-            "ru": "Иаго Аспас"
-          },
-          "shortNameTranslation": {
-            "ar": "إ. أسباس",
-            "bn": "আই. আসপাস",
-            "hi": "आई. अस्पास",
-            "ru": "И. Аспас"
-          }
-        }
-      },
-      "team": {
-        "name": "Celta Vigo",
-        "slug": "celta-vigo",
-        "shortName": "Celta",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 266335,
-        "nameCode": "CEL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2821,
-        "teamColors": {
-          "primary": "#6cace4",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "سيلتا فيغو",
-            "bn": "সেলটা ভিগো",
-            "ru": "Сельта"
-          },
-          "shortNameTranslation": {
-            "ar": "سيلتا",
-            "hi": "सेल्टा"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 31,
-        "accuratePass": 24,
-        "totalLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 9,
-        "totalOwnHalfPasses": 9,
-        "accurateOppositionHalfPasses": 15,
-        "totalOppositionHalfPasses": 22,
-        "aerialLost": 1,
-        "duelLost": 8,
-        "duelWon": 3,
-        "challengeLost": 3,
-        "dispossessed": 2,
-        "bigChanceCreated": 1,
-        "ballRecovery": 2,
-        "totalTackle": 1,
-        "unsuccessfulTouch": 1,
-        "wasFouled": 2,
-        "fouls": 2,
-        "minutesPlayed": 66,
-        "touches": 38,
-        "rating": 6.5,
-        "possessionLostCtrl": 10,
-        "expectedAssists": 0.0603121,
-        "totalBallCarriesDistance": 80.607359684127,
-        "ballCarriesCount": 10,
-        "totalProgression": 44.823993017184,
-        "bestBallCarryProgression": 17.491793930757,
-        "totalProgressiveBallCarriesDistance": 29.364425238571,
-        "progressiveBallCarriesCount": 2,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 6.5,
-          "alternative": 6.8
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.06,
-        "dribbleValueNormalized": 0.47,
-        "defensiveValueNormalized": -0.18,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12437483": {
     "id": 12437483,
     "match_info": {
@@ -24498,6 +24365,145 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Iago Aspas",
+        "slug": "iago-aspas",
+        "shortName": "I. Aspas",
+        "position": "F",
+        "jerseyNumber": "10",
+        "height": 176,
+        "userCount": 5478,
+        "gender": "M",
+        "sofascoreId": "i.aspas10",
+        "id": 19356,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 554774400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إياغو أسباس",
+            "bn": "ইয়াগো আসপাস",
+            "hi": "इयागो अस्पास",
+            "ru": "Иаго Аспас"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. أسباس",
+            "bn": "আই. আসপাস",
+            "hi": "आई. अस्पास",
+            "ru": "И. Аспас"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 267822,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 31,
+        "accuratePass": 24,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 9,
+        "totalOwnHalfPasses": 9,
+        "accurateOppositionHalfPasses": 15,
+        "totalOppositionHalfPasses": 22,
+        "aerialLost": 1,
+        "duelLost": 8,
+        "duelWon": 3,
+        "challengeLost": 3,
+        "dispossessed": 2,
+        "bigChanceCreated": 1,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 2,
+        "fouls": 2,
+        "minutesPlayed": 66,
+        "touches": 38,
+        "rating": 6.5,
+        "possessionLostCtrl": 10,
+        "expectedAssists": 0.0603121,
+        "topSpeed": 30.89,
+        "kilometersCovered": 7.35,
+        "numberOfSprints": 11,
+        "totalBallCarriesDistance": 80.607359684127,
+        "ballCarriesCount": 10,
+        "totalProgression": 44.823993017184,
+        "bestBallCarryProgression": 17.491793930757,
+        "totalProgressiveBallCarriesDistance": 29.364425238571,
+        "progressiveBallCarriesCount": 2,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.06,
+        "dribbleValueNormalized": 0.47,
+        "defensiveValueNormalized": -0.18,
+        "metersCoveredRunningKm": 1.03,
+        "metersCoveredHighSpeedRunningKm": 0.46,
+        "metersCoveredSprintingKm": 0.15,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
     }
   }
 }

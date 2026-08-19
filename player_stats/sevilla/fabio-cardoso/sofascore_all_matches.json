@@ -2830,98 +2830,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Fábio Cardoso",
-        "slug": "fabio-cardoso",
-        "shortName": "F. Cardoso",
-        "position": "D",
-        "jerseyNumber": "15",
-        "height": 187,
-        "userCount": 533,
-        "gender": "M",
-        "id": 252815,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 766713600,
-        "proposedMarketValueRaw": {
-          "value": 1400000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فابيو كاردوسو",
-            "bn": "ফ্যাবিও কার্ডোসো",
-            "hi": "फैबियो कार्डोसो",
-            "ru": "Фабио Кардозу"
-          },
-          "shortNameTranslation": {
-            "ar": "ف. كاردوسو",
-            "bn": "এফ. কার্ডোসো",
-            "hi": "एफ. कार्डोसो",
-            "ru": "Ф. Кардозу"
-          }
-        }
-      },
-      "team": {
-        "name": "Sevilla",
-        "slug": "sevilla",
-        "shortName": "Sevilla",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 400830,
-        "nameCode": "SEV",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2833,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#cc1020",
-          "text": "#cc1020"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إشبيلية",
-            "bn": "সেভিলা",
-            "hi": "सेविला",
-            "ru": "Cевилья"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12765321": {
     "id": 12765321,
     "match_info": {
@@ -20564,6 +20472,99 @@
         "rating": 6.8,
         "possessionLostCtrl": 1,
         "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Fábio Cardoso",
+        "slug": "fabio-cardoso",
+        "shortName": "F. Cardoso",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 187,
+        "userCount": 549,
+        "gender": "M",
+        "sofascoreId": "i3dkne",
+        "id": 252815,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 766713600,
+        "proposedMarketValueRaw": {
+          "value": 1400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فابيو كاردوسو",
+            "bn": "ফ্যাবিও কার্ডোসো",
+            "hi": "फैबियो कार्डोसो",
+            "ru": "Фабио Кардозу"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. كاردوسو",
+            "bn": "এফ. কার্ডোসো",
+            "hi": "एफ. कार्डोसो",
+            "ru": "Ф. Кардозу"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 405935,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Cевилья"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

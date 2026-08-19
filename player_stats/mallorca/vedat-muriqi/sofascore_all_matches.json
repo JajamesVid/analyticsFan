@@ -3938,153 +3938,6 @@
       "extra": null
     }
   },
-  "14083727": {
-    "id": 14083727,
-    "match_info": {
-      "homeTeam": {
-        "name": "Mallorca",
-        "shortName": "Mallorca",
-        "color": "#cc0000",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "Real Oviedo",
-        "shortName": "Real Oviedo",
-        "color": "#3300ff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-oviedo-mallorca"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Vedat Muriqi",
-        "firstName": "Vedat",
-        "lastName": "Muriqi",
-        "slug": "vedat-muriqi",
-        "shortName": "V. Muriqi",
-        "position": "F",
-        "jerseyNumber": "7",
-        "height": 194,
-        "userCount": 17606,
-        "gender": "M",
-        "sofascoreId": "vedatmuriqi",
-        "id": 310874,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 767145600,
-        "proposedMarketValueRaw": {
-          "value": 4400000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فيدات موريكي",
-            "bn": "বেদাত মুরিকী",
-            "hi": "वेदत मुरीकी",
-            "ru": "Ведат Мурики"
-          },
-          "shortNameTranslation": {
-            "ar": "ف. موريكي",
-            "bn": "ভি. মুরিকী",
-            "hi": "वी. मुरीकी",
-            "ru": "В. Мурики"
-          }
-        }
-      },
-      "team": {
-        "name": "Mallorca",
-        "slug": "mallorca",
-        "shortName": "Mallorca",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 201002,
-        "nameCode": "MLL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2826,
-        "teamColors": {
-          "primary": "#cc0000",
-          "secondary": "#000000",
-          "text": "#000000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "مايوركا",
-            "bn": "ম্যালোর্কা",
-            "hi": "मल्लोर्का",
-            "ru": "Мальорка"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 26,
-        "accuratePass": 22,
-        "totalLongBalls": 1,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 1,
-        "totalOwnHalfPasses": 1,
-        "accurateOppositionHalfPasses": 21,
-        "totalOppositionHalfPasses": 25,
-        "aerialLost": 2,
-        "aerialWon": 3,
-        "duelLost": 4,
-        "duelWon": 3,
-        "dispossessed": 1,
-        "totalContest": 1,
-        "bigChanceCreated": 1,
-        "bigChanceMissed": 2,
-        "shotOffTarget": 3,
-        "onTargetScoringAttempt": 3,
-        "blockedScoringAttempt": 4,
-        "goals": 1,
-        "totalClearance": 2,
-        "ballRecovery": 1,
-        "fouls": 2,
-        "minutesPlayed": 90,
-        "touches": 41,
-        "rating": 7.9,
-        "possessionLostCtrl": 6,
-        "expectedGoals": 1.3407,
-        "expectedGoalsOnTarget": 1.1877,
-        "expectedAssists": 0.18905,
-        "topSpeed": 34.51,
-        "kilometersCovered": 9.21,
-        "numberOfSprints": 7,
-        "totalBallCarriesDistance": 100.59600267807,
-        "ballCarriesCount": 9,
-        "totalProgression": 51.819100267706,
-        "bestBallCarryProgression": 25.487056871463,
-        "totalProgressiveBallCarriesDistance": 46.939069072542,
-        "progressiveBallCarriesCount": 2,
-        "keyPass": 4,
-        "ratingVersions": {
-          "original": 7.9,
-          "alternative": 7.6
-        },
-        "totalShots": 10,
-        "shotValueNormalized": 0.3,
-        "passValueNormalized": 0.57,
-        "dribbleValueNormalized": 0.44,
-        "defensiveValueNormalized": 0.14,
-        "metersCoveredRunningKm": 1.15,
-        "metersCoveredHighSpeedRunningKm": 0.58,
-        "metersCoveredSprintingKm": 0.09,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12437565": {
     "id": 12437565,
     "match_info": {
@@ -25064,6 +24917,153 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083727": {
+    "id": 14083727,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-oviedo-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Vedat Muriqi",
+        "firstName": "Vedat",
+        "lastName": "Muriqi",
+        "slug": "vedat-muriqi",
+        "shortName": "V. Muriqi",
+        "position": "F",
+        "jerseyNumber": "19",
+        "height": 194,
+        "userCount": 18113,
+        "gender": "M",
+        "sofascoreId": "vedatmuriqi",
+        "id": 310874,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 767145600,
+        "proposedMarketValueRaw": {
+          "value": 4400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيدات موريكي",
+            "bn": "বেদাত মুরিকী",
+            "hi": "वेदत मुरीकी",
+            "ru": "Ведат Мурики"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. موريكي",
+            "bn": "ভি. মুরিকী",
+            "hi": "वी. मुरीकी",
+            "ru": "В. Мурики"
+          }
+        }
+      },
+      "team": {
+        "name": "Mallorca",
+        "slug": "mallorca",
+        "shortName": "Mallorca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202209,
+        "nameCode": "MLL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2826,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مايوركا",
+            "bn": "ম্যালোর্কা",
+            "hi": "मल्लोर्का",
+            "ru": "Мальорка"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 26,
+        "accuratePass": 22,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 21,
+        "totalOppositionHalfPasses": 25,
+        "aerialLost": 2,
+        "aerialWon": 3,
+        "duelLost": 4,
+        "duelWon": 3,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "bigChanceCreated": 1,
+        "bigChanceMissed": 2,
+        "shotOffTarget": 3,
+        "onTargetScoringAttempt": 3,
+        "blockedScoringAttempt": 4,
+        "goals": 1,
+        "totalClearance": 2,
+        "ballRecovery": 1,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 41,
+        "rating": 7.9,
+        "possessionLostCtrl": 6,
+        "expectedGoals": 1.3407,
+        "expectedGoalsOnTarget": 1.1877,
+        "expectedAssists": 0.18905,
+        "topSpeed": 34.51,
+        "kilometersCovered": 9.21,
+        "numberOfSprints": 7,
+        "totalBallCarriesDistance": 100.59600267807,
+        "ballCarriesCount": 9,
+        "totalProgression": 51.819100267706,
+        "bestBallCarryProgression": 25.487056871463,
+        "totalProgressiveBallCarriesDistance": 46.939069072542,
+        "progressiveBallCarriesCount": 2,
+        "keyPass": 4,
+        "ratingVersions": {
+          "original": 7.9,
+          "alternative": 7.6
+        },
+        "totalShots": 10,
+        "shotValueNormalized": 0.3,
+        "passValueNormalized": 0.57,
+        "dribbleValueNormalized": 0.44,
+        "defensiveValueNormalized": 0.14,
+        "metersCoveredRunningKm": 1.15,
+        "metersCoveredHighSpeedRunningKm": 0.58,
+        "metersCoveredSprintingKm": 0.09,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
     }
   }
 }

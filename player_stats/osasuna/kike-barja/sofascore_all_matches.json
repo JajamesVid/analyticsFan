@@ -3304,128 +3304,6 @@
       "extra": null
     }
   },
-  "14083723": {
-    "id": 14083723,
-    "match_info": {
-      "homeTeam": {
-        "name": "Getafe",
-        "shortName": "Getafe",
-        "color": "#00369e",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Osasuna",
-        "shortName": "Osasuna",
-        "color": "#cc0000",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "getafe-osasuna"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Kike Barja",
-        "firstName": "Kike",
-        "lastName": "Barja",
-        "slug": "kike-barja",
-        "shortName": "K. Barja",
-        "position": "F",
-        "jerseyNumber": "11",
-        "height": 178,
-        "userCount": 220,
-        "gender": "M",
-        "id": 591132,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 860112000,
-        "proposedMarketValueRaw": {
-          "value": 1500000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "كيكي بارخا",
-            "bn": "কিক বরজা",
-            "hi": "किके बार्जा",
-            "ru": "Кике Барха"
-          },
-          "shortNameTranslation": {
-            "ar": "ك. بارخا",
-            "bn": "কে. বরজা",
-            "hi": "के. बार्जा",
-            "ru": "К. Барха"
-          }
-        }
-      },
-      "team": {
-        "name": "Osasuna",
-        "slug": "osasuna",
-        "shortName": "Osasuna",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 199411,
-        "nameCode": "OSA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2820,
-        "teamColors": {
-          "primary": "#cc0000",
-          "secondary": "#14213d",
-          "text": "#14213d"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أوساسونا",
-            "bn": "ওসাসুনা",
-            "hi": "ओसासुना",
-            "ru": "Осасуна"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 3,
-        "accuratePass": 2,
-        "goalAssist": 0,
-        "totalOwnHalfPasses": 1,
-        "accurateOppositionHalfPasses": 2,
-        "totalOppositionHalfPasses": 2,
-        "totalCross": 4,
-        "accurateCross": 2,
-        "duelWon": 1,
-        "wasFouled": 1,
-        "minutesPlayed": 22,
-        "touches": 8,
-        "rating": 6.7,
-        "possessionLostCtrl": 3,
-        "expectedAssists": 0.0203046,
-        "totalBallCarriesDistance": 34.555304111142,
-        "ballCarriesCount": 3,
-        "totalProgression": 15.551054783687,
-        "bestBallCarryProgression": 10.640618144886,
-        "totalProgressiveBallCarriesDistance": 23.944731696137,
-        "progressiveBallCarriesCount": 1,
-        "ratingVersions": {
-          "original": 6.7,
-          "alternative": 6.7
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.01,
-        "dribbleValueNormalized": 0.09,
-        "defensiveValueNormalized": -0.01,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12437514": {
     "id": 12437514,
     "match_info": {
@@ -20909,6 +20787,135 @@
         "rating": 6.3,
         "possessionLostCtrl": 14,
         "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083723": {
+    "id": 14083723,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "getafe-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kike Barja",
+        "firstName": "Kike",
+        "lastName": "Barja",
+        "slug": "kike-barja",
+        "shortName": "K. Barja",
+        "position": "F",
+        "jerseyNumber": "11",
+        "height": 178,
+        "userCount": 219,
+        "gender": "M",
+        "sofascoreId": "hfa84c",
+        "id": 591132,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 860112000,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيكي بارخا",
+            "bn": "কিক বরজা",
+            "hi": "किके बार्जा",
+            "ru": "Кике Барха"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. بارخا",
+            "bn": "কে. বরজা",
+            "hi": "के. बार्जा",
+            "ru": "К. Барха"
+          }
+        }
+      },
+      "team": {
+        "name": "Osasuna",
+        "slug": "osasuna",
+        "shortName": "Osasuna",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202237,
+        "nameCode": "OSA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2820,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#14213d",
+          "text": "#14213d"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوساسونا",
+            "bn": "ওসাসুনা",
+            "hi": "ओसासुना",
+            "ru": "Осасуна"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 3,
+        "accuratePass": 2,
+        "goalAssist": 0,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 2,
+        "totalCross": 4,
+        "accurateCross": 2,
+        "duelWon": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 22,
+        "touches": 8,
+        "rating": 6.7,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 0.0203046,
+        "topSpeed": 29.36,
+        "kilometersCovered": 2.72,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 34.555304111142,
+        "ballCarriesCount": 3,
+        "totalProgression": 15.551054783687,
+        "bestBallCarryProgression": 10.640618144886,
+        "totalProgressiveBallCarriesDistance": 23.944731696137,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.01,
+        "dribbleValueNormalized": 0.09,
+        "defensiveValueNormalized": -0.01,
+        "metersCoveredRunningKm": 0.38,
+        "metersCoveredHighSpeedRunningKm": 0.19,
+        "metersCoveredSprintingKm": 0.07,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

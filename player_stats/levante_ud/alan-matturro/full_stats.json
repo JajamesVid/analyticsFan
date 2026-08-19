@@ -5179,131 +5179,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Betis",
-        "abreviatura": "BET",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/4.png"
-      },
-      "visitante": {
-        "nombre": "Levante",
-        "abreviatura": "LEV",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/10.png"
-      }
-    },
-    "resultado": "2-1",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20449-betis-levante",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083710,
-      "match_info": {
-        "homeTeam": {
-          "name": "Real Betis",
-          "shortName": "Real Betis",
-          "color": "#ffffff",
-          "score": 2
-        },
-        "awayTeam": {
-          "name": "Levante UD",
-          "shortName": "Levante",
-          "color": "#0e3b68",
-          "score": 1
-        },
-        "startTimestamp": 1779562800,
-        "slug": "levante-ud-real-betis",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Alan Matturro",
-          "firstName": "Alan",
-          "lastName": "Matturro",
-          "slug": "alan-matturro",
-          "shortName": "A. Matturro",
-          "position": "D",
-          "jerseyNumber": "3",
-          "height": 189,
-          "userCount": 1411,
-          "gender": "M",
-          "id": 1177401,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 1097452800,
-          "proposedMarketValueRaw": {
-            "value": 4099999,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ماتورو، آلان",
-              "bn": "ম্যাটুরো, অ্যালান",
-              "hi": "माटुरो, एलन",
-              "ru": "Алан Маттурро"
-            },
-            "shortNameTranslation": {
-              "ar": "آ. ماتورو",
-              "bn": "এ. ম্যাটুরো",
-              "hi": "ए. माटुरो",
-              "ru": "А. Маттурро"
-            }
-          }
-        },
-        "team": {
-          "name": "Levante UD",
-          "slug": "levante-ud",
-          "shortName": "Levante",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 116374,
-          "nameCode": "LEV",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2849,
-          "teamColors": {
-            "primary": "#0e3b68",
-            "secondary": "#d70000",
-            "text": "#d70000"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ليفانتي يو دي",
-              "hi": "लेवांटे यूडी",
-              "ru": "Леванте"
-            },
-            "shortNameTranslation": {
-              "ar": "ليفانتي",
-              "bn": "লেভান্তে",
-              "hi": "लेवांते"
-            }
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "D",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Levante",
         "abreviatura": "LEV",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/10.png"
@@ -5654,6 +5529,131 @@
           "fieldTranslations": {
             "nameTranslation": {
               "ar": "ليفانتي يو دي",
+              "hi": "लेवांटे यूडी",
+              "ru": "Леванте"
+            },
+            "shortNameTranslation": {
+              "ar": "ليفانتي",
+              "bn": "লেভান্তে",
+              "hi": "लेवांते"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Betis",
+        "abreviatura": "BET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/4.png"
+      },
+      "visitante": {
+        "nombre": "Levante",
+        "abreviatura": "LEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/10.png"
+      }
+    },
+    "resultado": "2-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20449-betis-levante",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083710,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Betis",
+          "shortName": "Real Betis",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Levante UD",
+          "shortName": "Levante",
+          "color": "#0e3b68",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "levante-ud-real-betis"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Alan Matturro",
+          "firstName": "Alan",
+          "lastName": "Matturro",
+          "slug": "alan-matturro",
+          "shortName": "A. Matturro",
+          "position": "D",
+          "jerseyNumber": "33",
+          "height": 189,
+          "userCount": 1457,
+          "gender": "M",
+          "sofascoreId": "b7hj23",
+          "id": 1177401,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1097452800,
+          "proposedMarketValueRaw": {
+            "value": 4099999,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ماتورو، آلان",
+              "bn": "ম্যাটুরো, অ্যালান",
+              "hi": "माटुरो, एलन",
+              "ru": "Алан Маттурро"
+            },
+            "shortNameTranslation": {
+              "ar": "آ. ماتورو",
+              "bn": "এ. ম্যাটুরো",
+              "hi": "ए. माटुरो",
+              "ru": "А. Маттурро"
+            }
+          }
+        },
+        "team": {
+          "name": "Levante UD",
+          "slug": "levante-ud",
+          "shortName": "Levante",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 117899,
+          "nameCode": "LEV",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2849,
+          "teamColors": {
+            "primary": "#0e3b68",
+            "secondary": "#d70000",
+            "text": "#d70000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ليفانتي",
               "hi": "लेवांटे यूडी",
               "ru": "Леванте"
             },

@@ -2245,238 +2245,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Villarreal",
-        "abreviatura": "VIL",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
-      },
-      "visitante": {
-        "nombre": "Atlético",
-        "abreviatura": "ATM",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
-      }
-    },
-    "resultado": "5-1",
-    "fecha": "2026-05-24",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20452-villarreal-atletico",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 1,
-      "cope": 0.0,
-      "sofascore": 5.6,
-      "relevo": 0.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": -1.0,
-        "futbolfantasy-rpg": -1.0,
-        "scale0": -2.0,
-        "biwenger-sofascore": -2.0,
-        "biwenger-social": -1.0,
-        "biwenger-as-sofascore": -2.0,
-        "biwenger-stats": -2.0,
-        "futmondo-prensa": -3.0,
-        "futmondo-mixto-as": -2.0,
-        "futmondo-stats": -13.0,
-        "futmondo-mixto": -4.9,
-        "cronistas-marca": -2.0,
-        "marca-mixto": -3.0,
-        "marca-sofascore": -2.0,
-        "mister-cronistas-md": 2.0,
-        "mister-mixto": -1.0,
-        "mister-mixto-2": -2.0,
-        "mister-sofascore": -2.0,
-        "stat-goles": 0.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 0.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 0.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 0.0,
-        "stat-regates-exito": 0.0,
-        "stat-faltas-recibidas": 0.0,
-        "stat-faltas-cometidas": 1.0,
-        "stat-pases-interceptados": 0.0,
-        "stat-balones-robados": 0.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 3.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 5.0,
-        "stat-penaltis-cometidos": 1.0,
-        "stat-centros-atajados": 2.0,
-        "stat-despejes": 1.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 1.0,
-        "stat-tiros-totales": 0.0,
-        "stat-centros-totales": 0.0,
-        "stat-precision-pases": 94.4,
-        "stat-penaltis-provocados": 1.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 0.0,
-        "stat-tackles": 0.0,
-        "stat-duelos-aereos": 1.0,
-        "stat-tiros-bloqueados": 0.0,
-        "stat-pases-totales": 18.0,
-        "stat-pases-completados": 17.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083735,
-      "match_info": {
-        "homeTeam": {
-          "name": "Villarreal",
-          "shortName": "Villarreal",
-          "color": "#ffff00",
-          "score": 5
-        },
-        "awayTeam": {
-          "name": "Atlético Madrid",
-          "shortName": "Atl. Madrid",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "startTimestamp": 1779649200,
-        "slug": "atletico-madrid-villarreal",
-        "fecha_normalizada": "2026-05-24"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Juan Musso",
-          "firstName": "Juan",
-          "lastName": "Musso",
-          "slug": "juan-musso",
-          "shortName": "J. Musso",
-          "position": "G",
-          "jerseyNumber": "1",
-          "height": 191,
-          "userCount": 20346,
-          "gender": "M",
-          "sofascoreId": "juanmusso",
-          "id": 263651,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 768182400,
-          "proposedMarketValueRaw": {
-            "value": 3200000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "خوان موسو",
-              "bn": "জুয়ান মুসো",
-              "hi": "जुआन मुस्सो",
-              "ru": "Хуан Муссо"
-            },
-            "shortNameTranslation": {
-              "ar": "خ. موسو",
-              "bn": "জে. মুসো",
-              "hi": "जे. मुस्सो",
-              "ru": "Х. Муссо"
-            }
-          }
-        },
-        "team": {
-          "name": "Atlético Madrid",
-          "slug": "atletico-madrid",
-          "shortName": "Atl. Madrid",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 2591268,
-          "nameCode": "ATM",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2836,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#c40000",
-            "text": "#c40000"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "أتلتيكو مدريد",
-              "hi": "एटलेटिको मैड्रिड",
-              "ru": "Атлетико Мадрид"
-            },
-            "shortNameTranslation": {
-              "ar": "أتل. مدريد",
-              "bn": "এটিএল. মাদ্রিদ"
-            }
-          }
-        },
-        "statistics": {
-          "totalPass": 18,
-          "accuratePass": 17,
-          "totalLongBalls": 2,
-          "accurateLongBalls": 1,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 17,
-          "totalOwnHalfPasses": 18,
-          "aerialWon": 1,
-          "duelLost": 1,
-          "duelWon": 1,
-          "totalClearance": 2,
-          "ballRecovery": 11,
-          "penaltyConceded": 1,
-          "fouls": 1,
-          "goodHighClaim": 2,
-          "savedShotsFromInsideTheBox": 2,
-          "penaltyFaced": 1,
-          "saves": 3,
-          "punches": 1,
-          "minutesPlayed": 90,
-          "touches": 34,
-          "rating": 5.6,
-          "possessionLostCtrl": 1,
-          "expectedAssists": 4.67e-05,
-          "totalBallCarriesDistance": 18.468996426418,
-          "ballCarriesCount": 4,
-          "totalProgression": 14.227440970978,
-          "progressiveBallCarriesCount": 0,
-          "keeperSaveValue": 0.7766,
-          "ratingVersions": {
-            "original": 5.6,
-            "alternative": 6.2
-          },
-          "totalShots": 0,
-          "goalsPrevented": -1.5578,
-          "passValueNormalized": 0.01,
-          "dribbleValueNormalized": 0,
-          "defensiveValueNormalized": -0.84,
-          "goalkeeperValueNormalized": 0.18,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "G",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Mallorca",
         "abreviatura": "MAL",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
@@ -10008,6 +9776,237 @@
         },
         "statistics": {
           "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      },
+      "visitante": {
+        "nombre": "Atlético",
+        "abreviatura": "ATM",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
+      }
+    },
+    "resultado": "5-1",
+    "fecha": "2026-05-24",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20452-villarreal-atletico",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 1,
+      "cope": 0.0,
+      "sofascore": 5.6,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": -1.0,
+        "futbolfantasy-rpg": -1.0,
+        "scale0": -2.0,
+        "biwenger-sofascore": -2.0,
+        "biwenger-social": -1.0,
+        "biwenger-as-sofascore": -2.0,
+        "biwenger-stats": -2.0,
+        "futmondo-prensa": -3.0,
+        "futmondo-mixto-as": -2.0,
+        "futmondo-stats": -13.0,
+        "futmondo-mixto": -4.9,
+        "cronistas-marca": -2.0,
+        "marca-mixto": -3.0,
+        "marca-sofascore": -2.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": -1.0,
+        "mister-mixto-2": -2.0,
+        "mister-sofascore": -2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 3.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 5.0,
+        "stat-penaltis-cometidos": 1.0,
+        "stat-centros-atajados": 2.0,
+        "stat-despejes": 1.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 1.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 94.4,
+        "stat-penaltis-provocados": 1.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 18.0,
+        "stat-pases-completados": 17.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083735,
+      "match_info": {
+        "homeTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 5
+        },
+        "awayTeam": {
+          "name": "Atlético Madrid",
+          "shortName": "Atl. Madrid",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1779649200,
+        "slug": "atletico-madrid-villarreal"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Juan Musso",
+          "firstName": "Juan",
+          "lastName": "Musso",
+          "slug": "juan-musso",
+          "shortName": "J. Musso",
+          "position": "G",
+          "jerseyNumber": "1",
+          "height": 191,
+          "userCount": 21656,
+          "gender": "M",
+          "sofascoreId": "juanmusso",
+          "id": 263651,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 768182400,
+          "proposedMarketValueRaw": {
+            "value": 3200000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "خوان موسو",
+              "bn": "জুয়ান মুসো",
+              "hi": "जुआन मुस्सो",
+              "ru": "Хуан Муссо"
+            },
+            "shortNameTranslation": {
+              "ar": "خ. موسو",
+              "bn": "জে. মুসো",
+              "hi": "जे. मुस्सो",
+              "ru": "Х. Муссо"
+            }
+          }
+        },
+        "team": {
+          "name": "Atlético Madrid",
+          "slug": "atletico-madrid",
+          "shortName": "Atl. Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2635078,
+          "nameCode": "ATM",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2836,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#c40000",
+            "text": "#c40000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "hi": "एटलेटिको मैड्रिड",
+              "ru": "Атлетико Мадрид"
+            },
+            "shortNameTranslation": {
+              "ar": "أتلتيكو مدريد",
+              "bn": "এটিএল. মাদ্রিদ"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 18,
+          "accuratePass": 17,
+          "totalLongBalls": 2,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 17,
+          "totalOwnHalfPasses": 18,
+          "aerialWon": 1,
+          "duelLost": 1,
+          "duelWon": 1,
+          "totalClearance": 2,
+          "ballRecovery": 11,
+          "penaltyConceded": 1,
+          "fouls": 1,
+          "goodHighClaim": 2,
+          "savedShotsFromInsideTheBox": 2,
+          "penaltyFaced": 1,
+          "saves": 3,
+          "punches": 1,
+          "minutesPlayed": 90,
+          "touches": 34,
+          "rating": 5.6,
+          "possessionLostCtrl": 1,
+          "expectedAssists": 4.67e-05,
+          "totalBallCarriesDistance": 18.468996426418,
+          "ballCarriesCount": 4,
+          "totalProgression": 14.227440970978,
+          "progressiveBallCarriesCount": 0,
+          "keeperSaveValue": 0.7766,
+          "ratingVersions": {
+            "original": 5.6,
+            "alternative": 6.2
+          },
+          "totalShots": 0,
+          "goalsPrevented": -1.5578,
+          "passValueNormalized": 0.01,
+          "dribbleValueNormalized": 0,
+          "defensiveValueNormalized": -0.84,
+          "goalkeeperValueNormalized": 0.18,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

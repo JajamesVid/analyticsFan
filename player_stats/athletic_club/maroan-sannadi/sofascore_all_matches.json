@@ -3244,98 +3244,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Maroan Sannadi",
-        "slug": "maroan-sannadi",
-        "shortName": "M. Sannadi",
-        "position": "F",
-        "jerseyNumber": "21",
-        "height": 192,
-        "userCount": 5308,
-        "gender": "M",
-        "id": 1520799,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 980985600,
-        "proposedMarketValueRaw": {
-          "value": 2800000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "سنادي، مروان",
-            "bn": "সন্নাদি, মারোয়ান",
-            "hi": "सन्नाडी, मरोअन",
-            "ru": "Мароан Саннади"
-          },
-          "shortNameTranslation": {
-            "ar": "م. سنادي",
-            "bn": "এম. সন্নাদি",
-            "hi": "एम. सन्नाडी",
-            "ru": "М. Саннади"
-          }
-        }
-      },
-      "team": {
-        "name": "Athletic Club",
-        "slug": "athletic-club",
-        "shortName": "Athletic Club",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 519382,
-        "nameCode": "ATH",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2825,
-        "teamColors": {
-          "primary": "#aa0000",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "نادي أتليتيك",
-            "bn": "অ্যাথলেটিক ক্লাব",
-            "hi": "एथलेटिक क्लब",
-            "ru": "Атлетик Бильбао"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12970151": {
     "id": 12970151,
     "match_info": {
@@ -8659,6 +8567,101 @@
           "alternative": null
         },
         "totalShots": 4,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Maroan Sannadi",
+        "slug": "maroan-sannadi",
+        "shortName": "M. Sannadi",
+        "position": "F",
+        "jerseyNumber": "21",
+        "height": 192,
+        "userCount": 5386,
+        "gender": "M",
+        "sofascoreId": "hibi5i",
+        "id": 1520799,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 980985600,
+        "proposedMarketValueRaw": {
+          "value": 2800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سنادي، مروان",
+            "bn": "সন্নাদি, মারোয়ান",
+            "hi": "सन्नाडी, मरोअन",
+            "ru": "Мароан Саннади"
+          },
+          "shortNameTranslation": {
+            "ar": "م. سنادي",
+            "bn": "এম. সন্নাদি",
+            "hi": "एम. सन्नाडी",
+            "ru": "М. Саннади"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 524413,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

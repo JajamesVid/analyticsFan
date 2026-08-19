@@ -3436,137 +3436,6 @@
       "extra": null
     }
   },
-  "14083710": {
-    "id": 14083710,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Betis",
-        "shortName": "Real Betis",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "awayTeam": {
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "color": "#0e3b68",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "levante-ud-real-betis"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Carlos Espí",
-        "slug": "espi-carlos",
-        "shortName": "C. Espí",
-        "position": "F",
-        "jerseyNumber": "19",
-        "height": 194,
-        "userCount": 2067,
-        "gender": "M",
-        "id": 1649918,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1122163200,
-        "proposedMarketValueRaw": {
-          "value": 22000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "كارلوس إسبين",
-            "ru": "Карлос Эспи"
-          },
-          "shortNameTranslation": {
-            "ar": "ك. إسبين",
-            "ru": "К. Эспи"
-          }
-        }
-      },
-      "team": {
-        "name": "Levante UD",
-        "slug": "levante-ud",
-        "shortName": "Levante",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 116374,
-        "nameCode": "LEV",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2849,
-        "teamColors": {
-          "primary": "#0e3b68",
-          "secondary": "#d70000",
-          "text": "#d70000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ليفانتي يو دي",
-            "hi": "लेवांटे यूडी",
-            "ru": "Леванте"
-          },
-          "shortNameTranslation": {
-            "ar": "ليفانتي",
-            "bn": "লেভান্তে",
-            "hi": "लेवांते"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 12,
-        "accuratePass": 12,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 5,
-        "totalOwnHalfPasses": 5,
-        "accurateOppositionHalfPasses": 7,
-        "totalOppositionHalfPasses": 7,
-        "aerialWon": 1,
-        "duelLost": 1,
-        "duelWon": 3,
-        "challengeLost": 1,
-        "bigChanceMissed": 1,
-        "shotOffTarget": 2,
-        "onTargetScoringAttempt": 2,
-        "blockedScoringAttempt": 1,
-        "goals": 1,
-        "interceptionWon": 3,
-        "ballRecovery": 4,
-        "unsuccessfulTouch": 5,
-        "wasFouled": 2,
-        "fouls": 1,
-        "minutesPlayed": 90,
-        "touches": 27,
-        "rating": 7.4,
-        "possessionLostCtrl": 5,
-        "expectedGoals": 1.3371,
-        "expectedGoalsOnTarget": 1.392,
-        "expectedAssists": 0.0756843,
-        "totalBallCarriesDistance": 21.254409780145,
-        "ballCarriesCount": 4,
-        "totalProgression": 6.7073409739992,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 7.4,
-          "alternative": 7.3
-        },
-        "totalShots": 5,
-        "shotValueNormalized": 0.35,
-        "passValueNormalized": -0.03,
-        "dribbleValueNormalized": 0.25,
-        "defensiveValueNormalized": -0.03,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12467553": {
     "id": 12467553,
     "match_info": {
@@ -9609,6 +9478,144 @@
           "alternative": null
         },
         "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083710": {
+    "id": 14083710,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "levante-ud-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Carlos Espí",
+        "slug": "espi-carlos",
+        "shortName": "C. Espí",
+        "position": "F",
+        "jerseyNumber": "40",
+        "height": 194,
+        "userCount": 19937,
+        "gender": "M",
+        "sofascoreId": "p958f6",
+        "id": 1649918,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1122163200,
+        "proposedMarketValueRaw": {
+          "value": 22000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارلوس إسبين",
+            "ru": "Карлос Эспи"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. إسبين",
+            "ru": "К. Эспи"
+          }
+        }
+      },
+      "team": {
+        "name": "Levante UD",
+        "slug": "levante-ud",
+        "shortName": "Levante",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 117899,
+        "nameCode": "LEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2849,
+        "teamColors": {
+          "primary": "#0e3b68",
+          "secondary": "#d70000",
+          "text": "#d70000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفانتي",
+            "hi": "लेवांटे यूडी",
+            "ru": "Леванте"
+          },
+          "shortNameTranslation": {
+            "ar": "ليفانتي",
+            "bn": "লেভান্তে",
+            "hi": "लेवांते"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 12,
+        "accuratePass": 12,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 7,
+        "aerialWon": 1,
+        "duelLost": 1,
+        "duelWon": 3,
+        "challengeLost": 1,
+        "bigChanceMissed": 1,
+        "shotOffTarget": 2,
+        "onTargetScoringAttempt": 2,
+        "blockedScoringAttempt": 1,
+        "goals": 1,
+        "interceptionWon": 3,
+        "ballRecovery": 4,
+        "unsuccessfulTouch": 5,
+        "wasFouled": 2,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 27,
+        "rating": 7.4,
+        "possessionLostCtrl": 5,
+        "expectedGoals": 1.3371,
+        "expectedGoalsOnTarget": 1.392,
+        "expectedAssists": 0.0756843,
+        "topSpeed": 32.3,
+        "kilometersCovered": 9.78,
+        "numberOfSprints": 21,
+        "totalBallCarriesDistance": 21.254409780145,
+        "ballCarriesCount": 4,
+        "totalProgression": 6.7073409739992,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7.4,
+          "alternative": 7.3
+        },
+        "totalShots": 5,
+        "shotValueNormalized": 0.35,
+        "passValueNormalized": -0.03,
+        "dribbleValueNormalized": 0.25,
+        "defensiveValueNormalized": -0.03,
+        "metersCoveredRunningKm": 1.26,
+        "metersCoveredHighSpeedRunningKm": 0.58,
+        "metersCoveredSprintingKm": 0.31,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

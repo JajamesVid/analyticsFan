@@ -2851,100 +2851,6 @@
       "extra": null
     }
   },
-  "14083706": {
-    "id": 14083706,
-    "match_info": {
-      "homeTeam": {
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "color": "#0232a0",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Rayo Vallecano",
-        "shortName": "Rayo Vallecano",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "deportivo-alaves-rayo-vallecano"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Raúl Fernández",
-        "slug": "raul-fernandez",
-        "shortName": "R. Fernández",
-        "position": "G",
-        "jerseyNumber": "13",
-        "height": 196,
-        "userCount": 99,
-        "gender": "M",
-        "id": 31828,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 574214400,
-        "proposedMarketValueRaw": {
-          "value": 97000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "راؤول فرنانديز",
-            "bn": "রাউল ফার্নান্ডেজ",
-            "hi": "राउल फर्नांडीज",
-            "ru": "Рауль Фернандес"
-          },
-          "shortNameTranslation": {
-            "ar": "ر. فرنانديز",
-            "bn": "আর. ফার্নান্ডেজ",
-            "hi": "आर. फर्नांडीज",
-            "ru": "Р. Фернандес"
-          }
-        }
-      },
-      "team": {
-        "name": "Deportivo Alavés",
-        "slug": "deportivo-alaves",
-        "shortName": "Alavés",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 152876,
-        "nameCode": "ALA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2885,
-        "teamColors": {
-          "primary": "#0232a0",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ديبورتيفو ألافيس",
-            "ru": "Алавес"
-          },
-          "shortNameTranslation": {
-            "ar": "ألافيس",
-            "bn": "আলাভেস",
-            "hi": "अलावेस"
-          }
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "G",
-      "extra": null
-    }
-  },
   "12467433": {
     "id": 12467433,
     "match_info": {
@@ -21105,6 +21011,100 @@
         "touches": 27,
         "rating": 6.7,
         "possessionLostCtrl": 7,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083706": {
+    "id": 14083706,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "deportivo-alaves-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Raúl Fernández",
+        "slug": "raul-fernandez",
+        "shortName": "R. Fernández",
+        "position": "G",
+        "height": 196,
+        "userCount": 105,
+        "gender": "M",
+        "sofascoreId": "g8wk4i",
+        "id": 31828,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 574214400,
+        "proposedMarketValueRaw": {
+          "value": 97000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راؤول فرنانديز",
+            "bn": "রাউল ফার্নান্ডেজ",
+            "hi": "राउल फर्नांडीज",
+            "ru": "Рауль Фернандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ر. فرنانديز",
+            "bn": "আর. ফার্নান্ডেজ",
+            "hi": "आर. फर्नांडीज",
+            "ru": "Р. Фернандес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 154032,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
         "totalShots": 0,
         "statisticsType": {
           "sportSlug": "football",

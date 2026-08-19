@@ -3218,98 +3218,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Alfon González",
-        "slug": "alfon-gonzalez",
-        "shortName": "A. González",
-        "position": "F",
-        "jerseyNumber": "11",
-        "height": 172,
-        "userCount": 688,
-        "gender": "M",
-        "id": 1468090,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 925776000,
-        "proposedMarketValueRaw": {
-          "value": 3300000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ألفون غونزاليس",
-            "bn": "আলফোন গঞ্জালেজ",
-            "hi": "अल्फोन गोंजालेज",
-            "ru": "Альфон Гонсалес"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. غونزاليس",
-            "bn": "এ. গঞ্জালেজ",
-            "hi": "ए. गोंजालेज",
-            "ru": "А. Гонсалес"
-          }
-        }
-      },
-      "team": {
-        "name": "Villarreal",
-        "slug": "villarreal",
-        "shortName": "Villarreal",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 461754,
-        "nameCode": "VIL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2819,
-        "teamColors": {
-          "primary": "#ffff00",
-          "secondary": "#013765",
-          "text": "#013765"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فياريال",
-            "bn": "ভিলারিয়াল",
-            "hi": "विल्लारियल",
-            "ru": "Вильярреал"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12970156": {
     "id": 12970156,
     "match_info": {
@@ -17596,6 +17504,99 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Alfon González",
+        "slug": "alfon-gonzalez",
+        "shortName": "A. González",
+        "position": "F",
+        "jerseyNumber": "17",
+        "height": 172,
+        "userCount": 702,
+        "gender": "M",
+        "sofascoreId": "td89km",
+        "id": 1468090,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 925776000,
+        "proposedMarketValueRaw": {
+          "value": 3300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ألفون غونزاليس",
+            "bn": "আলফোন গঞ্জালেজ",
+            "hi": "अल्फोन गोंजालेज",
+            "ru": "Альфон Гонсалес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. غونزاليس",
+            "bn": "এ. গঞ্জালেজ",
+            "hi": "ए. गोंजालेज",
+            "ru": "А. Гонсалес"
+          }
+        }
+      },
+      "team": {
+        "name": "Villarreal",
+        "slug": "villarreal",
+        "shortName": "Villarreal",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 465801,
+        "nameCode": "VIL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2819,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#013765",
+          "text": "#013765"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فياريال",
+            "bn": "ভিলারিয়াল",
+            "hi": "विल्लारियल",
+            "ru": "Вильярреал"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
     }
   }
 }

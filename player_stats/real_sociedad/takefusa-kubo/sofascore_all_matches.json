@@ -3366,101 +3366,6 @@
       "extra": null
     }
   },
-  "14083719": {
-    "id": 14083719,
-    "match_info": {
-      "homeTeam": {
-        "name": "Espanyol",
-        "shortName": "Espanyol",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Real Sociedad",
-        "shortName": "Real Sociedad",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-sociedad-espanyol"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Takefusa Kubo",
-        "firstName": "Takefusa",
-        "lastName": "Kubo",
-        "slug": "takefusa-kubo",
-        "shortName": "T. Kubo",
-        "position": "M",
-        "jerseyNumber": "14",
-        "height": 174,
-        "userCount": 25823,
-        "gender": "M",
-        "sofascoreId": "KuboTake",
-        "id": 880218,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 991612800,
-        "proposedMarketValueRaw": {
-          "value": 21000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "تاكيفوسا كوبو",
-            "bn": "কুবো, টেকফুসা",
-            "hi": "कुबो, टेकफुसा",
-            "ru": "Такефуса Кубо"
-          },
-          "shortNameTranslation": {
-            "ar": "ت. كوبو",
-            "bn": "টি. কুবো",
-            "hi": "टी. टेकफुसा",
-            "ru": "Т. Кубо"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Sociedad",
-        "slug": "real-sociedad",
-        "shortName": "Real Sociedad",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 413040,
-        "nameCode": "RSO",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2824,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#0077c7",
-          "text": "#0077c7"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال سوسيداد",
-            "bn": "রিয়াল সোসিয়েদাদ",
-            "hi": "रियल सोसियदाद",
-            "ru": "Реал Сосьедад"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "16012856": {
     "id": 16012856,
     "match_info": {
@@ -25098,6 +25003,101 @@
         }
       },
       "position": "M",
+      "extra": null
+    }
+  },
+  "14083719": {
+    "id": 14083719,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-sociedad-espanyol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Takefusa Kubo",
+        "firstName": "Takefusa",
+        "lastName": "Kubo",
+        "slug": "takefusa-kubo",
+        "shortName": "T. Kubo",
+        "position": "M",
+        "jerseyNumber": "14",
+        "height": 174,
+        "userCount": 27504,
+        "gender": "M",
+        "sofascoreId": "KuboTake",
+        "id": 880218,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 991612800,
+        "proposedMarketValueRaw": {
+          "value": 21000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "تاكيفوسا كوبو",
+            "bn": "কুবো, টেকফুসা",
+            "hi": "कुबो, टेकफुसा",
+            "ru": "Такефуса Кубо"
+          },
+          "shortNameTranslation": {
+            "ar": "ت. كوبو",
+            "bn": "টি. কুবো",
+            "hi": "टी. टेकफुसा",
+            "ru": "Т. Кубо"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 417327,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
       "extra": null
     }
   }

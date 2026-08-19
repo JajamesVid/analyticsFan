@@ -3493,142 +3493,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Hugo Rincón",
-        "firstName": "Hugo",
-        "lastName": "Rincon",
-        "slug": "rincon-lumbreras-hugo",
-        "shortName": "H. Rincón",
-        "position": "D",
-        "jerseyNumber": "34",
-        "height": 183,
-        "userCount": 364,
-        "gender": "M",
-        "sofascoreId": "fpunsx",
-        "id": 1632454,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1043625600,
-        "proposedMarketValueRaw": {
-          "value": 3400000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "هوغو رينكون",
-            "ru": "Уго Ринкон"
-          },
-          "shortNameTranslation": {
-            "ar": "ه. رينكون",
-            "ru": "У. Ринкон"
-          }
-        }
-      },
-      "team": {
-        "name": "Girona FC",
-        "slug": "girona-fc",
-        "shortName": "Girona",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 373675,
-        "nameCode": "GIR",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 24264,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ff0000",
-          "text": "#ff0000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "جيرونا إف سي",
-            "hi": "जिरोना",
-            "ru": "Жирона"
-          },
-          "shortNameTranslation": {
-            "ar": "جيرونا",
-            "bn": "জিরোনা",
-            "hi": "गिरोना"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 18,
-        "accuratePass": 14,
-        "totalLongBalls": 1,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 7,
-        "totalOwnHalfPasses": 7,
-        "accurateOppositionHalfPasses": 7,
-        "totalOppositionHalfPasses": 11,
-        "totalCross": 2,
-        "accurateCross": 1,
-        "aerialLost": 3,
-        "aerialWon": 1,
-        "duelLost": 3,
-        "duelWon": 6,
-        "totalClearance": 1,
-        "ballRecovery": 2,
-        "totalTackle": 2,
-        "wonTackle": 2,
-        "wasFouled": 3,
-        "minutesPlayed": 32,
-        "touches": 29,
-        "rating": 7.2,
-        "possessionLostCtrl": 5,
-        "expectedAssists": 0.0500468,
-        "topSpeed": 30.96,
-        "kilometersCovered": 4.44,
-        "numberOfSprints": 5,
-        "totalBallCarriesDistance": 19.276788637979,
-        "ballCarriesCount": 4,
-        "totalProgression": 7.3916535237504,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 7.2,
-          "alternative": 7.1
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.19,
-        "dribbleValueNormalized": 0.04,
-        "defensiveValueNormalized": 0.18,
-        "metersCoveredRunningKm": 0.74,
-        "metersCoveredHighSpeedRunningKm": 0.17,
-        "metersCoveredSprintingKm": 0.11,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12467433": {
     "id": 12467433,
     "match_info": {
@@ -13357,6 +13221,142 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Hugo Rincón",
+        "firstName": "Hugo",
+        "lastName": "Rincon",
+        "slug": "rincon-lumbreras-hugo",
+        "shortName": "H. Rincón",
+        "position": "D",
+        "jerseyNumber": "32",
+        "height": 183,
+        "userCount": 376,
+        "gender": "M",
+        "sofascoreId": "fpunsx",
+        "id": 1632454,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1043625600,
+        "proposedMarketValueRaw": {
+          "value": 3400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هوغو رينكون",
+            "ru": "Уго Ринкон"
+          },
+          "shortNameTranslation": {
+            "ar": "ه. رينكون",
+            "ru": "У. Ринкон"
+          }
+        }
+      },
+      "team": {
+        "name": "Girona FC",
+        "slug": "girona-fc",
+        "shortName": "Girona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 374248,
+        "nameCode": "GIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24264,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جيرونا إف سي",
+            "hi": "जिरोना",
+            "ru": "Жирона"
+          },
+          "shortNameTranslation": {
+            "ar": "جيرونا",
+            "bn": "জিরোনা",
+            "hi": "गिरोना"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 18,
+        "accuratePass": 14,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 7,
+        "totalOwnHalfPasses": 7,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 11,
+        "totalCross": 2,
+        "accurateCross": 1,
+        "aerialLost": 3,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 6,
+        "totalClearance": 1,
+        "ballRecovery": 2,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "wasFouled": 3,
+        "minutesPlayed": 32,
+        "touches": 29,
+        "rating": 7.2,
+        "possessionLostCtrl": 5,
+        "expectedAssists": 0.0500468,
+        "topSpeed": 30.96,
+        "kilometersCovered": 4.44,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 19.276788637979,
+        "ballCarriesCount": 4,
+        "totalProgression": 7.3916535237504,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7.2,
+          "alternative": 7.1
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.19,
+        "dribbleValueNormalized": 0.04,
+        "defensiveValueNormalized": 0.18,
+        "metersCoveredRunningKm": 0.74,
+        "metersCoveredHighSpeedRunningKm": 0.17,
+        "metersCoveredSprintingKm": 0.11,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
     }
   }
 }

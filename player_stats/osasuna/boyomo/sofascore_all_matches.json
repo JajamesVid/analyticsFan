@@ -3324,131 +3324,6 @@
       "extra": null
     }
   },
-  "14083723": {
-    "id": 14083723,
-    "match_info": {
-      "homeTeam": {
-        "name": "Getafe",
-        "shortName": "Getafe",
-        "color": "#00369e",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Osasuna",
-        "shortName": "Osasuna",
-        "color": "#cc0000",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "getafe-osasuna"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Enzo Boyomo",
-        "firstName": "Enzo",
-        "lastName": "Boyomo",
-        "slug": "enzo-boyomo",
-        "shortName": "E. Boyomo",
-        "position": "D",
-        "jerseyNumber": "22",
-        "height": 181,
-        "userCount": 2627,
-        "gender": "M",
-        "id": 1067582,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1002412800,
-        "proposedMarketValueRaw": {
-          "value": 14600000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إنزو بويومو",
-            "ru": "Энцо Бойомо"
-          },
-          "shortNameTranslation": {
-            "ar": "إ. بويومو",
-            "ru": "Э. Бойомо"
-          }
-        }
-      },
-      "team": {
-        "name": "Osasuna",
-        "slug": "osasuna",
-        "shortName": "Osasuna",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 199411,
-        "nameCode": "OSA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2820,
-        "teamColors": {
-          "primary": "#cc0000",
-          "secondary": "#14213d",
-          "text": "#14213d"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أوساسونا",
-            "bn": "ওসাসুনা",
-            "hi": "ओसासुना",
-            "ru": "Осасуна"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 19,
-        "accuratePass": 16,
-        "totalLongBalls": 4,
-        "accurateLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 11,
-        "totalOwnHalfPasses": 11,
-        "accurateOppositionHalfPasses": 5,
-        "totalOppositionHalfPasses": 8,
-        "aerialLost": 2,
-        "aerialWon": 1,
-        "duelLost": 5,
-        "duelWon": 2,
-        "totalClearance": 9,
-        "interceptionWon": 2,
-        "ballRecovery": 2,
-        "totalTackle": 1,
-        "wonTackle": 1,
-        "fouls": 3,
-        "minutesPlayed": 90,
-        "touches": 31,
-        "rating": 6.4,
-        "possessionLostCtrl": 3,
-        "expectedAssists": 0.00349547,
-        "totalBallCarriesDistance": 23.14774697534,
-        "ballCarriesCount": 5,
-        "totalProgression": 7.5807477763397,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.4,
-          "alternative": 6.7
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.21,
-        "dribbleValueNormalized": -0.04,
-        "defensiveValueNormalized": -0.06,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437522": {
     "id": 12437522,
     "match_info": {
@@ -20568,6 +20443,138 @@
         "rating": 7,
         "possessionLostCtrl": 7,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083723": {
+    "id": 14083723,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "getafe-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Enzo Boyomo",
+        "firstName": "Enzo",
+        "lastName": "Boyomo",
+        "slug": "enzo-boyomo",
+        "shortName": "E. Boyomo",
+        "position": "D",
+        "jerseyNumber": "22",
+        "height": 181,
+        "userCount": 2651,
+        "gender": "M",
+        "sofascoreId": "p9yzby",
+        "id": 1067582,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1002412800,
+        "proposedMarketValueRaw": {
+          "value": 14600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إنزو بويومو",
+            "ru": "Энцо Бойомо"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. بويومو",
+            "ru": "Э. Бойомо"
+          }
+        }
+      },
+      "team": {
+        "name": "Osasuna",
+        "slug": "osasuna",
+        "shortName": "Osasuna",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202237,
+        "nameCode": "OSA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2820,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#14213d",
+          "text": "#14213d"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوساسونا",
+            "bn": "ওসাসুনা",
+            "hi": "ओसासुना",
+            "ru": "Осасуна"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 19,
+        "accuratePass": 16,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 11,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 8,
+        "aerialLost": 2,
+        "aerialWon": 1,
+        "duelLost": 5,
+        "duelWon": 2,
+        "totalClearance": 9,
+        "interceptionWon": 2,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "fouls": 3,
+        "minutesPlayed": 90,
+        "touches": 31,
+        "rating": 6.4,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 0.00349547,
+        "topSpeed": 30.41,
+        "kilometersCovered": 7.79,
+        "numberOfSprints": 6,
+        "totalBallCarriesDistance": 23.14774697534,
+        "ballCarriesCount": 5,
+        "totalProgression": 7.5807477763397,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.21,
+        "dribbleValueNormalized": -0.04,
+        "defensiveValueNormalized": -0.06,
+        "metersCoveredRunningKm": 0.68,
+        "metersCoveredHighSpeedRunningKm": 0.13,
+        "metersCoveredSprintingKm": 0.09,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

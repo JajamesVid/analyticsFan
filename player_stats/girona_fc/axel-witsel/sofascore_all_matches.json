@@ -3062,138 +3062,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Axel Witsel",
-        "slug": "axel-witsel",
-        "shortName": "A. Witsel",
-        "position": "M",
-        "height": 186,
-        "userCount": 10314,
-        "gender": "M",
-        "sofascoreId": "axelwitsel28",
-        "id": 35612,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 600566400,
-        "proposedMarketValueRaw": {
-          "value": 1300000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أكسيل فيتسل",
-            "bn": "অ্যাক্সেল উইটসেল",
-            "hi": "एक्सल विटसेल",
-            "ru": "Аксель Витсель"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. فيتسل",
-            "bn": "এ. উইটসেল",
-            "hi": "ए. विटसेल",
-            "ru": "А. Витсель"
-          }
-        }
-      },
-      "team": {
-        "name": "Girona FC",
-        "slug": "girona-fc",
-        "shortName": "Girona",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 373692,
-        "nameCode": "GIR",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 24264,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ff0000",
-          "text": "#ff0000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "جيرونا إف سي",
-            "hi": "जिरोना",
-            "ru": "Жирона"
-          },
-          "shortNameTranslation": {
-            "ar": "جيرونا",
-            "bn": "জিরোনা",
-            "hi": "गिरोना"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 26,
-        "accuratePass": 23,
-        "totalLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 15,
-        "totalOwnHalfPasses": 17,
-        "accurateOppositionHalfPasses": 8,
-        "totalOppositionHalfPasses": 9,
-        "duelWon": 1,
-        "totalClearance": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 5,
-        "totalTackle": 1,
-        "minutesPlayed": 58,
-        "touches": 31,
-        "rating": 6.7,
-        "possessionLostCtrl": 3,
-        "expectedAssists": 0.0050727,
-        "topSpeed": 26.37,
-        "kilometersCovered": 6.27,
-        "numberOfSprints": 2,
-        "totalBallCarriesDistance": 81.833499142592,
-        "ballCarriesCount": 10,
-        "totalProgression": 27.49788608151,
-        "bestBallCarryProgression": 22.203794384929,
-        "totalProgressiveBallCarriesDistance": 24.005498557622,
-        "progressiveBallCarriesCount": 1,
-        "ratingVersions": {
-          "original": 6.7,
-          "alternative": 6.7
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.03,
-        "dribbleValueNormalized": 0.1,
-        "defensiveValueNormalized": 0.16,
-        "metersCoveredRunningKm": 0.82,
-        "metersCoveredHighSpeedRunningKm": 0.2,
-        "metersCoveredSprintingKm": 0.01,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "15536790": {
     "id": 15536790,
     "match_info": {
@@ -23607,6 +23475,138 @@
           "alternative": 6.5
         },
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Axel Witsel",
+        "slug": "axel-witsel",
+        "shortName": "A. Witsel",
+        "position": "M",
+        "height": 186,
+        "userCount": 10582,
+        "gender": "M",
+        "sofascoreId": "axelwitsel28",
+        "id": 35612,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 600566400,
+        "proposedMarketValueRaw": {
+          "value": 1300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أكسيل فيتسل",
+            "bn": "অ্যাক্সেল উইটসেল",
+            "hi": "एक्सल विटसेल",
+            "ru": "Аксель Витсель"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. فيتسل",
+            "bn": "এ. উইটসেল",
+            "hi": "ए. विटसेल",
+            "ru": "А. Витсель"
+          }
+        }
+      },
+      "team": {
+        "name": "Girona FC",
+        "slug": "girona-fc",
+        "shortName": "Girona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 374248,
+        "nameCode": "GIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24264,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جيرونا إف سي",
+            "hi": "जिरोना",
+            "ru": "Жирона"
+          },
+          "shortNameTranslation": {
+            "ar": "جيرونا",
+            "bn": "জিরোনা",
+            "hi": "गिरोना"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 26,
+        "accuratePass": 23,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 15,
+        "totalOwnHalfPasses": 17,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 9,
+        "duelWon": 1,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 5,
+        "totalTackle": 1,
+        "minutesPlayed": 58,
+        "touches": 31,
+        "rating": 6.7,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 0.0050727,
+        "topSpeed": 26.37,
+        "kilometersCovered": 6.27,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 81.833499142592,
+        "ballCarriesCount": 10,
+        "totalProgression": 27.49788608151,
+        "bestBallCarryProgression": 22.203794384929,
+        "totalProgressiveBallCarriesDistance": 24.005498557622,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.03,
+        "dribbleValueNormalized": 0.1,
+        "defensiveValueNormalized": 0.16,
+        "metersCoveredRunningKm": 0.82,
+        "metersCoveredHighSpeedRunningKm": 0.2,
+        "metersCoveredSprintingKm": 0.01,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

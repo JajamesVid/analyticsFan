@@ -3856,129 +3856,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Javier Boñar",
-        "slug": "javier-bonar",
-        "shortName": "J. Boñar",
-        "position": "D",
-        "jerseyNumber": "32",
-        "height": 180,
-        "userCount": 635,
-        "gender": "M",
-        "id": 1142591,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1117756800,
-        "proposedMarketValueRaw": {
-          "value": 970000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "خافيير بونار",
-            "bn": "জাভিয়ের বনহার",
-            "hi": "जेवियर बोनार",
-            "ru": "Хавьер Боньяр"
-          },
-          "shortNameTranslation": {
-            "ar": "خ. بونار",
-            "bn": "জে. বনহার",
-            "hi": "जे. बोनार",
-            "ru": "Х. Боньяр"
-          }
-        }
-      },
-      "team": {
-        "name": "Atlético Madrid",
-        "slug": "atletico-madrid",
-        "shortName": "Atl. Madrid",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 2591268,
-        "nameCode": "ATM",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2836,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#c40000",
-          "text": "#c40000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أتلتيكو مدريد",
-            "hi": "एटलेटिको मैड्रिड",
-            "ru": "Атлетико Мадрид"
-          },
-          "shortNameTranslation": {
-            "ar": "أتل. مدريد",
-            "bn": "এটিএল. মাদ্রিদ"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 16,
-        "accuratePass": 14,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 6,
-        "totalOwnHalfPasses": 7,
-        "accurateOppositionHalfPasses": 8,
-        "totalOppositionHalfPasses": 9,
-        "duelLost": 2,
-        "duelWon": 1,
-        "dispossessed": 1,
-        "totalContest": 1,
-        "wasFouled": 1,
-        "minutesPlayed": 29,
-        "touches": 21,
-        "rating": 6.7,
-        "possessionLostCtrl": 4,
-        "expectedAssists": 0.110804,
-        "totalBallCarriesDistance": 47.171113670905,
-        "ballCarriesCount": 6,
-        "totalProgression": 40.538928847824,
-        "progressiveBallCarriesCount": 0,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 6.7,
-          "alternative": 6.5
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.07,
-        "dribbleValueNormalized": -0.09,
-        "defensiveValueNormalized": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "16236411": {
     "id": 16236411,
     "match_info": {
@@ -18427,6 +18304,136 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Javier Boñar",
+        "slug": "javier-bonar",
+        "shortName": "J. Boñar",
+        "position": "D",
+        "jerseyNumber": "32",
+        "height": 180,
+        "userCount": 636,
+        "gender": "M",
+        "sofascoreId": "hirs64",
+        "id": 1142591,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1117756800,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خافيير بونار",
+            "bn": "জাভিয়ের বনহার",
+            "hi": "जेवियर बोनार",
+            "ru": "Хавьер Боньяр"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. بونار",
+            "bn": "জে. বনহার",
+            "hi": "जे. बोनार",
+            "ru": "Х. Боньяр"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atl. Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2635078,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 16,
+        "accuratePass": 14,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 6,
+        "totalOwnHalfPasses": 7,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 9,
+        "duelLost": 2,
+        "duelWon": 1,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 29,
+        "touches": 21,
+        "rating": 6.7,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.110804,
+        "topSpeed": 30.7,
+        "kilometersCovered": 3.44,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 47.171113670905,
+        "ballCarriesCount": 6,
+        "totalProgression": 40.538928847824,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.07,
+        "dribbleValueNormalized": -0.09,
+        "defensiveValueNormalized": 0,
+        "metersCoveredRunningKm": 0.74,
+        "metersCoveredHighSpeedRunningKm": 0.24,
+        "metersCoveredSprintingKm": 0.11,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
     }
   }
 }

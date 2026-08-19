@@ -2578,101 +2578,6 @@
       "extra": null
     }
   },
-  "14083723": {
-    "id": 14083723,
-    "match_info": {
-      "homeTeam": {
-        "name": "Getafe",
-        "shortName": "Getafe",
-        "color": "#00369e",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Osasuna",
-        "shortName": "Osasuna",
-        "color": "#cc0000",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "getafe-osasuna"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Davinchi",
-        "slug": "davinchi",
-        "shortName": "Davinchi",
-        "position": "D",
-        "jerseyNumber": "26",
-        "height": 182,
-        "userCount": 499,
-        "gender": "M",
-        "id": 1918369,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1192492800,
-        "proposedMarketValueRaw": {
-          "value": 910000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "دافينشي",
-            "ru": "Давинчи"
-          },
-          "shortNameTranslation": {
-            "ar": "دافينشي"
-          }
-        }
-      },
-      "team": {
-        "name": "Getafe",
-        "slug": "getafe",
-        "shortName": "Getafe",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 199335,
-        "nameCode": "GET",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2859,
-        "teamColors": {
-          "primary": "#00369e",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "خيتافي",
-            "bn": "গেটাফে",
-            "hi": "गेटाफे",
-            "ru": "Хетафе"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 1,
-        "totalLongBalls": 1,
-        "goalAssist": 0,
-        "totalOppositionHalfPasses": 1,
-        "totalClearance": 2,
-        "minutesPlayed": 1,
-        "touches": 3,
-        "possessionLostCtrl": 1,
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12597887": {
     "id": 12597887,
     "match_info": {
@@ -6312,6 +6217,108 @@
           "alternative": null
         },
         "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083723": {
+    "id": 14083723,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "getafe-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Davinchi",
+        "slug": "davinchi",
+        "shortName": "Davinchi",
+        "position": "D",
+        "jerseyNumber": "16",
+        "height": 182,
+        "userCount": 542,
+        "gender": "M",
+        "sofascoreId": "gwwxm6",
+        "id": 1918369,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1192492800,
+        "proposedMarketValueRaw": {
+          "value": 910000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دافينشي",
+            "ru": "Давинчи"
+          },
+          "shortNameTranslation": {
+            "ar": "دافينشي"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 203865,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 1,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "totalOppositionHalfPasses": 1,
+        "totalClearance": 2,
+        "minutesPlayed": 1,
+        "touches": 3,
+        "possessionLostCtrl": 1,
+        "topSpeed": 24.4,
+        "kilometersCovered": 0.82,
+        "numberOfSprints": 0,
+        "totalShots": 0,
+        "metersCoveredRunningKm": 0.15,
+        "metersCoveredHighSpeedRunningKm": 0.04,
+        "metersCoveredSprintingKm": 0,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

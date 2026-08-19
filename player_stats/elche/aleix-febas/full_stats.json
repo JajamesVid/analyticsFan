@@ -6171,244 +6171,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Girona",
-        "abreviatura": "GIR",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/30.png"
-      },
-      "visitante": {
-        "nombre": "Elche",
-        "abreviatura": "ELC",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
-      }
-    },
-    "resultado": "1-1",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20447-girona-elche",
-    "puntuaciones": {
-      "picas": 2,
-      "marca": 3,
-      "cope": 7.0,
-      "sofascore": 7.3,
-      "relevo": 1.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 4.0,
-        "futbolfantasy-rpg": 16.0,
-        "comunio": 7.0,
-        "modo-picas": 6.0,
-        "biwenger-sofascore": 6.0,
-        "biwenger-social": 4.0,
-        "biwenger-as-sofascore": 6.0,
-        "biwenger-stats": 7.0,
-        "futmondo-prensa": 9.0,
-        "futmondo-mixto-as": 6.0,
-        "futmondo-stats": 11.0,
-        "futmondo-mixto": 10.3,
-        "cronistas-marca": 10.0,
-        "marca-mixto": 8.0,
-        "marca-sofascore": 6.0,
-        "mister-cronistas-md": 6.0,
-        "mister-mixto": 7.0,
-        "mister-mixto-2": 7.0,
-        "mister-sofascore": 6.0,
-        "stat-goles": 0.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 0.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 0.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 0.0,
-        "stat-regates-exito": 1.0,
-        "stat-faltas-recibidas": 8.0,
-        "stat-faltas-cometidas": 1.0,
-        "stat-pases-interceptados": 2.0,
-        "stat-balones-robados": 0.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 0.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 1.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 0.0,
-        "stat-despejes": 0.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 9.0,
-        "stat-tiros-totales": 0.0,
-        "stat-centros-totales": 0.0,
-        "stat-precision-pases": 80.0,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 0.0,
-        "stat-tackles": 0.0,
-        "stat-duelos-aereos": 0.0,
-        "stat-tiros-bloqueados": 0.0,
-        "stat-pases-totales": 25.0,
-        "stat-pases-completados": 20.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083743,
-      "match_info": {
-        "homeTeam": {
-          "name": "Girona FC",
-          "shortName": "Girona",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Elche",
-          "shortName": "Elche",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "startTimestamp": 1779562800,
-        "slug": "girona-fc-elche",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Aleix Febas",
-          "firstName": "Aleix",
-          "lastName": "Febas",
-          "slug": "aleix-febas",
-          "shortName": "A. Febas",
-          "position": "M",
-          "jerseyNumber": "14",
-          "height": 168,
-          "userCount": 1208,
-          "gender": "M",
-          "sofascoreId": "x9empt",
-          "id": 286167,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 823219200,
-          "proposedMarketValueRaw": {
-            "value": 5200000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "فيباس، أليكس",
-              "bn": "ফেবাস, আলেক্স",
-              "hi": "फ़ेबास, एलेक्स",
-              "ru": "Алейкс Фебас"
-            },
-            "shortNameTranslation": {
-              "ar": "أ. فيباس",
-              "bn": "এ. ফেবাস",
-              "hi": "ए. फ़ेबास",
-              "ru": "А. Фебас"
-            }
-          }
-        },
-        "team": {
-          "name": "Elche",
-          "slug": "elche",
-          "shortName": "Elche",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 116534,
-          "nameCode": "ELC",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2846,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#336600",
-            "text": "#336600"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "إلتشي",
-              "bn": "এলচে",
-              "hi": "एल्चे",
-              "ru": "Эльче"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalPass": 25,
-          "accuratePass": 20,
-          "totalLongBalls": 4,
-          "accurateLongBalls": 2,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 6,
-          "totalOwnHalfPasses": 7,
-          "accurateOppositionHalfPasses": 14,
-          "totalOppositionHalfPasses": 18,
-          "aerialLost": 1,
-          "duelLost": 4,
-          "duelWon": 13,
-          "challengeLost": 1,
-          "totalContest": 2,
-          "wonContest": 1,
-          "interceptionWon": 2,
-          "ballRecovery": 6,
-          "totalTackle": 4,
-          "unsuccessfulTouch": 2,
-          "wasFouled": 8,
-          "fouls": 1,
-          "minutesPlayed": 84,
-          "touches": 45,
-          "rating": 7.3,
-          "possessionLostCtrl": 8,
-          "expectedAssists": 0.0110744,
-          "topSpeed": 30.39,
-          "kilometersCovered": 8.87,
-          "numberOfSprints": 4,
-          "totalBallCarriesDistance": 146.3168364339,
-          "ballCarriesCount": 12,
-          "totalProgression": 97.267317367389,
-          "bestBallCarryProgression": 26.468318102731,
-          "totalProgressiveBallCarriesDistance": 49.686922468331,
-          "progressiveBallCarriesCount": 2,
-          "ratingVersions": {
-            "original": 7.3,
-            "alternative": 7
-          },
-          "totalShots": 0,
-          "passValueNormalized": 0.14,
-          "dribbleValueNormalized": 0.17,
-          "defensiveValueNormalized": -0.12,
-          "metersCoveredRunningKm": 1.11,
-          "metersCoveredHighSpeedRunningKm": 0.19,
-          "metersCoveredSprintingKm": 0.06,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "M",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Elche",
         "abreviatura": "ELC",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
@@ -8508,6 +8270,243 @@
           "metersCoveredRunningKm": 1.45,
           "metersCoveredHighSpeedRunningKm": 0.45,
           "metersCoveredSprintingKm": 0.28,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Girona",
+        "abreviatura": "GIR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/30.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20447-girona-elche",
+    "puntuaciones": {
+      "picas": 2,
+      "marca": 3,
+      "cope": 7.0,
+      "sofascore": 7.3,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 4.0,
+        "futbolfantasy-rpg": 16.0,
+        "comunio": 7.0,
+        "modo-picas": 6.0,
+        "biwenger-sofascore": 6.0,
+        "biwenger-social": 4.0,
+        "biwenger-as-sofascore": 6.0,
+        "biwenger-stats": 7.0,
+        "futmondo-prensa": 9.0,
+        "futmondo-mixto-as": 6.0,
+        "futmondo-stats": 11.0,
+        "futmondo-mixto": 10.3,
+        "cronistas-marca": 10.0,
+        "marca-mixto": 8.0,
+        "marca-sofascore": 6.0,
+        "mister-cronistas-md": 6.0,
+        "mister-mixto": 7.0,
+        "mister-mixto-2": 7.0,
+        "mister-sofascore": 6.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 1.0,
+        "stat-faltas-recibidas": 8.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 2.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 9.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 80.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 25.0,
+        "stat-pases-completados": 20.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083743,
+      "match_info": {
+        "homeTeam": {
+          "name": "Girona FC",
+          "shortName": "Girona",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "girona-fc-elche"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Aleix Febas",
+          "firstName": "Aleix",
+          "lastName": "Febas",
+          "slug": "aleix-febas",
+          "shortName": "A. Febas",
+          "position": "M",
+          "jerseyNumber": "14",
+          "height": 168,
+          "userCount": 1175,
+          "gender": "M",
+          "sofascoreId": "x9empt",
+          "id": 286167,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 823219200,
+          "proposedMarketValueRaw": {
+            "value": 5200000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فيباس، أليكس",
+              "bn": "ফেবাস, আলেক্স",
+              "hi": "फ़ेबास, एलेक्स",
+              "ru": "Алейкс Фебас"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. فيباس",
+              "bn": "এ. ফেবাস",
+              "hi": "ए. फ़ेबास",
+              "ru": "А. Фебас"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 118908,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 25,
+          "accuratePass": 20,
+          "totalLongBalls": 4,
+          "accurateLongBalls": 2,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 6,
+          "totalOwnHalfPasses": 7,
+          "accurateOppositionHalfPasses": 14,
+          "totalOppositionHalfPasses": 18,
+          "aerialLost": 1,
+          "duelLost": 4,
+          "duelWon": 13,
+          "challengeLost": 1,
+          "totalContest": 2,
+          "wonContest": 1,
+          "interceptionWon": 2,
+          "ballRecovery": 6,
+          "totalTackle": 4,
+          "unsuccessfulTouch": 2,
+          "wasFouled": 8,
+          "fouls": 1,
+          "minutesPlayed": 84,
+          "touches": 45,
+          "rating": 7.3,
+          "possessionLostCtrl": 8,
+          "expectedAssists": 0.0110744,
+          "topSpeed": 30.39,
+          "kilometersCovered": 8.87,
+          "numberOfSprints": 4,
+          "totalBallCarriesDistance": 146.3168364339,
+          "ballCarriesCount": 12,
+          "totalProgression": 97.267317367389,
+          "bestBallCarryProgression": 26.468318102731,
+          "totalProgressiveBallCarriesDistance": 49.686922468331,
+          "progressiveBallCarriesCount": 2,
+          "ratingVersions": {
+            "original": 7.3,
+            "alternative": 7
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.14,
+          "dribbleValueNormalized": 0.17,
+          "defensiveValueNormalized": -0.12,
+          "metersCoveredRunningKm": 1.11,
+          "metersCoveredHighSpeedRunningKm": 0.19,
+          "metersCoveredSprintingKm": 0.06,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

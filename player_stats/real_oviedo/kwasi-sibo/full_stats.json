@@ -4631,121 +4631,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Mallorca",
-        "abreviatura": "MAL",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
-      },
-      "visitante": {
-        "nombre": "Real Oviedo",
-        "abreviatura": "ROV",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/43.png"
-      }
-    },
-    "resultado": "3-0",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20448-mallorca-real-oviedo",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083727,
-      "match_info": {
-        "homeTeam": {
-          "name": "Mallorca",
-          "shortName": "Mallorca",
-          "color": "#cc0000",
-          "score": 3
-        },
-        "awayTeam": {
-          "name": "Real Oviedo",
-          "shortName": "Real Oviedo",
-          "color": "#3300ff",
-          "score": 0
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-oviedo-mallorca",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Kwasi Sibo",
-          "firstName": "Kwasi",
-          "lastName": "Sibo",
-          "slug": "kwasi-sibo",
-          "shortName": "K. Sibo",
-          "position": "M",
-          "jerseyNumber": "6",
-          "height": 182,
-          "userCount": 5174,
-          "gender": "M",
-          "id": 905639,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 898646400,
-          "proposedMarketValueRaw": {
-            "value": 1600000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "كواسي سيبو"
-            },
-            "shortNameTranslation": {
-              "ar": "ك. سيبو"
-            }
-          }
-        },
-        "team": {
-          "name": "Real Oviedo",
-          "slug": "real-oviedo",
-          "shortName": "Real Oviedo",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 100042,
-          "nameCode": "OVI",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2851,
-          "teamColors": {
-            "primary": "#3300ff",
-            "secondary": "#ffffff",
-            "text": "#ffffff"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ريال اوفيدو",
-              "hi": "रियल ओविएडो",
-              "ru": "Реал Овьедо"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "M",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Villarreal",
         "abreviatura": "VIL",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
@@ -6803,6 +6688,122 @@
           "totalShots": 0,
           "passValueNormalized": 0,
           "defensiveValueNormalized": -0.1,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      },
+      "visitante": {
+        "nombre": "Real Oviedo",
+        "abreviatura": "ROV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/43.png"
+      }
+    },
+    "resultado": "3-0",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20448-mallorca-real-oviedo",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083727,
+      "match_info": {
+        "homeTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Real Oviedo",
+          "shortName": "Real Oviedo",
+          "color": "#3300ff",
+          "score": 0
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-oviedo-mallorca"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Kwasi Sibo",
+          "firstName": "Kwasi",
+          "lastName": "Sibo",
+          "slug": "kwasi-sibo",
+          "shortName": "K. Sibo",
+          "position": "M",
+          "height": 182,
+          "userCount": 5995,
+          "gender": "M",
+          "sofascoreId": "6633wh",
+          "id": 905639,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 898646400,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كواسي سيبو",
+              "ru": "Кваси Сибо"
+            },
+            "shortNameTranslation": {
+              "ar": "ك. سيبو",
+              "ru": "К. Сибо"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Oviedo",
+          "slug": "real-oviedo",
+          "shortName": "Real Oviedo",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 98974,
+          "nameCode": "OVI",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2851,
+          "teamColors": {
+            "primary": "#3300ff",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال اوفيدو",
+              "hi": "रियल ओविएडो",
+              "ru": "Реал Овьедо"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

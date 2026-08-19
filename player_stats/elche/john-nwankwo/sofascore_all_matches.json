@@ -3378,138 +3378,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "John Donald",
-        "firstName": "John Donald",
-        "slug": "john-nwankwo",
-        "shortName": "J. Donald",
-        "position": "D",
-        "jerseyNumber": "18",
-        "height": 185,
-        "userCount": 211,
-        "gender": "M",
-        "sofascoreId": "fpauan",
-        "id": 1094758,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 969840000,
-        "proposedMarketValueRaw": {
-          "value": 1000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "جون نوانكو",
-            "bn": "জন নোয়ানকো",
-            "hi": "जॉन नवांकोवो",
-            "ru": "Джон Дональд"
-          },
-          "shortNameTranslation": {
-            "ar": "ج. نوانكو",
-            "bn": "জে. নওয়ানকো",
-            "hi": "जे. नवांकोवो",
-            "ru": "Д. Дональд"
-          }
-        }
-      },
-      "team": {
-        "name": "Elche",
-        "slug": "elche",
-        "shortName": "Elche",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 116534,
-        "nameCode": "ELC",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2846,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#336600",
-          "text": "#336600"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إلتشي",
-            "bn": "এলচে",
-            "hi": "एल्चे",
-            "ru": "Эльче"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 8,
-        "accuratePass": 4,
-        "totalLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 2,
-        "totalOwnHalfPasses": 3,
-        "accurateOppositionHalfPasses": 2,
-        "totalOppositionHalfPasses": 5,
-        "aerialLost": 3,
-        "aerialWon": 2,
-        "duelLost": 3,
-        "duelWon": 3,
-        "totalClearance": 2,
-        "ballRecovery": 1,
-        "totalTackle": 1,
-        "fouls": 1,
-        "minutesPlayed": 45,
-        "touches": 17,
-        "rating": 6.3,
-        "possessionLostCtrl": 10,
-        "expectedAssists": 0.00215782,
-        "topSpeed": 26.05,
-        "kilometersCovered": 5.7,
-        "numberOfSprints": 4,
-        "totalBallCarriesDistance": 6.9708278561445,
-        "ballCarriesCount": 1,
-        "totalProgression": -6.9385921996659,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.3,
-          "alternative": 6.4
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0,
-        "dribbleValueNormalized": -0.06,
-        "defensiveValueNormalized": -0.15,
-        "metersCoveredRunningKm": 0.88,
-        "metersCoveredHighSpeedRunningKm": 0.27,
-        "metersCoveredSprintingKm": 0.02,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "13315903": {
     "id": 13315903,
     "match_info": {
@@ -16509,6 +16377,138 @@
         }
       },
       "position": "M",
+      "extra": null
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "John Donald",
+        "firstName": "John Donald",
+        "slug": "john-nwankwo",
+        "shortName": "J. Donald",
+        "position": "D",
+        "jerseyNumber": "18",
+        "height": 185,
+        "userCount": 219,
+        "gender": "M",
+        "sofascoreId": "fpauan",
+        "id": 1094758,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 969840000,
+        "proposedMarketValueRaw": {
+          "value": 1000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جون نوانكو",
+            "bn": "জন নোয়ানকো",
+            "hi": "जॉन नवांकोवो",
+            "ru": "Джон Дональд"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. نوانكو",
+            "bn": "জে. নওয়ানকো",
+            "hi": "जे. नवांकोवो",
+            "ru": "Д. Дональд"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 118908,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 8,
+        "accuratePass": 4,
+        "totalLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 5,
+        "aerialLost": 3,
+        "aerialWon": 2,
+        "duelLost": 3,
+        "duelWon": 3,
+        "totalClearance": 2,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "fouls": 1,
+        "minutesPlayed": 45,
+        "touches": 17,
+        "rating": 6.3,
+        "possessionLostCtrl": 10,
+        "expectedAssists": 0.00215782,
+        "topSpeed": 26.05,
+        "kilometersCovered": 5.7,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 6.9708278561445,
+        "ballCarriesCount": 1,
+        "totalProgression": -6.9385921996659,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0,
+        "dribbleValueNormalized": -0.06,
+        "defensiveValueNormalized": -0.15,
+        "metersCoveredRunningKm": 0.88,
+        "metersCoveredHighSpeedRunningKm": 0.27,
+        "metersCoveredSprintingKm": 0.02,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
       "extra": null
     }
   }

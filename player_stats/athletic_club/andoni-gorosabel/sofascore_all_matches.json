@@ -3558,136 +3558,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Andoni Gorosabel",
-        "slug": "andoni-gorosabel",
-        "shortName": "A. Gorosabel",
-        "position": "D",
-        "jerseyNumber": "2",
-        "height": 174,
-        "userCount": 562,
-        "gender": "M",
-        "sofascoreId": "txftw5",
-        "id": 866810,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 839116800,
-        "proposedMarketValueRaw": {
-          "value": 2900000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أندوني غوروسابيل",
-            "bn": "আন্দোনি গোরোসাবেল",
-            "hi": "एन्डोनि गोरोसाबेल",
-            "ru": "Андони Горасабель"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. غوروسابيل",
-            "bn": "এ. গোরোসাবেল",
-            "hi": "ए. गोरोसाबेल",
-            "ru": "А. Горасабель"
-          }
-        }
-      },
-      "team": {
-        "name": "Athletic Club",
-        "slug": "athletic-club",
-        "shortName": "Athletic Club",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 519382,
-        "nameCode": "ATH",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2825,
-        "teamColors": {
-          "primary": "#aa0000",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "نادي أتليتيك",
-            "bn": "অ্যাথলেটিক ক্লাব",
-            "hi": "एथलेटिक क्लब",
-            "ru": "Атлетик Бильбао"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 7,
-        "accuratePass": 6,
-        "totalLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 1,
-        "totalOwnHalfPasses": 1,
-        "accurateOppositionHalfPasses": 5,
-        "totalOppositionHalfPasses": 6,
-        "totalCross": 2,
-        "accurateCross": 2,
-        "duelLost": 2,
-        "totalClearance": 1,
-        "interceptionWon": 1,
-        "fouls": 2,
-        "minutesPlayed": 45,
-        "touches": 14,
-        "rating": 5.9,
-        "possessionLostCtrl": 1,
-        "expectedAssists": 0.0133719,
-        "topSpeed": 30.06,
-        "kilometersCovered": 4.6,
-        "numberOfSprints": 4,
-        "totalBallCarriesDistance": 26.873483004985,
-        "ballCarriesCount": 3,
-        "totalProgression": 21.513887344874,
-        "progressiveBallCarriesCount": 0,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 5.9,
-          "alternative": 6.3
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.01,
-        "dribbleValueNormalized": 0.03,
-        "defensiveValueNormalized": -0.37,
-        "metersCoveredRunningKm": 0.57,
-        "metersCoveredHighSpeedRunningKm": 0.27,
-        "metersCoveredSprintingKm": 0.06,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437538": {
     "id": 12437538,
     "match_info": {
@@ -23034,6 +22904,138 @@
       "statistics": {
         "expectedGoalsOnTarget": 0,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Andoni Gorosabel",
+        "slug": "andoni-gorosabel",
+        "shortName": "A. Gorosabel",
+        "position": "D",
+        "jerseyNumber": "2",
+        "height": 174,
+        "userCount": 577,
+        "gender": "M",
+        "sofascoreId": "txftw5",
+        "id": 866810,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 839116800,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أندوني غوروسابيل",
+            "bn": "আন্দোনি গোরোসাবেল",
+            "hi": "एन्डोनि गोरोसाबेल",
+            "ru": "Андони Горасабель"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. غوروسابيل",
+            "bn": "এ. গোরোসাবেল",
+            "hi": "ए. गोरोसाबेल",
+            "ru": "А. Горасабель"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 524413,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 7,
+        "accuratePass": 6,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 6,
+        "totalCross": 2,
+        "accurateCross": 2,
+        "duelLost": 2,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "fouls": 2,
+        "minutesPlayed": 45,
+        "touches": 14,
+        "rating": 5.9,
+        "possessionLostCtrl": 1,
+        "expectedAssists": 0.0133719,
+        "topSpeed": 30.06,
+        "kilometersCovered": 4.6,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 26.873483004985,
+        "ballCarriesCount": 3,
+        "totalProgression": 21.513887344874,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 5.9,
+          "alternative": 6.3
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.01,
+        "dribbleValueNormalized": 0.03,
+        "defensiveValueNormalized": -0.37,
+        "metersCoveredRunningKm": 0.57,
+        "metersCoveredHighSpeedRunningKm": 0.27,
+        "metersCoveredSprintingKm": 0.06,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

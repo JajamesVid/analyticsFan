@@ -3379,127 +3379,6 @@
       "extra": null
     }
   },
-  "14083723": {
-    "id": 14083723,
-    "match_info": {
-      "homeTeam": {
-        "name": "Getafe",
-        "shortName": "Getafe",
-        "color": "#00369e",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Osasuna",
-        "shortName": "Osasuna",
-        "color": "#cc0000",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "getafe-osasuna"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Jorge Herrando",
-        "firstName": "Jorge",
-        "lastName": "Herrando",
-        "slug": "jorge-herrando",
-        "shortName": "J. Herrando",
-        "position": "D",
-        "jerseyNumber": "5",
-        "height": 192,
-        "userCount": 281,
-        "gender": "M",
-        "id": 944225,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 983318400,
-        "proposedMarketValueRaw": {
-          "value": 3200000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "هيراندو، خورخي",
-            "bn": "হেরান্ডো, জর্জ",
-            "hi": "हेरान्डो, जॉर्ज",
-            "ru": "Хорхе Эррандо"
-          },
-          "shortNameTranslation": {
-            "ar": "ه. خورخي",
-            "bn": "জে. হেরান্ডো",
-            "hi": "जे. हेरांदो",
-            "ru": "Х. Эррандо"
-          }
-        }
-      },
-      "team": {
-        "name": "Osasuna",
-        "slug": "osasuna",
-        "shortName": "Osasuna",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 199411,
-        "nameCode": "OSA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2820,
-        "teamColors": {
-          "primary": "#cc0000",
-          "secondary": "#14213d",
-          "text": "#14213d"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أوساسونا",
-            "bn": "ওসাসুনা",
-            "hi": "ओसासुना",
-            "ru": "Осасуна"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 10,
-        "accuratePass": 6,
-        "totalLongBalls": 6,
-        "accurateLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 2,
-        "totalOwnHalfPasses": 2,
-        "accurateOppositionHalfPasses": 4,
-        "totalOppositionHalfPasses": 8,
-        "aerialLost": 2,
-        "duelLost": 3,
-        "duelWon": 1,
-        "totalClearance": 8,
-        "totalTackle": 1,
-        "wonTackle": 1,
-        "fouls": 1,
-        "minutesPlayed": 68,
-        "touches": 21,
-        "rating": 6.4,
-        "possessionLostCtrl": 4,
-        "expectedAssists": 0.00197842,
-        "ratingVersions": {
-          "original": 6.4,
-          "alternative": 6.6
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.1,
-        "defensiveValueNormalized": -0.04,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437514": {
     "id": 12437514,
     "match_info": {
@@ -17112,6 +16991,134 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083723": {
+    "id": 14083723,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "getafe-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Jorge Herrando",
+        "firstName": "Jorge",
+        "lastName": "Herrando",
+        "slug": "jorge-herrando",
+        "shortName": "J. Herrando",
+        "position": "D",
+        "jerseyNumber": "5",
+        "height": 192,
+        "userCount": 285,
+        "gender": "M",
+        "sofascoreId": "g8e7d6",
+        "id": 944225,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 983318400,
+        "proposedMarketValueRaw": {
+          "value": 3200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هيراندو، خورخي",
+            "bn": "হেরান্ডো, জর্জ",
+            "hi": "हेरान्डो, जॉर्ज",
+            "ru": "Хорхе Эррандо"
+          },
+          "shortNameTranslation": {
+            "ar": "ه. خورخي",
+            "bn": "জে. হেরান্ডো",
+            "hi": "जे. हेरांदो",
+            "ru": "Х. Эррандо"
+          }
+        }
+      },
+      "team": {
+        "name": "Osasuna",
+        "slug": "osasuna",
+        "shortName": "Osasuna",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202237,
+        "nameCode": "OSA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2820,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#14213d",
+          "text": "#14213d"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوساسونا",
+            "bn": "ওসাসুনা",
+            "hi": "ओसासुना",
+            "ru": "Осасуна"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 10,
+        "accuratePass": 6,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 8,
+        "aerialLost": 2,
+        "duelLost": 3,
+        "duelWon": 1,
+        "totalClearance": 8,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "fouls": 1,
+        "minutesPlayed": 68,
+        "touches": 21,
+        "rating": 6.4,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.00197842,
+        "topSpeed": 28.01,
+        "kilometersCovered": 5.96,
+        "numberOfSprints": 5,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.1,
+        "defensiveValueNormalized": -0.04,
+        "metersCoveredRunningKm": 0.48,
+        "metersCoveredHighSpeedRunningKm": 0.17,
+        "metersCoveredSprintingKm": 0.06,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
     }
   }
 }

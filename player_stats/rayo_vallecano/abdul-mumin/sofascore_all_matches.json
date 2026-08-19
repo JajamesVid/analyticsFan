@@ -2792,132 +2792,6 @@
       "extra": null
     }
   },
-  "14083706": {
-    "id": 14083706,
-    "match_info": {
-      "homeTeam": {
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "color": "#0232a0",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Rayo Vallecano",
-        "shortName": "Rayo Vallecano",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "deportivo-alaves-rayo-vallecano"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Abdul Mumin",
-        "firstName": "Abdul",
-        "lastName": "Mumin",
-        "slug": "abdul-mumin",
-        "shortName": "A. Mumin",
-        "position": "D",
-        "jerseyNumber": "16",
-        "height": 188,
-        "userCount": 1591,
-        "gender": "M",
-        "id": 846147,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 897091200,
-        "proposedMarketValueRaw": {
-          "value": 3200000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "عبد المومن",
-            "bn": "আব্দুল মুমিন",
-            "hi": "अब्दुल मुमिन",
-            "ru": "Абдул Мумин"
-          },
-          "shortNameTranslation": {
-            "ar": "ع. المومن",
-            "bn": "এ. মুমিন",
-            "hi": "ए. मुमिन",
-            "ru": "А. Мумин"
-          }
-        }
-      },
-      "team": {
-        "name": "Rayo Vallecano",
-        "slug": "rayo-vallecano",
-        "shortName": "Rayo Vallecano",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 227407,
-        "nameCode": "RAY",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2818,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "رايو فاليكانو",
-            "bn": "রায়ো ভ্যালেকানো",
-            "hi": "रेयो वैलेकैनो",
-            "ru": "Райо Вальекано"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 28,
-        "accuratePass": 24,
-        "totalLongBalls": 3,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 22,
-        "totalOwnHalfPasses": 23,
-        "accurateOppositionHalfPasses": 2,
-        "totalOppositionHalfPasses": 5,
-        "duelLost": 1,
-        "duelWon": 1,
-        "totalClearance": 2,
-        "outfielderBlock": 1,
-        "interceptionWon": 2,
-        "ballRecovery": 1,
-        "wasFouled": 1,
-        "fouls": 1,
-        "minutesPlayed": 61,
-        "touches": 36,
-        "rating": 6.3,
-        "possessionLostCtrl": 4,
-        "expectedAssists": 0.00057118,
-        "totalBallCarriesDistance": 57.754151989426,
-        "ballCarriesCount": 9,
-        "totalProgression": -1.1540914648246,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.3,
-          "alternative": 6.6
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.03,
-        "dribbleValueNormalized": 0.01,
-        "defensiveValueNormalized": -0.13,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "15926537": {
     "id": 15926537,
     "match_info": {
@@ -21723,6 +21597,132 @@
         "rating": 6.6,
         "possessionLostCtrl": 5,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083706": {
+    "id": 14083706,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "deportivo-alaves-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Abdul Mumin",
+        "firstName": "Abdul",
+        "lastName": "Mumin",
+        "slug": "abdul-mumin",
+        "shortName": "A. Mumin",
+        "position": "D",
+        "height": 188,
+        "userCount": 1690,
+        "gender": "M",
+        "sofascoreId": "jwb7sr",
+        "id": 846147,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 897091200,
+        "proposedMarketValueRaw": {
+          "value": 3200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "عبد المومن",
+            "bn": "আব্দুল মুমিন",
+            "hi": "अब्दुल मुमिन",
+            "ru": "Абдул Мумин"
+          },
+          "shortNameTranslation": {
+            "ar": "ع. المومن",
+            "bn": "এ. মুমিন",
+            "hi": "ए. मुमिन",
+            "ru": "А. Мумин"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 227211,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 28,
+        "accuratePass": 24,
+        "totalLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 22,
+        "totalOwnHalfPasses": 23,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 5,
+        "duelLost": 1,
+        "duelWon": 1,
+        "totalClearance": 2,
+        "outfielderBlock": 1,
+        "interceptionWon": 2,
+        "ballRecovery": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 61,
+        "touches": 36,
+        "rating": 6.3,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.00057118,
+        "totalBallCarriesDistance": 57.754151989426,
+        "ballCarriesCount": 9,
+        "totalProgression": -1.1540914648246,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.03,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": -0.13,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

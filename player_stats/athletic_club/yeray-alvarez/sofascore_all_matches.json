@@ -3424,136 +3424,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Yeray Álvarez",
-        "firstName": "Yeray",
-        "lastName": "Alvarez",
-        "slug": "yeray-alvarez",
-        "shortName": "Y. Álvarez",
-        "position": "D",
-        "height": 183,
-        "userCount": 862,
-        "gender": "M",
-        "sofascoreId": "8gmdsw",
-        "id": 807648,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 790905600,
-        "proposedMarketValueRaw": {
-          "value": 930000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "يراي ألفاريز",
-            "bn": "ইয়েরে আলভারেজ",
-            "hi": "येरे अल्वारेज़",
-            "ru": "Ерай Альварес"
-          },
-          "shortNameTranslation": {
-            "ar": "ي. ألفاريز",
-            "bn": "ওয়াই. আলভারেজ",
-            "hi": "वाई. अल्वारेज़",
-            "ru": "Е. Альварес"
-          }
-        }
-      },
-      "team": {
-        "name": "Athletic Club",
-        "slug": "athletic-club",
-        "shortName": "Athletic Club",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 519382,
-        "nameCode": "ATH",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2825,
-        "teamColors": {
-          "primary": "#aa0000",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "نادي أتليتيك",
-            "bn": "অ্যাথলেটিক ক্লাব",
-            "hi": "एथलेटिक क्लब",
-            "ru": "Атлетик Бильбао"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 10,
-        "accuratePass": 5,
-        "totalLongBalls": 4,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 3,
-        "totalOwnHalfPasses": 3,
-        "accurateOppositionHalfPasses": 2,
-        "totalOppositionHalfPasses": 7,
-        "aerialWon": 2,
-        "duelWon": 3,
-        "totalClearance": 3,
-        "interceptionWon": 1,
-        "ballRecovery": 2,
-        "wasFouled": 1,
-        "minutesPlayed": 45,
-        "touches": 16,
-        "rating": 6.1,
-        "possessionLostCtrl": 5,
-        "expectedAssists": 0.0008536,
-        "topSpeed": 29.45,
-        "kilometersCovered": 5.04,
-        "numberOfSprints": 10,
-        "totalBallCarriesDistance": 18.964423893725,
-        "ballCarriesCount": 4,
-        "totalProgression": 13.965694787007,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.1,
-          "alternative": 6.4
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.03,
-        "dribbleValueNormalized": 0.02,
-        "defensiveValueNormalized": -0.34,
-        "metersCoveredRunningKm": 0.62,
-        "metersCoveredHighSpeedRunningKm": 0.25,
-        "metersCoveredSprintingKm": 0.12,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "11368712": {
     "id": 11368712,
     "match_info": {
@@ -22613,6 +22483,139 @@
         "rating": 7.6,
         "possessionLostCtrl": 11,
         "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Yeray Álvarez",
+        "firstName": "Yeray",
+        "lastName": "Alvarez",
+        "slug": "yeray-alvarez",
+        "shortName": "Y. Álvarez",
+        "position": "D",
+        "jerseyNumber": "5",
+        "height": 183,
+        "userCount": 878,
+        "gender": "M",
+        "sofascoreId": "8gmdsw",
+        "id": 807648,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 790905600,
+        "proposedMarketValueRaw": {
+          "value": 930000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "يراي ألفاريز",
+            "bn": "ইয়েরে আলভারেজ",
+            "hi": "येरे अल्वारेज़",
+            "ru": "Ерай Альварес"
+          },
+          "shortNameTranslation": {
+            "ar": "ي. ألفاريز",
+            "bn": "ওয়াই. আলভারেজ",
+            "hi": "वाई. अल्वारेज़",
+            "ru": "Е. Альварес"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 524413,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 10,
+        "accuratePass": 5,
+        "totalLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 7,
+        "aerialWon": 2,
+        "duelWon": 3,
+        "totalClearance": 3,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "wasFouled": 1,
+        "minutesPlayed": 45,
+        "touches": 16,
+        "rating": 6.1,
+        "possessionLostCtrl": 5,
+        "expectedAssists": 0.0008536,
+        "topSpeed": 29.45,
+        "kilometersCovered": 5.04,
+        "numberOfSprints": 10,
+        "totalBallCarriesDistance": 18.964423893725,
+        "ballCarriesCount": 4,
+        "totalProgression": 13.965694787007,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.1,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.03,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": -0.34,
+        "metersCoveredRunningKm": 0.62,
+        "metersCoveredHighSpeedRunningKm": 0.25,
+        "metersCoveredSprintingKm": 0.12,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

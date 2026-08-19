@@ -3361,131 +3361,6 @@
       "extra": null
     }
   },
-  "14083706": {
-    "id": 14083706,
-    "match_info": {
-      "homeTeam": {
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "color": "#0232a0",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Rayo Vallecano",
-        "shortName": "Rayo Vallecano",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "deportivo-alaves-rayo-vallecano"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Pedro Díaz",
-        "slug": "pedro-diaz",
-        "shortName": "P. Díaz",
-        "position": "M",
-        "jerseyNumber": "4",
-        "height": 180,
-        "userCount": 647,
-        "gender": "M",
-        "id": 900669,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 897004800,
-        "proposedMarketValueRaw": {
-          "value": 2900000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "بيدرو دياث",
-            "ru": "Педро Диас"
-          },
-          "shortNameTranslation": {
-            "ar": "ب. دياث",
-            "ru": "П. Диас"
-          }
-        }
-      },
-      "team": {
-        "name": "Rayo Vallecano",
-        "slug": "rayo-vallecano",
-        "shortName": "Rayo Vallecano",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 227407,
-        "nameCode": "RAY",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2818,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "رايو فاليكانو",
-            "bn": "রায়ো ভ্যালেকানো",
-            "hi": "रेयो वैलेकैनो",
-            "ru": "Райо Вальекано"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 30,
-        "accuratePass": 23,
-        "totalLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 11,
-        "totalOwnHalfPasses": 12,
-        "accurateOppositionHalfPasses": 12,
-        "totalOppositionHalfPasses": 18,
-        "duelLost": 3,
-        "duelWon": 5,
-        "dispossessed": 2,
-        "totalContest": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 4,
-        "totalTackle": 3,
-        "wonTackle": 1,
-        "unsuccessfulTouch": 1,
-        "wasFouled": 2,
-        "minutesPlayed": 90,
-        "touches": 44,
-        "rating": 6.4,
-        "possessionLostCtrl": 11,
-        "expectedAssists": 0.031871,
-        "totalBallCarriesDistance": 174.37186664184,
-        "ballCarriesCount": 15,
-        "totalProgression": 84.666120813052,
-        "bestBallCarryProgression": 21.94592734276,
-        "totalProgressiveBallCarriesDistance": 71.647171257504,
-        "progressiveBallCarriesCount": 2,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 6.4,
-          "alternative": 6.7
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.32,
-        "dribbleValueNormalized": 0.19,
-        "defensiveValueNormalized": -0.08,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "15632649": {
     "id": 15632649,
     "match_info": {
@@ -23052,6 +22927,138 @@
         "possessionLostCtrl": 16,
         "keyPass": 1,
         "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083706": {
+    "id": 14083706,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "deportivo-alaves-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Díaz",
+        "slug": "pedro-diaz",
+        "shortName": "P. Díaz",
+        "position": "M",
+        "jerseyNumber": "4",
+        "height": 180,
+        "userCount": 653,
+        "gender": "M",
+        "sofascoreId": "kkxnij",
+        "id": 900669,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 897004800,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو دياث",
+            "ru": "Педро Диас"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. دياث",
+            "ru": "П. Диас"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 227211,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 30,
+        "accuratePass": 23,
+        "totalLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 11,
+        "totalOwnHalfPasses": 12,
+        "accurateOppositionHalfPasses": 12,
+        "totalOppositionHalfPasses": 18,
+        "duelLost": 3,
+        "duelWon": 5,
+        "dispossessed": 2,
+        "totalContest": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "totalTackle": 3,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 2,
+        "minutesPlayed": 90,
+        "touches": 44,
+        "rating": 6.4,
+        "possessionLostCtrl": 11,
+        "expectedAssists": 0.031871,
+        "topSpeed": 30.62,
+        "kilometersCovered": 10.81,
+        "numberOfSprints": 10,
+        "totalBallCarriesDistance": 174.37186664184,
+        "ballCarriesCount": 15,
+        "totalProgression": 84.666120813052,
+        "bestBallCarryProgression": 21.94592734276,
+        "totalProgressiveBallCarriesDistance": 71.647171257504,
+        "progressiveBallCarriesCount": 2,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.32,
+        "dribbleValueNormalized": 0.19,
+        "defensiveValueNormalized": -0.08,
+        "metersCoveredRunningKm": 1.79,
+        "metersCoveredHighSpeedRunningKm": 0.54,
+        "metersCoveredSprintingKm": 0.11,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

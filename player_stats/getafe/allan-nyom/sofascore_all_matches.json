@@ -3046,135 +3046,6 @@
       "extra": null
     }
   },
-  "14083723": {
-    "id": 14083723,
-    "match_info": {
-      "homeTeam": {
-        "name": "Getafe",
-        "shortName": "Getafe",
-        "color": "#00369e",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Osasuna",
-        "shortName": "Osasuna",
-        "color": "#cc0000",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "getafe-osasuna"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Allan Nyom",
-        "firstName": "Allan",
-        "lastName": "Nyom",
-        "slug": "allan-nyom",
-        "shortName": "A. Nyom",
-        "position": "D",
-        "jerseyNumber": "12",
-        "height": 190,
-        "userCount": 809,
-        "gender": "M",
-        "id": 128637,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 579225600,
-        "proposedMarketValueRaw": {
-          "value": 110000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "آلان نيوم",
-            "bn": "অ্যালান নিওম",
-            "hi": "एलन न्योम",
-            "ru": "Аллан Нйом"
-          },
-          "shortNameTranslation": {
-            "ar": "آ. نيوم",
-            "bn": "এ. নিওম",
-            "hi": "ए. न्योम",
-            "ru": "А. Нйом"
-          }
-        }
-      },
-      "team": {
-        "name": "Getafe",
-        "slug": "getafe",
-        "shortName": "Getafe",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 199335,
-        "nameCode": "GET",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2859,
-        "teamColors": {
-          "primary": "#00369e",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "خيتافي",
-            "bn": "গেটাফে",
-            "hi": "गेटाफे",
-            "ru": "Хетафе"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 23,
-        "accuratePass": 17,
-        "totalLongBalls": 7,
-        "accurateLongBalls": 3,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 5,
-        "totalOwnHalfPasses": 7,
-        "accurateOppositionHalfPasses": 12,
-        "totalOppositionHalfPasses": 16,
-        "aerialLost": 2,
-        "aerialWon": 2,
-        "duelLost": 3,
-        "duelWon": 7,
-        "dispossessed": 1,
-        "totalClearance": 8,
-        "ballRecovery": 2,
-        "totalTackle": 3,
-        "wonTackle": 1,
-        "wasFouled": 2,
-        "minutesPlayed": 90,
-        "touches": 51,
-        "rating": 7.6,
-        "possessionLostCtrl": 8,
-        "expectedAssists": 0.0111672,
-        "totalBallCarriesDistance": 35.33624424201,
-        "ballCarriesCount": 6,
-        "totalProgression": -11.317735146966,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 7.6,
-          "alternative": 7.2
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.21,
-        "dribbleValueNormalized": -0.11,
-        "defensiveValueNormalized": 0.3,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "11390030": {
     "id": 11390030,
     "match_info": {
@@ -22455,6 +22326,141 @@
       },
       "statistics": {
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083723": {
+    "id": 14083723,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "getafe-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Allan Nyom",
+        "firstName": "Allan",
+        "lastName": "Nyom",
+        "slug": "allan-nyom",
+        "shortName": "A. Nyom",
+        "position": "D",
+        "height": 190,
+        "userCount": 808,
+        "gender": "M",
+        "sofascoreId": "k35i9j",
+        "id": 128637,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 579225600,
+        "proposedMarketValueRaw": {
+          "value": 110000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "آلان نيوم",
+            "bn": "অ্যালান নিওম",
+            "hi": "एलन न्योम",
+            "ru": "Аллан Нйом"
+          },
+          "shortNameTranslation": {
+            "ar": "آ. نيوم",
+            "bn": "এ. নিওম",
+            "hi": "ए. न्योम",
+            "ru": "А. Нйом"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 203865,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 23,
+        "accuratePass": 17,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 7,
+        "accurateOppositionHalfPasses": 12,
+        "totalOppositionHalfPasses": 16,
+        "aerialLost": 2,
+        "aerialWon": 2,
+        "duelLost": 3,
+        "duelWon": 7,
+        "dispossessed": 1,
+        "totalClearance": 8,
+        "ballRecovery": 2,
+        "totalTackle": 3,
+        "wonTackle": 1,
+        "wasFouled": 2,
+        "minutesPlayed": 90,
+        "touches": 51,
+        "rating": 7.6,
+        "possessionLostCtrl": 8,
+        "expectedAssists": 0.0111672,
+        "topSpeed": 30.46,
+        "kilometersCovered": 8.9,
+        "numberOfSprints": 9,
+        "totalBallCarriesDistance": 35.33624424201,
+        "ballCarriesCount": 6,
+        "totalProgression": -11.317735146966,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7.6,
+          "alternative": 7.2
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.21,
+        "dribbleValueNormalized": -0.11,
+        "defensiveValueNormalized": 0.3,
+        "metersCoveredRunningKm": 0.94,
+        "metersCoveredHighSpeedRunningKm": 0.23,
+        "metersCoveredSprintingKm": 0.11,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

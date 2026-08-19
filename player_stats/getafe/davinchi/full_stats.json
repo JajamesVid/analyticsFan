@@ -3316,8 +3316,7 @@
           "score": 0
         },
         "startTimestamp": 1779562800,
-        "slug": "getafe-osasuna",
-        "fecha_normalizada": "2026-05-23"
+        "slug": "getafe-osasuna"
       },
       "player_stats": {
         "player": {
@@ -3325,10 +3324,11 @@
           "slug": "davinchi",
           "shortName": "Davinchi",
           "position": "D",
-          "jerseyNumber": "26",
+          "jerseyNumber": "16",
           "height": 182,
-          "userCount": 499,
+          "userCount": 542,
           "gender": "M",
+          "sofascoreId": "gwwxm6",
           "id": 1918369,
           "marketValueCurrency": "EUR",
           "dateOfBirthTimestamp": 1192492800,
@@ -3356,7 +3356,7 @@
             "slug": "football",
             "id": 1
           },
-          "userCount": 199335,
+          "userCount": 203865,
           "nameCode": "GET",
           "disabled": false,
           "national": false,
@@ -3386,7 +3386,13 @@
           "minutesPlayed": 1,
           "touches": 3,
           "possessionLostCtrl": 1,
+          "topSpeed": 24.4,
+          "kilometersCovered": 0.82,
+          "numberOfSprints": 0,
           "totalShots": 0,
+          "metersCoveredRunningKm": 0.15,
+          "metersCoveredHighSpeedRunningKm": 0.04,
+          "metersCoveredSprintingKm": 0,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

@@ -3251,139 +3251,6 @@
       "extra": null
     }
   },
-  "14083719": {
-    "id": 14083719,
-    "match_info": {
-      "homeTeam": {
-        "name": "Espanyol",
-        "shortName": "Espanyol",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Real Sociedad",
-        "shortName": "Real Sociedad",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-sociedad-espanyol"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Orri Óskarsson",
-        "slug": "orri-steinn-oskarsson",
-        "shortName": "O. S. Óskarsson",
-        "position": "F",
-        "jerseyNumber": "9",
-        "height": 186,
-        "userCount": 3282,
-        "gender": "M",
-        "id": 1026015,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1093737600,
-        "proposedMarketValueRaw": {
-          "value": 21000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أوري ستاين أوسكارسون",
-            "bn": "অরি স্টেইন অস্কারসন",
-            "hi": "ओर्री स्टीन ओस्करसन",
-            "ru": "Орри Оскарссон"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. ستاين أوسكارسون",
-            "bn": "ও. এস. অস্কারসন",
-            "hi": "ओ.एस. ओस्करसन",
-            "ru": "О. Оскарссон"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Sociedad",
-        "slug": "real-sociedad",
-        "shortName": "Real Sociedad",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 413040,
-        "nameCode": "RSO",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2824,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#0077c7",
-          "text": "#0077c7"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال سوسيداد",
-            "bn": "রিয়াল সোসিয়েদাদ",
-            "hi": "रियल सोसियदाद",
-            "ru": "Реал Сосьедад"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 9,
-        "accuratePass": 7,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 3,
-        "totalOwnHalfPasses": 3,
-        "accurateOppositionHalfPasses": 4,
-        "totalOppositionHalfPasses": 6,
-        "aerialWon": 2,
-        "duelLost": 2,
-        "duelWon": 4,
-        "dispossessed": 1,
-        "totalContest": 1,
-        "shotOffTarget": 1,
-        "onTargetScoringAttempt": 3,
-        "goals": 1,
-        "ballRecovery": 2,
-        "totalTackle": 1,
-        "wonTackle": 1,
-        "unsuccessfulTouch": 2,
-        "wasFouled": 1,
-        "minutesPlayed": 77,
-        "touches": 20,
-        "rating": 7.9,
-        "possessionLostCtrl": 6,
-        "expectedGoals": 0.7635,
-        "expectedGoalsOnTarget": 0.9672,
-        "expectedAssists": 0.00244173,
-        "totalBallCarriesDistance": 34.995611848488,
-        "ballCarriesCount": 4,
-        "totalProgression": 27.634281359926,
-        "bestBallCarryProgression": 17.07238087496,
-        "totalProgressiveBallCarriesDistance": 18.216146683643,
-        "progressiveBallCarriesCount": 1,
-        "ratingVersions": {
-          "original": 7.9,
-          "alternative": 7.6
-        },
-        "totalShots": 4,
-        "shotValueNormalized": 0.45,
-        "passValueNormalized": -0.06,
-        "dribbleValueNormalized": 0.02,
-        "defensiveValueNormalized": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "16174777": {
     "id": 16174777,
     "match_info": {
@@ -19131,6 +18998,146 @@
       },
       "statistics": {
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083719": {
+    "id": 14083719,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-sociedad-espanyol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Orri Óskarsson",
+        "slug": "orri-steinn-oskarsson",
+        "shortName": "O. S. Óskarsson",
+        "position": "F",
+        "jerseyNumber": "9",
+        "height": 186,
+        "userCount": 3398,
+        "gender": "M",
+        "sofascoreId": "hi8nbm",
+        "id": 1026015,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1093737600,
+        "proposedMarketValueRaw": {
+          "value": 21000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوري ستاين أوسكارسون",
+            "bn": "অরি স্টেইন অস্কারসন",
+            "hi": "ओर्री स्टीन ओस्करसन",
+            "ru": "Орри Оскарссон"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. ستاين أوسكارسون",
+            "bn": "ও. এস. অস্কারসন",
+            "hi": "ओ.एस. ओस्करसन",
+            "ru": "О. Оскарссон"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 417327,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 9,
+        "accuratePass": 7,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 6,
+        "aerialWon": 2,
+        "duelLost": 2,
+        "duelWon": 4,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 3,
+        "goals": 1,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "minutesPlayed": 77,
+        "touches": 20,
+        "rating": 7.9,
+        "possessionLostCtrl": 6,
+        "expectedGoals": 0.7635,
+        "expectedGoalsOnTarget": 0.9672,
+        "expectedAssists": 0.00244173,
+        "topSpeed": 29.46,
+        "kilometersCovered": 7.78,
+        "numberOfSprints": 12,
+        "totalBallCarriesDistance": 34.995611848488,
+        "ballCarriesCount": 4,
+        "totalProgression": 27.634281359926,
+        "bestBallCarryProgression": 17.07238087496,
+        "totalProgressiveBallCarriesDistance": 18.216146683643,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 7.9,
+          "alternative": 7.6
+        },
+        "totalShots": 4,
+        "shotValueNormalized": 0.45,
+        "passValueNormalized": -0.06,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": 0,
+        "metersCoveredRunningKm": 0.99,
+        "metersCoveredHighSpeedRunningKm": 0.37,
+        "metersCoveredSprintingKm": 0.13,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

@@ -3425,130 +3425,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Betis",
-        "abreviatura": "BET",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/4.png"
-      },
-      "visitante": {
-        "nombre": "Levante",
-        "abreviatura": "LEV",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/10.png"
-      }
-    },
-    "resultado": "2-1",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20449-betis-levante",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083710,
-      "match_info": {
-        "homeTeam": {
-          "name": "Real Betis",
-          "shortName": "Real Betis",
-          "color": "#ffffff",
-          "score": 2
-        },
-        "awayTeam": {
-          "name": "Levante UD",
-          "shortName": "Levante",
-          "color": "#0e3b68",
-          "score": 1
-        },
-        "startTimestamp": 1779562800,
-        "slug": "levante-ud-real-betis",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Junior Firpo",
-          "firstName": "",
-          "lastName": "",
-          "slug": "junior-firpo",
-          "shortName": "J. Firpo",
-          "position": "D",
-          "jerseyNumber": "23",
-          "height": 184,
-          "userCount": 2404,
-          "gender": "M",
-          "id": 914835,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 840672000,
-          "proposedMarketValueRaw": {
-            "value": 4900000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "جونيور فيربو",
-              "bn": "জুনিয়র ফিরপো",
-              "hi": "जूनियर फ़िरपो",
-              "ru": "Джуниор Фирпо"
-            },
-            "shortNameTranslation": {
-              "ar": "ج. فيربو",
-              "bn": "জে. ফিরপো",
-              "hi": "जे. फ़िरपो",
-              "ru": "Д. Фирпо"
-            }
-          }
-        },
-        "team": {
-          "name": "Real Betis",
-          "slug": "real-betis",
-          "shortName": "Real Betis",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 600173,
-          "nameCode": "BET",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2816,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#006633",
-            "text": "#006633"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ريال بيتيس",
-              "ru": "Реал Бетис"
-            },
-            "shortNameTranslation": {
-              "ar": "ريال بيتيس",
-              "bn": "বেটিস",
-              "hi": "बेटिस"
-            }
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "D",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Elche",
         "abreviatura": "ELC",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
@@ -4476,6 +4352,130 @@
           "passValueNormalized": 0.22,
           "dribbleValueNormalized": 0.12,
           "defensiveValueNormalized": -0.33,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Betis",
+        "abreviatura": "BET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/4.png"
+      },
+      "visitante": {
+        "nombre": "Levante",
+        "abreviatura": "LEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/10.png"
+      }
+    },
+    "resultado": "2-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20449-betis-levante",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083710,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Betis",
+          "shortName": "Real Betis",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Levante UD",
+          "shortName": "Levante",
+          "color": "#0e3b68",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "levante-ud-real-betis"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Junior Firpo",
+          "firstName": "",
+          "lastName": "",
+          "slug": "junior-firpo",
+          "shortName": "J. Firpo",
+          "position": "D",
+          "jerseyNumber": "23",
+          "height": 184,
+          "userCount": 2518,
+          "gender": "M",
+          "sofascoreId": "uu83rn",
+          "id": 914835,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 840672000,
+          "proposedMarketValueRaw": {
+            "value": 3400000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جونيور فيربو",
+              "bn": "জুনিয়র ফিরপো",
+              "hi": "जूनियर फ़िरपो",
+              "ru": "Джуниор Фирпо"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. فيربو",
+              "bn": "জে. ফিরপো",
+              "hi": "जे. फ़िरपो",
+              "ru": "Д. Фирпо"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Betis",
+          "slug": "real-betis",
+          "shortName": "Real Betis",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 609007,
+          "nameCode": "BET",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2816,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#006633",
+            "text": "#006633"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال بيتيس",
+              "ru": "Реал Бетис"
+            },
+            "shortNameTranslation": {
+              "ar": "ريال بيتيس",
+              "bn": "বেটিস",
+              "hi": "बेटिस"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

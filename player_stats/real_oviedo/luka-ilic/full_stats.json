@@ -4594,227 +4594,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Mallorca",
-        "abreviatura": "MAL",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
-      },
-      "visitante": {
-        "nombre": "Real Oviedo",
-        "abreviatura": "ROV",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/43.png"
-      }
-    },
-    "resultado": "3-0",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20448-mallorca-real-oviedo",
-    "puntuaciones": {
-      "picas": 1,
-      "marca": 1,
-      "cope": 5.0,
-      "sofascore": 6.6,
-      "relevo": 1.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 1.0,
-        "futbolfantasy-rpg": 2.0,
-        "comunio": 3.0,
-        "modo-picas": 2.0,
-        "biwenger-sofascore": 3.0,
-        "biwenger-social": 0.0,
-        "biwenger-as-sofascore": 3.0,
-        "biwenger-stats": 1.0,
-        "futmondo-prensa": 2.0,
-        "futmondo-mixto-as": 2.0,
-        "futmondo-stats": 1.0,
-        "futmondo-mixto": 1.9,
-        "cronistas-marca": 2.0,
-        "marca-mixto": 1.0,
-        "marca-sofascore": 3.0,
-        "mister-cronistas-md": 2.0,
-        "mister-mixto": 2.0,
-        "mister-mixto-2": 3.0,
-        "mister-sofascore": 3.0,
-        "stat-goles": 0.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 0.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 0.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 0.0,
-        "stat-regates-exito": 1.0,
-        "stat-faltas-recibidas": 0.0,
-        "stat-faltas-cometidas": 0.0,
-        "stat-pases-interceptados": 0.0,
-        "stat-balones-robados": 1.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 0.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 2.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 0.0,
-        "stat-despejes": 0.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 3.0,
-        "stat-tiros-totales": 0.0,
-        "stat-centros-totales": 0.0,
-        "stat-precision-pases": 66.7,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 1.0,
-        "stat-tackles": 1.0,
-        "stat-duelos-aereos": 0.0,
-        "stat-tiros-bloqueados": 1.0,
-        "stat-pases-totales": 9.0,
-        "stat-pases-completados": 6.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083727,
-      "match_info": {
-        "homeTeam": {
-          "name": "Mallorca",
-          "shortName": "Mallorca",
-          "color": "#cc0000",
-          "score": 3
-        },
-        "awayTeam": {
-          "name": "Real Oviedo",
-          "shortName": "Real Oviedo",
-          "color": "#3300ff",
-          "score": 0
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-oviedo-mallorca",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Luka Ilić",
-          "firstName": "Luka",
-          "lastName": "Ilic",
-          "slug": "luka-ilic",
-          "shortName": "L. Ilić",
-          "position": "M",
-          "jerseyNumber": "21",
-          "height": 182,
-          "userCount": 1079,
-          "gender": "M",
-          "id": 885664,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 930873600,
-          "proposedMarketValueRaw": {
-            "value": 1900000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "لوكا إيليتش",
-              "bn": "লুকা ইলিক",
-              "hi": "लुका इलीक"
-            },
-            "shortNameTranslation": {
-              "ar": "ل. إيليتش",
-              "bn": "এল. ইলিক",
-              "hi": "एल. इलीक"
-            }
-          }
-        },
-        "team": {
-          "name": "Real Oviedo",
-          "slug": "real-oviedo",
-          "shortName": "Real Oviedo",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 100042,
-          "nameCode": "OVI",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2851,
-          "teamColors": {
-            "primary": "#3300ff",
-            "secondary": "#ffffff",
-            "text": "#ffffff"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ريال اوفيدو",
-              "hi": "रियल ओविएडो",
-              "ru": "Реал Овьедо"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalPass": 9,
-          "accuratePass": 6,
-          "totalLongBalls": 1,
-          "accurateLongBalls": 1,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 3,
-          "totalOwnHalfPasses": 3,
-          "accurateOppositionHalfPasses": 3,
-          "totalOppositionHalfPasses": 6,
-          "duelWon": 2,
-          "totalContest": 1,
-          "wonContest": 1,
-          "outfielderBlock": 1,
-          "ballRecovery": 1,
-          "totalTackle": 1,
-          "wonTackle": 1,
-          "minutesPlayed": 27,
-          "touches": 14,
-          "rating": 6.6,
-          "possessionLostCtrl": 3,
-          "expectedAssists": 0.00107918,
-          "totalBallCarriesDistance": 9.5656261687356,
-          "ballCarriesCount": 1,
-          "totalProgression": 1.1075453987748,
-          "progressiveBallCarriesCount": 0,
-          "ratingVersions": {
-            "original": 6.6,
-            "alternative": 6.7
-          },
-          "totalShots": 0,
-          "passValueNormalized": -0.11,
-          "dribbleValueNormalized": 0.02,
-          "defensiveValueNormalized": -0.04,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "M",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Villarreal",
         "abreviatura": "VIL",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
@@ -5474,6 +5253,235 @@
           "passValueNormalized": -0.05,
           "dribbleValueNormalized": 0.07,
           "defensiveValueNormalized": -0.02,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      },
+      "visitante": {
+        "nombre": "Real Oviedo",
+        "abreviatura": "ROV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/43.png"
+      }
+    },
+    "resultado": "3-0",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20448-mallorca-real-oviedo",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.6,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 1.0,
+        "futbolfantasy-rpg": 2.0,
+        "comunio": 3.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 3.0,
+        "biwenger-stats": 1.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 1.0,
+        "futmondo-mixto": 1.9,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 1.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 1.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 1.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 2.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 3.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 66.7,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 1.0,
+        "stat-tackles": 1.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 1.0,
+        "stat-pases-totales": 9.0,
+        "stat-pases-completados": 6.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083727,
+      "match_info": {
+        "homeTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Real Oviedo",
+          "shortName": "Real Oviedo",
+          "color": "#3300ff",
+          "score": 0
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-oviedo-mallorca"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Luka Ilić",
+          "firstName": "Luka",
+          "lastName": "Ilic",
+          "slug": "luka-ilic",
+          "shortName": "L. Ilić",
+          "position": "M",
+          "jerseyNumber": "21",
+          "height": 182,
+          "userCount": 1099,
+          "gender": "M",
+          "sofascoreId": "8e27hw",
+          "id": 885664,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 930873600,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "لوكا إيليتش",
+              "bn": "লুকা ইলিক",
+              "hi": "लुका इलीक",
+              "ru": "Лука Илић"
+            },
+            "shortNameTranslation": {
+              "ar": "ل. إيليتش",
+              "bn": "এল. ইলিক",
+              "hi": "एल. इलीक",
+              "ru": "Л. Илић"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Oviedo",
+          "slug": "real-oviedo",
+          "shortName": "Real Oviedo",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 98974,
+          "nameCode": "OVI",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2851,
+          "teamColors": {
+            "primary": "#3300ff",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال اوفيدو",
+              "hi": "रियल ओविएडो",
+              "ru": "Реал Овьедо"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 9,
+          "accuratePass": 6,
+          "totalLongBalls": 1,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 3,
+          "totalOwnHalfPasses": 3,
+          "accurateOppositionHalfPasses": 3,
+          "totalOppositionHalfPasses": 6,
+          "duelWon": 2,
+          "totalContest": 1,
+          "wonContest": 1,
+          "outfielderBlock": 1,
+          "ballRecovery": 1,
+          "totalTackle": 1,
+          "wonTackle": 1,
+          "minutesPlayed": 27,
+          "touches": 14,
+          "rating": 6.6,
+          "possessionLostCtrl": 3,
+          "expectedAssists": 0.00107918,
+          "topSpeed": 29.24,
+          "kilometersCovered": 3.09,
+          "numberOfSprints": 6,
+          "totalBallCarriesDistance": 9.5656261687356,
+          "ballCarriesCount": 1,
+          "totalProgression": 1.1075453987748,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 6.6,
+            "alternative": 6.7
+          },
+          "totalShots": 0,
+          "passValueNormalized": -0.11,
+          "dribbleValueNormalized": 0.02,
+          "defensiveValueNormalized": -0.04,
+          "metersCoveredRunningKm": 0.46,
+          "metersCoveredHighSpeedRunningKm": 0.12,
+          "metersCoveredSprintingKm": 0.11,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

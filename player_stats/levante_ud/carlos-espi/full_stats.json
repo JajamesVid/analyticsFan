@@ -5439,235 +5439,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Betis",
-        "abreviatura": "BET",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/4.png"
-      },
-      "visitante": {
-        "nombre": "Levante",
-        "abreviatura": "LEV",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/10.png"
-      }
-    },
-    "resultado": "2-1",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20449-betis-levante",
-    "puntuaciones": {
-      "picas": 2,
-      "marca": 2,
-      "cope": 7.0,
-      "sofascore": 7.4,
-      "relevo": 2.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 9.0,
-        "futbolfantasy-rpg": 19.0,
-        "comunio": 10.0,
-        "modo-picas": 9.0,
-        "biwenger-sofascore": 10.0,
-        "biwenger-social": 11.0,
-        "biwenger-as-sofascore": 10.0,
-        "biwenger-stats": 9.0,
-        "futmondo-prensa": 10.0,
-        "futmondo-mixto-as": 9.0,
-        "futmondo-stats": 16.0,
-        "futmondo-mixto": 12.2,
-        "cronistas-marca": 9.0,
-        "marca-mixto": 9.0,
-        "marca-sofascore": 10.0,
-        "mister-cronistas-md": 9.0,
-        "mister-mixto": 9.0,
-        "mister-mixto-2": 10.0,
-        "mister-sofascore": 10.0,
-        "stat-goles": 1.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 2.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 2.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 0.0,
-        "stat-regates-exito": 0.0,
-        "stat-faltas-recibidas": 2.0,
-        "stat-faltas-cometidas": 1.0,
-        "stat-pases-interceptados": 3.0,
-        "stat-balones-robados": 0.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 0.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 2.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 0.0,
-        "stat-despejes": 0.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 1.0,
-        "stat-posesiones-perdidas": 5.0,
-        "stat-tiros-totales": 5.0,
-        "stat-centros-totales": 0.0,
-        "stat-precision-pases": 90.9,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 0.0,
-        "stat-tackles": 0.0,
-        "stat-duelos-aereos": 1.0,
-        "stat-tiros-bloqueados": 0.0,
-        "stat-pases-totales": 11.0,
-        "stat-pases-completados": 10.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083710,
-      "match_info": {
-        "homeTeam": {
-          "name": "Real Betis",
-          "shortName": "Real Betis",
-          "color": "#ffffff",
-          "score": 2
-        },
-        "awayTeam": {
-          "name": "Levante UD",
-          "shortName": "Levante",
-          "color": "#0e3b68",
-          "score": 1
-        },
-        "startTimestamp": 1779562800,
-        "slug": "levante-ud-real-betis",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Carlos Espí",
-          "slug": "espi-carlos",
-          "shortName": "C. Espí",
-          "position": "F",
-          "jerseyNumber": "19",
-          "height": 194,
-          "userCount": 2067,
-          "gender": "M",
-          "id": 1649918,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 1122163200,
-          "proposedMarketValueRaw": {
-            "value": 22000000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "كارلوس إسبين",
-              "ru": "Карлос Эспи"
-            },
-            "shortNameTranslation": {
-              "ar": "ك. إسبين",
-              "ru": "К. Эспи"
-            }
-          }
-        },
-        "team": {
-          "name": "Levante UD",
-          "slug": "levante-ud",
-          "shortName": "Levante",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 116374,
-          "nameCode": "LEV",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2849,
-          "teamColors": {
-            "primary": "#0e3b68",
-            "secondary": "#d70000",
-            "text": "#d70000"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ليفانتي يو دي",
-              "hi": "लेवांटे यूडी",
-              "ru": "Леванте"
-            },
-            "shortNameTranslation": {
-              "ar": "ليفانتي",
-              "bn": "লেভান্তে",
-              "hi": "लेवांते"
-            }
-          }
-        },
-        "statistics": {
-          "totalPass": 12,
-          "accuratePass": 12,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 5,
-          "totalOwnHalfPasses": 5,
-          "accurateOppositionHalfPasses": 7,
-          "totalOppositionHalfPasses": 7,
-          "aerialWon": 1,
-          "duelLost": 1,
-          "duelWon": 3,
-          "challengeLost": 1,
-          "bigChanceMissed": 1,
-          "shotOffTarget": 2,
-          "onTargetScoringAttempt": 2,
-          "blockedScoringAttempt": 1,
-          "goals": 1,
-          "interceptionWon": 3,
-          "ballRecovery": 4,
-          "unsuccessfulTouch": 5,
-          "wasFouled": 2,
-          "fouls": 1,
-          "minutesPlayed": 90,
-          "touches": 27,
-          "rating": 7.4,
-          "possessionLostCtrl": 5,
-          "expectedGoals": 1.3371,
-          "expectedGoalsOnTarget": 1.392,
-          "expectedAssists": 0.0756843,
-          "totalBallCarriesDistance": 21.254409780145,
-          "ballCarriesCount": 4,
-          "totalProgression": 6.7073409739992,
-          "progressiveBallCarriesCount": 0,
-          "ratingVersions": {
-            "original": 7.4,
-            "alternative": 7.3
-          },
-          "totalShots": 5,
-          "shotValueNormalized": 0.35,
-          "passValueNormalized": -0.03,
-          "dribbleValueNormalized": 0.25,
-          "defensiveValueNormalized": -0.03,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "F",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Alavés",
         "abreviatura": "ALA",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
@@ -6672,6 +6443,241 @@
         },
         "statistics": {
           "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Betis",
+        "abreviatura": "BET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/4.png"
+      },
+      "visitante": {
+        "nombre": "Levante",
+        "abreviatura": "LEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/10.png"
+      }
+    },
+    "resultado": "2-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20449-betis-levante",
+    "puntuaciones": {
+      "picas": 2,
+      "marca": 2,
+      "cope": 7.0,
+      "sofascore": 7.4,
+      "relevo": 2.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 9.0,
+        "futbolfantasy-rpg": 19.0,
+        "comunio": 10.0,
+        "modo-picas": 9.0,
+        "biwenger-sofascore": 10.0,
+        "biwenger-social": 11.0,
+        "biwenger-as-sofascore": 10.0,
+        "biwenger-stats": 9.0,
+        "futmondo-prensa": 10.0,
+        "futmondo-mixto-as": 9.0,
+        "futmondo-stats": 16.0,
+        "futmondo-mixto": 12.2,
+        "cronistas-marca": 9.0,
+        "marca-mixto": 9.0,
+        "marca-sofascore": 10.0,
+        "mister-cronistas-md": 9.0,
+        "mister-mixto": 9.0,
+        "mister-mixto-2": 10.0,
+        "mister-sofascore": 10.0,
+        "stat-goles": 1.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 2.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 2.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 2.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 3.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 2.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 1.0,
+        "stat-posesiones-perdidas": 0.0,
+        "stat-tiros-totales": 5.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 90.9,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 11.0,
+        "stat-pases-completados": 10.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083710,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Betis",
+          "shortName": "Real Betis",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Levante UD",
+          "shortName": "Levante",
+          "color": "#0e3b68",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "levante-ud-real-betis"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Carlos Espí",
+          "slug": "espi-carlos",
+          "shortName": "C. Espí",
+          "position": "F",
+          "jerseyNumber": "40",
+          "height": 194,
+          "userCount": 19937,
+          "gender": "M",
+          "sofascoreId": "p958f6",
+          "id": 1649918,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1122163200,
+          "proposedMarketValueRaw": {
+            "value": 22000000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كارلوس إسبين",
+              "ru": "Карлос Эспи"
+            },
+            "shortNameTranslation": {
+              "ar": "ك. إسبين",
+              "ru": "К. Эспи"
+            }
+          }
+        },
+        "team": {
+          "name": "Levante UD",
+          "slug": "levante-ud",
+          "shortName": "Levante",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 117899,
+          "nameCode": "LEV",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2849,
+          "teamColors": {
+            "primary": "#0e3b68",
+            "secondary": "#d70000",
+            "text": "#d70000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ليفانتي",
+              "hi": "लेवांटे यूडी",
+              "ru": "Леванте"
+            },
+            "shortNameTranslation": {
+              "ar": "ليفانتي",
+              "bn": "লেভান্তে",
+              "hi": "लेवांते"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 12,
+          "accuratePass": 12,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 5,
+          "totalOwnHalfPasses": 5,
+          "accurateOppositionHalfPasses": 7,
+          "totalOppositionHalfPasses": 7,
+          "aerialWon": 1,
+          "duelLost": 1,
+          "duelWon": 3,
+          "challengeLost": 1,
+          "bigChanceMissed": 1,
+          "shotOffTarget": 2,
+          "onTargetScoringAttempt": 2,
+          "blockedScoringAttempt": 1,
+          "goals": 1,
+          "interceptionWon": 3,
+          "ballRecovery": 4,
+          "unsuccessfulTouch": 5,
+          "wasFouled": 2,
+          "fouls": 1,
+          "minutesPlayed": 90,
+          "touches": 27,
+          "rating": 7.4,
+          "possessionLostCtrl": 5,
+          "expectedGoals": 1.3371,
+          "expectedGoalsOnTarget": 1.392,
+          "expectedAssists": 0.0756843,
+          "topSpeed": 32.3,
+          "kilometersCovered": 9.78,
+          "numberOfSprints": 21,
+          "totalBallCarriesDistance": 21.254409780145,
+          "ballCarriesCount": 4,
+          "totalProgression": 6.7073409739992,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 7.4,
+            "alternative": 7.3
+          },
+          "totalShots": 5,
+          "shotValueNormalized": 0.35,
+          "passValueNormalized": -0.03,
+          "dribbleValueNormalized": 0.25,
+          "defensiveValueNormalized": -0.03,
+          "metersCoveredRunningKm": 1.26,
+          "metersCoveredHighSpeedRunningKm": 0.58,
+          "metersCoveredSprintingKm": 0.31,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

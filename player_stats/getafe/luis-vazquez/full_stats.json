@@ -3780,8 +3780,7 @@
           "score": 0
         },
         "startTimestamp": 1779562800,
-        "slug": "getafe-osasuna",
-        "fecha_normalizada": "2026-05-23"
+        "slug": "getafe-osasuna"
       },
       "player_stats": {
         "player": {
@@ -3789,10 +3788,11 @@
           "slug": "luis-vazquez",
           "shortName": "L. Vázquez",
           "position": "F",
-          "jerseyNumber": "19",
+          "jerseyNumber": "32",
           "height": 191,
-          "userCount": 1947,
+          "userCount": 1993,
           "gender": "M",
+          "sofascoreId": "b77uhi",
           "id": 974713,
           "marketValueCurrency": "EUR",
           "dateOfBirthTimestamp": 988070400,
@@ -3821,7 +3821,7 @@
             "slug": "football",
             "id": 1
           },
-          "userCount": 199398,
+          "userCount": 203865,
           "nameCode": "GET",
           "disabled": false,
           "national": false,
@@ -3867,6 +3867,9 @@
           "possessionLostCtrl": 17,
           "expectedGoals": 0.0977,
           "expectedAssists": 0.0234738,
+          "topSpeed": 31.56,
+          "kilometersCovered": 8.84,
+          "numberOfSprints": 15,
           "totalBallCarriesDistance": 88.279472784896,
           "ballCarriesCount": 9,
           "totalProgression": -6.1825322911827,
@@ -3883,6 +3886,9 @@
           "passValueNormalized": 0.1,
           "dribbleValueNormalized": 0.08,
           "defensiveValueNormalized": 0.13,
+          "metersCoveredRunningKm": 1.08,
+          "metersCoveredHighSpeedRunningKm": 0.44,
+          "metersCoveredSprintingKm": 0.2,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

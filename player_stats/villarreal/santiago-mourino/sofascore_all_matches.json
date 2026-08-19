@@ -3625,142 +3625,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Santiago Mouriño",
-        "firstName": "",
-        "lastName": "",
-        "slug": "santiago-mourino",
-        "shortName": "S. Mouriño",
-        "position": "D",
-        "jerseyNumber": "15",
-        "height": 186,
-        "userCount": 2839,
-        "gender": "M",
-        "id": 1468046,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1013558400,
-        "proposedMarketValueRaw": {
-          "value": 19400000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "سانتياغو مورينو",
-            "bn": "সান্তিয়াগো মরিনহো",
-            "hi": "सैंटियागो मोरिनो",
-            "ru": "Сантяго Муриño"
-          },
-          "shortNameTranslation": {
-            "ar": "س. مورينو",
-            "bn": "এস. মরিনহো",
-            "hi": "एस. मोरिनो",
-            "ru": "С. Муриño"
-          }
-        }
-      },
-      "team": {
-        "name": "Villarreal",
-        "slug": "villarreal",
-        "shortName": "Villarreal",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 461754,
-        "nameCode": "VIL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2819,
-        "teamColors": {
-          "primary": "#ffff00",
-          "secondary": "#013765",
-          "text": "#013765"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فياريال",
-            "bn": "ভিলারিয়াল",
-            "hi": "विल्लारियल",
-            "ru": "Вильярреал"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 75,
-        "accuratePass": 67,
-        "totalLongBalls": 7,
-        "accurateLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 41,
-        "totalOwnHalfPasses": 43,
-        "accurateOppositionHalfPasses": 26,
-        "totalOppositionHalfPasses": 32,
-        "aerialWon": 2,
-        "duelLost": 2,
-        "duelWon": 7,
-        "dispossessed": 1,
-        "totalContest": 1,
-        "wonContest": 1,
-        "totalClearance": 6,
-        "interceptionWon": 2,
-        "ballRecovery": 7,
-        "totalTackle": 2,
-        "wonTackle": 1,
-        "unsuccessfulTouch": 2,
-        "wasFouled": 2,
-        "fouls": 1,
-        "minutesPlayed": 90,
-        "touches": 101,
-        "rating": 7.6,
-        "possessionLostCtrl": 12,
-        "expectedAssists": 0.0155055,
-        "totalBallCarriesDistance": 182.675341857,
-        "ballCarriesCount": 19,
-        "totalProgression": 83.312149946784,
-        "bestBallCarryProgression": 27.595496674935,
-        "totalProgressiveBallCarriesDistance": 30.882654613877,
-        "progressiveBallCarriesCount": 1,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 7.6,
-          "alternative": 7.2
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.35,
-        "dribbleValueNormalized": 0.14,
-        "defensiveValueNormalized": 0.52,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437770": {
     "id": 12437770,
     "match_info": {
@@ -16414,6 +16278,149 @@
       },
       "statistics": {
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Santiago Mouriño",
+        "firstName": "",
+        "lastName": "",
+        "slug": "santiago-mourino",
+        "shortName": "S. Mouriño",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 186,
+        "userCount": 2871,
+        "gender": "M",
+        "sofascoreId": "wr4x95",
+        "id": 1468046,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1013558400,
+        "proposedMarketValueRaw": {
+          "value": 19400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سانتياغو مورينو",
+            "bn": "সান্তিয়াগো মরিনহো",
+            "hi": "सैंटियागो मोरिनो",
+            "ru": "Сантяго Муриño"
+          },
+          "shortNameTranslation": {
+            "ar": "س. مورينو",
+            "bn": "এস. মরিনহো",
+            "hi": "एस. मोरिनो",
+            "ru": "С. Муриño"
+          }
+        }
+      },
+      "team": {
+        "name": "Villarreal",
+        "slug": "villarreal",
+        "shortName": "Villarreal",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 465801,
+        "nameCode": "VIL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2819,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#013765",
+          "text": "#013765"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فياريال",
+            "bn": "ভিলারিয়াল",
+            "hi": "विल्लारियल",
+            "ru": "Вильярреал"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 75,
+        "accuratePass": 67,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 41,
+        "totalOwnHalfPasses": 43,
+        "accurateOppositionHalfPasses": 26,
+        "totalOppositionHalfPasses": 32,
+        "aerialWon": 2,
+        "duelLost": 2,
+        "duelWon": 7,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalClearance": 6,
+        "interceptionWon": 2,
+        "ballRecovery": 7,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 2,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 101,
+        "rating": 7.6,
+        "possessionLostCtrl": 12,
+        "expectedAssists": 0.0155055,
+        "topSpeed": 33.78,
+        "kilometersCovered": 9.19,
+        "numberOfSprints": 8,
+        "totalBallCarriesDistance": 182.675341857,
+        "ballCarriesCount": 19,
+        "totalProgression": 83.312149946784,
+        "bestBallCarryProgression": 27.595496674935,
+        "totalProgressiveBallCarriesDistance": 30.882654613877,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.6,
+          "alternative": 7.2
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.35,
+        "dribbleValueNormalized": 0.14,
+        "defensiveValueNormalized": 0.52,
+        "metersCoveredRunningKm": 0.98,
+        "metersCoveredHighSpeedRunningKm": 0.29,
+        "metersCoveredSprintingKm": 0.18,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

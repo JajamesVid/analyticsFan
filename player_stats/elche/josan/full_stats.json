@@ -4605,129 +4605,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Girona",
-        "abreviatura": "GIR",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/30.png"
-      },
-      "visitante": {
-        "nombre": "Elche",
-        "abreviatura": "ELC",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
-      }
-    },
-    "resultado": "1-1",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20447-girona-elche",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083743,
-      "match_info": {
-        "homeTeam": {
-          "name": "Girona FC",
-          "shortName": "Girona",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Elche",
-          "shortName": "Elche",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "startTimestamp": 1779562800,
-        "slug": "girona-fc-elche",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Josan",
-          "firstName": "Jose Antonio",
-          "lastName": "Josan",
-          "slug": "josan",
-          "shortName": "Josan",
-          "position": "M",
-          "jerseyNumber": "17",
-          "height": 175,
-          "userCount": 173,
-          "gender": "M",
-          "sofascoreId": "ihr2ne",
-          "id": 808955,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 628646400,
-          "proposedMarketValueRaw": {
-            "value": 105000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "جوسان",
-              "bn": "জোসান",
-              "hi": "जोसन",
-              "ru": "Йосан"
-            },
-            "shortNameTranslation": {
-              "ar": "جوسان",
-              "bn": "জোসান",
-              "hi": "जोसन",
-              "ru": "Йосан"
-            }
-          }
-        },
-        "team": {
-          "name": "Elche",
-          "slug": "elche",
-          "shortName": "Elche",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 116534,
-          "nameCode": "ELC",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2846,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#336600",
-            "text": "#336600"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "إلتشي",
-              "bn": "এলচে",
-              "hi": "एल्चे",
-              "ru": "Эльче"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "M",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Atlético",
         "abreviatura": "ATM",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
@@ -12482,6 +12359,127 @@
           "expectedGoalsOnTarget": 0.574,
           "expectedAssists": 0.00928277,
           "totalShots": 1,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Girona",
+        "abreviatura": "GIR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/30.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20447-girona-elche",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083743,
+      "match_info": {
+        "homeTeam": {
+          "name": "Girona FC",
+          "shortName": "Girona",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "girona-fc-elche"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Josan",
+          "firstName": "Jose Antonio",
+          "lastName": "Josan",
+          "slug": "josan",
+          "shortName": "Josan",
+          "position": "M",
+          "height": 175,
+          "userCount": 170,
+          "gender": "M",
+          "sofascoreId": "ihr2ne",
+          "id": 808955,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 628646400,
+          "proposedMarketValueRaw": {
+            "value": 105000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جوسان",
+              "bn": "জোসান",
+              "hi": "जोसन",
+              "ru": "Йосан"
+            },
+            "shortNameTranslation": {
+              "ar": "جوسان",
+              "bn": "জোসান",
+              "hi": "जोसन",
+              "ru": "Йосан"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 118908,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

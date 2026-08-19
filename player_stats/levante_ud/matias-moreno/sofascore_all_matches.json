@@ -3450,136 +3450,6 @@
       "extra": null
     }
   },
-  "14083710": {
-    "id": 14083710,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Betis",
-        "shortName": "Real Betis",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "awayTeam": {
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "color": "#0e3b68",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "levante-ud-real-betis"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Matias Moreno",
-        "firstName": "Matias Moreno",
-        "lastName": "",
-        "slug": "matias-moreno",
-        "shortName": "M. Moreno",
-        "position": "D",
-        "jerseyNumber": "2",
-        "height": 195,
-        "userCount": 1537,
-        "gender": "M",
-        "id": 1496360,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1064361600,
-        "proposedMarketValueRaw": {
-          "value": 5800000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ماتياس مورينو",
-            "ru": "Матяс Морено"
-          },
-          "shortNameTranslation": {
-            "ar": "م. مورينو",
-            "ru": "М. Морено"
-          }
-        }
-      },
-      "team": {
-        "name": "Levante UD",
-        "slug": "levante-ud",
-        "shortName": "Levante",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 116374,
-        "nameCode": "LEV",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2849,
-        "teamColors": {
-          "primary": "#0e3b68",
-          "secondary": "#d70000",
-          "text": "#d70000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ليفانتي يو دي",
-            "hi": "लेवांटे यूडी",
-            "ru": "Леванте"
-          },
-          "shortNameTranslation": {
-            "ar": "ليفانتي",
-            "bn": "লেভান্তে",
-            "hi": "लेवांते"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 41,
-        "accuratePass": 38,
-        "totalLongBalls": 2,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 26,
-        "totalOwnHalfPasses": 26,
-        "accurateOppositionHalfPasses": 12,
-        "totalOppositionHalfPasses": 15,
-        "aerialLost": 2,
-        "aerialWon": 1,
-        "duelLost": 3,
-        "duelWon": 1,
-        "dispossessed": 1,
-        "totalClearance": 1,
-        "outfielderBlock": 1,
-        "interceptionWon": 4,
-        "ballRecovery": 4,
-        "unsuccessfulTouch": 2,
-        "minutesPlayed": 90,
-        "touches": 53,
-        "rating": 6.2,
-        "possessionLostCtrl": 6,
-        "expectedAssists": 0.00288659,
-        "totalBallCarriesDistance": 285.20479284446,
-        "ballCarriesCount": 18,
-        "totalProgression": 156.04485755347,
-        "bestBallCarryProgression": 25.48692797122,
-        "totalProgressiveBallCarriesDistance": 127.97218980062,
-        "progressiveBallCarriesCount": 5,
-        "ratingVersions": {
-          "original": 6.2,
-          "alternative": 6.7
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.04,
-        "dribbleValueNormalized": 0.13,
-        "defensiveValueNormalized": -0.27,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12504416": {
     "id": 12504416,
     "match_info": {
@@ -13457,6 +13327,143 @@
           "alternative": 7.1
         },
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083710": {
+    "id": 14083710,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "levante-ud-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Matias Moreno",
+        "firstName": "Matias Moreno",
+        "lastName": "",
+        "slug": "matias-moreno",
+        "shortName": "M. Moreno",
+        "position": "D",
+        "jerseyNumber": "2",
+        "height": 195,
+        "userCount": 1612,
+        "gender": "M",
+        "sofascoreId": "ek73j9",
+        "id": 1496360,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1064361600,
+        "proposedMarketValueRaw": {
+          "value": 5800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماتياس مورينو",
+            "ru": "Матяс Морено"
+          },
+          "shortNameTranslation": {
+            "ar": "م. مورينو",
+            "ru": "М. Морено"
+          }
+        }
+      },
+      "team": {
+        "name": "Levante UD",
+        "slug": "levante-ud",
+        "shortName": "Levante",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 117899,
+        "nameCode": "LEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2849,
+        "teamColors": {
+          "primary": "#0e3b68",
+          "secondary": "#d70000",
+          "text": "#d70000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفانتي",
+            "hi": "लेवांटे यूडी",
+            "ru": "Леванте"
+          },
+          "shortNameTranslation": {
+            "ar": "ليفانتي",
+            "bn": "লেভান্তে",
+            "hi": "लेवांते"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 41,
+        "accuratePass": 38,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 26,
+        "totalOwnHalfPasses": 26,
+        "accurateOppositionHalfPasses": 12,
+        "totalOppositionHalfPasses": 15,
+        "aerialLost": 2,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 1,
+        "dispossessed": 1,
+        "totalClearance": 1,
+        "outfielderBlock": 1,
+        "interceptionWon": 4,
+        "ballRecovery": 4,
+        "unsuccessfulTouch": 2,
+        "minutesPlayed": 90,
+        "touches": 53,
+        "rating": 6.2,
+        "possessionLostCtrl": 6,
+        "expectedAssists": 0.00288659,
+        "topSpeed": 32.71,
+        "kilometersCovered": 9.31,
+        "numberOfSprints": 7,
+        "totalBallCarriesDistance": 285.20479284446,
+        "ballCarriesCount": 18,
+        "totalProgression": 156.04485755347,
+        "bestBallCarryProgression": 25.48692797122,
+        "totalProgressiveBallCarriesDistance": 127.97218980062,
+        "progressiveBallCarriesCount": 5,
+        "ratingVersions": {
+          "original": 6.2,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.04,
+        "dribbleValueNormalized": 0.13,
+        "defensiveValueNormalized": -0.27,
+        "metersCoveredRunningKm": 1.12,
+        "metersCoveredHighSpeedRunningKm": 0.48,
+        "metersCoveredSprintingKm": 0.14,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

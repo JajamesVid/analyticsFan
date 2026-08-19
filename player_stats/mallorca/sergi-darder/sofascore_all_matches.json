@@ -4000,153 +4000,6 @@
       "extra": null
     }
   },
-  "14083727": {
-    "id": 14083727,
-    "match_info": {
-      "homeTeam": {
-        "name": "Mallorca",
-        "shortName": "Mallorca",
-        "color": "#cc0000",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "Real Oviedo",
-        "shortName": "Real Oviedo",
-        "color": "#3300ff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-oviedo-mallorca"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Sergi Darder",
-        "firstName": "Sergi",
-        "lastName": "Darder",
-        "slug": "sergi-darder",
-        "shortName": "S. Darder",
-        "position": "M",
-        "jerseyNumber": "10",
-        "height": 180,
-        "userCount": 1116,
-        "gender": "M",
-        "sofascoreId": "h8pmbc",
-        "id": 110783,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 756518400,
-        "proposedMarketValueRaw": {
-          "value": 2800000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "سيرجي داردر",
-            "bn": "সের্গি ডার্ডার",
-            "hi": "सर्जी डार्डर",
-            "ru": "Серги Дардер"
-          },
-          "shortNameTranslation": {
-            "ar": "س. داردر",
-            "bn": "এস. ডার্ডার",
-            "hi": "एस. डार्डर",
-            "ru": "С. Дардер"
-          }
-        }
-      },
-      "team": {
-        "name": "Mallorca",
-        "slug": "mallorca",
-        "shortName": "Mallorca",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 201002,
-        "nameCode": "MLL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2826,
-        "teamColors": {
-          "primary": "#cc0000",
-          "secondary": "#000000",
-          "text": "#000000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "مايوركا",
-            "bn": "ম্যালোর্কা",
-            "hi": "मल्लोर्का",
-            "ru": "Мальорка"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 54,
-        "accuratePass": 48,
-        "totalLongBalls": 6,
-        "accurateLongBalls": 4,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 16,
-        "totalOwnHalfPasses": 16,
-        "accurateOppositionHalfPasses": 32,
-        "totalOppositionHalfPasses": 38,
-        "totalCross": 4,
-        "accurateCross": 1,
-        "aerialWon": 1,
-        "duelLost": 4,
-        "duelWon": 5,
-        "challengeLost": 1,
-        "dispossessed": 1,
-        "totalContest": 1,
-        "bigChanceCreated": 1,
-        "blockedScoringAttempt": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 6,
-        "totalTackle": 3,
-        "wonTackle": 1,
-        "wasFouled": 1,
-        "fouls": 1,
-        "minutesPlayed": 90,
-        "touches": 68,
-        "rating": 7.8,
-        "possessionLostCtrl": 11,
-        "expectedGoals": 0.0169,
-        "expectedAssists": 0.145847,
-        "topSpeed": 28.72,
-        "kilometersCovered": 9.23,
-        "numberOfSprints": 6,
-        "totalBallCarriesDistance": 175.54666834094,
-        "ballCarriesCount": 23,
-        "totalProgression": 73.660308597438,
-        "bestBallCarryProgression": 28.895174664623,
-        "totalProgressiveBallCarriesDistance": 46.048008824302,
-        "progressiveBallCarriesCount": 2,
-        "keyPass": 2,
-        "ratingVersions": {
-          "original": 7.8,
-          "alternative": 7.4
-        },
-        "totalShots": 1,
-        "shotValueNormalized": 0,
-        "passValueNormalized": 0.55,
-        "dribbleValueNormalized": 0.32,
-        "defensiveValueNormalized": -0.04,
-        "metersCoveredRunningKm": 1.33,
-        "metersCoveredHighSpeedRunningKm": 0.41,
-        "metersCoveredSprintingKm": 0.12,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12437872": {
     "id": 12437872,
     "match_info": {
@@ -25342,6 +25195,153 @@
         "rating": 7.4,
         "possessionLostCtrl": 16,
         "totalShots": 3,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083727": {
+    "id": 14083727,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-oviedo-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Sergi Darder",
+        "firstName": "Sergi",
+        "lastName": "Darder",
+        "slug": "sergi-darder",
+        "shortName": "S. Darder",
+        "position": "M",
+        "jerseyNumber": "10",
+        "height": 180,
+        "userCount": 1096,
+        "gender": "M",
+        "sofascoreId": "h8pmbc",
+        "id": 110783,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 756518400,
+        "proposedMarketValueRaw": {
+          "value": 2800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيرجي داردر",
+            "bn": "সের্গি ডার্ডার",
+            "hi": "सर्जी डार्डर",
+            "ru": "Серги Дардер"
+          },
+          "shortNameTranslation": {
+            "ar": "س. داردر",
+            "bn": "এস. ডার্ডার",
+            "hi": "एस. डार्डर",
+            "ru": "С. Дардер"
+          }
+        }
+      },
+      "team": {
+        "name": "Mallorca",
+        "slug": "mallorca",
+        "shortName": "Mallorca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202209,
+        "nameCode": "MLL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2826,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مايوركا",
+            "bn": "ম্যালোর্কা",
+            "hi": "मल्लोर्का",
+            "ru": "Мальорка"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 54,
+        "accuratePass": 48,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 16,
+        "totalOwnHalfPasses": 16,
+        "accurateOppositionHalfPasses": 32,
+        "totalOppositionHalfPasses": 38,
+        "totalCross": 4,
+        "accurateCross": 1,
+        "aerialWon": 1,
+        "duelLost": 4,
+        "duelWon": 5,
+        "challengeLost": 1,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "bigChanceCreated": 1,
+        "blockedScoringAttempt": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 6,
+        "totalTackle": 3,
+        "wonTackle": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 68,
+        "rating": 7.8,
+        "possessionLostCtrl": 11,
+        "expectedGoals": 0.0169,
+        "expectedAssists": 0.145847,
+        "topSpeed": 28.72,
+        "kilometersCovered": 9.23,
+        "numberOfSprints": 6,
+        "totalBallCarriesDistance": 175.54666834094,
+        "ballCarriesCount": 23,
+        "totalProgression": 73.660308597438,
+        "bestBallCarryProgression": 28.895174664623,
+        "totalProgressiveBallCarriesDistance": 46.048008824302,
+        "progressiveBallCarriesCount": 2,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 7.8,
+          "alternative": 7.4
+        },
+        "totalShots": 1,
+        "shotValueNormalized": 0,
+        "passValueNormalized": 0.55,
+        "dribbleValueNormalized": 0.32,
+        "defensiveValueNormalized": -0.04,
+        "metersCoveredRunningKm": 1.33,
+        "metersCoveredHighSpeedRunningKm": 0.41,
+        "metersCoveredSprintingKm": 0.12,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

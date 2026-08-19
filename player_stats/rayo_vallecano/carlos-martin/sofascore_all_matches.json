@@ -3068,131 +3068,6 @@
       "extra": null
     }
   },
-  "14083706": {
-    "id": 14083706,
-    "match_info": {
-      "homeTeam": {
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "color": "#0232a0",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Rayo Vallecano",
-        "shortName": "Rayo Vallecano",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "deportivo-alaves-rayo-vallecano"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Carlos Martín",
-        "firstName": "Carlos Martín",
-        "slug": "carlos-martin",
-        "shortName": "C. Martín",
-        "position": "F",
-        "jerseyNumber": "14",
-        "height": 182,
-        "userCount": 1219,
-        "gender": "M",
-        "id": 1131581,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1019433600,
-        "proposedMarketValueRaw": {
-          "value": 1500000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "كارلوس مارتين",
-            "bn": "কার্লোস মার্টিন",
-            "hi": "कार्लोस मार्टिन",
-            "ru": "Карлос Мартин"
-          },
-          "shortNameTranslation": {
-            "ar": "ك. مارتين",
-            "bn": "সি. মার্টিন",
-            "hi": "सी. मार्टिन",
-            "ru": "К. Мартин"
-          }
-        }
-      },
-      "team": {
-        "name": "Rayo Vallecano",
-        "slug": "rayo-vallecano",
-        "shortName": "Rayo Vallecano",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 227407,
-        "nameCode": "RAY",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2818,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "رايو فاليكانو",
-            "bn": "রায়ো ভ্যালেকানো",
-            "hi": "रेयो वैलेकैनो",
-            "ru": "Райо Вальекано"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 9,
-        "accuratePass": 7,
-        "totalLongBalls": 1,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 3,
-        "totalOwnHalfPasses": 3,
-        "accurateOppositionHalfPasses": 4,
-        "totalOppositionHalfPasses": 6,
-        "duelLost": 2,
-        "challengeLost": 1,
-        "onTargetScoringAttempt": 1,
-        "fouls": 1,
-        "minutesPlayed": 38,
-        "touches": 12,
-        "rating": 6.3,
-        "possessionLostCtrl": 2,
-        "expectedGoals": 0.0855,
-        "expectedGoalsOnTarget": 0.508,
-        "expectedAssists": 0.00983077,
-        "totalBallCarriesDistance": 39.173486756152,
-        "ballCarriesCount": 3,
-        "totalProgression": -12.946979878127,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.3,
-          "alternative": 6.6
-        },
-        "totalShots": 1,
-        "shotValueNormalized": 0.2,
-        "passValueNormalized": -0.01,
-        "dribbleValueNormalized": 0.01,
-        "defensiveValueNormalized": -0.1,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12437632": {
     "id": 12437632,
     "match_info": {
@@ -18732,6 +18607,138 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083706": {
+    "id": 14083706,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "deportivo-alaves-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Carlos Martín",
+        "firstName": "Carlos Martín",
+        "slug": "carlos-martin",
+        "shortName": "C. Martín",
+        "position": "F",
+        "jerseyNumber": "12",
+        "height": 182,
+        "userCount": 1390,
+        "gender": "M",
+        "sofascoreId": "kmnkpa",
+        "id": 1131581,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1019433600,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارلوس مارتين",
+            "bn": "কার্লোস মার্টিন",
+            "hi": "कार्लोस मार्टिन",
+            "ru": "Карлос Мартин"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. مارتين",
+            "bn": "সি. মার্টিন",
+            "hi": "सी. मार्टिन",
+            "ru": "К. Мартин"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 227211,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 9,
+        "accuratePass": 7,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 6,
+        "duelLost": 2,
+        "challengeLost": 1,
+        "onTargetScoringAttempt": 1,
+        "fouls": 1,
+        "minutesPlayed": 38,
+        "touches": 12,
+        "rating": 6.3,
+        "possessionLostCtrl": 2,
+        "expectedGoals": 0.0855,
+        "expectedGoalsOnTarget": 0.508,
+        "expectedAssists": 0.00983077,
+        "topSpeed": 25.94,
+        "kilometersCovered": 3.73,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 39.173486756152,
+        "ballCarriesCount": 3,
+        "totalProgression": -12.946979878127,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.6
+        },
+        "totalShots": 1,
+        "shotValueNormalized": 0.2,
+        "passValueNormalized": -0.01,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": -0.1,
+        "metersCoveredRunningKm": 0.57,
+        "metersCoveredHighSpeedRunningKm": 0.23,
+        "metersCoveredSprintingKm": 0.02,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
     }
   }
 }

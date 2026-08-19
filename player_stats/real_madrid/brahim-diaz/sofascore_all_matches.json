@@ -3344,127 +3344,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Brahim Díaz",
-        "firstName": "Brahim",
-        "lastName": "Diaz",
-        "slug": "brahim-diaz",
-        "shortName": "B. Díaz",
-        "position": "M",
-        "jerseyNumber": "21",
-        "height": 170,
-        "userCount": 268727,
-        "gender": "M",
-        "sofascoreId": "Brahim",
-        "id": 835485,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 933638400,
-        "proposedMarketValueRaw": {
-          "value": 37000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إبراهيم دياز",
-            "bn": "ব্রাহিম দিয়াজ",
-            "hi": "ब्राहिम डियाज़"
-          },
-          "shortNameTranslation": {
-            "ar": "إ. دياز",
-            "bn": "বি. দিয়াজ",
-            "hi": "बी. डियाज़"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Madrid",
-        "slug": "real-madrid",
-        "shortName": "Real Madrid",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 7733858,
-        "nameCode": "RMA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2829,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#004996",
-          "text": "#004996"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال مدريد",
-            "bn": "রিয়াল মাদ্রিদ",
-            "hi": "रियल मैड्रिड",
-            "ru": "Реал Мадрид"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 4,
-        "accuratePass": 4,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 4,
-        "totalOwnHalfPasses": 4,
-        "onTargetScoringAttempt": 1,
-        "goals": 1,
-        "ballRecovery": 1,
-        "minutesPlayed": 16,
-        "touches": 5,
-        "rating": 7.5,
-        "expectedGoals": 0.7441,
-        "expectedGoalsOnTarget": 0.9117,
-        "expectedAssists": 8.056e-05,
-        "totalBallCarriesDistance": 15.873660294118,
-        "ballCarriesCount": 2,
-        "totalProgression": 1.3605950492537,
-        "bestBallCarryProgression": 7.6552698500685,
-        "totalProgressiveBallCarriesDistance": 7.6936846829072,
-        "progressiveBallCarriesCount": 1,
-        "ratingVersions": {
-          "original": 7.5,
-          "alternative": 7.2
-        },
-        "totalShots": 1,
-        "shotValueNormalized": 0.44,
-        "passValueNormalized": -0.01,
-        "dribbleValueNormalized": 0.36,
-        "defensiveValueNormalized": -0.06,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "16205026": {
     "id": 16205026,
     "match_info": {
@@ -25814,6 +25693,135 @@
         "passValueNormalized": -0.22,
         "dribbleValueNormalized": 0.22,
         "defensiveValueNormalized": 0.14,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Brahim Díaz",
+        "firstName": "Brahim",
+        "lastName": "Diaz",
+        "slug": "brahim-diaz",
+        "shortName": "B. Díaz",
+        "position": "M",
+        "jerseyNumber": "21",
+        "height": 170,
+        "userCount": 296602,
+        "gender": "M",
+        "sofascoreId": "Brahim",
+        "id": 835485,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 933638400,
+        "proposedMarketValueRaw": {
+          "value": 37000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إبراهيم دياز",
+            "bn": "ব্রাহিম দিয়াজ",
+            "hi": "ब्राहिम डियाज़",
+            "ru": "Браим Диас"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. دياز",
+            "bn": "বি. দিয়াজ",
+            "hi": "बी. डियाज़",
+            "ru": "Б. Диас"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Madrid",
+        "slug": "real-madrid",
+        "shortName": "Real Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 8378061,
+        "nameCode": "RMA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2829,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#004996",
+          "text": "#004996"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال مدريد",
+            "bn": "রিয়াল মাদ্রিদ",
+            "hi": "रियल मैड्रिड",
+            "ru": "Реал Мадрид"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 4,
+        "accuratePass": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "onTargetScoringAttempt": 1,
+        "goals": 1,
+        "ballRecovery": 1,
+        "minutesPlayed": 16,
+        "touches": 5,
+        "rating": 7.5,
+        "expectedGoals": 0.7441,
+        "expectedGoalsOnTarget": 0.9117,
+        "expectedAssists": 8.056e-05,
+        "topSpeed": 29.97,
+        "kilometersCovered": 1.96,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 15.873660294118,
+        "ballCarriesCount": 2,
+        "totalProgression": 1.3605950492537,
+        "bestBallCarryProgression": 7.6552698500685,
+        "totalProgressiveBallCarriesDistance": 7.6936846829072,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 7.5,
+          "alternative": 7.2
+        },
+        "totalShots": 1,
+        "shotValueNormalized": 0.44,
+        "passValueNormalized": -0.01,
+        "dribbleValueNormalized": 0.36,
+        "defensiveValueNormalized": -0.06,
+        "metersCoveredRunningKm": 0.37,
+        "metersCoveredHighSpeedRunningKm": 0.1,
+        "metersCoveredSprintingKm": 0.05,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

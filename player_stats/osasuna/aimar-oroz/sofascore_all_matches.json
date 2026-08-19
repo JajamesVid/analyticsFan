@@ -3653,141 +3653,6 @@
       "extra": null
     }
   },
-  "14083723": {
-    "id": 14083723,
-    "match_info": {
-      "homeTeam": {
-        "name": "Getafe",
-        "shortName": "Getafe",
-        "color": "#00369e",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Osasuna",
-        "shortName": "Osasuna",
-        "color": "#cc0000",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "getafe-osasuna"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Aimar Oroz",
-        "firstName": "",
-        "lastName": "",
-        "slug": "aimar-oroz",
-        "shortName": "A. Oroz",
-        "position": "M",
-        "jerseyNumber": "10",
-        "height": 177,
-        "userCount": 1321,
-        "gender": "M",
-        "id": 985329,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1006819200,
-        "proposedMarketValueRaw": {
-          "value": 6900000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أيمار أوروز",
-            "bn": "আইমার ওরোজ",
-            "hi": "ऐमार ओरोज़",
-            "ru": "Аймар Ороз"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. أوروز",
-            "bn": "এ. ওরোজ",
-            "hi": "ए. ओरोज़",
-            "ru": "А. Ороз"
-          }
-        }
-      },
-      "team": {
-        "name": "Osasuna",
-        "slug": "osasuna",
-        "shortName": "Osasuna",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 199411,
-        "nameCode": "OSA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2820,
-        "teamColors": {
-          "primary": "#cc0000",
-          "secondary": "#14213d",
-          "text": "#14213d"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أوساسونا",
-            "bn": "ওসাসুনা",
-            "hi": "ओसासुना",
-            "ru": "Осасуна"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 17,
-        "accuratePass": 10,
-        "totalLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 2,
-        "totalOwnHalfPasses": 5,
-        "accurateOppositionHalfPasses": 8,
-        "totalOppositionHalfPasses": 12,
-        "totalCross": 5,
-        "accurateCross": 3,
-        "aerialLost": 3,
-        "aerialWon": 2,
-        "duelLost": 7,
-        "duelWon": 10,
-        "totalContest": 4,
-        "wonContest": 2,
-        "bigChanceCreated": 1,
-        "totalClearance": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 3,
-        "totalTackle": 1,
-        "unsuccessfulTouch": 2,
-        "wasFouled": 5,
-        "fouls": 2,
-        "minutesPlayed": 82,
-        "touches": 37,
-        "rating": 6.7,
-        "possessionLostCtrl": 13,
-        "expectedAssists": 0.0734789,
-        "totalBallCarriesDistance": 72.200052832996,
-        "ballCarriesCount": 8,
-        "totalProgression": 28.625928428724,
-        "progressiveBallCarriesCount": 0,
-        "keyPass": 2,
-        "ratingVersions": {
-          "original": 6.7,
-          "alternative": 7.3
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.19,
-        "dribbleValueNormalized": 0.31,
-        "defensiveValueNormalized": -0.07,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "13315902": {
     "id": 13315902,
     "match_info": {
@@ -21524,6 +21389,148 @@
         }
       },
       "position": "F",
+      "extra": null
+    }
+  },
+  "14083723": {
+    "id": 14083723,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "getafe-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Aimar Oroz",
+        "firstName": "",
+        "lastName": "",
+        "slug": "aimar-oroz",
+        "shortName": "A. Oroz",
+        "position": "M",
+        "jerseyNumber": "10",
+        "height": 177,
+        "userCount": 1337,
+        "gender": "M",
+        "sofascoreId": "kmvv5g",
+        "id": 985329,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1006819200,
+        "proposedMarketValueRaw": {
+          "value": 6900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أيمار أوروز",
+            "bn": "আইমার ওরোজ",
+            "hi": "ऐमार ओरोज़",
+            "ru": "Аймар Ороз"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. أوروز",
+            "bn": "এ. ওরোজ",
+            "hi": "ए. ओरोज़",
+            "ru": "А. Ороз"
+          }
+        }
+      },
+      "team": {
+        "name": "Osasuna",
+        "slug": "osasuna",
+        "shortName": "Osasuna",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202237,
+        "nameCode": "OSA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2820,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#14213d",
+          "text": "#14213d"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوساسونا",
+            "bn": "ওসাসুনা",
+            "hi": "ओसासुना",
+            "ru": "Осасуна"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 17,
+        "accuratePass": 10,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 12,
+        "totalCross": 5,
+        "accurateCross": 3,
+        "aerialLost": 3,
+        "aerialWon": 2,
+        "duelLost": 7,
+        "duelWon": 10,
+        "totalContest": 4,
+        "wonContest": 2,
+        "bigChanceCreated": 1,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 3,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 5,
+        "fouls": 2,
+        "minutesPlayed": 82,
+        "touches": 37,
+        "rating": 6.7,
+        "possessionLostCtrl": 13,
+        "expectedAssists": 0.0734789,
+        "topSpeed": 30.04,
+        "kilometersCovered": 8.22,
+        "numberOfSprints": 11,
+        "totalBallCarriesDistance": 72.200052832996,
+        "ballCarriesCount": 8,
+        "totalProgression": 28.625928428724,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 7.3
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.19,
+        "dribbleValueNormalized": 0.31,
+        "defensiveValueNormalized": -0.07,
+        "metersCoveredRunningKm": 1.19,
+        "metersCoveredHighSpeedRunningKm": 0.4,
+        "metersCoveredSprintingKm": 0.14,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
       "extra": null
     }
   }

@@ -5981,237 +5981,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Espanyol",
-        "abreviatura": "ESP",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
-      },
-      "visitante": {
-        "nombre": "Real Sociedad",
-        "abreviatura": "RSO",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
-      }
-    },
-    "resultado": "1-1",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20445-espanyol-real-sociedad",
-    "puntuaciones": {
-      "picas": 2,
-      "marca": 1,
-      "cope": 5.0,
-      "sofascore": 7.8,
-      "relevo": 2.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 9.0,
-        "futbolfantasy-rpg": 17.0,
-        "comunio": 12.0,
-        "modo-picas": 9.0,
-        "biwenger-sofascore": 12.0,
-        "biwenger-social": 9.0,
-        "biwenger-as-sofascore": 11.0,
-        "biwenger-stats": 8.0,
-        "futmondo-prensa": 8.0,
-        "futmondo-mixto-as": 9.0,
-        "futmondo-stats": 15.0,
-        "futmondo-mixto": 9.3,
-        "cronistas-marca": 5.0,
-        "marca-mixto": 9.0,
-        "marca-sofascore": 12.0,
-        "mister-cronistas-md": 9.0,
-        "mister-mixto": 9.0,
-        "mister-mixto-2": 10.0,
-        "mister-sofascore": 12.0,
-        "stat-goles": 1.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 2.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 0.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 0.0,
-        "stat-regates-exito": 0.0,
-        "stat-faltas-recibidas": 3.0,
-        "stat-faltas-cometidas": 1.0,
-        "stat-pases-interceptados": 0.0,
-        "stat-balones-robados": 1.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 0.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 1.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 0.0,
-        "stat-despejes": 0.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 1.0,
-        "stat-posesiones-perdidas": 7.0,
-        "stat-tiros-totales": 3.0,
-        "stat-centros-totales": 0.0,
-        "stat-precision-pases": 78.6,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 1.0,
-        "stat-tackles": 1.0,
-        "stat-duelos-aereos": 1.0,
-        "stat-tiros-bloqueados": 0.0,
-        "stat-pases-totales": 14.0,
-        "stat-pases-completados": 11.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083719,
-      "match_info": {
-        "homeTeam": {
-          "name": "Espanyol",
-          "shortName": "Espanyol",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Real Sociedad",
-          "shortName": "Real Sociedad",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-sociedad-espanyol",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Roberto Fernández",
-          "slug": "roberto-fernandez",
-          "shortName": "R. Fernández",
-          "position": "F",
-          "jerseyNumber": "9",
-          "height": 186,
-          "userCount": 2053,
-          "gender": "M",
-          "id": 1392592,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 1025654400,
-          "proposedMarketValueRaw": {
-            "value": 10300000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "روبرتو فرنانديز",
-              "ru": "Роберто Фернандес"
-            },
-            "shortNameTranslation": {
-              "ar": "ر. فرنانديز",
-              "ru": "Р. Фернандес"
-            }
-          }
-        },
-        "team": {
-          "name": "Espanyol",
-          "slug": "espanyol",
-          "shortName": "Espanyol",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 183425,
-          "nameCode": "ESP",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2814,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#1369d2",
-            "text": "#1369d2"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "اسبانيول",
-              "bn": "এসপানিওল",
-              "hi": "एस्पेनयोल",
-              "ru": "Эспаньол"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalPass": 14,
-          "accuratePass": 11,
-          "totalLongBalls": 1,
-          "accurateLongBalls": 1,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 6,
-          "totalOwnHalfPasses": 7,
-          "accurateOppositionHalfPasses": 5,
-          "totalOppositionHalfPasses": 7,
-          "aerialLost": 2,
-          "aerialWon": 1,
-          "duelLost": 3,
-          "duelWon": 5,
-          "challengeLost": 1,
-          "bigChanceMissed": 1,
-          "shotOffTarget": 1,
-          "onTargetScoringAttempt": 2,
-          "goals": 1,
-          "totalTackle": 1,
-          "wonTackle": 1,
-          "unsuccessfulTouch": 3,
-          "wasFouled": 3,
-          "fouls": 1,
-          "totalOffside": 1,
-          "minutesPlayed": 67,
-          "touches": 26,
-          "rating": 7.8,
-          "possessionLostCtrl": 7,
-          "expectedGoals": 1.1713,
-          "expectedGoalsOnTarget": 1.0477,
-          "expectedAssists": 0.00084783,
-          "totalBallCarriesDistance": 39.819778915933,
-          "ballCarriesCount": 6,
-          "totalProgression": -21.586407303965,
-          "bestBallCarryProgression": 2.997687923993,
-          "totalProgressiveBallCarriesDistance": 3.5020406907973,
-          "progressiveBallCarriesCount": 1,
-          "ratingVersions": {
-            "original": 7.8,
-            "alternative": 7.1
-          },
-          "totalShots": 3,
-          "shotValueNormalized": 0.41,
-          "passValueNormalized": -0.13,
-          "dribbleValueNormalized": 0.51,
-          "defensiveValueNormalized": -0.06,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "F",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Celta",
         "abreviatura": "CEL",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
@@ -12494,6 +12263,243 @@
             "alternative": 7.4
           },
           "totalShots": 4,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Espanyol",
+        "abreviatura": "ESP",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
+      },
+      "visitante": {
+        "nombre": "Real Sociedad",
+        "abreviatura": "RSO",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20445-espanyol-real-sociedad",
+    "puntuaciones": {
+      "picas": 2,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 7.8,
+      "relevo": 2.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 9.0,
+        "futbolfantasy-rpg": 17.0,
+        "comunio": 12.0,
+        "modo-picas": 9.0,
+        "biwenger-sofascore": 12.0,
+        "biwenger-social": 9.0,
+        "biwenger-as-sofascore": 11.0,
+        "biwenger-stats": 8.0,
+        "futmondo-prensa": 8.0,
+        "futmondo-mixto-as": 9.0,
+        "futmondo-stats": 15.0,
+        "futmondo-mixto": 9.3,
+        "cronistas-marca": 5.0,
+        "marca-mixto": 9.0,
+        "marca-sofascore": 12.0,
+        "mister-cronistas-md": 9.0,
+        "mister-mixto": 9.0,
+        "mister-mixto-2": 10.0,
+        "mister-sofascore": 12.0,
+        "stat-goles": 1.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 2.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 3.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 1.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 1.0,
+        "stat-posesiones-perdidas": 7.0,
+        "stat-tiros-totales": 3.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 78.6,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 1.0,
+        "stat-tackles": 1.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 14.0,
+        "stat-pases-completados": 11.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083719,
+      "match_info": {
+        "homeTeam": {
+          "name": "Espanyol",
+          "shortName": "Espanyol",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Real Sociedad",
+          "shortName": "Real Sociedad",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-sociedad-espanyol"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Roberto Fernández",
+          "slug": "roberto-fernandez",
+          "shortName": "R. Fernández",
+          "position": "F",
+          "jerseyNumber": "9",
+          "height": 186,
+          "userCount": 2090,
+          "gender": "M",
+          "sofascoreId": "sn28tp",
+          "id": 1392592,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1025654400,
+          "proposedMarketValueRaw": {
+            "value": 10300000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "روبرتو فرنانديز",
+              "ru": "Роберто Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "ر. فرنانديز",
+              "ru": "Р. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Espanyol",
+          "slug": "espanyol",
+          "shortName": "Espanyol",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 184894,
+          "nameCode": "ESP",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2814,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#1369d2",
+            "text": "#1369d2"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "اسبانيول",
+              "bn": "এসপানিওল",
+              "hi": "एस्पेनयोल",
+              "ru": "Эспаньол"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 14,
+          "accuratePass": 11,
+          "totalLongBalls": 1,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 6,
+          "totalOwnHalfPasses": 7,
+          "accurateOppositionHalfPasses": 5,
+          "totalOppositionHalfPasses": 7,
+          "aerialLost": 2,
+          "aerialWon": 1,
+          "duelLost": 3,
+          "duelWon": 5,
+          "challengeLost": 1,
+          "bigChanceMissed": 1,
+          "shotOffTarget": 1,
+          "onTargetScoringAttempt": 2,
+          "goals": 1,
+          "totalTackle": 1,
+          "wonTackle": 1,
+          "unsuccessfulTouch": 3,
+          "wasFouled": 3,
+          "fouls": 1,
+          "totalOffside": 1,
+          "minutesPlayed": 67,
+          "touches": 26,
+          "rating": 7.8,
+          "possessionLostCtrl": 7,
+          "expectedGoals": 1.1713,
+          "expectedGoalsOnTarget": 1.0477,
+          "expectedAssists": 0.00084783,
+          "topSpeed": 31.55,
+          "kilometersCovered": 7.46,
+          "numberOfSprints": 15,
+          "totalBallCarriesDistance": 39.819778915933,
+          "ballCarriesCount": 6,
+          "totalProgression": -21.586407303965,
+          "bestBallCarryProgression": 2.997687923993,
+          "totalProgressiveBallCarriesDistance": 3.5020406907973,
+          "progressiveBallCarriesCount": 1,
+          "ratingVersions": {
+            "original": 7.8,
+            "alternative": 7.1
+          },
+          "totalShots": 3,
+          "shotValueNormalized": 0.41,
+          "passValueNormalized": -0.13,
+          "dribbleValueNormalized": 0.51,
+          "defensiveValueNormalized": -0.06,
+          "metersCoveredRunningKm": 0.98,
+          "metersCoveredHighSpeedRunningKm": 0.4,
+          "metersCoveredSprintingKm": 0.25,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

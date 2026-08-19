@@ -2800,135 +2800,6 @@
       "extra": null
     }
   },
-  "14083719": {
-    "id": 14083719,
-    "match_info": {
-      "homeTeam": {
-        "name": "Espanyol",
-        "shortName": "Espanyol",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Real Sociedad",
-        "shortName": "Real Sociedad",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-sociedad-espanyol"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Unai Marrero",
-        "firstName": "Unai Marrero",
-        "slug": "unai-marrero",
-        "shortName": "U. Marrero",
-        "position": "G",
-        "jerseyNumber": "32",
-        "height": 187,
-        "userCount": 446,
-        "gender": "M",
-        "id": 1094782,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1002585600,
-        "proposedMarketValueRaw": {
-          "value": 1100000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أوناي ماريرو",
-            "bn": "উনাই মারেরো",
-            "hi": "उनाई मरेरो",
-            "ru": "Унай Марреро"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. ماريرو",
-            "bn": "ইউ. মারেরো",
-            "hi": "यू. मरेरो",
-            "ru": "У. Марреро"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Sociedad",
-        "slug": "real-sociedad",
-        "shortName": "Real Sociedad",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 413040,
-        "nameCode": "RSO",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2824,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#0077c7",
-          "text": "#0077c7"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال سوسيداد",
-            "bn": "রিয়াল সোসিয়েদাদ",
-            "hi": "रियल सोसियदाद",
-            "ru": "Реал Сосьедад"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 38,
-        "accuratePass": 21,
-        "totalLongBalls": 28,
-        "accurateLongBalls": 11,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 13,
-        "totalOwnHalfPasses": 21,
-        "accurateOppositionHalfPasses": 8,
-        "totalOppositionHalfPasses": 17,
-        "totalClearance": 1,
-        "ballRecovery": 13,
-        "goodHighClaim": 1,
-        "savedShotsFromInsideTheBox": 6,
-        "saves": 7,
-        "punches": 1,
-        "totalKeeperSweeper": 1,
-        "accurateKeeperSweeper": 1,
-        "minutesPlayed": 90,
-        "touches": 52,
-        "rating": 7.7,
-        "possessionLostCtrl": 17,
-        "expectedAssists": 0.003766,
-        "totalBallCarriesDistance": 16.18965596869,
-        "ballCarriesCount": 4,
-        "totalProgression": 11.265449695185,
-        "progressiveBallCarriesCount": 0,
-        "keeperSaveValue": 0.7616,
-        "ratingVersions": {
-          "original": 7.7,
-          "alternative": 8.1
-        },
-        "totalShots": 0,
-        "goalsPrevented": 0.7581,
-        "passValueNormalized": 0.13,
-        "dribbleValueNormalized": -0.03,
-        "defensiveValueNormalized": -0.12,
-        "goalkeeperValueNormalized": 0.57,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "G",
-      "extra": null
-    }
-  },
   "12437571": {
     "id": 12437571,
     "match_info": {
@@ -16992,6 +16863,136 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083719": {
+    "id": 14083719,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-sociedad-espanyol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Marrero",
+        "firstName": "Unai Marrero",
+        "slug": "unai-marrero",
+        "shortName": "U. Marrero",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 187,
+        "userCount": 458,
+        "gender": "M",
+        "sofascoreId": "p96thv",
+        "id": 1094782,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1002585600,
+        "proposedMarketValueRaw": {
+          "value": 1100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي ماريرو",
+            "bn": "উনাই মারেরো",
+            "hi": "उनाई मरेरो",
+            "ru": "Унай Марреро"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. ماريرو",
+            "bn": "ইউ. মারেরো",
+            "hi": "यू. मरेरो",
+            "ru": "У. Марреро"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 417327,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 38,
+        "accuratePass": 21,
+        "totalLongBalls": 28,
+        "accurateLongBalls": 11,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 13,
+        "totalOwnHalfPasses": 21,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 17,
+        "totalClearance": 1,
+        "ballRecovery": 13,
+        "goodHighClaim": 1,
+        "savedShotsFromInsideTheBox": 6,
+        "saves": 7,
+        "punches": 1,
+        "totalKeeperSweeper": 1,
+        "accurateKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 52,
+        "rating": 7.7,
+        "possessionLostCtrl": 17,
+        "expectedAssists": 0.003766,
+        "totalBallCarriesDistance": 16.18965596869,
+        "ballCarriesCount": 4,
+        "totalProgression": 11.265449695185,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.7616,
+        "ratingVersions": {
+          "original": 7.7,
+          "alternative": 8.1
+        },
+        "totalShots": 0,
+        "goalsPrevented": 0.7581,
+        "passValueNormalized": 0.13,
+        "dribbleValueNormalized": -0.03,
+        "defensiveValueNormalized": -0.12,
+        "goalkeeperValueNormalized": 0.57,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
     }
   }
 }

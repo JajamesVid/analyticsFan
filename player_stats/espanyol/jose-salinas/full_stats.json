@@ -3861,128 +3861,6 @@
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
       },
       "visitante": {
-        "nombre": "Real Sociedad",
-        "abreviatura": "RSO",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
-      }
-    },
-    "resultado": "1-1",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20445-espanyol-real-sociedad",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083719,
-      "match_info": {
-        "homeTeam": {
-          "name": "Espanyol",
-          "shortName": "Espanyol",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Real Sociedad",
-          "shortName": "Real Sociedad",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-sociedad-espanyol",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Jose Salinas",
-          "firstName": "Jose",
-          "lastName": "Salinas",
-          "slug": "jose-salinas",
-          "shortName": "J. Salinas",
-          "position": "D",
-          "jerseyNumber": "12",
-          "height": 178,
-          "userCount": 206,
-          "gender": "M",
-          "id": 1068891,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 970272000,
-          "proposedMarketValueRaw": {
-            "value": 1800000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "خوسيه ساليناس",
-              "bn": "হোসে স্যালিনাস",
-              "hi": "जोस सेलिनास",
-              "ru": "Хосе Салинас"
-            },
-            "shortNameTranslation": {
-              "ar": "خ. ساليناس",
-              "bn": "জে. স্যালিনাস",
-              "hi": "जे. सेलिनास",
-              "ru": "Х. Салинас"
-            }
-          }
-        },
-        "team": {
-          "name": "Espanyol",
-          "slug": "espanyol",
-          "shortName": "Espanyol",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 183240,
-          "nameCode": "ESP",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2814,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#1369d2",
-            "text": "#1369d2"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "اسبانيول",
-              "bn": "এসপানিওল",
-              "hi": "एस्पेनयोल",
-              "ru": "Эспаньол"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "D",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
-        "nombre": "Espanyol",
-        "abreviatura": "ESP",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
-      },
-      "visitante": {
         "nombre": "Atlético",
         "abreviatura": "ATM",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
@@ -5628,6 +5506,128 @@
           "totalShots": 0,
           "passValueNormalized": -0.01,
           "defensiveValueNormalized": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Espanyol",
+        "abreviatura": "ESP",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
+      },
+      "visitante": {
+        "nombre": "Real Sociedad",
+        "abreviatura": "RSO",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20445-espanyol-real-sociedad",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083719,
+      "match_info": {
+        "homeTeam": {
+          "name": "Espanyol",
+          "shortName": "Espanyol",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Real Sociedad",
+          "shortName": "Real Sociedad",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-sociedad-espanyol"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Jose Salinas",
+          "firstName": "Jose",
+          "lastName": "Salinas",
+          "slug": "jose-salinas",
+          "shortName": "J. Salinas",
+          "position": "D",
+          "jerseyNumber": "12",
+          "height": 178,
+          "userCount": 236,
+          "gender": "M",
+          "sofascoreId": "iwrh3x",
+          "id": 1068891,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 970272000,
+          "proposedMarketValueRaw": {
+            "value": 1800000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "خوسيه ساليناس",
+              "bn": "হোসে স্যালিনাস",
+              "hi": "जोस सेलिनास",
+              "ru": "Хосе Салинас"
+            },
+            "shortNameTranslation": {
+              "ar": "خ. ساليناس",
+              "bn": "জে. স্যালিনাস",
+              "hi": "जे. सेलिनास",
+              "ru": "Х. Салинас"
+            }
+          }
+        },
+        "team": {
+          "name": "Espanyol",
+          "slug": "espanyol",
+          "shortName": "Espanyol",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 184894,
+          "nameCode": "ESP",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2814,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#1369d2",
+            "text": "#1369d2"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "اسبانيول",
+              "bn": "এসপানিওল",
+              "hi": "एस्पेनयोल",
+              "ru": "Эспаньол"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

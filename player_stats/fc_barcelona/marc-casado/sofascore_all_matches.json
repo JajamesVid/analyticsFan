@@ -3192,128 +3192,6 @@
       "extra": null
     }
   },
-  "14083739": {
-    "id": 14083739,
-    "match_info": {
-      "homeTeam": {
-        "name": "Valencia",
-        "shortName": "Valencia",
-        "color": "#ffffff",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "FC Barcelona",
-        "shortName": "Barcelona",
-        "color": "#154284",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "valencia-barcelona"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Marc Casadó",
-        "slug": "marc-casado",
-        "shortName": "M. Casadó",
-        "position": "M",
-        "jerseyNumber": "17",
-        "height": 172,
-        "userCount": 70289,
-        "gender": "M",
-        "sofascoreId": "marccasado",
-        "id": 1000483,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1063497600,
-        "proposedMarketValueRaw": {
-          "value": 17400000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "مارك كاسادو",
-            "bn": "মার্ক কাসাডো",
-            "hi": "मार्क कैसाडो",
-            "ru": "Марс Касадо"
-          },
-          "shortNameTranslation": {
-            "ar": "م. كاسادو",
-            "bn": "এম. কাসাডো",
-            "hi": "एम. कैसाडो",
-            "ru": "М. Касадо"
-          }
-        }
-      },
-      "team": {
-        "name": "FC Barcelona",
-        "slug": "barcelona",
-        "shortName": "Barcelona",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 7651582,
-        "nameCode": "BAR",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2817,
-        "teamColors": {
-          "primary": "#154284",
-          "secondary": "#9d1009",
-          "text": "#9d1009"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "برشلونة",
-            "bn": "বার্সেলোনা",
-            "hi": "बार्सिलोना",
-            "ru": "Барселона"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 18,
-        "accuratePass": 17,
-        "totalLongBalls": 1,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 4,
-        "totalOwnHalfPasses": 4,
-        "accurateOppositionHalfPasses": 13,
-        "totalOppositionHalfPasses": 14,
-        "totalCross": 1,
-        "totalClearance": 1,
-        "ballRecovery": 1,
-        "errorLeadToAGoal": 1,
-        "minutesPlayed": 17,
-        "touches": 20,
-        "rating": 6.1,
-        "possessionLostCtrl": 2,
-        "expectedAssists": 0.0168192,
-        "totalBallCarriesDistance": 37.233959981736,
-        "ballCarriesCount": 6,
-        "totalProgression": 19.962209805445,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.1,
-          "alternative": 5.4
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.01,
-        "dribbleValueNormalized": 0.13,
-        "defensiveValueNormalized": -0.35,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "14049235": {
     "id": 14049235,
     "match_info": {
@@ -21023,6 +20901,134 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083739": {
+    "id": 14083739,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "valencia-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Marc Casadó",
+        "slug": "marc-casado",
+        "shortName": "M. Casadó",
+        "position": "M",
+        "jerseyNumber": "17",
+        "height": 172,
+        "userCount": 73928,
+        "gender": "M",
+        "sofascoreId": "marccasado",
+        "id": 1000483,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1063497600,
+        "proposedMarketValueRaw": {
+          "value": 17400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مارك كاسادو",
+            "bn": "মার্ক কাসাডো",
+            "hi": "मार्क कैसाडो",
+            "ru": "Марс Касадо"
+          },
+          "shortNameTranslation": {
+            "ar": "م. كاسادو",
+            "bn": "এম. কাসাডো",
+            "hi": "एम. कैसाडो",
+            "ru": "М. Касадо"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Barcelona",
+        "slug": "barcelona",
+        "shortName": "Barcelona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 8036915,
+        "nameCode": "BAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2817,
+        "teamColors": {
+          "primary": "#154284",
+          "secondary": "#9d1009",
+          "text": "#9d1009"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "برشلونة",
+            "bn": "বার্সেলোনা",
+            "hi": "बार्सिलोना",
+            "ru": "Барселона"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 18,
+        "accuratePass": 17,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 13,
+        "totalOppositionHalfPasses": 14,
+        "totalCross": 1,
+        "totalClearance": 1,
+        "ballRecovery": 1,
+        "errorLeadToAGoal": 1,
+        "minutesPlayed": 17,
+        "touches": 20,
+        "rating": 6.1,
+        "possessionLostCtrl": 2,
+        "expectedAssists": 0.0168192,
+        "topSpeed": 28.37,
+        "kilometersCovered": 1.92,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 37.233959981736,
+        "ballCarriesCount": 6,
+        "totalProgression": 19.962209805445,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.1,
+          "alternative": 5.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.01,
+        "dribbleValueNormalized": 0.13,
+        "defensiveValueNormalized": -0.35,
+        "metersCoveredRunningKm": 0.3,
+        "metersCoveredHighSpeedRunningKm": 0.09,
+        "metersCoveredSprintingKm": 0.03,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
     }
   }
 }

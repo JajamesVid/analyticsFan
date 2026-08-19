@@ -3191,145 +3191,6 @@
       "extra": null
     }
   },
-  "14083727": {
-    "id": 14083727,
-    "match_info": {
-      "homeTeam": {
-        "name": "Mallorca",
-        "shortName": "Mallorca",
-        "color": "#cc0000",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "Real Oviedo",
-        "shortName": "Real Oviedo",
-        "color": "#3300ff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-oviedo-mallorca"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Toni Lato",
-        "firstName": "Toni",
-        "lastName": "Lato",
-        "slug": "toni-lato",
-        "shortName": "T. Lato",
-        "position": "D",
-        "jerseyNumber": "3",
-        "height": 173,
-        "userCount": 298,
-        "gender": "M",
-        "sofascoreId": "ih26te",
-        "id": 828239,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 880070400,
-        "proposedMarketValueRaw": {
-          "value": 1300000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "توني لاتو",
-            "bn": "টনি লাটো",
-            "hi": "टोनी लाटो",
-            "ru": "Тони Лато"
-          },
-          "shortNameTranslation": {
-            "ar": "ت. لاتو",
-            "bn": "টি. লাটো",
-            "hi": "टी. लाटो",
-            "ru": "Т. Лато"
-          }
-        }
-      },
-      "team": {
-        "name": "Mallorca",
-        "slug": "mallorca",
-        "shortName": "Mallorca",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 201002,
-        "nameCode": "MLL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2826,
-        "teamColors": {
-          "primary": "#cc0000",
-          "secondary": "#000000",
-          "text": "#000000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "مايوركا",
-            "bn": "ম্যালোর্কা",
-            "hi": "मल्लोर्का",
-            "ru": "Мальорка"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 44,
-        "accuratePass": 37,
-        "totalLongBalls": 3,
-        "accurateLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 17,
-        "totalOwnHalfPasses": 20,
-        "accurateOppositionHalfPasses": 20,
-        "totalOppositionHalfPasses": 24,
-        "totalCross": 8,
-        "aerialWon": 3,
-        "duelLost": 2,
-        "duelWon": 5,
-        "totalClearance": 3,
-        "interceptionWon": 1,
-        "ballRecovery": 6,
-        "totalTackle": 1,
-        "wonTackle": 1,
-        "wasFouled": 2,
-        "fouls": 2,
-        "minutesPlayed": 85,
-        "touches": 67,
-        "rating": 7.2,
-        "possessionLostCtrl": 16,
-        "expectedAssists": 0.0269164,
-        "topSpeed": 31.25,
-        "kilometersCovered": 8.71,
-        "numberOfSprints": 13,
-        "totalBallCarriesDistance": 167.95919077663,
-        "ballCarriesCount": 20,
-        "totalProgression": 67.206594455182,
-        "bestBallCarryProgression": 22.262114457961,
-        "totalProgressiveBallCarriesDistance": 26.880774095997,
-        "progressiveBallCarriesCount": 1,
-        "ratingVersions": {
-          "original": 7.2,
-          "alternative": 7.2
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.18,
-        "dribbleValueNormalized": 0.02,
-        "defensiveValueNormalized": 0.17,
-        "metersCoveredRunningKm": 1.16,
-        "metersCoveredHighSpeedRunningKm": 0.42,
-        "metersCoveredSprintingKm": 0.24,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437611": {
     "id": 12437611,
     "match_info": {
@@ -22113,6 +21974,145 @@
         "rating": 6.7,
         "possessionLostCtrl": 4,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083727": {
+    "id": 14083727,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-oviedo-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Toni Lato",
+        "firstName": "Toni",
+        "lastName": "Lato",
+        "slug": "toni-lato",
+        "shortName": "T. Lato",
+        "position": "D",
+        "jerseyNumber": "3",
+        "height": 173,
+        "userCount": 306,
+        "gender": "M",
+        "sofascoreId": "ih26te",
+        "id": 828239,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 880070400,
+        "proposedMarketValueRaw": {
+          "value": 1300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "توني لاتو",
+            "bn": "টনি লাটো",
+            "hi": "टोनी लाटो",
+            "ru": "Тони Лато"
+          },
+          "shortNameTranslation": {
+            "ar": "ت. لاتو",
+            "bn": "টি. লাটো",
+            "hi": "टी. लाटो",
+            "ru": "Т. Лато"
+          }
+        }
+      },
+      "team": {
+        "name": "Mallorca",
+        "slug": "mallorca",
+        "shortName": "Mallorca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202209,
+        "nameCode": "MLL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2826,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مايوركا",
+            "bn": "ম্যালোর্কা",
+            "hi": "मल्लोर्का",
+            "ru": "Мальорка"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 44,
+        "accuratePass": 37,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 17,
+        "totalOwnHalfPasses": 20,
+        "accurateOppositionHalfPasses": 20,
+        "totalOppositionHalfPasses": 24,
+        "totalCross": 8,
+        "aerialWon": 3,
+        "duelLost": 2,
+        "duelWon": 5,
+        "totalClearance": 3,
+        "interceptionWon": 1,
+        "ballRecovery": 6,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "wasFouled": 2,
+        "fouls": 2,
+        "minutesPlayed": 85,
+        "touches": 67,
+        "rating": 7.2,
+        "possessionLostCtrl": 16,
+        "expectedAssists": 0.0269164,
+        "topSpeed": 31.25,
+        "kilometersCovered": 8.71,
+        "numberOfSprints": 13,
+        "totalBallCarriesDistance": 167.95919077663,
+        "ballCarriesCount": 20,
+        "totalProgression": 67.206594455182,
+        "bestBallCarryProgression": 22.262114457961,
+        "totalProgressiveBallCarriesDistance": 26.880774095997,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 7.2,
+          "alternative": 7.2
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.18,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": 0.17,
+        "metersCoveredRunningKm": 1.16,
+        "metersCoveredHighSpeedRunningKm": 0.42,
+        "metersCoveredSprintingKm": 0.24,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

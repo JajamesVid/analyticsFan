@@ -2743,140 +2743,6 @@
       "extra": null
     }
   },
-  "14083739": {
-    "id": 14083739,
-    "match_info": {
-      "homeTeam": {
-        "name": "Valencia",
-        "shortName": "Valencia",
-        "color": "#ffffff",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "FC Barcelona",
-        "shortName": "Barcelona",
-        "color": "#154284",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "valencia-barcelona"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Pablo Gavi",
-        "slug": "gavi",
-        "shortName": "Gavi",
-        "position": "M",
-        "jerseyNumber": "6",
-        "height": 173,
-        "userCount": 287048,
-        "gender": "M",
-        "sofascoreId": "Gavi",
-        "id": 1103693,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1091664000,
-        "proposedMarketValueRaw": {
-          "value": 31000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "غافي",
-            "bn": "গাভি",
-            "hi": "गवी",
-            "ru": "Пабло Гави"
-          },
-          "shortNameTranslation": {
-            "ar": "غافي",
-            "bn": "গাভি",
-            "hi": "गवी",
-            "ru": "П. Гави"
-          }
-        }
-      },
-      "team": {
-        "name": "FC Barcelona",
-        "slug": "barcelona",
-        "shortName": "Barcelona",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 7651582,
-        "nameCode": "BAR",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2817,
-        "teamColors": {
-          "primary": "#154284",
-          "secondary": "#9d1009",
-          "text": "#9d1009"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "برشلونة",
-            "bn": "বার্সেলোনা",
-            "hi": "बार्सिलोना",
-            "ru": "Барселона"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 51,
-        "accuratePass": 45,
-        "totalLongBalls": 4,
-        "accurateLongBalls": 4,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 21,
-        "totalOwnHalfPasses": 24,
-        "accurateOppositionHalfPasses": 24,
-        "totalOppositionHalfPasses": 27,
-        "totalCross": 1,
-        "aerialLost": 1,
-        "duelLost": 7,
-        "duelWon": 4,
-        "challengeLost": 3,
-        "dispossessed": 1,
-        "totalContest": 1,
-        "totalClearance": 1,
-        "outfielderBlock": 1,
-        "ballRecovery": 4,
-        "totalTackle": 2,
-        "wonTackle": 1,
-        "unsuccessfulTouch": 1,
-        "wasFouled": 2,
-        "fouls": 1,
-        "minutesPlayed": 90,
-        "touches": 63,
-        "rating": 6.6,
-        "possessionLostCtrl": 10,
-        "expectedAssists": 0.0216468,
-        "totalBallCarriesDistance": 157.04402225837,
-        "ballCarriesCount": 21,
-        "totalProgression": 0.87438197117705,
-        "progressiveBallCarriesCount": 0,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 6.6,
-          "alternative": 6.6
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.02,
-        "dribbleValueNormalized": 0.04,
-        "defensiveValueNormalized": -0.25,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "16186149": {
     "id": 16186149,
     "match_info": {
@@ -23887,6 +23753,146 @@
         "rating": 7,
         "possessionLostCtrl": 12,
         "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083739": {
+    "id": 14083739,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "valencia-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Gavi",
+        "slug": "gavi",
+        "shortName": "Gavi",
+        "position": "M",
+        "jerseyNumber": "6",
+        "height": 173,
+        "userCount": 295069,
+        "gender": "M",
+        "sofascoreId": "Gavi",
+        "id": 1103693,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1091664000,
+        "proposedMarketValueRaw": {
+          "value": 31000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "غافي",
+            "bn": "গাভি",
+            "hi": "गवी",
+            "ru": "Пабло Гави"
+          },
+          "shortNameTranslation": {
+            "ar": "غافي",
+            "bn": "গাভি",
+            "hi": "गवी",
+            "ru": "П. Гави"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Barcelona",
+        "slug": "barcelona",
+        "shortName": "Barcelona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 8036915,
+        "nameCode": "BAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2817,
+        "teamColors": {
+          "primary": "#154284",
+          "secondary": "#9d1009",
+          "text": "#9d1009"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "برشلونة",
+            "bn": "বার্সেলোনা",
+            "hi": "बार्सिलोना",
+            "ru": "Барселона"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 51,
+        "accuratePass": 45,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 21,
+        "totalOwnHalfPasses": 24,
+        "accurateOppositionHalfPasses": 24,
+        "totalOppositionHalfPasses": 27,
+        "totalCross": 1,
+        "aerialLost": 1,
+        "duelLost": 7,
+        "duelWon": 4,
+        "challengeLost": 3,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "totalClearance": 1,
+        "outfielderBlock": 1,
+        "ballRecovery": 4,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 2,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 63,
+        "rating": 6.6,
+        "possessionLostCtrl": 10,
+        "expectedAssists": 0.0216468,
+        "topSpeed": 29.73,
+        "kilometersCovered": 11.83,
+        "numberOfSprints": 7,
+        "totalBallCarriesDistance": 157.04402225837,
+        "ballCarriesCount": 21,
+        "totalProgression": 0.87438197117705,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.02,
+        "dribbleValueNormalized": 0.04,
+        "defensiveValueNormalized": -0.25,
+        "metersCoveredRunningKm": 2.07,
+        "metersCoveredHighSpeedRunningKm": 0.62,
+        "metersCoveredSprintingKm": 0.11,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

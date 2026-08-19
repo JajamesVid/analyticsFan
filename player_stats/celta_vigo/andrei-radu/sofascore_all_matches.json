@@ -3638,138 +3638,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Ionuț Radu",
-        "firstName": "Ionut",
-        "lastName": "Radu",
-        "slug": "ionut-radu",
-        "shortName": "I. Radu",
-        "position": "G",
-        "jerseyNumber": "13",
-        "height": 188,
-        "userCount": 4552,
-        "gender": "M",
-        "id": 815202,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 864777600,
-        "proposedMarketValueRaw": {
-          "value": 7800000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إيونوت رادو",
-            "bn": "আয়নাট রাডু",
-            "hi": "इओनुट राडू",
-            "ru": "Ионут Раду"
-          },
-          "shortNameTranslation": {
-            "ar": "إ. رادو",
-            "bn": "আই. রাদু",
-            "hi": "आई. राडू",
-            "ru": "И. Раду"
-          }
-        }
-      },
-      "team": {
-        "name": "Celta Vigo",
-        "slug": "celta-vigo",
-        "shortName": "Celta",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 266335,
-        "nameCode": "CEL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2821,
-        "teamColors": {
-          "primary": "#6cace4",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "سيلتا فيغو",
-            "bn": "সেলটা ভিগো",
-            "ru": "Сельта"
-          },
-          "shortNameTranslation": {
-            "ar": "سيلتا",
-            "hi": "सेल्टा"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 30,
-        "accuratePass": 26,
-        "totalLongBalls": 7,
-        "accurateLongBalls": 3,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 23,
-        "totalOwnHalfPasses": 23,
-        "accurateOppositionHalfPasses": 3,
-        "totalOppositionHalfPasses": 7,
-        "duelWon": 1,
-        "totalClearance": 1,
-        "ballRecovery": 10,
-        "wasFouled": 1,
-        "savedShotsFromInsideTheBox": 1,
-        "saves": 2,
-        "totalKeeperSweeper": 2,
-        "accurateKeeperSweeper": 2,
-        "minutesPlayed": 90,
-        "touches": 42,
-        "rating": 7.5,
-        "possessionLostCtrl": 4,
-        "expectedAssists": 0.0004831,
-        "totalBallCarriesDistance": 27.190075457967,
-        "ballCarriesCount": 5,
-        "totalProgression": 11.086697626747,
-        "progressiveBallCarriesCount": 0,
-        "keeperSaveValue": 0.4166,
-        "ratingVersions": {
-          "original": 7.5,
-          "alternative": 7.5
-        },
-        "totalShots": 0,
-        "goalsPrevented": 0.404,
-        "passValueNormalized": 0.02,
-        "dribbleValueNormalized": 0.02,
-        "defensiveValueNormalized": 0.2,
-        "goalkeeperValueNormalized": 0.37,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "G",
-      "extra": null
-    }
-  },
   "14215912": {
     "id": 14215912,
     "match_info": {
@@ -21888,6 +21756,139 @@
       },
       "statistics": {
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ionuț Radu",
+        "firstName": "Ionut",
+        "lastName": "Radu",
+        "slug": "ionut-radu",
+        "shortName": "I. Radu",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 188,
+        "userCount": 4619,
+        "gender": "M",
+        "sofascoreId": "rwbz8m",
+        "id": 815202,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 864777600,
+        "proposedMarketValueRaw": {
+          "value": 8700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيونوت رادو",
+            "bn": "আয়নাট রাডু",
+            "hi": "इओनुट राडू",
+            "ru": "Ионут Раду"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. رادو",
+            "bn": "আই. রাদু",
+            "hi": "आई. राडू",
+            "ru": "И. Раду"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 267822,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 30,
+        "accuratePass": 26,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 23,
+        "totalOwnHalfPasses": 23,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 7,
+        "duelWon": 1,
+        "totalClearance": 1,
+        "ballRecovery": 10,
+        "wasFouled": 1,
+        "savedShotsFromInsideTheBox": 1,
+        "saves": 2,
+        "totalKeeperSweeper": 2,
+        "accurateKeeperSweeper": 2,
+        "minutesPlayed": 90,
+        "touches": 42,
+        "rating": 7.5,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.0004831,
+        "totalBallCarriesDistance": 27.190075457967,
+        "ballCarriesCount": 5,
+        "totalProgression": 11.086697626747,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.556,
+        "ratingVersions": {
+          "original": 7.5,
+          "alternative": 7.5
+        },
+        "totalShots": 0,
+        "goalsPrevented": 0.404,
+        "passValueNormalized": 0.02,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": 0.2,
+        "goalkeeperValueNormalized": 0.45,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

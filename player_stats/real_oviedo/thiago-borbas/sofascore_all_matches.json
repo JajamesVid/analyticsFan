@@ -2953,121 +2953,6 @@
       "extra": null
     }
   },
-  "14083727": {
-    "id": 14083727,
-    "match_info": {
-      "homeTeam": {
-        "name": "Mallorca",
-        "shortName": "Mallorca",
-        "color": "#cc0000",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "Real Oviedo",
-        "shortName": "Real Oviedo",
-        "color": "#3300ff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-oviedo-mallorca"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Thiago Borbas",
-        "slug": "thiago-borbas",
-        "shortName": "T. Borbas",
-        "position": "F",
-        "jerseyNumber": "17",
-        "height": 186,
-        "userCount": 861,
-        "gender": "M",
-        "id": 1018547,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1018137600,
-        "proposedMarketValueRaw": {
-          "value": 3800000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "تياغو بورباس",
-            "bn": "থিয়াগো বোরবাস",
-            "hi": "थियागो बोरबास"
-          },
-          "shortNameTranslation": {
-            "ar": "ت. بورباس",
-            "bn": "টি. বোরবাস",
-            "hi": "टी. बोरबास"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Oviedo",
-        "slug": "real-oviedo",
-        "shortName": "Real Oviedo",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 100042,
-        "nameCode": "OVI",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2851,
-        "teamColors": {
-          "primary": "#3300ff",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال اوفيدو",
-            "hi": "रियल ओविएडो",
-            "ru": "Реал Овьедо"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 4,
-        "accuratePass": 3,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 2,
-        "totalOwnHalfPasses": 2,
-        "accurateOppositionHalfPasses": 1,
-        "totalOppositionHalfPasses": 2,
-        "aerialLost": 5,
-        "duelLost": 5,
-        "duelWon": 2,
-        "totalClearance": 1,
-        "totalTackle": 2,
-        "wonTackle": 1,
-        "fouls": 1,
-        "totalOffside": 1,
-        "minutesPlayed": 27,
-        "touches": 8,
-        "rating": 6.4,
-        "possessionLostCtrl": 1,
-        "expectedAssists": 0.00022735,
-        "ratingVersions": {
-          "original": 6.4,
-          "alternative": 6.6
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0,
-        "defensiveValueNormalized": 0.18,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12266662": {
     "id": 12266662,
     "match_info": {
@@ -22171,6 +22056,124 @@
         "ownGoals": 0,
         "minutesPlayed": 90,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083727": {
+    "id": 14083727,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-oviedo-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Thiago Borbas",
+        "slug": "thiago-borbas",
+        "shortName": "T. Borbas",
+        "position": "F",
+        "jerseyNumber": "18",
+        "height": 186,
+        "userCount": 1013,
+        "gender": "M",
+        "sofascoreId": "utzfv9",
+        "id": 1018547,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1018137600,
+        "proposedMarketValueRaw": {
+          "value": 3300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "تياغو بورباس",
+            "bn": "থিয়াগো বোরবাস",
+            "hi": "थियागो बोरबास",
+            "ru": "Тьяго Борбас"
+          },
+          "shortNameTranslation": {
+            "ar": "ت. بورباس",
+            "bn": "টি. বোরবাস",
+            "hi": "टी. बोरबास",
+            "ru": "Т. Борбас"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 98974,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 4,
+        "accuratePass": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 2,
+        "aerialLost": 5,
+        "duelLost": 5,
+        "duelWon": 2,
+        "totalClearance": 1,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "fouls": 1,
+        "totalOffside": 1,
+        "minutesPlayed": 27,
+        "touches": 8,
+        "rating": 6.4,
+        "possessionLostCtrl": 1,
+        "expectedAssists": 0.00022735,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0,
+        "defensiveValueNormalized": 0.18,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

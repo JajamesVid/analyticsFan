@@ -3546,128 +3546,6 @@
       "extra": null
     }
   },
-  "14083727": {
-    "id": 14083727,
-    "match_info": {
-      "homeTeam": {
-        "name": "Mallorca",
-        "shortName": "Mallorca",
-        "color": "#cc0000",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "Real Oviedo",
-        "shortName": "Real Oviedo",
-        "color": "#3300ff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-oviedo-mallorca"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Leo Román",
-        "firstName": "",
-        "lastName": "",
-        "slug": "leo-roman",
-        "shortName": "L. Román",
-        "position": "G",
-        "jerseyNumber": "1",
-        "height": 189,
-        "userCount": 1766,
-        "gender": "M",
-        "sofascoreId": "zb9zn9",
-        "id": 1131909,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 962841600,
-        "proposedMarketValueRaw": {
-          "value": 5800000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ليو روماني",
-            "bn": "লিও রোমান",
-            "hi": "लियो रोमान",
-            "ru": "Лео Роман"
-          },
-          "shortNameTranslation": {
-            "ar": "ل. روماني",
-            "bn": "এল. রোমান",
-            "hi": "एल. रोमान",
-            "ru": "Л. Роман"
-          }
-        }
-      },
-      "team": {
-        "name": "Mallorca",
-        "slug": "mallorca",
-        "shortName": "Mallorca",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 201002,
-        "nameCode": "MLL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2826,
-        "teamColors": {
-          "primary": "#cc0000",
-          "secondary": "#000000",
-          "text": "#000000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "مايوركا",
-            "bn": "ম্যালোর্কা",
-            "hi": "मल्लोर्का",
-            "ru": "Мальорка"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 39,
-        "accuratePass": 30,
-        "totalLongBalls": 15,
-        "accurateLongBalls": 6,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 25,
-        "totalOwnHalfPasses": 27,
-        "accurateOppositionHalfPasses": 5,
-        "totalOppositionHalfPasses": 12,
-        "totalClearance": 2,
-        "ballRecovery": 3,
-        "minutesPlayed": 90,
-        "touches": 43,
-        "rating": 6.8,
-        "possessionLostCtrl": 10,
-        "expectedAssists": 0.00222901,
-        "totalBallCarriesDistance": 84.104170167278,
-        "ballCarriesCount": 14,
-        "totalProgression": 33.457576102352,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.8,
-          "alternative": 6.7
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.1,
-        "dribbleValueNormalized": 0.01,
-        "defensiveValueNormalized": 0.24,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "G",
-      "extra": null
-    }
-  },
   "16186149": {
     "id": 16186149,
     "match_info": {
@@ -20806,6 +20684,128 @@
         "rating": 7.3,
         "possessionLostCtrl": 9,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083727": {
+    "id": 14083727,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-oviedo-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Leo Román",
+        "firstName": "",
+        "lastName": "",
+        "slug": "leo-roman",
+        "shortName": "L. Román",
+        "position": "G",
+        "jerseyNumber": "1",
+        "height": 189,
+        "userCount": 1827,
+        "gender": "M",
+        "sofascoreId": "zb9zn9",
+        "id": 1131909,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 962841600,
+        "proposedMarketValueRaw": {
+          "value": 5800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليو روماني",
+            "bn": "লিও রোমান",
+            "hi": "लियो रोमान",
+            "ru": "Лео Роман"
+          },
+          "shortNameTranslation": {
+            "ar": "ل. روماني",
+            "bn": "এল. রোমান",
+            "hi": "एल. रोमान",
+            "ru": "Л. Роман"
+          }
+        }
+      },
+      "team": {
+        "name": "Mallorca",
+        "slug": "mallorca",
+        "shortName": "Mallorca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202209,
+        "nameCode": "MLL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2826,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مايوركا",
+            "bn": "ম্যালোর্কা",
+            "hi": "मल्लोर्का",
+            "ru": "Мальорка"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 39,
+        "accuratePass": 30,
+        "totalLongBalls": 15,
+        "accurateLongBalls": 6,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 25,
+        "totalOwnHalfPasses": 27,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 12,
+        "totalClearance": 2,
+        "ballRecovery": 3,
+        "minutesPlayed": 90,
+        "touches": 43,
+        "rating": 6.8,
+        "possessionLostCtrl": 10,
+        "expectedAssists": 0.00222901,
+        "totalBallCarriesDistance": 84.104170167278,
+        "ballCarriesCount": 14,
+        "totalProgression": 33.457576102352,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.1,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": 0.24,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

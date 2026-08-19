@@ -2471,146 +2471,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "David López",
-        "slug": "david-lopez",
-        "shortName": "D. López",
-        "position": "D",
-        "jerseyNumber": "5",
-        "height": 185,
-        "userCount": 529,
-        "gender": "M",
-        "sofascoreId": "embpp8",
-        "id": 135116,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 623894400,
-        "proposedMarketValueRaw": {
-          "value": 545000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ديفيد لوبيز",
-            "bn": "ডেভিড লোপেজ",
-            "hi": "डेविड लोपेज़",
-            "ru": "Давид Лопес"
-          },
-          "shortNameTranslation": {
-            "ar": "د. لوبيز",
-            "bn": "ডি. লোপেজ",
-            "hi": "डी. लोपेज़",
-            "ru": "Д. Лопес"
-          }
-        }
-      },
-      "team": {
-        "name": "Girona FC",
-        "slug": "girona-fc",
-        "shortName": "Girona",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 373692,
-        "nameCode": "GIR",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 24264,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ff0000",
-          "text": "#ff0000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "جيرونا إف سي",
-            "hi": "जिरोना",
-            "ru": "Жирона"
-          },
-          "shortNameTranslation": {
-            "ar": "جيرونا",
-            "bn": "জিরোনা",
-            "hi": "गिरोना"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 49,
-        "accuratePass": 42,
-        "totalLongBalls": 6,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 35,
-        "totalOwnHalfPasses": 39,
-        "accurateOppositionHalfPasses": 7,
-        "totalOppositionHalfPasses": 10,
-        "aerialLost": 2,
-        "aerialWon": 2,
-        "duelLost": 5,
-        "duelWon": 6,
-        "dispossessed": 2,
-        "totalClearance": 5,
-        "ballRecovery": 3,
-        "totalTackle": 2,
-        "wonTackle": 1,
-        "errorLeadToAShot": 1,
-        "unsuccessfulTouch": 1,
-        "wasFouled": 2,
-        "fouls": 1,
-        "minutesPlayed": 77,
-        "touches": 61,
-        "rating": 6.3,
-        "possessionLostCtrl": 10,
-        "expectedAssists": 0.00457944,
-        "topSpeed": 28.01,
-        "kilometersCovered": 7.25,
-        "numberOfSprints": 3,
-        "totalBallCarriesDistance": 176.00254400613,
-        "ballCarriesCount": 21,
-        "totalProgression": 53.785699000241,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.3,
-          "alternative": 6.3
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.06,
-        "dribbleValueNormalized": 0.1,
-        "defensiveValueNormalized": -0.21,
-        "metersCoveredRunningKm": 0.9,
-        "metersCoveredHighSpeedRunningKm": 0.24,
-        "metersCoveredSprintingKm": 0.03,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437662": {
     "id": 12437662,
     "match_info": {
@@ -21825,6 +21685,146 @@
       },
       "statistics": {
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "David López",
+        "slug": "david-lopez",
+        "shortName": "D. López",
+        "position": "D",
+        "jerseyNumber": "5",
+        "height": 185,
+        "userCount": 514,
+        "gender": "M",
+        "sofascoreId": "embpp8",
+        "id": 135116,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 623894400,
+        "proposedMarketValueRaw": {
+          "value": 545000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديفيد لوبيز",
+            "bn": "ডেভিড লোপেজ",
+            "hi": "डेविड लोपेज़",
+            "ru": "Давид Лопес"
+          },
+          "shortNameTranslation": {
+            "ar": "د. لوبيز",
+            "bn": "ডি. লোপেজ",
+            "hi": "डी. लोपेज़",
+            "ru": "Д. Лопес"
+          }
+        }
+      },
+      "team": {
+        "name": "Girona FC",
+        "slug": "girona-fc",
+        "shortName": "Girona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 374248,
+        "nameCode": "GIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24264,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جيرونا إف سي",
+            "hi": "जिरोना",
+            "ru": "Жирона"
+          },
+          "shortNameTranslation": {
+            "ar": "جيرونا",
+            "bn": "জিরোনা",
+            "hi": "गिरोना"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 49,
+        "accuratePass": 42,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 35,
+        "totalOwnHalfPasses": 39,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 10,
+        "aerialLost": 2,
+        "aerialWon": 2,
+        "duelLost": 5,
+        "duelWon": 6,
+        "dispossessed": 2,
+        "totalClearance": 5,
+        "ballRecovery": 3,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "errorLeadToAShot": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 2,
+        "fouls": 1,
+        "minutesPlayed": 77,
+        "touches": 61,
+        "rating": 6.3,
+        "possessionLostCtrl": 10,
+        "expectedAssists": 0.00457944,
+        "topSpeed": 28.01,
+        "kilometersCovered": 7.25,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 176.00254400613,
+        "ballCarriesCount": 21,
+        "totalProgression": 53.785699000241,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.3
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.06,
+        "dribbleValueNormalized": 0.1,
+        "defensiveValueNormalized": -0.21,
+        "metersCoveredRunningKm": 0.9,
+        "metersCoveredHighSpeedRunningKm": 0.24,
+        "metersCoveredSprintingKm": 0.03,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

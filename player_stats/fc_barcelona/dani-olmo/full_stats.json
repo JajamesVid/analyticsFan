@@ -3481,237 +3481,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Valencia",
-        "abreviatura": "VAL",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/18.png"
-      },
-      "visitante": {
-        "nombre": "Barcelona",
-        "abreviatura": "BAR",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/3.png"
-      }
-    },
-    "resultado": "3-1",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20451-valencia-barcelona",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 1,
-      "cope": 6.0,
-      "sofascore": 6.5,
-      "relevo": 2.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 6.0,
-        "futbolfantasy-rpg": 6.0,
-        "comunio": 3.0,
-        "scale0": -2.0,
-        "biwenger-sofascore": 2.0,
-        "biwenger-social": 3.0,
-        "biwenger-as-sofascore": 0.0,
-        "biwenger-stats": 3.0,
-        "futmondo-prensa": 1.0,
-        "futmondo-mixto-as": -2.0,
-        "futmondo-stats": 1.0,
-        "futmondo-mixto": 5.8,
-        "cronistas-marca": 2.0,
-        "marca-mixto": 5.0,
-        "marca-sofascore": 2.0,
-        "mister-cronistas-md": 6.0,
-        "mister-mixto": 2.0,
-        "mister-mixto-2": 1.0,
-        "mister-sofascore": 2.0,
-        "stat-goles": 0.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 1.0,
-        "stat-tiros-puerta": 0.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 1.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 1.0,
-        "stat-regates-exito": 0.0,
-        "stat-faltas-recibidas": 0.0,
-        "stat-faltas-cometidas": 1.0,
-        "stat-pases-interceptados": 1.0,
-        "stat-balones-robados": 0.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 0.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 0.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 0.0,
-        "stat-despejes": 1.0,
-        "stat-ocasiones-claras-creadas": 1.0,
-        "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 10.0,
-        "stat-tiros-totales": 1.0,
-        "stat-centros-totales": 0.0,
-        "stat-precision-pases": 80.6,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 0.0,
-        "stat-tackles": 0.0,
-        "stat-duelos-aereos": 1.0,
-        "stat-tiros-bloqueados": 0.0,
-        "stat-pases-totales": 36.0,
-        "stat-pases-completados": 29.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083739,
-      "match_info": {
-        "homeTeam": {
-          "name": "Valencia",
-          "shortName": "Valencia",
-          "color": "#ffffff",
-          "score": 3
-        },
-        "awayTeam": {
-          "name": "FC Barcelona",
-          "shortName": "Barcelona",
-          "color": "#154284",
-          "score": 1
-        },
-        "startTimestamp": 1779562800,
-        "slug": "valencia-barcelona",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Dani Olmo",
-          "firstName": "Dani",
-          "lastName": "Olmo",
-          "slug": "dani-olmo",
-          "shortName": "D. Olmo",
-          "position": "M",
-          "jerseyNumber": "20",
-          "height": 179,
-          "userCount": 198774,
-          "gender": "M",
-          "sofascoreId": "DaniOlmo",
-          "id": 789071,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 894499200,
-          "proposedMarketValueRaw": {
-            "value": 58000000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "داني أولمو",
-              "ru": "Дани Ольмо"
-            },
-            "shortNameTranslation": {
-              "ar": "د. أولمو",
-              "bn": "ডি. ওলমো",
-              "hi": "डी. ओल्मो",
-              "ru": "Д. Ольмо"
-            }
-          }
-        },
-        "team": {
-          "name": "FC Barcelona",
-          "slug": "barcelona",
-          "shortName": "Barcelona",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 7651582,
-          "nameCode": "BAR",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2817,
-          "teamColors": {
-            "primary": "#154284",
-            "secondary": "#9d1009",
-            "text": "#9d1009"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "برشلونة",
-              "bn": "বার্সেলোনা",
-              "hi": "बार्सिलोना",
-              "ru": "Барселона"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalPass": 36,
-          "accuratePass": 29,
-          "totalLongBalls": 5,
-          "accurateLongBalls": 2,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 13,
-          "totalOwnHalfPasses": 15,
-          "accurateOppositionHalfPasses": 16,
-          "totalOppositionHalfPasses": 21,
-          "aerialLost": 1,
-          "aerialWon": 1,
-          "duelLost": 3,
-          "duelWon": 1,
-          "challengeLost": 1,
-          "bigChanceCreated": 1,
-          "blockedScoringAttempt": 1,
-          "totalClearance": 1,
-          "interceptionWon": 1,
-          "ballRecovery": 3,
-          "unsuccessfulTouch": 2,
-          "fouls": 1,
-          "minutesPlayed": 62,
-          "touches": 44,
-          "rating": 6.5,
-          "possessionLostCtrl": 10,
-          "expectedGoals": 0.0245,
-          "expectedAssists": 0.205411,
-          "totalBallCarriesDistance": 48.322607838026,
-          "ballCarriesCount": 7,
-          "totalProgression": -9.5940096823251,
-          "progressiveBallCarriesCount": 0,
-          "keyPass": 1,
-          "ratingVersions": {
-            "original": 6.5,
-            "alternative": 6.9
-          },
-          "totalShots": 1,
-          "shotValueNormalized": -0.06,
-          "passValueNormalized": 0.02,
-          "dribbleValueNormalized": -0.17,
-          "defensiveValueNormalized": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "M",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Levante",
         "abreviatura": "LEV",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/10.png"
@@ -13387,6 +13156,242 @@
             "alternative": 6.5
           },
           "totalShots": 1,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Valencia",
+        "abreviatura": "VAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/18.png"
+      },
+      "visitante": {
+        "nombre": "Barcelona",
+        "abreviatura": "BAR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/3.png"
+      }
+    },
+    "resultado": "3-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20451-valencia-barcelona",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 1,
+      "cope": 6.0,
+      "sofascore": 6.5,
+      "relevo": 2.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 6.0,
+        "futbolfantasy-rpg": 6.0,
+        "comunio": 3.0,
+        "scale0": -2.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": 3.0,
+        "biwenger-as-sofascore": 0.0,
+        "biwenger-stats": 3.0,
+        "futmondo-prensa": 1.0,
+        "futmondo-mixto-as": -2.0,
+        "futmondo-stats": 1.0,
+        "futmondo-mixto": 5.8,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 5.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 6.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 1.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 1.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 1.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 1.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 1.0,
+        "stat-ocasiones-claras-creadas": 1.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 0.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 80.6,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 36.0,
+        "stat-pases-completados": 29.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083739,
+      "match_info": {
+        "homeTeam": {
+          "name": "Valencia",
+          "shortName": "Valencia",
+          "color": "#ffffff",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "FC Barcelona",
+          "shortName": "Barcelona",
+          "color": "#154284",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "valencia-barcelona"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Dani Olmo",
+          "firstName": "Dani",
+          "lastName": "Olmo",
+          "slug": "dani-olmo",
+          "shortName": "D. Olmo",
+          "position": "M",
+          "jerseyNumber": "20",
+          "height": 179,
+          "userCount": 209311,
+          "gender": "M",
+          "sofascoreId": "DaniOlmo",
+          "id": 789071,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 894499200,
+          "proposedMarketValueRaw": {
+            "value": 58000000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "داني أولمو",
+              "ru": "Дани Ольмо"
+            },
+            "shortNameTranslation": {
+              "ar": "د. أولمو",
+              "bn": "ডি. ওলমো",
+              "hi": "डी. ओल्मो",
+              "ru": "Д. Ольмо"
+            }
+          }
+        },
+        "team": {
+          "name": "FC Barcelona",
+          "slug": "barcelona",
+          "shortName": "Barcelona",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 8036915,
+          "nameCode": "BAR",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2817,
+          "teamColors": {
+            "primary": "#154284",
+            "secondary": "#9d1009",
+            "text": "#9d1009"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "برشلونة",
+              "bn": "বার্সেলোনা",
+              "hi": "बार्सिलोना",
+              "ru": "Барселона"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 36,
+          "accuratePass": 29,
+          "totalLongBalls": 5,
+          "accurateLongBalls": 2,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 13,
+          "totalOwnHalfPasses": 15,
+          "accurateOppositionHalfPasses": 16,
+          "totalOppositionHalfPasses": 21,
+          "aerialLost": 1,
+          "aerialWon": 1,
+          "duelLost": 3,
+          "duelWon": 1,
+          "challengeLost": 1,
+          "bigChanceCreated": 1,
+          "blockedScoringAttempt": 1,
+          "totalClearance": 1,
+          "interceptionWon": 1,
+          "ballRecovery": 3,
+          "unsuccessfulTouch": 2,
+          "fouls": 1,
+          "minutesPlayed": 62,
+          "touches": 44,
+          "rating": 6.5,
+          "possessionLostCtrl": 10,
+          "expectedGoals": 0.0245,
+          "expectedAssists": 0.205411,
+          "topSpeed": 28.27,
+          "kilometersCovered": 7.03,
+          "numberOfSprints": 3,
+          "totalBallCarriesDistance": 48.322607838026,
+          "ballCarriesCount": 7,
+          "totalProgression": -9.5940096823251,
+          "progressiveBallCarriesCount": 0,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 6.5,
+            "alternative": 6.9
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.06,
+          "passValueNormalized": 0.02,
+          "dribbleValueNormalized": -0.17,
+          "defensiveValueNormalized": 0,
+          "metersCoveredRunningKm": 1.18,
+          "metersCoveredHighSpeedRunningKm": 0.41,
+          "metersCoveredSprintingKm": 0.04,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

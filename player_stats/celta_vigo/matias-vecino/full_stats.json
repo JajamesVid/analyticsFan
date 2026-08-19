@@ -1683,8 +1683,7 @@
           "score": 0
         },
         "startTimestamp": 1779562800,
-        "slug": "sevilla-celta-vigo",
-        "fecha_normalizada": "2026-05-23"
+        "slug": "sevilla-celta-vigo"
       },
       "player_stats": {
         "player": {
@@ -1694,13 +1693,14 @@
           "position": "M",
           "jerseyNumber": "15",
           "height": 187,
-          "userCount": 1459,
+          "userCount": 1484,
           "gender": "M",
+          "sofascoreId": "xqaz8t",
           "id": 158615,
           "marketValueCurrency": "EUR",
           "dateOfBirthTimestamp": 682992000,
           "proposedMarketValueRaw": {
-            "value": 1600000,
+            "value": 1100000,
             "currency": "EUR"
           },
           "fieldTranslations": {
@@ -1728,7 +1728,7 @@
             "slug": "football",
             "id": 1
           },
-          "userCount": 266335,
+          "userCount": 267822,
           "nameCode": "CEL",
           "disabled": false,
           "national": false,
@@ -1770,6 +1770,9 @@
           "touches": 10,
           "rating": 6.6,
           "expectedAssists": 0.00173604,
+          "topSpeed": 30.48,
+          "kilometersCovered": 2.4,
+          "numberOfSprints": 1,
           "ratingVersions": {
             "original": 6.6,
             "alternative": 6.7
@@ -1777,6 +1780,9 @@
           "totalShots": 0,
           "passValueNormalized": -0.09,
           "defensiveValueNormalized": 0.16,
+          "metersCoveredRunningKm": 0.4,
+          "metersCoveredHighSpeedRunningKm": 0.19,
+          "metersCoveredSprintingKm": 0.04,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

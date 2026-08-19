@@ -2896,100 +2896,6 @@
       "extra": null
     }
   },
-  "14083723": {
-    "id": 14083723,
-    "match_info": {
-      "homeTeam": {
-        "name": "Getafe",
-        "shortName": "Getafe",
-        "color": "#00369e",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Osasuna",
-        "shortName": "Osasuna",
-        "color": "#cc0000",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "getafe-osasuna"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Iker Benito",
-        "firstName": "",
-        "lastName": "",
-        "slug": "iker-benito",
-        "shortName": "I. Benito",
-        "position": "F",
-        "jerseyNumber": "2",
-        "height": 176,
-        "userCount": 210,
-        "gender": "M",
-        "id": 1086346,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1028937600,
-        "proposedMarketValueRaw": {
-          "value": 1500000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إيكير بينيتو",
-            "bn": "ইকার বেনিতো",
-            "hi": "इकर बेनिटो",
-            "ru": "ИКер Бенито"
-          },
-          "shortNameTranslation": {
-            "ar": "إ. بينيتو",
-            "bn": "আই. বেনিটো",
-            "hi": "आई. बेनिटो",
-            "ru": "И. Бенито"
-          }
-        }
-      },
-      "team": {
-        "name": "Osasuna",
-        "slug": "osasuna",
-        "shortName": "Osasuna",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 199411,
-        "nameCode": "OSA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2820,
-        "teamColors": {
-          "primary": "#cc0000",
-          "secondary": "#14213d",
-          "text": "#14213d"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أوساسونا",
-            "bn": "ওসাসুনা",
-            "hi": "ओसासुना",
-            "ru": "Осасуна"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12437664": {
     "id": 12437664,
     "match_info": {
@@ -15183,6 +15089,101 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083723": {
+    "id": 14083723,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "getafe-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Iker Benito",
+        "firstName": "",
+        "lastName": "",
+        "slug": "iker-benito",
+        "shortName": "I. Benito",
+        "position": "F",
+        "jerseyNumber": "2",
+        "height": 176,
+        "userCount": 219,
+        "gender": "M",
+        "sofascoreId": "cejtxx",
+        "id": 1086346,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1028937600,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيكير بينيتو",
+            "bn": "ইকার বেনিতো",
+            "hi": "इकर बेनिटो",
+            "ru": "ИКер Бенито"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. بينيتو",
+            "bn": "আই. বেনিটো",
+            "hi": "आई. बेनिटो",
+            "ru": "И. Бенито"
+          }
+        }
+      },
+      "team": {
+        "name": "Osasuna",
+        "slug": "osasuna",
+        "shortName": "Osasuna",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202237,
+        "nameCode": "OSA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2820,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#14213d",
+          "text": "#14213d"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوساسونا",
+            "bn": "ওসাসুনা",
+            "hi": "ओसासुना",
+            "ru": "Осасуна"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
     }
   }
 }

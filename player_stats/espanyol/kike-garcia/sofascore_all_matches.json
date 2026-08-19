@@ -3696,133 +3696,6 @@
       "extra": null
     }
   },
-  "14083719": {
-    "id": 14083719,
-    "match_info": {
-      "homeTeam": {
-        "name": "Espanyol",
-        "shortName": "Espanyol",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Real Sociedad",
-        "shortName": "Real Sociedad",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-sociedad-espanyol"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Kike García",
-        "slug": "kike-garcia",
-        "shortName": "K. García",
-        "position": "F",
-        "jerseyNumber": "19",
-        "height": 186,
-        "userCount": 1172,
-        "gender": "M",
-        "id": 84972,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 627955200,
-        "proposedMarketValueRaw": {
-          "value": 825000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "كيكي غارسيا",
-            "bn": "কাইক গার্সিয়া",
-            "hi": "किके गार्सिया",
-            "ru": "Кике Гарсия"
-          },
-          "shortNameTranslation": {
-            "ar": "ك. غارسيا",
-            "bn": "কে. গার্সিয়া",
-            "hi": "के. गार्सिया",
-            "ru": "К. Гарсия"
-          }
-        }
-      },
-      "team": {
-        "name": "Espanyol",
-        "slug": "espanyol",
-        "shortName": "Espanyol",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 183425,
-        "nameCode": "ESP",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2814,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#1369d2",
-          "text": "#1369d2"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "اسبانيول",
-            "bn": "এসপানিওল",
-            "hi": "एस्पेनयोल",
-            "ru": "Эспаньол"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 7,
-        "accuratePass": 3,
-        "totalLongBalls": 1,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 1,
-        "totalOwnHalfPasses": 2,
-        "accurateOppositionHalfPasses": 2,
-        "totalOppositionHalfPasses": 5,
-        "totalCross": 1,
-        "aerialWon": 4,
-        "duelLost": 1,
-        "duelWon": 5,
-        "totalContest": 1,
-        "hitWoodwork": 1,
-        "totalClearance": 1,
-        "ballRecovery": 2,
-        "wasFouled": 1,
-        "minutesPlayed": 23,
-        "touches": 11,
-        "rating": 7,
-        "possessionLostCtrl": 6,
-        "expectedAssists": 0.00310991,
-        "totalBallCarriesDistance": 7.6305524863369,
-        "ballCarriesCount": 2,
-        "totalProgression": -2.4417951365767,
-        "progressiveBallCarriesCount": 0,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 7,
-          "alternative": 6.9
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.04,
-        "dribbleValueNormalized": -0.13,
-        "defensiveValueNormalized": 0.16,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12437857": {
     "id": 12437857,
     "match_info": {
@@ -22973,6 +22846,140 @@
         "expectedGoalsOnTarget": 0.049,
         "expectedAssists": 0.00035903,
         "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083719": {
+    "id": 14083719,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-sociedad-espanyol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kike García",
+        "slug": "kike-garcia",
+        "shortName": "K. García",
+        "position": "F",
+        "jerseyNumber": "19",
+        "height": 186,
+        "userCount": 1166,
+        "gender": "M",
+        "sofascoreId": "ejhzk8",
+        "id": 84972,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 627955200,
+        "proposedMarketValueRaw": {
+          "value": 725000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيكي غارسيا",
+            "bn": "কাইক গার্সিয়া",
+            "hi": "किके गार्सिया",
+            "ru": "Кике Гарсия"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. غارسيا",
+            "bn": "কে. গার্সিয়া",
+            "hi": "के. गार्सिया",
+            "ru": "К. Гарсия"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 184894,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 7,
+        "accuratePass": 3,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 5,
+        "totalCross": 1,
+        "aerialWon": 4,
+        "duelLost": 1,
+        "duelWon": 5,
+        "totalContest": 1,
+        "hitWoodwork": 1,
+        "totalClearance": 1,
+        "ballRecovery": 2,
+        "wasFouled": 1,
+        "minutesPlayed": 23,
+        "touches": 11,
+        "rating": 7,
+        "possessionLostCtrl": 6,
+        "expectedAssists": 0.00310991,
+        "topSpeed": 27.47,
+        "kilometersCovered": 3.01,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 7.6305524863369,
+        "ballCarriesCount": 2,
+        "totalProgression": -2.4417951365767,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.04,
+        "dribbleValueNormalized": -0.13,
+        "defensiveValueNormalized": 0.16,
+        "metersCoveredRunningKm": 0.53,
+        "metersCoveredHighSpeedRunningKm": 0.25,
+        "metersCoveredSprintingKm": 0.03,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

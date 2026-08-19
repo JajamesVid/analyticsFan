@@ -3213,126 +3213,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Getafe",
-        "abreviatura": "GET",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/8.png"
-      },
-      "visitante": {
-        "nombre": "Osasuna",
-        "abreviatura": "OSA",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
-      }
-    },
-    "resultado": "1-0",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20446-getafe-osasuna",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083723,
-      "match_info": {
-        "homeTeam": {
-          "name": "Getafe",
-          "shortName": "Getafe",
-          "color": "#00369e",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Osasuna",
-          "shortName": "Osasuna",
-          "color": "#cc0000",
-          "score": 0
-        },
-        "startTimestamp": 1779562800,
-        "slug": "getafe-osasuna",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Aitor Fernández",
-          "slug": "aitor-fernandez",
-          "shortName": "A. Fernández",
-          "position": "G",
-          "jerseyNumber": "13",
-          "height": 182,
-          "userCount": 284,
-          "gender": "M",
-          "id": 99516,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 673228800,
-          "proposedMarketValueRaw": {
-            "value": 465000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "أيتور فرنانديز",
-              "bn": "এটর ফার্নান্ডেজ",
-              "hi": "एइटोर फर्नांडीज",
-              "ru": "Аитор Фернандес"
-            },
-            "shortNameTranslation": {
-              "ar": "أ. فرنانديز",
-              "bn": "এ. ফার্নান্ডেজ",
-              "hi": "ए. फर्नांडीज",
-              "ru": "А. Фернандес"
-            }
-          }
-        },
-        "team": {
-          "name": "Osasuna",
-          "slug": "osasuna",
-          "shortName": "Osasuna",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 199411,
-          "nameCode": "OSA",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2820,
-          "teamColors": {
-            "primary": "#cc0000",
-            "secondary": "#14213d",
-            "text": "#14213d"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "أوساسونا",
-              "bn": "ওসাসুনা",
-              "hi": "ओसासुना",
-              "ru": "Осасуна"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "G",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Leganés",
         "abreviatura": "LEG",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/29.png"
@@ -20954,6 +20834,126 @@
           "expectedAssists": 0.00032801,
           "totalShots": 0,
           "goalsPrevented": -1.0354,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Getafe",
+        "abreviatura": "GET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/8.png"
+      },
+      "visitante": {
+        "nombre": "Osasuna",
+        "abreviatura": "OSA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
+      }
+    },
+    "resultado": "1-0",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20446-getafe-osasuna",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083723,
+      "match_info": {
+        "homeTeam": {
+          "name": "Getafe",
+          "shortName": "Getafe",
+          "color": "#00369e",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Osasuna",
+          "shortName": "Osasuna",
+          "color": "#cc0000",
+          "score": 0
+        },
+        "startTimestamp": 1779562800,
+        "slug": "getafe-osasuna"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Aitor Fernández",
+          "slug": "aitor-fernandez",
+          "shortName": "A. Fernández",
+          "position": "G",
+          "jerseyNumber": "13",
+          "height": 182,
+          "userCount": 290,
+          "gender": "M",
+          "sofascoreId": "h8szjc",
+          "id": 99516,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 673228800,
+          "proposedMarketValueRaw": {
+            "value": 465000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أيتور فرنانديز",
+              "bn": "এটর ফার্নান্ডেজ",
+              "hi": "एइटोर फर्नांडीज",
+              "ru": "Аитор Фернандес"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. فرنانديز",
+              "bn": "এ. ফার্নান্ডেজ",
+              "hi": "ए. फर्नांडीज",
+              "ru": "А. Фернандес"
+            }
+          }
+        },
+        "team": {
+          "name": "Osasuna",
+          "slug": "osasuna",
+          "shortName": "Osasuna",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 202237,
+          "nameCode": "OSA",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2820,
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#14213d",
+            "text": "#14213d"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوساسونا",
+              "bn": "ওসাসুনা",
+              "hi": "ओसासुना",
+              "ru": "Осасуна"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

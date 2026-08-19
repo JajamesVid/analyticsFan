@@ -3258,98 +3258,6 @@
       "extra": null
     }
   },
-  "14083719": {
-    "id": 14083719,
-    "match_info": {
-      "homeTeam": {
-        "name": "Espanyol",
-        "shortName": "Espanyol",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Real Sociedad",
-        "shortName": "Real Sociedad",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-sociedad-espanyol"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Clemens Riedel",
-        "slug": "clemens-riedel",
-        "shortName": "C. Riedel",
-        "position": "D",
-        "jerseyNumber": "38",
-        "height": 186,
-        "userCount": 372,
-        "gender": "M",
-        "id": 1129360,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1058572800,
-        "proposedMarketValueRaw": {
-          "value": 3900000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "كليمنس ريدل",
-            "bn": "ক্লেমেন্স রিডেল",
-            "hi": "क्लेमेंस रीडेल",
-            "ru": "Клеменс Ридель"
-          },
-          "shortNameTranslation": {
-            "ar": "ك. ريدل",
-            "bn": "সি. রিডেল",
-            "hi": "सी. रीडेल",
-            "ru": "К. Ридель"
-          }
-        }
-      },
-      "team": {
-        "name": "Espanyol",
-        "slug": "espanyol",
-        "shortName": "Espanyol",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 183240,
-        "nameCode": "ESP",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2814,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#1369d2",
-          "text": "#1369d2"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "اسبانيول",
-            "bn": "এসপানিওল",
-            "hi": "एस्पेनयोल",
-            "ru": "Эспаньол"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12500015": {
     "id": 12500015,
     "match_info": {
@@ -18047,6 +17955,99 @@
             "bn": "ডার্মস্ট্যাড",
             "hi": "डार्मस्टाट"
           }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083719": {
+    "id": 14083719,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-sociedad-espanyol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Clemens Riedel",
+        "slug": "clemens-riedel",
+        "shortName": "C. Riedel",
+        "position": "D",
+        "jerseyNumber": "38",
+        "height": 186,
+        "userCount": 378,
+        "gender": "M",
+        "sofascoreId": "sndmzs",
+        "id": 1129360,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1058572800,
+        "proposedMarketValueRaw": {
+          "value": 3900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كليمنس ريدل",
+            "bn": "ক্লেমেন্স রিডেল",
+            "hi": "क्लेमेंस रीडेल",
+            "ru": "Клеменс Ридель"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. ريدل",
+            "bn": "সি. রিডেল",
+            "hi": "सी. रीडेल",
+            "ru": "К. Ридель"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 184894,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
         }
       },
       "statistics": {

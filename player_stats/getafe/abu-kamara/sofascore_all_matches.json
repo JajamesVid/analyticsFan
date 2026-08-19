@@ -2884,100 +2884,6 @@
       "extra": null
     }
   },
-  "14083723": {
-    "id": 14083723,
-    "match_info": {
-      "homeTeam": {
-        "name": "Getafe",
-        "shortName": "Getafe",
-        "color": "#00369e",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Osasuna",
-        "shortName": "Osasuna",
-        "color": "#cc0000",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "getafe-osasuna"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Abu Kamara",
-        "firstName": "",
-        "lastName": "",
-        "slug": "kamara-abu",
-        "shortName": "A. Kamara",
-        "position": "M",
-        "jerseyNumber": "11",
-        "height": 183,
-        "userCount": 479,
-        "gender": "M",
-        "id": 1087476,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1058745600,
-        "proposedMarketValueRaw": {
-          "value": 2400000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "كامارا، أبو",
-            "bn": "কামারা, আবু",
-            "hi": "कामारा, अबू",
-            "ru": "Камара, Абу"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. كامارا",
-            "bn": "এ. কামারা",
-            "hi": "ए. कामारा",
-            "ru": "А. Камара"
-          }
-        }
-      },
-      "team": {
-        "name": "Getafe",
-        "slug": "getafe",
-        "shortName": "Getafe",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 199335,
-        "nameCode": "GET",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2859,
-        "teamColors": {
-          "primary": "#00369e",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "خيتافي",
-            "bn": "গেটাফে",
-            "hi": "गेटाफे",
-            "ru": "Хетафе"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12468800": {
     "id": 12468800,
     "match_info": {
@@ -16693,6 +16599,101 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083723": {
+    "id": 14083723,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "getafe-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Abu Kamara",
+        "firstName": "",
+        "lastName": "",
+        "slug": "kamara-abu",
+        "shortName": "A. Kamara",
+        "position": "M",
+        "jerseyNumber": "17",
+        "height": 183,
+        "userCount": 510,
+        "gender": "M",
+        "sofascoreId": "g8rzb6",
+        "id": 1087476,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1058745600,
+        "proposedMarketValueRaw": {
+          "value": 2400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كامارا، أبو",
+            "bn": "কামারা, আবু",
+            "hi": "कामारा, अबू",
+            "ru": "Камара, Абу"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. كامارا",
+            "bn": "এ. কামারা",
+            "hi": "ए. कामारा",
+            "ru": "А. Камара"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 203865,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
     }
   }
 }

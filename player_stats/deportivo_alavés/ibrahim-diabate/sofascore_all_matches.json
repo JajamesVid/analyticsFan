@@ -3255,126 +3255,6 @@
       "extra": null
     }
   },
-  "14083706": {
-    "id": 14083706,
-    "match_info": {
-      "homeTeam": {
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "color": "#0232a0",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Rayo Vallecano",
-        "shortName": "Rayo Vallecano",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "deportivo-alaves-rayo-vallecano"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Ibrahim Diabaté",
-        "firstName": "Ibrahim",
-        "lastName": "Diabate",
-        "slug": "ibrahim-diabate",
-        "shortName": "I. Diabaté",
-        "position": "F",
-        "jerseyNumber": "22",
-        "height": 185,
-        "userCount": 2426,
-        "gender": "M",
-        "id": 1084043,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 942796800,
-        "proposedMarketValueRaw": {
-          "value": 1400000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إبراهيم دياباتيه"
-          },
-          "shortNameTranslation": {
-            "ar": "إ. دياباتيه"
-          }
-        }
-      },
-      "team": {
-        "name": "Deportivo Alavés",
-        "slug": "deportivo-alaves",
-        "shortName": "Alavés",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 152876,
-        "nameCode": "ALA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2885,
-        "teamColors": {
-          "primary": "#0232a0",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ديبورتيفو ألافيس",
-            "ru": "Алавес"
-          },
-          "shortNameTranslation": {
-            "ar": "ألافيس",
-            "bn": "আলাভেস",
-            "hi": "अलावेस"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 4,
-        "accuratePass": 3,
-        "goalAssist": 0,
-        "accurateOppositionHalfPasses": 3,
-        "totalOppositionHalfPasses": 4,
-        "aerialWon": 1,
-        "duelWon": 2,
-        "blockedScoringAttempt": 1,
-        "unsuccessfulTouch": 2,
-        "wasFouled": 1,
-        "minutesPlayed": 12,
-        "touches": 8,
-        "rating": 6.5,
-        "possessionLostCtrl": 3,
-        "expectedGoals": 0.0807,
-        "expectedAssists": 0.00278261,
-        "totalBallCarriesDistance": 29.890417607914,
-        "ballCarriesCount": 4,
-        "totalProgression": 0.92554012050723,
-        "bestBallCarryProgression": 4.8918051256703,
-        "totalProgressiveBallCarriesDistance": 7.3272982742618,
-        "progressiveBallCarriesCount": 1,
-        "ratingVersions": {
-          "original": 6.5,
-          "alternative": 6.6
-        },
-        "totalShots": 1,
-        "shotValueNormalized": -0.1,
-        "passValueNormalized": -0.07,
-        "dribbleValueNormalized": -0.04,
-        "defensiveValueNormalized": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "11907361": {
     "id": 11907361,
     "match_info": {
@@ -10794,6 +10674,135 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083706": {
+    "id": 14083706,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "deportivo-alaves-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ibrahim Diabaté",
+        "firstName": "Ibrahim",
+        "lastName": "Diabate",
+        "slug": "ibrahim-diabate",
+        "shortName": "I. Diabaté",
+        "position": "F",
+        "jerseyNumber": "19",
+        "height": 185,
+        "userCount": 2358,
+        "gender": "M",
+        "sofascoreId": "vu57ut",
+        "id": 1084043,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 942796800,
+        "proposedMarketValueRaw": {
+          "value": 1400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إبراهيم دياباتيه",
+            "ru": "Ибрагим Диабате"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. دياباتيه",
+            "ru": "И. Диабате"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 154032,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 4,
+        "accuratePass": 3,
+        "goalAssist": 0,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 4,
+        "aerialWon": 1,
+        "duelWon": 2,
+        "blockedScoringAttempt": 1,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "minutesPlayed": 12,
+        "touches": 8,
+        "rating": 6.5,
+        "possessionLostCtrl": 3,
+        "expectedGoals": 0.0807,
+        "expectedAssists": 0.00278261,
+        "topSpeed": 27.81,
+        "kilometersCovered": 1.27,
+        "numberOfSprints": 1,
+        "totalBallCarriesDistance": 29.890417607914,
+        "ballCarriesCount": 4,
+        "totalProgression": 0.92554012050723,
+        "bestBallCarryProgression": 4.8918051256703,
+        "totalProgressiveBallCarriesDistance": 7.3272982742618,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.6
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.1,
+        "passValueNormalized": -0.07,
+        "dribbleValueNormalized": -0.04,
+        "defensiveValueNormalized": 0,
+        "metersCoveredRunningKm": 0.2,
+        "metersCoveredHighSpeedRunningKm": 0.1,
+        "metersCoveredSprintingKm": 0.01,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
     }
   }
 }

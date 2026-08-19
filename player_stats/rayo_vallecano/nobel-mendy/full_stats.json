@@ -3553,233 +3553,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Alavés",
-        "abreviatura": "ALA",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
-      },
-      "visitante": {
-        "nombre": "Rayo",
-        "abreviatura": "RAY",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/14.png"
-      }
-    },
-    "resultado": "1-2",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20444-alaves-rayo",
-    "puntuaciones": {
-      "picas": 1,
-      "marca": 1,
-      "cope": 6.0,
-      "sofascore": 7.3,
-      "relevo": 2.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 5.0,
-        "futbolfantasy-rpg": 4.0,
-        "comunio": 7.0,
-        "modo-picas": 2.0,
-        "biwenger-sofascore": 6.0,
-        "biwenger-social": 1.0,
-        "biwenger-as-sofascore": 4.0,
-        "biwenger-stats": 2.0,
-        "futmondo-prensa": 3.0,
-        "futmondo-mixto-as": 2.0,
-        "futmondo-stats": 0.0,
-        "futmondo-mixto": 3.9,
-        "cronistas-marca": 2.0,
-        "marca-mixto": 3.0,
-        "marca-sofascore": 6.0,
-        "mister-cronistas-md": 2.0,
-        "mister-mixto": 3.0,
-        "mister-mixto-2": 4.0,
-        "mister-sofascore": 6.0,
-        "stat-goles": 0.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 0.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 0.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 0.0,
-        "stat-regates-exito": 0.0,
-        "stat-faltas-recibidas": 0.0,
-        "stat-faltas-cometidas": 2.0,
-        "stat-pases-interceptados": 0.0,
-        "stat-balones-robados": 2.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 0.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 1.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 0.0,
-        "stat-despejes": 4.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 12.0,
-        "stat-tiros-totales": 0.0,
-        "stat-centros-totales": 0.0,
-        "stat-precision-pases": 76.6,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 2.0,
-        "stat-tackles": 2.0,
-        "stat-duelos-aereos": 2.0,
-        "stat-tiros-bloqueados": 3.0,
-        "stat-pases-totales": 47.0,
-        "stat-pases-completados": 36.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083706,
-      "match_info": {
-        "homeTeam": {
-          "name": "Deportivo Alavés",
-          "shortName": "Alavés",
-          "color": "#0232a0",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Rayo Vallecano",
-          "shortName": "Rayo Vallecano",
-          "color": "#ffffff",
-          "score": 2
-        },
-        "startTimestamp": 1779562800,
-        "slug": "deportivo-alaves-rayo-vallecano",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Nobel Mendy",
-          "firstName": "Nobel",
-          "lastName": "Mendy",
-          "slug": "nobel-mendy",
-          "shortName": "N. Mendy",
-          "position": "D",
-          "jerseyNumber": "32",
-          "height": 187,
-          "userCount": 6452,
-          "gender": "M",
-          "id": 1458073,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 1092614400,
-          "proposedMarketValueRaw": {
-            "value": 7700000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "نوبل ميندي",
-              "bn": "মেন্ডি, নোবেল",
-              "hi": "मेंडी, नोबेल",
-              "ru": "Нобель Менди"
-            },
-            "shortNameTranslation": {
-              "ar": "ن. ميندي",
-              "bn": "এন. মেন্ডি",
-              "hi": "एन. मेंडी",
-              "ru": "Н. Менди"
-            }
-          }
-        },
-        "team": {
-          "name": "Rayo Vallecano",
-          "slug": "rayo-vallecano",
-          "shortName": "Rayo Vallecano",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 227407,
-          "nameCode": "RAY",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2818,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#ffffff",
-            "text": "#ffffff"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "رايو فاليكانو",
-              "bn": "রায়ো ভ্যালেকানো",
-              "hi": "रेयो वैलेकैनो",
-              "ru": "Райо Вальекано"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalPass": 47,
-          "accuratePass": 36,
-          "totalLongBalls": 10,
-          "accurateLongBalls": 5,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 33,
-          "totalOwnHalfPasses": 36,
-          "accurateOppositionHalfPasses": 3,
-          "totalOppositionHalfPasses": 11,
-          "aerialLost": 2,
-          "aerialWon": 2,
-          "duelLost": 4,
-          "duelWon": 4,
-          "totalClearance": 4,
-          "outfielderBlock": 3,
-          "ballRecovery": 6,
-          "totalTackle": 2,
-          "wonTackle": 2,
-          "fouls": 2,
-          "minutesPlayed": 90,
-          "touches": 62,
-          "rating": 7.3,
-          "possessionLostCtrl": 12,
-          "expectedAssists": 0.00179536,
-          "totalBallCarriesDistance": 76.095640474017,
-          "ballCarriesCount": 12,
-          "totalProgression": 30.893005980975,
-          "progressiveBallCarriesCount": 0,
-          "ratingVersions": {
-            "original": 7.3,
-            "alternative": 7.1
-          },
-          "totalShots": 0,
-          "passValueNormalized": 0.03,
-          "dribbleValueNormalized": 0.05,
-          "defensiveValueNormalized": 0.56,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "D",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Girona",
         "abreviatura": "GIR",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/30.png"
@@ -9183,6 +8956,239 @@
             "alternative": null
           },
           "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Alavés",
+        "abreviatura": "ALA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
+      },
+      "visitante": {
+        "nombre": "Rayo",
+        "abreviatura": "RAY",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/14.png"
+      }
+    },
+    "resultado": "1-2",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20444-alaves-rayo",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 6.0,
+      "sofascore": 7.3,
+      "relevo": 2.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 5.0,
+        "futbolfantasy-rpg": 4.0,
+        "comunio": 7.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 6.0,
+        "biwenger-social": 1.0,
+        "biwenger-as-sofascore": 4.0,
+        "biwenger-stats": 2.0,
+        "futmondo-prensa": 3.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 0.0,
+        "futmondo-mixto": 3.9,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 3.0,
+        "marca-sofascore": 6.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 3.0,
+        "mister-mixto-2": 4.0,
+        "mister-sofascore": 6.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 2.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 2.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 4.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 12.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 76.6,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 2.0,
+        "stat-tackles": 2.0,
+        "stat-duelos-aereos": 2.0,
+        "stat-tiros-bloqueados": 3.0,
+        "stat-pases-totales": 47.0,
+        "stat-pases-completados": 36.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083706,
+      "match_info": {
+        "homeTeam": {
+          "name": "Deportivo Alavés",
+          "shortName": "Alavés",
+          "color": "#0232a0",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Rayo Vallecano",
+          "shortName": "Rayo Vallecano",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "startTimestamp": 1779562800,
+        "slug": "deportivo-alaves-rayo-vallecano"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Nobel Mendy",
+          "firstName": "Nobel",
+          "lastName": "Mendy",
+          "slug": "nobel-mendy",
+          "shortName": "N. Mendy",
+          "position": "D",
+          "jerseyNumber": "32",
+          "height": 187,
+          "userCount": 6419,
+          "gender": "M",
+          "sofascoreId": "b7rf6v",
+          "id": 1458073,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1092614400,
+          "proposedMarketValueRaw": {
+            "value": 7700000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نوبل ميندي",
+              "bn": "মেন্ডি, নোবেল",
+              "hi": "मेंडी, नोबेल",
+              "ru": "Нобель Менди"
+            },
+            "shortNameTranslation": {
+              "ar": "ن. ميندي",
+              "bn": "এন. মেন্ডি",
+              "hi": "एन. मेंडी",
+              "ru": "Н. Менди"
+            }
+          }
+        },
+        "team": {
+          "name": "Rayo Vallecano",
+          "slug": "rayo-vallecano",
+          "shortName": "Rayo Vallecano",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 227211,
+          "nameCode": "RAY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2818,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "رايو فاليكانو",
+              "bn": "রায়ো ভ্যালেকানো",
+              "hi": "रेयो वैलेकैनो",
+              "ru": "Райо Вальекано"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 47,
+          "accuratePass": 36,
+          "totalLongBalls": 10,
+          "accurateLongBalls": 5,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 33,
+          "totalOwnHalfPasses": 36,
+          "accurateOppositionHalfPasses": 3,
+          "totalOppositionHalfPasses": 11,
+          "aerialLost": 2,
+          "aerialWon": 2,
+          "duelLost": 4,
+          "duelWon": 4,
+          "totalClearance": 4,
+          "outfielderBlock": 3,
+          "ballRecovery": 6,
+          "totalTackle": 2,
+          "wonTackle": 2,
+          "fouls": 2,
+          "minutesPlayed": 90,
+          "touches": 62,
+          "rating": 7.3,
+          "possessionLostCtrl": 12,
+          "expectedAssists": 0.00179536,
+          "topSpeed": 33.19,
+          "kilometersCovered": 8.53,
+          "numberOfSprints": 4,
+          "totalBallCarriesDistance": 76.095640474017,
+          "ballCarriesCount": 12,
+          "totalProgression": 30.893005980975,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 7.3,
+            "alternative": 7.1
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.03,
+          "dribbleValueNormalized": 0.05,
+          "defensiveValueNormalized": 0.56,
+          "metersCoveredRunningKm": 0.89,
+          "metersCoveredHighSpeedRunningKm": 0.2,
+          "metersCoveredSprintingKm": 0.07,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

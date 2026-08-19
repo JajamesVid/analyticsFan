@@ -3468,134 +3468,6 @@
       "extra": null
     }
   },
-  "14083719": {
-    "id": 14083719,
-    "match_info": {
-      "homeTeam": {
-        "name": "Espanyol",
-        "shortName": "Espanyol",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Real Sociedad",
-        "shortName": "Real Sociedad",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-sociedad-espanyol"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Ramón Terrats",
-        "firstName": "Ramón Terrats",
-        "slug": "ramon-terrats",
-        "shortName": "R. Terrats",
-        "position": "M",
-        "jerseyNumber": "14",
-        "height": 179,
-        "userCount": 552,
-        "gender": "M",
-        "id": 1088565,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 971827200,
-        "proposedMarketValueRaw": {
-          "value": 3200000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "رامون تيراتس",
-            "bn": "রামন টেরেটস",
-            "hi": "रामोन टेराट्स",
-            "ru": "Рамон Терратс"
-          },
-          "shortNameTranslation": {
-            "ar": "ر. تيراتس",
-            "bn": "আর. টেরাটাস",
-            "hi": "आर. टेराट्स",
-            "ru": "Р. Терратс"
-          }
-        }
-      },
-      "team": {
-        "name": "Espanyol",
-        "slug": "espanyol",
-        "shortName": "Espanyol",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 183425,
-        "nameCode": "ESP",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2814,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#1369d2",
-          "text": "#1369d2"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "اسبانيول",
-            "bn": "এসপানিওল",
-            "hi": "एस्पेनयोल",
-            "ru": "Эспаньол"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 8,
-        "accuratePass": 5,
-        "totalLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 3,
-        "totalOwnHalfPasses": 3,
-        "accurateOppositionHalfPasses": 2,
-        "totalOppositionHalfPasses": 5,
-        "aerialLost": 2,
-        "duelLost": 6,
-        "duelWon": 3,
-        "dispossessed": 1,
-        "totalContest": 4,
-        "wonContest": 1,
-        "shotOffTarget": 1,
-        "unsuccessfulTouch": 3,
-        "wasFouled": 2,
-        "minutesPlayed": 45,
-        "touches": 22,
-        "rating": 6.3,
-        "possessionLostCtrl": 10,
-        "expectedGoals": 0.0484,
-        "expectedAssists": 0.0246924,
-        "totalBallCarriesDistance": 11.115519332329,
-        "ballCarriesCount": 2,
-        "totalProgression": 8.2753227062295,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.3,
-          "alternative": 6.4
-        },
-        "totalShots": 1,
-        "shotValueNormalized": 0,
-        "passValueNormalized": 0.09,
-        "dribbleValueNormalized": -0.66,
-        "defensiveValueNormalized": -0.01,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "13363910": {
     "id": 13363910,
     "match_info": {
@@ -22079,6 +21951,141 @@
         }
       },
       "position": "M",
+      "extra": null
+    }
+  },
+  "14083719": {
+    "id": 14083719,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-sociedad-espanyol"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ramón Terrats",
+        "firstName": "Ramón Terrats",
+        "slug": "ramon-terrats",
+        "shortName": "R. Terrats",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 179,
+        "userCount": 593,
+        "gender": "M",
+        "sofascoreId": "cejz4i",
+        "id": 1088565,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 971827200,
+        "proposedMarketValueRaw": {
+          "value": 3200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رامون تيراتس",
+            "bn": "রামন টেরেটস",
+            "hi": "रामोन टेराट्स",
+            "ru": "Рамон Терратс"
+          },
+          "shortNameTranslation": {
+            "ar": "ر. تيراتس",
+            "bn": "আর. টেরাটাস",
+            "hi": "आर. टेराट्स",
+            "ru": "Р. Терратс"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 184894,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 8,
+        "accuratePass": 5,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 5,
+        "aerialLost": 2,
+        "duelLost": 6,
+        "duelWon": 3,
+        "dispossessed": 1,
+        "totalContest": 4,
+        "wonContest": 1,
+        "shotOffTarget": 1,
+        "unsuccessfulTouch": 3,
+        "wasFouled": 2,
+        "minutesPlayed": 45,
+        "touches": 22,
+        "rating": 6.3,
+        "possessionLostCtrl": 10,
+        "expectedGoals": 0.0484,
+        "expectedAssists": 0.0246924,
+        "topSpeed": 32.84,
+        "kilometersCovered": 5.81,
+        "numberOfSprints": 6,
+        "totalBallCarriesDistance": 11.115519332329,
+        "ballCarriesCount": 2,
+        "totalProgression": 8.2753227062295,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.4
+        },
+        "totalShots": 1,
+        "shotValueNormalized": 0,
+        "passValueNormalized": 0.09,
+        "dribbleValueNormalized": -0.66,
+        "defensiveValueNormalized": -0.01,
+        "metersCoveredRunningKm": 1.05,
+        "metersCoveredHighSpeedRunningKm": 0.4,
+        "metersCoveredSprintingKm": 0.07,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
       "extra": null
     }
   }

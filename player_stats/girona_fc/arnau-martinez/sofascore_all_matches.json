@@ -3932,148 +3932,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Arnau Martínez",
-        "firstName": "Arnau Martinez",
-        "slug": "arnau-martinez",
-        "shortName": "A. Martínez",
-        "position": "D",
-        "jerseyNumber": "4",
-        "height": 181,
-        "userCount": 1722,
-        "gender": "M",
-        "sofascoreId": "kmufvd",
-        "id": 1084081,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1051228800,
-        "proposedMarketValueRaw": {
-          "value": 10800000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أرناو مارتينيز",
-            "bn": "আরনাউ মার্টিনেজ",
-            "hi": "अर्नु मार्टिनेज़",
-            "ru": "Арнау Мартинес"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. مارتينيز",
-            "bn": "এ. মার্টিনেজ",
-            "hi": "ए. मार्टिनेज़",
-            "ru": "А. Мартинес"
-          }
-        }
-      },
-      "team": {
-        "name": "Girona FC",
-        "slug": "girona-fc",
-        "shortName": "Girona",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 373692,
-        "nameCode": "GIR",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 24264,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ff0000",
-          "text": "#ff0000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "جيرونا إف سي",
-            "hi": "जिरोना",
-            "ru": "Жирона"
-          },
-          "shortNameTranslation": {
-            "ar": "جيرونا",
-            "bn": "জিরোনা",
-            "hi": "गिरोना"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 17,
-        "accuratePass": 11,
-        "totalLongBalls": 3,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 8,
-        "totalOwnHalfPasses": 11,
-        "accurateOppositionHalfPasses": 3,
-        "totalOppositionHalfPasses": 6,
-        "aerialLost": 2,
-        "aerialWon": 1,
-        "duelLost": 6,
-        "duelWon": 1,
-        "challengeLost": 1,
-        "dispossessed": 1,
-        "totalContest": 1,
-        "onTargetScoringAttempt": 1,
-        "goals": 1,
-        "unsuccessfulTouch": 2,
-        "fouls": 1,
-        "minutesPlayed": 58,
-        "touches": 28,
-        "rating": 6.4,
-        "possessionLostCtrl": 10,
-        "expectedGoals": 0.1542,
-        "expectedGoalsOnTarget": 0.3504,
-        "expectedAssists": 0.00143638,
-        "topSpeed": 24.97,
-        "kilometersCovered": 5.78,
-        "numberOfSprints": 0,
-        "totalBallCarriesDistance": 44.089377541199,
-        "ballCarriesCount": 4,
-        "totalProgression": 7.2841319832855,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.4,
-          "alternative": 6.7
-        },
-        "totalShots": 1,
-        "shotValueNormalized": 0.32,
-        "passValueNormalized": -0.02,
-        "dribbleValueNormalized": -0.06,
-        "defensiveValueNormalized": -0.25,
-        "metersCoveredRunningKm": 0.59,
-        "metersCoveredHighSpeedRunningKm": 0.08,
-        "metersCoveredSprintingKm": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437749": {
     "id": 12437749,
     "match_info": {
@@ -23177,6 +23035,148 @@
         "expectedAssists": 0.054717,
         "keyPass": 1,
         "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Arnau Martínez",
+        "firstName": "Arnau Martinez",
+        "slug": "arnau-martinez",
+        "shortName": "A. Martínez",
+        "position": "D",
+        "jerseyNumber": "4",
+        "height": 181,
+        "userCount": 1739,
+        "gender": "M",
+        "sofascoreId": "kmufvd",
+        "id": 1084081,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1051228800,
+        "proposedMarketValueRaw": {
+          "value": 10800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أرناو مارتينيز",
+            "bn": "আরনাউ মার্টিনেজ",
+            "hi": "अर्नु मार्टिनेज़",
+            "ru": "Арнау Мартинес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. مارتينيز",
+            "bn": "এ. মার্টিনেজ",
+            "hi": "ए. मार्टिनेज़",
+            "ru": "А. Мартинес"
+          }
+        }
+      },
+      "team": {
+        "name": "Girona FC",
+        "slug": "girona-fc",
+        "shortName": "Girona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 374248,
+        "nameCode": "GIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24264,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جيرونا إف سي",
+            "hi": "जिरोना",
+            "ru": "Жирона"
+          },
+          "shortNameTranslation": {
+            "ar": "جيرونا",
+            "bn": "জিরোনা",
+            "hi": "गिरोना"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 17,
+        "accuratePass": 11,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 8,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 6,
+        "aerialLost": 2,
+        "aerialWon": 1,
+        "duelLost": 6,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "onTargetScoringAttempt": 1,
+        "goals": 1,
+        "unsuccessfulTouch": 2,
+        "fouls": 1,
+        "minutesPlayed": 58,
+        "touches": 28,
+        "rating": 6.4,
+        "possessionLostCtrl": 10,
+        "expectedGoals": 0.1542,
+        "expectedGoalsOnTarget": 0.3504,
+        "expectedAssists": 0.00143638,
+        "topSpeed": 24.97,
+        "kilometersCovered": 5.78,
+        "numberOfSprints": 0,
+        "totalBallCarriesDistance": 44.089377541199,
+        "ballCarriesCount": 4,
+        "totalProgression": 7.2841319832855,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.7
+        },
+        "totalShots": 1,
+        "shotValueNormalized": 0.32,
+        "passValueNormalized": -0.02,
+        "dribbleValueNormalized": -0.06,
+        "defensiveValueNormalized": -0.25,
+        "metersCoveredRunningKm": 0.59,
+        "metersCoveredHighSpeedRunningKm": 0.08,
+        "metersCoveredSprintingKm": 0,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

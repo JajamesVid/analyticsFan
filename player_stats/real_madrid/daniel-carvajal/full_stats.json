@@ -3213,230 +3213,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Real Madrid",
-        "abreviatura": "RMD",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
-      },
-      "visitante": {
-        "nombre": "Athletic",
-        "abreviatura": "ATH",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
-      }
-    },
-    "resultado": "4-2",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20450-real-madrid-athletic",
-    "puntuaciones": {
-      "picas": 2,
-      "marca": 3,
-      "cope": 8.0,
-      "sofascore": 6.7,
-      "relevo": 3.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 8.0,
-        "futbolfantasy-rpg": 5.0,
-        "comunio": 5.0,
-        "modo-picas": 6.0,
-        "biwenger-sofascore": 4.0,
-        "biwenger-social": 6.0,
-        "biwenger-as-sofascore": 5.0,
-        "biwenger-stats": 5.0,
-        "futmondo-prensa": 10.0,
-        "futmondo-mixto-as": 6.0,
-        "futmondo-stats": 6.0,
-        "futmondo-mixto": 8.5,
-        "cronistas-marca": 10.0,
-        "marca-mixto": 10.0,
-        "marca-sofascore": 3.0,
-        "mister-cronistas-md": 6.0,
-        "mister-mixto": 6.0,
-        "mister-mixto-2": 6.0,
-        "mister-sofascore": 3.0,
-        "stat-goles": 0.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 1.0,
-        "stat-asistencias-sin-gol": 1.0,
-        "stat-tiros-puerta": 0.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 0.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 2.0,
-        "stat-regates-exito": 0.0,
-        "stat-faltas-recibidas": 1.0,
-        "stat-faltas-cometidas": 0.0,
-        "stat-pases-interceptados": 0.0,
-        "stat-balones-robados": 0.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 0.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 1.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 0.0,
-        "stat-despejes": 0.0,
-        "stat-ocasiones-claras-creadas": 1.0,
-        "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 9.0,
-        "stat-tiros-totales": 0.0,
-        "stat-centros-totales": 1.0,
-        "stat-precision-pases": 84.6,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 0.0,
-        "stat-tackles": 0.0,
-        "stat-duelos-aereos": 0.0,
-        "stat-tiros-bloqueados": 0.0,
-        "stat-pases-totales": 52.0,
-        "stat-pases-completados": 44.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083731,
-      "match_info": {
-        "homeTeam": {
-          "name": "Real Madrid",
-          "shortName": "Real Madrid",
-          "color": "#ffffff",
-          "score": 4
-        },
-        "awayTeam": {
-          "name": "Athletic Club",
-          "shortName": "Athletic Club",
-          "color": "#aa0000",
-          "score": 2
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-madrid-athletic-club",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Dani Carvajal",
-          "firstName": "Dani",
-          "lastName": "Carvajal",
-          "slug": "dani-carvajal",
-          "shortName": "D. Carvajal",
-          "position": "D",
-          "jerseyNumber": "2",
-          "height": 173,
-          "userCount": 157004,
-          "gender": "M",
-          "sofascoreId": "DaniCarvajal",
-          "id": 138572,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 695088000,
-          "proposedMarketValueRaw": {
-            "value": 5800000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "داني كارباخال",
-              "bn": "ড্যানিয়েল কারভাজাল",
-              "hi": "डैनियल कार्वाजल"
-            },
-            "shortNameTranslation": {
-              "ar": "د. كارباخال",
-              "bn": "ডি. কারভাজাল",
-              "hi": "डी. कार्वाजल"
-            }
-          }
-        },
-        "team": {
-          "name": "Real Madrid",
-          "slug": "real-madrid",
-          "shortName": "Real Madrid",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 7733858,
-          "nameCode": "RMA",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2829,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#004996",
-            "text": "#004996"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ريال مدريد",
-              "bn": "রিয়াল মাদ্রিদ",
-              "hi": "रियल मैड्रिड",
-              "ru": "Реал Мадрид"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalPass": 52,
-          "accuratePass": 44,
-          "totalLongBalls": 4,
-          "accurateLongBalls": 4,
-          "goalAssist": 1,
-          "accurateOwnHalfPasses": 24,
-          "totalOwnHalfPasses": 27,
-          "accurateOppositionHalfPasses": 20,
-          "totalOppositionHalfPasses": 25,
-          "totalCross": 1,
-          "duelWon": 1,
-          "bigChanceCreated": 1,
-          "ballRecovery": 3,
-          "wasFouled": 1,
-          "minutesPlayed": 84,
-          "touches": 59,
-          "rating": 6.7,
-          "possessionLostCtrl": 9,
-          "expectedAssists": 0.155022,
-          "totalBallCarriesDistance": 103.53713021877,
-          "ballCarriesCount": 16,
-          "totalProgression": 39.968696992237,
-          "bestBallCarryProgression": 11.5089172845,
-          "totalProgressiveBallCarriesDistance": 12.902571875405,
-          "progressiveBallCarriesCount": 1,
-          "keyPass": 2,
-          "ratingVersions": {
-            "original": 6.7,
-            "alternative": 7.4
-          },
-          "totalShots": 0,
-          "passValueNormalized": 0.28,
-          "dribbleValueNormalized": -0.01,
-          "defensiveValueNormalized": -0.21,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "D",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Mallorca",
         "abreviatura": "MAL",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
@@ -19572,6 +19348,236 @@
           "expectedGoalsOnTarget": 0,
           "expectedAssists": 0.176632,
           "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "4-2",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20450-real-madrid-athletic",
+    "puntuaciones": {
+      "picas": 2,
+      "marca": 3,
+      "cope": 8.0,
+      "sofascore": 6.7,
+      "relevo": 3.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 8.0,
+        "futbolfantasy-rpg": 5.0,
+        "comunio": 5.0,
+        "modo-picas": 6.0,
+        "biwenger-sofascore": 4.0,
+        "biwenger-social": 6.0,
+        "biwenger-as-sofascore": 5.0,
+        "biwenger-stats": 5.0,
+        "futmondo-prensa": 10.0,
+        "futmondo-mixto-as": 6.0,
+        "futmondo-stats": 6.0,
+        "futmondo-mixto": 8.5,
+        "cronistas-marca": 10.0,
+        "marca-mixto": 10.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 6.0,
+        "mister-mixto": 6.0,
+        "mister-mixto-2": 6.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 1.0,
+        "stat-asistencias-sin-gol": 1.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 2.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 1.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 9.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 1.0,
+        "stat-precision-pases": 84.6,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 52.0,
+        "stat-pases-completados": 44.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083731,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Madrid",
+          "shortName": "Real Madrid",
+          "color": "#ffffff",
+          "score": 4
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 2
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-madrid-athletic-club"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Dani Carvajal",
+          "firstName": "Dani",
+          "lastName": "Carvajal",
+          "slug": "dani-carvajal",
+          "shortName": "D. Carvajal",
+          "position": "D",
+          "height": 173,
+          "userCount": 157914,
+          "gender": "M",
+          "sofascoreId": "DaniCarvajal",
+          "id": 138572,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 695088000,
+          "proposedMarketValueRaw": {
+            "value": 3900000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "داني كارباخال",
+              "bn": "ড্যানিয়েল কারভাজাল",
+              "hi": "डैनियल कार्वाजल",
+              "ru": "Дани Карвахаль"
+            },
+            "shortNameTranslation": {
+              "ar": "د. كارباخال",
+              "bn": "ডি. কারভাজাল",
+              "hi": "डी. कार्वाजल",
+              "ru": "Д. Карвахаль"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Madrid",
+          "slug": "real-madrid",
+          "shortName": "Real Madrid",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 8378061,
+          "nameCode": "RMA",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2829,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#004996",
+            "text": "#004996"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال مدريد",
+              "bn": "রিয়াল মাদ্রিদ",
+              "hi": "रियल मैड्रिड",
+              "ru": "Реал Мадрид"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 52,
+          "accuratePass": 44,
+          "totalLongBalls": 4,
+          "accurateLongBalls": 4,
+          "goalAssist": 1,
+          "accurateOwnHalfPasses": 24,
+          "totalOwnHalfPasses": 27,
+          "accurateOppositionHalfPasses": 20,
+          "totalOppositionHalfPasses": 25,
+          "totalCross": 1,
+          "duelWon": 1,
+          "bigChanceCreated": 1,
+          "ballRecovery": 3,
+          "wasFouled": 1,
+          "minutesPlayed": 84,
+          "touches": 59,
+          "rating": 6.7,
+          "possessionLostCtrl": 9,
+          "expectedAssists": 0.155022,
+          "topSpeed": 27.7,
+          "kilometersCovered": 8.93,
+          "numberOfSprints": 3,
+          "totalBallCarriesDistance": 103.53713021877,
+          "ballCarriesCount": 16,
+          "totalProgression": 39.968696992237,
+          "bestBallCarryProgression": 11.5089172845,
+          "totalProgressiveBallCarriesDistance": 12.902571875405,
+          "progressiveBallCarriesCount": 1,
+          "keyPass": 2,
+          "ratingVersions": {
+            "original": 6.7,
+            "alternative": 7.4
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.28,
+          "dribbleValueNormalized": -0.01,
+          "defensiveValueNormalized": -0.21,
+          "metersCoveredRunningKm": 1.12,
+          "metersCoveredHighSpeedRunningKm": 0.27,
+          "metersCoveredSprintingKm": 0.04,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

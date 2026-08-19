@@ -3352,130 +3352,6 @@
       "extra": null
     }
   },
-  "14083723": {
-    "id": 14083723,
-    "match_info": {
-      "homeTeam": {
-        "name": "Getafe",
-        "shortName": "Getafe",
-        "color": "#00369e",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Osasuna",
-        "shortName": "Osasuna",
-        "color": "#cc0000",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "getafe-osasuna"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Adrian Liso",
-        "slug": "liso-adrian",
-        "shortName": "A. Liso",
-        "position": "F",
-        "jerseyNumber": "23",
-        "height": 182,
-        "userCount": 1100,
-        "gender": "M",
-        "id": 1515554,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1112400000,
-        "proposedMarketValueRaw": {
-          "value": 3100000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أدريان ليسو",
-            "ru": "Адриан Лисо"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. ليسو",
-            "ru": "А. Лисо"
-          }
-        }
-      },
-      "team": {
-        "name": "Getafe",
-        "slug": "getafe",
-        "shortName": "Getafe",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 199398,
-        "nameCode": "GET",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2859,
-        "teamColors": {
-          "primary": "#00369e",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "خيتافي",
-            "bn": "গেটাফে",
-            "hi": "गेटाफे",
-            "ru": "Хетафе"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 10,
-        "accuratePass": 5,
-        "totalLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 2,
-        "totalOwnHalfPasses": 3,
-        "accurateOppositionHalfPasses": 3,
-        "totalOppositionHalfPasses": 7,
-        "totalCross": 2,
-        "aerialLost": 1,
-        "aerialWon": 3,
-        "duelLost": 6,
-        "duelWon": 5,
-        "totalContest": 3,
-        "ballRecovery": 1,
-        "unsuccessfulTouch": 3,
-        "wasFouled": 2,
-        "fouls": 2,
-        "minutesPlayed": 82,
-        "touches": 23,
-        "rating": 6.6,
-        "possessionLostCtrl": 13,
-        "expectedAssists": 0.0291284,
-        "totalBallCarriesDistance": 45.789240529601,
-        "ballCarriesCount": 5,
-        "totalProgression": 12.329622302136,
-        "bestBallCarryProgression": 20.018101381032,
-        "totalProgressiveBallCarriesDistance": 23.117617718961,
-        "progressiveBallCarriesCount": 1,
-        "ratingVersions": {
-          "original": 6.6,
-          "alternative": 6.4
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.01,
-        "dribbleValueNormalized": 0.12,
-        "defensiveValueNormalized": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12467463": {
     "id": 12467463,
     "match_info": {
@@ -11311,6 +11187,137 @@
         }
       },
       "position": "M",
+      "extra": null
+    }
+  },
+  "14083723": {
+    "id": 14083723,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "getafe-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Adrian Liso",
+        "slug": "liso-adrian",
+        "shortName": "A. Liso",
+        "position": "F",
+        "jerseyNumber": "23",
+        "height": 182,
+        "userCount": 1122,
+        "gender": "M",
+        "sofascoreId": "rsyws8",
+        "id": 1515554,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1112400000,
+        "proposedMarketValueRaw": {
+          "value": 3100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أدريان ليسو",
+            "ru": "Адриан Лисо"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. ليسو",
+            "ru": "А. Лисо"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 203865,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 10,
+        "accuratePass": 5,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 7,
+        "totalCross": 2,
+        "aerialLost": 1,
+        "aerialWon": 3,
+        "duelLost": 6,
+        "duelWon": 5,
+        "totalContest": 3,
+        "ballRecovery": 1,
+        "unsuccessfulTouch": 3,
+        "wasFouled": 2,
+        "fouls": 2,
+        "minutesPlayed": 82,
+        "touches": 23,
+        "rating": 6.6,
+        "possessionLostCtrl": 13,
+        "expectedAssists": 0.0291284,
+        "topSpeed": 32.42,
+        "kilometersCovered": 8.36,
+        "numberOfSprints": 14,
+        "totalBallCarriesDistance": 45.789240529601,
+        "ballCarriesCount": 5,
+        "totalProgression": 12.329622302136,
+        "bestBallCarryProgression": 20.018101381032,
+        "totalProgressiveBallCarriesDistance": 23.117617718961,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.01,
+        "dribbleValueNormalized": 0.12,
+        "defensiveValueNormalized": 0,
+        "metersCoveredRunningKm": 1.11,
+        "metersCoveredHighSpeedRunningKm": 0.51,
+        "metersCoveredSprintingKm": 0.25,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
       "extra": null
     }
   }

@@ -2842,141 +2842,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Juan Musso",
-        "firstName": "Juan",
-        "lastName": "Musso",
-        "slug": "juan-musso",
-        "shortName": "J. Musso",
-        "position": "G",
-        "jerseyNumber": "1",
-        "height": 191,
-        "userCount": 20346,
-        "gender": "M",
-        "sofascoreId": "juanmusso",
-        "id": 263651,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 768182400,
-        "proposedMarketValueRaw": {
-          "value": 3200000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "خوان موسو",
-            "bn": "জুয়ান মুসো",
-            "hi": "जुआन मुस्सो",
-            "ru": "Хуан Муссо"
-          },
-          "shortNameTranslation": {
-            "ar": "خ. موسو",
-            "bn": "জে. মুসো",
-            "hi": "जे. मुस्सो",
-            "ru": "Х. Муссо"
-          }
-        }
-      },
-      "team": {
-        "name": "Atlético Madrid",
-        "slug": "atletico-madrid",
-        "shortName": "Atl. Madrid",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 2591268,
-        "nameCode": "ATM",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2836,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#c40000",
-          "text": "#c40000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أتلتيكو مدريد",
-            "hi": "एटलेटिको मैड्रिड",
-            "ru": "Атлетико Мадрид"
-          },
-          "shortNameTranslation": {
-            "ar": "أتل. مدريد",
-            "bn": "এটিএল. মাদ্রিদ"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 18,
-        "accuratePass": 17,
-        "totalLongBalls": 2,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 17,
-        "totalOwnHalfPasses": 18,
-        "aerialWon": 1,
-        "duelLost": 1,
-        "duelWon": 1,
-        "totalClearance": 2,
-        "ballRecovery": 11,
-        "penaltyConceded": 1,
-        "fouls": 1,
-        "goodHighClaim": 2,
-        "savedShotsFromInsideTheBox": 2,
-        "penaltyFaced": 1,
-        "saves": 3,
-        "punches": 1,
-        "minutesPlayed": 90,
-        "touches": 34,
-        "rating": 5.6,
-        "possessionLostCtrl": 1,
-        "expectedAssists": 4.67e-05,
-        "totalBallCarriesDistance": 18.468996426418,
-        "ballCarriesCount": 4,
-        "totalProgression": 14.227440970978,
-        "progressiveBallCarriesCount": 0,
-        "keeperSaveValue": 0.7766,
-        "ratingVersions": {
-          "original": 5.6,
-          "alternative": 6.2
-        },
-        "totalShots": 0,
-        "goalsPrevented": -1.5578,
-        "passValueNormalized": 0.01,
-        "dribbleValueNormalized": 0,
-        "defensiveValueNormalized": -0.84,
-        "goalkeeperValueNormalized": 0.18,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "G",
-      "extra": null
-    }
-  },
   "16118858": {
     "id": 16118858,
     "match_info": {
@@ -21771,6 +21636,141 @@
         },
         "totalShots": 0,
         "goalsPrevented": 0.8036,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juan Musso",
+        "firstName": "Juan",
+        "lastName": "Musso",
+        "slug": "juan-musso",
+        "shortName": "J. Musso",
+        "position": "G",
+        "jerseyNumber": "1",
+        "height": 191,
+        "userCount": 21656,
+        "gender": "M",
+        "sofascoreId": "juanmusso",
+        "id": 263651,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 768182400,
+        "proposedMarketValueRaw": {
+          "value": 3200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوان موسو",
+            "bn": "জুয়ান মুসো",
+            "hi": "जुआन मुस्सो",
+            "ru": "Хуан Муссо"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. موسو",
+            "bn": "জে. মুসো",
+            "hi": "जे. मुस्सो",
+            "ru": "Х. Муссо"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atl. Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2635078,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 18,
+        "accuratePass": 17,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 17,
+        "totalOwnHalfPasses": 18,
+        "aerialWon": 1,
+        "duelLost": 1,
+        "duelWon": 1,
+        "totalClearance": 2,
+        "ballRecovery": 11,
+        "penaltyConceded": 1,
+        "fouls": 1,
+        "goodHighClaim": 2,
+        "savedShotsFromInsideTheBox": 2,
+        "penaltyFaced": 1,
+        "saves": 3,
+        "punches": 1,
+        "minutesPlayed": 90,
+        "touches": 34,
+        "rating": 5.6,
+        "possessionLostCtrl": 1,
+        "expectedAssists": 4.67e-05,
+        "totalBallCarriesDistance": 18.468996426418,
+        "ballCarriesCount": 4,
+        "totalProgression": 14.227440970978,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.7766,
+        "ratingVersions": {
+          "original": 5.6,
+          "alternative": 6.2
+        },
+        "totalShots": 0,
+        "goalsPrevented": -1.5578,
+        "passValueNormalized": 0.01,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": -0.84,
+        "goalkeeperValueNormalized": 0.18,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

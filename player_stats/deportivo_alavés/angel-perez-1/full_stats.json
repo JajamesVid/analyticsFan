@@ -3679,8 +3679,7 @@
           "score": 2
         },
         "startTimestamp": 1779562800,
-        "slug": "deportivo-alaves-rayo-vallecano",
-        "fecha_normalizada": "2026-05-23"
+        "slug": "deportivo-alaves-rayo-vallecano"
       },
       "player_stats": {
         "player": {
@@ -3690,13 +3689,14 @@
           "position": "M",
           "jerseyNumber": "7",
           "height": 183,
-          "userCount": 228,
+          "userCount": 213,
           "gender": "M",
+          "sofascoreId": "fpmnmm",
           "id": 1513222,
           "marketValueCurrency": "EUR",
           "dateOfBirthTimestamp": 1030579200,
           "proposedMarketValueRaw": {
-            "value": 925000,
+            "value": 2800000,
             "currency": "EUR"
           },
           "fieldTranslations": {
@@ -3720,7 +3720,7 @@
             "slug": "football",
             "id": 1
           },
-          "userCount": 152876,
+          "userCount": 154032,
           "nameCode": "ALA",
           "disabled": false,
           "national": false,
@@ -3774,6 +3774,9 @@
           "expectedGoals": 0.0211,
           "expectedGoalsOnTarget": 0.0244,
           "expectedAssists": 0.154051,
+          "topSpeed": 32.31,
+          "kilometersCovered": 9.78,
+          "numberOfSprints": 12,
           "totalBallCarriesDistance": 118.34257121468,
           "ballCarriesCount": 18,
           "totalProgression": 57.388078617624,
@@ -3790,6 +3793,9 @@
           "passValueNormalized": 0.48,
           "dribbleValueNormalized": 0.17,
           "defensiveValueNormalized": -0.2,
+          "metersCoveredRunningKm": 1.55,
+          "metersCoveredHighSpeedRunningKm": 0.59,
+          "metersCoveredSprintingKm": 0.15,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

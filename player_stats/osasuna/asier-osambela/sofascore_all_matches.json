@@ -3161,123 +3161,6 @@
       "extra": null
     }
   },
-  "14083723": {
-    "id": 14083723,
-    "match_info": {
-      "homeTeam": {
-        "name": "Getafe",
-        "shortName": "Getafe",
-        "color": "#00369e",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Osasuna",
-        "shortName": "Osasuna",
-        "color": "#cc0000",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "getafe-osasuna"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Asier Osambela",
-        "slug": "asier-osambela",
-        "shortName": "A. Osambela",
-        "position": "D",
-        "jerseyNumber": "29",
-        "height": 186,
-        "userCount": 114,
-        "gender": "M",
-        "id": 1399702,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1099094400,
-        "proposedMarketValueRaw": {
-          "value": 1000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أسيير أوسامبيلا",
-            "ru": "Асьер Осамбела"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. أوسامبيلا",
-            "ru": "А. Осамбела"
-          }
-        }
-      },
-      "team": {
-        "name": "Osasuna",
-        "slug": "osasuna",
-        "shortName": "Osasuna",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 199411,
-        "nameCode": "OSA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2820,
-        "teamColors": {
-          "primary": "#cc0000",
-          "secondary": "#14213d",
-          "text": "#14213d"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أوساسونا",
-            "bn": "ওসাসুনা",
-            "hi": "ओसासुना",
-            "ru": "Осасуна"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 9,
-        "accuratePass": 5,
-        "totalLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 2,
-        "totalOwnHalfPasses": 3,
-        "accurateOppositionHalfPasses": 3,
-        "totalOppositionHalfPasses": 6,
-        "aerialLost": 2,
-        "aerialWon": 2,
-        "duelLost": 3,
-        "duelWon": 2,
-        "onTargetScoringAttempt": 1,
-        "ballRecovery": 2,
-        "fouls": 1,
-        "minutesPlayed": 9,
-        "touches": 11,
-        "rating": 6.4,
-        "possessionLostCtrl": 4,
-        "expectedGoals": 0.0318,
-        "expectedGoalsOnTarget": 0.0737,
-        "expectedAssists": 0.0044596,
-        "ratingVersions": {
-          "original": 6.4,
-          "alternative": 6.7
-        },
-        "totalShots": 1,
-        "shotValueNormalized": -0.2,
-        "passValueNormalized": 0.03,
-        "defensiveValueNormalized": -0.01,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12597455": {
     "id": 12597455,
     "match_info": {
@@ -16815,6 +16698,130 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083723": {
+    "id": 14083723,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "getafe-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Asier Osambela",
+        "slug": "asier-osambela",
+        "shortName": "A. Osambela",
+        "position": "D",
+        "jerseyNumber": "29",
+        "height": 186,
+        "userCount": 118,
+        "gender": "M",
+        "sofascoreId": "dq8d8v",
+        "id": 1399702,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1099094400,
+        "proposedMarketValueRaw": {
+          "value": 1000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أسيير أوسامبيلا",
+            "ru": "Асьер Осамбела"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. أوسامبيلا",
+            "ru": "А. Осамбела"
+          }
+        }
+      },
+      "team": {
+        "name": "Osasuna",
+        "slug": "osasuna",
+        "shortName": "Osasuna",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202237,
+        "nameCode": "OSA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2820,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#14213d",
+          "text": "#14213d"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوساسونا",
+            "bn": "ওসাসুনা",
+            "hi": "ओसासुना",
+            "ru": "Осасуна"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 9,
+        "accuratePass": 5,
+        "totalLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 6,
+        "aerialLost": 2,
+        "aerialWon": 2,
+        "duelLost": 3,
+        "duelWon": 2,
+        "onTargetScoringAttempt": 1,
+        "ballRecovery": 2,
+        "fouls": 1,
+        "minutesPlayed": 9,
+        "touches": 11,
+        "rating": 6.4,
+        "possessionLostCtrl": 4,
+        "expectedGoals": 0.0318,
+        "expectedGoalsOnTarget": 0.0737,
+        "expectedAssists": 0.0044596,
+        "topSpeed": 28.06,
+        "kilometersCovered": 1.72,
+        "numberOfSprints": 0,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.7
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.2,
+        "passValueNormalized": 0.03,
+        "defensiveValueNormalized": -0.01,
+        "metersCoveredRunningKm": 0.42,
+        "metersCoveredHighSpeedRunningKm": 0.11,
+        "metersCoveredSprintingKm": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
     }
   }
 }

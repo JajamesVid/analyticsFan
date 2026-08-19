@@ -3702,137 +3702,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Ademola Lookman",
-        "slug": "ademola-lookman",
-        "shortName": "A. Lookman",
-        "position": "F",
-        "jerseyNumber": "22",
-        "height": 174,
-        "userCount": 96830,
-        "gender": "M",
-        "sofascoreId": "molalookman",
-        "id": 824200,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 877305600,
-        "proposedMarketValueRaw": {
-          "value": 44000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أديمولا لوكمان",
-            "bn": "অ্যাডেমোলা লুকম্যান",
-            "hi": "एडेमोला लुकमैन",
-            "ru": "Адемола Лукман"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. لوكمان",
-            "bn": "এ. লুকম্যান",
-            "hi": "ए. लुकमैन",
-            "ru": "А. Лукман"
-          }
-        }
-      },
-      "team": {
-        "name": "Atlético Madrid",
-        "slug": "atletico-madrid",
-        "shortName": "Atl. Madrid",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 2590653,
-        "nameCode": "ATM",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2836,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#c40000",
-          "text": "#c40000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أتلتيكو مدريد",
-            "hi": "एटलेटिको मैड्रिड",
-            "ru": "Атлетико Мадрид"
-          },
-          "shortNameTranslation": {
-            "ar": "أتل. مدريد",
-            "bn": "এটিএল. মাদ্রিদ"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 22,
-        "accuratePass": 18,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 4,
-        "totalOwnHalfPasses": 4,
-        "accurateOppositionHalfPasses": 14,
-        "totalOppositionHalfPasses": 18,
-        "totalCross": 1,
-        "aerialLost": 2,
-        "duelLost": 6,
-        "duelWon": 4,
-        "dispossessed": 3,
-        "totalContest": 1,
-        "wonContest": 1,
-        "ballRecovery": 2,
-        "totalTackle": 2,
-        "wonTackle": 2,
-        "unsuccessfulTouch": 2,
-        "wasFouled": 1,
-        "fouls": 2,
-        "minutesPlayed": 61,
-        "touches": 33,
-        "rating": 6.1,
-        "possessionLostCtrl": 10,
-        "expectedAssists": 0.0212653,
-        "totalBallCarriesDistance": 67.574293515301,
-        "ballCarriesCount": 9,
-        "totalProgression": 24.064136549193,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.1,
-          "alternative": 6.7
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.73,
-        "dribbleValueNormalized": -0.39,
-        "defensiveValueNormalized": 0.27,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12183453": {
     "id": 12183453,
     "match_info": {
@@ -24575,6 +24444,143 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ademola Lookman",
+        "slug": "ademola-lookman",
+        "shortName": "A. Lookman",
+        "position": "F",
+        "jerseyNumber": "22",
+        "height": 174,
+        "userCount": 97411,
+        "gender": "M",
+        "sofascoreId": "molalookman",
+        "id": 824200,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 877305600,
+        "proposedMarketValueRaw": {
+          "value": 44000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أديمولا لوكمان",
+            "bn": "অ্যাডেমোলা লুকম্যান",
+            "hi": "एडेमोला लुकमैन",
+            "ru": "Адемола Лукман"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. لوكمان",
+            "bn": "এ. লুকম্যান",
+            "hi": "ए. लुकमैन",
+            "ru": "А. Лукман"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atl. Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2635078,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 22,
+        "accuratePass": 18,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 18,
+        "totalCross": 1,
+        "aerialLost": 2,
+        "duelLost": 6,
+        "duelWon": 4,
+        "dispossessed": 3,
+        "totalContest": 1,
+        "wonContest": 1,
+        "ballRecovery": 2,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "fouls": 2,
+        "minutesPlayed": 61,
+        "touches": 33,
+        "rating": 6.1,
+        "possessionLostCtrl": 10,
+        "expectedAssists": 0.0212653,
+        "topSpeed": 31.68,
+        "kilometersCovered": 6.39,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 67.574293515301,
+        "ballCarriesCount": 9,
+        "totalProgression": 24.064136549193,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.1,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.73,
+        "dribbleValueNormalized": -0.39,
+        "defensiveValueNormalized": 0.27,
+        "metersCoveredRunningKm": 0.75,
+        "metersCoveredHighSpeedRunningKm": 0.32,
+        "metersCoveredSprintingKm": 0.06,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
     }
   }
 }

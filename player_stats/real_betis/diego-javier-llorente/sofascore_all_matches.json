@@ -3624,143 +3624,6 @@
       "extra": null
     }
   },
-  "14083710": {
-    "id": 14083710,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Betis",
-        "shortName": "Real Betis",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "awayTeam": {
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "color": "#0e3b68",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "levante-ud-real-betis"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Diego Llorente",
-        "firstName": "Diego",
-        "lastName": "Llorente",
-        "slug": "diego-llorente",
-        "shortName": "D. Llorente",
-        "position": "D",
-        "jerseyNumber": "3",
-        "height": 185,
-        "userCount": 1297,
-        "gender": "M",
-        "id": 305278,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 745459200,
-        "proposedMarketValueRaw": {
-          "value": 3100000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "دييغو يورينتي",
-            "bn": "দিয়েগো লরেন্তে",
-            "hi": "डिएगो लोरेंटे",
-            "ru": "БЭЙ К И / ГО А Р"
-          },
-          "shortNameTranslation": {
-            "ar": "د. يورينتي",
-            "bn": "ডি. লরেন্তে",
-            "hi": "डी. लोरेंटे",
-            "ru": "Д. Ллоренте"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Betis",
-        "slug": "real-betis",
-        "shortName": "Real Betis",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 600173,
-        "nameCode": "BET",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2816,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#006633",
-          "text": "#006633"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال بيتيس",
-            "ru": "Реал Бетис"
-          },
-          "shortNameTranslation": {
-            "ar": "ريال بيتيس",
-            "bn": "বেটিস",
-            "hi": "बेटिस"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 65,
-        "accuratePass": 64,
-        "totalLongBalls": 7,
-        "accurateLongBalls": 6,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 56,
-        "totalOwnHalfPasses": 57,
-        "accurateOppositionHalfPasses": 8,
-        "totalOppositionHalfPasses": 8,
-        "aerialLost": 1,
-        "duelLost": 3,
-        "duelWon": 2,
-        "totalContest": 1,
-        "wonContest": 1,
-        "bigChanceMissed": 1,
-        "onTargetScoringAttempt": 1,
-        "totalClearance": 8,
-        "ballRecovery": 2,
-        "totalTackle": 1,
-        "wonTackle": 1,
-        "unsuccessfulTouch": 2,
-        "fouls": 2,
-        "minutesPlayed": 90,
-        "touches": 80,
-        "rating": 7,
-        "possessionLostCtrl": 3,
-        "expectedGoals": 0.1339,
-        "expectedGoalsOnTarget": 0.4175,
-        "expectedAssists": 0.00166756,
-        "totalBallCarriesDistance": 77.297512554869,
-        "ballCarriesCount": 14,
-        "totalProgression": 16.021149111408,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 7,
-          "alternative": 7.1
-        },
-        "totalShots": 1,
-        "shotValueNormalized": -0.18,
-        "passValueNormalized": 0.1,
-        "dribbleValueNormalized": 0.06,
-        "defensiveValueNormalized": 0.14,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "13315898": {
     "id": 13315898,
     "match_info": {
@@ -23838,6 +23701,150 @@
         "expectedGoalsOnTarget": 0,
         "expectedAssists": 0.00606017,
         "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083710": {
+    "id": 14083710,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "levante-ud-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Diego Llorente",
+        "firstName": "Diego",
+        "lastName": "Llorente",
+        "slug": "diego-llorente",
+        "shortName": "D. Llorente",
+        "position": "D",
+        "jerseyNumber": "3",
+        "height": 185,
+        "userCount": 1339,
+        "gender": "M",
+        "sofascoreId": "pecun7",
+        "id": 305278,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 745459200,
+        "proposedMarketValueRaw": {
+          "value": 2600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دييغو يورينتي",
+            "bn": "দিয়েগো লরেন্তে",
+            "hi": "डिएगो लोरेंटे",
+            "ru": "Диего Ллоренте"
+          },
+          "shortNameTranslation": {
+            "ar": "د. يورينتي",
+            "bn": "ডি. লরেন্তে",
+            "hi": "डी. लोरेंटे",
+            "ru": "Д. Ллоренте"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Betis",
+        "slug": "real-betis",
+        "shortName": "Real Betis",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 609007,
+        "nameCode": "BET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2816,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#006633",
+          "text": "#006633"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال بيتيس",
+            "ru": "Реал Бетис"
+          },
+          "shortNameTranslation": {
+            "ar": "ريال بيتيس",
+            "bn": "বেটিস",
+            "hi": "बेटिस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 65,
+        "accuratePass": 64,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 6,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 56,
+        "totalOwnHalfPasses": 57,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 8,
+        "aerialLost": 1,
+        "duelLost": 3,
+        "duelWon": 2,
+        "totalContest": 1,
+        "wonContest": 1,
+        "bigChanceMissed": 1,
+        "onTargetScoringAttempt": 1,
+        "totalClearance": 8,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 2,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 80,
+        "rating": 7,
+        "possessionLostCtrl": 3,
+        "expectedGoals": 0.1339,
+        "expectedGoalsOnTarget": 0.4175,
+        "expectedAssists": 0.00166756,
+        "topSpeed": 32.53,
+        "kilometersCovered": 8.53,
+        "numberOfSprints": 8,
+        "totalBallCarriesDistance": 77.297512554869,
+        "ballCarriesCount": 14,
+        "totalProgression": 16.021149111408,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 7.1
+        },
+        "totalShots": 1,
+        "shotValueNormalized": 0.14,
+        "passValueNormalized": 0.1,
+        "dribbleValueNormalized": 0.06,
+        "defensiveValueNormalized": 0.14,
+        "metersCoveredRunningKm": 1.11,
+        "metersCoveredHighSpeedRunningKm": 0.27,
+        "metersCoveredSprintingKm": 0.12,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

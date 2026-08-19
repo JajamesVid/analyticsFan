@@ -3600,130 +3600,6 @@
       "extra": null
     }
   },
-  "14083739": {
-    "id": 14083739,
-    "match_info": {
-      "homeTeam": {
-        "name": "Valencia",
-        "shortName": "Valencia",
-        "color": "#ffffff",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "FC Barcelona",
-        "shortName": "Barcelona",
-        "color": "#154284",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "valencia-barcelona"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Hugo Duro",
-        "slug": "hugo-duro",
-        "shortName": "H. Duro",
-        "position": "F",
-        "jerseyNumber": "9",
-        "height": 180,
-        "userCount": 2970,
-        "gender": "M",
-        "id": 909119,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 942192000,
-        "proposedMarketValueRaw": {
-          "value": 11600000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "هوغو دورو",
-            "bn": "হুগো ডুরো",
-            "hi": "ह्यूगो डूरो",
-            "ru": "Уго Дуро"
-          },
-          "shortNameTranslation": {
-            "ar": "ه. دورو",
-            "bn": "এইচ. ডুরো",
-            "hi": "एच. डूरो",
-            "ru": "У. Дуро"
-          }
-        }
-      },
-      "team": {
-        "name": "Valencia",
-        "slug": "valencia",
-        "shortName": "Valencia",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 288160,
-        "nameCode": "VAL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2828,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#000000",
-          "text": "#000000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فالنسيا",
-            "bn": "ভ্যালেন্সিয়া",
-            "hi": "वेलेंसिया",
-            "ru": "Валенсия"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 8,
-        "accuratePass": 4,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 3,
-        "totalOwnHalfPasses": 3,
-        "accurateOppositionHalfPasses": 1,
-        "totalOppositionHalfPasses": 5,
-        "aerialWon": 2,
-        "duelLost": 2,
-        "duelWon": 5,
-        "totalContest": 1,
-        "bigChanceMissed": 1,
-        "shotOffTarget": 1,
-        "ballRecovery": 1,
-        "totalTackle": 1,
-        "unsuccessfulTouch": 1,
-        "wasFouled": 2,
-        "fouls": 1,
-        "minutesPlayed": 80,
-        "touches": 18,
-        "rating": 6.5,
-        "possessionLostCtrl": 6,
-        "expectedGoals": 0.215,
-        "expectedAssists": 0.00066431,
-        "ratingVersions": {
-          "original": 6.5,
-          "alternative": 6.3
-        },
-        "totalShots": 1,
-        "shotValueNormalized": -0.54,
-        "passValueNormalized": -0.08,
-        "dribbleValueNormalized": -0.03,
-        "defensiveValueNormalized": -0.01,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12437791": {
     "id": 12437791,
     "match_info": {
@@ -23280,6 +23156,137 @@
         "rating": 6.3,
         "possessionLostCtrl": 16,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083739": {
+    "id": 14083739,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "valencia-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Hugo Duro",
+        "slug": "hugo-duro",
+        "shortName": "H. Duro",
+        "position": "F",
+        "jerseyNumber": "9",
+        "height": 180,
+        "userCount": 3039,
+        "gender": "M",
+        "sofascoreId": "hh5gnc",
+        "id": 909119,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 942192000,
+        "proposedMarketValueRaw": {
+          "value": 11600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هوغو دورو",
+            "bn": "হুগো ডুরো",
+            "hi": "ह्यूगो डूरो",
+            "ru": "Уго Дуро"
+          },
+          "shortNameTranslation": {
+            "ar": "ه. دورو",
+            "bn": "এইচ. ডুরো",
+            "hi": "एच. डूरो",
+            "ru": "У. Дуро"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 292379,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 8,
+        "accuratePass": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 5,
+        "aerialWon": 2,
+        "duelLost": 2,
+        "duelWon": 5,
+        "totalContest": 1,
+        "bigChanceMissed": 1,
+        "shotOffTarget": 1,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 2,
+        "fouls": 1,
+        "minutesPlayed": 80,
+        "touches": 18,
+        "rating": 6.5,
+        "possessionLostCtrl": 6,
+        "expectedGoals": 0.215,
+        "expectedAssists": 0.00066431,
+        "topSpeed": 30.94,
+        "kilometersCovered": 8.4,
+        "numberOfSprints": 19,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.3
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.54,
+        "passValueNormalized": -0.08,
+        "dribbleValueNormalized": -0.03,
+        "defensiveValueNormalized": -0.01,
+        "metersCoveredRunningKm": 1.16,
+        "metersCoveredHighSpeedRunningKm": 0.61,
+        "metersCoveredSprintingKm": 0.25,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

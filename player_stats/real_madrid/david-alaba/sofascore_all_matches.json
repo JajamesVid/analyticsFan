@@ -2817,130 +2817,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "David Alaba",
-        "slug": "david-alaba",
-        "shortName": "D. Alaba",
-        "position": "D",
-        "jerseyNumber": "4",
-        "height": 180,
-        "userCount": 98679,
-        "gender": "M",
-        "sofascoreId": "DAlaba",
-        "id": 66492,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 709344000,
-        "proposedMarketValueRaw": {
-          "value": 3200000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ديفيد ألابا",
-            "bn": "ডেভিড আলাবা",
-            "hi": "डेविड अलाबा"
-          },
-          "shortNameTranslation": {
-            "ar": "د. ألابا",
-            "bn": "ডি. আলাবা",
-            "hi": "डी. अलाबा"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Madrid",
-        "slug": "real-madrid",
-        "shortName": "Real Madrid",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 7733858,
-        "nameCode": "RMA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2829,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#004996",
-          "text": "#004996"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال مدريد",
-            "bn": "রিয়াল মাদ্রিদ",
-            "hi": "रियल मैड्रिड",
-            "ru": "Реал Мадрид"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 97,
-        "accuratePass": 90,
-        "totalLongBalls": 9,
-        "accurateLongBalls": 6,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 70,
-        "totalOwnHalfPasses": 74,
-        "accurateOppositionHalfPasses": 20,
-        "totalOppositionHalfPasses": 23,
-        "aerialWon": 1,
-        "duelWon": 1,
-        "shotOffTarget": 1,
-        "totalClearance": 2,
-        "ballRecovery": 4,
-        "unsuccessfulTouch": 1,
-        "minutesPlayed": 70,
-        "touches": 106,
-        "rating": 6.9,
-        "possessionLostCtrl": 11,
-        "expectedGoals": 0.0562,
-        "expectedAssists": 0.0105415,
-        "totalBallCarriesDistance": 230.4862981509,
-        "ballCarriesCount": 37,
-        "totalProgression": 104.87545174249,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.9,
-          "alternative": 6.8
-        },
-        "totalShots": 1,
-        "shotValueNormalized": -0.02,
-        "passValueNormalized": 0.22,
-        "dribbleValueNormalized": 0.13,
-        "defensiveValueNormalized": -0.19,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "15691376": {
     "id": 15691376,
     "match_info": {
@@ -22719,6 +22595,137 @@
         "possessionLostCtrl": 10,
         "keyPass": 1,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "David Alaba",
+        "slug": "david-alaba",
+        "shortName": "D. Alaba",
+        "position": "D",
+        "height": 180,
+        "userCount": 100634,
+        "gender": "M",
+        "sofascoreId": "DAlaba",
+        "id": 66492,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 709344000,
+        "proposedMarketValueRaw": {
+          "value": 2700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديفيد ألابا",
+            "bn": "ডেভিড আলাবা",
+            "hi": "डेविड अलाबा",
+            "ru": "Давид Алаба"
+          },
+          "shortNameTranslation": {
+            "ar": "د. ألابا",
+            "bn": "ডি. আলাবা",
+            "hi": "डी. अलाबा",
+            "ru": "Д. Алаба"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Madrid",
+        "slug": "real-madrid",
+        "shortName": "Real Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 8378061,
+        "nameCode": "RMA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2829,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#004996",
+          "text": "#004996"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال مدريد",
+            "bn": "রিয়াল মাদ্রিদ",
+            "hi": "रियल मैड्रिड",
+            "ru": "Реал Мадрид"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 97,
+        "accuratePass": 90,
+        "totalLongBalls": 9,
+        "accurateLongBalls": 6,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 70,
+        "totalOwnHalfPasses": 74,
+        "accurateOppositionHalfPasses": 20,
+        "totalOppositionHalfPasses": 23,
+        "aerialWon": 1,
+        "duelWon": 1,
+        "shotOffTarget": 1,
+        "totalClearance": 2,
+        "ballRecovery": 4,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 70,
+        "touches": 106,
+        "rating": 6.9,
+        "possessionLostCtrl": 11,
+        "expectedGoals": 0.0562,
+        "expectedAssists": 0.0105415,
+        "topSpeed": 24.88,
+        "kilometersCovered": 6.69,
+        "numberOfSprints": 0,
+        "totalBallCarriesDistance": 230.4862981509,
+        "ballCarriesCount": 37,
+        "totalProgression": 104.87545174249,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 6.8
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.02,
+        "passValueNormalized": 0.22,
+        "dribbleValueNormalized": 0.13,
+        "defensiveValueNormalized": -0.19,
+        "metersCoveredRunningKm": 0.7,
+        "metersCoveredHighSpeedRunningKm": 0.1,
+        "metersCoveredSprintingKm": 0,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

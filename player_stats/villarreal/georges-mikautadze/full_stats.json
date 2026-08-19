@@ -5261,241 +5261,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Villarreal",
-        "abreviatura": "VIL",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
-      },
-      "visitante": {
-        "nombre": "Atlético",
-        "abreviatura": "ATM",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
-      }
-    },
-    "resultado": "5-1",
-    "fecha": "2026-05-24",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20452-villarreal-atletico",
-    "puntuaciones": {
-      "picas": 2,
-      "marca": 2,
-      "cope": 10.0,
-      "sofascore": 8.1,
-      "relevo": 3.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 10.0,
-        "futbolfantasy-rpg": 20.0,
-        "comunio": 13.0,
-        "modo-picas": 9.0,
-        "biwenger-sofascore": 13.0,
-        "biwenger-social": 11.0,
-        "biwenger-as-sofascore": 11.0,
-        "biwenger-stats": 9.0,
-        "futmondo-prensa": 10.0,
-        "futmondo-mixto-as": 9.0,
-        "futmondo-stats": 15.0,
-        "futmondo-mixto": 17.6,
-        "cronistas-marca": 9.0,
-        "marca-mixto": 10.0,
-        "marca-sofascore": 13.0,
-        "mister-cronistas-md": 13.0,
-        "mister-mixto": 11.0,
-        "mister-mixto-2": 11.0,
-        "mister-sofascore": 13.0,
-        "stat-goles": 1.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 3.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 2.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 2.0,
-        "stat-regates-exito": 1.0,
-        "stat-faltas-recibidas": 0.0,
-        "stat-faltas-cometidas": 0.0,
-        "stat-pases-interceptados": 0.0,
-        "stat-balones-robados": 0.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 0.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 1.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 0.0,
-        "stat-despejes": 0.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 1.0,
-        "stat-posesiones-perdidas": 6.0,
-        "stat-tiros-totales": 3.0,
-        "stat-centros-totales": 1.0,
-        "stat-precision-pases": 90.5,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 1.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 0.0,
-        "stat-tackles": 0.0,
-        "stat-duelos-aereos": 0.0,
-        "stat-tiros-bloqueados": 0.0,
-        "stat-pases-totales": 21.0,
-        "stat-pases-completados": 19.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083735,
-      "match_info": {
-        "homeTeam": {
-          "name": "Villarreal",
-          "shortName": "Villarreal",
-          "color": "#ffff00",
-          "score": 5
-        },
-        "awayTeam": {
-          "name": "Atlético Madrid",
-          "shortName": "Atl. Madrid",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "startTimestamp": 1779649200,
-        "slug": "atletico-madrid-villarreal",
-        "fecha_normalizada": "2026-05-24"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Georges Mikautadze",
-          "firstName": "Georges",
-          "lastName": "Mikautadze",
-          "slug": "georges-mikautadze",
-          "shortName": "G. Mikautadze",
-          "position": "F",
-          "jerseyNumber": "9",
-          "height": 176,
-          "userCount": 14624,
-          "gender": "M",
-          "sofascoreId": "georgesmkd",
-          "id": 1009372,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 972950400,
-          "proposedMarketValueRaw": {
-            "value": 32000000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ميكوتادزي، جيورج",
-              "bn": "মিকাউতাদজে, জর্জেস",
-              "hi": "मिकुटाड्ज़े, जॉर्जेस",
-              "ru": "Жорж Микаутадзе"
-            },
-            "shortNameTranslation": {
-              "ar": "ج. ميكوتادزي",
-              "bn": "জি. মিকাউতাদজে",
-              "hi": "जी. मिकुटाड्ज़े",
-              "ru": "Ж. Микаутадзе"
-            }
-          }
-        },
-        "team": {
-          "name": "Villarreal",
-          "slug": "villarreal",
-          "shortName": "Villarreal",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 461754,
-          "nameCode": "VIL",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2819,
-          "teamColors": {
-            "primary": "#ffff00",
-            "secondary": "#013765",
-            "text": "#013765"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "فياريال",
-              "bn": "ভিলারিয়াল",
-              "hi": "विल्लारियल",
-              "ru": "Вильярреал"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalPass": 21,
-          "accuratePass": 19,
-          "totalLongBalls": 1,
-          "accurateLongBalls": 1,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 4,
-          "totalOwnHalfPasses": 4,
-          "accurateOppositionHalfPasses": 15,
-          "totalOppositionHalfPasses": 17,
-          "totalCross": 1,
-          "aerialLost": 1,
-          "duelLost": 2,
-          "duelWon": 1,
-          "totalContest": 2,
-          "wonContest": 1,
-          "bigChanceMissed": 1,
-          "onTargetScoringAttempt": 3,
-          "goals": 1,
-          "ballRecovery": 1,
-          "unsuccessfulTouch": 2,
-          "minutesPlayed": 89,
-          "touches": 30,
-          "rating": 8.1,
-          "possessionLostCtrl": 6,
-          "expectedGoals": 1.0145,
-          "expectedGoalsOnTarget": 1.6459,
-          "expectedAssists": 0.0230413,
-          "totalBallCarriesDistance": 146.08507345273,
-          "ballCarriesCount": 12,
-          "totalProgression": 80.616654945462,
-          "bestBallCarryProgression": 39.90908548346,
-          "totalProgressiveBallCarriesDistance": 71.205159320048,
-          "progressiveBallCarriesCount": 2,
-          "keyPass": 2,
-          "ratingVersions": {
-            "original": 8.1,
-            "alternative": 7.5
-          },
-          "totalShots": 3,
-          "shotValueNormalized": 0.53,
-          "passValueNormalized": 0.07,
-          "dribbleValueNormalized": 0.58,
-          "defensiveValueNormalized": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "F",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Atlético",
         "abreviatura": "ATM",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
@@ -7627,6 +7392,246 @@
           "passValueNormalized": 0.01,
           "dribbleValueNormalized": 0.16,
           "defensiveValueNormalized": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      },
+      "visitante": {
+        "nombre": "Atlético",
+        "abreviatura": "ATM",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
+      }
+    },
+    "resultado": "5-1",
+    "fecha": "2026-05-24",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20452-villarreal-atletico",
+    "puntuaciones": {
+      "picas": 2,
+      "marca": 2,
+      "cope": 10.0,
+      "sofascore": 8.1,
+      "relevo": 3.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 10.0,
+        "futbolfantasy-rpg": 20.0,
+        "comunio": 13.0,
+        "modo-picas": 9.0,
+        "biwenger-sofascore": 13.0,
+        "biwenger-social": 11.0,
+        "biwenger-as-sofascore": 11.0,
+        "biwenger-stats": 9.0,
+        "futmondo-prensa": 10.0,
+        "futmondo-mixto-as": 9.0,
+        "futmondo-stats": 15.0,
+        "futmondo-mixto": 17.6,
+        "cronistas-marca": 9.0,
+        "marca-mixto": 10.0,
+        "marca-sofascore": 13.0,
+        "mister-cronistas-md": 13.0,
+        "mister-mixto": 11.0,
+        "mister-mixto-2": 11.0,
+        "mister-sofascore": 13.0,
+        "stat-goles": 1.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 3.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 2.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 2.0,
+        "stat-regates-exito": 1.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 1.0,
+        "stat-posesiones-perdidas": 6.0,
+        "stat-tiros-totales": 3.0,
+        "stat-centros-totales": 1.0,
+        "stat-precision-pases": 90.5,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 1.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 21.0,
+        "stat-pases-completados": 19.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083735,
+      "match_info": {
+        "homeTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 5
+        },
+        "awayTeam": {
+          "name": "Atlético Madrid",
+          "shortName": "Atl. Madrid",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1779649200,
+        "slug": "atletico-madrid-villarreal"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Georges Mikautadze",
+          "firstName": "Georges",
+          "lastName": "Mikautadze",
+          "slug": "georges-mikautadze",
+          "shortName": "G. Mikautadze",
+          "position": "F",
+          "jerseyNumber": "9",
+          "height": 176,
+          "userCount": 15083,
+          "gender": "M",
+          "sofascoreId": "georgesmkd",
+          "id": 1009372,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 972950400,
+          "proposedMarketValueRaw": {
+            "value": 32000000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ميكوتادزي، جيورج",
+              "bn": "মিকাউতাদজে, জর্জেস",
+              "hi": "मिकुटाड्ज़े, जॉर्जेस",
+              "ru": "Жорж Микаутадзе"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ميكوتادزي",
+              "bn": "জি. মিকাউতাদজে",
+              "hi": "जी. मिकुटाड्ज़े",
+              "ru": "Ж. Микаутадзе"
+            }
+          }
+        },
+        "team": {
+          "name": "Villarreal",
+          "slug": "villarreal",
+          "shortName": "Villarreal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 465801,
+          "nameCode": "VIL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2819,
+          "teamColors": {
+            "primary": "#ffff00",
+            "secondary": "#013765",
+            "text": "#013765"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فياريال",
+              "bn": "ভিলারিয়াল",
+              "hi": "विल्लारियल",
+              "ru": "Вильярреал"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 21,
+          "accuratePass": 19,
+          "totalLongBalls": 1,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 4,
+          "totalOwnHalfPasses": 4,
+          "accurateOppositionHalfPasses": 15,
+          "totalOppositionHalfPasses": 17,
+          "totalCross": 1,
+          "aerialLost": 1,
+          "duelLost": 2,
+          "duelWon": 1,
+          "totalContest": 2,
+          "wonContest": 1,
+          "bigChanceMissed": 1,
+          "onTargetScoringAttempt": 3,
+          "goals": 1,
+          "ballRecovery": 1,
+          "unsuccessfulTouch": 2,
+          "minutesPlayed": 89,
+          "touches": 30,
+          "rating": 8.1,
+          "possessionLostCtrl": 6,
+          "expectedGoals": 1.0145,
+          "expectedGoalsOnTarget": 1.6459,
+          "expectedAssists": 0.0230413,
+          "topSpeed": 33.27,
+          "kilometersCovered": 9.84,
+          "numberOfSprints": 17,
+          "totalBallCarriesDistance": 146.08507345273,
+          "ballCarriesCount": 12,
+          "totalProgression": 80.616654945462,
+          "bestBallCarryProgression": 39.90908548346,
+          "totalProgressiveBallCarriesDistance": 71.205159320048,
+          "progressiveBallCarriesCount": 2,
+          "keyPass": 2,
+          "ratingVersions": {
+            "original": 8.1,
+            "alternative": 7.5
+          },
+          "totalShots": 3,
+          "shotValueNormalized": 0.53,
+          "passValueNormalized": 0.07,
+          "dribbleValueNormalized": 0.58,
+          "defensiveValueNormalized": 0,
+          "metersCoveredRunningKm": 1.24,
+          "metersCoveredHighSpeedRunningKm": 0.56,
+          "metersCoveredSprintingKm": 0.34,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

@@ -2814,104 +2814,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Ricard Artero",
-        "firstName": "Ricard Artero",
-        "lastName": "",
-        "slug": "ricard-artero",
-        "shortName": "R. Artero",
-        "position": "M",
-        "jerseyNumber": "36",
-        "height": 181,
-        "userCount": 66,
-        "gender": "M",
-        "sofascoreId": "8jurf7",
-        "id": 1134432,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1044403200,
-        "proposedMarketValueRaw": {
-          "value": 210000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريكارد أرتيرو",
-            "bn": "রিকার্ড আর্টেরো",
-            "hi": "रिकार्डो आर्टेरो",
-            "ru": "Рикард Артеро"
-          },
-          "shortNameTranslation": {
-            "ar": "ر. أرتيرو",
-            "bn": "আর. আর্টেরো",
-            "hi": "आर. आर्टेरो",
-            "ru": "Р. Артеро"
-          }
-        }
-      },
-      "team": {
-        "name": "Girona FC",
-        "slug": "girona-fc",
-        "shortName": "Girona",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 373692,
-        "nameCode": "GIR",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 24264,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ff0000",
-          "text": "#ff0000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "جيرونا إف سي",
-            "hi": "जिरोना",
-            "ru": "Жирона"
-          },
-          "shortNameTranslation": {
-            "ar": "جيرونا",
-            "bn": "জিরোনা",
-            "hi": "गिरोना"
-          }
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "9604238": {
     "id": 9604238,
     "match_info": {
@@ -8867,6 +8769,104 @@
           "id": 1
         },
         "userCount": 373692,
+        "nameCode": "GIR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 24264,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جيرونا إف سي",
+            "hi": "जिरोना",
+            "ru": "Жирона"
+          },
+          "shortNameTranslation": {
+            "ar": "جيرونا",
+            "bn": "জিরোনা",
+            "hi": "गिरोना"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ricard Artero",
+        "firstName": "Ricard Artero",
+        "lastName": "",
+        "slug": "ricard-artero",
+        "shortName": "R. Artero",
+        "position": "M",
+        "jerseyNumber": "36",
+        "height": 181,
+        "userCount": 64,
+        "gender": "M",
+        "sofascoreId": "8jurf7",
+        "id": 1134432,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1044403200,
+        "proposedMarketValueRaw": {
+          "value": 210000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريكارد أرتيرو",
+            "bn": "রিকার্ড আর্টেরো",
+            "hi": "रिकार्डो आर्टेरो",
+            "ru": "Рикард Артеро"
+          },
+          "shortNameTranslation": {
+            "ar": "ر. أرتيرو",
+            "bn": "আর. আর্টেরো",
+            "hi": "आर. आर्टेरो",
+            "ru": "Р. Артеро"
+          }
+        }
+      },
+      "team": {
+        "name": "Girona FC",
+        "slug": "girona-fc",
+        "shortName": "Girona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 374248,
         "nameCode": "GIR",
         "disabled": false,
         "national": false,

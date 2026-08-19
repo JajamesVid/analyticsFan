@@ -2914,133 +2914,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Alex Padilla",
-        "firstName": "Álex Padilla",
-        "lastName": "",
-        "slug": "padilla-alex",
-        "shortName": "Á. Padilla",
-        "position": "G",
-        "jerseyNumber": "27",
-        "height": 190,
-        "userCount": 1632,
-        "gender": "M",
-        "sofascoreId": "ek32e6",
-        "id": 1155116,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1062374400,
-        "proposedMarketValueRaw": {
-          "value": 3100000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "باديلا، اليكس",
-            "bn": "প্যাডিলা, অ্যালেক্স",
-            "hi": "पैडिला, एलेक्स",
-            "ru": "Алекс Падилья"
-          },
-          "shortNameTranslation": {
-            "ar": "ب. اليكس",
-            "bn": "আ. প্যাডিলা",
-            "hi": "ए. पैडिला",
-            "ru": "А. Падилья"
-          }
-        }
-      },
-      "team": {
-        "name": "Athletic Club",
-        "slug": "athletic-club",
-        "shortName": "Athletic Club",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 519382,
-        "nameCode": "ATH",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2825,
-        "teamColors": {
-          "primary": "#aa0000",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "نادي أتليتيك",
-            "bn": "অ্যাথলেটিক ক্লাব",
-            "hi": "एथलेटिक क्लब",
-            "ru": "Атлетик Бильбао"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 31,
-        "accuratePass": 11,
-        "totalLongBalls": 27,
-        "accurateLongBalls": 8,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 3,
-        "totalOwnHalfPasses": 5,
-        "accurateOppositionHalfPasses": 8,
-        "totalOppositionHalfPasses": 26,
-        "ballRecovery": 7,
-        "goodHighClaim": 1,
-        "savedShotsFromInsideTheBox": 2,
-        "saves": 4,
-        "minutesPlayed": 90,
-        "touches": 42,
-        "rating": 5.1,
-        "possessionLostCtrl": 21,
-        "expectedAssists": 0.00135375,
-        "totalBallCarriesDistance": 44.581390458532,
-        "ballCarriesCount": 7,
-        "totalProgression": 16.715139649458,
-        "progressiveBallCarriesCount": 0,
-        "keeperSaveValue": 0.3118,
-        "ratingVersions": {
-          "original": 5.1,
-          "alternative": 6.3
-        },
-        "totalShots": 0,
-        "goalsPrevented": -1.8191,
-        "passValueNormalized": 0.03,
-        "dribbleValueNormalized": 0,
-        "defensiveValueNormalized": -0.46,
-        "goalkeeperValueNormalized": -0.8,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "G",
-      "extra": null
-    }
-  },
   "13256034": {
     "id": 13256034,
     "match_info": {
@@ -11783,6 +11656,135 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Alex Padilla",
+        "firstName": "Álex Padilla",
+        "lastName": "",
+        "slug": "padilla-alex",
+        "shortName": "Á. Padilla",
+        "position": "G",
+        "jerseyNumber": "27",
+        "height": 190,
+        "userCount": 1790,
+        "gender": "M",
+        "sofascoreId": "ek32e6",
+        "id": 1155116,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1062374400,
+        "proposedMarketValueRaw": {
+          "value": 3100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "باديلا، اليكس",
+            "bn": "প্যাডিলা, অ্যালেক্স",
+            "hi": "पैडिला, एलेक्स",
+            "ru": "Алекс Падилья"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. اليكس",
+            "bn": "আ. প্যাডিলা",
+            "hi": "ए. पैडिला",
+            "ru": "А. Падилья"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 524413,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 31,
+        "accuratePass": 11,
+        "totalLongBalls": 27,
+        "accurateLongBalls": 8,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 26,
+        "ballRecovery": 7,
+        "goodHighClaim": 1,
+        "savedShotsFromInsideTheBox": 2,
+        "saves": 4,
+        "minutesPlayed": 90,
+        "touches": 42,
+        "rating": 5.1,
+        "possessionLostCtrl": 21,
+        "expectedAssists": 0.00135375,
+        "totalBallCarriesDistance": 44.581390458532,
+        "ballCarriesCount": 7,
+        "totalProgression": 16.715139649458,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.3118,
+        "ratingVersions": {
+          "original": 5.1,
+          "alternative": 6.3
+        },
+        "totalShots": 0,
+        "goalsPrevented": -1.8191,
+        "passValueNormalized": 0.03,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": -0.46,
+        "goalkeeperValueNormalized": -0.8,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
     }
   }
 }

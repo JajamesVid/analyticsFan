@@ -3568,148 +3568,6 @@
       "extra": null
     }
   },
-  "14083727": {
-    "id": 14083727,
-    "match_info": {
-      "homeTeam": {
-        "name": "Mallorca",
-        "shortName": "Mallorca",
-        "color": "#cc0000",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "Real Oviedo",
-        "shortName": "Real Oviedo",
-        "color": "#3300ff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-oviedo-mallorca"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Martin Valjent",
-        "firstName": "Martin",
-        "lastName": "Valjent",
-        "slug": "martin-valjent",
-        "shortName": "M. Valjent",
-        "position": "D",
-        "jerseyNumber": "24",
-        "height": 187,
-        "userCount": 816,
-        "gender": "M",
-        "sofascoreId": "c387vg",
-        "id": 300522,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 818640000,
-        "proposedMarketValueRaw": {
-          "value": 3200000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "مارتين فالينت",
-            "bn": "মার্টিন ভালজেন্ট",
-            "hi": "मार्टिन वलजेंट",
-            "ru": "Мартин Вальент"
-          },
-          "shortNameTranslation": {
-            "ar": "م. فالينت",
-            "bn": "এম. ভালজেন্ট",
-            "hi": "एम. वलजेंट",
-            "ru": "М. Вальент"
-          }
-        }
-      },
-      "team": {
-        "name": "Mallorca",
-        "slug": "mallorca",
-        "shortName": "Mallorca",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 201002,
-        "nameCode": "MLL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2826,
-        "teamColors": {
-          "primary": "#cc0000",
-          "secondary": "#000000",
-          "text": "#000000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "مايوركا",
-            "bn": "ম্যালোর্কা",
-            "hi": "मल्लोर्का",
-            "ru": "Мальорка"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 55,
-        "accuratePass": 45,
-        "totalLongBalls": 6,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 29,
-        "totalOwnHalfPasses": 32,
-        "accurateOppositionHalfPasses": 16,
-        "totalOppositionHalfPasses": 23,
-        "aerialLost": 1,
-        "aerialWon": 7,
-        "duelLost": 2,
-        "duelWon": 9,
-        "challengeLost": 1,
-        "blockedScoringAttempt": 1,
-        "totalClearance": 4,
-        "outfielderBlock": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 4,
-        "totalTackle": 1,
-        "wonTackle": 1,
-        "unsuccessfulTouch": 1,
-        "wasFouled": 1,
-        "minutesPlayed": 90,
-        "touches": 65,
-        "rating": 7.5,
-        "possessionLostCtrl": 11,
-        "expectedGoals": 0.0218,
-        "expectedAssists": 0.0128363,
-        "topSpeed": 28.19,
-        "kilometersCovered": 8.66,
-        "numberOfSprints": 7,
-        "totalBallCarriesDistance": 107.33825481746,
-        "ballCarriesCount": 14,
-        "totalProgression": 3.1493442553192,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 7.5,
-          "alternative": 7.4
-        },
-        "totalShots": 1,
-        "shotValueNormalized": -0.03,
-        "passValueNormalized": 0.21,
-        "dribbleValueNormalized": 0.03,
-        "defensiveValueNormalized": 0.28,
-        "metersCoveredRunningKm": 1.17,
-        "metersCoveredHighSpeedRunningKm": 0.34,
-        "metersCoveredSprintingKm": 0.09,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "16153423": {
     "id": 16153423,
     "match_info": {
@@ -24100,6 +23958,148 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083727": {
+    "id": 14083727,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-oviedo-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Martin Valjent",
+        "firstName": "Martin",
+        "lastName": "Valjent",
+        "slug": "martin-valjent",
+        "shortName": "M. Valjent",
+        "position": "D",
+        "jerseyNumber": "24",
+        "height": 187,
+        "userCount": 798,
+        "gender": "M",
+        "sofascoreId": "c387vg",
+        "id": 300522,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 818640000,
+        "proposedMarketValueRaw": {
+          "value": 3200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مارتين فالينت",
+            "bn": "মার্টিন ভালজেন্ট",
+            "hi": "मार्टिन वलजेंट",
+            "ru": "Мартин Вальент"
+          },
+          "shortNameTranslation": {
+            "ar": "م. فالينت",
+            "bn": "এম. ভালজেন্ট",
+            "hi": "एम. वलजेंट",
+            "ru": "М. Вальент"
+          }
+        }
+      },
+      "team": {
+        "name": "Mallorca",
+        "slug": "mallorca",
+        "shortName": "Mallorca",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202209,
+        "nameCode": "MLL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2826,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مايوركا",
+            "bn": "ম্যালোর্কা",
+            "hi": "मल्लोर्का",
+            "ru": "Мальорка"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 55,
+        "accuratePass": 45,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 29,
+        "totalOwnHalfPasses": 32,
+        "accurateOppositionHalfPasses": 16,
+        "totalOppositionHalfPasses": 23,
+        "aerialLost": 1,
+        "aerialWon": 7,
+        "duelLost": 2,
+        "duelWon": 9,
+        "challengeLost": 1,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 4,
+        "outfielderBlock": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 90,
+        "touches": 65,
+        "rating": 7.5,
+        "possessionLostCtrl": 11,
+        "expectedGoals": 0.0218,
+        "expectedAssists": 0.0128363,
+        "topSpeed": 28.19,
+        "kilometersCovered": 8.66,
+        "numberOfSprints": 7,
+        "totalBallCarriesDistance": 107.33825481746,
+        "ballCarriesCount": 14,
+        "totalProgression": 3.1493442553192,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7.5,
+          "alternative": 7.4
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.03,
+        "passValueNormalized": 0.21,
+        "dribbleValueNormalized": 0.03,
+        "defensiveValueNormalized": 0.28,
+        "metersCoveredRunningKm": 1.17,
+        "metersCoveredHighSpeedRunningKm": 0.34,
+        "metersCoveredSprintingKm": 0.09,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
     }
   }
 }

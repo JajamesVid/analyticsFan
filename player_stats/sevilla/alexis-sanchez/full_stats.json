@@ -5753,245 +5753,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Celta",
-        "abreviatura": "CEL",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
-      },
-      "visitante": {
-        "nombre": "Sevilla",
-        "abreviatura": "SEV",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/17.png"
-      }
-    },
-    "resultado": "1-0",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20443-celta-sevilla",
-    "puntuaciones": {
-      "picas": 1,
-      "marca": 1,
-      "cope": 7.0,
-      "sofascore": 6.4,
-      "relevo": 2.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 3.0,
-        "futbolfantasy-rpg": 8.0,
-        "comunio": 2.0,
-        "modo-picas": 2.0,
-        "biwenger-sofascore": 2.0,
-        "biwenger-social": 0.0,
-        "biwenger-as-sofascore": 2.0,
-        "biwenger-stats": 5.0,
-        "futmondo-prensa": 3.0,
-        "futmondo-mixto-as": 2.0,
-        "futmondo-stats": 5.0,
-        "futmondo-mixto": 7.6,
-        "cronistas-marca": 2.0,
-        "marca-mixto": 2.0,
-        "marca-sofascore": 2.0,
-        "mister-cronistas-md": 2.0,
-        "mister-mixto": 2.0,
-        "mister-mixto-2": 2.0,
-        "mister-sofascore": 2.0,
-        "stat-goles": 0.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 1.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 0.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 0.0,
-        "stat-regates-exito": 1.0,
-        "stat-faltas-recibidas": 1.0,
-        "stat-faltas-cometidas": 0.0,
-        "stat-pases-interceptados": 0.0,
-        "stat-balones-robados": 2.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 0.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 1.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 0.0,
-        "stat-despejes": 0.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 1.0,
-        "stat-posesiones-perdidas": 13.0,
-        "stat-tiros-totales": 1.0,
-        "stat-centros-totales": 2.0,
-        "stat-precision-pases": 78.9,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 2.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 2.0,
-        "stat-tackles": 2.0,
-        "stat-duelos-aereos": 0.0,
-        "stat-tiros-bloqueados": 0.0,
-        "stat-pases-totales": 19.0,
-        "stat-pases-completados": 15.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083715,
-      "match_info": {
-        "homeTeam": {
-          "name": "Celta Vigo",
-          "shortName": "Celta",
-          "color": "#6cace4",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Sevilla",
-          "shortName": "Sevilla",
-          "color": "#ffffff",
-          "score": 0
-        },
-        "startTimestamp": 1779562800,
-        "slug": "sevilla-celta-vigo",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Alexis Sánchez",
-          "slug": "alexis-sanchez",
-          "shortName": "A. Sánchez",
-          "position": "F",
-          "height": 169,
-          "userCount": 32103,
-          "gender": "M",
-          "sofascoreId": "AlexisS",
-          "id": 34120,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 598492800,
-          "proposedMarketValueRaw": {
-            "value": 1300000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "أليكسيس سانشيز",
-              "bn": "অ্যালেক্সিস সানচেজ",
-              "hi": "एलेक्सिस सांचेज़",
-              "ru": "Алексис Санчес"
-            },
-            "shortNameTranslation": {
-              "ar": "أ. سانشيز",
-              "bn": "এ. সানচেজ",
-              "hi": "ए. सांचेज़",
-              "ru": "А. Санчес"
-            }
-          }
-        },
-        "team": {
-          "name": "Sevilla",
-          "slug": "sevilla",
-          "shortName": "Sevilla",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 400830,
-          "nameCode": "SEV",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2833,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#cc1020",
-            "text": "#cc1020"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "إشبيلية",
-              "bn": "সেভিলা",
-              "hi": "सेविला",
-              "ru": "Cевилья"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalPass": 19,
-          "accuratePass": 15,
-          "totalLongBalls": 2,
-          "accurateLongBalls": 2,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 6,
-          "totalOwnHalfPasses": 6,
-          "accurateOppositionHalfPasses": 9,
-          "totalOppositionHalfPasses": 13,
-          "totalCross": 2,
-          "duelLost": 4,
-          "duelWon": 4,
-          "challengeLost": 1,
-          "dispossessed": 2,
-          "totalContest": 2,
-          "wonContest": 1,
-          "bigChanceMissed": 1,
-          "onTargetScoringAttempt": 1,
-          "ballRecovery": 3,
-          "totalTackle": 2,
-          "wonTackle": 2,
-          "unsuccessfulTouch": 4,
-          "wasFouled": 1,
-          "totalOffside": 2,
-          "minutesPlayed": 64,
-          "touches": 35,
-          "rating": 6.4,
-          "possessionLostCtrl": 13,
-          "expectedGoals": 0.5784,
-          "expectedGoalsOnTarget": 0.2339,
-          "expectedAssists": 0.0194235,
-          "topSpeed": 30.12,
-          "kilometersCovered": 7.31,
-          "numberOfSprints": 8,
-          "totalBallCarriesDistance": 52.171482676634,
-          "ballCarriesCount": 7,
-          "totalProgression": -4.8306163665172,
-          "progressiveBallCarriesCount": 0,
-          "ratingVersions": {
-            "original": 6.4,
-            "alternative": 6.6
-          },
-          "totalShots": 1,
-          "shotValueNormalized": -0.56,
-          "passValueNormalized": -0.25,
-          "dribbleValueNormalized": 0.12,
-          "defensiveValueNormalized": -0.03,
-          "metersCoveredRunningKm": 1.14,
-          "metersCoveredHighSpeedRunningKm": 0.4,
-          "metersCoveredSprintingKm": 0.1,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "F",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Sevilla",
         "abreviatura": "SEV",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/17.png"
@@ -6651,6 +6412,244 @@
           "passValueNormalized": 0.28,
           "dribbleValueNormalized": 0.08,
           "defensiveValueNormalized": 0.17,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Sevilla",
+        "abreviatura": "SEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/17.png"
+      }
+    },
+    "resultado": "1-0",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20443-celta-sevilla",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 7.0,
+      "sofascore": 6.4,
+      "relevo": 2.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 3.0,
+        "futbolfantasy-rpg": 8.0,
+        "comunio": 2.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 5.0,
+        "futmondo-prensa": 3.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 5.0,
+        "futmondo-mixto": 7.6,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 1.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 1.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 2.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 1.0,
+        "stat-posesiones-perdidas": 13.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 2.0,
+        "stat-precision-pases": 78.9,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 2.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 2.0,
+        "stat-tackles": 2.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 19.0,
+        "stat-pases-completados": 15.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083715,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Sevilla",
+          "shortName": "Sevilla",
+          "color": "#ffffff",
+          "score": 0
+        },
+        "startTimestamp": 1779562800,
+        "slug": "sevilla-celta-vigo"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Alexis Sánchez",
+          "slug": "alexis-sanchez",
+          "shortName": "A. Sánchez",
+          "position": "F",
+          "height": 169,
+          "userCount": 32503,
+          "gender": "M",
+          "sofascoreId": "AlexisS",
+          "id": 34120,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 598492800,
+          "proposedMarketValueRaw": {
+            "value": 1300000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أليكسيس سانشيز",
+              "bn": "অ্যালেক্সিস সানচেজ",
+              "hi": "एलेक्सिस सांचेज़",
+              "ru": "Алексис Санчес"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. سانشيز",
+              "bn": "এ. সানচেজ",
+              "hi": "ए. सांचेज़",
+              "ru": "А. Санчес"
+            }
+          }
+        },
+        "team": {
+          "name": "Sevilla",
+          "slug": "sevilla",
+          "shortName": "Sevilla",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 405935,
+          "nameCode": "SEV",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2833,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#cc1020",
+            "text": "#cc1020"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إشبيلية",
+              "bn": "সেভিলা",
+              "hi": "सेविला",
+              "ru": "Cевилья"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 19,
+          "accuratePass": 15,
+          "totalLongBalls": 2,
+          "accurateLongBalls": 2,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 6,
+          "totalOwnHalfPasses": 6,
+          "accurateOppositionHalfPasses": 9,
+          "totalOppositionHalfPasses": 13,
+          "totalCross": 2,
+          "duelLost": 4,
+          "duelWon": 4,
+          "challengeLost": 1,
+          "dispossessed": 2,
+          "totalContest": 2,
+          "wonContest": 1,
+          "bigChanceMissed": 1,
+          "onTargetScoringAttempt": 1,
+          "ballRecovery": 3,
+          "totalTackle": 2,
+          "wonTackle": 2,
+          "unsuccessfulTouch": 4,
+          "wasFouled": 1,
+          "totalOffside": 2,
+          "minutesPlayed": 64,
+          "touches": 35,
+          "rating": 6.4,
+          "possessionLostCtrl": 13,
+          "expectedGoals": 0.5784,
+          "expectedGoalsOnTarget": 0.2339,
+          "expectedAssists": 0.0194235,
+          "topSpeed": 30.12,
+          "kilometersCovered": 7.31,
+          "numberOfSprints": 8,
+          "totalBallCarriesDistance": 52.171482676634,
+          "ballCarriesCount": 7,
+          "totalProgression": -4.8306163665172,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 6.4,
+            "alternative": 6.6
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.56,
+          "passValueNormalized": -0.25,
+          "dribbleValueNormalized": 0.12,
+          "defensiveValueNormalized": -0.03,
+          "metersCoveredRunningKm": 1.14,
+          "metersCoveredHighSpeedRunningKm": 0.4,
+          "metersCoveredSprintingKm": 0.1,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

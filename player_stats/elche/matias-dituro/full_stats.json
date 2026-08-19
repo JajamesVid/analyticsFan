@@ -4711,232 +4711,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Girona",
-        "abreviatura": "GIR",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/30.png"
-      },
-      "visitante": {
-        "nombre": "Elche",
-        "abreviatura": "ELC",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
-      }
-    },
-    "resultado": "1-1",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20447-girona-elche",
-    "puntuaciones": {
-      "picas": 1,
-      "marca": 1,
-      "cope": 6.0,
-      "sofascore": 6.6,
-      "relevo": 3.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 8.0,
-        "futbolfantasy-rpg": 14.0,
-        "comunio": 3.0,
-        "modo-picas": 2.0,
-        "biwenger-sofascore": 3.0,
-        "biwenger-social": 2.0,
-        "biwenger-as-sofascore": 3.0,
-        "biwenger-stats": 4.0,
-        "futmondo-prensa": 3.0,
-        "futmondo-mixto-as": 2.0,
-        "futmondo-stats": 7.0,
-        "futmondo-mixto": 6.0,
-        "cronistas-marca": 2.0,
-        "marca-mixto": 5.0,
-        "marca-sofascore": 3.0,
-        "mister-cronistas-md": 2.0,
-        "mister-mixto": 2.0,
-        "mister-mixto-2": 3.0,
-        "mister-sofascore": 3.0,
-        "stat-goles": 0.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 0.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 0.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 0.0,
-        "stat-regates-exito": 0.0,
-        "stat-faltas-recibidas": 0.0,
-        "stat-faltas-cometidas": 0.0,
-        "stat-pases-interceptados": 0.0,
-        "stat-balones-robados": 0.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 1.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 6.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 1.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 1.0,
-        "stat-despejes": 0.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 22.0,
-        "stat-tiros-totales": 0.0,
-        "stat-centros-totales": 0.0,
-        "stat-precision-pases": 60.4,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 0.0,
-        "stat-tackles": 0.0,
-        "stat-duelos-aereos": 0.0,
-        "stat-tiros-bloqueados": 0.0,
-        "stat-pases-totales": 53.0,
-        "stat-pases-completados": 32.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083743,
-      "match_info": {
-        "homeTeam": {
-          "name": "Girona FC",
-          "shortName": "Girona",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Elche",
-          "shortName": "Elche",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "startTimestamp": 1779562800,
-        "slug": "girona-fc-elche",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Matías Dituro",
-          "firstName": "Matias",
-          "lastName": "Dituro",
-          "slug": "matias-dituro",
-          "shortName": "M. Dituro",
-          "position": "G",
-          "jerseyNumber": "1",
-          "height": 191,
-          "userCount": 869,
-          "gender": "M",
-          "sofascoreId": "gb7zei",
-          "id": 556884,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 547430400,
-          "proposedMarketValueRaw": {
-            "value": 105000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ماتياس ديتورو",
-              "bn": "ম্যাথিয়াস ডিতুরো",
-              "hi": "मटियास डिटुरो",
-              "ru": "Матиас Дитуро"
-            },
-            "shortNameTranslation": {
-              "ar": "م. ديتورو",
-              "bn": "এম. ডিতুরো",
-              "hi": "एम. डिटुरो",
-              "ru": "М. Дитуро"
-            }
-          }
-        },
-        "team": {
-          "name": "Elche",
-          "slug": "elche",
-          "shortName": "Elche",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 116534,
-          "nameCode": "ELC",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2846,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#336600",
-            "text": "#336600"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "إلتشي",
-              "bn": "এলচে",
-              "hi": "एल्चे",
-              "ru": "Эльче"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalPass": 53,
-          "accuratePass": 32,
-          "totalLongBalls": 32,
-          "accurateLongBalls": 11,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 24,
-          "totalOwnHalfPasses": 26,
-          "accurateOppositionHalfPasses": 8,
-          "totalOppositionHalfPasses": 27,
-          "ballRecovery": 10,
-          "errorLeadToAGoal": 1,
-          "goodHighClaim": 1,
-          "savedShotsFromInsideTheBox": 3,
-          "saves": 6,
-          "minutesPlayed": 90,
-          "touches": 61,
-          "rating": 6.6,
-          "possessionLostCtrl": 21,
-          "expectedAssists": 0.00846678,
-          "totalBallCarriesDistance": 42.360200768644,
-          "ballCarriesCount": 6,
-          "totalProgression": 24.562674865798,
-          "progressiveBallCarriesCount": 0,
-          "keeperSaveValue": 1.0337,
-          "ratingVersions": {
-            "original": 6.6,
-            "alternative": 7.2
-          },
-          "totalShots": 0,
-          "goalsPrevented": 0.6775,
-          "passValueNormalized": 0.28,
-          "dribbleValueNormalized": 0,
-          "defensiveValueNormalized": -0.34,
-          "goalkeeperValueNormalized": 0.62,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "G",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Elche",
         "abreviatura": "ELC",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
@@ -7031,6 +6805,231 @@
           "metersCoveredRunningKm": 0.14,
           "metersCoveredHighSpeedRunningKm": 0.03,
           "metersCoveredSprintingKm": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Girona",
+        "abreviatura": "GIR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/30.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20447-girona-elche",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 6.0,
+      "sofascore": 6.6,
+      "relevo": 3.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 8.0,
+        "futbolfantasy-rpg": 14.0,
+        "comunio": 3.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": 2.0,
+        "biwenger-as-sofascore": 3.0,
+        "biwenger-stats": 4.0,
+        "futmondo-prensa": 3.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 7.0,
+        "futmondo-mixto": 6.0,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 5.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 1.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 6.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 1.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 22.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 60.4,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 53.0,
+        "stat-pases-completados": 32.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083743,
+      "match_info": {
+        "homeTeam": {
+          "name": "Girona FC",
+          "shortName": "Girona",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "girona-fc-elche"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Matías Dituro",
+          "firstName": "Matias",
+          "lastName": "Dituro",
+          "slug": "matias-dituro",
+          "shortName": "M. Dituro",
+          "position": "G",
+          "jerseyNumber": "1",
+          "height": 191,
+          "userCount": 955,
+          "gender": "M",
+          "sofascoreId": "gb7zei",
+          "id": 556884,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 547430400,
+          "proposedMarketValueRaw": {
+            "value": 105000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ماتياس ديتورو",
+              "bn": "ম্যাথিয়াস ডিতুরো",
+              "hi": "मटियास डिटुरो",
+              "ru": "Матиас Дитуро"
+            },
+            "shortNameTranslation": {
+              "ar": "م. ديتورو",
+              "bn": "এম. ডিতুরো",
+              "hi": "एम. डिटुरो",
+              "ru": "М. Дитуро"
+            }
+          }
+        },
+        "team": {
+          "name": "Elche",
+          "slug": "elche",
+          "shortName": "Elche",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 118908,
+          "nameCode": "ELC",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2846,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#336600",
+            "text": "#336600"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إلتشي",
+              "bn": "এলচে",
+              "hi": "एल्चे",
+              "ru": "Эльче"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 53,
+          "accuratePass": 32,
+          "totalLongBalls": 32,
+          "accurateLongBalls": 11,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 24,
+          "totalOwnHalfPasses": 26,
+          "accurateOppositionHalfPasses": 8,
+          "totalOppositionHalfPasses": 27,
+          "ballRecovery": 10,
+          "errorLeadToAGoal": 1,
+          "goodHighClaim": 1,
+          "savedShotsFromInsideTheBox": 3,
+          "saves": 6,
+          "minutesPlayed": 90,
+          "touches": 61,
+          "rating": 6.6,
+          "possessionLostCtrl": 21,
+          "expectedAssists": 0.00846678,
+          "totalBallCarriesDistance": 42.360200768644,
+          "ballCarriesCount": 6,
+          "totalProgression": 24.562674865798,
+          "progressiveBallCarriesCount": 0,
+          "keeperSaveValue": 1.0337,
+          "ratingVersions": {
+            "original": 6.6,
+            "alternative": 7.2
+          },
+          "totalShots": 0,
+          "goalsPrevented": 0.6775,
+          "passValueNormalized": 0.28,
+          "dribbleValueNormalized": 0,
+          "defensiveValueNormalized": -0.34,
+          "goalkeeperValueNormalized": 0.62,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

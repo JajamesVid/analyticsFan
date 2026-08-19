@@ -4399,235 +4399,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Espanyol",
-        "abreviatura": "ESP",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
-      },
-      "visitante": {
-        "nombre": "Real Sociedad",
-        "abreviatura": "RSO",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
-      }
-    },
-    "resultado": "1-1",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20445-espanyol-real-sociedad",
-    "puntuaciones": {
-      "picas": 1,
-      "marca": 1,
-      "cope": 4.0,
-      "sofascore": 6.7,
-      "relevo": 1.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 5.0,
-        "futbolfantasy-rpg": 4.0,
-        "comunio": 4.0,
-        "modo-picas": 2.0,
-        "biwenger-sofascore": 3.0,
-        "biwenger-social": 1.0,
-        "biwenger-as-sofascore": 3.0,
-        "biwenger-stats": 4.0,
-        "futmondo-prensa": 3.0,
-        "futmondo-mixto-as": 2.0,
-        "futmondo-stats": 1.0,
-        "futmondo-mixto": 2.8,
-        "cronistas-marca": 2.0,
-        "marca-mixto": 4.0,
-        "marca-sofascore": 3.0,
-        "mister-cronistas-md": 2.0,
-        "mister-mixto": 2.0,
-        "mister-mixto-2": 3.0,
-        "mister-sofascore": 3.0,
-        "stat-goles": 0.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 0.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 0.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 0.0,
-        "stat-regates-exito": 0.0,
-        "stat-faltas-recibidas": 0.0,
-        "stat-faltas-cometidas": 2.0,
-        "stat-pases-interceptados": 0.0,
-        "stat-balones-robados": 1.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 0.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 1.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 0.0,
-        "stat-despejes": 4.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 4.0,
-        "stat-tiros-totales": 0.0,
-        "stat-centros-totales": 0.0,
-        "stat-precision-pases": 95.7,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 1.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 1.0,
-        "stat-tackles": 1.0,
-        "stat-duelos-aereos": 0.0,
-        "stat-tiros-bloqueados": 0.0,
-        "stat-pases-totales": 46.0,
-        "stat-pases-completados": 44.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083719,
-      "match_info": {
-        "homeTeam": {
-          "name": "Espanyol",
-          "shortName": "Espanyol",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Real Sociedad",
-          "shortName": "Real Sociedad",
-          "color": "#ffffff",
-          "score": 1
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-sociedad-espanyol",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Igor Zubeldia",
-          "firstName": "Igor",
-          "lastName": "Zubeldia",
-          "slug": "igor-zubeldia",
-          "shortName": "I. Zubeldia",
-          "position": "D",
-          "jerseyNumber": "5",
-          "height": 180,
-          "userCount": 928,
-          "gender": "M",
-          "id": 838159,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 859680000,
-          "proposedMarketValueRaw": {
-            "value": 6300000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "إيغور زوبيلديا",
-              "bn": "ইগর জুবেলদিয়া",
-              "hi": "इगोर ज़ुबेल्डिया",
-              "ru": "Игорь Зубельдия"
-            },
-            "shortNameTranslation": {
-              "ar": "إ. زوبيلديا",
-              "bn": "আই. জুবেলদিয়া",
-              "hi": "आई. ज़ुबेल्डिया",
-              "ru": "И. Зубельдия"
-            }
-          }
-        },
-        "team": {
-          "name": "Real Sociedad",
-          "slug": "real-sociedad",
-          "shortName": "Real Sociedad",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 413040,
-          "nameCode": "RSO",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2824,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#0077c7",
-            "text": "#0077c7"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ريال سوسيداد",
-              "bn": "রিয়াল সোসিয়েদাদ",
-              "hi": "रियल सोसियदाद",
-              "ru": "Реал Сосьедад"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalPass": 46,
-          "accuratePass": 44,
-          "totalLongBalls": 4,
-          "accurateLongBalls": 3,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 32,
-          "totalOwnHalfPasses": 32,
-          "accurateOppositionHalfPasses": 12,
-          "totalOppositionHalfPasses": 14,
-          "aerialLost": 4,
-          "duelLost": 6,
-          "duelWon": 3,
-          "totalClearance": 4,
-          "ballRecovery": 7,
-          "totalTackle": 3,
-          "wonTackle": 1,
-          "errorLeadToAShot": 1,
-          "unsuccessfulTouch": 1,
-          "fouls": 2,
-          "minutesPlayed": 90,
-          "touches": 57,
-          "rating": 6.7,
-          "possessionLostCtrl": 4,
-          "expectedAssists": 0.00556603,
-          "totalBallCarriesDistance": 136.08520691941,
-          "ballCarriesCount": 14,
-          "totalProgression": 103.072730377,
-          "bestBallCarryProgression": 21.478092276434,
-          "totalProgressiveBallCarriesDistance": 21.479346568273,
-          "progressiveBallCarriesCount": 1,
-          "ratingVersions": {
-            "original": 6.7,
-            "alternative": 6.6
-          },
-          "totalShots": 0,
-          "passValueNormalized": 0.19,
-          "dribbleValueNormalized": 0.06,
-          "defensiveValueNormalized": -0.01,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "D",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Osasuna",
         "abreviatura": "OSA",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
@@ -25918,6 +25689,241 @@
           "expectedGoalsOnTarget": 0,
           "expectedAssists": 0.00313728,
           "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Espanyol",
+        "abreviatura": "ESP",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
+      },
+      "visitante": {
+        "nombre": "Real Sociedad",
+        "abreviatura": "RSO",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20445-espanyol-real-sociedad",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 4.0,
+      "sofascore": 6.7,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 5.0,
+        "futbolfantasy-rpg": 4.0,
+        "comunio": 4.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": 1.0,
+        "biwenger-as-sofascore": 3.0,
+        "biwenger-stats": 4.0,
+        "futmondo-prensa": 3.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 1.0,
+        "futmondo-mixto": 2.8,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 4.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 2.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 1.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 4.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 4.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 95.7,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 1.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 1.0,
+        "stat-tackles": 1.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 46.0,
+        "stat-pases-completados": 44.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083719,
+      "match_info": {
+        "homeTeam": {
+          "name": "Espanyol",
+          "shortName": "Espanyol",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Real Sociedad",
+          "shortName": "Real Sociedad",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-sociedad-espanyol"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Igor Zubeldia",
+          "firstName": "Igor",
+          "lastName": "Zubeldia",
+          "slug": "igor-zubeldia",
+          "shortName": "I. Zubeldia",
+          "position": "D",
+          "jerseyNumber": "5",
+          "height": 180,
+          "userCount": 945,
+          "gender": "M",
+          "sofascoreId": "icrmte",
+          "id": 838159,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 859680000,
+          "proposedMarketValueRaw": {
+            "value": 6300000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إيغور زوبيلديا",
+              "bn": "ইগর জুবেলদিয়া",
+              "hi": "इगोर ज़ुबेल्डिया",
+              "ru": "Игорь Зубельдия"
+            },
+            "shortNameTranslation": {
+              "ar": "إ. زوبيلديا",
+              "bn": "আই. জুবেলদিয়া",
+              "hi": "आई. ज़ुबेल्डिया",
+              "ru": "И. Зубельдия"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Sociedad",
+          "slug": "real-sociedad",
+          "shortName": "Real Sociedad",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 417327,
+          "nameCode": "RSO",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2824,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#0077c7",
+            "text": "#0077c7"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال سوسيداد",
+              "bn": "রিয়াল সোসিয়েদাদ",
+              "hi": "रियल सोसियदाद",
+              "ru": "Реал Сосьедад"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 46,
+          "accuratePass": 44,
+          "totalLongBalls": 4,
+          "accurateLongBalls": 3,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 32,
+          "totalOwnHalfPasses": 32,
+          "accurateOppositionHalfPasses": 12,
+          "totalOppositionHalfPasses": 14,
+          "aerialLost": 4,
+          "duelLost": 6,
+          "duelWon": 3,
+          "totalClearance": 4,
+          "ballRecovery": 7,
+          "totalTackle": 3,
+          "wonTackle": 1,
+          "errorLeadToAShot": 1,
+          "unsuccessfulTouch": 1,
+          "fouls": 2,
+          "minutesPlayed": 90,
+          "touches": 57,
+          "rating": 6.7,
+          "possessionLostCtrl": 4,
+          "expectedAssists": 0.00556603,
+          "topSpeed": 35.37,
+          "kilometersCovered": 9.55,
+          "numberOfSprints": 13,
+          "totalBallCarriesDistance": 136.08520691941,
+          "ballCarriesCount": 14,
+          "totalProgression": 103.072730377,
+          "bestBallCarryProgression": 21.478092276434,
+          "totalProgressiveBallCarriesDistance": 21.479346568273,
+          "progressiveBallCarriesCount": 1,
+          "ratingVersions": {
+            "original": 6.7,
+            "alternative": 6.6
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.19,
+          "dribbleValueNormalized": 0.06,
+          "defensiveValueNormalized": -0.01,
+          "metersCoveredRunningKm": 1.39,
+          "metersCoveredHighSpeedRunningKm": 0.42,
+          "metersCoveredSprintingKm": 0.18,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

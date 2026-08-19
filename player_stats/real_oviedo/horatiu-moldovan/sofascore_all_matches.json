@@ -2702,134 +2702,6 @@
       "extra": null
     }
   },
-  "14083727": {
-    "id": 14083727,
-    "match_info": {
-      "homeTeam": {
-        "name": "Mallorca",
-        "shortName": "Mallorca",
-        "color": "#cc0000",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "Real Oviedo",
-        "shortName": "Real Oviedo",
-        "color": "#3300ff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-oviedo-mallorca"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Horațiu Moldovan",
-        "firstName": "Horatiu",
-        "lastName": "Moldovan",
-        "slug": "horatiu-moldovan",
-        "shortName": "H. Moldovan",
-        "position": "G",
-        "jerseyNumber": "1",
-        "height": 186,
-        "userCount": 2537,
-        "gender": "M",
-        "id": 857065,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 885254400,
-        "proposedMarketValueRaw": {
-          "value": 2100000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "هوراتيو مولدوفان",
-            "bn": "হোরাটিও মোলডোভান",
-            "hi": "होरातिउ मोल्दोवन"
-          },
-          "shortNameTranslation": {
-            "ar": "ه. مولدوفان",
-            "bn": "এইচ. মোলডোভান",
-            "hi": "एच. मोल्दोवन"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Oviedo",
-        "slug": "real-oviedo",
-        "shortName": "Real Oviedo",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 100010,
-        "nameCode": "OVI",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2851,
-        "teamColors": {
-          "primary": "#3300ff",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال اوفيدو",
-            "hi": "रियल ओविएडो",
-            "ru": "Реал Овьедо"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 45,
-        "accuratePass": 24,
-        "totalLongBalls": 33,
-        "accurateLongBalls": 13,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 19,
-        "totalOwnHalfPasses": 29,
-        "accurateOppositionHalfPasses": 5,
-        "totalOppositionHalfPasses": 16,
-        "totalClearance": 2,
-        "ballRecovery": 7,
-        "errorLeadToAGoal": 1,
-        "errorLeadToAShot": 1,
-        "goodHighClaim": 1,
-        "savedShotsFromInsideTheBox": 3,
-        "saves": 4,
-        "totalKeeperSweeper": 1,
-        "accurateKeeperSweeper": 1,
-        "minutesPlayed": 90,
-        "touches": 53,
-        "rating": 6.9,
-        "possessionLostCtrl": 21,
-        "expectedAssists": 0.00086443,
-        "totalBallCarriesDistance": 97.222888091597,
-        "ballCarriesCount": 17,
-        "totalProgression": 23.141288877745,
-        "progressiveBallCarriesCount": 0,
-        "keeperSaveValue": 0.4337,
-        "ratingVersions": {
-          "original": 6.9,
-          "alternative": 6.9
-        },
-        "totalShots": 0,
-        "goalsPrevented": -0.2123,
-        "passValueNormalized": 0.08,
-        "dribbleValueNormalized": -0.05,
-        "defensiveValueNormalized": -0.67,
-        "goalkeeperValueNormalized": 0.38,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "G",
-      "extra": null
-    }
-  },
   "12527579": {
     "id": 12527579,
     "match_info": {
@@ -20039,6 +19911,137 @@
         "rating": 6.6,
         "possessionLostCtrl": 15,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083727": {
+    "id": 14083727,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-oviedo-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Horațiu Moldovan",
+        "firstName": "Horatiu",
+        "lastName": "Moldovan",
+        "slug": "horatiu-moldovan",
+        "shortName": "H. Moldovan",
+        "position": "G",
+        "jerseyNumber": "1",
+        "height": 186,
+        "userCount": 2670,
+        "gender": "M",
+        "sofascoreId": "8iycnw",
+        "id": 857065,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 885254400,
+        "proposedMarketValueRaw": {
+          "value": 1900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هوراتيو مولدوفان",
+            "bn": "হোরাটিও মোলডোভান",
+            "hi": "होरातिउ मोल्दोवन",
+            "ru": "Хорацие Молдован"
+          },
+          "shortNameTranslation": {
+            "ar": "ه. مولدوفان",
+            "bn": "এইচ. মোলডোভান",
+            "hi": "एच. मोल्दोवन",
+            "ru": "Х. Молдован"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 98974,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 45,
+        "accuratePass": 24,
+        "totalLongBalls": 33,
+        "accurateLongBalls": 13,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 19,
+        "totalOwnHalfPasses": 29,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 16,
+        "totalClearance": 2,
+        "ballRecovery": 7,
+        "errorLeadToAGoal": 1,
+        "errorLeadToAShot": 1,
+        "goodHighClaim": 1,
+        "savedShotsFromInsideTheBox": 3,
+        "saves": 4,
+        "totalKeeperSweeper": 1,
+        "accurateKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 53,
+        "rating": 6.9,
+        "possessionLostCtrl": 21,
+        "expectedAssists": 0.00086443,
+        "totalBallCarriesDistance": 97.222888091597,
+        "ballCarriesCount": 17,
+        "totalProgression": 23.141288877745,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.7231,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "goalsPrevented": -0.2123,
+        "passValueNormalized": 0.08,
+        "dribbleValueNormalized": -0.05,
+        "defensiveValueNormalized": -0.67,
+        "goalkeeperValueNormalized": 0.38,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

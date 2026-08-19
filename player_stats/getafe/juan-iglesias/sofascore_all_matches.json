@@ -3832,137 +3832,6 @@
       "extra": null
     }
   },
-  "14083723": {
-    "id": 14083723,
-    "match_info": {
-      "homeTeam": {
-        "name": "Getafe",
-        "shortName": "Getafe",
-        "color": "#00369e",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Osasuna",
-        "shortName": "Osasuna",
-        "color": "#cc0000",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "getafe-osasuna"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Juan Iglesias",
-        "firstName": "",
-        "lastName": "",
-        "slug": "juan-iglesias",
-        "shortName": "J. Iglesias",
-        "position": "D",
-        "jerseyNumber": "21",
-        "height": 185,
-        "userCount": 743,
-        "gender": "M",
-        "id": 949707,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 899424000,
-        "proposedMarketValueRaw": {
-          "value": 4800000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "خوان إغليسياس",
-            "bn": "জুয়ান ইগলেসিয়াস",
-            "hi": "जुआन इग्लेसियस",
-            "ru": "Хуан Иглесиас"
-          },
-          "shortNameTranslation": {
-            "ar": "خ. إغليسياس",
-            "bn": "জে. ইগলেসিয়াস",
-            "hi": "जे. इग्लेसियस",
-            "ru": "Х. Иглесиас"
-          }
-        }
-      },
-      "team": {
-        "name": "Getafe",
-        "slug": "getafe",
-        "shortName": "Getafe",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 199335,
-        "nameCode": "GET",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2859,
-        "teamColors": {
-          "primary": "#00369e",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "خيتافي",
-            "bn": "গেটাফে",
-            "hi": "गेटाफे",
-            "ru": "Хетафе"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 18,
-        "accuratePass": 8,
-        "totalLongBalls": 5,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 2,
-        "totalOwnHalfPasses": 3,
-        "accurateOppositionHalfPasses": 6,
-        "totalOppositionHalfPasses": 15,
-        "totalCross": 5,
-        "accurateCross": 1,
-        "aerialLost": 1,
-        "aerialWon": 2,
-        "duelLost": 3,
-        "duelWon": 6,
-        "totalClearance": 4,
-        "outfielderBlock": 1,
-        "ballRecovery": 2,
-        "totalTackle": 1,
-        "unsuccessfulTouch": 1,
-        "wasFouled": 4,
-        "fouls": 2,
-        "minutesPlayed": 90,
-        "touches": 50,
-        "rating": 7.2,
-        "possessionLostCtrl": 20,
-        "expectedAssists": 0.050947,
-        "totalBallCarriesDistance": 45.711408254567,
-        "ballCarriesCount": 7,
-        "totalProgression": 21.331606383666,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 7.2,
-          "alternative": 7.1
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.13,
-        "dribbleValueNormalized": 0.01,
-        "defensiveValueNormalized": 0.24,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437825": {
     "id": 12437825,
     "match_info": {
@@ -23708,6 +23577,144 @@
         "rating": 6.5,
         "possessionLostCtrl": 1,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083723": {
+    "id": 14083723,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "getafe-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juan Iglesias",
+        "firstName": "",
+        "lastName": "",
+        "slug": "juan-iglesias",
+        "shortName": "J. Iglesias",
+        "position": "D",
+        "jerseyNumber": "21",
+        "height": 185,
+        "userCount": 809,
+        "gender": "M",
+        "sofascoreId": "vu3jdi",
+        "id": 949707,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 899424000,
+        "proposedMarketValueRaw": {
+          "value": 4800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوان إغليسياس",
+            "bn": "জুয়ান ইগলেসিয়াস",
+            "hi": "जुआन इग्लेसियस",
+            "ru": "Хуан Иглесиас"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. إغليسياس",
+            "bn": "জে. ইগলেসিয়াস",
+            "hi": "जे. इग्लेसियस",
+            "ru": "Х. Иглесиас"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 203865,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 18,
+        "accuratePass": 8,
+        "totalLongBalls": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 15,
+        "totalCross": 5,
+        "accurateCross": 1,
+        "aerialLost": 1,
+        "aerialWon": 2,
+        "duelLost": 3,
+        "duelWon": 6,
+        "totalClearance": 4,
+        "outfielderBlock": 1,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 4,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 50,
+        "rating": 7.2,
+        "possessionLostCtrl": 20,
+        "expectedAssists": 0.050947,
+        "topSpeed": 32.42,
+        "kilometersCovered": 8.94,
+        "numberOfSprints": 7,
+        "totalBallCarriesDistance": 45.711408254567,
+        "ballCarriesCount": 7,
+        "totalProgression": 21.331606383666,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7.2,
+          "alternative": 7.1
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.13,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": 0.24,
+        "metersCoveredRunningKm": 1.2,
+        "metersCoveredHighSpeedRunningKm": 0.4,
+        "metersCoveredSprintingKm": 0.11,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

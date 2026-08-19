@@ -4548,126 +4548,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Getafe",
-        "abreviatura": "GET",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/8.png"
-      },
-      "visitante": {
-        "nombre": "Osasuna",
-        "abreviatura": "OSA",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
-      }
-    },
-    "resultado": "1-0",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20446-getafe-osasuna",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083723,
-      "match_info": {
-        "homeTeam": {
-          "name": "Getafe",
-          "shortName": "Getafe",
-          "color": "#00369e",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Osasuna",
-          "shortName": "Osasuna",
-          "color": "#cc0000",
-          "score": 0
-        },
-        "startTimestamp": 1779562800,
-        "slug": "getafe-osasuna",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Javier Muñoz",
-          "slug": "javier-munoz",
-          "shortName": "J. Muñoz",
-          "position": "M",
-          "jerseyNumber": "14",
-          "height": 179,
-          "userCount": 334,
-          "gender": "M",
-          "id": 353154,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 793929600,
-          "proposedMarketValueRaw": {
-            "value": 1100000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "خافيير مونيز",
-              "bn": "জাভিয়ের মুনোজ",
-              "hi": "जेवियर मुनोज़",
-              "ru": "Хавьер Муньос"
-            },
-            "shortNameTranslation": {
-              "ar": "خ. مونيز",
-              "bn": "জে. মুনোজ",
-              "hi": "जे. मुनोज़",
-              "ru": "Х. Муньос"
-            }
-          }
-        },
-        "team": {
-          "name": "Getafe",
-          "slug": "getafe",
-          "shortName": "Getafe",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 199335,
-          "nameCode": "GET",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2859,
-          "teamColors": {
-            "primary": "#00369e",
-            "secondary": "#ffffff",
-            "text": "#ffffff"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "خيتافي",
-              "bn": "গেটাফে",
-              "hi": "गेटाफे",
-              "ru": "Хетафе"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "M",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Las Palmas",
         "abreviatura": "LPA",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/27.png"
@@ -21652,6 +21532,126 @@
             "alternative": 6.8
           },
           "totalShots": 3,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Getafe",
+        "abreviatura": "GET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/8.png"
+      },
+      "visitante": {
+        "nombre": "Osasuna",
+        "abreviatura": "OSA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
+      }
+    },
+    "resultado": "1-0",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20446-getafe-osasuna",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083723,
+      "match_info": {
+        "homeTeam": {
+          "name": "Getafe",
+          "shortName": "Getafe",
+          "color": "#00369e",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Osasuna",
+          "shortName": "Osasuna",
+          "color": "#cc0000",
+          "score": 0
+        },
+        "startTimestamp": 1779562800,
+        "slug": "getafe-osasuna"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Javier Muñoz",
+          "slug": "javier-munoz",
+          "shortName": "J. Muñoz",
+          "position": "M",
+          "jerseyNumber": "14",
+          "height": 179,
+          "userCount": 342,
+          "gender": "M",
+          "sofascoreId": "rb843m",
+          "id": 353154,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 793929600,
+          "proposedMarketValueRaw": {
+            "value": 1100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "خافيير مونيز",
+              "bn": "জাভিয়ের মুনোজ",
+              "hi": "जेवियर मुनोज़",
+              "ru": "Хавьер Муньос"
+            },
+            "shortNameTranslation": {
+              "ar": "خ. مونيز",
+              "bn": "জে. মুনোজ",
+              "hi": "जे. मुनोज़",
+              "ru": "Х. Муньос"
+            }
+          }
+        },
+        "team": {
+          "name": "Getafe",
+          "slug": "getafe",
+          "shortName": "Getafe",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 203865,
+          "nameCode": "GET",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2859,
+          "teamColors": {
+            "primary": "#00369e",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "خيتافي",
+              "bn": "গেটাফে",
+              "hi": "गेटाफे",
+              "ru": "Хетафе"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

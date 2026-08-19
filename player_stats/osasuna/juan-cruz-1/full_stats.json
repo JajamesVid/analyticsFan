@@ -3568,122 +3568,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Getafe",
-        "abreviatura": "GET",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/8.png"
-      },
-      "visitante": {
-        "nombre": "Osasuna",
-        "abreviatura": "OSA",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
-      }
-    },
-    "resultado": "1-0",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20446-getafe-osasuna",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083723,
-      "match_info": {
-        "homeTeam": {
-          "name": "Getafe",
-          "shortName": "Getafe",
-          "color": "#00369e",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Osasuna",
-          "shortName": "Osasuna",
-          "color": "#cc0000",
-          "score": 0
-        },
-        "startTimestamp": 1779562800,
-        "slug": "getafe-osasuna",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Juan Cruz",
-          "slug": "cruz-juan",
-          "shortName": "C. Juan",
-          "position": "D",
-          "jerseyNumber": "3",
-          "height": 180,
-          "userCount": 139,
-          "gender": "M",
-          "id": 814360,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 712281600,
-          "proposedMarketValueRaw": {
-            "value": 1000000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "كروز خوان",
-              "ru": "Хуан Крус"
-            },
-            "shortNameTranslation": {
-              "ar": "ك. خوان",
-              "ru": "Х. Крус"
-            }
-          }
-        },
-        "team": {
-          "name": "Osasuna",
-          "slug": "osasuna",
-          "shortName": "Osasuna",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 199411,
-          "nameCode": "OSA",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2820,
-          "teamColors": {
-            "primary": "#cc0000",
-            "secondary": "#14213d",
-            "text": "#14213d"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "أوساسونا",
-              "bn": "ওসাসুনা",
-              "hi": "ओसासुना",
-              "ru": "Осасуна"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "D",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Osasuna",
         "abreviatura": "OSA",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
@@ -25012,6 +24896,121 @@
           "expectedGoals": 0,
           "expectedGoalsOnTarget": 0,
           "expectedAssists": 0.0143515,
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Getafe",
+        "abreviatura": "GET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/8.png"
+      },
+      "visitante": {
+        "nombre": "Osasuna",
+        "abreviatura": "OSA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
+      }
+    },
+    "resultado": "1-0",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20446-getafe-osasuna",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083723,
+      "match_info": {
+        "homeTeam": {
+          "name": "Getafe",
+          "shortName": "Getafe",
+          "color": "#00369e",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Osasuna",
+          "shortName": "Osasuna",
+          "color": "#cc0000",
+          "score": 0
+        },
+        "startTimestamp": 1779562800,
+        "slug": "getafe-osasuna"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Juan Cruz",
+          "slug": "cruz-juan",
+          "shortName": "C. Juan",
+          "position": "D",
+          "height": 180,
+          "userCount": 151,
+          "gender": "M",
+          "sofascoreId": "5nyhrz",
+          "id": 814360,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 712281600,
+          "proposedMarketValueRaw": {
+            "value": 1000000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كروز خوان",
+              "ru": "Хуан Крус"
+            },
+            "shortNameTranslation": {
+              "ar": "ك. خوان",
+              "ru": "Х. Крус"
+            }
+          }
+        },
+        "team": {
+          "name": "Osasuna",
+          "slug": "osasuna",
+          "shortName": "Osasuna",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 202237,
+          "nameCode": "OSA",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2820,
+          "teamColors": {
+            "primary": "#cc0000",
+            "secondary": "#14213d",
+            "text": "#14213d"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوساسونا",
+              "bn": "ওসাসুনা",
+              "hi": "ओसासुना",
+              "ru": "Осасуна"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
           "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",

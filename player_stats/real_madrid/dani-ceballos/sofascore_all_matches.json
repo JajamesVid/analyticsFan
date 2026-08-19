@@ -3171,123 +3171,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Dani Ceballos",
-        "firstName": "Dani",
-        "lastName": "Ceballos",
-        "slug": "dani-ceballos",
-        "shortName": "D. Ceballos",
-        "position": "M",
-        "jerseyNumber": "19",
-        "height": 179,
-        "userCount": 76140,
-        "gender": "M",
-        "sofascoreId": "Danifuli10",
-        "id": 547838,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 839376000,
-        "proposedMarketValueRaw": {
-          "value": 8400000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "داني سيبايوس",
-            "bn": "দানি সেবেলোস",
-            "hi": "दानी सेबालोस"
-          },
-          "shortNameTranslation": {
-            "ar": "د. سيبايوس",
-            "bn": "ডি. সেবেলোস",
-            "hi": "डी. सेबालोस"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Madrid",
-        "slug": "real-madrid",
-        "shortName": "Real Madrid",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 7733858,
-        "nameCode": "RMA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2829,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#004996",
-          "text": "#004996"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال مدريد",
-            "bn": "রিয়াল মাদ্রিদ",
-            "hi": "रियल मैड्रिड",
-            "ru": "Реал Мадрид"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 12,
-        "accuratePass": 12,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 8,
-        "totalOwnHalfPasses": 8,
-        "accurateOppositionHalfPasses": 4,
-        "totalOppositionHalfPasses": 4,
-        "unsuccessfulTouch": 1,
-        "minutesPlayed": 16,
-        "touches": 14,
-        "rating": 6.4,
-        "possessionLostCtrl": 2,
-        "expectedAssists": 0.0159375,
-        "totalBallCarriesDistance": 92.960562477605,
-        "ballCarriesCount": 11,
-        "totalProgression": 12.215159072811,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.4,
-          "alternative": 6.4
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.11,
-        "dribbleValueNormalized": -0.62,
-        "defensiveValueNormalized": -0.07,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12437861": {
     "id": 12437861,
     "match_info": {
@@ -23274,6 +23157,130 @@
         "expectedGoalsOnTarget": 0,
         "expectedAssists": 0.0186771,
         "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Dani Ceballos",
+        "firstName": "Dani",
+        "lastName": "Ceballos",
+        "slug": "dani-ceballos",
+        "shortName": "D. Ceballos",
+        "position": "M",
+        "height": 179,
+        "userCount": 76556,
+        "gender": "M",
+        "sofascoreId": "Danifuli10",
+        "id": 547838,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 839376000,
+        "proposedMarketValueRaw": {
+          "value": 7400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "داني سيبايوس",
+            "bn": "দানি সেবেলোস",
+            "hi": "दानी सेबालोस",
+            "ru": "Дани Себальос"
+          },
+          "shortNameTranslation": {
+            "ar": "د. سيبايوس",
+            "bn": "ডি. সেবেলোস",
+            "hi": "डी. सेबालोस",
+            "ru": "Д. Себальос"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Madrid",
+        "slug": "real-madrid",
+        "shortName": "Real Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 8378061,
+        "nameCode": "RMA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2829,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#004996",
+          "text": "#004996"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال مدريد",
+            "bn": "রিয়াল মাদ্রিদ",
+            "hi": "रियल मैड्रिड",
+            "ru": "Реал Мадрид"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 12,
+        "accuratePass": 12,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 8,
+        "totalOwnHalfPasses": 8,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 4,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 16,
+        "touches": 14,
+        "rating": 6.4,
+        "possessionLostCtrl": 2,
+        "expectedAssists": 0.0159375,
+        "topSpeed": 23.52,
+        "kilometersCovered": 1.91,
+        "numberOfSprints": 0,
+        "totalBallCarriesDistance": 92.960562477605,
+        "ballCarriesCount": 11,
+        "totalProgression": 12.215159072811,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.11,
+        "dribbleValueNormalized": -0.62,
+        "defensiveValueNormalized": -0.07,
+        "metersCoveredRunningKm": 0.26,
+        "metersCoveredHighSpeedRunningKm": 0.04,
+        "metersCoveredSprintingKm": 0,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

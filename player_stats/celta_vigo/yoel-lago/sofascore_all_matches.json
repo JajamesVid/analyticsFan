@@ -3074,134 +3074,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Yoel Lago",
-        "firstName": "Yoel",
-        "lastName": "Lago",
-        "slug": "yoel-lago",
-        "shortName": "Y. Lago",
-        "position": "D",
-        "jerseyNumber": "29",
-        "height": 185,
-        "userCount": 248,
-        "gender": "M",
-        "id": 1145100,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1080172800,
-        "proposedMarketValueRaw": {
-          "value": 2300000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "يويل لاجو",
-            "ru": "Йоэль Лаго"
-          },
-          "shortNameTranslation": {
-            "ar": "ي. لاجو",
-            "ru": "Й. Лаго"
-          }
-        }
-      },
-      "team": {
-        "name": "Celta Vigo",
-        "slug": "celta-vigo",
-        "shortName": "Celta",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 266335,
-        "nameCode": "CEL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2821,
-        "teamColors": {
-          "primary": "#6cace4",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "سيلتا فيغو",
-            "bn": "সেলটা ভিগো",
-            "ru": "Сельта"
-          },
-          "shortNameTranslation": {
-            "ar": "سيلتا",
-            "hi": "सेल्टा"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 74,
-        "accuratePass": 68,
-        "totalLongBalls": 3,
-        "accurateLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 53,
-        "totalOwnHalfPasses": 57,
-        "accurateOppositionHalfPasses": 15,
-        "totalOppositionHalfPasses": 17,
-        "aerialWon": 2,
-        "duelWon": 6,
-        "totalContest": 1,
-        "wonContest": 1,
-        "shotOffTarget": 1,
-        "totalClearance": 5,
-        "ballRecovery": 2,
-        "totalTackle": 3,
-        "wonTackle": 1,
-        "minutesPlayed": 90,
-        "touches": 89,
-        "rating": 7.8,
-        "possessionLostCtrl": 6,
-        "expectedGoals": 0.0268,
-        "expectedAssists": 0.0083948,
-        "totalBallCarriesDistance": 153.36901518529,
-        "ballCarriesCount": 22,
-        "totalProgression": 95.758348338176,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 7.8,
-          "alternative": 7.5
-        },
-        "totalShots": 1,
-        "shotValueNormalized": -0.16,
-        "passValueNormalized": 0.25,
-        "dribbleValueNormalized": 0.07,
-        "defensiveValueNormalized": 0.45,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "13394554": {
     "id": 13394554,
     "match_info": {
@@ -16156,6 +16028,141 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Yoel Lago",
+        "firstName": "Yoel",
+        "lastName": "Lago",
+        "slug": "yoel-lago",
+        "shortName": "Y. Lago",
+        "position": "D",
+        "jerseyNumber": "29",
+        "height": 185,
+        "userCount": 262,
+        "gender": "M",
+        "sofascoreId": "ek3zqa",
+        "id": 1145100,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1080172800,
+        "proposedMarketValueRaw": {
+          "value": 3700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "يويل لاجو",
+            "ru": "Йоэль Лаго"
+          },
+          "shortNameTranslation": {
+            "ar": "ي. لاجو",
+            "ru": "Й. Лаго"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 267822,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 74,
+        "accuratePass": 68,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 53,
+        "totalOwnHalfPasses": 57,
+        "accurateOppositionHalfPasses": 15,
+        "totalOppositionHalfPasses": 17,
+        "aerialWon": 2,
+        "duelWon": 6,
+        "totalContest": 1,
+        "wonContest": 1,
+        "shotOffTarget": 1,
+        "totalClearance": 5,
+        "ballRecovery": 2,
+        "totalTackle": 3,
+        "wonTackle": 1,
+        "minutesPlayed": 90,
+        "touches": 89,
+        "rating": 7.8,
+        "possessionLostCtrl": 6,
+        "expectedGoals": 0.0268,
+        "expectedAssists": 0.0083948,
+        "topSpeed": 29.95,
+        "kilometersCovered": 9.29,
+        "numberOfSprints": 8,
+        "totalBallCarriesDistance": 153.36901518529,
+        "ballCarriesCount": 22,
+        "totalProgression": 95.758348338176,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7.8,
+          "alternative": 7.5
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.16,
+        "passValueNormalized": 0.25,
+        "dribbleValueNormalized": 0.07,
+        "defensiveValueNormalized": 0.45,
+        "metersCoveredRunningKm": 0.83,
+        "metersCoveredHighSpeedRunningKm": 0.27,
+        "metersCoveredSprintingKm": 0.12,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
     }
   }
 }

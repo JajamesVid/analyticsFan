@@ -2976,131 +2976,6 @@
       "extra": null
     }
   },
-  "14083731": {
-    "id": 14083731,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Madrid",
-        "shortName": "Real Madrid",
-        "color": "#ffffff",
-        "score": 4
-      },
-      "awayTeam": {
-        "name": "Athletic Club",
-        "shortName": "Athletic Club",
-        "color": "#aa0000",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-madrid-athletic-club"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Urko Izeta",
-        "firstName": "Urko Izeta",
-        "lastName": "",
-        "slug": "urko-izeta",
-        "shortName": "U. Izeta",
-        "position": "F",
-        "jerseyNumber": "25",
-        "height": 175,
-        "userCount": 457,
-        "gender": "M",
-        "id": 1430667,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 938563200,
-        "proposedMarketValueRaw": {
-          "value": 1500000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أوركو إيزيتا",
-            "ru": "Урко Изета"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. إيزيتا",
-            "ru": "У. Изета"
-          }
-        }
-      },
-      "team": {
-        "name": "Athletic Club",
-        "slug": "athletic-club",
-        "shortName": "Athletic Club",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 519382,
-        "nameCode": "ATH",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2825,
-        "teamColors": {
-          "primary": "#aa0000",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "نادي أتليتيك",
-            "bn": "অ্যাথলেটিক ক্লাব",
-            "hi": "एथलेटिक क्लब",
-            "ru": "Атлетик Бильбао"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 2,
-        "accuratePass": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 2,
-        "totalOwnHalfPasses": 2,
-        "duelLost": 1,
-        "challengeLost": 1,
-        "onTargetScoringAttempt": 1,
-        "blockedScoringAttempt": 1,
-        "goals": 1,
-        "totalClearance": 1,
-        "minutesPlayed": 16,
-        "touches": 5,
-        "rating": 7.2,
-        "expectedGoals": 0.4152,
-        "expectedGoalsOnTarget": 0.8296,
-        "expectedAssists": 5.346e-05,
-        "topSpeed": 27.16,
-        "kilometersCovered": 1.82,
-        "numberOfSprints": 2,
-        "totalBallCarriesDistance": 16.285239482427,
-        "ballCarriesCount": 1,
-        "totalProgression": -11.508539727825,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 7.2,
-          "alternative": 7.2
-        },
-        "totalShots": 2,
-        "shotValueNormalized": 0.41,
-        "passValueNormalized": 0,
-        "dribbleValueNormalized": -0.05,
-        "defensiveValueNormalized": -0.02,
-        "metersCoveredRunningKm": 0.2,
-        "metersCoveredHighSpeedRunningKm": 0.08,
-        "metersCoveredSprintingKm": 0.02,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12467393": {
     "id": 12467393,
     "match_info": {
@@ -11956,6 +11831,134 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083731": {
+    "id": 14083731,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-madrid-athletic-club"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Urko Izeta",
+        "firstName": "Urko Izeta",
+        "lastName": "",
+        "slug": "urko-izeta",
+        "shortName": "U. Izeta",
+        "position": "F",
+        "jerseyNumber": "19",
+        "height": 175,
+        "userCount": 482,
+        "gender": "M",
+        "sofascoreId": "vuy3iy",
+        "id": 1430667,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 938563200,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوركو إيزيتا",
+            "ru": "Урко Изета"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. إيزيتا",
+            "ru": "У. Изета"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 524413,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 2,
+        "accuratePass": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "duelLost": 1,
+        "challengeLost": 1,
+        "onTargetScoringAttempt": 1,
+        "blockedScoringAttempt": 1,
+        "goals": 1,
+        "totalClearance": 1,
+        "minutesPlayed": 16,
+        "touches": 5,
+        "rating": 7.2,
+        "expectedGoals": 0.4152,
+        "expectedGoalsOnTarget": 0.8296,
+        "expectedAssists": 5.346e-05,
+        "topSpeed": 27.16,
+        "kilometersCovered": 1.82,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 16.285239482427,
+        "ballCarriesCount": 1,
+        "totalProgression": -11.508539727825,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7.2,
+          "alternative": 7.2
+        },
+        "totalShots": 2,
+        "shotValueNormalized": 0.41,
+        "passValueNormalized": 0,
+        "dribbleValueNormalized": -0.05,
+        "defensiveValueNormalized": -0.02,
+        "metersCoveredRunningKm": 0.2,
+        "metersCoveredHighSpeedRunningKm": 0.08,
+        "metersCoveredSprintingKm": 0.02,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
     }
   }
 }

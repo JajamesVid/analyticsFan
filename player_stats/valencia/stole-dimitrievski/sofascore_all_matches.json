@@ -3286,134 +3286,6 @@
       "extra": null
     }
   },
-  "14083739": {
-    "id": 14083739,
-    "match_info": {
-      "homeTeam": {
-        "name": "Valencia",
-        "shortName": "Valencia",
-        "color": "#ffffff",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "FC Barcelona",
-        "shortName": "Barcelona",
-        "color": "#154284",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "valencia-barcelona"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Stole Dimitrievski",
-        "slug": "stole-dimitrievski",
-        "shortName": "S. Dimitrievski",
-        "position": "G",
-        "jerseyNumber": "1",
-        "height": 188,
-        "userCount": 893,
-        "gender": "M",
-        "id": 97951,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 756777600,
-        "proposedMarketValueRaw": {
-          "value": 2100000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ستول ديميتريفسكي",
-            "bn": "স্টোল দিমিত্রিয়েভস্কি",
-            "hi": "स्टोल दिमित्रिएव्स्की",
-            "ru": "Столе Димитриевски"
-          },
-          "shortNameTranslation": {
-            "ar": "س. ديميتريفسكي",
-            "bn": "এস. দিমিত্রিয়েভস্কি",
-            "hi": "एस. दिमित्रिएव्स्की",
-            "ru": "С. Димитриевски"
-          }
-        }
-      },
-      "team": {
-        "name": "Valencia",
-        "slug": "valencia",
-        "shortName": "Valencia",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 288160,
-        "nameCode": "VAL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2828,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#000000",
-          "text": "#000000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فالنسيا",
-            "bn": "ভ্যালেন্সিয়া",
-            "hi": "वेलेंसिया",
-            "ru": "Валенсия"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 20,
-        "accuratePass": 9,
-        "totalLongBalls": 15,
-        "accurateLongBalls": 4,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 6,
-        "totalOwnHalfPasses": 8,
-        "accurateOppositionHalfPasses": 3,
-        "totalOppositionHalfPasses": 12,
-        "totalClearance": 2,
-        "ballRecovery": 6,
-        "goodHighClaim": 1,
-        "savedShotsFromInsideTheBox": 2,
-        "saves": 3,
-        "punches": 1,
-        "totalKeeperSweeper": 1,
-        "accurateKeeperSweeper": 1,
-        "minutesPlayed": 90,
-        "touches": 27,
-        "rating": 6.9,
-        "possessionLostCtrl": 11,
-        "expectedAssists": 0.00126945,
-        "totalBallCarriesDistance": 8.0267303839717,
-        "ballCarriesCount": 2,
-        "totalProgression": -1.1324605059359,
-        "progressiveBallCarriesCount": 0,
-        "keeperSaveValue": 0.6822,
-        "ratingVersions": {
-          "original": 6.9,
-          "alternative": 7
-        },
-        "totalShots": 0,
-        "goalsPrevented": 0.9127,
-        "passValueNormalized": 0.06,
-        "dribbleValueNormalized": 0,
-        "defensiveValueNormalized": -0.08,
-        "goalkeeperValueNormalized": 0.53,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "G",
-      "extra": null
-    }
-  },
   "16130125": {
     "id": 16130125,
     "match_info": {
@@ -21597,6 +21469,135 @@
         },
         "totalShots": 0,
         "goalsPrevented": -0.9063,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083739": {
+    "id": 14083739,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "valencia-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Stole Dimitrievski",
+        "slug": "stole-dimitrievski",
+        "shortName": "S. Dimitrievski",
+        "position": "G",
+        "jerseyNumber": "1",
+        "height": 188,
+        "userCount": 915,
+        "gender": "M",
+        "sofascoreId": "h8mypc",
+        "id": 97951,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 756777600,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ستول ديميتريفسكي",
+            "bn": "স্টোল দিমিত্রিয়েভস্কি",
+            "hi": "स्टोल दिमित्रिएव्स्की",
+            "ru": "Столе Димитриевски"
+          },
+          "shortNameTranslation": {
+            "ar": "س. ديميتريفسكي",
+            "bn": "এস. দিমিত্রিয়েভস্কি",
+            "hi": "एस. दिमित्रिएव्स्की",
+            "ru": "С. Димитриевски"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 292379,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 20,
+        "accuratePass": 9,
+        "totalLongBalls": 15,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 6,
+        "totalOwnHalfPasses": 8,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 12,
+        "totalClearance": 2,
+        "ballRecovery": 6,
+        "goodHighClaim": 1,
+        "savedShotsFromInsideTheBox": 2,
+        "saves": 3,
+        "punches": 1,
+        "totalKeeperSweeper": 1,
+        "accurateKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 27,
+        "rating": 6.9,
+        "possessionLostCtrl": 11,
+        "expectedAssists": 0.00126945,
+        "totalBallCarriesDistance": 8.0267303839717,
+        "ballCarriesCount": 2,
+        "totalProgression": -1.1324605059359,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.6822,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 7
+        },
+        "totalShots": 0,
+        "goalsPrevented": 0.9127,
+        "passValueNormalized": 0.06,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": -0.08,
+        "goalkeeperValueNormalized": 0.53,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

@@ -4356,236 +4356,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Alavés",
-        "abreviatura": "ALA",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
-      },
-      "visitante": {
-        "nombre": "Rayo",
-        "abreviatura": "RAY",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/14.png"
-      }
-    },
-    "resultado": "1-2",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20444-alaves-rayo",
-    "puntuaciones": {
-      "picas": 1,
-      "marca": 1,
-      "cope": 7.0,
-      "sofascore": 7.6,
-      "relevo": 2.0,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {
-        "laliga-fantasy": 5.0,
-        "futbolfantasy-rpg": 16.0,
-        "comunio": 8.0,
-        "modo-picas": 2.0,
-        "biwenger-sofascore": 8.0,
-        "biwenger-social": 2.0,
-        "biwenger-as-sofascore": 5.0,
-        "biwenger-stats": 5.0,
-        "futmondo-prensa": 3.0,
-        "futmondo-mixto-as": 2.0,
-        "futmondo-stats": 6.0,
-        "futmondo-mixto": 9.3,
-        "cronistas-marca": 2.0,
-        "marca-mixto": 5.0,
-        "marca-sofascore": 8.0,
-        "mister-cronistas-md": 2.0,
-        "mister-mixto": 4.0,
-        "mister-mixto-2": 5.0,
-        "mister-sofascore": 8.0,
-        "stat-goles": 0.0,
-        "stat-goles-penalti": 0.0,
-        "stat-goles-falta": 0.0,
-        "stat-asistencias": 0.0,
-        "stat-asistencias-sin-gol": 0.0,
-        "stat-tiros-puerta": 0.0,
-        "stat-tiros-palo": 0.0,
-        "stat-corners-forzados": 0.0,
-        "stat-centros-precisos": 0.0,
-        "stat-pases-area-exito": 0.0,
-        "stat-regates-exito": 0.0,
-        "stat-faltas-recibidas": 2.0,
-        "stat-faltas-cometidas": 0.0,
-        "stat-pases-interceptados": 1.0,
-        "stat-balones-robados": 3.0,
-        "stat-balones-robados-ultimo-hombre": 0.0,
-        "stat-goles-salvados": 0.0,
-        "stat-errores-gol-contra": 0.0,
-        "stat-tarjetas-amarillas": 0.0,
-        "stat-tarjeta-roja": 0.0,
-        "stat-penaltis-fallados": 0.0,
-        "stat-goles-propia-meta": 0.0,
-        "stat-paradas": 0.0,
-        "stat-penaltis-parados": 0.0,
-        "stat-goles-encajados": 1.0,
-        "stat-penaltis-cometidos": 0.0,
-        "stat-centros-atajados": 0.0,
-        "stat-despejes": 3.0,
-        "stat-ocasiones-claras-creadas": 0.0,
-        "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 3.0,
-        "stat-tiros-totales": 0.0,
-        "stat-centros-totales": 0.0,
-        "stat-precision-pases": 95.2,
-        "stat-penaltis-provocados": 0.0,
-        "stat-penaltis-lanzados": 0.0,
-        "stat-penaltis-anotados": 0.0,
-        "stat-corners-colgados": 0.0,
-        "stat-corners-colgados-precisos": 0.0,
-        "stat-faltas-colgadas": 0.0,
-        "stat-faltas-colgadas-precisas": 0.0,
-        "stat-faltas-directas": 0.0,
-        "stat-faltas-directas-puerta": 0.0,
-        "stat-balones-recuperados": 3.0,
-        "stat-tackles": 3.0,
-        "stat-duelos-aereos": 1.0,
-        "stat-tiros-bloqueados": 1.0,
-        "stat-pases-totales": 21.0,
-        "stat-pases-completados": 20.0,
-        "stat-paradas-destacadas": 0.0
-      }
-    },
-    "sofascore": {
-      "id": 14083706,
-      "match_info": {
-        "homeTeam": {
-          "name": "Deportivo Alavés",
-          "shortName": "Alavés",
-          "color": "#0232a0",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Rayo Vallecano",
-          "shortName": "Rayo Vallecano",
-          "color": "#ffffff",
-          "score": 2
-        },
-        "startTimestamp": 1779562800,
-        "slug": "deportivo-alaves-rayo-vallecano",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Óscar Valentín",
-          "firstName": "",
-          "lastName": "",
-          "slug": "oscar-valentin",
-          "shortName": "Ó. Valentín",
-          "position": "M",
-          "jerseyNumber": "23",
-          "height": 177,
-          "userCount": 553,
-          "gender": "M",
-          "id": 900008,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 777340800,
-          "proposedMarketValueRaw": {
-            "value": 1900000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "أوسكار فالنتين",
-              "bn": "অস্কার ভ্যালেন্টিন",
-              "hi": "ऑस्कर वैलेंटाइन",
-              "ru": "Оскар Валентин"
-            },
-            "shortNameTranslation": {
-              "ar": "أ. فالنتين",
-              "bn": "ও.ভ্যালেন্টিন",
-              "hi": "ओ. वैलेंटाइन",
-              "ru": "О. Валентин"
-            }
-          }
-        },
-        "team": {
-          "name": "Rayo Vallecano",
-          "slug": "rayo-vallecano",
-          "shortName": "Rayo Vallecano",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 227407,
-          "nameCode": "RAY",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2818,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#ffffff",
-            "text": "#ffffff"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "رايو فاليكانو",
-              "bn": "রায়ো ভ্যালেকানো",
-              "hi": "रेयो वैलेकैनो",
-              "ru": "Райо Вальекано"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalPass": 21,
-          "accuratePass": 20,
-          "goalAssist": 0,
-          "accurateOwnHalfPasses": 14,
-          "totalOwnHalfPasses": 15,
-          "accurateOppositionHalfPasses": 6,
-          "totalOppositionHalfPasses": 6,
-          "aerialLost": 1,
-          "aerialWon": 1,
-          "duelLost": 4,
-          "duelWon": 6,
-          "challengeLost": 1,
-          "dispossessed": 2,
-          "totalClearance": 3,
-          "outfielderBlock": 1,
-          "interceptionWon": 1,
-          "ballRecovery": 2,
-          "totalTackle": 3,
-          "wonTackle": 3,
-          "wasFouled": 2,
-          "minutesPlayed": 61,
-          "touches": 39,
-          "rating": 7.6,
-          "possessionLostCtrl": 3,
-          "expectedAssists": 0.00332689,
-          "totalBallCarriesDistance": 103.50587575818,
-          "ballCarriesCount": 8,
-          "totalProgression": 71.88718314681,
-          "bestBallCarryProgression": 41.318615375568,
-          "totalProgressiveBallCarriesDistance": 41.802196222208,
-          "progressiveBallCarriesCount": 1,
-          "ratingVersions": {
-            "original": 7.6,
-            "alternative": 7
-          },
-          "totalShots": 0,
-          "passValueNormalized": 0.05,
-          "dribbleValueNormalized": 0.1,
-          "defensiveValueNormalized": 0.58,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "M",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Rayo",
         "abreviatura": "RAY",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/14.png"
@@ -30633,6 +30403,242 @@
           "expectedGoalsOnTarget": 0,
           "expectedAssists": 0.00229365,
           "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Alavés",
+        "abreviatura": "ALA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
+      },
+      "visitante": {
+        "nombre": "Rayo",
+        "abreviatura": "RAY",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/14.png"
+      }
+    },
+    "resultado": "1-2",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20444-alaves-rayo",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 7.0,
+      "sofascore": 7.6,
+      "relevo": 2.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 5.0,
+        "futbolfantasy-rpg": 16.0,
+        "comunio": 8.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 8.0,
+        "biwenger-social": 2.0,
+        "biwenger-as-sofascore": 5.0,
+        "biwenger-stats": 5.0,
+        "futmondo-prensa": 3.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 6.0,
+        "futmondo-mixto": 9.3,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 5.0,
+        "marca-sofascore": 8.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 4.0,
+        "mister-mixto-2": 5.0,
+        "mister-sofascore": 8.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 2.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 1.0,
+        "stat-balones-robados": 3.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 3.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 3.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 95.2,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 3.0,
+        "stat-tackles": 3.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 1.0,
+        "stat-pases-totales": 21.0,
+        "stat-pases-completados": 20.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 14083706,
+      "match_info": {
+        "homeTeam": {
+          "name": "Deportivo Alavés",
+          "shortName": "Alavés",
+          "color": "#0232a0",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Rayo Vallecano",
+          "shortName": "Rayo Vallecano",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "startTimestamp": 1779562800,
+        "slug": "deportivo-alaves-rayo-vallecano"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Óscar Valentín",
+          "firstName": "",
+          "lastName": "",
+          "slug": "oscar-valentin",
+          "shortName": "Ó. Valentín",
+          "position": "M",
+          "jerseyNumber": "23",
+          "height": 177,
+          "userCount": 560,
+          "gender": "M",
+          "sofascoreId": "eesbb8",
+          "id": 900008,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 777340800,
+          "proposedMarketValueRaw": {
+            "value": 1900000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوسكار فالنتين",
+              "bn": "অস্কার ভ্যালেন্টিন",
+              "hi": "ऑस्कर वैलेंटाइन",
+              "ru": "Оскар Валентин"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. فالنتين",
+              "bn": "ও.ভ্যালেন্টিন",
+              "hi": "ओ. वैलेंटाइन",
+              "ru": "О. Валентин"
+            }
+          }
+        },
+        "team": {
+          "name": "Rayo Vallecano",
+          "slug": "rayo-vallecano",
+          "shortName": "Rayo Vallecano",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 227211,
+          "nameCode": "RAY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2818,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "رايو فاليكانو",
+              "bn": "রায়ো ভ্যালেকানো",
+              "hi": "रेयो वैलेकैनो",
+              "ru": "Райо Вальекано"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 21,
+          "accuratePass": 20,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 14,
+          "totalOwnHalfPasses": 15,
+          "accurateOppositionHalfPasses": 6,
+          "totalOppositionHalfPasses": 6,
+          "aerialLost": 1,
+          "aerialWon": 1,
+          "duelLost": 4,
+          "duelWon": 6,
+          "challengeLost": 1,
+          "dispossessed": 2,
+          "totalClearance": 3,
+          "outfielderBlock": 1,
+          "interceptionWon": 1,
+          "ballRecovery": 2,
+          "totalTackle": 3,
+          "wonTackle": 3,
+          "wasFouled": 2,
+          "minutesPlayed": 61,
+          "touches": 39,
+          "rating": 7.6,
+          "possessionLostCtrl": 3,
+          "expectedAssists": 0.00332689,
+          "topSpeed": 27.92,
+          "kilometersCovered": 6.53,
+          "numberOfSprints": 6,
+          "totalBallCarriesDistance": 103.50587575818,
+          "ballCarriesCount": 8,
+          "totalProgression": 71.88718314681,
+          "bestBallCarryProgression": 41.318615375568,
+          "totalProgressiveBallCarriesDistance": 41.802196222208,
+          "progressiveBallCarriesCount": 1,
+          "ratingVersions": {
+            "original": 7.6,
+            "alternative": 7
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.05,
+          "dribbleValueNormalized": 0.1,
+          "defensiveValueNormalized": 0.58,
+          "metersCoveredRunningKm": 1.06,
+          "metersCoveredHighSpeedRunningKm": 0.2,
+          "metersCoveredSprintingKm": 0.06,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

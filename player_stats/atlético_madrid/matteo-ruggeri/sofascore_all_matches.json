@@ -3774,136 +3774,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Matteo Ruggeri",
-        "firstName": "Matteo",
-        "lastName": "Ruggeri",
-        "slug": "matteo-ruggeri",
-        "shortName": "M. Ruggeri",
-        "position": "D",
-        "jerseyNumber": "3",
-        "height": 187,
-        "userCount": 4160,
-        "gender": "M",
-        "id": 965011,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1026345600,
-        "proposedMarketValueRaw": {
-          "value": 27000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ماتيو روجيري",
-            "bn": "মাত্তিও রুগেরি",
-            "hi": "माटेओ रग्गेरी",
-            "ru": "Маттео Руджери"
-          },
-          "shortNameTranslation": {
-            "ar": "م. روجيري",
-            "bn": "এম. রগেরি",
-            "hi": "एम. रग्गेरी",
-            "ru": "М. Руджери"
-          }
-        }
-      },
-      "team": {
-        "name": "Atlético Madrid",
-        "slug": "atletico-madrid",
-        "shortName": "Atl. Madrid",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 2591268,
-        "nameCode": "ATM",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2836,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#c40000",
-          "text": "#c40000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أتلتيكو مدريد",
-            "hi": "एटलेटिको मैड्रिड",
-            "ru": "Атлетико Мадрид"
-          },
-          "shortNameTranslation": {
-            "ar": "أتل. مدريد",
-            "bn": "এটিএল. মাদ্রিদ"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 29,
-        "accuratePass": 23,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 7,
-        "totalOwnHalfPasses": 10,
-        "accurateOppositionHalfPasses": 16,
-        "totalOppositionHalfPasses": 19,
-        "totalCross": 2,
-        "aerialWon": 1,
-        "duelLost": 1,
-        "duelWon": 1,
-        "challengeLost": 1,
-        "totalClearance": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 3,
-        "unsuccessfulTouch": 1,
-        "minutesPlayed": 45,
-        "touches": 39,
-        "rating": 6.2,
-        "possessionLostCtrl": 9,
-        "expectedAssists": 0.0238533,
-        "totalBallCarriesDistance": 32.474723763866,
-        "ballCarriesCount": 3,
-        "totalProgression": 27.37565003151,
-        "bestBallCarryProgression": 17.891219535509,
-        "totalProgressiveBallCarriesDistance": 21.882303352252,
-        "progressiveBallCarriesCount": 1,
-        "ratingVersions": {
-          "original": 6.2,
-          "alternative": 6.6
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.16,
-        "dribbleValueNormalized": 0.04,
-        "defensiveValueNormalized": -0.21,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "14082860": {
     "id": 14082860,
     "match_info": {
@@ -24558,6 +24428,143 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Matteo Ruggeri",
+        "firstName": "Matteo",
+        "lastName": "Ruggeri",
+        "slug": "matteo-ruggeri",
+        "shortName": "M. Ruggeri",
+        "position": "D",
+        "jerseyNumber": "3",
+        "height": 187,
+        "userCount": 4313,
+        "gender": "M",
+        "sofascoreId": "uttafa",
+        "id": 965011,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1026345600,
+        "proposedMarketValueRaw": {
+          "value": 27000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماتيو روجيري",
+            "bn": "মাত্তিও রুগেরি",
+            "hi": "माटेओ रग्गेरी",
+            "ru": "Маттео Руджери"
+          },
+          "shortNameTranslation": {
+            "ar": "م. روجيري",
+            "bn": "এম. রগেরি",
+            "hi": "एम. रग्गेरी",
+            "ru": "М. Руджери"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atl. Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2635078,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 29,
+        "accuratePass": 23,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 7,
+        "totalOwnHalfPasses": 10,
+        "accurateOppositionHalfPasses": 16,
+        "totalOppositionHalfPasses": 19,
+        "totalCross": 2,
+        "aerialWon": 1,
+        "duelLost": 1,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 3,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 45,
+        "touches": 39,
+        "rating": 6.2,
+        "possessionLostCtrl": 9,
+        "expectedAssists": 0.0238533,
+        "topSpeed": 30.09,
+        "kilometersCovered": 4.6,
+        "numberOfSprints": 6,
+        "totalBallCarriesDistance": 32.474723763866,
+        "ballCarriesCount": 3,
+        "totalProgression": 27.37565003151,
+        "bestBallCarryProgression": 17.891219535509,
+        "totalProgressiveBallCarriesDistance": 21.882303352252,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.2,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.16,
+        "dribbleValueNormalized": 0.04,
+        "defensiveValueNormalized": -0.21,
+        "metersCoveredRunningKm": 0.67,
+        "metersCoveredHighSpeedRunningKm": 0.26,
+        "metersCoveredSprintingKm": 0.09,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
     }
   }
 }

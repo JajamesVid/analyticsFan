@@ -3569,147 +3569,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Alexis Sánchez",
-        "slug": "alexis-sanchez",
-        "shortName": "A. Sánchez",
-        "position": "F",
-        "height": 169,
-        "userCount": 32103,
-        "gender": "M",
-        "sofascoreId": "AlexisS",
-        "id": 34120,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 598492800,
-        "proposedMarketValueRaw": {
-          "value": 1300000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أليكسيس سانشيز",
-            "bn": "অ্যালেক্সিস সানচেজ",
-            "hi": "एलेक्सिस सांचेज़",
-            "ru": "Алексис Санчес"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. سانشيز",
-            "bn": "এ. সানচেজ",
-            "hi": "ए. सांचेज़",
-            "ru": "А. Санчес"
-          }
-        }
-      },
-      "team": {
-        "name": "Sevilla",
-        "slug": "sevilla",
-        "shortName": "Sevilla",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 400830,
-        "nameCode": "SEV",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2833,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#cc1020",
-          "text": "#cc1020"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إشبيلية",
-            "bn": "সেভিলা",
-            "hi": "सेविला",
-            "ru": "Cевилья"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 19,
-        "accuratePass": 15,
-        "totalLongBalls": 2,
-        "accurateLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 6,
-        "totalOwnHalfPasses": 6,
-        "accurateOppositionHalfPasses": 9,
-        "totalOppositionHalfPasses": 13,
-        "totalCross": 2,
-        "duelLost": 4,
-        "duelWon": 4,
-        "challengeLost": 1,
-        "dispossessed": 2,
-        "totalContest": 2,
-        "wonContest": 1,
-        "bigChanceMissed": 1,
-        "onTargetScoringAttempt": 1,
-        "ballRecovery": 3,
-        "totalTackle": 2,
-        "wonTackle": 2,
-        "unsuccessfulTouch": 4,
-        "wasFouled": 1,
-        "totalOffside": 2,
-        "minutesPlayed": 64,
-        "touches": 35,
-        "rating": 6.4,
-        "possessionLostCtrl": 13,
-        "expectedGoals": 0.5784,
-        "expectedGoalsOnTarget": 0.2339,
-        "expectedAssists": 0.0194235,
-        "topSpeed": 30.12,
-        "kilometersCovered": 7.31,
-        "numberOfSprints": 8,
-        "totalBallCarriesDistance": 52.171482676634,
-        "ballCarriesCount": 7,
-        "totalProgression": -4.8306163665172,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.4,
-          "alternative": 6.6
-        },
-        "totalShots": 1,
-        "shotValueNormalized": -0.56,
-        "passValueNormalized": -0.25,
-        "dribbleValueNormalized": 0.12,
-        "defensiveValueNormalized": -0.03,
-        "metersCoveredRunningKm": 1.14,
-        "metersCoveredHighSpeedRunningKm": 0.4,
-        "metersCoveredSprintingKm": 0.1,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "12258888": {
     "id": 12258888,
     "match_info": {
@@ -24457,6 +24316,147 @@
       },
       "statistics": {
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Alexis Sánchez",
+        "slug": "alexis-sanchez",
+        "shortName": "A. Sánchez",
+        "position": "F",
+        "height": 169,
+        "userCount": 32503,
+        "gender": "M",
+        "sofascoreId": "AlexisS",
+        "id": 34120,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 598492800,
+        "proposedMarketValueRaw": {
+          "value": 1300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أليكسيس سانشيز",
+            "bn": "অ্যালেক্সিস সানচেজ",
+            "hi": "एलेक्सिस सांचेज़",
+            "ru": "Алексис Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. سانشيز",
+            "bn": "এ. সানচেজ",
+            "hi": "ए. सांचेज़",
+            "ru": "А. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 405935,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Cевилья"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 19,
+        "accuratePass": 15,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 6,
+        "totalOwnHalfPasses": 6,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 13,
+        "totalCross": 2,
+        "duelLost": 4,
+        "duelWon": 4,
+        "challengeLost": 1,
+        "dispossessed": 2,
+        "totalContest": 2,
+        "wonContest": 1,
+        "bigChanceMissed": 1,
+        "onTargetScoringAttempt": 1,
+        "ballRecovery": 3,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "unsuccessfulTouch": 4,
+        "wasFouled": 1,
+        "totalOffside": 2,
+        "minutesPlayed": 64,
+        "touches": 35,
+        "rating": 6.4,
+        "possessionLostCtrl": 13,
+        "expectedGoals": 0.5784,
+        "expectedGoalsOnTarget": 0.2339,
+        "expectedAssists": 0.0194235,
+        "topSpeed": 30.12,
+        "kilometersCovered": 7.31,
+        "numberOfSprints": 8,
+        "totalBallCarriesDistance": 52.171482676634,
+        "ballCarriesCount": 7,
+        "totalProgression": -4.8306163665172,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.6
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.56,
+        "passValueNormalized": -0.25,
+        "dribbleValueNormalized": 0.12,
+        "defensiveValueNormalized": -0.03,
+        "metersCoveredRunningKm": 1.14,
+        "metersCoveredHighSpeedRunningKm": 0.4,
+        "metersCoveredSprintingKm": 0.1,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

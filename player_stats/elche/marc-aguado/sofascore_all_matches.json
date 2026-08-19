@@ -3616,138 +3616,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Marc Aguado",
-        "firstName": "",
-        "lastName": "",
-        "slug": "marc-aguado",
-        "shortName": "M. Aguado",
-        "position": "M",
-        "jerseyNumber": "8",
-        "height": 178,
-        "userCount": 404,
-        "gender": "M",
-        "sofascoreId": "jv3vc8",
-        "id": 1014595,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 951177600,
-        "proposedMarketValueRaw": {
-          "value": 3700000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "مارك أغوادو",
-            "ru": "Марс Агуада"
-          },
-          "shortNameTranslation": {
-            "ar": "م. أغوادو",
-            "ru": "М. Агуада"
-          }
-        }
-      },
-      "team": {
-        "name": "Elche",
-        "slug": "elche",
-        "shortName": "Elche",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 116534,
-        "nameCode": "ELC",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2846,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#336600",
-          "text": "#336600"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إلتشي",
-            "bn": "এলচে",
-            "hi": "एल्चे",
-            "ru": "Эльче"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 42,
-        "accuratePass": 35,
-        "totalLongBalls": 5,
-        "accurateLongBalls": 4,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 23,
-        "totalOwnHalfPasses": 24,
-        "accurateOppositionHalfPasses": 12,
-        "totalOppositionHalfPasses": 18,
-        "duelLost": 2,
-        "duelWon": 2,
-        "bigChanceCreated": 1,
-        "totalClearance": 4,
-        "interceptionWon": 1,
-        "ballRecovery": 4,
-        "totalTackle": 2,
-        "wonTackle": 2,
-        "fouls": 2,
-        "minutesPlayed": 90,
-        "touches": 49,
-        "rating": 6.7,
-        "possessionLostCtrl": 7,
-        "expectedAssists": 0.00892973,
-        "topSpeed": 28.69,
-        "kilometersCovered": 10.43,
-        "numberOfSprints": 5,
-        "totalBallCarriesDistance": 7.9575043826567,
-        "ballCarriesCount": 1,
-        "totalProgression": -4.5053767719716,
-        "progressiveBallCarriesCount": 0,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 6.7,
-          "alternative": 7.1
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.09,
-        "dribbleValueNormalized": 0,
-        "defensiveValueNormalized": 0.13,
-        "metersCoveredRunningKm": 1.38,
-        "metersCoveredHighSpeedRunningKm": 0.37,
-        "metersCoveredSprintingKm": 0.05,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12467482": {
     "id": 12467482,
     "match_info": {
@@ -19808,6 +19676,138 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Marc Aguado",
+        "firstName": "",
+        "lastName": "",
+        "slug": "marc-aguado",
+        "shortName": "M. Aguado",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 178,
+        "userCount": 408,
+        "gender": "M",
+        "sofascoreId": "jv3vc8",
+        "id": 1014595,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 951177600,
+        "proposedMarketValueRaw": {
+          "value": 3700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مارك أغوادو",
+            "ru": "Марс Агуада"
+          },
+          "shortNameTranslation": {
+            "ar": "م. أغوادو",
+            "ru": "М. Агуада"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 118908,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 42,
+        "accuratePass": 35,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 23,
+        "totalOwnHalfPasses": 24,
+        "accurateOppositionHalfPasses": 12,
+        "totalOppositionHalfPasses": 18,
+        "duelLost": 2,
+        "duelWon": 2,
+        "bigChanceCreated": 1,
+        "totalClearance": 4,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 49,
+        "rating": 6.7,
+        "possessionLostCtrl": 7,
+        "expectedAssists": 0.00892973,
+        "topSpeed": 28.69,
+        "kilometersCovered": 10.43,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 7.9575043826567,
+        "ballCarriesCount": 1,
+        "totalProgression": -4.5053767719716,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 7.1
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.09,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": 0.13,
+        "metersCoveredRunningKm": 1.38,
+        "metersCoveredHighSpeedRunningKm": 0.37,
+        "metersCoveredSprintingKm": 0.05,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
     }
   }
 }

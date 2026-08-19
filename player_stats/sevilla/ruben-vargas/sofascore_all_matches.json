@@ -3153,143 +3153,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Rubén Vargas",
-        "firstName": "Ruben",
-        "lastName": "Vargas",
-        "slug": "ruben-vargas",
-        "shortName": "R. Vargas",
-        "position": "M",
-        "jerseyNumber": "11",
-        "height": 179,
-        "userCount": 3731,
-        "gender": "M",
-        "id": 872919,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 902275200,
-        "proposedMarketValueRaw": {
-          "value": 11100000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "روبن فارغاس",
-            "bn": "রুবেন ভার্গাস",
-            "hi": "रुबेन वर्गास",
-            "ru": "Рубен Варгас"
-          },
-          "shortNameTranslation": {
-            "ar": "ر. فارغاس",
-            "bn": "আর. ভার্গাস",
-            "hi": "आर. वर्गास",
-            "ru": "Р. Варгас"
-          }
-        }
-      },
-      "team": {
-        "name": "Sevilla",
-        "slug": "sevilla",
-        "shortName": "Sevilla",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 400830,
-        "nameCode": "SEV",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2833,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#cc1020",
-          "text": "#cc1020"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إشبيلية",
-            "bn": "সেভিলা",
-            "hi": "सेविला",
-            "ru": "Cевилья"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 20,
-        "accuratePass": 20,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 12,
-        "totalOwnHalfPasses": 12,
-        "accurateOppositionHalfPasses": 8,
-        "totalOppositionHalfPasses": 8,
-        "totalCross": 1,
-        "accurateCross": 1,
-        "duelLost": 1,
-        "duelWon": 1,
-        "dispossessed": 1,
-        "shotOffTarget": 2,
-        "blockedScoringAttempt": 1,
-        "ballRecovery": 2,
-        "totalTackle": 1,
-        "wonTackle": 1,
-        "minutesPlayed": 26,
-        "touches": 28,
-        "rating": 6.7,
-        "possessionLostCtrl": 1,
-        "expectedGoals": 0.0792,
-        "expectedAssists": 0.0505925,
-        "topSpeed": 29.62,
-        "kilometersCovered": 3.22,
-        "numberOfSprints": 2,
-        "totalBallCarriesDistance": 92.282922110402,
-        "ballCarriesCount": 7,
-        "totalProgression": 44.390508167942,
-        "bestBallCarryProgression": 25.027426373296,
-        "totalProgressiveBallCarriesDistance": 55.876125437834,
-        "progressiveBallCarriesCount": 2,
-        "ratingVersions": {
-          "original": 6.7,
-          "alternative": 6.8
-        },
-        "totalShots": 3,
-        "shotValueNormalized": -0.16,
-        "passValueNormalized": 0.03,
-        "dribbleValueNormalized": 0.13,
-        "defensiveValueNormalized": 0.13,
-        "metersCoveredRunningKm": 0.42,
-        "metersCoveredHighSpeedRunningKm": 0.16,
-        "metersCoveredSprintingKm": 0.01,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "15891673": {
     "id": 15891673,
     "match_info": {
@@ -24526,6 +24389,144 @@
         "rating": 7.2,
         "possessionLostCtrl": 11,
         "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Rubén Vargas",
+        "firstName": "Ruben",
+        "lastName": "Vargas",
+        "slug": "ruben-vargas",
+        "shortName": "R. Vargas",
+        "position": "M",
+        "jerseyNumber": "11",
+        "height": 179,
+        "userCount": 4494,
+        "gender": "M",
+        "sofascoreId": "xn9akt",
+        "id": 872919,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 902275200,
+        "proposedMarketValueRaw": {
+          "value": 13900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "روبن فارغاس",
+            "bn": "রুবেন ভার্গাস",
+            "hi": "रुबेन वर्गास",
+            "ru": "Рубен Варгас"
+          },
+          "shortNameTranslation": {
+            "ar": "ر. فارغاس",
+            "bn": "আর. ভার্গাস",
+            "hi": "आर. वर्गास",
+            "ru": "Р. Варгас"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 405935,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Cевилья"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 20,
+        "accuratePass": 20,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 12,
+        "totalOwnHalfPasses": 12,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 8,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "duelLost": 1,
+        "duelWon": 1,
+        "dispossessed": 1,
+        "shotOffTarget": 2,
+        "blockedScoringAttempt": 1,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "minutesPlayed": 26,
+        "touches": 28,
+        "rating": 6.7,
+        "possessionLostCtrl": 1,
+        "expectedGoals": 0.0792,
+        "expectedAssists": 0.0505925,
+        "topSpeed": 29.62,
+        "kilometersCovered": 3.22,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 92.282922110402,
+        "ballCarriesCount": 7,
+        "totalProgression": 44.390508167942,
+        "bestBallCarryProgression": 25.027426373296,
+        "totalProgressiveBallCarriesDistance": 55.876125437834,
+        "progressiveBallCarriesCount": 2,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.8
+        },
+        "totalShots": 3,
+        "shotValueNormalized": -0.16,
+        "passValueNormalized": 0.03,
+        "dribbleValueNormalized": 0.13,
+        "defensiveValueNormalized": 0.13,
+        "metersCoveredRunningKm": 0.42,
+        "metersCoveredHighSpeedRunningKm": 0.16,
+        "metersCoveredSprintingKm": 0.01,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

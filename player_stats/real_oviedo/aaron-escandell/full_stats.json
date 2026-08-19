@@ -5868,123 +5868,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Mallorca",
-        "abreviatura": "MAL",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
-      },
-      "visitante": {
-        "nombre": "Real Oviedo",
-        "abreviatura": "ROV",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/43.png"
-      }
-    },
-    "resultado": "3-0",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20448-mallorca-real-oviedo",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083727,
-      "match_info": {
-        "homeTeam": {
-          "name": "Mallorca",
-          "shortName": "Mallorca",
-          "color": "#cc0000",
-          "score": 3
-        },
-        "awayTeam": {
-          "name": "Real Oviedo",
-          "shortName": "Real Oviedo",
-          "color": "#3300ff",
-          "score": 0
-        },
-        "startTimestamp": 1779562800,
-        "slug": "real-oviedo-mallorca",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Aarón Escandell",
-          "slug": "aaron-escandell",
-          "shortName": "A. Escandell",
-          "position": "G",
-          "jerseyNumber": "13",
-          "height": 188,
-          "userCount": 1050,
-          "gender": "M",
-          "id": 368922,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 812160000,
-          "proposedMarketValueRaw": {
-            "value": 2900000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "آرون إيسكاندل",
-              "bn": "অ্যারন এসকান্ডেল",
-              "hi": "आरोन एस्कैंडेल"
-            },
-            "shortNameTranslation": {
-              "ar": "آ. إيسكاندل",
-              "bn": "এ. এসকানডেল",
-              "hi": "ए. एस्कैंडेल"
-            }
-          }
-        },
-        "team": {
-          "name": "Real Oviedo",
-          "slug": "real-oviedo",
-          "shortName": "Real Oviedo",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 100010,
-          "nameCode": "OVI",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2851,
-          "teamColors": {
-            "primary": "#3300ff",
-            "secondary": "#ffffff",
-            "text": "#ffffff"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ريال اوفيدو",
-              "hi": "रियल ओविएडो",
-              "ru": "Реал Овьедо"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "G",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Villarreal",
         "abreviatura": "VIL",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
@@ -12352,6 +12235,125 @@
               "bn": "লাস পালমাস",
               "hi": "लास पालमास",
               "ru": "Лас-Пальмас"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Mallorca",
+        "abreviatura": "MAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/12.png"
+      },
+      "visitante": {
+        "nombre": "Real Oviedo",
+        "abreviatura": "ROV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/43.png"
+      }
+    },
+    "resultado": "3-0",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20448-mallorca-real-oviedo",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083727,
+      "match_info": {
+        "homeTeam": {
+          "name": "Mallorca",
+          "shortName": "Mallorca",
+          "color": "#cc0000",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Real Oviedo",
+          "shortName": "Real Oviedo",
+          "color": "#3300ff",
+          "score": 0
+        },
+        "startTimestamp": 1779562800,
+        "slug": "real-oviedo-mallorca"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Aarón Escandell",
+          "slug": "aaron-escandell",
+          "shortName": "A. Escandell",
+          "position": "G",
+          "jerseyNumber": "13",
+          "height": 188,
+          "userCount": 1032,
+          "gender": "M",
+          "sofascoreId": "t6yur5",
+          "id": 368922,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 812160000,
+          "proposedMarketValueRaw": {
+            "value": 2900000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "آرون إيسكاندل",
+              "bn": "অ্যারন এসকান্ডেল",
+              "hi": "आरोन एस्कैंडेल",
+              "ru": "Аарон Эскандель"
+            },
+            "shortNameTranslation": {
+              "ar": "آ. إيسكاندل",
+              "bn": "এ. এসকানডেল",
+              "hi": "ए. एस्कैंडेल",
+              "ru": "А. Эскандель"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Oviedo",
+          "slug": "real-oviedo",
+          "shortName": "Real Oviedo",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 98974,
+          "nameCode": "OVI",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2851,
+          "teamColors": {
+            "primary": "#3300ff",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ريال اوفيدو",
+              "hi": "रियल ओविएडो",
+              "ru": "Реал Овьедо"
             },
             "shortNameTranslation": {}
           }

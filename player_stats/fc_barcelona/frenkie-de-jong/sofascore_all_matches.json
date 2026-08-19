@@ -2974,126 +2974,6 @@
       "extra": null
     }
   },
-  "14083739": {
-    "id": 14083739,
-    "match_info": {
-      "homeTeam": {
-        "name": "Valencia",
-        "shortName": "Valencia",
-        "color": "#ffffff",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "FC Barcelona",
-        "shortName": "Barcelona",
-        "color": "#154284",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "valencia-barcelona"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Frenkie de Jong",
-        "firstName": "Frenkie",
-        "lastName": "de Jong",
-        "slug": "frenkie-de-jong",
-        "shortName": "F. de Jong",
-        "position": "M",
-        "jerseyNumber": "21",
-        "height": 180,
-        "userCount": 235060,
-        "gender": "M",
-        "sofascoreId": "Frenkie",
-        "id": 795222,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 863395200,
-        "proposedMarketValueRaw": {
-          "value": 32000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فرينكي دي يونغ",
-            "bn": "ফ্রেঙ্কি ডি জং",
-            "hi": "फ्रेंकी डी जोंग",
-            "ru": "Френки де Йонг"
-          },
-          "shortNameTranslation": {
-            "ar": "ف. دي يونغ",
-            "bn": "এফ. ডি. জং",
-            "hi": "एफ. डी जोंग",
-            "ru": "Ф. Йонг"
-          }
-        }
-      },
-      "team": {
-        "name": "FC Barcelona",
-        "slug": "barcelona",
-        "shortName": "Barcelona",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 7651582,
-        "nameCode": "BAR",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2817,
-        "teamColors": {
-          "primary": "#154284",
-          "secondary": "#9d1009",
-          "text": "#9d1009"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "برشلونة",
-            "bn": "বার্সেলোনা",
-            "hi": "बार्सिलोना",
-            "ru": "Барселона"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 24,
-        "accuratePass": 24,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 11,
-        "totalOwnHalfPasses": 11,
-        "accurateOppositionHalfPasses": 13,
-        "totalOppositionHalfPasses": 13,
-        "ballRecovery": 1,
-        "minutesPlayed": 28,
-        "touches": 26,
-        "rating": 6.3,
-        "expectedAssists": 0.0143506,
-        "totalBallCarriesDistance": 166.95239420916,
-        "ballCarriesCount": 14,
-        "totalProgression": 57.092939001325,
-        "bestBallCarryProgression": 19.861673907387,
-        "totalProgressiveBallCarriesDistance": 54.014743282736,
-        "progressiveBallCarriesCount": 3,
-        "ratingVersions": {
-          "original": 6.3,
-          "alternative": 6.4
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.08,
-        "dribbleValueNormalized": 0.1,
-        "defensiveValueNormalized": -0.16,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "15671256": {
     "id": 15671256,
     "match_info": {
@@ -25244,6 +25124,132 @@
           "alternative": 7.7
         },
         "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083739": {
+    "id": 14083739,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "valencia-barcelona"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Frenkie de Jong",
+        "firstName": "Frenkie",
+        "lastName": "de Jong",
+        "slug": "frenkie-de-jong",
+        "shortName": "F. de Jong",
+        "position": "M",
+        "jerseyNumber": "21",
+        "height": 180,
+        "userCount": 241800,
+        "gender": "M",
+        "sofascoreId": "Frenkie",
+        "id": 795222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 863395200,
+        "proposedMarketValueRaw": {
+          "value": 32000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فرينكي دي يونغ",
+            "bn": "ফ্রেঙ্কি ডি জং",
+            "hi": "फ्रेंकी डी जोंग",
+            "ru": "Френки де Йонг"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. دي يونغ",
+            "bn": "এফ. ডি. জং",
+            "hi": "एफ. डी जोंग",
+            "ru": "Ф. Йонг"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Barcelona",
+        "slug": "barcelona",
+        "shortName": "Barcelona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 8036915,
+        "nameCode": "BAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2817,
+        "teamColors": {
+          "primary": "#154284",
+          "secondary": "#9d1009",
+          "text": "#9d1009"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "برشلونة",
+            "bn": "বার্সেলোনা",
+            "hi": "बार्सिलोना",
+            "ru": "Барселона"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 24,
+        "accuratePass": 24,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 11,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 13,
+        "totalOppositionHalfPasses": 13,
+        "ballRecovery": 1,
+        "minutesPlayed": 28,
+        "touches": 26,
+        "rating": 6.3,
+        "expectedAssists": 0.0143506,
+        "topSpeed": 27.35,
+        "kilometersCovered": 3.54,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 166.95239420916,
+        "ballCarriesCount": 14,
+        "totalProgression": 57.092939001325,
+        "bestBallCarryProgression": 19.861673907387,
+        "totalProgressiveBallCarriesDistance": 54.014743282736,
+        "progressiveBallCarriesCount": 3,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.08,
+        "dribbleValueNormalized": 0.1,
+        "defensiveValueNormalized": -0.16,
+        "metersCoveredRunningKm": 0.62,
+        "metersCoveredHighSpeedRunningKm": 0.1,
+        "metersCoveredSprintingKm": 0.02,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

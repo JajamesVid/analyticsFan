@@ -3699,136 +3699,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Ferran Jutglà",
-        "slug": "ferran-jutgla",
-        "shortName": "F. Jutglà",
-        "position": "F",
-        "jerseyNumber": "9",
-        "height": 175,
-        "userCount": 4214,
-        "gender": "M",
-        "id": 949962,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 917827200,
-        "proposedMarketValueRaw": {
-          "value": 7500000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فيران جوتغلا",
-            "bn": "ফেরান জুটগ্লা",
-            "hi": "फ़ेर्रां जुटगला",
-            "ru": "Ферран Жутгла"
-          },
-          "shortNameTranslation": {
-            "ar": "ف. جوتغلا",
-            "bn": "এফ. জুটগ্লা",
-            "hi": "एफ. जुटगला",
-            "ru": "Ф. Жутгла"
-          }
-        }
-      },
-      "team": {
-        "name": "Celta Vigo",
-        "slug": "celta-vigo",
-        "shortName": "Celta",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 266335,
-        "nameCode": "CEL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2821,
-        "teamColors": {
-          "primary": "#6cace4",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "سيلتا فيغو",
-            "bn": "সেলটা ভিগো",
-            "ru": "Сельта"
-          },
-          "shortNameTranslation": {
-            "ar": "سيلتا",
-            "hi": "सेल्टा"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 11,
-        "accuratePass": 11,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 5,
-        "totalOwnHalfPasses": 5,
-        "accurateOppositionHalfPasses": 6,
-        "totalOppositionHalfPasses": 6,
-        "totalCross": 1,
-        "accurateCross": 1,
-        "aerialWon": 1,
-        "duelLost": 1,
-        "duelWon": 4,
-        "totalContest": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 4,
-        "totalTackle": 1,
-        "wasFouled": 2,
-        "minutesPlayed": 24,
-        "touches": 18,
-        "rating": 7.1,
-        "possessionLostCtrl": 1,
-        "expectedAssists": 0.0496371,
-        "totalBallCarriesDistance": 50.73730432515,
-        "ballCarriesCount": 5,
-        "totalProgression": 39.645350105887,
-        "bestBallCarryProgression": 14.56274319327,
-        "totalProgressiveBallCarriesDistance": 17.237032256163,
-        "progressiveBallCarriesCount": 1,
-        "keyPass": 2,
-        "ratingVersions": {
-          "original": 7.1,
-          "alternative": 6.9
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.21,
-        "dribbleValueNormalized": 0.17,
-        "defensiveValueNormalized": 0.17,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "F",
-      "extra": null
-    }
-  },
   "13946116": {
     "id": 13946116,
     "match_info": {
@@ -24315,6 +24185,143 @@
           "alternative": 6.5
         },
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ferran Jutglà",
+        "slug": "ferran-jutgla",
+        "shortName": "F. Jutglà",
+        "position": "F",
+        "jerseyNumber": "9",
+        "height": 175,
+        "userCount": 4250,
+        "gender": "M",
+        "sofascoreId": "ceiy5h",
+        "id": 949962,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 917827200,
+        "proposedMarketValueRaw": {
+          "value": 10700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيران جوتغلا",
+            "bn": "ফেরান জুটগ্লা",
+            "hi": "फ़ेर्रां जुटगला",
+            "ru": "Ферран Жутгла"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. جوتغلا",
+            "bn": "এফ. জুটগ্লা",
+            "hi": "एफ. जुटगला",
+            "ru": "Ф. Жутгла"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 267822,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 11,
+        "accuratePass": 11,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 6,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "aerialWon": 1,
+        "duelLost": 1,
+        "duelWon": 4,
+        "totalContest": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "totalTackle": 1,
+        "wasFouled": 2,
+        "minutesPlayed": 24,
+        "touches": 18,
+        "rating": 7.1,
+        "possessionLostCtrl": 1,
+        "expectedAssists": 0.0496371,
+        "topSpeed": 29.11,
+        "kilometersCovered": 3.06,
+        "numberOfSprints": 6,
+        "totalBallCarriesDistance": 50.73730432515,
+        "ballCarriesCount": 5,
+        "totalProgression": 39.645350105887,
+        "bestBallCarryProgression": 14.56274319327,
+        "totalProgressiveBallCarriesDistance": 17.237032256163,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 7.1,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.21,
+        "dribbleValueNormalized": 0.17,
+        "defensiveValueNormalized": 0.17,
+        "metersCoveredRunningKm": 0.45,
+        "metersCoveredHighSpeedRunningKm": 0.24,
+        "metersCoveredSprintingKm": 0.08,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

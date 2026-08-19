@@ -2601,126 +2601,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Alavés",
-        "abreviatura": "ALA",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
-      },
-      "visitante": {
-        "nombre": "Rayo",
-        "abreviatura": "RAY",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/14.png"
-      }
-    },
-    "resultado": "1-2",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20444-alaves-rayo",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083706,
-      "match_info": {
-        "homeTeam": {
-          "name": "Deportivo Alavés",
-          "shortName": "Alavés",
-          "color": "#0232a0",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Rayo Vallecano",
-          "shortName": "Rayo Vallecano",
-          "color": "#ffffff",
-          "score": 2
-        },
-        "startTimestamp": 1779562800,
-        "slug": "deportivo-alaves-rayo-vallecano",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Óscar Trejo",
-          "slug": "oscar-trejo",
-          "shortName": "Ó. Trejo",
-          "position": "M",
-          "jerseyNumber": "8",
-          "height": 177,
-          "userCount": 583,
-          "gender": "M",
-          "id": 21949,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 578016000,
-          "proposedMarketValueRaw": {
-            "value": 290000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "أوسكار تريجو",
-              "bn": "অস্কার ট্রেজো",
-              "hi": "ऑस्कर ट्रेजो",
-              "ru": "Оскар Трехо"
-            },
-            "shortNameTranslation": {
-              "ar": "أ. تريجو",
-              "bn": "ও. ট্রেজো",
-              "hi": "ओ. ट्रेजो",
-              "ru": "О. Трехо"
-            }
-          }
-        },
-        "team": {
-          "name": "Rayo Vallecano",
-          "slug": "rayo-vallecano",
-          "shortName": "Rayo Vallecano",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 227407,
-          "nameCode": "RAY",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2818,
-          "teamColors": {
-            "primary": "#ffffff",
-            "secondary": "#ffffff",
-            "text": "#ffffff"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "رايو فاليكانو",
-              "bn": "রায়ো ভ্যালেকানো",
-              "hi": "रेयो वैलेकैनो",
-              "ru": "Райо Вальекано"
-            },
-            "shortNameTranslation": {}
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "M",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Rayo",
         "abreviatura": "RAY",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/14.png"
@@ -25061,6 +24941,121 @@
             "original": 6.4,
             "alternative": 6.6
           },
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "M",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Alavés",
+        "abreviatura": "ALA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
+      },
+      "visitante": {
+        "nombre": "Rayo",
+        "abreviatura": "RAY",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/14.png"
+      }
+    },
+    "resultado": "1-2",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20444-alaves-rayo",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083706,
+      "match_info": {
+        "homeTeam": {
+          "name": "Deportivo Alavés",
+          "shortName": "Alavés",
+          "color": "#0232a0",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Rayo Vallecano",
+          "shortName": "Rayo Vallecano",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "startTimestamp": 1779562800,
+        "slug": "deportivo-alaves-rayo-vallecano"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Óscar Trejo",
+          "slug": "oscar-trejo",
+          "shortName": "Ó. Trejo",
+          "position": "M",
+          "height": 177,
+          "userCount": 574,
+          "gender": "M",
+          "sofascoreId": "k6imjz",
+          "id": 21949,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 578016000,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوسكار تريجو",
+              "bn": "অস্কার ট্রেজো",
+              "hi": "ऑस्कर ट्रेजो",
+              "ru": "Оскар Трехо"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. تريجو",
+              "bn": "ও. ট্রেজো",
+              "hi": "ओ. ट्रेजो",
+              "ru": "О. Трехо"
+            }
+          }
+        },
+        "team": {
+          "name": "Rayo Vallecano",
+          "slug": "rayo-vallecano",
+          "shortName": "Rayo Vallecano",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 227211,
+          "nameCode": "RAY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2818,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "رايو فاليكانو",
+              "bn": "রায়ো ভ্যালেকানো",
+              "hi": "रेयो वैलेकैनो",
+              "ru": "Райо Вальекано"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
           "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",

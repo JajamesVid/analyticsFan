@@ -2753,99 +2753,6 @@
       "extra": null
     }
   },
-  "14083743": {
-    "id": 14083743,
-    "match_info": {
-      "homeTeam": {
-        "name": "Girona FC",
-        "shortName": "Girona",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Elche",
-        "shortName": "Elche",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "girona-fc-elche"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Iñaki Peña",
-        "slug": "inaki-pena",
-        "shortName": "I. Peña",
-        "position": "G",
-        "jerseyNumber": "1",
-        "height": 185,
-        "userCount": 50665,
-        "gender": "M",
-        "sofascoreId": "inakipenya",
-        "id": 794949,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 920332800,
-        "proposedMarketValueRaw": {
-          "value": 3600000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إيناكي بينا",
-            "bn": "ইনাকি পেনা",
-            "hi": "इनाकी पेना",
-            "ru": "Иняки Пенья"
-          },
-          "shortNameTranslation": {
-            "ar": "إ. بينا",
-            "bn": "আই. পেনা",
-            "hi": "आई. पेना",
-            "ru": "И. Пенья"
-          }
-        }
-      },
-      "team": {
-        "name": "Elche",
-        "slug": "elche",
-        "shortName": "Elche",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 116534,
-        "nameCode": "ELC",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2846,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#336600",
-          "text": "#336600"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "إلتشي",
-            "bn": "এলচে",
-            "hi": "एल्चे",
-            "ru": "Эльче"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "G",
-      "extra": null
-    }
-  },
   "16385975": {
     "id": 16385975,
     "match_info": {
@@ -20665,6 +20572,99 @@
       },
       "statistics": {
         "expectedGoalsOnTarget": 0,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "14083743": {
+    "id": 14083743,
+    "match_info": {
+      "homeTeam": {
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "girona-fc-elche"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Iñaki Peña",
+        "slug": "inaki-pena",
+        "shortName": "I. Peña",
+        "position": "G",
+        "jerseyNumber": "1",
+        "height": 185,
+        "userCount": 50320,
+        "gender": "M",
+        "sofascoreId": "inakipenya",
+        "id": 794949,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 920332800,
+        "proposedMarketValueRaw": {
+          "value": 3600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيناكي بينا",
+            "bn": "ইনাকি পেনা",
+            "hi": "इनाकी पेना",
+            "ru": "Иняки Пенья"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. بينا",
+            "bn": "আই. পেনা",
+            "hi": "आई. पेना",
+            "ru": "И. Пенья"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 118908,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
         "totalShots": 0,
         "statisticsType": {
           "sportSlug": "football",

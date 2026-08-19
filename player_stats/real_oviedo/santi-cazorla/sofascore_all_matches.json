@@ -3311,134 +3311,6 @@
       "extra": null
     }
   },
-  "14083727": {
-    "id": 14083727,
-    "match_info": {
-      "homeTeam": {
-        "name": "Mallorca",
-        "shortName": "Mallorca",
-        "color": "#cc0000",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "Real Oviedo",
-        "shortName": "Real Oviedo",
-        "color": "#3300ff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-oviedo-mallorca"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Santi Cazorla",
-        "slug": "santi-cazorla",
-        "shortName": "S. Cazorla",
-        "position": "M",
-        "jerseyNumber": "8",
-        "height": 168,
-        "userCount": 10752,
-        "gender": "M",
-        "id": 17651,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 471744000,
-        "proposedMarketValueRaw": {
-          "value": 195000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "سانتي كازورلا",
-            "bn": "সান্তি কাজোরলা",
-            "hi": "सैंटी काज़ोर्ला"
-          },
-          "shortNameTranslation": {
-            "ar": "س. كازورلا",
-            "bn": "এস. কাজোরলা",
-            "hi": "एस. काज़ोर्ला"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Oviedo",
-        "slug": "real-oviedo",
-        "shortName": "Real Oviedo",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 100042,
-        "nameCode": "OVI",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2851,
-        "teamColors": {
-          "primary": "#3300ff",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال اوفيدو",
-            "hi": "रियल ओविएडो",
-            "ru": "Реал Овьедо"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 32,
-        "accuratePass": 22,
-        "totalLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 11,
-        "totalOwnHalfPasses": 14,
-        "accurateOppositionHalfPasses": 11,
-        "totalOppositionHalfPasses": 18,
-        "totalCross": 5,
-        "accurateCross": 1,
-        "aerialLost": 2,
-        "duelLost": 6,
-        "duelWon": 2,
-        "dispossessed": 2,
-        "totalContest": 3,
-        "wonContest": 2,
-        "interceptionWon": 1,
-        "ballRecovery": 2,
-        "unsuccessfulTouch": 2,
-        "fouls": 1,
-        "minutesPlayed": 63,
-        "touches": 45,
-        "rating": 6,
-        "possessionLostCtrl": 19,
-        "expectedAssists": 0.0342209,
-        "totalBallCarriesDistance": 95.881604870571,
-        "ballCarriesCount": 12,
-        "totalProgression": 27.17448618675,
-        "bestBallCarryProgression": 20.928448012813,
-        "totalProgressiveBallCarriesDistance": 22.722404824314,
-        "progressiveBallCarriesCount": 1,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 6,
-          "alternative": 6.5
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.18,
-        "dribbleValueNormalized": 0.07,
-        "defensiveValueNormalized": -0.07,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12467649": {
     "id": 12467649,
     "match_info": {
@@ -16114,6 +15986,138 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083727": {
+    "id": 14083727,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-oviedo-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Santi Cazorla",
+        "slug": "santi-cazorla",
+        "shortName": "S. Cazorla",
+        "position": "M",
+        "height": 168,
+        "userCount": 10662,
+        "gender": "M",
+        "sofascoreId": "ug9anq",
+        "id": 17651,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 471744000,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سانتي كازورلا",
+            "bn": "সান্তি কাজোরলা",
+            "hi": "सैंटी काज़ोर्ला",
+            "ru": "Санти Казорла"
+          },
+          "shortNameTranslation": {
+            "ar": "س. كازورلا",
+            "bn": "এস. কাজোরলা",
+            "hi": "एस. काज़ोर्ला",
+            "ru": "С. Казорла"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 98974,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 32,
+        "accuratePass": 22,
+        "totalLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 11,
+        "totalOwnHalfPasses": 14,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 18,
+        "totalCross": 5,
+        "accurateCross": 1,
+        "aerialLost": 2,
+        "duelLost": 6,
+        "duelWon": 2,
+        "dispossessed": 2,
+        "totalContest": 3,
+        "wonContest": 2,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "unsuccessfulTouch": 2,
+        "fouls": 1,
+        "minutesPlayed": 63,
+        "touches": 45,
+        "rating": 6,
+        "possessionLostCtrl": 19,
+        "expectedAssists": 0.0342209,
+        "topSpeed": 27.91,
+        "kilometersCovered": 7.01,
+        "numberOfSprints": 0,
+        "totalBallCarriesDistance": 95.881604870571,
+        "ballCarriesCount": 12,
+        "totalProgression": 27.17448618675,
+        "bestBallCarryProgression": 20.928448012813,
+        "totalProgressiveBallCarriesDistance": 22.722404824314,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.18,
+        "dribbleValueNormalized": 0.07,
+        "defensiveValueNormalized": -0.07,
+        "metersCoveredRunningKm": 0.97,
+        "metersCoveredHighSpeedRunningKm": 0.22,
+        "metersCoveredSprintingKm": 0.01,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
     }
   }
 }

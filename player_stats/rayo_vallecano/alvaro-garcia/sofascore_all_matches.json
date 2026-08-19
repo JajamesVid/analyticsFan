@@ -3529,126 +3529,6 @@
       "extra": null
     }
   },
-  "14083706": {
-    "id": 14083706,
-    "match_info": {
-      "homeTeam": {
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "color": "#0232a0",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Rayo Vallecano",
-        "shortName": "Rayo Vallecano",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "deportivo-alaves-rayo-vallecano"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Álvaro García",
-        "slug": "alvaro-garcia",
-        "shortName": "Á. García",
-        "position": "M",
-        "jerseyNumber": "18",
-        "height": 168,
-        "userCount": 1204,
-        "gender": "M",
-        "id": 345111,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 720144000,
-        "proposedMarketValueRaw": {
-          "value": 1500000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ألفارو غارسيا",
-            "bn": "আলভারো গার্সিয়া",
-            "hi": "अल्वारो गार्सिया",
-            "ru": "Альваро Гарсия"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. غارسيا",
-            "bn": "আ. গার্সিয়া",
-            "hi": "ए. गार्सिया",
-            "ru": "А. Гарсия"
-          }
-        }
-      },
-      "team": {
-        "name": "Rayo Vallecano",
-        "slug": "rayo-vallecano",
-        "shortName": "Rayo Vallecano",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 227407,
-        "nameCode": "RAY",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2818,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "رايو فاليكانو",
-            "bn": "রায়ো ভ্যালেকানো",
-            "hi": "रेयो वैलेकैनो",
-            "ru": "Райо Вальекано"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 7,
-        "accuratePass": 5,
-        "totalLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 5,
-        "totalOwnHalfPasses": 5,
-        "totalOppositionHalfPasses": 2,
-        "totalCross": 2,
-        "duelLost": 1,
-        "ballRecovery": 2,
-        "fouls": 1,
-        "totalOffside": 1,
-        "minutesPlayed": 45,
-        "touches": 11,
-        "rating": 6.4,
-        "possessionLostCtrl": 4,
-        "expectedAssists": 0.00010526,
-        "totalBallCarriesDistance": 40.40866531087,
-        "ballCarriesCount": 5,
-        "totalProgression": 6.7386892549541,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.4,
-          "alternative": 6.5
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.01,
-        "dribbleValueNormalized": 0.06,
-        "defensiveValueNormalized": 0.15,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "15632649": {
     "id": 15632649,
     "match_info": {
@@ -23768,6 +23648,133 @@
         "code": 404,
         "message": "Not Found"
       }
+    }
+  },
+  "14083706": {
+    "id": 14083706,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "deportivo-alaves-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Álvaro García",
+        "slug": "alvaro-garcia",
+        "shortName": "Á. García",
+        "position": "M",
+        "jerseyNumber": "18",
+        "height": 168,
+        "userCount": 1232,
+        "gender": "M",
+        "sofascoreId": "x2ef8t",
+        "id": 345111,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 720144000,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ألفارو غارسيا",
+            "bn": "আলভারো গার্সিয়া",
+            "hi": "अल्वारो गार्सिया",
+            "ru": "Альваро Гарсия"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. غارسيا",
+            "bn": "আ. গার্সিয়া",
+            "hi": "ए. गार्सिया",
+            "ru": "А. Гарсия"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 227211,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 7,
+        "accuratePass": 5,
+        "totalLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 5,
+        "totalOppositionHalfPasses": 2,
+        "totalCross": 2,
+        "duelLost": 1,
+        "ballRecovery": 2,
+        "fouls": 1,
+        "totalOffside": 1,
+        "minutesPlayed": 45,
+        "touches": 11,
+        "rating": 6.4,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.00010526,
+        "topSpeed": 30.67,
+        "kilometersCovered": 4.45,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 40.40866531087,
+        "ballCarriesCount": 5,
+        "totalProgression": 6.7386892549541,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.01,
+        "dribbleValueNormalized": 0.06,
+        "defensiveValueNormalized": 0.15,
+        "metersCoveredRunningKm": 0.63,
+        "metersCoveredHighSpeedRunningKm": 0.16,
+        "metersCoveredSprintingKm": 0.05,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
     }
   }
 }

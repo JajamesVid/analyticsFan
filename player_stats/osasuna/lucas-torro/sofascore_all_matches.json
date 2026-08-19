@@ -3538,141 +3538,6 @@
       "extra": null
     }
   },
-  "14083723": {
-    "id": 14083723,
-    "match_info": {
-      "homeTeam": {
-        "name": "Getafe",
-        "shortName": "Getafe",
-        "color": "#00369e",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Osasuna",
-        "shortName": "Osasuna",
-        "color": "#cc0000",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "getafe-osasuna"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Lucas Torró",
-        "slug": "lucas-torro",
-        "shortName": "L. Torró",
-        "position": "M",
-        "jerseyNumber": "6",
-        "height": 190,
-        "userCount": 712,
-        "gender": "M",
-        "id": 187313,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 774576000,
-        "proposedMarketValueRaw": {
-          "value": 2700000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "لوكاس توررو",
-            "bn": "লুকাস টোরো",
-            "hi": "लुकास टोरो",
-            "ru": "Лукас Торро"
-          },
-          "shortNameTranslation": {
-            "ar": "ل. توررو",
-            "bn": "এল. টোরো",
-            "hi": "एल. टोरो",
-            "ru": "Л. Торро"
-          }
-        }
-      },
-      "team": {
-        "name": "Osasuna",
-        "slug": "osasuna",
-        "shortName": "Osasuna",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 199411,
-        "nameCode": "OSA",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2820,
-        "teamColors": {
-          "primary": "#cc0000",
-          "secondary": "#14213d",
-          "text": "#14213d"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أوساسونا",
-            "bn": "ওসাসুনা",
-            "hi": "ओसासुना",
-            "ru": "Осасуна"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 16,
-        "accuratePass": 9,
-        "totalLongBalls": 4,
-        "accurateLongBalls": 3,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 1,
-        "totalOwnHalfPasses": 4,
-        "accurateOppositionHalfPasses": 8,
-        "totalOppositionHalfPasses": 12,
-        "aerialLost": 6,
-        "aerialWon": 7,
-        "duelLost": 7,
-        "duelWon": 10,
-        "bigChanceMissed": 1,
-        "shotOffTarget": 2,
-        "onTargetScoringAttempt": 2,
-        "totalClearance": 1,
-        "outfielderBlock": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 2,
-        "totalTackle": 3,
-        "wonTackle": 1,
-        "unsuccessfulTouch": 3,
-        "fouls": 2,
-        "minutesPlayed": 68,
-        "touches": 31,
-        "rating": 7,
-        "possessionLostCtrl": 10,
-        "expectedGoals": 0.1626,
-        "expectedGoalsOnTarget": 0.5504,
-        "expectedAssists": 0.00597432,
-        "totalBallCarriesDistance": 3.384680782585,
-        "ballCarriesCount": 1,
-        "totalProgression": 2.844745682601,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 7,
-          "alternative": 7.2
-        },
-        "totalShots": 4,
-        "shotValueNormalized": 0.13,
-        "passValueNormalized": 0.1,
-        "dribbleValueNormalized": 0.01,
-        "defensiveValueNormalized": 0.25,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "12437563": {
     "id": 12437563,
     "match_info": {
@@ -22717,6 +22582,148 @@
         "expectedGoalsOnTarget": 0,
         "expectedAssists": 0.0226814,
         "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083723": {
+    "id": 14083723,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "getafe-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Lucas Torró",
+        "slug": "lucas-torro",
+        "shortName": "L. Torró",
+        "position": "M",
+        "jerseyNumber": "6",
+        "height": 190,
+        "userCount": 725,
+        "gender": "M",
+        "sofascoreId": "knt8dj",
+        "id": 187313,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 774576000,
+        "proposedMarketValueRaw": {
+          "value": 2700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "لوكاس توررو",
+            "bn": "লুকাস টোরো",
+            "hi": "लुकास टोरो",
+            "ru": "Лукас Торро"
+          },
+          "shortNameTranslation": {
+            "ar": "ل. توررو",
+            "bn": "এল. টোরো",
+            "hi": "एल. टोरो",
+            "ru": "Л. Торро"
+          }
+        }
+      },
+      "team": {
+        "name": "Osasuna",
+        "slug": "osasuna",
+        "shortName": "Osasuna",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202237,
+        "nameCode": "OSA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2820,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#14213d",
+          "text": "#14213d"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوساسونا",
+            "bn": "ওসাসুনা",
+            "hi": "ओसासुना",
+            "ru": "Осасуна"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 16,
+        "accuratePass": 9,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 12,
+        "aerialLost": 6,
+        "aerialWon": 7,
+        "duelLost": 7,
+        "duelWon": 10,
+        "bigChanceMissed": 1,
+        "shotOffTarget": 2,
+        "onTargetScoringAttempt": 2,
+        "totalClearance": 1,
+        "outfielderBlock": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "totalTackle": 3,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 3,
+        "fouls": 2,
+        "minutesPlayed": 68,
+        "touches": 31,
+        "rating": 7,
+        "possessionLostCtrl": 10,
+        "expectedGoals": 0.1626,
+        "expectedGoalsOnTarget": 0.5504,
+        "expectedAssists": 0.00597432,
+        "topSpeed": 27.5,
+        "kilometersCovered": 6.93,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 3.384680782585,
+        "ballCarriesCount": 1,
+        "totalProgression": 2.844745682601,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 7.2
+        },
+        "totalShots": 4,
+        "shotValueNormalized": 0.13,
+        "passValueNormalized": 0.1,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": 0.25,
+        "metersCoveredRunningKm": 0.98,
+        "metersCoveredHighSpeedRunningKm": 0.19,
+        "metersCoveredSprintingKm": 0.05,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

@@ -3743,126 +3743,6 @@
   {
     "equipos": {
       "local": {
-        "nombre": "Alavés",
-        "abreviatura": "ALA",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
-      },
-      "visitante": {
-        "nombre": "Rayo",
-        "abreviatura": "RAY",
-        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/14.png"
-      }
-    },
-    "resultado": "1-2",
-    "fecha": "2026-05-23",
-    "url_ficha": "https://www.futbolfantasy.com/partidos/20444-alaves-rayo",
-    "puntuaciones": {
-      "picas": 0,
-      "marca": 0,
-      "cope": null,
-      "sofascore": null,
-      "relevo": null,
-      "md": null,
-      "sportmonks": null,
-      "detalladas": {}
-    },
-    "sofascore": {
-      "id": 14083706,
-      "match_info": {
-        "homeTeam": {
-          "name": "Deportivo Alavés",
-          "shortName": "Alavés",
-          "color": "#0232a0",
-          "score": 1
-        },
-        "awayTeam": {
-          "name": "Rayo Vallecano",
-          "shortName": "Rayo Vallecano",
-          "color": "#ffffff",
-          "score": 2
-        },
-        "startTimestamp": 1779562800,
-        "slug": "deportivo-alaves-rayo-vallecano",
-        "fecha_normalizada": "2026-05-23"
-      },
-      "player_stats": {
-        "player": {
-          "name": "Mariano Díaz",
-          "slug": "mariano-diaz",
-          "shortName": "M. Díaz",
-          "position": "F",
-          "jerseyNumber": "9",
-          "height": 180,
-          "userCount": 4431,
-          "gender": "M",
-          "id": 175753,
-          "marketValueCurrency": "EUR",
-          "dateOfBirthTimestamp": 744163200,
-          "proposedMarketValueRaw": {
-            "value": 380000,
-            "currency": "EUR"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ماريانو دياث",
-              "bn": "মারিয়ানো দিয়াজ",
-              "hi": "मारियानो डिआज़"
-            },
-            "shortNameTranslation": {
-              "ar": "م. دياث",
-              "bn": "এম. দিয়াজ",
-              "hi": "एम. डिआज़"
-            }
-          }
-        },
-        "team": {
-          "name": "Deportivo Alavés",
-          "slug": "deportivo-alaves",
-          "shortName": "Alavés",
-          "gender": "M",
-          "sport": {
-            "name": "Football",
-            "slug": "football",
-            "id": 1
-          },
-          "userCount": 152876,
-          "nameCode": "ALA",
-          "disabled": false,
-          "national": false,
-          "type": 0,
-          "id": 2885,
-          "teamColors": {
-            "primary": "#0232a0",
-            "secondary": "#ffffff",
-            "text": "#ffffff"
-          },
-          "fieldTranslations": {
-            "nameTranslation": {
-              "ar": "ديبورتيفو ألافيس",
-              "ru": "Алавес"
-            },
-            "shortNameTranslation": {
-              "ar": "ألافيس",
-              "bn": "আলাভেস",
-              "hi": "अलावेस"
-            }
-          }
-        },
-        "statistics": {
-          "totalShots": 0,
-          "statisticsType": {
-            "sportSlug": "football",
-            "statisticsType": "player"
-          }
-        },
-        "position": "F",
-        "extra": null
-      }
-    }
-  },
-  {
-    "equipos": {
-      "local": {
         "nombre": "Real Madrid",
         "abreviatura": "RMD",
         "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
@@ -10319,6 +10199,128 @@
           "expectedGoalsOnTarget": 0,
           "expectedAssists": 0.635509,
           "keyPass": 1,
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Alavés",
+        "abreviatura": "ALA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
+      },
+      "visitante": {
+        "nombre": "Rayo",
+        "abreviatura": "RAY",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/14.png"
+      }
+    },
+    "resultado": "1-2",
+    "fecha": "2026-05-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20444-alaves-rayo",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14083706,
+      "match_info": {
+        "homeTeam": {
+          "name": "Deportivo Alavés",
+          "shortName": "Alavés",
+          "color": "#0232a0",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Rayo Vallecano",
+          "shortName": "Rayo Vallecano",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "startTimestamp": 1779562800,
+        "slug": "deportivo-alaves-rayo-vallecano"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Mariano Díaz",
+          "slug": "mariano-diaz",
+          "shortName": "M. Díaz",
+          "position": "F",
+          "jerseyNumber": "9",
+          "height": 180,
+          "userCount": 4606,
+          "gender": "M",
+          "sofascoreId": "8sggfw",
+          "id": 175753,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 744163200,
+          "proposedMarketValueRaw": {
+            "value": 285000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ماريانو دياث",
+              "bn": "মারিয়ানো দিয়াজ",
+              "hi": "मारियानो डिआज़",
+              "ru": "Мариано Диас"
+            },
+            "shortNameTranslation": {
+              "ar": "م. دياث",
+              "bn": "এম. দিয়াজ",
+              "hi": "एम. डिआज़",
+              "ru": "М. Диас"
+            }
+          }
+        },
+        "team": {
+          "name": "Deportivo Alavés",
+          "slug": "deportivo-alaves",
+          "shortName": "Alavés",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 154032,
+          "nameCode": "ALA",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2885,
+          "teamColors": {
+            "primary": "#0232a0",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ديبورتيفو ألافيس",
+              "ru": "Алавес"
+            },
+            "shortNameTranslation": {
+              "ar": "ألافيس",
+              "bn": "আলাভেস",
+              "hi": "अलावेस"
+            }
+          }
+        },
+        "statistics": {
           "totalShots": 0,
           "statisticsType": {
             "sportSlug": "football",

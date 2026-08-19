@@ -3141,141 +3141,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Alex Baena",
-        "firstName": "Alex",
-        "lastName": "Baena",
-        "slug": "alex-baena",
-        "shortName": "A. Baena",
-        "position": "M",
-        "jerseyNumber": "10",
-        "height": 174,
-        "userCount": 11385,
-        "gender": "M",
-        "sofascoreId": "alexbaena",
-        "id": 910031,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 995587200,
-        "proposedMarketValueRaw": {
-          "value": 43000000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أليكس باينا",
-            "bn": "আলেজান্দ্রো বেনা",
-            "hi": "एलेजांद्रो बेना",
-            "ru": "Алекс Баэна"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. باينا",
-            "bn": "এ. বেনা",
-            "hi": "ए. बेना",
-            "ru": "А. Баэна"
-          }
-        }
-      },
-      "team": {
-        "name": "Atlético Madrid",
-        "slug": "atletico-madrid",
-        "shortName": "Atl. Madrid",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 2590653,
-        "nameCode": "ATM",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2836,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#c40000",
-          "text": "#c40000"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أتلتيكو مدريد",
-            "hi": "एटलेटिको मैड्रिड",
-            "ru": "Атлетико Мадрид"
-          },
-          "shortNameTranslation": {
-            "ar": "أتل. مدريد",
-            "bn": "এটিএল. মাদ্রিদ"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 38,
-        "accuratePass": 32,
-        "totalLongBalls": 2,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 14,
-        "totalOwnHalfPasses": 15,
-        "accurateOppositionHalfPasses": 18,
-        "totalOppositionHalfPasses": 23,
-        "totalCross": 3,
-        "duelLost": 5,
-        "challengeLost": 1,
-        "dispossessed": 2,
-        "totalContest": 1,
-        "shotOffTarget": 2,
-        "ballRecovery": 5,
-        "unsuccessfulTouch": 2,
-        "fouls": 1,
-        "minutesPlayed": 61,
-        "touches": 48,
-        "rating": 5.9,
-        "possessionLostCtrl": 14,
-        "expectedGoals": 0.0648,
-        "expectedAssists": 0.167774,
-        "totalBallCarriesDistance": 148.06536022268,
-        "ballCarriesCount": 13,
-        "totalProgression": 97.313891727038,
-        "bestBallCarryProgression": 29.205179577906,
-        "totalProgressiveBallCarriesDistance": 75.618645563172,
-        "progressiveBallCarriesCount": 3,
-        "ratingVersions": {
-          "original": 5.9,
-          "alternative": 6.1
-        },
-        "totalShots": 2,
-        "shotValueNormalized": -0.19,
-        "passValueNormalized": 0.08,
-        "dribbleValueNormalized": 0.13,
-        "defensiveValueNormalized": -0.32,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "16186149": {
     "id": 16186149,
     "match_info": {
@@ -25316,6 +25181,147 @@
           "alternative": 6.8
         },
         "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Alex Baena",
+        "firstName": "Alex",
+        "lastName": "Baena",
+        "slug": "alex-baena",
+        "shortName": "A. Baena",
+        "position": "M",
+        "jerseyNumber": "10",
+        "height": 174,
+        "userCount": 20448,
+        "gender": "M",
+        "sofascoreId": "alexbaena",
+        "id": 910031,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 995500800,
+        "proposedMarketValueRaw": {
+          "value": 43000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أليكس باينا",
+            "bn": "আলেজান্দ্রো বেনা",
+            "hi": "एलेजांद्रो बेना",
+            "ru": "Алекс Баэна"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. باينا",
+            "bn": "এ. বেনা",
+            "hi": "ए. बेना",
+            "ru": "А. Баэна"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atl. Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2635078,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 38,
+        "accuratePass": 32,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 14,
+        "totalOwnHalfPasses": 15,
+        "accurateOppositionHalfPasses": 18,
+        "totalOppositionHalfPasses": 23,
+        "totalCross": 3,
+        "duelLost": 5,
+        "challengeLost": 1,
+        "dispossessed": 2,
+        "totalContest": 1,
+        "shotOffTarget": 2,
+        "ballRecovery": 5,
+        "unsuccessfulTouch": 2,
+        "fouls": 1,
+        "minutesPlayed": 61,
+        "touches": 48,
+        "rating": 5.9,
+        "possessionLostCtrl": 14,
+        "expectedGoals": 0.0648,
+        "expectedAssists": 0.167774,
+        "topSpeed": 32.97,
+        "kilometersCovered": 7.63,
+        "numberOfSprints": 11,
+        "totalBallCarriesDistance": 148.06536022268,
+        "ballCarriesCount": 13,
+        "totalProgression": 97.313891727038,
+        "bestBallCarryProgression": 29.205179577906,
+        "totalProgressiveBallCarriesDistance": 75.618645563172,
+        "progressiveBallCarriesCount": 3,
+        "ratingVersions": {
+          "original": 5.9,
+          "alternative": 6.1
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.19,
+        "passValueNormalized": 0.08,
+        "dribbleValueNormalized": 0.13,
+        "defensiveValueNormalized": -0.32,
+        "metersCoveredRunningKm": 1.37,
+        "metersCoveredHighSpeedRunningKm": 0.34,
+        "metersCoveredSprintingKm": 0.17,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

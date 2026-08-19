@@ -2846,136 +2846,6 @@
       "extra": null
     }
   },
-  "14083727": {
-    "id": 14083727,
-    "match_info": {
-      "homeTeam": {
-        "name": "Mallorca",
-        "shortName": "Mallorca",
-        "color": "#cc0000",
-        "score": 3
-      },
-      "awayTeam": {
-        "name": "Real Oviedo",
-        "shortName": "Real Oviedo",
-        "color": "#3300ff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "real-oviedo-mallorca"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Abdel Rahim",
-        "firstName": "",
-        "lastName": "",
-        "slug": "abdel-rahim-alhassane",
-        "shortName": "A. R. Alhassane",
-        "position": "D",
-        "jerseyNumber": "3",
-        "height": 184,
-        "userCount": 4385,
-        "gender": "M",
-        "id": 1120504,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1009843200,
-        "proposedMarketValueRaw": {
-          "value": 1900000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "عبد الرحيم الحساني",
-            "bn": "আবদেল রহিম আলহাসান",
-            "hi": "अब्देल रहीम अलहसन"
-          },
-          "shortNameTranslation": {
-            "ar": "ع. ر. الحساني",
-            "bn": "এ. আর. আলহাসানে",
-            "hi": "ए. आर. अलहसन"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Oviedo",
-        "slug": "real-oviedo",
-        "shortName": "Real Oviedo",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 100042,
-        "nameCode": "OVI",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2851,
-        "teamColors": {
-          "primary": "#3300ff",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال اوفيدو",
-            "hi": "रियल ओविएडो",
-            "ru": "Реал Овьедо"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 34,
-        "accuratePass": 23,
-        "totalLongBalls": 3,
-        "accurateLongBalls": 2,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 13,
-        "totalOwnHalfPasses": 17,
-        "accurateOppositionHalfPasses": 10,
-        "totalOppositionHalfPasses": 17,
-        "totalCross": 3,
-        "aerialLost": 1,
-        "aerialWon": 2,
-        "duelLost": 1,
-        "duelWon": 4,
-        "totalClearance": 6,
-        "interceptionWon": 2,
-        "ballRecovery": 5,
-        "totalTackle": 1,
-        "wonTackle": 1,
-        "unsuccessfulTouch": 1,
-        "wasFouled": 1,
-        "minutesPlayed": 77,
-        "touches": 56,
-        "rating": 6.7,
-        "possessionLostCtrl": 16,
-        "expectedAssists": 0.00695346,
-        "totalBallCarriesDistance": 137.97887986337,
-        "ballCarriesCount": 16,
-        "totalProgression": 76.888736963261,
-        "bestBallCarryProgression": 21.160250653928,
-        "totalProgressiveBallCarriesDistance": 48.016651835943,
-        "progressiveBallCarriesCount": 3,
-        "ratingVersions": {
-          "original": 6.7,
-          "alternative": 6.9
-        },
-        "totalShots": 0,
-        "passValueNormalized": -0.1,
-        "dribbleValueNormalized": 0.17,
-        "defensiveValueNormalized": -0.04,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "16277693": {
     "id": 16277693,
     "match_info": {
@@ -15340,6 +15210,145 @@
         "rating": 6.3,
         "possessionLostCtrl": 20,
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083727": {
+    "id": 14083727,
+    "match_info": {
+      "homeTeam": {
+        "name": "Mallorca",
+        "shortName": "Mallorca",
+        "color": "#cc0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "color": "#3300ff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "real-oviedo-mallorca"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Abdel Rahim",
+        "firstName": "",
+        "lastName": "",
+        "slug": "abdel-rahim-alhassane",
+        "shortName": "A. R. Alhassane",
+        "position": "D",
+        "jerseyNumber": "3",
+        "height": 184,
+        "userCount": 4760,
+        "gender": "M",
+        "sofascoreId": "5f4w52",
+        "id": 1120504,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1009843200,
+        "proposedMarketValueRaw": {
+          "value": 1400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "عبد الرحيم الحساني",
+            "bn": "আবদেল রহিম আলহাসান",
+            "hi": "अब्देल रहीम अलहसन",
+            "ru": "Абдель Рахим"
+          },
+          "shortNameTranslation": {
+            "ar": "ع. ر. الحساني",
+            "bn": "এ. আর. আলহাসানে",
+            "hi": "ए. आर. अलहसन",
+            "ru": "А. Рахим"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Oviedo",
+        "slug": "real-oviedo",
+        "shortName": "Real Oviedo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 98974,
+        "nameCode": "OVI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2851,
+        "teamColors": {
+          "primary": "#3300ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال اوفيدو",
+            "hi": "रियल ओविएडो",
+            "ru": "Реал Овьедо"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 34,
+        "accuratePass": 23,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 13,
+        "totalOwnHalfPasses": 17,
+        "accurateOppositionHalfPasses": 10,
+        "totalOppositionHalfPasses": 17,
+        "totalCross": 3,
+        "aerialLost": 1,
+        "aerialWon": 2,
+        "duelLost": 1,
+        "duelWon": 4,
+        "totalClearance": 6,
+        "interceptionWon": 2,
+        "ballRecovery": 5,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 77,
+        "touches": 56,
+        "rating": 6.7,
+        "possessionLostCtrl": 16,
+        "expectedAssists": 0.00695346,
+        "topSpeed": 34,
+        "kilometersCovered": 7.84,
+        "numberOfSprints": 21,
+        "totalBallCarriesDistance": 137.97887986337,
+        "ballCarriesCount": 16,
+        "totalProgression": 76.888736963261,
+        "bestBallCarryProgression": 21.160250653928,
+        "totalProgressiveBallCarriesDistance": 48.016651835943,
+        "progressiveBallCarriesCount": 3,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.1,
+        "dribbleValueNormalized": 0.17,
+        "defensiveValueNormalized": -0.04,
+        "metersCoveredRunningKm": 1.12,
+        "metersCoveredHighSpeedRunningKm": 0.66,
+        "metersCoveredSprintingKm": 0.32,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

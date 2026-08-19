@@ -3103,100 +3103,6 @@
       "extra": null
     }
   },
-  "14083723": {
-    "id": 14083723,
-    "match_info": {
-      "homeTeam": {
-        "name": "Getafe",
-        "shortName": "Getafe",
-        "color": "#00369e",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Osasuna",
-        "shortName": "Osasuna",
-        "color": "#cc0000",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "getafe-osasuna"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Veljko Birmančević",
-        "firstName": "Veljko",
-        "lastName": "Birmancevic",
-        "slug": "veljko-birmancevic",
-        "shortName": "V. Birmančević",
-        "position": "F",
-        "jerseyNumber": "20",
-        "height": 177,
-        "userCount": 1765,
-        "gender": "M",
-        "id": 831510,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 889056000,
-        "proposedMarketValueRaw": {
-          "value": 3400000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فيليكو بيرمانتشيفتش",
-            "bn": "ভেলজকো বিরমানচেভিচ",
-            "hi": "वेल्ज्को बिरमानचेविक",
-            "ru": "Велько Бирманчевич"
-          },
-          "shortNameTranslation": {
-            "ar": "ف. بيرمانتشيفتش",
-            "bn": "ভি. বিরমানসেভিচ",
-            "hi": "वी. बिरमानचेविक",
-            "ru": "В. Бирманчевич"
-          }
-        }
-      },
-      "team": {
-        "name": "Getafe",
-        "slug": "getafe",
-        "shortName": "Getafe",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 199398,
-        "nameCode": "GET",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2859,
-        "teamColors": {
-          "primary": "#00369e",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "خيتافي",
-            "bn": "গেটাফে",
-            "hi": "गेटाफे",
-            "ru": "Хетафе"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalShots": 0,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "16130132": {
     "id": 16130132,
     "match_info": {
@@ -21807,6 +21713,101 @@
         "expectedGoalsOnTarget": 0.1478,
         "expectedAssists": 0.00096449,
         "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083723": {
+    "id": 14083723,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "getafe-osasuna"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Veljko Birmančević",
+        "firstName": "Veljko",
+        "lastName": "Birmancevic",
+        "slug": "veljko-birmancevic",
+        "shortName": "V. Birmančević",
+        "position": "F",
+        "jerseyNumber": "14",
+        "height": 177,
+        "userCount": 1799,
+        "gender": "M",
+        "sofascoreId": "dt525f",
+        "id": 831510,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 889056000,
+        "proposedMarketValueRaw": {
+          "value": 3400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيليكو بيرمانتشيفتش",
+            "bn": "ভেলজকো বিরমানচেভিচ",
+            "hi": "वेल्ज्को बिरमानचेविक",
+            "ru": "Велько Бирманчевич"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. بيرمانتشيفتش",
+            "bn": "ভি. বিরমানসেভিচ",
+            "hi": "वी. बिरमानचेविक",
+            "ru": "В. Бирманчевич"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 203865,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

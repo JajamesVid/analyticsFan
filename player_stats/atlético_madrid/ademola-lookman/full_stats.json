@@ -2738,7 +2738,7 @@
         "stat-despejes": 0.0,
         "stat-ocasiones-claras-creadas": 0.0,
         "stat-ocasiones-claras-falladas": 0.0,
-        "stat-posesiones-perdidas": 10.0,
+        "stat-posesiones-perdidas": 0.0,
         "stat-tiros-totales": 0.0,
         "stat-centros-totales": 1.0,
         "stat-precision-pases": 81.8,
@@ -2776,8 +2776,7 @@
           "score": 1
         },
         "startTimestamp": 1779649200,
-        "slug": "atletico-madrid-villarreal",
-        "fecha_normalizada": "2026-05-24"
+        "slug": "atletico-madrid-villarreal"
       },
       "player_stats": {
         "player": {
@@ -2787,7 +2786,7 @@
           "position": "F",
           "jerseyNumber": "22",
           "height": 174,
-          "userCount": 96830,
+          "userCount": 97411,
           "gender": "M",
           "sofascoreId": "molalookman",
           "id": 824200,
@@ -2822,7 +2821,7 @@
             "slug": "football",
             "id": 1
           },
-          "userCount": 2590653,
+          "userCount": 2635078,
           "nameCode": "ATM",
           "disabled": false,
           "national": false,
@@ -2840,7 +2839,7 @@
               "ru": "Атлетико Мадрид"
             },
             "shortNameTranslation": {
-              "ar": "أتل. مدريد",
+              "ar": "أتلتيكو مدريد",
               "bn": "এটিএল. মাদ্রিদ"
             }
           }
@@ -2871,6 +2870,9 @@
           "rating": 6.1,
           "possessionLostCtrl": 10,
           "expectedAssists": 0.0212653,
+          "topSpeed": 31.68,
+          "kilometersCovered": 6.39,
+          "numberOfSprints": 4,
           "totalBallCarriesDistance": 67.574293515301,
           "ballCarriesCount": 9,
           "totalProgression": 24.064136549193,
@@ -2883,6 +2885,9 @@
           "passValueNormalized": -0.73,
           "dribbleValueNormalized": -0.39,
           "defensiveValueNormalized": 0.27,
+          "metersCoveredRunningKm": 0.75,
+          "metersCoveredHighSpeedRunningKm": 0.32,
+          "metersCoveredSprintingKm": 0.06,
           "statisticsType": {
             "sportSlug": "football",
             "statisticsType": "player"

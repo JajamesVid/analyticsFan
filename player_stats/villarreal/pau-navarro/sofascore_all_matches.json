@@ -3279,133 +3279,6 @@
       "extra": null
     }
   },
-  "14083735": {
-    "id": 14083735,
-    "match_info": {
-      "homeTeam": {
-        "name": "Villarreal",
-        "shortName": "Villarreal",
-        "color": "#ffff00",
-        "score": 5
-      },
-      "awayTeam": {
-        "name": "Atlético Madrid",
-        "shortName": "Atl. Madrid",
-        "color": "#ffffff",
-        "score": 1
-      },
-      "startTimestamp": 1779649200,
-      "slug": "atletico-madrid-villarreal"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Pau Navarro",
-        "firstName": "Pau",
-        "lastName": "Navarro",
-        "slug": "pau-navarro",
-        "shortName": "P. Navarro",
-        "position": "D",
-        "jerseyNumber": "6",
-        "height": 185,
-        "userCount": 545,
-        "gender": "M",
-        "id": 1525863,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 1114387200,
-        "proposedMarketValueRaw": {
-          "value": 14600000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "باو نافارو",
-            "ru": "Пау Наварро"
-          },
-          "shortNameTranslation": {
-            "ar": "ب. نافارو",
-            "ru": "П. Наварро"
-          }
-        }
-      },
-      "team": {
-        "name": "Villarreal",
-        "slug": "villarreal",
-        "shortName": "Villarreal",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 461754,
-        "nameCode": "VIL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2819,
-        "teamColors": {
-          "primary": "#ffff00",
-          "secondary": "#013765",
-          "text": "#013765"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "فياريال",
-            "bn": "ভিলারিয়াল",
-            "hi": "विल्लारियल",
-            "ru": "Вильярреал"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 42,
-        "accuratePass": 38,
-        "totalLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 22,
-        "totalOwnHalfPasses": 24,
-        "accurateOppositionHalfPasses": 16,
-        "totalOppositionHalfPasses": 18,
-        "aerialLost": 1,
-        "duelLost": 2,
-        "duelWon": 4,
-        "dispossessed": 1,
-        "totalContest": 1,
-        "wonContest": 1,
-        "totalClearance": 6,
-        "ballRecovery": 1,
-        "totalTackle": 2,
-        "unsuccessfulTouch": 1,
-        "wasFouled": 1,
-        "minutesPlayed": 90,
-        "touches": 56,
-        "rating": 6.7,
-        "possessionLostCtrl": 6,
-        "expectedAssists": 0.0123421,
-        "totalBallCarriesDistance": 61.495679909197,
-        "ballCarriesCount": 6,
-        "totalProgression": 26.574655279271,
-        "bestBallCarryProgression": 28.740307754953,
-        "totalProgressiveBallCarriesDistance": 29.737032064414,
-        "progressiveBallCarriesCount": 1,
-        "ratingVersions": {
-          "original": 6.7,
-          "alternative": 6.8
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.06,
-        "dribbleValueNormalized": 0.11,
-        "defensiveValueNormalized": -0.11,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "13607777": {
     "id": 13607777,
     "match_info": {
@@ -13703,6 +13576,134 @@
       },
       "statistics": {
         "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "14083735": {
+    "id": 14083735,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1779649200,
+      "slug": "atletico-madrid-villarreal"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pau Navarro",
+        "firstName": "Pau",
+        "lastName": "Navarro",
+        "slug": "pau-navarro",
+        "shortName": "P. Navarro",
+        "position": "D",
+        "jerseyNumber": "6",
+        "height": 185,
+        "userCount": 547,
+        "gender": "M",
+        "sofascoreId": "6gfk73",
+        "id": 1525863,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1114387200,
+        "proposedMarketValueRaw": {
+          "value": 14600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "باو نافارو",
+            "ru": "Пау Наварро"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. نافارو",
+            "ru": "П. Наварро"
+          }
+        }
+      },
+      "team": {
+        "name": "Villarreal",
+        "slug": "villarreal",
+        "shortName": "Villarreal",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 465801,
+        "nameCode": "VIL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2819,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#013765",
+          "text": "#013765"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فياريال",
+            "bn": "ভিলারিয়াল",
+            "hi": "विल्लारियल",
+            "ru": "Вильярреал"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 42,
+        "accuratePass": 38,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 22,
+        "totalOwnHalfPasses": 24,
+        "accurateOppositionHalfPasses": 16,
+        "totalOppositionHalfPasses": 18,
+        "aerialLost": 1,
+        "duelLost": 2,
+        "duelWon": 4,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalClearance": 6,
+        "ballRecovery": 1,
+        "totalTackle": 2,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 90,
+        "touches": 56,
+        "rating": 6.7,
+        "possessionLostCtrl": 6,
+        "expectedAssists": 0.0123421,
+        "totalBallCarriesDistance": 61.495679909197,
+        "ballCarriesCount": 6,
+        "totalProgression": 26.574655279271,
+        "bestBallCarryProgression": 28.740307754953,
+        "totalProgressiveBallCarriesDistance": 29.737032064414,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.06,
+        "dribbleValueNormalized": 0.11,
+        "defensiveValueNormalized": -0.11,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

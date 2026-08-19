@@ -2894,136 +2894,6 @@
       "extra": null
     }
   },
-  "14083706": {
-    "id": 14083706,
-    "match_info": {
-      "homeTeam": {
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "color": "#0232a0",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Rayo Vallecano",
-        "shortName": "Rayo Vallecano",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "startTimestamp": 1779562800,
-      "slug": "deportivo-alaves-rayo-vallecano"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Pathé Ismaël Ciss",
-        "firstName": "",
-        "lastName": "",
-        "slug": "ismaila-ciss",
-        "shortName": "P. I. Ciss",
-        "position": "M",
-        "jerseyNumber": "6",
-        "height": 183,
-        "userCount": 6166,
-        "gender": "M",
-        "id": 913679,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 763776000,
-        "proposedMarketValueRaw": {
-          "value": 1600000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "باتي سيس",
-            "bn": "পাথে ইসমাইল সিস",
-            "hi": "पाथे इस्माइल सिस",
-            "ru": "Пате Исмаэль Сис"
-          },
-          "shortNameTranslation": {
-            "ar": "ب. سيس",
-            "bn": "পি. আই. সিস",
-            "hi": "पी. आई. सिस",
-            "ru": "П. Сис"
-          }
-        }
-      },
-      "team": {
-        "name": "Rayo Vallecano",
-        "slug": "rayo-vallecano",
-        "shortName": "Rayo Vallecano",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 227407,
-        "nameCode": "RAY",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2818,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "رايو فاليكانو",
-            "bn": "রায়ো ভ্যালেকানো",
-            "hi": "रेयो वैलेकैनो",
-            "ru": "Райо Вальекано"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "statistics": {
-        "totalPass": 15,
-        "accuratePass": 15,
-        "totalLongBalls": 2,
-        "accurateLongBalls": 2,
-        "goalAssist": 1,
-        "accurateOwnHalfPasses": 9,
-        "totalOwnHalfPasses": 9,
-        "accurateOppositionHalfPasses": 6,
-        "totalOppositionHalfPasses": 6,
-        "aerialLost": 1,
-        "duelLost": 2,
-        "bigChanceCreated": 1,
-        "onTargetScoringAttempt": 1,
-        "totalClearance": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 4,
-        "fouls": 1,
-        "minutesPlayed": 29,
-        "touches": 18,
-        "rating": 6.9,
-        "expectedGoals": 0.0767,
-        "expectedGoalsOnTarget": 0.0692,
-        "expectedAssists": 0.0207129,
-        "totalBallCarriesDistance": 27.063213695053,
-        "ballCarriesCount": 4,
-        "totalProgression": 17.146808080093,
-        "progressiveBallCarriesCount": 0,
-        "keyPass": 1,
-        "ratingVersions": {
-          "original": 6.9,
-          "alternative": 7.3
-        },
-        "totalShots": 1,
-        "shotValueNormalized": -0.09,
-        "passValueNormalized": 0.33,
-        "dribbleValueNormalized": 0.01,
-        "defensiveValueNormalized": 0.14,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "15632649": {
     "id": 15632649,
     "match_info": {
@@ -23239,6 +23109,143 @@
           "alternative": 8
         },
         "totalShots": 2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083706": {
+    "id": 14083706,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1779562800,
+      "slug": "deportivo-alaves-rayo-vallecano"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pathé Ismaël Ciss",
+        "firstName": "",
+        "lastName": "",
+        "slug": "ismaila-ciss",
+        "shortName": "P. I. Ciss",
+        "position": "M",
+        "jerseyNumber": "6",
+        "height": 183,
+        "userCount": 6392,
+        "gender": "M",
+        "sofascoreId": "ii7afe",
+        "id": 913679,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 763776000,
+        "proposedMarketValueRaw": {
+          "value": 1600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "باتي سيس",
+            "bn": "পাথে ইসমাইল সিস",
+            "hi": "पाथे इस्माइल सिस",
+            "ru": "Пате Исмаэль Сис"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. سيس",
+            "bn": "পি. আই. সিস",
+            "hi": "पी. आई. सिस",
+            "ru": "П. Сис"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 227211,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 15,
+        "accuratePass": 15,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 2,
+        "goalAssist": 1,
+        "accurateOwnHalfPasses": 9,
+        "totalOwnHalfPasses": 9,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 6,
+        "aerialLost": 1,
+        "duelLost": 2,
+        "bigChanceCreated": 1,
+        "onTargetScoringAttempt": 1,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "fouls": 1,
+        "minutesPlayed": 29,
+        "touches": 18,
+        "rating": 6.9,
+        "expectedGoals": 0.0767,
+        "expectedGoalsOnTarget": 0.0692,
+        "expectedAssists": 0.0207129,
+        "topSpeed": 29.18,
+        "kilometersCovered": 3.18,
+        "numberOfSprints": 1,
+        "totalBallCarriesDistance": 27.063213695053,
+        "ballCarriesCount": 4,
+        "totalProgression": 17.146808080093,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 7.3
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.09,
+        "passValueNormalized": 0.33,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": 0.14,
+        "metersCoveredRunningKm": 0.45,
+        "metersCoveredHighSpeedRunningKm": 0.13,
+        "metersCoveredSprintingKm": 0.03,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

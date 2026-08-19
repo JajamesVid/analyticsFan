@@ -3067,125 +3067,6 @@
       "extra": null
     }
   },
-  "14083710": {
-    "id": 14083710,
-    "match_info": {
-      "homeTeam": {
-        "name": "Real Betis",
-        "shortName": "Real Betis",
-        "color": "#ffffff",
-        "score": 2
-      },
-      "awayTeam": {
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "color": "#0e3b68",
-        "score": 1
-      },
-      "startTimestamp": 1779562800,
-      "slug": "levante-ud-real-betis"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Álvaro Fidalgo",
-        "firstName": "Alvaro",
-        "lastName": "Fidalgo",
-        "slug": "alvaro-fidalgo",
-        "shortName": "Á. Fidalgo",
-        "position": "M",
-        "jerseyNumber": "15",
-        "height": 174,
-        "userCount": 5599,
-        "gender": "M",
-        "id": 838629,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 860544000,
-        "proposedMarketValueRaw": {
-          "value": 10900000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ألفارو فيدالغو",
-            "ru": "Альваро Фидальго"
-          },
-          "shortNameTranslation": {
-            "ar": "أ. فيدالغو",
-            "ru": "А. Фидальго"
-          }
-        }
-      },
-      "team": {
-        "name": "Real Betis",
-        "slug": "real-betis",
-        "shortName": "Real Betis",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 600173,
-        "nameCode": "BET",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2816,
-        "teamColors": {
-          "primary": "#ffffff",
-          "secondary": "#006633",
-          "text": "#006633"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ريال بيتيس",
-            "ru": "Реал Бетис"
-          },
-          "shortNameTranslation": {
-            "ar": "ريال بيتيس",
-            "bn": "বেটিস",
-            "hi": "बेटिस"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 17,
-        "accuratePass": 16,
-        "totalLongBalls": 1,
-        "accurateLongBalls": 1,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 8,
-        "totalOwnHalfPasses": 8,
-        "accurateOppositionHalfPasses": 8,
-        "totalOppositionHalfPasses": 9,
-        "aerialLost": 1,
-        "duelLost": 1,
-        "minutesPlayed": 10,
-        "touches": 19,
-        "rating": 6.6,
-        "possessionLostCtrl": 1,
-        "expectedAssists": 0.00477048,
-        "totalBallCarriesDistance": 29.99300432731,
-        "ballCarriesCount": 5,
-        "totalProgression": 5.5405737691339,
-        "progressiveBallCarriesCount": 0,
-        "ratingVersions": {
-          "original": 6.6,
-          "alternative": 6.7
-        },
-        "totalShots": 0,
-        "passValueNormalized": 0.05,
-        "dribbleValueNormalized": 0.01,
-        "defensiveValueNormalized": 0.14,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "M",
-      "extra": null
-    }
-  },
   "15891671": {
     "id": 15891671,
     "match_info": {
@@ -23880,6 +23761,132 @@
           "alternative": 7.3
         },
         "totalShots": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "14083710": {
+    "id": 14083710,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 1
+      },
+      "startTimestamp": 1779562800,
+      "slug": "levante-ud-real-betis"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Álvaro Fidalgo",
+        "firstName": "Alvaro",
+        "lastName": "Fidalgo",
+        "slug": "alvaro-fidalgo",
+        "shortName": "Á. Fidalgo",
+        "position": "M",
+        "jerseyNumber": "15",
+        "height": 174,
+        "userCount": 7075,
+        "gender": "M",
+        "sofascoreId": "zt7rwd",
+        "id": 838629,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 860544000,
+        "proposedMarketValueRaw": {
+          "value": 6500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ألفارو فيدالغو",
+            "ru": "Альваро Фидальго"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. فيدالغو",
+            "ru": "А. Фидальго"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Betis",
+        "slug": "real-betis",
+        "shortName": "Real Betis",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 609007,
+        "nameCode": "BET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2816,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#006633",
+          "text": "#006633"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال بيتيس",
+            "ru": "Реал Бетис"
+          },
+          "shortNameTranslation": {
+            "ar": "ريال بيتيس",
+            "bn": "বেটিস",
+            "hi": "बेटिस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 17,
+        "accuratePass": 16,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 8,
+        "totalOwnHalfPasses": 8,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 9,
+        "aerialLost": 1,
+        "duelLost": 1,
+        "minutesPlayed": 10,
+        "touches": 19,
+        "rating": 6.6,
+        "possessionLostCtrl": 1,
+        "expectedAssists": 0.00477048,
+        "topSpeed": 28.61,
+        "kilometersCovered": 2.03,
+        "numberOfSprints": 1,
+        "totalBallCarriesDistance": 29.99300432731,
+        "ballCarriesCount": 5,
+        "totalProgression": 5.5405737691339,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.05,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": 0.14,
+        "metersCoveredRunningKm": 0.48,
+        "metersCoveredHighSpeedRunningKm": 0.12,
+        "metersCoveredSprintingKm": 0.04,
         "statisticsType": {
           "sportSlug": "football",
           "statisticsType": "player"

@@ -3849,141 +3849,6 @@
       "extra": null
     }
   },
-  "14083715": {
-    "id": 14083715,
-    "match_info": {
-      "homeTeam": {
-        "name": "Celta Vigo",
-        "shortName": "Celta",
-        "color": "#6cace4",
-        "score": 1
-      },
-      "awayTeam": {
-        "name": "Sevilla",
-        "shortName": "Sevilla",
-        "color": "#ffffff",
-        "score": 0
-      },
-      "startTimestamp": 1779562800,
-      "slug": "sevilla-celta-vigo"
-    },
-    "player_stats": {
-      "player": {
-        "name": "Marcos Alonso",
-        "slug": "marcos-alonso",
-        "shortName": "M. Alonso",
-        "position": "D",
-        "jerseyNumber": "20",
-        "height": 188,
-        "userCount": 7620,
-        "gender": "M",
-        "sofascoreId": "marcosalonso28",
-        "id": 69408,
-        "marketValueCurrency": "EUR",
-        "dateOfBirthTimestamp": 662342400,
-        "proposedMarketValueRaw": {
-          "value": 1500000,
-          "currency": "EUR"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "ماركوس ألونسو",
-            "bn": "মার্কোস আলোনসো",
-            "hi": "मार्कोस अलोंसो",
-            "ru": "Маркус Алонсо"
-          },
-          "shortNameTranslation": {
-            "ar": "م. ألونسو",
-            "bn": "এম. আলোনসো",
-            "hi": "एम. अलोंसो",
-            "ru": "М. Алонсо"
-          }
-        }
-      },
-      "team": {
-        "name": "Celta Vigo",
-        "slug": "celta-vigo",
-        "shortName": "Celta",
-        "gender": "M",
-        "sport": {
-          "name": "Football",
-          "slug": "football",
-          "id": 1
-        },
-        "userCount": 266335,
-        "nameCode": "CEL",
-        "disabled": false,
-        "national": false,
-        "type": 0,
-        "id": 2821,
-        "teamColors": {
-          "primary": "#6cace4",
-          "secondary": "#ffffff",
-          "text": "#ffffff"
-        },
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "سيلتا فيغو",
-            "bn": "সেলটা ভিগো",
-            "ru": "Сельта"
-          },
-          "shortNameTranslation": {
-            "ar": "سيلتا",
-            "hi": "सेल्टा"
-          }
-        }
-      },
-      "statistics": {
-        "totalPass": 81,
-        "accuratePass": 76,
-        "totalLongBalls": 8,
-        "accurateLongBalls": 5,
-        "goalAssist": 0,
-        "accurateOwnHalfPasses": 38,
-        "totalOwnHalfPasses": 38,
-        "accurateOppositionHalfPasses": 38,
-        "totalOppositionHalfPasses": 43,
-        "aerialLost": 1,
-        "aerialWon": 2,
-        "duelLost": 3,
-        "duelWon": 3,
-        "challengeLost": 2,
-        "shotOffTarget": 1,
-        "totalClearance": 3,
-        "outfielderBlock": 1,
-        "interceptionWon": 1,
-        "ballRecovery": 2,
-        "wasFouled": 1,
-        "minutesPlayed": 90,
-        "touches": 89,
-        "rating": 7.7,
-        "possessionLostCtrl": 5,
-        "expectedGoals": 0.047,
-        "expectedAssists": 0.0276721,
-        "totalBallCarriesDistance": 412.340981542,
-        "ballCarriesCount": 37,
-        "totalProgression": 298.83972558674,
-        "bestBallCarryProgression": 28.44540142671,
-        "totalProgressiveBallCarriesDistance": 156.45901223535,
-        "progressiveBallCarriesCount": 6,
-        "ratingVersions": {
-          "original": 7.7,
-          "alternative": 7.4
-        },
-        "totalShots": 1,
-        "shotValueNormalized": -0.18,
-        "passValueNormalized": 0.35,
-        "dribbleValueNormalized": 0.24,
-        "defensiveValueNormalized": 0.26,
-        "statisticsType": {
-          "sportSlug": "football",
-          "statisticsType": "player"
-        }
-      },
-      "position": "D",
-      "extra": null
-    }
-  },
   "12437515": {
     "id": 12437515,
     "match_info": {
@@ -23428,6 +23293,147 @@
         }
       },
       "position": "M",
+      "extra": null
+    }
+  },
+  "14083715": {
+    "id": 14083715,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1779562800,
+      "slug": "sevilla-celta-vigo"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Marcos Alonso",
+        "slug": "marcos-alonso",
+        "shortName": "M. Alonso",
+        "position": "D",
+        "jerseyNumber": "20",
+        "height": 188,
+        "userCount": 7763,
+        "gender": "M",
+        "sofascoreId": "marcosalonso28",
+        "id": 69408,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 662342400,
+        "proposedMarketValueRaw": {
+          "value": 1300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماركوس ألونسو",
+            "bn": "মার্কোস আলোনসো",
+            "hi": "मार्कोस अलोंसो",
+            "ru": "Маркус Алонсо"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ألونسو",
+            "bn": "এম. আলোনসো",
+            "hi": "एम. अलोंसो",
+            "ru": "М. Алонсо"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 267822,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 81,
+        "accuratePass": 76,
+        "totalLongBalls": 8,
+        "accurateLongBalls": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 38,
+        "totalOwnHalfPasses": 38,
+        "accurateOppositionHalfPasses": 38,
+        "totalOppositionHalfPasses": 43,
+        "aerialLost": 1,
+        "aerialWon": 2,
+        "duelLost": 3,
+        "duelWon": 3,
+        "challengeLost": 2,
+        "shotOffTarget": 1,
+        "totalClearance": 3,
+        "outfielderBlock": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "wasFouled": 1,
+        "minutesPlayed": 90,
+        "touches": 89,
+        "rating": 7.7,
+        "possessionLostCtrl": 5,
+        "expectedGoals": 0.047,
+        "expectedAssists": 0.0276721,
+        "topSpeed": 30.72,
+        "kilometersCovered": 10.05,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 412.340981542,
+        "ballCarriesCount": 37,
+        "totalProgression": 298.83972558674,
+        "bestBallCarryProgression": 28.44540142671,
+        "totalProgressiveBallCarriesDistance": 156.45901223535,
+        "progressiveBallCarriesCount": 6,
+        "ratingVersions": {
+          "original": 7.7,
+          "alternative": 7.4
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.18,
+        "passValueNormalized": 0.35,
+        "dribbleValueNormalized": 0.24,
+        "defensiveValueNormalized": 0.26,
+        "metersCoveredRunningKm": 1.43,
+        "metersCoveredHighSpeedRunningKm": 0.42,
+        "metersCoveredSprintingKm": 0.09,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
       "extra": null
     }
   }
