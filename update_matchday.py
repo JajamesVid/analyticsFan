@@ -97,6 +97,7 @@ def filter_last_matchday(events, team_id):
         e for e in events
         if (e.get("homeTeam", {}).get("id") == team_id or e.get("awayTeam", {}).get("id") == team_id)
         and e.get("tournament", {}).get("name") == "LaLiga"
+        and e.get("status", {}).get("type") == "finished"
     ]
 
     if not laliga_events:
