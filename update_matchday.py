@@ -9,7 +9,10 @@ from datetime import datetime
 from futFantasy_Pipeline import crear_sesion, parsear_partidos
 
 PLAYERS_JSON = "players_to_analyze.json"
-TARGET_SEASON = "25/26"
+
+# temporadas que ya tenemos descargadas y viven juntas en la carpeta "22_25"
+HISTORICAL_SEASONS = {"22/23", "23/24", "24/25", "25/26"}
+HISTORICAL_FOLDER = "22_25"
 
 USER_AGENTS = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
@@ -52,6 +55,23 @@ def normalize(name):
     return name.lower().replace(" ", "_")
 
 
+def season_folder_name(season_year):
+    """Las temporadas ya descargadas (22/23 a 25/26) viven juntas en HISTORICAL_FOLDER.
+    Cualquier temporada nueva (26/27 en adelante) recibe su propia subcarpeta."""
+    if not season_year or season_year in HISTORICAL_SEASONS:
+        return HISTORICAL_FOLDER
+
+    return season_year.replace("/", "_")
+
+
+def team_folder_for_season(team_name, season_year):
+    return os.path.join("team_stats", normalize(team_name), season_folder_name(season_year))
+
+
+def player_folder_for_season(team_name, player_name, season_year):
+    return os.path.join("player_stats", normalize(team_name), player_name, season_folder_name(season_year))
+
+
 def create_session():
     return httpx.Client(headers=random_headers())
 
@@ -70,26 +90,46 @@ def parse_ss_date(timestamp):
 
 
 def filter_last_matchday(events, team_id):
-    """De todos los eventos de un equipo/jugador, se queda solo con los de
-    LaLiga de la temporada TARGET_SEASON, y de esos solo con la última jornada."""
+    """De todos los eventos de un equipo/jugador, se queda solo con el partido
+    de LaLiga más reciente (el de mayor startTimestamp), sea de la temporada
+    que sea — así siempre coge la última jornada disputada, dinámicamente."""
     laliga_events = [
         e for e in events
         if (e.get("homeTeam", {}).get("id") == team_id or e.get("awayTeam", {}).get("id") == team_id)
         and e.get("tournament", {}).get("name") == "LaLiga"
-        and e.get("season", {}).get("year") == TARGET_SEASON
     ]
 
     if not laliga_events:
         return []
 
-    last_round = max(e.get("roundInfo", {}).get("round", 0) for e in laliga_events)
+    last_event = max(laliga_events, key=lambda e: e.get("startTimestamp", 0))
 
-    return [e for e in laliga_events if e.get("roundInfo", {}).get("round") == last_round]
+    return [last_event]
 
 
 def update_team_stats(session, team_name, team_id):
-    team_folder = normalize(team_name)
-    output_file = os.path.join("team_stats", team_folder, "sofascore_all_matches.json")
+    try:
+        resp = session.get(
+            f"https://www.sofascore.com/api/v1/team/{team_id}/events/last/0",
+            headers={"Referer": f"https://www.sofascore.com/football/team/{team_id}"}
+        )
+        events = resp.json().get("events", [])
+    except Exception as e:
+        print(f"  ❌ Error: {e}")
+        return
+
+    events = filter_last_matchday(events, team_id)
+
+    if not events:
+        print(f"  ⏭ Sin partidos de LaLiga")
+        return
+
+    event = events[0]
+    event_id = str(event["id"])
+    season_year = event.get("season", {}).get("year")
+
+    team_folder = team_folder_for_season(team_name, season_year)
+    output_file = os.path.join(team_folder, "sofascore_all_matches.json")
 
     existing = {}
     if os.path.exists(output_file):
@@ -99,77 +139,77 @@ def update_team_stats(session, team_name, team_id):
             except:
                 pass
 
-    existing_ids = set(existing.keys())
+    if event_id in existing:
+        print(f"  ⏭ Sin eventos nuevos")
+        return
+
+    print(f"  → 1 evento nuevo ({season_year})")
 
     try:
+        resp = session.get(f"https://www.sofascore.com/api/v1/event/{event_id}/statistics")
+        raw_stats = resp.json()
+    except Exception as e:
+        print(f"  ❌ Error stats {event_id}: {e}")
+        return
+
+    home = event.get("homeTeam", {})
+    away = event.get("awayTeam", {})
+
+    existing[event_id] = {
+        "id": int(event_id),
+        "match_info": {
+            "homeTeam": {
+                "id": home.get("id"),
+                "name": home.get("name"),
+                "shortName": home.get("shortName") or (home.get("name") or "")[:3].upper(),
+                "color": home.get("teamColors", {}).get("primary"),
+                "score": event.get("homeScore", {}).get("current") if event.get("homeScore") else None
+            },
+            "awayTeam": {
+                "id": away.get("id"),
+                "name": away.get("name"),
+                "shortName": away.get("shortName") or (away.get("name") or "")[:3].upper(),
+                "color": away.get("teamColors", {}).get("primary"),
+                "score": event.get("awayScore", {}).get("current") if event.get("awayScore") else None
+            },
+            "startTimestamp": event.get("startTimestamp"),
+            "slug": event.get("slug"),
+            "tournament": event.get("tournament", {}).get("name"),
+            "season": season_year
+        },
+        "statistics": raw_stats.get("statistics", [])
+    }
+
+    print(f"  ✔️ {event_id}")
+    sleep()
+
+    os.makedirs(team_folder, exist_ok=True)
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(existing, f, indent=2, ensure_ascii=False)
+
+
+def update_player_stats(session, player_name, player_id, team_name, team_id):
+    try:
         resp = session.get(
-            f"https://www.sofascore.com/api/v1/team/{team_id}/events/last/0",
-            headers={"Referer": f"https://www.sofascore.com/football/team/{team_id}"}
+            f"https://www.sofascore.com/api/v1/player/{player_id}/events/last/0",
+            headers={"Referer": f"https://www.sofascore.com/football/player/{player_id}"}
         )
         events = resp.json().get("events", [])
     except Exception as e:
         print(f"  ❌ Error: {e}")
-        return 0
+        return {}, None
 
     events = filter_last_matchday(events, team_id)
 
-    new_events = {str(e["id"]): e for e in events if str(e["id"]) not in existing_ids}
+    if not events:
+        print(f"  ⏭ Sin partidos de LaLiga")
+        return {}, None
 
-    if not new_events:
-        print(f"  ⏭ Sin eventos nuevos")
-        return 0
+    event = events[0]
+    event_id = str(event["id"])
+    season_year = event.get("season", {}).get("year")
 
-    print(f"  → {len(new_events)} eventos nuevos")
-
-    for event_id, event in new_events.items():
-        try:
-            resp = session.get(f"https://www.sofascore.com/api/v1/event/{event_id}/statistics")
-            raw_stats = resp.json()
-        except Exception as e:
-            print(f"  ❌ Error stats {event_id}: {e}")
-            continue
-
-        home = event.get("homeTeam", {})
-        away = event.get("awayTeam", {})
-
-        existing[event_id] = {
-            "id": int(event_id),
-            "match_info": {
-                "homeTeam": {
-                    "id": home.get("id"),
-                    "name": home.get("name"),
-                    "shortName": home.get("shortName") or (home.get("name") or "")[:3].upper(),
-                    "color": home.get("teamColors", {}).get("primary"),
-                    "score": event.get("homeScore", {}).get("current") if event.get("homeScore") else None
-                },
-                "awayTeam": {
-                    "id": away.get("id"),
-                    "name": away.get("name"),
-                    "shortName": away.get("shortName") or (away.get("name") or "")[:3].upper(),
-                    "color": away.get("teamColors", {}).get("primary"),
-                    "score": event.get("awayScore", {}).get("current") if event.get("awayScore") else None
-                },
-                "startTimestamp": event.get("startTimestamp"),
-                "slug": event.get("slug"),
-                "tournament": event.get("tournament", {}).get("name"),
-                "season": event.get("season", {}).get("name")
-            },
-            "statistics": raw_stats.get("statistics", [])
-        }
-
-        print(f"  ✔️ {event_id}")
-        sleep()
-
-    os.makedirs(os.path.dirname(output_file), exist_ok=True)
-    with open(output_file, "w", encoding="utf-8") as f:
-        json.dump(existing, f, indent=2, ensure_ascii=False)
-
-    return len(new_events)
-
-
-def update_player_stats(session, player_name, player_id, team_name, team_id):
-    team_folder = normalize(team_name)
-    player_folder = os.path.join("player_stats", team_folder, player_name)
+    player_folder = player_folder_for_season(team_name, player_name, season_year)
     output_file = os.path.join(player_folder, "sofascore_all_matches.json")
 
     existing = {}
@@ -180,73 +220,54 @@ def update_player_stats(session, player_name, player_id, team_name, team_id):
             except:
                 pass
 
-    existing_ids = set(existing.keys())
+    if event_id in existing:
+        print(f"  ⏭ Sin eventos nuevos")
+        return {}, player_folder
+
+    print(f"  → 1 evento nuevo ({season_year})")
 
     try:
         resp = session.get(
-            f"https://www.sofascore.com/api/v1/player/{player_id}/events/last/0",
-            headers={"Referer": f"https://www.sofascore.com/football/player/{player_id}"}
+            f"https://www.sofascore.com/api/v1/event/{event_id}/player/{player_id}/statistics"
         )
-        events = resp.json().get("events", [])
+        match_stats = resp.json()
     except Exception as e:
-        print(f"  ❌ Error: {e}")
-        return {}
+        print(f"  ❌ Error stats {event_id}: {e}")
+        return {}, player_folder
 
-    events = filter_last_matchday(events, team_id)
+    home = event.get("homeTeam", {})
+    away = event.get("awayTeam", {})
 
-    new_events = {str(e["id"]): e for e in events if str(e["id"]) not in existing_ids}
+    existing[event_id] = {
+        "id": int(event_id),
+        "match_info": {
+            "homeTeam": {
+                "name": home.get("name"),
+                "shortName": home.get("shortName") or (home.get("name") or "")[:3].upper(),
+                "color": home.get("teamColors", {}).get("primary"),
+                "score": event.get("homeScore", {}).get("current") if event.get("homeScore") else None
+            },
+            "awayTeam": {
+                "name": away.get("name"),
+                "shortName": away.get("shortName") or (away.get("name") or "")[:3].upper(),
+                "color": away.get("teamColors", {}).get("primary"),
+                "score": event.get("awayScore", {}).get("current") if event.get("awayScore") else None
+            },
+            "startTimestamp": event.get("startTimestamp"),
+            "slug": event.get("slug"),
+            "season": season_year
+        },
+        "player_stats": match_stats
+    }
 
-    added = {}
+    print(f"  ✔️ {event_id}")
+    sleep()
 
-    if not new_events:
-        print(f"  ⏭ Sin eventos nuevos")
-    else:
-        print(f"  → {len(new_events)} eventos nuevos")
+    os.makedirs(player_folder, exist_ok=True)
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(existing, f, indent=2, ensure_ascii=False)
 
-        for event_id, event in new_events.items():
-            try:
-                resp = session.get(
-                    f"https://www.sofascore.com/api/v1/event/{event_id}/player/{player_id}/statistics"
-                )
-                match_stats = resp.json()
-            except Exception as e:
-                print(f"  ❌ Error stats {event_id}: {e}")
-                continue
-
-            home = event.get("homeTeam", {})
-            away = event.get("awayTeam", {})
-
-            existing[event_id] = {
-                "id": int(event_id),
-                "match_info": {
-                    "homeTeam": {
-                        "name": home.get("name"),
-                        "shortName": home.get("shortName") or (home.get("name") or "")[:3].upper(),
-                        "color": home.get("teamColors", {}).get("primary"),
-                        "score": event.get("homeScore", {}).get("current") if event.get("homeScore") else None
-                    },
-                    "awayTeam": {
-                        "name": away.get("name"),
-                        "shortName": away.get("shortName") or (away.get("name") or "")[:3].upper(),
-                        "color": away.get("teamColors", {}).get("primary"),
-                        "score": event.get("awayScore", {}).get("current") if event.get("awayScore") else None
-                    },
-                    "startTimestamp": event.get("startTimestamp"),
-                    "slug": event.get("slug")
-                },
-                "player_stats": match_stats
-            }
-
-            added[event_id] = existing[event_id]
-
-            print(f"  ✔️ {event_id}")
-            sleep()
-
-        os.makedirs(player_folder, exist_ok=True)
-        with open(output_file, "w", encoding="utf-8") as f:
-            json.dump(existing, f, indent=2, ensure_ascii=False)
-
-    return added
+    return {event_id: existing[event_id]}, player_folder
 
 
 def fetch_futfantasy_season(ff_session, player_slug, season):
@@ -279,12 +300,9 @@ def find_partido_for_event(partidos, match_info):
     return None
 
 
-def update_futfantasy_and_merge(ff_session, player_name, team_name, new_sofascore_events):
+def update_futfantasy_and_merge(ff_session, player_name, player_folder, new_sofascore_events):
     if not new_sofascore_events:
         return
-
-    team_folder = normalize(team_name)
-    player_folder = os.path.join("player_stats", team_folder, player_name)
 
     ff_file = os.path.join(player_folder, "futfantasy.json")
     full_file = os.path.join(player_folder, "full_stats.json")
@@ -306,12 +324,8 @@ def update_futfantasy_and_merge(ff_session, player_name, team_name, new_sofascor
                 full_data = []
 
     full_event_ids = {m.get("sofascore", {}).get("id") for m in full_data}
-
-    season_ff = TARGET_SEASON.replace("/", "-")
-    partidos = fetch_futfantasy_season(ff_session, player_name, season_ff)
-    sleep()
-
     ff_urls = {p.get("url_ficha") for p in ff_data if p.get("url_ficha")}
+    ff_cache = {}
 
     for event_id, sofa_entry in new_sofascore_events.items():
         event_int = int(event_id)
@@ -319,7 +333,17 @@ def update_futfantasy_and_merge(ff_session, player_name, team_name, new_sofascor
         if event_int in full_event_ids:
             continue
 
-        partido = find_partido_for_event(partidos, sofa_entry["match_info"])
+        season_year = sofa_entry["match_info"].get("season")
+        if not season_year:
+            print(f"  ⚠️ Sin temporada registrada para el evento {event_id}, no se puede consultar FutFantasy")
+            continue
+
+        season_ff = season_year.replace("/", "-")
+        if season_ff not in ff_cache:
+            ff_cache[season_ff] = fetch_futfantasy_season(ff_session, player_name, season_ff)
+            sleep()
+
+        partido = find_partido_for_event(ff_cache[season_ff], sofa_entry["match_info"])
 
         if partido is None:
             print(f"  ⚠️ Sin partido de FutFantasy para el evento {event_id}")
@@ -376,11 +400,12 @@ if __name__ == "__main__":
             sofa_id = player["sofascore_id"]
             print(f"\n  → {name}")
 
-            new_events = update_player_stats(session, name, sofa_id, team_name, team_id)
+            new_events, player_folder = update_player_stats(session, name, sofa_id, team_name, team_id)
             sleep()
 
-            update_futfantasy_and_merge(ff_session, name, team_name, new_events)
-            sleep()
+            if new_events:
+                update_futfantasy_and_merge(ff_session, name, player_folder, new_events)
+                sleep()
 
         sleep()
 
