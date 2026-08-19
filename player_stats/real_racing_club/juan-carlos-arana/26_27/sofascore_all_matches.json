@@ -1,0 +1,99 @@
+{
+  "16421061": {
+    "id": 16421061,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "startTimestamp": 1786892400,
+      "slug": "real-racing-club-villarreal",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Juan Carlos Arana",
+        "firstName": "",
+        "lastName": "",
+        "slug": "juan-carlos-arana",
+        "shortName": "J. C. Arana",
+        "position": "F",
+        "jerseyNumber": "9",
+        "height": 182,
+        "userCount": 346,
+        "gender": "M",
+        "sofascoreId": "snz4ae",
+        "id": 1084464,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 949968000,
+        "proposedMarketValueRaw": {
+          "value": 1100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوان كارلوس أرينا",
+            "bn": "জুয়ান কার্লোস আরানা",
+            "hi": "जुआन कार्लोस अराना",
+            "ru": "Хуан Карлос Арана"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. أرينا",
+            "bn": "জে. সি. আরানা",
+            "hi": "जे. सी. अराना",
+            "ru": "Х. Арана"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 64447,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينغ سانتاندير",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {
+            "ar": "راسينغ سانتاندير",
+            "ru": "Расинг"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  }
+}

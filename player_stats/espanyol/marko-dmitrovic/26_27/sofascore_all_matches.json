@@ -1,0 +1,125 @@
+{
+  "16421053": {
+    "id": 16421053,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 0
+      },
+      "startTimestamp": 1786899600,
+      "slug": "levante-ud-espanyol",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Marko Dmitrović",
+        "slug": "marko-dmitrovic",
+        "shortName": "M. Dmitrović",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 1352,
+        "gender": "M",
+        "sofascoreId": "h8k3mc",
+        "id": 94527,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 696211200,
+        "proposedMarketValueRaw": {
+          "value": 650000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماركو ديمتروفيتش",
+            "bn": "মার্ক দিমিত্রোভিচ",
+            "hi": "मार्को दिमित्रोविक",
+            "ru": "Марко Дмитрович"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديمتروفيتش",
+            "bn": "এম. দিমিত্রোভিচ",
+            "hi": "एम. दिमित्रोविक",
+            "ru": "М. Дмитрович"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 188006,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 19,
+        "accuratePass": 14,
+        "totalLongBalls": 13,
+        "accurateLongBalls": 8,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 9,
+        "totalOwnHalfPasses": 10,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 9,
+        "ballRecovery": 10,
+        "goodHighClaim": 4,
+        "totalKeeperSweeper": 1,
+        "accurateKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 33,
+        "rating": 6.9,
+        "possessionLostCtrl": 5,
+        "expectedAssists": 0.00132199,
+        "totalBallCarriesDistance": 25.986767954739,
+        "ballCarriesCount": 5,
+        "totalProgression": 25.119802579293,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 7.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.13,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": 0.23,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "16421047": {
+    "id": 16421047,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 0
+      },
+      "startTimestamp": 1786815000,
+      "slug": "deportivo-alaves-getafe",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Antonio Sivera",
+        "firstName": "Antonio",
+        "lastName": "Sivera",
+        "slug": "antonio-sivera",
+        "shortName": "A. Sivera",
+        "position": "G",
+        "jerseyNumber": "1",
+        "height": 184,
+        "userCount": 641,
+        "gender": "M",
+        "sofascoreId": "e5tet8",
+        "id": 369004,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 839721600,
+        "proposedMarketValueRaw": {
+          "value": 5600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنطونيو سيفيرا",
+            "bn": "আন্তোনিও সিভেরা",
+            "hi": "एंटोनियो सिवेरा",
+            "ru": "Антонио Сивера"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. سيفيرا",
+            "bn": "এ. সিভেরা",
+            "hi": "ए. सिवेरा",
+            "ru": "А. Сивера"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 157684,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 21,
+        "accuratePass": 15,
+        "totalLongBalls": 9,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 13,
+        "totalOwnHalfPasses": 14,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 7,
+        "totalClearance": 2,
+        "ballRecovery": 14,
+        "goodHighClaim": 2,
+        "saves": 2,
+        "punches": 1,
+        "minutesPlayed": 90,
+        "touches": 37,
+        "rating": 6.9,
+        "possessionLostCtrl": 6,
+        "expectedAssists": 0.00046398,
+        "totalBallCarriesDistance": 10.687874040033,
+        "ballCarriesCount": 2,
+        "totalProgression": 3.1564064771405,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.0599,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 7.3
+        },
+        "totalShots": 0,
+        "goalsPrevented": 0.0882,
+        "passValueNormalized": 0.03,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": 0.21,
+        "goalkeeperValueNormalized": 0.07,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  }
+}

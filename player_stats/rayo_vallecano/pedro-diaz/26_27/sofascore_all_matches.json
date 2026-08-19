@@ -1,0 +1,120 @@
+{
+  "16421052": {
+    "id": 16421052,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786822200,
+      "slug": "sevilla-rayo-vallecano",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Díaz",
+        "slug": "pedro-diaz",
+        "shortName": "P. Díaz",
+        "position": "M",
+        "jerseyNumber": "4",
+        "height": 180,
+        "userCount": 665,
+        "gender": "M",
+        "sofascoreId": "kkxnij",
+        "id": 900669,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 897004800,
+        "proposedMarketValueRaw": {
+          "value": 2900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو دياث",
+            "ru": "Педро Диас"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. دياث",
+            "ru": "П. Диас"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 229344,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 9,
+        "accuratePass": 9,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 4,
+        "totalCross": 2,
+        "accurateCross": 2,
+        "interceptionWon": 1,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 12,
+        "touches": 13,
+        "rating": 6.6,
+        "possessionLostCtrl": 1,
+        "expectedAssists": 0.0935067,
+        "totalBallCarriesDistance": 24.018033946813,
+        "ballCarriesCount": 4,
+        "totalProgression": 7.6930777320542,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.21,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": -0.05,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

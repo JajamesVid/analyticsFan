@@ -1,0 +1,133 @@
+{
+  "16421050": {
+    "id": 16421050,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786993200,
+      "slug": "elche-deportivo-de-la-coruna",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Adrià Altimira",
+        "firstName": "",
+        "lastName": "",
+        "slug": "altimira-adria",
+        "shortName": "A. Altimira",
+        "position": "D",
+        "jerseyNumber": "2",
+        "height": 170,
+        "userCount": 487,
+        "gender": "M",
+        "sofascoreId": "hiiy55",
+        "id": 980732,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 985737600,
+        "proposedMarketValueRaw": {
+          "value": 1700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ألتيميرا، أدريا",
+            "bn": "আলতিমিরা, আদ্রিয়া",
+            "hi": "अल्टीमीरा, एड्रिया",
+            "ru": "Адриà Альтимира"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. أدريا",
+            "bn": "এ. আলটিমিরা",
+            "hi": "ए. अल्टीमीरा",
+            "ru": "А. Альтимира"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo de A Coruña",
+        "slug": "deportivo-la-coruna",
+        "shortName": "Deportivo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 60869,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2832,
+        "teamColors": {
+          "primary": "#003399",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депортиво Ла-Корунья"
+          },
+          "shortNameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депорти́во"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 14,
+        "accuratePass": 13,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 9,
+        "totalCross": 3,
+        "accurateCross": 2,
+        "duelLost": 2,
+        "duelWon": 3,
+        "challengeLost": 1,
+        "ballRecovery": 2,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 71,
+        "touches": 21,
+        "rating": 7,
+        "possessionLostCtrl": 2,
+        "expectedAssists": 0.048718,
+        "totalBallCarriesDistance": 12.043304246201,
+        "ballCarriesCount": 2,
+        "totalProgression": -5.6321136581149,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.26,
+        "dribbleValueNormalized": 0.03,
+        "defensiveValueNormalized": -0.04,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

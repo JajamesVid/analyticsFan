@@ -1,0 +1,136 @@
+{
+  "16421047": {
+    "id": 16421047,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 0
+      },
+      "startTimestamp": 1786815000,
+      "slug": "deportivo-alaves-getafe",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Denis Suárez",
+        "slug": "denis-suarez",
+        "shortName": "D. Suárez",
+        "position": "M",
+        "jerseyNumber": "4",
+        "height": 176,
+        "userCount": 1607,
+        "gender": "M",
+        "sofascoreId": "irpiie",
+        "id": 138383,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 757814400,
+        "proposedMarketValueRaw": {
+          "value": 1100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دينيس سواريز",
+            "bn": "ডেনিস সুয়ারেজ",
+            "hi": "डेनिस सुआरेज़",
+            "ru": "Денис Суарес"
+          },
+          "shortNameTranslation": {
+            "ar": "د. سواريز",
+            "bn": "ডি. সুয়ারেজ",
+            "hi": "डी. सुआरेज़",
+            "ru": "Д. Суарес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 157684,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 26,
+        "accuratePass": 18,
+        "totalLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 7,
+        "totalOwnHalfPasses": 8,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 18,
+        "totalCross": 5,
+        "accurateCross": 3,
+        "duelLost": 3,
+        "bigChanceMissed": 1,
+        "onTargetScoringAttempt": 1,
+        "ballRecovery": 2,
+        "unsuccessfulTouch": 2,
+        "fouls": 3,
+        "minutesPlayed": 57,
+        "touches": 34,
+        "rating": 6.7,
+        "possessionLostCtrl": 12,
+        "expectedGoals": 0.3698,
+        "expectedGoalsOnTarget": 0.444,
+        "expectedAssists": 0.137389,
+        "totalBallCarriesDistance": 203.69145463737,
+        "ballCarriesCount": 16,
+        "totalProgression": 108.79125857049,
+        "bestBallCarryProgression": 33.531457794686,
+        "totalProgressiveBallCarriesDistance": 71.133065765919,
+        "progressiveBallCarriesCount": 3,
+        "keyPass": 3,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.6
+        },
+        "totalShots": 1,
+        "shotValueNormalized": 0.11,
+        "passValueNormalized": 0.3,
+        "dribbleValueNormalized": 0.27,
+        "defensiveValueNormalized": -0.04,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

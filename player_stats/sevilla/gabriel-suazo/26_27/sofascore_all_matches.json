@@ -1,0 +1,137 @@
+{
+  "16421052": {
+    "id": 16421052,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786822200,
+      "slug": "sevilla-rayo-vallecano",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Gabriel Suazo",
+        "slug": "gabriel-suazo",
+        "shortName": "G. Suazo",
+        "position": "D",
+        "jerseyNumber": "17",
+        "height": 178,
+        "userCount": 4320,
+        "gender": "M",
+        "sofascoreId": "cy5r6g",
+        "id": 818986,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 871084800,
+        "proposedMarketValueRaw": {
+          "value": 6600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "غابرييل سوازو",
+            "bn": "গ্যাব্রিয়েল সুয়াজো",
+            "hi": "गेब्रियल सुआज़ो",
+            "ru": "Габриэль Суазо"
+          },
+          "shortNameTranslation": {
+            "ar": "غ. سوازو",
+            "bn": "জি. সুয়াজো",
+            "hi": "जी. सुआज़ो",
+            "ru": "Г. Суазо"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 410635,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 33,
+        "accuratePass": 27,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 10,
+        "totalOwnHalfPasses": 12,
+        "accurateOppositionHalfPasses": 17,
+        "totalOppositionHalfPasses": 21,
+        "totalCross": 2,
+        "aerialWon": 2,
+        "duelLost": 7,
+        "duelWon": 8,
+        "challengeLost": 2,
+        "totalContest": 2,
+        "wonContest": 1,
+        "totalClearance": 1,
+        "ballRecovery": 4,
+        "totalTackle": 3,
+        "wonTackle": 3,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 2,
+        "fouls": 4,
+        "minutesPlayed": 90,
+        "touches": 62,
+        "rating": 6.9,
+        "possessionLostCtrl": 13,
+        "expectedAssists": 0.00946569,
+        "totalBallCarriesDistance": 99.844085486708,
+        "ballCarriesCount": 13,
+        "totalProgression": 18.552679925484,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.13,
+        "dribbleValueNormalized": 0.1,
+        "defensiveValueNormalized": -0.16,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "16421052": {
+    "id": 16421052,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786822200,
+      "slug": "sevilla-rayo-vallecano",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Isi Palazón",
+        "firstName": "",
+        "lastName": "",
+        "slug": "isi-palazon",
+        "shortName": "I. Palazón",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 169,
+        "userCount": 2702,
+        "gender": "M",
+        "sofascoreId": "wwuq2k",
+        "id": 899982,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 788486400,
+        "proposedMarketValueRaw": {
+          "value": 3000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيسي بالازون",
+            "bn": "আইসি পালাজন",
+            "hi": "इसी पलाज़ोन",
+            "ru": "Иси Палазон"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. بالازون",
+            "bn": "আই. পালাজোন",
+            "hi": "आई. पलाज़ोन",
+            "ru": "И. Палазон"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 229344,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 15,
+        "accuratePass": 11,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 6,
+        "totalOwnHalfPasses": 8,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 7,
+        "totalCross": 3,
+        "aerialLost": 2,
+        "aerialWon": 2,
+        "duelLost": 4,
+        "duelWon": 6,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalClearance": 2,
+        "ballRecovery": 1,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 64,
+        "touches": 28,
+        "rating": 6.8,
+        "possessionLostCtrl": 11,
+        "expectedAssists": 0.00785712,
+        "totalBallCarriesDistance": 31.524733938989,
+        "ballCarriesCount": 5,
+        "totalProgression": -16.657110660835,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.03,
+        "dribbleValueNormalized": -0.26,
+        "defensiveValueNormalized": 0.13,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

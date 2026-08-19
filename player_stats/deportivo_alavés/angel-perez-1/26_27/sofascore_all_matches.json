@@ -1,0 +1,137 @@
+{
+  "16421047": {
+    "id": 16421047,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 0
+      },
+      "startTimestamp": 1786815000,
+      "slug": "deportivo-alaves-getafe",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ángel Pérez",
+        "slug": "angel-perez",
+        "shortName": "Á. Pérez",
+        "position": "M",
+        "jerseyNumber": "7",
+        "height": 183,
+        "userCount": 300,
+        "gender": "M",
+        "sofascoreId": "fpmnmm",
+        "id": 1513222,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1030579200,
+        "proposedMarketValueRaw": {
+          "value": 2800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنخيل بيريز",
+            "ru": "Анхель Перес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بيريز",
+            "ru": "А. Перес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 157684,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 11,
+        "accuratePass": 9,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 9,
+        "totalCross": 3,
+        "accurateCross": 1,
+        "duelLost": 2,
+        "duelWon": 3,
+        "totalContest": 1,
+        "onTargetScoringAttempt": 1,
+        "totalClearance": 2,
+        "interceptionWon": 1,
+        "ballRecovery": 1,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "totalOffside": 2,
+        "minutesPlayed": 65,
+        "touches": 32,
+        "rating": 7,
+        "possessionLostCtrl": 8,
+        "expectedGoals": 0.0715,
+        "expectedGoalsOnTarget": 0.1541,
+        "expectedAssists": 0.0586988,
+        "totalBallCarriesDistance": 50.451459425703,
+        "ballCarriesCount": 6,
+        "totalProgression": 15.030022090289,
+        "bestBallCarryProgression": 10.811566167601,
+        "totalProgressiveBallCarriesDistance": 19.219331127799,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 7.1
+        },
+        "totalShots": 1,
+        "shotValueNormalized": 0.02,
+        "passValueNormalized": 0.23,
+        "dribbleValueNormalized": -0.55,
+        "defensiveValueNormalized": 0.19,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

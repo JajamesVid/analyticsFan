@@ -1,0 +1,100 @@
+{
+  "16421047": {
+    "id": 16421047,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 0
+      },
+      "startTimestamp": 1786815000,
+      "slug": "deportivo-alaves-getafe",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Carlos Benavídez",
+        "firstName": "Carlos",
+        "lastName": "Protesoni",
+        "slug": "carlos-benavidez",
+        "shortName": "C. Benavídez",
+        "position": "D",
+        "jerseyNumber": "23",
+        "height": 185,
+        "userCount": 424,
+        "gender": "M",
+        "sofascoreId": "ch3jxg",
+        "id": 873717,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 891216000,
+        "proposedMarketValueRaw": {
+          "value": 960000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارلوس بينافيديز",
+            "bn": "কার্লোস বেনাভিদেজ",
+            "hi": "कार्लोस बेनाविडेज़",
+            "ru": "Карлос Бенавидрес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. بينافيديز",
+            "bn": "সি. বেনাভিদেজ",
+            "hi": "सी. बेनाविडेज़",
+            "ru": "К. Бенавидрес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 157684,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

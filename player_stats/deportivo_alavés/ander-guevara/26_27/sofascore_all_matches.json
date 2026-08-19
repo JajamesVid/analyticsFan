@@ -1,0 +1,112 @@
+{
+  "16421047": {
+    "id": 16421047,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 0
+      },
+      "startTimestamp": 1786815000,
+      "slug": "deportivo-alaves-getafe",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ander Guevara",
+        "slug": "ander-guevara",
+        "shortName": "A. Guevara",
+        "position": "M",
+        "jerseyNumber": "6",
+        "height": 180,
+        "userCount": 330,
+        "gender": "M",
+        "sofascoreId": "iggjie",
+        "id": 891931,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 868233600,
+        "proposedMarketValueRaw": {
+          "value": 2700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أندير غيفارا",
+            "bn": "অ্যান্ডার গুয়েভারা",
+            "hi": "एंडर ग्वेरा",
+            "ru": "Андер Гевара"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. غيفارا",
+            "bn": "এ. গুয়েভারা",
+            "hi": "ए. ग्वेरा",
+            "ru": "А. Гевара"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 157684,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 4,
+        "accuratePass": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 2,
+        "minutesPlayed": 1,
+        "touches": 4,
+        "expectedAssists": 0.00089901,
+        "totalBallCarriesDistance": 3.6709802505598,
+        "ballCarriesCount": 1,
+        "totalProgression": 1.3626010038372,
+        "progressiveBallCarriesCount": 0,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

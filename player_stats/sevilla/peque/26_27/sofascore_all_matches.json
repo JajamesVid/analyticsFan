@@ -1,0 +1,137 @@
+{
+  "16421052": {
+    "id": 16421052,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786822200,
+      "slug": "sevilla-rayo-vallecano",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Peque Fernández",
+        "slug": "peque-fernandez",
+        "shortName": "P. Fernández",
+        "position": "M",
+        "jerseyNumber": "10",
+        "height": 168,
+        "userCount": 1014,
+        "gender": "M",
+        "sofascoreId": "8jrfb5",
+        "id": 997033,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1033689600,
+        "proposedMarketValueRaw": {
+          "value": 3300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيكي فيرنانديز",
+            "ru": "Пекке Фернандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيرنانديز",
+            "ru": "П. Фернандес"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 410635,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 11,
+        "accuratePass": 10,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 10,
+        "totalCross": 1,
+        "aerialLost": 1,
+        "duelLost": 6,
+        "duelWon": 2,
+        "challengeLost": 1,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "onTargetScoringAttempt": 2,
+        "goals": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "unsuccessfulTouch": 3,
+        "wasFouled": 2,
+        "fouls": 2,
+        "minutesPlayed": 45,
+        "touches": 24,
+        "rating": 6.8,
+        "possessionLostCtrl": 7,
+        "expectedGoals": 0.9067,
+        "expectedGoalsOnTarget": 0.9799,
+        "expectedAssists": 0.0338468,
+        "totalBallCarriesDistance": 140.83718026652,
+        "ballCarriesCount": 12,
+        "totalProgression": 53.658739628523,
+        "bestBallCarryProgression": 15.214040201483,
+        "totalProgressiveBallCarriesDistance": 55.406250961061,
+        "progressiveBallCarriesCount": 3,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 7.1
+        },
+        "totalShots": 2,
+        "shotValueNormalized": 0.3,
+        "passValueNormalized": 0,
+        "dribbleValueNormalized": 0.33,
+        "defensiveValueNormalized": -0.05,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  }
+}

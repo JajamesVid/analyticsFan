@@ -1,0 +1,117 @@
+{
+  "16421053": {
+    "id": 16421053,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 0
+      },
+      "startTimestamp": 1786899600,
+      "slug": "levante-ud-espanyol",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Jeremy Toljan",
+        "firstName": "Jeremy",
+        "lastName": "Toljan",
+        "slug": "jeremy-toljan",
+        "shortName": "J. Toljan",
+        "position": "D",
+        "jerseyNumber": "22",
+        "height": 182,
+        "userCount": 450,
+        "gender": "M",
+        "sofascoreId": "faqsqb",
+        "id": 149606,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 776304000,
+        "proposedMarketValueRaw": {
+          "value": 1900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جيريمي توليان",
+            "bn": "জেরেমি টলজান",
+            "hi": "जेरेमी टोलजन",
+            "ru": "Джереми Толян"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. توليان",
+            "bn": "জে. টলজান",
+            "hi": "जे. टोलजन",
+            "ru": "Д. Толян"
+          }
+        }
+      },
+      "team": {
+        "name": "Levante UD",
+        "slug": "levante-ud",
+        "shortName": "Levante",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 119601,
+        "nameCode": "LEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2849,
+        "teamColors": {
+          "primary": "#0e3b68",
+          "secondary": "#d70000",
+          "text": "#d70000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفانتي",
+            "hi": "लेवांटे यूडी",
+            "ru": "Леванте"
+          },
+          "shortNameTranslation": {
+            "ar": "ليفانتي",
+            "bn": "লেভান্তে",
+            "hi": "लेवांते"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 1,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "totalOppositionHalfPasses": 1,
+        "totalCross": 1,
+        "minutesPlayed": 14,
+        "touches": 5,
+        "rating": 6.2,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 0.00024066,
+        "ratingVersions": {
+          "original": 6.2,
+          "alternative": 6.2
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.01,
+        "defensiveValueNormalized": -0.19,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

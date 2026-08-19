@@ -1,0 +1,125 @@
+[
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Racing",
+        "abreviatura": "RAC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/42.png"
+      },
+      "visitante": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      }
+    },
+    "resultado": "2-2",
+    "fecha": "2026-08-16",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22427-racing-villarreal",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 16421061,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Racing Club",
+          "shortName": "R. Racing Club",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 2
+        },
+        "startTimestamp": 1786892400,
+        "slug": "real-racing-club-villarreal",
+        "season": "26/27"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Logan Costa",
+          "firstName": "Logan",
+          "lastName": "Costa",
+          "slug": "logan-costa",
+          "shortName": "L. Costa",
+          "position": "D",
+          "jerseyNumber": "2",
+          "height": 188,
+          "userCount": 1240,
+          "gender": "M",
+          "sofascoreId": "ww4g9k",
+          "id": 911853,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 986083200,
+          "proposedMarketValueRaw": {
+            "value": 14600000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "لوجان كوستا",
+              "bn": "লোগান কোস্টা",
+              "hi": "लोगन कोस्टा",
+              "ru": "Логан Коста"
+            },
+            "shortNameTranslation": {
+              "ar": "ل. كوستا",
+              "bn": "এল. কোস্টা",
+              "hi": "एल. कोस्टा",
+              "ru": "Л. Коста"
+            }
+          }
+        },
+        "team": {
+          "name": "Villarreal",
+          "slug": "villarreal",
+          "shortName": "Villarreal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 471524,
+          "nameCode": "VIL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2819,
+          "teamColors": {
+            "primary": "#ffff00",
+            "secondary": "#013765",
+            "text": "#013765"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فياريال",
+              "bn": "ভিলারিয়াল",
+              "hi": "विल्लारियल",
+              "ru": "Вильярреал"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  }
+]

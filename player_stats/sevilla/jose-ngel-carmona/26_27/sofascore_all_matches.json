@@ -1,0 +1,100 @@
+{
+  "16421052": {
+    "id": 16421052,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786822200,
+      "slug": "sevilla-rayo-vallecano",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "José Ángel Carmona",
+        "firstName": "",
+        "lastName": "",
+        "slug": "jose-angel-carmona",
+        "shortName": "J. Á. Carmona",
+        "position": "D",
+        "jerseyNumber": "22",
+        "height": 183,
+        "userCount": 1089,
+        "gender": "M",
+        "sofascoreId": "ekrjz9",
+        "id": 1015240,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1012262400,
+        "proposedMarketValueRaw": {
+          "value": 11100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوسيه أنخيل كارمونا",
+            "bn": "হোসে অ্যাঞ্জেল কারমোনা",
+            "hi": "जोस एंजेल कार्मोना",
+            "ru": "Хосе Анхель Кармона"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. كارمونا",
+            "bn": "জে. এ. কারমোনা",
+            "hi": "जे.ए. कार्मोना",
+            "ru": "Х. Кармона"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 410635,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

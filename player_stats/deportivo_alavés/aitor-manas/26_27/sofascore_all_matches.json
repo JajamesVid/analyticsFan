@@ -1,0 +1,129 @@
+{
+  "16421047": {
+    "id": 16421047,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 0
+      },
+      "startTimestamp": 1786815000,
+      "slug": "deportivo-alaves-getafe",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Aitor Mañas",
+        "firstName": "Aitor Mañas",
+        "slug": "aitor-manas",
+        "shortName": "A. Mañas",
+        "position": "F",
+        "jerseyNumber": "20",
+        "height": 185,
+        "userCount": 94,
+        "gender": "M",
+        "sofascoreId": "xzmzdc",
+        "id": 1639543,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1041724800,
+        "proposedMarketValueRaw": {
+          "value": 570000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أيتور ماناس",
+            "ru": "Аитор Маньяс"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. ماناس",
+            "ru": "А. Маньяс"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 157684,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 4,
+        "accuratePass": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 3,
+        "aerialLost": 3,
+        "aerialWon": 1,
+        "duelLost": 6,
+        "duelWon": 3,
+        "challengeLost": 1,
+        "dispossessed": 1,
+        "totalClearance": 2,
+        "interceptionWon": 1,
+        "wasFouled": 2,
+        "fouls": 1,
+        "minutesPlayed": 57,
+        "touches": 15,
+        "rating": 6.4,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 0.00089572,
+        "totalBallCarriesDistance": 3.5014889689959,
+        "ballCarriesCount": 1,
+        "totalProgression": -2.7772767685985,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.02,
+        "dribbleValueNormalized": -0.03,
+        "defensiveValueNormalized": 0.13,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  }
+}

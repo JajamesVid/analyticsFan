@@ -1,0 +1,121 @@
+[
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Alavés",
+        "abreviatura": "ALA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
+      },
+      "visitante": {
+        "nombre": "Getafe",
+        "abreviatura": "GET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/8.png"
+      }
+    },
+    "resultado": "3-0",
+    "fecha": "2026-08-15",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22421-alaves-getafe",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 16421047,
+      "match_info": {
+        "homeTeam": {
+          "name": "Deportivo Alavés",
+          "shortName": "Alavés",
+          "color": "#0232a0",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Getafe",
+          "shortName": "Getafe",
+          "color": "#00369e",
+          "score": 0
+        },
+        "startTimestamp": 1786815000,
+        "slug": "deportivo-alaves-getafe",
+        "season": "26/27"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Jiří Letáček",
+          "firstName": "Jiri",
+          "lastName": "Letacek",
+          "slug": "jiri-letacek",
+          "shortName": "J. Letáček",
+          "position": "G",
+          "jerseyNumber": "1",
+          "height": 196,
+          "userCount": 228,
+          "gender": "M",
+          "sofascoreId": "h2pzqc",
+          "id": 826047,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 915840000,
+          "proposedMarketValueRaw": {
+            "value": 1900000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ييري ليتاتشيك",
+              "ru": "Йиржи Летаček"
+            },
+            "shortNameTranslation": {
+              "ar": "ي. ليتاتشيك",
+              "ru": "Й. Летаček"
+            }
+          }
+        },
+        "team": {
+          "name": "Getafe",
+          "slug": "getafe",
+          "shortName": "Getafe",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 206593,
+          "nameCode": "GET",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2859,
+          "teamColors": {
+            "primary": "#00369e",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "خيتافي",
+              "bn": "গেটাফে",
+              "hi": "गेटाफे",
+              "ru": "Хетафе"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  }
+]

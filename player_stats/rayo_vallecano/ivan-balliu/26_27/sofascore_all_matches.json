@@ -1,0 +1,132 @@
+{
+  "16421052": {
+    "id": 16421052,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786822200,
+      "slug": "sevilla-rayo-vallecano",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Iván Balliu",
+        "slug": "ivan-balliu",
+        "shortName": "I. Balliu",
+        "position": "D",
+        "jerseyNumber": "20",
+        "height": 175,
+        "userCount": 789,
+        "gender": "M",
+        "sofascoreId": "p62337",
+        "id": 152446,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 694224000,
+        "proposedMarketValueRaw": {
+          "value": 1100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيفان باليو",
+            "bn": "ইভান বালিউ",
+            "hi": "इवान बल्लु",
+            "ru": "Иван Баллиу"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. باليو",
+            "bn": "আই. বালিউ",
+            "hi": "आई. बल्लु",
+            "ru": "И. Баллиу"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 229344,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 27,
+        "accuratePass": 18,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 9,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 16,
+        "aerialLost": 3,
+        "aerialWon": 2,
+        "duelLost": 5,
+        "duelWon": 5,
+        "totalContest": 1,
+        "totalClearance": 2,
+        "ballRecovery": 3,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 2,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 52,
+        "rating": 6.2,
+        "possessionLostCtrl": 17,
+        "expectedAssists": 0.00313646,
+        "totalBallCarriesDistance": 3.2388332775862,
+        "ballCarriesCount": 1,
+        "totalProgression": -1.8951066540263,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.2,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.05,
+        "dribbleValueNormalized": -0.12,
+        "defensiveValueNormalized": -0.3,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

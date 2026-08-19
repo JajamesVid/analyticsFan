@@ -1,0 +1,137 @@
+{
+  "16421047": {
+    "id": 16421047,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 0
+      },
+      "startTimestamp": 1786815000,
+      "slug": "deportivo-alaves-getafe",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Jonny Otto",
+        "firstName": "Jonny",
+        "lastName": "Otto",
+        "slug": "jonny-otto",
+        "shortName": "J. Otto",
+        "position": "D",
+        "jerseyNumber": "17",
+        "height": 175,
+        "userCount": 648,
+        "gender": "M",
+        "sofascoreId": "8ui3pw",
+        "id": 235648,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 762652800,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جوني أوتو",
+            "bn": "জনি অটো",
+            "hi": "जॉनी ओट्टो",
+            "ru": "Джонни Отто"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. أوتو",
+            "bn": "জে. ওটো",
+            "hi": "जे. ओट्टो",
+            "ru": "Д. Отто"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 157684,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 33,
+        "accuratePass": 30,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 20,
+        "totalOwnHalfPasses": 21,
+        "accurateOppositionHalfPasses": 10,
+        "totalOppositionHalfPasses": 12,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "aerialWon": 1,
+        "duelLost": 2,
+        "duelWon": 4,
+        "totalContest": 1,
+        "totalClearance": 2,
+        "outfielderBlock": 1,
+        "ballRecovery": 1,
+        "totalTackle": 2,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 47,
+        "rating": 7.2,
+        "possessionLostCtrl": 6,
+        "expectedAssists": 0.0108211,
+        "totalBallCarriesDistance": 72.31062696839,
+        "ballCarriesCount": 11,
+        "totalProgression": 23.989580761736,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7.2,
+          "alternative": 7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.15,
+        "dribbleValueNormalized": -0.05,
+        "defensiveValueNormalized": 0.23,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Deportivo",
+        "abreviatura": "DEP",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/6.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-08-17",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22424-deportivo-elche",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 16421050,
+      "match_info": {
+        "homeTeam": {
+          "name": "Deportivo de A Coruña",
+          "shortName": "Deportivo",
+          "color": "#003399",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1786993200,
+        "slug": "elche-deportivo-de-la-coruna",
+        "season": "26/27"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Miguel Loureiro",
+          "firstName": "Miguel",
+          "lastName": "Loureiro",
+          "slug": "miguel-loureiro",
+          "shortName": "M. Loureiro",
+          "position": "D",
+          "jerseyNumber": "15",
+          "height": 180,
+          "userCount": 131,
+          "gender": "M",
+          "sofascoreId": "ihsb8e",
+          "id": 811611,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 848534400,
+          "proposedMarketValueRaw": {
+            "value": 1200000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ميغيل لوريرو",
+              "ru": "Мигель Лоурейру"
+            },
+            "shortNameTranslation": {
+              "ar": "م. لوريرو",
+              "ru": "М. Лоурейру"
+            }
+          }
+        },
+        "team": {
+          "name": "Deportivo de A Coruña",
+          "slug": "deportivo-la-coruna",
+          "shortName": "Deportivo",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 60869,
+          "nameCode": "COR",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2832,
+          "teamColors": {
+            "primary": "#003399",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ديبورتيفو لاكورونيا",
+              "ru": "Депортиво Ла-Корунья"
+            },
+            "shortNameTranslation": {
+              "ar": "ديبورتيفو لاكورونيا",
+              "ru": "Депорти́во"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  }
+]

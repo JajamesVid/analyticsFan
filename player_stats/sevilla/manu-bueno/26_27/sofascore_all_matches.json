@@ -1,0 +1,124 @@
+{
+  "16421052": {
+    "id": 16421052,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786822200,
+      "slug": "sevilla-rayo-vallecano",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Manu Bueno",
+        "slug": "bueno-manu",
+        "shortName": "M. Bueno",
+        "position": "M",
+        "jerseyNumber": "28",
+        "height": 178,
+        "userCount": 281,
+        "gender": "M",
+        "sofascoreId": "wrn5f6",
+        "id": 1142094,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1090886400,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بوينو، مانو",
+            "bn": "বুয়েনো, মানু",
+            "hi": "ब्यूनो, मनु",
+            "ru": "Ману Буэно"
+          },
+          "shortNameTranslation": {
+            "ar": "م. بوينو",
+            "bn": "এম. বুয়েনো",
+            "hi": "एम. ब्यूनो",
+            "ru": "М. Буэно"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 410635,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 3,
+        "accuratePass": 3,
+        "goalAssist": 0,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 3,
+        "duelWon": 1,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "minutesPlayed": 8,
+        "touches": 5,
+        "rating": 7,
+        "expectedAssists": 0.0440506,
+        "totalBallCarriesDistance": 30.993855338864,
+        "ballCarriesCount": 3,
+        "totalProgression": 19.570334719212,
+        "bestBallCarryProgression": 8.6093498170018,
+        "totalProgressiveBallCarriesDistance": 9.1402630706124,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.17,
+        "dribbleValueNormalized": 0.17,
+        "defensiveValueNormalized": 0.14,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

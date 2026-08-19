@@ -1,0 +1,133 @@
+{
+  "16421052": {
+    "id": 16421052,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786822200,
+      "slug": "sevilla-rayo-vallecano",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Augusto Batalla",
+        "firstName": "Augusto",
+        "lastName": "Batalla",
+        "slug": "augusto-batalla",
+        "shortName": "A. Batalla",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 186,
+        "userCount": 1743,
+        "gender": "M",
+        "sofascoreId": "pw9jt7",
+        "id": 358910,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 830822400,
+        "proposedMarketValueRaw": {
+          "value": 5800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوغوستو باتالا",
+            "bn": "অগাস্টো বাটাল্লা",
+            "hi": "ऑगस्टो बटाला",
+            "ru": "Аугусто Баталья"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. باتالا",
+            "bn": "এ. বাটাল্লা",
+            "hi": "ए. बटाला",
+            "ru": "А. Баталья"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 229344,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 35,
+        "accuratePass": 20,
+        "totalLongBalls": 23,
+        "accurateLongBalls": 8,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 15,
+        "totalOwnHalfPasses": 17,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 18,
+        "totalClearance": 2,
+        "ballRecovery": 16,
+        "goodHighClaim": 2,
+        "savedShotsFromInsideTheBox": 1,
+        "penaltyFaced": 2,
+        "saves": 2,
+        "totalKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 52,
+        "rating": 6.7,
+        "possessionLostCtrl": 15,
+        "expectedAssists": 0.00184251,
+        "totalBallCarriesDistance": 39.888178126362,
+        "ballCarriesCount": 8,
+        "totalProgression": 3.7280563333836,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.182,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 7.1
+        },
+        "totalShots": 0,
+        "goalsPrevented": -0.1982,
+        "passValueNormalized": 0.15,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": -0.07,
+        "goalkeeperValueNormalized": 0.21,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  }
+}

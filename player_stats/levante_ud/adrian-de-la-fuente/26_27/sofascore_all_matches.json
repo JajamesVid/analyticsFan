@@ -1,0 +1,142 @@
+{
+  "16421053": {
+    "id": 16421053,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 0
+      },
+      "startTimestamp": 1786899600,
+      "slug": "levante-ud-espanyol",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Adrián de la Fuente",
+        "firstName": "Adrian",
+        "lastName": "Dela",
+        "slug": "adrian-de-la-fuente",
+        "shortName": "Adri",
+        "position": "D",
+        "jerseyNumber": "4",
+        "height": 178,
+        "userCount": 642,
+        "gender": "M",
+        "sofascoreId": "hiexpk",
+        "id": 997244,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 919987200,
+        "proposedMarketValueRaw": {
+          "value": 4099999,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أدريان دي لا فوينتي",
+            "bn": "আদ্রিয়ান ডে লা ফুয়েন্তে",
+            "hi": "एड्रियन डे ला फूएंते",
+            "ru": "Адриан де ла Фуэнтэ"
+          },
+          "shortNameTranslation": {
+            "ar": "أدري",
+            "bn": "আদরি",
+            "hi": "एंड्री",
+            "ru": "А. Фуэнтэ"
+          }
+        }
+      },
+      "team": {
+        "name": "Levante UD",
+        "slug": "levante-ud",
+        "shortName": "Levante",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 119601,
+        "nameCode": "LEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2849,
+        "teamColors": {
+          "primary": "#0e3b68",
+          "secondary": "#d70000",
+          "text": "#d70000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفانتي",
+            "hi": "लेवांटे यूडी",
+            "ru": "Леванте"
+          },
+          "shortNameTranslation": {
+            "ar": "ليفانتي",
+            "bn": "লেভান্তে",
+            "hi": "लेवांते"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 69,
+        "accuratePass": 63,
+        "totalLongBalls": 15,
+        "accurateLongBalls": 12,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 43,
+        "totalOwnHalfPasses": 43,
+        "accurateOppositionHalfPasses": 20,
+        "totalOppositionHalfPasses": 26,
+        "totalCross": 1,
+        "duelLost": 2,
+        "duelWon": 4,
+        "challengeLost": 1,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 2,
+        "outfielderBlock": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "totalTackle": 2,
+        "wasFouled": 2,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 84,
+        "rating": 7,
+        "possessionLostCtrl": 8,
+        "expectedGoals": 0.0583,
+        "expectedAssists": 0.0194201,
+        "totalBallCarriesDistance": 399.21901469468,
+        "ballCarriesCount": 41,
+        "totalProgression": 246.02934248918,
+        "bestBallCarryProgression": 21.46181745458,
+        "totalProgressiveBallCarriesDistance": 27.590699085018,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 6.8
+        },
+        "totalShots": 1,
+        "shotValueNormalized": 0.01,
+        "passValueNormalized": 0.31,
+        "dribbleValueNormalized": 0.22,
+        "defensiveValueNormalized": -0.47,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

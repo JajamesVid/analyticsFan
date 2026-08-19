@@ -1,0 +1,139 @@
+{
+  "16421050": {
+    "id": 16421050,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786993200,
+      "slug": "elche-deportivo-de-la-coruna",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Giacomo Quagliata",
+        "slug": "giacomo-quagliata",
+        "shortName": "G. Quagliata",
+        "position": "D",
+        "jerseyNumber": "12",
+        "height": 177,
+        "userCount": 213,
+        "gender": "M",
+        "sofascoreId": "g88paa",
+        "id": 973300,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 950918400,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جياكومو كوالياتا",
+            "bn": "গিয়াকোমো কোয়াগ্লিয়াটা",
+            "hi": "जियाकोमो क्वाग्लियाटा",
+            "ru": "Джакомо Кваглиата"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. كوالياتا",
+            "bn": "জি. কোয়াগ্লিয়াটা",
+            "hi": "जी. क्वाग्लियाटा",
+            "ru": "Д. Кваглиата"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo de A Coruña",
+        "slug": "deportivo-la-coruna",
+        "shortName": "Deportivo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 60869,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2832,
+        "teamColors": {
+          "primary": "#003399",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депортиво Ла-Корунья"
+          },
+          "shortNameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депорти́во"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 30,
+        "accuratePass": 24,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 10,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 19,
+        "totalCross": 3,
+        "accurateCross": 1,
+        "aerialLost": 1,
+        "duelLost": 6,
+        "duelWon": 2,
+        "dispossessed": 1,
+        "totalContest": 2,
+        "totalClearance": 2,
+        "outfielderBlock": 1,
+        "ballRecovery": 2,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 2,
+        "fouls": 2,
+        "totalOffside": 1,
+        "minutesPlayed": 90,
+        "touches": 60,
+        "rating": 6.4,
+        "possessionLostCtrl": 15,
+        "expectedAssists": 0.0489906,
+        "totalBallCarriesDistance": 77.025425783952,
+        "ballCarriesCount": 6,
+        "totalProgression": 60.994928358367,
+        "bestBallCarryProgression": 34.945042558327,
+        "totalProgressiveBallCarriesDistance": 39.925545506605,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.17,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": -0.05,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

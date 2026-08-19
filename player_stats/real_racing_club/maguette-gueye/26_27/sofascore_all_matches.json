@@ -1,0 +1,136 @@
+{
+  "16421061": {
+    "id": 16421061,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "startTimestamp": 1786892400,
+      "slug": "real-racing-club-villarreal",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Maguette Gueye",
+        "firstName": "Maguette Gueye",
+        "lastName": "",
+        "slug": "maguette-gueye",
+        "shortName": "M. Gueye",
+        "position": "M",
+        "jerseyNumber": "14",
+        "height": 183,
+        "userCount": 1199,
+        "gender": "M",
+        "sofascoreId": "kmpb4p",
+        "id": 1383421,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1041206400,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماجيت جوي",
+            "bn": "ম্যাগুয়েট গুয়ে",
+            "hi": "मगुएट गुये",
+            "ru": "Магетт Гейе"
+          },
+          "shortNameTranslation": {
+            "ar": "م. جوي",
+            "bn": "এম. গুয়ে",
+            "hi": "एम. गुये",
+            "ru": "М. Гейе"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 64447,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينغ سانتاندير",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {
+            "ar": "راسينغ سانتاندير",
+            "ru": "Расинг"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 12,
+        "accuratePass": 10,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 7,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 2,
+        "totalContest": 1,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 2,
+        "interceptionWon": 1,
+        "ballRecovery": 3,
+        "wasFouled": 1,
+        "fouls": 2,
+        "minutesPlayed": 21,
+        "touches": 19,
+        "rating": 6.9,
+        "possessionLostCtrl": 3,
+        "expectedGoals": 0.0965,
+        "expectedAssists": 0.00440608,
+        "totalBallCarriesDistance": 86.355950731685,
+        "ballCarriesCount": 10,
+        "totalProgression": 29.173580195369,
+        "bestBallCarryProgression": 17.824953142264,
+        "totalProgressiveBallCarriesDistance": 31.469564517446,
+        "progressiveBallCarriesCount": 2,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 6.6
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.13,
+        "passValueNormalized": 0.05,
+        "dribbleValueNormalized": 0.19,
+        "defensiveValueNormalized": 0.27,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

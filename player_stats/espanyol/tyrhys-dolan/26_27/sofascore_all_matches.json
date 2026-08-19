@@ -1,0 +1,137 @@
+{
+  "16421053": {
+    "id": 16421053,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 0
+      },
+      "startTimestamp": 1786899600,
+      "slug": "levante-ud-espanyol",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Tyrhys Dolan",
+        "firstName": "Tyrhys Dolan",
+        "slug": "tyrhys-dolan",
+        "shortName": "T. Dolan",
+        "position": "M",
+        "jerseyNumber": "24",
+        "height": 170,
+        "userCount": 923,
+        "gender": "M",
+        "sofascoreId": "6g8b84",
+        "id": 1063015,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1009497600,
+        "proposedMarketValueRaw": {
+          "value": 10800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "تيرهيز دولان",
+            "ru": "Тирис Долан"
+          },
+          "shortNameTranslation": {
+            "ar": "ت. دولان",
+            "ru": "Т. Долан"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 188006,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 29,
+        "accuratePass": 24,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 11,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 13,
+        "totalOppositionHalfPasses": 18,
+        "totalCross": 2,
+        "duelLost": 6,
+        "duelWon": 2,
+        "dispossessed": 1,
+        "totalContest": 4,
+        "wonContest": 1,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 1,
+        "blockedScoringAttempt": 2,
+        "goals": 1,
+        "interceptionWon": 2,
+        "ballRecovery": 11,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 2,
+        "fouls": 2,
+        "minutesPlayed": 81,
+        "touches": 49,
+        "rating": 7.7,
+        "possessionLostCtrl": 13,
+        "expectedGoals": 0.2108,
+        "expectedGoalsOnTarget": 0.6817,
+        "expectedAssists": 0.0397942,
+        "totalBallCarriesDistance": 181.1022574246,
+        "ballCarriesCount": 19,
+        "totalProgression": 141.4672684639,
+        "bestBallCarryProgression": 35.556129537266,
+        "totalProgressiveBallCarriesDistance": 111.77713860271,
+        "progressiveBallCarriesCount": 6,
+        "ratingVersions": {
+          "original": 7.7,
+          "alternative": 7.4
+        },
+        "totalShots": 4,
+        "shotValueNormalized": 0.47,
+        "passValueNormalized": 0.24,
+        "dribbleValueNormalized": 0.46,
+        "defensiveValueNormalized": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "16421050": {
+    "id": 16421050,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786993200,
+      "slug": "elche-deportivo-de-la-coruna",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Leo Román",
+        "firstName": "",
+        "lastName": "",
+        "slug": "leo-roman",
+        "shortName": "L. Román",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 189,
+        "userCount": 1923,
+        "gender": "M",
+        "sofascoreId": "zb9zn9",
+        "id": 1131909,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 962841600,
+        "proposedMarketValueRaw": {
+          "value": 5800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليو روماني",
+            "bn": "লিও রোমান",
+            "hi": "लियो रोमान",
+            "ru": "Лео Роман"
+          },
+          "shortNameTranslation": {
+            "ar": "ل. روماني",
+            "bn": "এল. রোমান",
+            "hi": "एल. रोमान",
+            "ru": "Л. Роман"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo de A Coruña",
+        "slug": "deportivo-la-coruna",
+        "shortName": "Deportivo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 60869,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2832,
+        "teamColors": {
+          "primary": "#003399",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депортиво Ла-Корунья"
+          },
+          "shortNameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депорти́во"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 33,
+        "accuratePass": 24,
+        "totalLongBalls": 15,
+        "accurateLongBalls": 6,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 22,
+        "totalOwnHalfPasses": 23,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 10,
+        "totalClearance": 2,
+        "ballRecovery": 7,
+        "savedShotsFromInsideTheBox": 3,
+        "saves": 5,
+        "minutesPlayed": 90,
+        "touches": 43,
+        "rating": 7.5,
+        "possessionLostCtrl": 9,
+        "expectedAssists": 0.00036959,
+        "totalBallCarriesDistance": 35.83499106688,
+        "ballCarriesCount": 5,
+        "totalProgression": 24.465453533014,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.7538,
+        "ratingVersions": {
+          "original": 7.5,
+          "alternative": 7.3
+        },
+        "totalShots": 0,
+        "goalsPrevented": 0.538,
+        "passValueNormalized": 0.04,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": 0.2,
+        "goalkeeperValueNormalized": 0.48,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  }
+}

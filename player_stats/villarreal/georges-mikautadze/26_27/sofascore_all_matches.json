@@ -1,0 +1,144 @@
+{
+  "16421061": {
+    "id": 16421061,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "startTimestamp": 1786892400,
+      "slug": "real-racing-club-villarreal",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Georges Mikautadze",
+        "firstName": "Georges",
+        "lastName": "Mikautadze",
+        "slug": "georges-mikautadze",
+        "shortName": "G. Mikautadze",
+        "position": "F",
+        "jerseyNumber": "9",
+        "height": 176,
+        "userCount": 15406,
+        "gender": "M",
+        "sofascoreId": "georgesmkd",
+        "id": 1009372,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 972950400,
+        "proposedMarketValueRaw": {
+          "value": 32000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميكوتادزي، جيورج",
+            "bn": "মিকাউতাদজে, জর্জেস",
+            "hi": "मिकुटाड्ज़े, जॉर्जेस",
+            "ru": "Жорж Микаутадзе"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. ميكوتادزي",
+            "bn": "জি. মিকাউতাদজে",
+            "hi": "जी. मिकुटाड्ज़े",
+            "ru": "Ж. Микаутадзе"
+          }
+        }
+      },
+      "team": {
+        "name": "Villarreal",
+        "slug": "villarreal",
+        "shortName": "Villarreal",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 471524,
+        "nameCode": "VIL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2819,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#013765",
+          "text": "#013765"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فياريال",
+            "bn": "ভিলারিয়াল",
+            "hi": "विल्लारियल",
+            "ru": "Вильярреал"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 28,
+        "accuratePass": 25,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 1,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 20,
+        "totalOppositionHalfPasses": 23,
+        "aerialLost": 2,
+        "duelLost": 9,
+        "duelWon": 5,
+        "challengeLost": 1,
+        "dispossessed": 1,
+        "totalContest": 8,
+        "wonContest": 4,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 2,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 1,
+        "ballRecovery": 3,
+        "unsuccessfulTouch": 10,
+        "wasFouled": 1,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 54,
+        "rating": 6.2,
+        "possessionLostCtrl": 18,
+        "expectedGoals": 0.2206,
+        "expectedGoalsOnTarget": 0.2427,
+        "expectedAssists": 0.407669,
+        "totalBallCarriesDistance": 117.96698067422,
+        "ballCarriesCount": 14,
+        "totalProgression": 42.494542011701,
+        "bestBallCarryProgression": 17.74834123708,
+        "totalProgressiveBallCarriesDistance": 19.198656854061,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 6.2,
+          "alternative": 7.4
+        },
+        "totalShots": 4,
+        "shotValueNormalized": -0.23,
+        "passValueNormalized": 0.33,
+        "dribbleValueNormalized": 0.04,
+        "defensiveValueNormalized": 0.13,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  }
+}

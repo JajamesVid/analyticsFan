@@ -1,0 +1,132 @@
+{
+  "16421050": {
+    "id": 16421050,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786993200,
+      "slug": "elche-deportivo-de-la-coruna",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Matías Dituro",
+        "firstName": "Matias",
+        "lastName": "Dituro",
+        "slug": "matias-dituro",
+        "shortName": "M. Dituro",
+        "position": "G",
+        "jerseyNumber": "1",
+        "height": 191,
+        "userCount": 1016,
+        "gender": "M",
+        "sofascoreId": "gb7zei",
+        "id": 556884,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 547430400,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماتياس ديتورو",
+            "bn": "ম্যাথিয়াস ডিতুরো",
+            "hi": "मटियास डिटुरो",
+            "ru": "Матиас Дитуро"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديتورو",
+            "bn": "এম. ডিতুরো",
+            "hi": "एम. डिटुरो",
+            "ru": "М. Дитуро"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 121814,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 56,
+        "accuratePass": 40,
+        "totalLongBalls": 28,
+        "accurateLongBalls": 13,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 34,
+        "totalOwnHalfPasses": 39,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 17,
+        "ballRecovery": 6,
+        "errorLeadToAShot": 1,
+        "savedShotsFromInsideTheBox": 1,
+        "saves": 2,
+        "totalKeeperSweeper": 1,
+        "accurateKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 61,
+        "rating": 6.3,
+        "possessionLostCtrl": 16,
+        "expectedAssists": 0.00142859,
+        "totalBallCarriesDistance": 149.76988379485,
+        "ballCarriesCount": 24,
+        "totalProgression": 77.434066530708,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.0189,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "goalsPrevented": -0.7246,
+        "passValueNormalized": 0.09,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": -0.18,
+        "goalkeeperValueNormalized": -0.67,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "16421053": {
+    "id": 16421053,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 0
+      },
+      "startTimestamp": 1786899600,
+      "slug": "levante-ud-espanyol",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Clemens Riedel",
+        "slug": "clemens-riedel",
+        "shortName": "C. Riedel",
+        "position": "D",
+        "jerseyNumber": "5",
+        "height": 186,
+        "userCount": 396,
+        "gender": "M",
+        "sofascoreId": "sndmzs",
+        "id": 1129360,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1058572800,
+        "proposedMarketValueRaw": {
+          "value": 3900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كليمنس ريدل",
+            "bn": "ক্লেমেন্স রিডেল",
+            "hi": "क्लेमेंस रीडेल",
+            "ru": "Клеменс Ридель"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. ريدل",
+            "bn": "সি. রিডেল",
+            "hi": "सी. रीडेल",
+            "ru": "К. Ридель"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 188006,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 74,
+        "accuratePass": 60,
+        "totalLongBalls": 9,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 47,
+        "totalOwnHalfPasses": 53,
+        "accurateOppositionHalfPasses": 13,
+        "totalOppositionHalfPasses": 21,
+        "aerialLost": 1,
+        "aerialWon": 3,
+        "duelLost": 5,
+        "duelWon": 4,
+        "challengeLost": 1,
+        "totalClearance": 6,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "fouls": 3,
+        "minutesPlayed": 90,
+        "touches": 83,
+        "rating": 6.7,
+        "possessionLostCtrl": 15,
+        "expectedAssists": 0.012735,
+        "totalBallCarriesDistance": 151.72157970456,
+        "ballCarriesCount": 22,
+        "totalProgression": 91.105338294264,
+        "bestBallCarryProgression": 39.036033043634,
+        "totalProgressiveBallCarriesDistance": 43.028182810804,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.06,
+        "dribbleValueNormalized": 0.11,
+        "defensiveValueNormalized": -0.05,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

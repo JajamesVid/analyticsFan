@@ -1,0 +1,138 @@
+{
+  "16421050": {
+    "id": 16421050,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786993200,
+      "slug": "elche-deportivo-de-la-coruna",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Lucas Noubi",
+        "firstName": "Lucas Noubi",
+        "lastName": "",
+        "slug": "lucas-noubi",
+        "shortName": "L. Noubi",
+        "position": "D",
+        "jerseyNumber": "4",
+        "height": 184,
+        "userCount": 608,
+        "gender": "M",
+        "sofascoreId": "8j3cr2",
+        "id": 1127337,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1105747200,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "لوكاس نوبي",
+            "bn": "লুকাস নৌবি",
+            "hi": "लुकास नोउबी",
+            "ru": "Лукас Нуби"
+          },
+          "shortNameTranslation": {
+            "ar": "ل. نوبي",
+            "bn": "এল. নৌবি",
+            "hi": "एल. नोउबी",
+            "ru": "Л. Нуби"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo de A Coruña",
+        "slug": "deportivo-la-coruna",
+        "shortName": "Deportivo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 60869,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2832,
+        "teamColors": {
+          "primary": "#003399",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депортиво Ла-Корунья"
+          },
+          "shortNameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депорти́во"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 53,
+        "accuratePass": 44,
+        "totalLongBalls": 14,
+        "accurateLongBalls": 7,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 31,
+        "totalOwnHalfPasses": 35,
+        "accurateOppositionHalfPasses": 13,
+        "totalOppositionHalfPasses": 18,
+        "aerialLost": 4,
+        "aerialWon": 2,
+        "duelLost": 6,
+        "duelWon": 3,
+        "challengeLost": 1,
+        "totalClearance": 5,
+        "outfielderBlock": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 3,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 67,
+        "rating": 6.5,
+        "possessionLostCtrl": 11,
+        "expectedAssists": 0.0048827,
+        "totalBallCarriesDistance": 114.57098415313,
+        "ballCarriesCount": 16,
+        "totalProgression": 64.424078046638,
+        "bestBallCarryProgression": 25.580820103854,
+        "totalProgressiveBallCarriesDistance": 26.833308573488,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.09,
+        "dribbleValueNormalized": 0.05,
+        "defensiveValueNormalized": -0.11,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

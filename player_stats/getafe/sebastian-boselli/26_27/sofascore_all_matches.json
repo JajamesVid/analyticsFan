@@ -1,0 +1,122 @@
+{
+  "16421047": {
+    "id": 16421047,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 0
+      },
+      "startTimestamp": 1786815000,
+      "slug": "deportivo-alaves-getafe",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Sebastián Boselli",
+        "firstName": "Sebastian",
+        "lastName": "Boselli",
+        "slug": "sebastian-boselli",
+        "shortName": "S. Boselli",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 183,
+        "userCount": 1171,
+        "gender": "M",
+        "sofascoreId": "hitpdj",
+        "id": 1392092,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1070496000,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيباستيان بوسيلي",
+            "bn": "সেবাস্তিয়ান বোসেলি",
+            "hi": "सेबेस्टियन बोसेली",
+            "ru": "Себастьян Боселли"
+          },
+          "shortNameTranslation": {
+            "ar": "س. بوسيلي",
+            "bn": "এস. বোসেলি",
+            "hi": "एस. बोसेली",
+            "ru": "С. Боселли"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 206593,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 1,
+        "accuratePass": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "duelLost": 3,
+        "challengeLost": 2,
+        "dispossessed": 1,
+        "minutesPlayed": 9,
+        "touches": 3,
+        "rating": 5.8,
+        "possessionLostCtrl": 1,
+        "expectedAssists": 2.912e-05,
+        "totalBallCarriesDistance": 7.7324666827604,
+        "ballCarriesCount": 1,
+        "totalProgression": -2.8714066675733,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 5.8,
+          "alternative": 5.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0,
+        "dribbleValueNormalized": -0.04,
+        "defensiveValueNormalized": -0.45,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

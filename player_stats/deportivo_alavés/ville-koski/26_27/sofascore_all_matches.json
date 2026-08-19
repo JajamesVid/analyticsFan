@@ -1,0 +1,132 @@
+{
+  "16421047": {
+    "id": 16421047,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 0
+      },
+      "startTimestamp": 1786815000,
+      "slug": "deportivo-alaves-getafe",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ville Koski",
+        "slug": "koski-ville",
+        "shortName": "V. Koski",
+        "position": "D",
+        "jerseyNumber": "16",
+        "height": 185,
+        "userCount": 463,
+        "gender": "M",
+        "sofascoreId": "ce8z7d",
+        "id": 999178,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1012089600,
+        "proposedMarketValueRaw": {
+          "value": 1600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كوسكي، فيلي",
+            "bn": "কোস্কি, ভিলে",
+            "hi": "कोस्की, विले",
+            "ru": "Вилле Коски"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. كوسكي",
+            "bn": "ভি. কোস্কি",
+            "hi": "वी. कोस्की",
+            "ru": "В. Коски"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 157684,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 54,
+        "accuratePass": 49,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 40,
+        "totalOwnHalfPasses": 41,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 13,
+        "aerialLost": 2,
+        "aerialWon": 1,
+        "duelLost": 2,
+        "duelWon": 2,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalClearance": 3,
+        "minutesPlayed": 90,
+        "touches": 58,
+        "rating": 6.9,
+        "possessionLostCtrl": 5,
+        "expectedAssists": 0.00259061,
+        "totalBallCarriesDistance": 148.29282717622,
+        "ballCarriesCount": 16,
+        "totalProgression": 60.48603179551,
+        "bestBallCarryProgression": 21.885635330611,
+        "totalProgressiveBallCarriesDistance": 22.286573177588,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.04,
+        "dribbleValueNormalized": 0.03,
+        "defensiveValueNormalized": 0.17,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

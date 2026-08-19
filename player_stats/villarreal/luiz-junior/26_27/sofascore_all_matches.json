@@ -1,0 +1,131 @@
+{
+  "16421061": {
+    "id": 16421061,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "startTimestamp": 1786892400,
+      "slug": "real-racing-club-villarreal",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Luiz Júnior",
+        "firstName": "Luiz Lúcio Reis Júnior",
+        "lastName": "",
+        "slug": "luiz-junior",
+        "shortName": "L. Júnior",
+        "position": "G",
+        "jerseyNumber": "1",
+        "height": 192,
+        "userCount": 2769,
+        "gender": "M",
+        "sofascoreId": "vut8jy",
+        "id": 1066603,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 979430400,
+        "proposedMarketValueRaw": {
+          "value": 12400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "لويس جونيور",
+            "ru": "Луиз Жуниор"
+          },
+          "shortNameTranslation": {
+            "ar": "ل. جونيور",
+            "ru": "Л. Жуниор"
+          }
+        }
+      },
+      "team": {
+        "name": "Villarreal",
+        "slug": "villarreal",
+        "shortName": "Villarreal",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 471524,
+        "nameCode": "VIL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2819,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#013765",
+          "text": "#013765"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فياريال",
+            "bn": "ভিলারিয়াল",
+            "hi": "विल्लारियल",
+            "ru": "Вильярреал"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 20,
+        "accuratePass": 18,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 18,
+        "totalOwnHalfPasses": 19,
+        "totalOppositionHalfPasses": 1,
+        "aerialLost": 1,
+        "duelLost": 1,
+        "ballRecovery": 6,
+        "errorLeadToAShot": 1,
+        "goodHighClaim": 1,
+        "savedShotsFromInsideTheBox": 1,
+        "penaltyFaced": 1,
+        "saves": 3,
+        "totalKeeperSweeper": 3,
+        "accurateKeeperSweeper": 2,
+        "minutesPlayed": 90,
+        "touches": 28,
+        "rating": 5.9,
+        "possessionLostCtrl": 2,
+        "expectedAssists": 5.576e-05,
+        "totalBallCarriesDistance": 4.4268753088381,
+        "ballCarriesCount": 1,
+        "totalProgression": 2.7716913025961,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.0429,
+        "ratingVersions": {
+          "original": 5.9,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "goalsPrevented": -0.6088,
+        "passValueNormalized": 0.02,
+        "dribbleValueNormalized": -0.02,
+        "defensiveValueNormalized": -0.24,
+        "goalkeeperValueNormalized": -0.58,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  }
+}

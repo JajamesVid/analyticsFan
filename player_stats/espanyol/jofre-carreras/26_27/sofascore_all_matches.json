@@ -1,0 +1,124 @@
+{
+  "16421053": {
+    "id": 16421053,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 0
+      },
+      "startTimestamp": 1786899600,
+      "slug": "levante-ud-espanyol",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Jofre Carreras",
+        "slug": "jofre",
+        "shortName": "J. Carreras",
+        "position": "M",
+        "jerseyNumber": "17",
+        "height": 175,
+        "userCount": 370,
+        "gender": "M",
+        "sofascoreId": "q4a6vv",
+        "id": 1019236,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 992736000,
+        "proposedMarketValueRaw": {
+          "value": 2800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جوفري",
+            "bn": "জোফ্রে",
+            "hi": "जोफ़्रे",
+            "ru": "Хофре Каррерас"
+          },
+          "shortNameTranslation": {
+            "ar": "جوفري",
+            "bn": "জোফ্রে",
+            "hi": "जोफ़्रे",
+            "ru": "Х. Каррерас"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 188006,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 6,
+        "accuratePass": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 4,
+        "shotOffTarget": 1,
+        "minutesPlayed": 9,
+        "touches": 8,
+        "rating": 6.2,
+        "possessionLostCtrl": 2,
+        "expectedGoals": 0.1796,
+        "expectedAssists": 0.00065892,
+        "totalBallCarriesDistance": 22.099056104333,
+        "ballCarriesCount": 3,
+        "totalProgression": 6.5339088359742,
+        "bestBallCarryProgression": 6.9624686934475,
+        "totalProgressiveBallCarriesDistance": 12.396715855419,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.2,
+          "alternative": 6.7
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.59,
+        "passValueNormalized": -0.13,
+        "dribbleValueNormalized": 0.09,
+        "defensiveValueNormalized": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  }
+}

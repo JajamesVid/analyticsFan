@@ -1,0 +1,137 @@
+{
+  "16421052": {
+    "id": 16421052,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786822200,
+      "slug": "sevilla-rayo-vallecano",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Isaac Romero",
+        "firstName": "",
+        "lastName": "",
+        "slug": "romero-isaac",
+        "shortName": "I. Romero",
+        "position": "F",
+        "jerseyNumber": "16",
+        "height": 184,
+        "userCount": 1653,
+        "gender": "M",
+        "sofascoreId": "wrv3qg",
+        "id": 1018190,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 958608000,
+        "proposedMarketValueRaw": {
+          "value": 5200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "روميرو، إسحاق",
+            "bn": "রোমেরো, আইজ্যাক",
+            "hi": "रोमेरो, इसहाक",
+            "ru": "Исаак Ромеро"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. روميرو",
+            "bn": "আই. রোমেরো",
+            "hi": "आई. रोमेरो",
+            "ru": "И. Ромеро"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 410635,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 13,
+        "accuratePass": 8,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 10,
+        "totalCross": 1,
+        "aerialLost": 2,
+        "aerialWon": 3,
+        "duelLost": 5,
+        "duelWon": 3,
+        "dispossessed": 1,
+        "shotOffTarget": 2,
+        "ballRecovery": 1,
+        "unsuccessfulTouch": 4,
+        "fouls": 2,
+        "minutesPlayed": 45,
+        "touches": 23,
+        "rating": 6.3,
+        "possessionLostCtrl": 11,
+        "expectedGoals": 0.143,
+        "expectedAssists": 0.00714015,
+        "totalBallCarriesDistance": 45.259080602618,
+        "ballCarriesCount": 8,
+        "totalProgression": 25.2321688019,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.7
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.42,
+        "passValueNormalized": -0.09,
+        "dribbleValueNormalized": 0.15,
+        "defensiveValueNormalized": -0.02,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  }
+}

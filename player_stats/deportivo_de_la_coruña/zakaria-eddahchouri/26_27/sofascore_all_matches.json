@@ -1,0 +1,127 @@
+{
+  "16421050": {
+    "id": 16421050,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786993200,
+      "slug": "elche-deportivo-de-la-coruna",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Zakaria Eddahchouri",
+        "slug": "zakaria-eddahchouri",
+        "shortName": "Z. Eddahchouri",
+        "position": "F",
+        "jerseyNumber": "9",
+        "height": 187,
+        "userCount": 1203,
+        "gender": "M",
+        "sofascoreId": "g886ve",
+        "id": 979476,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 958003200,
+        "proposedMarketValueRaw": {
+          "value": 2400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "زاكريا الدحشوري",
+            "ru": "Закария Эддахаури"
+          },
+          "shortNameTranslation": {
+            "ar": "ز. الدحشوري",
+            "ru": "З. Эддахаури"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo de A Coruña",
+        "slug": "deportivo-la-coruna",
+        "shortName": "Deportivo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 60869,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2832,
+        "teamColors": {
+          "primary": "#003399",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депортиво Ла-Корунья"
+          },
+          "shortNameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депорти́во"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 9,
+        "accuratePass": 6,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 6,
+        "aerialLost": 1,
+        "duelLost": 4,
+        "duelWon": 3,
+        "dispossessed": 1,
+        "shotOffTarget": 1,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "wasFouled": 1,
+        "fouls": 2,
+        "minutesPlayed": 30,
+        "touches": 15,
+        "rating": 6.5,
+        "possessionLostCtrl": 4,
+        "expectedGoals": 0.0152,
+        "expectedAssists": 0.00414863,
+        "totalBallCarriesDistance": 13.960171452392,
+        "ballCarriesCount": 3,
+        "totalProgression": 1.3324802991467,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.6
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.12,
+        "passValueNormalized": 0.01,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  }
+}

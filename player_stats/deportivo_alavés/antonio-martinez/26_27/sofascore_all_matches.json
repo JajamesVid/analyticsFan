@@ -1,0 +1,143 @@
+{
+  "16421047": {
+    "id": 16421047,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 0
+      },
+      "startTimestamp": 1786815000,
+      "slug": "deportivo-alaves-getafe",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Toni Martínez",
+        "firstName": "Toni",
+        "lastName": "Martinez",
+        "slug": "toni-martinez",
+        "shortName": "T. Martínez",
+        "position": "F",
+        "jerseyNumber": "11",
+        "height": 180,
+        "userCount": 1903,
+        "gender": "M",
+        "sofascoreId": "cyycbg",
+        "id": 831253,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 867628800,
+        "proposedMarketValueRaw": {
+          "value": 7300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "توني مارتينيز",
+            "bn": "টনি মার্টিনেজ",
+            "hi": "टोनी मार्टिनेज",
+            "ru": "Тони Мартинес"
+          },
+          "shortNameTranslation": {
+            "ar": "ت. مارتينيز",
+            "bn": "টি. মার্টিনেজ",
+            "hi": "टी. मार्टिनेज",
+            "ru": "Т. Мартинес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 157684,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 13,
+        "accuratePass": 9,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 11,
+        "aerialLost": 4,
+        "aerialWon": 3,
+        "duelLost": 6,
+        "duelWon": 6,
+        "challengeLost": 2,
+        "bigChanceCreated": 2,
+        "shotOffTarget": 3,
+        "totalClearance": 3,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 4,
+        "wasFouled": 2,
+        "minutesPlayed": 90,
+        "touches": 27,
+        "rating": 6.7,
+        "possessionLostCtrl": 8,
+        "expectedGoals": 0.3202,
+        "expectedAssists": 0.012002,
+        "totalBallCarriesDistance": 54.954987426817,
+        "ballCarriesCount": 4,
+        "totalProgression": 31.282540353694,
+        "bestBallCarryProgression": 40.296994376754,
+        "totalProgressiveBallCarriesDistance": 42.424415800338,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 7.6
+        },
+        "totalShots": 3,
+        "shotValueNormalized": -0.53,
+        "passValueNormalized": -0.09,
+        "dribbleValueNormalized": 0.3,
+        "defensiveValueNormalized": -0.01,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  }
+}

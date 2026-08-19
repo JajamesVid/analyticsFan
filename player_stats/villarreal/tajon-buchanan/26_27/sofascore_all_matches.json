@@ -1,0 +1,134 @@
+{
+  "16421061": {
+    "id": 16421061,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "startTimestamp": 1786892400,
+      "slug": "real-racing-club-villarreal",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Tajon Buchanan",
+        "firstName": "",
+        "lastName": "",
+        "slug": "tajon-buchanan",
+        "shortName": "T. Buchanan",
+        "position": "M",
+        "jerseyNumber": "17",
+        "height": 183,
+        "userCount": 8323,
+        "gender": "M",
+        "sofascoreId": "ceeq9t",
+        "id": 973290,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 918432000,
+        "proposedMarketValueRaw": {
+          "value": 13000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "تاجون بوكانان",
+            "bn": "তাজন বুকানন",
+            "hi": "ताजोन बुकानन",
+            "ru": "Таджон Бьюкенен"
+          },
+          "shortNameTranslation": {
+            "ar": "ت. بوكانان",
+            "bn": "টি. বুকানন",
+            "hi": "टी. बुकानन",
+            "ru": "Т. Бьюкенен"
+          }
+        }
+      },
+      "team": {
+        "name": "Villarreal",
+        "slug": "villarreal",
+        "shortName": "Villarreal",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 471524,
+        "nameCode": "VIL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2819,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#013765",
+          "text": "#013765"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فياريال",
+            "bn": "ভিলারিয়াল",
+            "hi": "विल्लारियल",
+            "ru": "Вильярреал"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 11,
+        "accuratePass": 10,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 10,
+        "totalCross": 4,
+        "duelLost": 1,
+        "duelWon": 1,
+        "shotOffTarget": 1,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 3,
+        "fouls": 1,
+        "minutesPlayed": 34,
+        "touches": 22,
+        "rating": 6.3,
+        "possessionLostCtrl": 9,
+        "expectedGoals": 0.0764,
+        "expectedAssists": 0.0031782,
+        "totalBallCarriesDistance": 138.68361061065,
+        "ballCarriesCount": 11,
+        "totalProgression": 102.20337818819,
+        "bestBallCarryProgression": 31.491011060833,
+        "totalProgressiveBallCarriesDistance": 61.474820120273,
+        "progressiveBallCarriesCount": 2,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.8
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.18,
+        "passValueNormalized": -0.24,
+        "dribbleValueNormalized": 0.12,
+        "defensiveValueNormalized": 0.17,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  }
+}

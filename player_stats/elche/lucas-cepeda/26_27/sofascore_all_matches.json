@@ -1,0 +1,131 @@
+{
+  "16421050": {
+    "id": 16421050,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786993200,
+      "slug": "elche-deportivo-de-la-coruna",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Lucas Cepeda",
+        "firstName": "Lucas Cepeda",
+        "lastName": "",
+        "slug": "lucas-cepeda",
+        "shortName": "L. Cepeda",
+        "position": "M",
+        "jerseyNumber": "21",
+        "height": 177,
+        "userCount": 8667,
+        "gender": "M",
+        "sofascoreId": "iwvym8",
+        "id": 1126447,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1036022400,
+        "proposedMarketValueRaw": {
+          "value": 2600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "لوكاس سيبيدا",
+            "bn": "লুকাস সেপেদা",
+            "hi": "लुकास सेपेडा",
+            "ru": "Лукас Сепеда"
+          },
+          "shortNameTranslation": {
+            "ar": "ل. سيبيدا",
+            "bn": "এল. সেপেদা",
+            "hi": "एल. सेपेडा",
+            "ru": "Л. Сепеда"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 121814,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 19,
+        "accuratePass": 17,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 6,
+        "totalOwnHalfPasses": 6,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 13,
+        "totalCross": 1,
+        "duelLost": 1,
+        "dispossessed": 1,
+        "onTargetScoringAttempt": 1,
+        "interceptionWon": 1,
+        "minutesPlayed": 30,
+        "touches": 23,
+        "rating": 6.4,
+        "possessionLostCtrl": 4,
+        "expectedGoals": 0.0388,
+        "expectedGoalsOnTarget": 0.0175,
+        "expectedAssists": 0.00562997,
+        "totalBallCarriesDistance": 98.576639863161,
+        "ballCarriesCount": 14,
+        "totalProgression": 31.034048439508,
+        "bestBallCarryProgression": 19.055379173246,
+        "totalProgressiveBallCarriesDistance": 19.218396421138,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.7
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.16,
+        "passValueNormalized": -0.09,
+        "dribbleValueNormalized": 0.12,
+        "defensiveValueNormalized": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "16421047": {
+    "id": 16421047,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 0
+      },
+      "startTimestamp": 1786815000,
+      "slug": "deportivo-alaves-getafe",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Djené",
+        "slug": "djene",
+        "shortName": "Djené",
+        "position": "D",
+        "jerseyNumber": "2",
+        "height": 178,
+        "userCount": 3138,
+        "gender": "M",
+        "sofascoreId": "dhh9tf",
+        "id": 307702,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 694137600,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دجيني",
+            "bn": "জেনে",
+            "hi": "जेने",
+            "ru": "Дженэ"
+          },
+          "shortNameTranslation": {
+            "ar": "دجيني",
+            "bn": "জেন",
+            "hi": "जेने",
+            "ru": "Дженэ"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 206593,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 38,
+        "accuratePass": 33,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 19,
+        "totalOwnHalfPasses": 19,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 19,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "aerialLost": 1,
+        "aerialWon": 2,
+        "duelLost": 2,
+        "duelWon": 2,
+        "totalClearance": 4,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "unsuccessfulTouch": 1,
+        "fouls": 1,
+        "minutesPlayed": 81,
+        "touches": 46,
+        "rating": 6.5,
+        "possessionLostCtrl": 6,
+        "expectedAssists": 0.0507296,
+        "totalBallCarriesDistance": 108.77396065377,
+        "ballCarriesCount": 18,
+        "totalProgression": 56.725875639478,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.26,
+        "dribbleValueNormalized": 0.06,
+        "defensiveValueNormalized": -0.14,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

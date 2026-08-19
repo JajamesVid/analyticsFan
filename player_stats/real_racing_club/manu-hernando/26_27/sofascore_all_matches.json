@@ -1,0 +1,132 @@
+{
+  "16421061": {
+    "id": 16421061,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "startTimestamp": 1786892400,
+      "slug": "real-racing-club-villarreal",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Manu Hernando",
+        "firstName": "Manu",
+        "lastName": "Hernando",
+        "slug": "manu-hernando",
+        "shortName": "M. Hernando",
+        "position": "D",
+        "jerseyNumber": "4",
+        "height": 181,
+        "userCount": 130,
+        "gender": "M",
+        "sofascoreId": "qfm5cp",
+        "id": 851268,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 900806400,
+        "proposedMarketValueRaw": {
+          "value": 1400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مانو هيرناندو",
+            "ru": "Ману Эрнандо"
+          },
+          "shortNameTranslation": {
+            "ar": "م. هيرناندو",
+            "ru": "М. Эрнандо"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 64447,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينغ سانتاندير",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {
+            "ar": "راسينغ سانتاندير",
+            "ru": "Расинг"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 13,
+        "accuratePass": 11,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 8,
+        "totalOwnHalfPasses": 8,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 5,
+        "aerialWon": 2,
+        "duelWon": 4,
+        "shotOffTarget": 1,
+        "totalClearance": 10,
+        "outfielderBlock": 2,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 74,
+        "touches": 30,
+        "rating": 7,
+        "possessionLostCtrl": 2,
+        "expectedGoals": 0.0145,
+        "expectedAssists": 0.00156038,
+        "totalBallCarriesDistance": 44.554995492097,
+        "ballCarriesCount": 4,
+        "totalProgression": 25.085571193663,
+        "bestBallCarryProgression": 22.956790747567,
+        "totalProgressiveBallCarriesDistance": 23.452785676759,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 7.1
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.16,
+        "passValueNormalized": 0.03,
+        "dribbleValueNormalized": 0.04,
+        "defensiveValueNormalized": 0.41,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

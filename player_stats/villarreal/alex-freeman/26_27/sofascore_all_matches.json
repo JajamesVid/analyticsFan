@@ -1,0 +1,109 @@
+{
+  "16421061": {
+    "id": 16421061,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "startTimestamp": 1786892400,
+      "slug": "real-racing-club-villarreal",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Alexander Freeman",
+        "firstName": "Alexander Freeman",
+        "slug": "alexander-freeman",
+        "shortName": "A. Freeman",
+        "position": "D",
+        "jerseyNumber": "3",
+        "height": 188,
+        "userCount": 2004,
+        "gender": "M",
+        "sofascoreId": "kmthar",
+        "id": 1184541,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1092009600,
+        "proposedMarketValueRaw": {
+          "value": 9200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ألكس فريمان",
+            "ru": "Алекс Фримен"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. فريمان",
+            "ru": "А. Фримен"
+          }
+        }
+      },
+      "team": {
+        "name": "Villarreal",
+        "slug": "villarreal",
+        "shortName": "Villarreal",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 471524,
+        "nameCode": "VIL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2819,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#013765",
+          "text": "#013765"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فياريال",
+            "bn": "ভিলারিয়াল",
+            "hi": "विल्लारियल",
+            "ru": "Вильярреал"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 3,
+        "accuratePass": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 2,
+        "totalCross": 1,
+        "minutesPlayed": 2,
+        "touches": 5,
+        "possessionLostCtrl": 2,
+        "expectedAssists": 0.0003715,
+        "totalBallCarriesDistance": 9.061975998644,
+        "ballCarriesCount": 1,
+        "totalProgression": 6.9914475252801,
+        "progressiveBallCarriesCount": 0,
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

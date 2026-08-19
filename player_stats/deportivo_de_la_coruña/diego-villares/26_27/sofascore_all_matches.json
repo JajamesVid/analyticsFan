@@ -1,0 +1,129 @@
+{
+  "16421050": {
+    "id": 16421050,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786993200,
+      "slug": "elche-deportivo-de-la-coruna",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Diego Villares",
+        "firstName": "",
+        "lastName": "",
+        "slug": "diego-villares",
+        "shortName": "D. Villares",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 186,
+        "userCount": 136,
+        "gender": "M",
+        "sofascoreId": "kmmfru",
+        "id": 964849,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 837561600,
+        "proposedMarketValueRaw": {
+          "value": 1000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دييغو فيلاريس",
+            "ru": "Диего Вильярес"
+          },
+          "shortNameTranslation": {
+            "ar": "د. فيلاريس",
+            "ru": "Д. Вильярес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo de A Coruña",
+        "slug": "deportivo-la-coruna",
+        "shortName": "Deportivo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 60869,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2832,
+        "teamColors": {
+          "primary": "#003399",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депортиво Ла-Корунья"
+          },
+          "shortNameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депорти́во"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 31,
+        "accuratePass": 25,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 9,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 16,
+        "totalOppositionHalfPasses": 20,
+        "duelLost": 1,
+        "duelWon": 2,
+        "totalClearance": 2,
+        "ballRecovery": 3,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "fouls": 1,
+        "minutesPlayed": 30,
+        "touches": 38,
+        "rating": 6.6,
+        "possessionLostCtrl": 6,
+        "expectedAssists": 0.0043386,
+        "totalBallCarriesDistance": 55.851742710136,
+        "ballCarriesCount": 5,
+        "totalProgression": 39.447416776074,
+        "bestBallCarryProgression": 39.601796573559,
+        "totalProgressiveBallCarriesDistance": 41.00997971226,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.07,
+        "dribbleValueNormalized": 0.03,
+        "defensiveValueNormalized": 0.15,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

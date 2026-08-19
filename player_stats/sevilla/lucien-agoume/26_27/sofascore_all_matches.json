@@ -1,0 +1,137 @@
+{
+  "16421052": {
+    "id": 16421052,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786822200,
+      "slug": "sevilla-rayo-vallecano",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Lucien Agoumé",
+        "slug": "lucien-agoume",
+        "shortName": "L. Agoumé",
+        "position": "M",
+        "jerseyNumber": "6",
+        "height": 185,
+        "userCount": 2258,
+        "gender": "M",
+        "sofascoreId": "fpp2dd",
+        "id": 960006,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1013212800,
+        "proposedMarketValueRaw": {
+          "value": 15500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "لوسيان أغومي",
+            "bn": "লুসিয়েন অ্যাগোউম",
+            "hi": "लुसिएन अगौमे",
+            "ru": "Люсьен Агу́ме"
+          },
+          "shortNameTranslation": {
+            "ar": "ل. أغومي",
+            "bn": "এল. অ্যাগোউম",
+            "hi": "एल. अगौमे",
+            "ru": "Л. Агу́ме"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 410635,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 35,
+        "accuratePass": 25,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 13,
+        "totalOwnHalfPasses": 14,
+        "accurateOppositionHalfPasses": 12,
+        "totalOppositionHalfPasses": 21,
+        "totalCross": 2,
+        "accurateCross": 1,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 6,
+        "duelWon": 8,
+        "dispossessed": 2,
+        "totalClearance": 1,
+        "ballRecovery": 6,
+        "totalTackle": 4,
+        "wonTackle": 3,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 3,
+        "fouls": 3,
+        "minutesPlayed": 90,
+        "touches": 49,
+        "rating": 6.9,
+        "possessionLostCtrl": 14,
+        "expectedAssists": 0.16814,
+        "totalBallCarriesDistance": 97.490539106902,
+        "ballCarriesCount": 15,
+        "totalProgression": 40.520087155487,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.25,
+        "dribbleValueNormalized": 0.1,
+        "defensiveValueNormalized": -0.06,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

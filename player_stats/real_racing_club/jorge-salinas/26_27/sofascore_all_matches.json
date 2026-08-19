@@ -1,0 +1,137 @@
+{
+  "16421061": {
+    "id": 16421061,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "startTimestamp": 1786892400,
+      "slug": "real-racing-club-villarreal",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Jorge Salinas",
+        "firstName": "Jorge Salinas",
+        "slug": "jorge-salinas",
+        "shortName": "J. Salinas",
+        "position": "D",
+        "jerseyNumber": "17",
+        "height": 181,
+        "userCount": 1334,
+        "gender": "M",
+        "sofascoreId": "sxu2fd",
+        "id": 1861680,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1175558400,
+        "proposedMarketValueRaw": {
+          "value": 8500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خورخي ساليناس",
+            "ru": "Хорхе Салинас"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. ساليناس",
+            "ru": "Х. Салинас"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 64447,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينغ سانتاندير",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {
+            "ar": "راسينغ سانتاندير",
+            "ru": "Расинг"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 39,
+        "accuratePass": 31,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 16,
+        "totalOwnHalfPasses": 21,
+        "accurateOppositionHalfPasses": 15,
+        "totalOppositionHalfPasses": 18,
+        "totalCross": 1,
+        "aerialLost": 1,
+        "aerialWon": 2,
+        "duelLost": 8,
+        "duelWon": 9,
+        "challengeLost": 3,
+        "dispossessed": 1,
+        "totalContest": 4,
+        "wonContest": 1,
+        "totalClearance": 4,
+        "interceptionWon": 2,
+        "ballRecovery": 6,
+        "totalTackle": 5,
+        "wonTackle": 2,
+        "unsuccessfulTouch": 3,
+        "wasFouled": 1,
+        "penaltyWon": 1,
+        "minutesPlayed": 90,
+        "touches": 70,
+        "rating": 6.9,
+        "possessionLostCtrl": 18,
+        "expectedAssists": 0.130113,
+        "totalBallCarriesDistance": 52.53275726266,
+        "ballCarriesCount": 5,
+        "totalProgression": 21.779267847763,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.28,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": -0.4,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

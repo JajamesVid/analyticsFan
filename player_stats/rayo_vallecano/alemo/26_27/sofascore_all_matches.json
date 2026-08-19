@@ -1,0 +1,130 @@
+{
+  "16421052": {
+    "id": 16421052,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786822200,
+      "slug": "sevilla-rayo-vallecano",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Alemão",
+        "slug": "alemao",
+        "shortName": "Alemão",
+        "position": "F",
+        "jerseyNumber": "9",
+        "height": 182,
+        "userCount": 2448,
+        "gender": "M",
+        "sofascoreId": "q44bw3",
+        "id": 981604,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 891388800,
+        "proposedMarketValueRaw": {
+          "value": 4400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أليماو",
+            "ru": "Алеман"
+          },
+          "shortNameTranslation": {
+            "ar": "أليماو",
+            "ru": "Алеман"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 229344,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 5,
+        "accuratePass": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 3,
+        "aerialLost": 1,
+        "duelLost": 4,
+        "duelWon": 2,
+        "dispossessed": 1,
+        "bigChanceMissed": 1,
+        "onTargetScoringAttempt": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "fouls": 2,
+        "totalOffside": 1,
+        "minutesPlayed": 25,
+        "touches": 10,
+        "rating": 7,
+        "possessionLostCtrl": 2,
+        "expectedGoals": 0.1901,
+        "expectedGoalsOnTarget": 0.7259,
+        "expectedAssists": 0.00217459,
+        "totalBallCarriesDistance": 9.7823134341019,
+        "ballCarriesCount": 2,
+        "totalProgression": -8.4130611574051,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 6.4
+        },
+        "totalShots": 1,
+        "shotValueNormalized": 0.29,
+        "passValueNormalized": 0.06,
+        "dribbleValueNormalized": 0.1,
+        "defensiveValueNormalized": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  }
+}

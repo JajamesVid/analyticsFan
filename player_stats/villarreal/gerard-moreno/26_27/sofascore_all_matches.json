@@ -1,0 +1,134 @@
+{
+  "16421061": {
+    "id": 16421061,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "startTimestamp": 1786892400,
+      "slug": "real-racing-club-villarreal",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Gerard Moreno",
+        "firstName": "Gerard",
+        "lastName": "Moreno",
+        "slug": "gerard-moreno",
+        "shortName": "G. Moreno",
+        "position": "F",
+        "jerseyNumber": "7",
+        "height": 180,
+        "userCount": 4311,
+        "gender": "M",
+        "sofascoreId": "GerardMoreno9",
+        "id": 146866,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 702604800,
+        "proposedMarketValueRaw": {
+          "value": 2400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جيرارد مورينو",
+            "bn": "জেরার্ড মোরেনো",
+            "hi": "जेरार्ड मोरेनो",
+            "ru": "Жерар Морено"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. مورينو",
+            "bn": "জি.মোরেনো",
+            "hi": "जी. मोरेनो",
+            "ru": "Ж. Морено"
+          }
+        }
+      },
+      "team": {
+        "name": "Villarreal",
+        "slug": "villarreal",
+        "shortName": "Villarreal",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 471524,
+        "nameCode": "VIL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2819,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#013765",
+          "text": "#013765"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فياريال",
+            "bn": "ভিলারিয়াল",
+            "hi": "विल्लारियल",
+            "ru": "Вильярреал"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 19,
+        "accuratePass": 16,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 15,
+        "totalOppositionHalfPasses": 18,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "aerialWon": 1,
+        "duelLost": 2,
+        "duelWon": 4,
+        "dispossessed": 2,
+        "totalContest": 2,
+        "wonContest": 2,
+        "bigChanceCreated": 1,
+        "totalTackle": 1,
+        "minutesPlayed": 34,
+        "touches": 27,
+        "rating": 6.9,
+        "possessionLostCtrl": 6,
+        "expectedAssists": 0.151044,
+        "totalBallCarriesDistance": 79.769674489677,
+        "ballCarriesCount": 7,
+        "totalProgression": 29.879557334415,
+        "bestBallCarryProgression": 16.181592200337,
+        "totalProgressiveBallCarriesDistance": 17.364825395033,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 7.2
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.25,
+        "dribbleValueNormalized": -0.28,
+        "defensiveValueNormalized": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  }
+}

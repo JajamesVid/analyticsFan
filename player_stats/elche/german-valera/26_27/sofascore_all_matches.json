@@ -1,0 +1,140 @@
+{
+  "16421050": {
+    "id": 16421050,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786993200,
+      "slug": "elche-deportivo-de-la-coruna",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Germán Valera",
+        "firstName": "German",
+        "lastName": "Valera",
+        "slug": "german-valera",
+        "shortName": "G. Valera",
+        "position": "M",
+        "jerseyNumber": "11",
+        "height": 170,
+        "userCount": 968,
+        "gender": "M",
+        "sofascoreId": "dqq6u9",
+        "id": 962710,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1016236800,
+        "proposedMarketValueRaw": {
+          "value": 6200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فاليري جيرماين",
+            "bn": "জার্মান ভ্যালেরা",
+            "hi": "जर्मन वेलेरा",
+            "ru": "Герман Валера"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. جيرماين",
+            "bn": "ভি. জার্মেইন",
+            "hi": "वी. वेलेरा",
+            "ru": "Г. Валера"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 121814,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 35,
+        "accuratePass": 31,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 14,
+        "totalOwnHalfPasses": 15,
+        "accurateOppositionHalfPasses": 17,
+        "totalOppositionHalfPasses": 20,
+        "totalCross": 5,
+        "accurateCross": 2,
+        "duelLost": 3,
+        "duelWon": 6,
+        "dispossessed": 1,
+        "totalContest": 2,
+        "wonContest": 1,
+        "totalClearance": 2,
+        "ballRecovery": 4,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 4,
+        "fouls": 1,
+        "minutesPlayed": 81,
+        "touches": 55,
+        "rating": 7,
+        "possessionLostCtrl": 10,
+        "expectedAssists": 0.12549,
+        "totalBallCarriesDistance": 250.83239896342,
+        "ballCarriesCount": 22,
+        "totalProgression": 85.889746282003,
+        "bestBallCarryProgression": 19.110291723628,
+        "totalProgressiveBallCarriesDistance": 79.680581044596,
+        "progressiveBallCarriesCount": 4,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 7.2
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.16,
+        "dribbleValueNormalized": 0.23,
+        "defensiveValueNormalized": -0.15,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "16421061": {
+    "id": 16421061,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "startTimestamp": 1786892400,
+      "slug": "real-racing-club-villarreal",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Facundo González",
+        "slug": "facundo-gonzalez",
+        "shortName": "F. González",
+        "position": "D",
+        "jerseyNumber": "16",
+        "height": 193,
+        "userCount": 1417,
+        "gender": "M",
+        "sofascoreId": "iwm5rn",
+        "id": 1085103,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1054857600,
+        "proposedMarketValueRaw": {
+          "value": 3100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فاكوندو غونزاليس",
+            "bn": "ফ্যাকুন্ডো গঞ্জালেজ",
+            "hi": "फ़ाकंडो गोंजालेज़",
+            "ru": "Факундо Гонсалес"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. غونزاليس",
+            "bn": "এফ. গনজালেজ",
+            "hi": "एफ. गोंजालेज़",
+            "ru": "Ф. Гонсалес"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 64447,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينغ سانتاندير",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {
+            "ar": "راسينغ سانتاندير",
+            "ru": "Расинг"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 2,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "totalOppositionHalfPasses": 2,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 2,
+        "duelWon": 2,
+        "challengeLost": 1,
+        "totalClearance": 1,
+        "totalTackle": 1,
+        "minutesPlayed": 13,
+        "touches": 4,
+        "rating": 6.7,
+        "possessionLostCtrl": 2,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.05,
+        "defensiveValueNormalized": 0.15,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "16421050": {
+    "id": 16421050,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786993200,
+      "slug": "elche-deportivo-de-la-coruna",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Tete Morente",
+        "firstName": "Tete",
+        "lastName": "Morente",
+        "slug": "tete-morente",
+        "shortName": "T. Morente",
+        "position": "F",
+        "jerseyNumber": "20",
+        "height": 180,
+        "userCount": 465,
+        "gender": "M",
+        "sofascoreId": "puiqh7",
+        "id": 605374,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 849657600,
+        "proposedMarketValueRaw": {
+          "value": 1600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "تيتي مورينتي",
+            "bn": "টেটে, মোরেন্তে",
+            "hi": "टेटे मोरेंटे",
+            "ru": "Тете Моренте"
+          },
+          "shortNameTranslation": {
+            "ar": "ت. مورينتي",
+            "bn": "টি. মোরেন্তে",
+            "hi": "टी. मोरेंटे",
+            "ru": "Т. Моренте"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 121814,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 13,
+        "accuratePass": 10,
+        "totalLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 9,
+        "totalCross": 1,
+        "duelLost": 2,
+        "duelWon": 3,
+        "dispossessed": 1,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 2,
+        "fouls": 1,
+        "minutesPlayed": 30,
+        "touches": 23,
+        "rating": 6.6,
+        "possessionLostCtrl": 6,
+        "expectedAssists": 0.00519545,
+        "totalBallCarriesDistance": 51.21208253688,
+        "ballCarriesCount": 5,
+        "totalProgression": 26.189416448397,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.01,
+        "dribbleValueNormalized": 0.05,
+        "defensiveValueNormalized": 0.15,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  }
+}

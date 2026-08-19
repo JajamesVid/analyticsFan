@@ -1,0 +1,136 @@
+{
+  "16421050": {
+    "id": 16421050,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786993200,
+      "slug": "elche-deportivo-de-la-coruna",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Bil Nsongo",
+        "slug": "bil-nsongo",
+        "shortName": "B. Nsongo",
+        "position": "F",
+        "jerseyNumber": "32",
+        "height": 182,
+        "userCount": 551,
+        "gender": "M",
+        "sofascoreId": "he5umv",
+        "id": 2335487,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1095724800,
+        "proposedMarketValueRaw": {
+          "value": 3200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نسونغو، بيل",
+            "ru": "Нсонго, Бил"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. نسونغو",
+            "ru": "Б. Нсонго"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo de A Coruña",
+        "slug": "deportivo-la-coruna",
+        "shortName": "Deportivo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 60869,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2832,
+        "teamColors": {
+          "primary": "#003399",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депортиво Ла-Корунья"
+          },
+          "shortNameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депорти́во"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 11,
+        "accuratePass": 9,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 9,
+        "totalCross": 1,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 4,
+        "duelWon": 4,
+        "dispossessed": 2,
+        "onTargetScoringAttempt": 1,
+        "totalClearance": 1,
+        "ballRecovery": 3,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "fouls": 1,
+        "totalOffside": 1,
+        "minutesPlayed": 60,
+        "touches": 27,
+        "rating": 6.8,
+        "possessionLostCtrl": 7,
+        "expectedGoals": 0.0104,
+        "expectedGoalsOnTarget": 0.0093,
+        "expectedAssists": 0.00860236,
+        "totalBallCarriesDistance": 50.02600367367,
+        "ballCarriesCount": 8,
+        "totalProgression": 16.265561902812,
+        "bestBallCarryProgression": 13.164926276511,
+        "totalProgressiveBallCarriesDistance": 14.732275316461,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.9
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.01,
+        "passValueNormalized": -0.07,
+        "dribbleValueNormalized": 0.3,
+        "defensiveValueNormalized": 0.19,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

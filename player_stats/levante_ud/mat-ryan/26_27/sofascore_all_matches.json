@@ -1,0 +1,140 @@
+{
+  "16421053": {
+    "id": 16421053,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 0
+      },
+      "startTimestamp": 1786899600,
+      "slug": "levante-ud-espanyol",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Mathew Ryan",
+        "firstName": "Mathew",
+        "lastName": "Ryan",
+        "slug": "mathew-ryan",
+        "shortName": "M. Ryan",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 184,
+        "userCount": 2015,
+        "gender": "M",
+        "sofascoreId": "wsqbpk",
+        "id": 134029,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 702691200,
+        "proposedMarketValueRaw": {
+          "value": 1700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماثيو رايان",
+            "bn": "ম্যাথু রায়ান",
+            "hi": "मैथ्यू रयान",
+            "ru": "Мэтью Райан"
+          },
+          "shortNameTranslation": {
+            "ar": "م. رايان",
+            "bn": "এম. রায়ান",
+            "hi": "एम. रयान",
+            "ru": "М. Райан"
+          }
+        }
+      },
+      "team": {
+        "name": "Levante UD",
+        "slug": "levante-ud",
+        "shortName": "Levante",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 119601,
+        "nameCode": "LEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2849,
+        "teamColors": {
+          "primary": "#0e3b68",
+          "secondary": "#d70000",
+          "text": "#d70000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفانتي",
+            "hi": "लेवांटे यूडी",
+            "ru": "Леванте"
+          },
+          "shortNameTranslation": {
+            "ar": "ليفانتي",
+            "bn": "লেভান্তে",
+            "hi": "लेवांते"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 36,
+        "accuratePass": 28,
+        "totalLongBalls": 10,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 28,
+        "totalOwnHalfPasses": 32,
+        "totalOppositionHalfPasses": 4,
+        "duelWon": 1,
+        "totalClearance": 3,
+        "ballRecovery": 7,
+        "lastManTackle": 1,
+        "totalTackle": 1,
+        "errorLeadToAShot": 1,
+        "goodHighClaim": 1,
+        "savedShotsFromInsideTheBox": 2,
+        "saves": 3,
+        "punches": 1,
+        "totalKeeperSweeper": 2,
+        "accurateKeeperSweeper": 2,
+        "minutesPlayed": 90,
+        "touches": 51,
+        "rating": 6.7,
+        "possessionLostCtrl": 8,
+        "expectedAssists": 0.00014137,
+        "totalBallCarriesDistance": 56.088828229874,
+        "ballCarriesCount": 10,
+        "totalProgression": 14.594320328688,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.1324,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "goalsPrevented": -0.7259,
+        "passValueNormalized": -0.05,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": 0.22,
+        "goalkeeperValueNormalized": -0.02,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  }
+}

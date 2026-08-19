@@ -1,0 +1,132 @@
+{
+  "16421050": {
+    "id": 16421050,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786993200,
+      "slug": "elche-deportivo-de-la-coruna",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Buba Sangaré",
+        "firstName": "Buba Sangaré",
+        "slug": "sangare-buba",
+        "shortName": "B. Sangaré",
+        "position": "D",
+        "jerseyNumber": "2",
+        "height": 184,
+        "userCount": 1382,
+        "gender": "M",
+        "sofascoreId": "g8paum",
+        "id": 1542721,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1186358400,
+        "proposedMarketValueRaw": {
+          "value": 4400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بوبا سانغاري",
+            "ru": "Буба Сангаре"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. سانغاري",
+            "ru": "Б. Сангаре"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 121814,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 44,
+        "accuratePass": 41,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 19,
+        "totalOwnHalfPasses": 21,
+        "accurateOppositionHalfPasses": 22,
+        "totalOppositionHalfPasses": 23,
+        "totalCross": 1,
+        "aerialWon": 1,
+        "duelLost": 5,
+        "duelWon": 3,
+        "dispossessed": 1,
+        "totalContest": 2,
+        "totalClearance": 4,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "unsuccessfulTouch": 1,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 66,
+        "rating": 6.2,
+        "possessionLostCtrl": 8,
+        "expectedAssists": 0.0151419,
+        "totalBallCarriesDistance": 157.09052527633,
+        "ballCarriesCount": 15,
+        "totalProgression": 10.656005069498,
+        "bestBallCarryProgression": 29.047815751474,
+        "totalProgressiveBallCarriesDistance": 29.946232884956,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.2,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.08,
+        "dribbleValueNormalized": -0.26,
+        "defensiveValueNormalized": -0.16,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

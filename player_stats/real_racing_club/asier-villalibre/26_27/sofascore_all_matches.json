@@ -1,0 +1,136 @@
+{
+  "16421061": {
+    "id": 16421061,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "startTimestamp": 1786892400,
+      "slug": "real-racing-club-villarreal",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Asier Villalibre",
+        "firstName": "Asier",
+        "lastName": "Villalibre",
+        "slug": "asier-villalibre",
+        "shortName": "A. Villalibre",
+        "position": "F",
+        "jerseyNumber": "12",
+        "height": 183,
+        "userCount": 1067,
+        "gender": "M",
+        "sofascoreId": "85ifew",
+        "id": 355072,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 875577600,
+        "proposedMarketValueRaw": {
+          "value": 2100000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أسيير فيلاليبر",
+            "bn": "ভিলালিব্রে স্টিল",
+            "hi": "असियर विलालिब्रे",
+            "ru": "Асьер Вильяллибре"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. فيلاليبر",
+            "bn": "এ. ভিলালিব্রে",
+            "hi": "ए. विलालिब्रे",
+            "ru": "А. Вильяллибре"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Racing Club",
+        "slug": "racing-de-santander",
+        "shortName": "R. Racing Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 64447,
+        "nameCode": "SAN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2835,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#009933",
+          "text": "#009933"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "راسينغ سانتاندير",
+            "ru": "Расинг Сантандер"
+          },
+          "shortNameTranslation": {
+            "ar": "راسينغ سانتاندير",
+            "ru": "Расинг"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 9,
+        "accuratePass": 4,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 6,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 3,
+        "aerialLost": 1,
+        "aerialWon": 2,
+        "duelLost": 3,
+        "duelWon": 4,
+        "dispossessed": 2,
+        "shotOffTarget": 1,
+        "ballRecovery": 1,
+        "unsuccessfulTouch": 7,
+        "wasFouled": 2,
+        "minutesPlayed": 69,
+        "touches": 24,
+        "rating": 6.1,
+        "possessionLostCtrl": 14,
+        "expectedGoals": 0.1826,
+        "expectedAssists": 0.002589,
+        "totalBallCarriesDistance": 20.496927747675,
+        "ballCarriesCount": 2,
+        "totalProgression": 16.563409138966,
+        "bestBallCarryProgression": 9.8571595925079,
+        "totalProgressiveBallCarriesDistance": 13.786089946029,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.1,
+          "alternative": 6.5
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.53,
+        "passValueNormalized": -0.01,
+        "dribbleValueNormalized": 0.15,
+        "defensiveValueNormalized": 0.13,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  }
+}

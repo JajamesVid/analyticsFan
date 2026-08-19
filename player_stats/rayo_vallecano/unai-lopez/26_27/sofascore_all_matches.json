@@ -1,0 +1,136 @@
+{
+  "16421052": {
+    "id": 16421052,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786822200,
+      "slug": "sevilla-rayo-vallecano",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai López",
+        "firstName": "Unai",
+        "lastName": "Lopez",
+        "slug": "unai-lopez",
+        "shortName": "U. López",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 169,
+        "userCount": 680,
+        "gender": "M",
+        "sofascoreId": "dr3ebf",
+        "id": 588566,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 815011200,
+        "proposedMarketValueRaw": {
+          "value": 2600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي لوبيز",
+            "bn": "উনাই লোপেজ",
+            "hi": "उनाई लोपेज़",
+            "ru": "Унай Лопес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. لوبيز",
+            "bn": "ইউ. লোপেজ",
+            "hi": "यू. लोपेज़",
+            "ru": "У. Лопес"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 229344,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 34,
+        "accuratePass": 25,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 12,
+        "totalOwnHalfPasses": 15,
+        "accurateOppositionHalfPasses": 13,
+        "totalOppositionHalfPasses": 19,
+        "aerialWon": 4,
+        "duelLost": 5,
+        "duelWon": 8,
+        "challengeLost": 2,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalClearance": 2,
+        "outfielderBlock": 2,
+        "interceptionWon": 2,
+        "ballRecovery": 5,
+        "totalTackle": 2,
+        "wasFouled": 1,
+        "fouls": 3,
+        "minutesPlayed": 78,
+        "touches": 45,
+        "rating": 7,
+        "possessionLostCtrl": 9,
+        "expectedAssists": 0.00457103,
+        "totalBallCarriesDistance": 84.465041616895,
+        "ballCarriesCount": 10,
+        "totalProgression": 2.7804822366711,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.03,
+        "dribbleValueNormalized": 0.07,
+        "defensiveValueNormalized": -0.01,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

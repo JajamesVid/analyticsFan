@@ -1,0 +1,137 @@
+{
+  "16421053": {
+    "id": 16421053,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 0
+      },
+      "startTimestamp": 1786899600,
+      "slug": "levante-ud-espanyol",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Urko González",
+        "slug": "urko-gonzalez",
+        "shortName": "U. González",
+        "position": "M",
+        "jerseyNumber": "4",
+        "height": 189,
+        "userCount": 556,
+        "gender": "M",
+        "sofascoreId": "8jv2sg",
+        "id": 1064009,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 985046400,
+        "proposedMarketValueRaw": {
+          "value": 11600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوركو غونزاليس",
+            "bn": "উরকো গঞ্জালেজ",
+            "hi": "उरको गोंजालेज",
+            "ru": "Урко Гонсалес"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. غونزاليس",
+            "bn": "ইউ. গনজালেজ",
+            "hi": "यू. गोंजालेज",
+            "ru": "У. Гонсалес"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 188006,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 31,
+        "accuratePass": 27,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 13,
+        "totalOwnHalfPasses": 14,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 17,
+        "duelLost": 2,
+        "duelWon": 3,
+        "challengeLost": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalClearance": 2,
+        "interceptionWon": 2,
+        "ballRecovery": 6,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 72,
+        "touches": 39,
+        "rating": 6.9,
+        "possessionLostCtrl": 5,
+        "expectedAssists": 0.0196144,
+        "totalBallCarriesDistance": 132.52513455624,
+        "ballCarriesCount": 15,
+        "totalProgression": 52.639373141054,
+        "bestBallCarryProgression": 29.902408664437,
+        "totalProgressiveBallCarriesDistance": 31.292440764504,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.04,
+        "dribbleValueNormalized": 0.21,
+        "defensiveValueNormalized": 0.13,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

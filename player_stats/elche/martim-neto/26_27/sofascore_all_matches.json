@@ -1,0 +1,133 @@
+{
+  "16421050": {
+    "id": 16421050,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786993200,
+      "slug": "elche-deportivo-de-la-coruna",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Martim Neto",
+        "firstName": "Martim",
+        "lastName": "Neto",
+        "slug": "martim-neto",
+        "shortName": "M. Neto",
+        "position": "M",
+        "jerseyNumber": "16",
+        "height": 185,
+        "userCount": 867,
+        "gender": "M",
+        "sofascoreId": "fpadh3",
+        "id": 1100646,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1042502400,
+        "proposedMarketValueRaw": {
+          "value": 3800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نيتو، مارتيم",
+            "bn": "নেটো, মার্টিম",
+            "hi": "नेटो, मार्टिम",
+            "ru": "Мартим Нето"
+          },
+          "shortNameTranslation": {
+            "ar": "م. نيتو",
+            "bn": "এম. নেটো",
+            "hi": "एम. नेटो",
+            "ru": "М. Нето"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 121814,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 24,
+        "accuratePass": 23,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 18,
+        "totalOppositionHalfPasses": 19,
+        "totalCross": 2,
+        "accurateCross": 1,
+        "duelLost": 4,
+        "duelWon": 2,
+        "dispossessed": 2,
+        "totalContest": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 60,
+        "touches": 33,
+        "rating": 6.4,
+        "possessionLostCtrl": 5,
+        "expectedAssists": 0.103555,
+        "totalBallCarriesDistance": 55.843411405756,
+        "ballCarriesCount": 8,
+        "totalProgression": 14.036486632119,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.09,
+        "dribbleValueNormalized": -0.18,
+        "defensiveValueNormalized": -0.06,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

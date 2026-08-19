@@ -1,0 +1,115 @@
+{
+  "16421050": {
+    "id": 16421050,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786993200,
+      "slug": "elche-deportivo-de-la-coruna",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kevin Sánchez",
+        "firstName": "Kevin",
+        "lastName": "Sánchez",
+        "slug": "kevin-sanchez",
+        "shortName": "K. Sánchez",
+        "position": "M",
+        "jerseyNumber": "33",
+        "height": 169,
+        "userCount": 109,
+        "gender": "M",
+        "sofascoreId": "fp3tcg",
+        "id": 1604230,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1108857600,
+        "proposedMarketValueRaw": {
+          "value": 380000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيفن سانشيز",
+            "ru": "Кевин Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سانشيز",
+            "ru": "К. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo de A Coruña",
+        "slug": "deportivo-la-coruna",
+        "shortName": "Deportivo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 60869,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2832,
+        "teamColors": {
+          "primary": "#003399",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депортиво Ла-Корунья"
+          },
+          "shortNameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депорти́во"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 1,
+        "goalAssist": 0,
+        "totalOppositionHalfPasses": 1,
+        "minutesPlayed": 12,
+        "touches": 1,
+        "rating": 6.5,
+        "possessionLostCtrl": 1,
+        "totalBallCarriesDistance": 8.3449913720746,
+        "ballCarriesCount": 1,
+        "totalProgression": 7.3671671075897,
+        "bestBallCarryProgression": 7.3671671075897,
+        "totalProgressiveBallCarriesDistance": 8.3449913720746,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.05,
+        "dribbleValueNormalized": 0.06,
+        "defensiveValueNormalized": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  }
+}

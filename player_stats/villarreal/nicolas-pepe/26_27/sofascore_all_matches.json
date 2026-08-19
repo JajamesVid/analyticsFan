@@ -1,0 +1,143 @@
+{
+  "16421061": {
+    "id": 16421061,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "startTimestamp": 1786892400,
+      "slug": "real-racing-club-villarreal",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Nicolas Pépé",
+        "firstName": "Nicolas",
+        "lastName": "Pepe",
+        "slug": "nicolas-pepe",
+        "shortName": "N. Pépé",
+        "position": "F",
+        "jerseyNumber": "19",
+        "height": 183,
+        "userCount": 16693,
+        "gender": "M",
+        "sofascoreId": "nicolas_pepe19",
+        "id": 593526,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 801705600,
+        "proposedMarketValueRaw": {
+          "value": 6600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نيكولاس بيبي",
+            "bn": "নিকোলাস পেপে",
+            "hi": "निकोलस पेपे",
+            "ru": "Николя Пепе"
+          },
+          "shortNameTranslation": {
+            "ar": "ن. بيبي",
+            "bn": "এন. পেপে",
+            "hi": "एन. पेपे",
+            "ru": "Н. Пепе"
+          }
+        }
+      },
+      "team": {
+        "name": "Villarreal",
+        "slug": "villarreal",
+        "shortName": "Villarreal",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 471524,
+        "nameCode": "VIL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2819,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#013765",
+          "text": "#013765"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فياريال",
+            "bn": "ভিলারিয়াল",
+            "hi": "विल्लारियल",
+            "ru": "Вильярреал"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 38,
+        "accuratePass": 33,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 31,
+        "totalOppositionHalfPasses": 34,
+        "totalCross": 3,
+        "accurateCross": 2,
+        "aerialWon": 1,
+        "duelLost": 5,
+        "duelWon": 7,
+        "dispossessed": 3,
+        "totalContest": 6,
+        "wonContest": 4,
+        "onTargetScoringAttempt": 2,
+        "goals": 1,
+        "ballRecovery": 5,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 7,
+        "wasFouled": 1,
+        "minutesPlayed": 77,
+        "touches": 66,
+        "rating": 7.8,
+        "possessionLostCtrl": 18,
+        "expectedGoals": 0.0802,
+        "expectedGoalsOnTarget": 0.8199,
+        "expectedAssists": 0.232017,
+        "totalBallCarriesDistance": 139.71079981508,
+        "ballCarriesCount": 17,
+        "totalProgression": 25.072348891095,
+        "bestBallCarryProgression": 8.7468256306971,
+        "totalProgressiveBallCarriesDistance": 28.559338468069,
+        "progressiveBallCarriesCount": 3,
+        "ratingVersions": {
+          "original": 7.8,
+          "alternative": 7.8
+        },
+        "totalShots": 2,
+        "shotValueNormalized": 0.51,
+        "passValueNormalized": 0.19,
+        "dribbleValueNormalized": 0.13,
+        "defensiveValueNormalized": -0.13,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

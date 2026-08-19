@@ -1,0 +1,134 @@
+{
+  "16421052": {
+    "id": 16421052,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786822200,
+      "slug": "sevilla-rayo-vallecano",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Óscar Valentín",
+        "firstName": "",
+        "lastName": "",
+        "slug": "oscar-valentin",
+        "shortName": "Ó. Valentín",
+        "position": "M",
+        "jerseyNumber": "23",
+        "height": 177,
+        "userCount": 603,
+        "gender": "M",
+        "sofascoreId": "eesbb8",
+        "id": 900008,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 777340800,
+        "proposedMarketValueRaw": {
+          "value": 1900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوسكار فالنتين",
+            "bn": "অস্কার ভ্যালেন্টিন",
+            "hi": "ऑस्कर वैलेंटाइन",
+            "ru": "Оскар Валентин"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. فالنتين",
+            "bn": "ও.ভ্যালেন্টিন",
+            "hi": "ओ. वैलेंटाइन",
+            "ru": "О. Валентин"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 229344,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 22,
+        "accuratePass": 15,
+        "totalLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 11,
+        "totalOwnHalfPasses": 14,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 8,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 3,
+        "totalClearance": 6,
+        "outfielderBlock": 1,
+        "interceptionWon": 2,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "wasFouled": 1,
+        "fouls": 2,
+        "minutesPlayed": 78,
+        "touches": 36,
+        "rating": 6.6,
+        "possessionLostCtrl": 7,
+        "expectedAssists": 0.00271667,
+        "totalBallCarriesDistance": 25.79196027997,
+        "ballCarriesCount": 4,
+        "totalProgression": -9.6035890853848,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.01,
+        "dribbleValueNormalized": -0.02,
+        "defensiveValueNormalized": 0.2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

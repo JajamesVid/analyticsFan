@@ -1,0 +1,136 @@
+{
+  "16421050": {
+    "id": 16421050,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786993200,
+      "slug": "elche-deportivo-de-la-coruna",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Víctor Chust",
+        "firstName": "Victor",
+        "lastName": "Chust",
+        "slug": "victor-chust",
+        "shortName": "V. Chust",
+        "position": "D",
+        "jerseyNumber": "23",
+        "height": 182,
+        "userCount": 681,
+        "gender": "M",
+        "sofascoreId": "xujiht",
+        "id": 855831,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 952214400,
+        "proposedMarketValueRaw": {
+          "value": 3700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيكتور شوست",
+            "bn": "ভিক্টর চাস্ট",
+            "hi": "विक्टर चस्ट",
+            "ru": "Виктор Чуст"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. شوست",
+            "bn": "ভি. চাস্ট",
+            "hi": "वी. चस्ट",
+            "ru": "В. Чуст"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 121814,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 80,
+        "accuratePass": 73,
+        "totalLongBalls": 9,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 49,
+        "totalOwnHalfPasses": 51,
+        "accurateOppositionHalfPasses": 24,
+        "totalOppositionHalfPasses": 29,
+        "totalCross": 3,
+        "accurateCross": 1,
+        "aerialLost": 1,
+        "aerialWon": 2,
+        "duelLost": 1,
+        "duelWon": 4,
+        "totalClearance": 6,
+        "interceptionWon": 1,
+        "ballRecovery": 6,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 90,
+        "touches": 96,
+        "rating": 7,
+        "possessionLostCtrl": 11,
+        "expectedAssists": 0.10471,
+        "totalBallCarriesDistance": 265.23171769324,
+        "ballCarriesCount": 33,
+        "totalProgression": 56.147011234708,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 7.1
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.2,
+        "dribbleValueNormalized": 0.07,
+        "defensiveValueNormalized": -0.11,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

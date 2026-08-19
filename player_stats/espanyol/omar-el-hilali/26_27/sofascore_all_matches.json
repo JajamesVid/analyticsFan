@@ -1,0 +1,134 @@
+{
+  "16421053": {
+    "id": 16421053,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 0
+      },
+      "startTimestamp": 1786899600,
+      "slug": "levante-ud-espanyol",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Omar El Hilali",
+        "slug": "omar-el-hilali",
+        "shortName": "O. E. Hilali",
+        "position": "D",
+        "jerseyNumber": "23",
+        "height": 183,
+        "userCount": 7832,
+        "gender": "M",
+        "sofascoreId": "tdqr7h",
+        "id": 1064026,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1063324800,
+        "proposedMarketValueRaw": {
+          "value": 15900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "عمر الهلالي",
+            "bn": "ওমর এল হিলালী",
+            "hi": "उमर अल हिलाली",
+            "ru": "Омар Эль Хилали"
+          },
+          "shortNameTranslation": {
+            "ar": "ع. الهلالي",
+            "bn": "ও. ই. হিলালী",
+            "hi": "ओ.ई. हिलाली",
+            "ru": "О. Хилали"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 188006,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 31,
+        "accuratePass": 26,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 18,
+        "totalOwnHalfPasses": 20,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 11,
+        "totalCross": 4,
+        "accurateCross": 1,
+        "aerialLost": 2,
+        "aerialWon": 2,
+        "duelLost": 4,
+        "duelWon": 3,
+        "totalClearance": 4,
+        "interceptionWon": 2,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 3,
+        "fouls": 2,
+        "totalOffside": 1,
+        "minutesPlayed": 90,
+        "touches": 59,
+        "rating": 6.7,
+        "possessionLostCtrl": 11,
+        "expectedAssists": 0.0066421,
+        "totalBallCarriesDistance": 76.059663448729,
+        "ballCarriesCount": 9,
+        "totalProgression": 38.561529460796,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 7
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.16,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": 0.22,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

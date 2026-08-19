@@ -1,0 +1,125 @@
+[
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Espanyol",
+        "abreviatura": "ESP",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
+      },
+      "visitante": {
+        "nombre": "Levante",
+        "abreviatura": "LEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/10.png"
+      }
+    },
+    "resultado": "3-0",
+    "fecha": "2026-08-16",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22425-espanyol-levante",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 16421053,
+      "match_info": {
+        "homeTeam": {
+          "name": "Espanyol",
+          "shortName": "Espanyol",
+          "color": "#ffffff",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Levante UD",
+          "shortName": "Levante",
+          "color": "#0e3b68",
+          "score": 0
+        },
+        "startTimestamp": 1786899600,
+        "slug": "levante-ud-espanyol",
+        "season": "26/27"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Angel Fortuno",
+          "firstName": "Angel",
+          "lastName": "Fortuno",
+          "slug": "angel-fortuno",
+          "shortName": "A. Fortuno",
+          "position": "G",
+          "jerseyNumber": "1",
+          "height": 183,
+          "userCount": 132,
+          "gender": "M",
+          "sofascoreId": "wr35ae",
+          "id": 1082734,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 978307200,
+          "proposedMarketValueRaw": {
+            "value": 290000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فورتونو، أنخيل",
+              "bn": "ফরচুনো, অ্যাঞ্জেল",
+              "hi": "फ़ोर्टुनो, एंजेल",
+              "ru": "Анхель Фортунo"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. فورتونو",
+              "bn": "এ. ফরচুনো",
+              "hi": "ए. फ़ोर्टुनो",
+              "ru": "А. Фортунo"
+            }
+          }
+        },
+        "team": {
+          "name": "Espanyol",
+          "slug": "espanyol",
+          "shortName": "Espanyol",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 188006,
+          "nameCode": "ESP",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2814,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#1369d2",
+            "text": "#1369d2"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "اسبانيول",
+              "bn": "এসপানিওল",
+              "hi": "एस्पेनयोल",
+              "ru": "Эспаньол"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  }
+]

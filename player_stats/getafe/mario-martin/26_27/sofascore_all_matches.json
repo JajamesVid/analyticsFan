@@ -1,0 +1,129 @@
+{
+  "16421047": {
+    "id": 16421047,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 0
+      },
+      "startTimestamp": 1786815000,
+      "slug": "deportivo-alaves-getafe",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Mario Martín",
+        "slug": "martin-mario",
+        "shortName": "M. Martín",
+        "position": "M",
+        "jerseyNumber": "6",
+        "height": 177,
+        "userCount": 22505,
+        "gender": "M",
+        "sofascoreId": "cem4nz",
+        "id": 1154549,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1078444800,
+        "proposedMarketValueRaw": {
+          "value": 10700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مارتن، ماريو",
+            "bn": "মার্টিন, মারিও",
+            "hi": "मार्टिन, मारियो",
+            "ru": "Марио Мартин"
+          },
+          "shortNameTranslation": {
+            "ar": "م. مارتن",
+            "bn": "এম. মার্টিন",
+            "hi": "एम. मार्टिन",
+            "ru": "М. Мартин"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 206593,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 22,
+        "accuratePass": 20,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 8,
+        "totalOwnHalfPasses": 10,
+        "accurateOppositionHalfPasses": 12,
+        "totalOppositionHalfPasses": 12,
+        "totalCross": 1,
+        "aerialLost": 4,
+        "duelLost": 6,
+        "duelWon": 5,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "wasFouled": 4,
+        "fouls": 2,
+        "minutesPlayed": 66,
+        "touches": 28,
+        "rating": 6.8,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 0.0522909,
+        "totalBallCarriesDistance": 32.31080025773,
+        "ballCarriesCount": 6,
+        "totalProgression": 7.0343655837164,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.1,
+        "dribbleValueNormalized": 0.06,
+        "defensiveValueNormalized": 0.14,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

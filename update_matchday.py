@@ -117,13 +117,13 @@ def update_team_stats(session, team_name, team_id):
         events = resp.json().get("events", [])
     except Exception as e:
         print(f"  ❌ Error: {e}")
-        return
+        return False
 
     events = filter_last_matchday(events, team_id)
 
     if not events:
         print(f"  ⏭ Sin partidos de LaLiga")
-        return
+        return False
 
     event = events[0]
     event_id = str(event["id"])
@@ -142,7 +142,7 @@ def update_team_stats(session, team_name, team_id):
 
     if event_id in existing:
         print(f"  ⏭ Sin eventos nuevos")
-        return
+        return False
 
     print(f"  → 1 evento nuevo ({season_year})")
 
@@ -151,7 +151,7 @@ def update_team_stats(session, team_name, team_id):
         raw_stats = resp.json()
     except Exception as e:
         print(f"  ❌ Error stats {event_id}: {e}")
-        return
+        return False
 
     home = event.get("homeTeam", {})
     away = event.get("awayTeam", {})
@@ -187,6 +187,8 @@ def update_team_stats(session, team_name, team_id):
     os.makedirs(team_folder, exist_ok=True)
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(existing, f, indent=2, ensure_ascii=False)
+
+    return True
 
 
 def update_player_stats(session, player_name, player_id, team_name, team_id):
@@ -392,8 +394,12 @@ if __name__ == "__main__":
         print(f"{'='*50}")
 
         print(f"\n🟢 Stats de equipo")
-        update_team_stats(session, team_name, team_id)
+        team_has_new_event = update_team_stats(session, team_name, team_id)
         sleep()
+
+        if not team_has_new_event:
+            print(f"  ⏭ El equipo no tiene partido nuevo, se salta a los jugadores")
+            continue
 
         print(f"\n🔵 Jugadores ({len(players)})")
         for player in players:

@@ -1,0 +1,142 @@
+{
+  "16421047": {
+    "id": 16421047,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 0
+      },
+      "startTimestamp": 1786815000,
+      "slug": "deportivo-alaves-getafe",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Mariano Díaz",
+        "slug": "mariano-diaz",
+        "shortName": "M. Díaz",
+        "position": "F",
+        "jerseyNumber": "9",
+        "height": 180,
+        "userCount": 5148,
+        "gender": "M",
+        "sofascoreId": "8sggfw",
+        "id": 175753,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 744163200,
+        "proposedMarketValueRaw": {
+          "value": 285000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماريانو دياث",
+            "bn": "মারিয়ানো দিয়াজ",
+            "hi": "मारियानो डिआज़",
+            "ru": "Мариано Диас"
+          },
+          "shortNameTranslation": {
+            "ar": "م. دياث",
+            "bn": "এম. দিয়াজ",
+            "hi": "एम. डिआज़",
+            "ru": "М. Диас"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo Alavés",
+        "slug": "deportivo-alaves",
+        "shortName": "Alavés",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 157684,
+        "nameCode": "ALA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2885,
+        "teamColors": {
+          "primary": "#0232a0",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو ألافيس",
+            "ru": "Алавес"
+          },
+          "shortNameTranslation": {
+            "ar": "ألافيس",
+            "bn": "আলাভেস",
+            "hi": "अलावेस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 7,
+        "accuratePass": 3,
+        "goalAssist": 2,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 6,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "aerialWon": 1,
+        "duelLost": 2,
+        "duelWon": 3,
+        "dispossessed": 1,
+        "totalContest": 3,
+        "wonContest": 2,
+        "bigChanceCreated": 1,
+        "onTargetScoringAttempt": 2,
+        "blockedScoringAttempt": 1,
+        "goals": 1,
+        "totalClearance": 1,
+        "outfielderBlock": 1,
+        "ballRecovery": 3,
+        "totalOffside": 2,
+        "minutesPlayed": 33,
+        "touches": 18,
+        "rating": 9.2,
+        "possessionLostCtrl": 6,
+        "expectedGoals": 0.185,
+        "expectedGoalsOnTarget": 0.8328,
+        "expectedAssists": 0.227541,
+        "totalBallCarriesDistance": 94.419849650119,
+        "ballCarriesCount": 6,
+        "totalProgression": 87.888886502583,
+        "bestBallCarryProgression": 32.797282745203,
+        "totalProgressiveBallCarriesDistance": 60.720592792302,
+        "progressiveBallCarriesCount": 2,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 9.2,
+          "alternative": 8.8
+        },
+        "totalShots": 3,
+        "shotValueNormalized": 0.5,
+        "passValueNormalized": 0.76,
+        "dribbleValueNormalized": 0.17,
+        "defensiveValueNormalized": 0.16,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  }
+}

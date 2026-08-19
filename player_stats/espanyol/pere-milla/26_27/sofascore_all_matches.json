@@ -1,0 +1,128 @@
+{
+  "16421053": {
+    "id": 16421053,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 0
+      },
+      "startTimestamp": 1786899600,
+      "slug": "levante-ud-espanyol",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pere Milla",
+        "firstName": "Pere",
+        "lastName": "Milla",
+        "slug": "pere-milla",
+        "shortName": "P. Milla",
+        "position": "M",
+        "jerseyNumber": "11",
+        "height": 179,
+        "userCount": 872,
+        "gender": "M",
+        "sofascoreId": "kue53j",
+        "id": 175185,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 717206400,
+        "proposedMarketValueRaw": {
+          "value": 965000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيري ميلا",
+            "bn": "পেরে মিল্লা",
+            "hi": "पेरे मिल्ला",
+            "ru": "Пере Мийя"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. ميلا",
+            "bn": "পি. মিল্লা",
+            "hi": "पी. मिल्ला",
+            "ru": "П. Мийя"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 188006,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 3,
+        "accuratePass": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 3,
+        "totalOppositionHalfPasses": 0,
+        "totalCross": 1,
+        "duelWon": 2,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalClearance": 1,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "minutesPlayed": 8,
+        "touches": 7,
+        "rating": 6.8,
+        "possessionLostCtrl": 1,
+        "expectedAssists": 3.12e-05,
+        "totalBallCarriesDistance": 16.167492146104,
+        "ballCarriesCount": 2,
+        "totalProgression": 7.9555923247781,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.02,
+        "dribbleValueNormalized": 0.08,
+        "defensiveValueNormalized": 0.17,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

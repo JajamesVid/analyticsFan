@@ -1,0 +1,96 @@
+{
+  "16421061": {
+    "id": 16421061,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "startTimestamp": 1786892400,
+      "slug": "real-racing-club-villarreal",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Sergi Cardona",
+        "slug": "sergi-cardona",
+        "shortName": "S. Cardona",
+        "position": "D",
+        "jerseyNumber": "23",
+        "height": 186,
+        "userCount": 1175,
+        "gender": "M",
+        "sofascoreId": "zbqp2h",
+        "id": 986245,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 931392000,
+        "proposedMarketValueRaw": {
+          "value": 8600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيرجي كاردونا",
+            "bn": "সার্জি কার্ডোনা",
+            "hi": "सर्जी कार्डोना",
+            "ru": "Серги Кардона"
+          },
+          "shortNameTranslation": {
+            "ar": "س. كاردونا",
+            "bn": "এস. কার্ডোনা",
+            "hi": "एस. कार्डोना",
+            "ru": "С. Кардона"
+          }
+        }
+      },
+      "team": {
+        "name": "Villarreal",
+        "slug": "villarreal",
+        "shortName": "Villarreal",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 471524,
+        "nameCode": "VIL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2819,
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#013765",
+          "text": "#013765"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فياريال",
+            "bn": "ভিলারিয়াল",
+            "hi": "विल्लारियल",
+            "ru": "Вильярреал"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

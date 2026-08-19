@@ -1,0 +1,124 @@
+{
+  "16421052": {
+    "id": 16421052,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786822200,
+      "slug": "sevilla-rayo-vallecano",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Chidera Ejuke",
+        "firstName": "",
+        "lastName": "",
+        "slug": "chidera-ejuke",
+        "shortName": "C. Ejuke",
+        "position": "F",
+        "jerseyNumber": "21",
+        "height": 176,
+        "userCount": 3327,
+        "gender": "M",
+        "sofascoreId": "nu2ycx",
+        "id": 875890,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 883699200,
+        "proposedMarketValueRaw": {
+          "value": 3700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "تشيديرا إيجوكي",
+            "bn": "চিদের এজুকে",
+            "hi": "चिडेरा एजुके",
+            "ru": "Чидера Эджук"
+          },
+          "shortNameTranslation": {
+            "ar": "ت. إيجوكي",
+            "bn": "সি. এজুকে",
+            "hi": "सी. एजुके",
+            "ru": "Ч. Эджук"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 410635,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "goalAssist": 0,
+        "totalOppositionHalfPasses": 0,
+        "totalCross": 1,
+        "duelLost": 1,
+        "totalContest": 1,
+        "ballRecovery": 2,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 12,
+        "touches": 3,
+        "rating": 6.5,
+        "possessionLostCtrl": 3,
+        "totalBallCarriesDistance": 82.316748586895,
+        "ballCarriesCount": 3,
+        "totalProgression": 44.340183234625,
+        "bestBallCarryProgression": 24.812442849539,
+        "totalProgressiveBallCarriesDistance": 49.08525220471,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.03,
+        "dribbleValueNormalized": 0.14,
+        "defensiveValueNormalized": 0.13,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  }
+}

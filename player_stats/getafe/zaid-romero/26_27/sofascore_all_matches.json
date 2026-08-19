@@ -1,0 +1,138 @@
+{
+  "16421047": {
+    "id": 16421047,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 0
+      },
+      "startTimestamp": 1786815000,
+      "slug": "deportivo-alaves-getafe",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Zaid Romero",
+        "firstName": "",
+        "lastName": "",
+        "slug": "zaid-romero",
+        "shortName": "Z. Romero",
+        "position": "D",
+        "jerseyNumber": "24",
+        "height": 192,
+        "userCount": 1197,
+        "gender": "M",
+        "sofascoreId": "rsttp7",
+        "id": 1108450,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 945216000,
+        "proposedMarketValueRaw": {
+          "value": 2400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "زايد روميرو",
+            "ru": "Зайд Ромеро"
+          },
+          "shortNameTranslation": {
+            "ar": "ز. روميرو",
+            "ru": "З. Ромеро"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 206593,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 37,
+        "accuratePass": 35,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 21,
+        "totalOwnHalfPasses": 21,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 16,
+        "totalCross": 2,
+        "aerialLost": 2,
+        "aerialWon": 2,
+        "duelLost": 6,
+        "duelWon": 8,
+        "challengeLost": 1,
+        "dispossessed": 2,
+        "totalContest": 4,
+        "wonContest": 3,
+        "totalClearance": 6,
+        "interceptionWon": 1,
+        "ballRecovery": 7,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 3,
+        "wasFouled": 2,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 68,
+        "rating": 6.4,
+        "possessionLostCtrl": 11,
+        "expectedAssists": 0.0576661,
+        "totalBallCarriesDistance": 150.24696078578,
+        "ballCarriesCount": 14,
+        "totalProgression": 114.37435072115,
+        "bestBallCarryProgression": 24.792863533571,
+        "totalProgressiveBallCarriesDistance": 61.312084417526,
+        "progressiveBallCarriesCount": 2,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.08,
+        "dribbleValueNormalized": 0.19,
+        "defensiveValueNormalized": -0.45,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

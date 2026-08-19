@@ -1,0 +1,120 @@
+[
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Racing",
+        "abreviatura": "RAC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/42.png"
+      },
+      "visitante": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      }
+    },
+    "resultado": "2-2",
+    "fecha": "2026-08-16",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22427-racing-villarreal",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 16421061,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Racing Club",
+          "shortName": "R. Racing Club",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 2
+        },
+        "startTimestamp": 1786892400,
+        "slug": "real-racing-club-villarreal",
+        "season": "26/27"
+      },
+      "player_stats": {
+        "player": {
+          "name": "Simon Eriksson",
+          "slug": "simon-eriksson",
+          "shortName": "S. Eriksson",
+          "position": "G",
+          "jerseyNumber": "1",
+          "height": 194,
+          "userCount": 206,
+          "gender": "M",
+          "sofascoreId": "8j7d2c",
+          "id": 1472960,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1145836800,
+          "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سايمون إريكسون",
+              "ru": "Симон Эрикссон"
+            },
+            "shortNameTranslation": {
+              "ar": "س. إريكسون",
+              "ru": "С. Эрикссон"
+            }
+          }
+        },
+        "team": {
+          "name": "Real Racing Club",
+          "slug": "racing-de-santander",
+          "shortName": "R. Racing Club",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 64447,
+          "nameCode": "SAN",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2835,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#009933",
+            "text": "#009933"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "راسينغ سانتاندير",
+              "ru": "Расинг Сантандер"
+            },
+            "shortNameTranslation": {
+              "ar": "راسينغ سانتاندير",
+              "ru": "Расинг"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  }
+]

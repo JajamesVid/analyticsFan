@@ -1,0 +1,137 @@
+{
+  "16421053": {
+    "id": 16421053,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 0
+      },
+      "startTimestamp": 1786899600,
+      "slug": "levante-ud-espanyol",
+      "season": "26/27"
+    },
+    "player_stats": {
+      "player": {
+        "name": "Jon Ander Olasagasti",
+        "slug": "jon-ander-olasagasti",
+        "shortName": "J. A. Olasagasti",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 176,
+        "userCount": 405,
+        "gender": "M",
+        "sofascoreId": "iwkct8",
+        "id": 1010383,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 966384000,
+        "proposedMarketValueRaw": {
+          "value": 2700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جون أندير أولاساغاستي",
+            "bn": "জন অ্যান্ডার ওলাসাগাস্টি",
+            "hi": "जॉन एंडर ओलासागास्ती",
+            "ru": "Хон Андер Оласагасти"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. أ. أولاساغاستي",
+            "bn": "জে. এ. ওলাসাগাস্টি",
+            "hi": "जे.ए. ओलासागास्ती",
+            "ru": "Х. Оласагасти"
+          }
+        }
+      },
+      "team": {
+        "name": "Levante UD",
+        "slug": "levante-ud",
+        "shortName": "Levante",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 119601,
+        "nameCode": "LEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2849,
+        "teamColors": {
+          "primary": "#0e3b68",
+          "secondary": "#d70000",
+          "text": "#d70000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفانتي",
+            "hi": "लेवांटे यूडी",
+            "ru": "Леванте"
+          },
+          "shortNameTranslation": {
+            "ar": "ليفانتي",
+            "bn": "লেভান্তে",
+            "hi": "लेवांते"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 22,
+        "accuratePass": 12,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 6,
+        "totalOwnHalfPasses": 7,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 15,
+        "totalCross": 2,
+        "duelLost": 2,
+        "duelWon": 3,
+        "challengeLost": 1,
+        "dispossessed": 1,
+        "totalClearance": 1,
+        "interceptionWon": 2,
+        "ballRecovery": 2,
+        "totalTackle": 2,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 90,
+        "touches": 34,
+        "rating": 6.3,
+        "possessionLostCtrl": 15,
+        "expectedAssists": 0.00456536,
+        "totalBallCarriesDistance": 86.459844914632,
+        "ballCarriesCount": 12,
+        "totalProgression": 46.977192812864,
+        "bestBallCarryProgression": 19.242762516819,
+        "totalProgressiveBallCarriesDistance": 21.701972836588,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.32,
+        "dribbleValueNormalized": 0.21,
+        "defensiveValueNormalized": -0.19,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}
