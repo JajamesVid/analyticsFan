@@ -176,7 +176,8 @@ def update_team_stats(session, team_name, team_id):
             "startTimestamp": event.get("startTimestamp"),
             "slug": event.get("slug"),
             "tournament": event.get("tournament", {}).get("name"),
-            "season": season_year
+            "season": season_year,
+            "jornada": event.get("roundInfo", {}).get("round")
         },
         "statistics": raw_stats.get("statistics", [])
     }
@@ -258,7 +259,8 @@ def update_player_stats(session, player_name, player_id, team_name, team_id):
             },
             "startTimestamp": event.get("startTimestamp"),
             "slug": event.get("slug"),
-            "season": season_year
+            "season": season_year,
+            "jornada": event.get("roundInfo", {}).get("round")
         },
         "player_stats": match_stats
     }
