@@ -3,3 +3,9 @@
 *.xlsx
 *.pyc
 OLD_py/*
+
+# Datos generados por el scraping (solo codigo en el repo)
+team_stats/
+player_stats/
+update_matchday_report.json
+download_state.txt
