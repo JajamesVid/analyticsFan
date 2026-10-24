@@ -1,0 +1,341 @@
+{
+  "16421055": {
+    "id": 16421055,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atlético Madrid",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1787166000,
+      "slug": "atletico-madrid-malaga-cf",
+      "season": "26/27",
+      "jornada": 1
+    },
+    "player_stats": {
+      "player": {
+        "name": "Carlos Martín",
+        "firstName": "Carlos Martín",
+        "slug": "carlos-martin",
+        "shortName": "C. Martín",
+        "position": "M",
+        "jerseyNumber": "77",
+        "height": 182,
+        "userCount": 1626,
+        "gender": "M",
+        "sofascoreId": "kmn-kpa",
+        "id": 1131581,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1019433600,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارلوس مارتين",
+            "bn": "কার্লোস মার্টিন",
+            "hi": "कार्लोस मार्टिन",
+            "ru": "Карлос Мартин"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. مارتين",
+            "bn": "সি. মার্টিন",
+            "hi": "सी. मार्टिन",
+            "ru": "К. Мартин"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atlético Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2299790,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 20,
+        "accuratePass": 15,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 16,
+        "totalCross": 1,
+        "aerialLost": 2,
+        "aerialWon": 1,
+        "duelLost": 7,
+        "duelWon": 1,
+        "dispossessed": 1,
+        "shotOffTarget": 2,
+        "ballRecovery": 2,
+        "unsuccessfulTouch": 1,
+        "fouls": 4,
+        "minutesPlayed": 57,
+        "touches": 28,
+        "rating": 6.4,
+        "possessionLostCtrl": 10,
+        "expectedGoals": 0.0659,
+        "expectedAssists": 0.0690023,
+        "topSpeed": 32.59,
+        "kilometersCovered": 6.8,
+        "numberOfSprints": 9,
+        "totalBallCarriesDistance": 33.978692398395,
+        "ballCarriesCount": 6,
+        "totalProgression": 25.593916100911,
+        "bestBallCarryProgression": 11.896152629554,
+        "totalProgressiveBallCarriesDistance": 13.090223871271,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.7
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.36,
+        "passValueNormalized": 0.26,
+        "dribbleValueNormalized": 0.17,
+        "defensiveValueNormalized": -0.01,
+        "metersCoveredRunningKm": 1.09,
+        "metersCoveredHighSpeedRunningKm": 0.36,
+        "metersCoveredSprintingKm": 0.11,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416302": {
+    "id": 16416302,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atlético Madrid",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "startTimestamp": 1787497200,
+      "slug": "atletico-madrid-villarreal",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Carlos Martín",
+        "firstName": "Carlos Martín",
+        "slug": "carlos-martin",
+        "shortName": "C. Martín",
+        "position": "M",
+        "jerseyNumber": "77",
+        "height": 182,
+        "userCount": 1626,
+        "gender": "M",
+        "sofascoreId": "kmn-kpa",
+        "id": 1131581,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1019433600,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارلوس مارتين",
+            "bn": "কার্লোস মার্টিন",
+            "hi": "कार्लोस मार्टिन",
+            "ru": "Карлос Мартин"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. مارتين",
+            "bn": "সি. মার্টিন",
+            "hi": "सी. मार्टिन",
+            "ru": "К. Мартин"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atlético Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2299790,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "16416316": {
+    "id": 16416316,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atlético Madrid",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1788031800,
+      "slug": "atletico-madrid-sevilla",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Carlos Martín",
+        "firstName": "Carlos Martín",
+        "slug": "carlos-martin",
+        "shortName": "C. Martín",
+        "position": "M",
+        "jerseyNumber": "77",
+        "height": 182,
+        "userCount": 1626,
+        "gender": "M",
+        "sofascoreId": "kmn-kpa",
+        "id": 1131581,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1019433600,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارلوس مارتين",
+            "bn": "কার্লোস মার্টিন",
+            "hi": "कार्लोस मार्टिन",
+            "ru": "Карлос Мартин"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. مارتين",
+            "bn": "সি. মার্টিন",
+            "hi": "सी. मार्टिन",
+            "ru": "К. Мартин"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atlético Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2301467,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  }
+}

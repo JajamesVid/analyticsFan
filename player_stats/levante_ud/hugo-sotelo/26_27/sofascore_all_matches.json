@@ -1,0 +1,622 @@
+{
+  "16416296": {
+    "id": 16416296,
+    "match_info": {
+      "homeTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 0
+      },
+      "startTimestamp": 1787592600,
+      "slug": "levante-ud-osasuna",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Hugo Sotelo",
+        "firstName": "Hugo Sotelo",
+        "slug": "hugo-sotelo",
+        "shortName": "H. Sotelo",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 180,
+        "userCount": 770,
+        "gender": "M",
+        "sofascoreId": "kmn-a3a",
+        "id": 1120669,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1071792000,
+        "proposedMarketValueRaw": {
+          "value": 4800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هوغو سوتيلو",
+            "bn": "হুগো সোটেলো",
+            "hi": "ह्यूगो सोटेलो",
+            "ru": "Уго Сотело"
+          },
+          "shortNameTranslation": {
+            "ar": "ه. سوتيلو",
+            "bn": "এইচ. সোটেলো",
+            "hi": "एच. सोटेलो",
+            "ru": "У. Сотело"
+          }
+        }
+      },
+      "team": {
+        "name": "Levante UD",
+        "slug": "levante-ud",
+        "shortName": "Levante",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 123282,
+        "nameCode": "LEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2849,
+        "teamColors": {
+          "primary": "#0e3b68",
+          "secondary": "#d70000",
+          "text": "#d70000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفانتي",
+            "hi": "लेवांटे यूडी",
+            "ru": "Леванте"
+          },
+          "shortNameTranslation": {
+            "ar": "ليفانتي",
+            "bn": "লেভান্তে",
+            "hi": "लेवांते"
+          }
+        }
+      },
+      "statistics": {
+        "goalAssist": 0,
+        "duelLost": 1,
+        "blockedScoringAttempt": 1,
+        "fouls": 1,
+        "minutesPlayed": 1,
+        "touches": 1,
+        "expectedGoals": 0.0784,
+        "topSpeed": 27.87,
+        "kilometersCovered": 0.34,
+        "numberOfSprints": 1,
+        "totalShots": 1,
+        "metersCoveredRunningKm": 0.06,
+        "metersCoveredHighSpeedRunningKm": 0.02,
+        "metersCoveredSprintingKm": 0.01,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416309": {
+    "id": 16416309,
+    "match_info": {
+      "homeTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1788015600,
+      "slug": "levante-ud-real-betis",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Hugo Sotelo",
+        "firstName": "Hugo Sotelo",
+        "slug": "hugo-sotelo",
+        "shortName": "H. Sotelo",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 180,
+        "userCount": 770,
+        "gender": "M",
+        "sofascoreId": "kmn-a3a",
+        "id": 1120669,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1071792000,
+        "proposedMarketValueRaw": {
+          "value": 4800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هوغو سوتيلو",
+            "bn": "হুগো সোটেলো",
+            "hi": "ह्यूगो सोटेलो",
+            "ru": "Уго Сотело"
+          },
+          "shortNameTranslation": {
+            "ar": "ه. سوتيلو",
+            "bn": "এইচ. সোটেলো",
+            "hi": "एच. सोटेलो",
+            "ru": "У. Сотело"
+          }
+        }
+      },
+      "team": {
+        "name": "Levante UD",
+        "slug": "levante-ud",
+        "shortName": "Levante",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 123157,
+        "nameCode": "LEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2849,
+        "teamColors": {
+          "primary": "#0e3b68",
+          "secondary": "#d70000",
+          "text": "#d70000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفانتي",
+            "hi": "लेवांटे यूडी",
+            "ru": "Леванте"
+          },
+          "shortNameTranslation": {
+            "ar": "ليفانتي",
+            "bn": "লেভান্তে",
+            "hi": "लेवांते"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 11,
+        "accuratePass": 10,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 6,
+        "totalOwnHalfPasses": 6,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 5,
+        "aerialLost": 1,
+        "duelLost": 2,
+        "duelWon": 3,
+        "dispossessed": 1,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 25,
+        "touches": 19,
+        "rating": 6.8,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 0.0037193,
+        "topSpeed": 32.11,
+        "kilometersCovered": 3.83,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 8.3530129085251,
+        "ballCarriesCount": 2,
+        "totalProgression": -5.2687935056705,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.08,
+        "dribbleValueNormalized": -0.31,
+        "defensiveValueNormalized": 0.22,
+        "metersCoveredRunningKm": 0.6,
+        "metersCoveredHighSpeedRunningKm": 0.17,
+        "metersCoveredSprintingKm": 0.04,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416320": {
+    "id": 16416320,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 0
+      },
+      "startTimestamp": 1788712200,
+      "slug": "levante-ud-malaga-cf",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "Hugo Sotelo",
+        "firstName": "Hugo Sotelo",
+        "slug": "hugo-sotelo",
+        "shortName": "H. Sotelo",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 180,
+        "userCount": 771,
+        "gender": "M",
+        "sofascoreId": "kmn-a3a",
+        "id": 1120669,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1071792000,
+        "proposedMarketValueRaw": {
+          "value": 4800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هوغو سوتيلو",
+            "bn": "হুগো সোটেলো",
+            "hi": "ह्यूगो सोटेलो",
+            "ru": "Уго Сотело"
+          },
+          "shortNameTranslation": {
+            "ar": "ه. سوتيلو",
+            "bn": "এইচ. সোটেলো",
+            "hi": "एच. सोटेलो",
+            "ru": "У. Сотело"
+          }
+        }
+      },
+      "team": {
+        "name": "Levante UD",
+        "slug": "levante-ud",
+        "shortName": "Levante",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 122968,
+        "nameCode": "LEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2849,
+        "teamColors": {
+          "primary": "#0e3b68",
+          "secondary": "#d70000",
+          "text": "#d70000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفانتي",
+            "hi": "लेवांटे यूडी",
+            "ru": "Леванте"
+          },
+          "shortNameTranslation": {
+            "ar": "ليفانتي",
+            "bn": "লেভান্তে",
+            "hi": "लेवांते"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 2,
+        "accuratePass": 1,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "totalOppositionHalfPasses": 1,
+        "duelWon": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "minutesPlayed": 13,
+        "touches": 5,
+        "rating": 6.6,
+        "possessionLostCtrl": 1,
+        "expectedAssists": 5.07e-06,
+        "topSpeed": 25.15,
+        "kilometersCovered": 1.98,
+        "numberOfSprints": 1,
+        "totalBallCarriesDistance": 17.311575827191,
+        "ballCarriesCount": 2,
+        "totalProgression": 2.4816556032463,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": 0.15,
+        "metersCoveredRunningKm": 0.25,
+        "metersCoveredHighSpeedRunningKm": 0.06,
+        "metersCoveredSprintingKm": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416329": {
+    "id": 16416329,
+    "match_info": {
+      "homeTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 4
+      },
+      "startTimestamp": 1789308900,
+      "slug": "levante-ud-fc-barcelona",
+      "season": "26/27",
+      "jornada": 5
+    },
+    "player_stats": {
+      "player": {
+        "name": "Hugo Sotelo",
+        "firstName": "Hugo Sotelo",
+        "slug": "hugo-sotelo",
+        "shortName": "H. Sotelo",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 180,
+        "userCount": 771,
+        "gender": "M",
+        "sofascoreId": "kmn-a3a",
+        "id": 1120669,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1071792000,
+        "proposedMarketValueRaw": {
+          "value": 4800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هوغو سوتيلو",
+            "bn": "হুগো সোটেলো",
+            "hi": "ह्यूगो सोटेलो",
+            "ru": "Уго Сотело"
+          },
+          "shortNameTranslation": {
+            "ar": "ه. سوتيلو",
+            "bn": "এইচ. সোটেলো",
+            "hi": "एच. सोटेलो",
+            "ru": "У. Сотело"
+          }
+        }
+      },
+      "team": {
+        "name": "Levante UD",
+        "slug": "levante-ud",
+        "shortName": "Levante",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 122968,
+        "nameCode": "LEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2849,
+        "teamColors": {
+          "primary": "#0e3b68",
+          "secondary": "#d70000",
+          "text": "#d70000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفانتي",
+            "hi": "लेवांटे यूडी",
+            "ru": "Леванте"
+          },
+          "shortNameTranslation": {
+            "ar": "ليفانتي",
+            "bn": "লেভান্তে",
+            "hi": "लेवांते"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 16,
+        "accuratePass": 11,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 12,
+        "totalCross": 1,
+        "duelLost": 2,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "fouls": 1,
+        "minutesPlayed": 60,
+        "touches": 21,
+        "rating": 6.4,
+        "possessionLostCtrl": 7,
+        "expectedAssists": 0.0112532,
+        "topSpeed": 27.64,
+        "kilometersCovered": 7.55,
+        "numberOfSprints": 1,
+        "totalBallCarriesDistance": 5.3299194177773,
+        "ballCarriesCount": 1,
+        "totalProgression": -0.77857603901873,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.06,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": -0.17,
+        "metersCoveredRunningKm": 1.46,
+        "metersCoveredHighSpeedRunningKm": 0.34,
+        "metersCoveredSprintingKm": 0.02,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "17122851": {
+    "id": 17122851,
+    "match_info": {
+      "homeTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "startTimestamp": 1792605600,
+      "slug": "levante-ud-athletic-club",
+      "season": "26/27",
+      "jornada": 6
+    },
+    "player_stats": {
+      "player": {
+        "name": "Hugo Sotelo",
+        "firstName": "Hugo Sotelo",
+        "slug": "hugo-sotelo",
+        "shortName": "H. Sotelo",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 180,
+        "userCount": 770,
+        "gender": "M",
+        "sofascoreId": "kmn-a3a",
+        "id": 1120669,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1071792000,
+        "proposedMarketValueRaw": {
+          "value": 4800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هوغو سوتيلو",
+            "bn": "হুগো সোটেলো",
+            "hi": "ह्यूगो सोटेलो",
+            "ru": "Уго Сотело"
+          },
+          "shortNameTranslation": {
+            "ar": "ه. سوتيلو",
+            "bn": "এইচ. সোটেলো",
+            "hi": "एच. सोटेलो",
+            "ru": "У. Сотело"
+          }
+        }
+      },
+      "team": {
+        "name": "Levante UD",
+        "slug": "levante-ud",
+        "shortName": "Levante",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 124538,
+        "nameCode": "LEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2849,
+        "teamColors": {
+          "primary": "#0e3b68",
+          "secondary": "#d70000",
+          "text": "#d70000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفانتي",
+            "hi": "लेवांटे यूडी",
+            "ru": "Леванте"
+          },
+          "shortNameTranslation": {
+            "ar": "ليفانتي",
+            "bn": "লেভান্তে",
+            "hi": "लेवांते"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

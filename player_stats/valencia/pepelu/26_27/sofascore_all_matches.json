@@ -1,0 +1,1233 @@
+{
+  "16416291": {
+    "id": 16416291,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1788111000,
+      "slug": "deportivo-de-la-coruna-valencia",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pepelu",
+        "slug": "pepelu",
+        "shortName": "Pepelu",
+        "position": "M",
+        "jerseyNumber": "18",
+        "height": 185,
+        "userCount": 1849,
+        "gender": "M",
+        "sofascoreId": "qdxjxp",
+        "id": 826948,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 902793600,
+        "proposedMarketValueRaw": {
+          "value": 7300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيبيلو",
+            "bn": "পেপেলু",
+            "hi": "पेपेलु",
+            "ru": "Пепелу"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بيبيلو",
+            "bn": "পেপেলু",
+            "hi": "पेपेलु",
+            "ru": "Пепелу"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 302773,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 48,
+        "accuratePass": 43,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 23,
+        "totalOwnHalfPasses": 24,
+        "accurateOppositionHalfPasses": 20,
+        "totalOppositionHalfPasses": 24,
+        "aerialWon": 1,
+        "duelWon": 3,
+        "totalClearance": 1,
+        "totalTackle": 2,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 66,
+        "touches": 53,
+        "rating": 6.9,
+        "possessionLostCtrl": 7,
+        "expectedAssists": 0.0889009,
+        "topSpeed": 28.46,
+        "kilometersCovered": 8.65,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 99.035047165187,
+        "ballCarriesCount": 14,
+        "totalProgression": 8.206631137912,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.25,
+        "dribbleValueNormalized": 0.03,
+        "defensiveValueNormalized": -0.15,
+        "metersCoveredRunningKm": 1.41,
+        "metersCoveredHighSpeedRunningKm": 0.37,
+        "metersCoveredSprintingKm": 0.03,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416297": {
+    "id": 16416297,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1789930800,
+      "slug": "valencia-real-sociedad",
+      "season": "26/27",
+      "jornada": 7
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pepelu",
+        "slug": "pepelu",
+        "shortName": "Pepelu",
+        "position": "M",
+        "jerseyNumber": "18",
+        "height": 185,
+        "userCount": 1624,
+        "gender": "M",
+        "sofascoreId": "qdx-jxp",
+        "id": 826948,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 902793600,
+        "proposedMarketValueRaw": {
+          "value": 7300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيبيلو",
+            "bn": "পেপেলু",
+            "hi": "पेपेलु",
+            "ru": "Пепелу"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بيبيلو",
+            "bn": "পেপেলু",
+            "hi": "पेपेलु",
+            "ru": "Пепелу"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 241803,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 51,
+        "accuratePass": 45,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 30,
+        "totalOwnHalfPasses": 34,
+        "accurateOppositionHalfPasses": 15,
+        "totalOppositionHalfPasses": 17,
+        "aerialLost": 1,
+        "duelLost": 2,
+        "duelWon": 3,
+        "challengeLost": 1,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 3,
+        "interceptionWon": 1,
+        "ballRecovery": 6,
+        "totalTackle": 3,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 90,
+        "touches": 62,
+        "rating": 6.5,
+        "possessionLostCtrl": 8,
+        "expectedGoals": 0.0309,
+        "expectedAssists": 0.02478,
+        "topSpeed": 30.79,
+        "kilometersCovered": 9.35,
+        "numberOfSprints": 7,
+        "totalBallCarriesDistance": 89.245076935018,
+        "ballCarriesCount": 9,
+        "totalProgression": 25.530996976843,
+        "bestBallCarryProgression": 14.698169204737,
+        "totalProgressiveBallCarriesDistance": 36.537306427814,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.5
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.11,
+        "passValueNormalized": 0.23,
+        "dribbleValueNormalized": 0.11,
+        "defensiveValueNormalized": -0.32,
+        "metersCoveredRunningKm": 1.1,
+        "metersCoveredHighSpeedRunningKm": 0.34,
+        "metersCoveredSprintingKm": 0.12,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421064": {
+    "id": 16421064,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1791745200,
+      "slug": "real-racing-club-valencia",
+      "season": "26/27",
+      "jornada": 8
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pepelu",
+        "slug": "pepelu",
+        "shortName": "Pepelu",
+        "position": "M",
+        "jerseyNumber": "18",
+        "height": 185,
+        "userCount": 1624,
+        "gender": "M",
+        "sofascoreId": "qdx-jxp",
+        "id": 826948,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 902793600,
+        "proposedMarketValueRaw": {
+          "value": 7300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيبيلو",
+            "bn": "পেপেলু",
+            "hi": "पेपेलु",
+            "ru": "Пепелу"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بيبيلو",
+            "bn": "পেপেলু",
+            "hi": "पेपेलु",
+            "ru": "Пепелу"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 241803,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 60,
+        "accuratePass": 53,
+        "totalLongBalls": 11,
+        "accurateLongBalls": 6,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 39,
+        "totalOwnHalfPasses": 41,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 19,
+        "duelLost": 1,
+        "duelWon": 1,
+        "totalContest": 1,
+        "totalClearance": 13,
+        "interceptionWon": 1,
+        "ballRecovery": 3,
+        "wasFouled": 1,
+        "minutesPlayed": 90,
+        "touches": 76,
+        "rating": 7.2,
+        "possessionLostCtrl": 8,
+        "expectedAssists": 0.00602015,
+        "topSpeed": 29.93,
+        "kilometersCovered": 8.85,
+        "numberOfSprints": 8,
+        "totalBallCarriesDistance": 119.0177899861,
+        "ballCarriesCount": 20,
+        "totalProgression": 62.000091626008,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7.2,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.21,
+        "dribbleValueNormalized": 0.08,
+        "defensiveValueNormalized": -0.01,
+        "metersCoveredRunningKm": 0.67,
+        "metersCoveredHighSpeedRunningKm": 0.22,
+        "metersCoveredSprintingKm": 0.11,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421049": {
+    "id": 16421049,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1787684400,
+      "slug": "valencia-real-betis",
+      "season": "26/27",
+      "jornada": 1
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pepelu",
+        "slug": "pepelu",
+        "shortName": "Pepelu",
+        "position": "M",
+        "jerseyNumber": "18",
+        "height": 185,
+        "userCount": 1633,
+        "gender": "M",
+        "sofascoreId": "qdx-jxp",
+        "id": 826948,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 902793600,
+        "proposedMarketValueRaw": {
+          "value": 7300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيبيلو",
+            "bn": "পেপেলু",
+            "hi": "पेपेलु",
+            "ru": "Пепелу"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بيبيلو",
+            "bn": "পেপেলু",
+            "hi": "पेपेलु",
+            "ru": "Пепелу"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 242051,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 34,
+        "accuratePass": 27,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 17,
+        "totalOwnHalfPasses": 18,
+        "accurateOppositionHalfPasses": 10,
+        "totalOppositionHalfPasses": 16,
+        "totalCross": 1,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 2,
+        "challengeLost": 2,
+        "totalClearance": 2,
+        "interceptionWon": 2,
+        "ballRecovery": 5,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 88,
+        "touches": 42,
+        "rating": 6.4,
+        "possessionLostCtrl": 9,
+        "expectedAssists": 0.00694366,
+        "topSpeed": 32.89,
+        "kilometersCovered": 9.42,
+        "numberOfSprints": 14,
+        "totalBallCarriesDistance": 131.85439070905,
+        "ballCarriesCount": 18,
+        "totalProgression": 57.5398358326,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.17,
+        "dribbleValueNormalized": 0.11,
+        "defensiveValueNormalized": -0.2,
+        "metersCoveredRunningKm": 1.13,
+        "metersCoveredHighSpeedRunningKm": 0.45,
+        "metersCoveredSprintingKm": 0.28,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416298": {
+    "id": 16416298,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 0
+      },
+      "startTimestamp": 1787419800,
+      "slug": "valencia-celta-vigo",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pepelu",
+        "slug": "pepelu",
+        "shortName": "Pepelu",
+        "position": "M",
+        "jerseyNumber": "18",
+        "height": 185,
+        "userCount": 1633,
+        "gender": "M",
+        "sofascoreId": "qdx-jxp",
+        "id": 826948,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 902793600,
+        "proposedMarketValueRaw": {
+          "value": 7300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيبيلو",
+            "bn": "পেপেলু",
+            "hi": "पेपेलु",
+            "ru": "Пепелу"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بيبيلو",
+            "bn": "পেপেলু",
+            "hi": "पेपेलु",
+            "ru": "Пепелу"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 242051,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 82,
+        "accuratePass": 75,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 40,
+        "totalOwnHalfPasses": 41,
+        "accurateOppositionHalfPasses": 35,
+        "totalOppositionHalfPasses": 41,
+        "totalCross": 1,
+        "duelLost": 1,
+        "duelWon": 3,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 8,
+        "ballRecovery": 4,
+        "totalTackle": 2,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 96,
+        "rating": 7.4,
+        "possessionLostCtrl": 9,
+        "expectedGoals": 0.0334,
+        "expectedAssists": 0.0172917,
+        "topSpeed": 31.11,
+        "kilometersCovered": 9.99,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 234.78303386819,
+        "ballCarriesCount": 27,
+        "totalProgression": 76.12749806938,
+        "bestBallCarryProgression": 15.938638282816,
+        "totalProgressiveBallCarriesDistance": 32.849680746024,
+        "progressiveBallCarriesCount": 2,
+        "ratingVersions": {
+          "original": 7.4,
+          "alternative": 7.3
+        },
+        "totalShots": 1,
+        "shotValueNormalized": 0,
+        "passValueNormalized": 0.23,
+        "dribbleValueNormalized": 0.15,
+        "defensiveValueNormalized": 0.48,
+        "metersCoveredRunningKm": 1.13,
+        "metersCoveredHighSpeedRunningKm": 0.22,
+        "metersCoveredSprintingKm": 0.04,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416325": {
+    "id": 16416325,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 5
+      },
+      "startTimestamp": 1788704100,
+      "slug": "valencia-fc-barcelona",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pepelu",
+        "slug": "pepelu",
+        "shortName": "Pepelu",
+        "position": "M",
+        "jerseyNumber": "18",
+        "height": 185,
+        "userCount": 1627,
+        "gender": "M",
+        "sofascoreId": "qdx-jxp",
+        "id": 826948,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 902793600,
+        "proposedMarketValueRaw": {
+          "value": 7300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيبيلو",
+            "bn": "পেপেলু",
+            "hi": "पेपेलु",
+            "ru": "Пепелу"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بيبيلو",
+            "bn": "পেপেলু",
+            "hi": "पेपेलु",
+            "ru": "Пепелу"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 241415,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 18,
+        "accuratePass": 16,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 11,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 7,
+        "aerialLost": 1,
+        "duelLost": 3,
+        "duelWon": 1,
+        "challengeLost": 2,
+        "totalClearance": 4,
+        "outfielderBlock": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 3,
+        "totalTackle": 1,
+        "minutesPlayed": 54,
+        "touches": 27,
+        "rating": 6.1,
+        "possessionLostCtrl": 2,
+        "expectedAssists": 0.00635208,
+        "topSpeed": 35.51,
+        "kilometersCovered": 6.32,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 31.499813899699,
+        "ballCarriesCount": 5,
+        "totalProgression": -14.079443721445,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.1,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.11,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": -0.44,
+        "metersCoveredRunningKm": 0.88,
+        "metersCoveredHighSpeedRunningKm": 0.27,
+        "metersCoveredSprintingKm": 0.04,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416330": {
+    "id": 16416330,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1789153200,
+      "slug": "sevilla-valencia",
+      "season": "26/27",
+      "jornada": 5
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pepelu",
+        "slug": "pepelu",
+        "shortName": "Pepelu",
+        "position": "M",
+        "jerseyNumber": "18",
+        "height": 185,
+        "userCount": 1627,
+        "gender": "M",
+        "sofascoreId": "qdx-jxp",
+        "id": 826948,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 902793600,
+        "proposedMarketValueRaw": {
+          "value": 7300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيبيلو",
+            "bn": "পেপেলু",
+            "hi": "पेपेलु",
+            "ru": "Пепелу"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بيبيلو",
+            "bn": "পেপেলু",
+            "hi": "पेपेलु",
+            "ru": "Пепелу"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 241415,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 64,
+        "accuratePass": 53,
+        "totalLongBalls": 10,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 34,
+        "totalOwnHalfPasses": 39,
+        "accurateOppositionHalfPasses": 19,
+        "totalOppositionHalfPasses": 25,
+        "aerialLost": 2,
+        "aerialWon": 1,
+        "duelLost": 4,
+        "duelWon": 4,
+        "totalClearance": 2,
+        "interceptionWon": 1,
+        "ballRecovery": 5,
+        "totalTackle": 3,
+        "wonTackle": 2,
+        "errorLeadToAShot": 1,
+        "wasFouled": 1,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 74,
+        "rating": 6.5,
+        "possessionLostCtrl": 11,
+        "expectedAssists": 0.00721602,
+        "topSpeed": 28.58,
+        "kilometersCovered": 9.22,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 145.8750011068,
+        "ballCarriesCount": 24,
+        "totalProgression": 57.823865878425,
+        "bestBallCarryProgression": 16.860854167926,
+        "totalProgressiveBallCarriesDistance": 19.087059726422,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.18,
+        "dribbleValueNormalized": 0.08,
+        "defensiveValueNormalized": -0.15,
+        "metersCoveredRunningKm": 1.05,
+        "metersCoveredHighSpeedRunningKm": 0.26,
+        "metersCoveredSprintingKm": 0.06,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416334": {
+    "id": 16416334,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1789495200,
+      "slug": "deportivo-alaves-valencia",
+      "season": "26/27",
+      "jornada": 6
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pepelu",
+        "slug": "pepelu",
+        "shortName": "Pepelu",
+        "position": "M",
+        "jerseyNumber": "18",
+        "height": 185,
+        "userCount": 1622,
+        "gender": "M",
+        "sofascoreId": "qdx-jxp",
+        "id": 826948,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 902793600,
+        "proposedMarketValueRaw": {
+          "value": 7300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيبيلو",
+            "bn": "পেপেলু",
+            "hi": "पेपेलु",
+            "ru": "Пепелу"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بيبيلو",
+            "bn": "পেপেলু",
+            "hi": "पेपेलु",
+            "ru": "Пепелу"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 240937,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 70,
+        "accuratePass": 65,
+        "totalLongBalls": 8,
+        "accurateLongBalls": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 50,
+        "totalOwnHalfPasses": 53,
+        "accurateOppositionHalfPasses": 15,
+        "totalOppositionHalfPasses": 17,
+        "duelLost": 3,
+        "duelWon": 1,
+        "dispossessed": 2,
+        "totalClearance": 12,
+        "outfielderBlock": 2,
+        "interceptionWon": 3,
+        "ballRecovery": 7,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 92,
+        "rating": 7.4,
+        "possessionLostCtrl": 8,
+        "expectedAssists": 0.00546428,
+        "topSpeed": 27.97,
+        "kilometersCovered": 9.26,
+        "numberOfSprints": 8,
+        "totalBallCarriesDistance": 133.65845672888,
+        "ballCarriesCount": 24,
+        "totalProgression": 42.273060819105,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7.4,
+          "alternative": 7.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.25,
+        "dribbleValueNormalized": 0.06,
+        "defensiveValueNormalized": 0.65,
+        "metersCoveredRunningKm": 0.99,
+        "metersCoveredHighSpeedRunningKm": 0.34,
+        "metersCoveredSprintingKm": 0.06,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421074": {
+    "id": 16421074,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1792263600,
+      "slug": "valencia-athletic-club",
+      "season": "26/27",
+      "jornada": 9
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pepelu",
+        "slug": "pepelu",
+        "shortName": "Pepelu",
+        "position": "M",
+        "jerseyNumber": "18",
+        "height": 185,
+        "userCount": 1622,
+        "gender": "M",
+        "sofascoreId": "qdx-jxp",
+        "id": 826948,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 902793600,
+        "proposedMarketValueRaw": {
+          "value": 7300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيبيلو",
+            "bn": "পেপেলু",
+            "hi": "पेपेलु",
+            "ru": "Пепелу"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بيبيلو",
+            "bn": "পেপেলু",
+            "hi": "पेपेलु",
+            "ru": "Пепелу"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 240937,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 43,
+        "accuratePass": 41,
+        "totalLongBalls": 8,
+        "accurateLongBalls": 8,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 18,
+        "totalOwnHalfPasses": 18,
+        "accurateOppositionHalfPasses": 23,
+        "totalOppositionHalfPasses": 25,
+        "duelLost": 6,
+        "duelWon": 3,
+        "challengeLost": 1,
+        "bigChanceCreated": 2,
+        "totalClearance": 5,
+        "interceptionWon": 1,
+        "ballRecovery": 7,
+        "totalTackle": 3,
+        "wonTackle": 2,
+        "fouls": 5,
+        "minutesPlayed": 90,
+        "touches": 54,
+        "rating": 7.5,
+        "possessionLostCtrl": 2,
+        "expectedAssists": 0.0266713,
+        "topSpeed": 30.83,
+        "kilometersCovered": 10.65,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 117.00372694349,
+        "ballCarriesCount": 15,
+        "totalProgression": 70.647264567015,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 7.5,
+          "alternative": 7.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.37,
+        "dribbleValueNormalized": 0.07,
+        "defensiveValueNormalized": 0.28,
+        "metersCoveredRunningKm": 1.4,
+        "metersCoveredHighSpeedRunningKm": 0.25,
+        "metersCoveredSprintingKm": 0.09,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

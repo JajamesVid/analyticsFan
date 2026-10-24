@@ -135,5 +135,894 @@
       "position": "D",
       "extra": null
     }
+  },
+  "16416304": {
+    "id": 16416304,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1787936400,
+      "slug": "elche-real-racing-club",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Federico Redondo",
+        "firstName": "Federico Redondo",
+        "lastName": "",
+        "slug": "federico-redondo",
+        "shortName": "F. Redondo",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 188,
+        "userCount": 4659,
+        "gender": "M",
+        "sofascoreId": "rst4bu",
+        "id": 1117026,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1042848000,
+        "proposedMarketValueRaw": {
+          "value": 2400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيديريكو ريدوندو",
+            "bn": "ফেদেরিকো রেডন্ডো",
+            "hi": "फेडेरिको रेडोन्डो",
+            "ru": "Федерико Редондо"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. ريدوندو",
+            "bn": "এফ. রেডন্ডো",
+            "hi": "एफ. रेडोन्डो",
+            "ru": "Ф. Редондо"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 131879,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416299": {
+    "id": 16416299,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1789758000,
+      "slug": "elche-espanyol",
+      "season": "26/27",
+      "jornada": 7
+    },
+    "player_stats": {
+      "player": {
+        "name": "Federico Redondo",
+        "firstName": "Federico Redondo",
+        "lastName": "",
+        "slug": "federico-redondo",
+        "shortName": "F. Redondo",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 188,
+        "userCount": 3780,
+        "gender": "M",
+        "sofascoreId": "rst-4bu",
+        "id": 1117026,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1042848000,
+        "proposedMarketValueRaw": {
+          "value": 2400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيديريكو ريدوندو",
+            "bn": "ফেদেরিকো রেডন্ডো",
+            "hi": "फेडेरिको रेडोन्डो",
+            "ru": "Федерико Редондо"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. ريدوندو",
+            "bn": "এফ. রেডন্ডো",
+            "hi": "एफ. रेडोन्डो",
+            "ru": "Ф. Редондо"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 135252,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 4,
+        "accuratePass": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 1,
+        "duelLost": 2,
+        "ballRecovery": 1,
+        "unsuccessfulTouch": 1,
+        "fouls": 2,
+        "minutesPlayed": 6,
+        "touches": 5,
+        "rating": 3,
+        "possessionLostCtrl": 1,
+        "expectedAssists": 0.00012893,
+        "topSpeed": 21.75,
+        "kilometersCovered": 0.38,
+        "numberOfSprints": 0,
+        "totalBallCarriesDistance": 13.984680166869,
+        "ballCarriesCount": 2,
+        "totalProgression": 4.3612731210459,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 3,
+          "alternative": 3
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.01,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": -0.12,
+        "metersCoveredRunningKm": 0.04,
+        "metersCoveredHighSpeedRunningKm": 0,
+        "metersCoveredSprintingKm": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416311": {
+    "id": 16416311,
+    "match_info": {
+      "homeTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 5
+      },
+      "startTimestamp": 1787513400,
+      "slug": "elche-fc-barcelona",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Federico Redondo",
+        "firstName": "Federico Redondo",
+        "lastName": "",
+        "slug": "federico-redondo",
+        "shortName": "F. Redondo",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 188,
+        "userCount": 3759,
+        "gender": "M",
+        "sofascoreId": "rst-4bu",
+        "id": 1117026,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1042848000,
+        "proposedMarketValueRaw": {
+          "value": 2400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيديريكو ريدوندو",
+            "bn": "ফেদেরিকো রেডন্ডো",
+            "hi": "फेडेरिको रेडोन्डो",
+            "ru": "Федерико Редондо"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. ريدوندو",
+            "bn": "এফ. রেডন্ডো",
+            "hi": "एफ. रेडोन्डो",
+            "ru": "Ф. Редондо"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 135668,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 53,
+        "accuratePass": 46,
+        "totalLongBalls": 8,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 34,
+        "totalOwnHalfPasses": 38,
+        "accurateOppositionHalfPasses": 12,
+        "totalOppositionHalfPasses": 15,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 4,
+        "challengeLost": 2,
+        "totalContest": 1,
+        "totalClearance": 1,
+        "interceptionWon": 3,
+        "ballRecovery": 8,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "errorLeadToAGoal": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 81,
+        "touches": 63,
+        "rating": 5.5,
+        "possessionLostCtrl": 8,
+        "expectedAssists": 0.0175079,
+        "topSpeed": 31.91,
+        "kilometersCovered": 9.17,
+        "numberOfSprints": 13,
+        "totalBallCarriesDistance": 83.328306154115,
+        "ballCarriesCount": 12,
+        "totalProgression": 35.178736739294,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 5.5,
+          "alternative": 5.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.19,
+        "dribbleValueNormalized": 0.11,
+        "defensiveValueNormalized": -1,
+        "metersCoveredRunningKm": 1.31,
+        "metersCoveredHighSpeedRunningKm": 0.44,
+        "metersCoveredSprintingKm": 0.21,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416319": {
+    "id": 16416319,
+    "match_info": {
+      "homeTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1788809400,
+      "slug": "elche-real-sociedad",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "Federico Redondo",
+        "firstName": "Federico Redondo",
+        "lastName": "",
+        "slug": "federico-redondo",
+        "shortName": "F. Redondo",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 188,
+        "userCount": 3744,
+        "gender": "M",
+        "sofascoreId": "rst-4bu",
+        "id": 1117026,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1042848000,
+        "proposedMarketValueRaw": {
+          "value": 2400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيديريكو ريدوندو",
+            "bn": "ফেদেরিকো রেডন্ডো",
+            "hi": "फेडेरिको रेडोन्डो",
+            "ru": "Федерико Редондо"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. ريدوندو",
+            "bn": "এফ. রেডন্ডো",
+            "hi": "एफ. रेडोन्डो",
+            "ru": "Ф. Редондо"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 135416,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416322": {
+    "id": 16416322,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1789230600,
+      "slug": "elche-athletic-club",
+      "season": "26/27",
+      "jornada": 5
+    },
+    "player_stats": {
+      "player": {
+        "name": "Federico Redondo",
+        "firstName": "Federico Redondo",
+        "lastName": "",
+        "slug": "federico-redondo",
+        "shortName": "F. Redondo",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 188,
+        "userCount": 3744,
+        "gender": "M",
+        "sofascoreId": "rst-4bu",
+        "id": 1117026,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1042848000,
+        "proposedMarketValueRaw": {
+          "value": 2400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيديريكو ريدوندو",
+            "bn": "ফেদেরিকো রেডন্ডো",
+            "hi": "फेडेरिको रेडोन्डो",
+            "ru": "Федерико Редондо"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. ريدوندو",
+            "bn": "এফ. রেডন্ডো",
+            "hi": "एफ. रेडोन्डो",
+            "ru": "Ф. Редондо"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 135416,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 40,
+        "accuratePass": 39,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 30,
+        "totalOwnHalfPasses": 30,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 10,
+        "duelLost": 2,
+        "duelWon": 8,
+        "challengeLost": 1,
+        "totalClearance": 4,
+        "interceptionWon": 4,
+        "ballRecovery": 7,
+        "totalTackle": 6,
+        "wonTackle": 3,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 2,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 62,
+        "rating": 7.3,
+        "possessionLostCtrl": 2,
+        "expectedAssists": 0.00150008,
+        "topSpeed": 31.37,
+        "kilometersCovered": 9.1,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 95.097617793215,
+        "ballCarriesCount": 13,
+        "totalProgression": 57.555360712498,
+        "bestBallCarryProgression": 23.641773061387,
+        "totalProgressiveBallCarriesDistance": 23.720527839827,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 7.3,
+          "alternative": 7.3
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.11,
+        "dribbleValueNormalized": 0.2,
+        "defensiveValueNormalized": 0.17,
+        "metersCoveredRunningKm": 0.97,
+        "metersCoveredHighSpeedRunningKm": 0.28,
+        "metersCoveredSprintingKm": 0.06,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416342": {
+    "id": 16416342,
+    "match_info": {
+      "homeTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1789500600,
+      "slug": "elche-real-madrid",
+      "season": "26/27",
+      "jornada": 6
+    },
+    "player_stats": {
+      "player": {
+        "name": "Federico Redondo",
+        "firstName": "Federico Redondo",
+        "lastName": "",
+        "slug": "federico-redondo",
+        "shortName": "F. Redondo",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 188,
+        "userCount": 3736,
+        "gender": "M",
+        "sofascoreId": "rst-4bu",
+        "id": 1117026,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1042848000,
+        "proposedMarketValueRaw": {
+          "value": 2400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيديريكو ريدوندو",
+            "bn": "ফেদেরিকো রেডন্ডো",
+            "hi": "फेडेरिको रेडोन्डो",
+            "ru": "Федерико Редондо"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. ريدوندو",
+            "bn": "এফ. রেডন্ডো",
+            "hi": "एफ. रेडोन्डो",
+            "ru": "Ф. Редондо"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 135156,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 53,
+        "accuratePass": 52,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 35,
+        "totalOwnHalfPasses": 36,
+        "accurateOppositionHalfPasses": 17,
+        "totalOppositionHalfPasses": 17,
+        "aerialLost": 1,
+        "duelLost": 4,
+        "duelWon": 5,
+        "challengeLost": 2,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalClearance": 3,
+        "outfielderBlock": 1,
+        "interceptionWon": 2,
+        "ballRecovery": 6,
+        "lastManTackle": 1,
+        "totalTackle": 4,
+        "wonTackle": 2,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 90,
+        "touches": 69,
+        "rating": 7.2,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.13975,
+        "topSpeed": 33.26,
+        "kilometersCovered": 10.35,
+        "numberOfSprints": 20,
+        "totalBallCarriesDistance": 294.40845532832,
+        "ballCarriesCount": 28,
+        "totalProgression": 181.67870199709,
+        "bestBallCarryProgression": 27.9218988537,
+        "totalProgressiveBallCarriesDistance": 83.356286882248,
+        "progressiveBallCarriesCount": 3,
+        "ratingVersions": {
+          "original": 7.2,
+          "alternative": 7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.35,
+        "dribbleValueNormalized": 0.16,
+        "defensiveValueNormalized": 0.16,
+        "metersCoveredRunningKm": 1.67,
+        "metersCoveredHighSpeedRunningKm": 0.65,
+        "metersCoveredSprintingKm": 0.26,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421076": {
+    "id": 16421076,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1792246500,
+      "slug": "elche-villarreal",
+      "season": "26/27",
+      "jornada": 9
+    },
+    "player_stats": {
+      "player": {
+        "name": "Federico Redondo",
+        "firstName": "Federico Redondo",
+        "lastName": "",
+        "slug": "federico-redondo",
+        "shortName": "F. Redondo",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 188,
+        "userCount": 3736,
+        "gender": "M",
+        "sofascoreId": "rst-4bu",
+        "id": 1117026,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1042848000,
+        "proposedMarketValueRaw": {
+          "value": 2400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيديريكو ريدوندو",
+            "bn": "ফেদেরিকো রেডন্ডো",
+            "hi": "फेडेरिको रेडोन्डो",
+            "ru": "Федерико Редондо"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. ريدوندو",
+            "bn": "এফ. রেডন্ডো",
+            "hi": "एफ. रेडोन्डो",
+            "ru": "Ф. Редондо"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 135156,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 36,
+        "accuratePass": 34,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 23,
+        "totalOwnHalfPasses": 24,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 12,
+        "duelWon": 1,
+        "totalClearance": 1,
+        "outfielderBlock": 1,
+        "interceptionWon": 2,
+        "ballRecovery": 5,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "minutesPlayed": 62,
+        "touches": 43,
+        "rating": 7.3,
+        "possessionLostCtrl": 2,
+        "expectedAssists": 0.0474778,
+        "topSpeed": 30.55,
+        "kilometersCovered": 6.9,
+        "numberOfSprints": 7,
+        "totalBallCarriesDistance": 124.78980046537,
+        "ballCarriesCount": 15,
+        "totalProgression": 42.578446474942,
+        "bestBallCarryProgression": 18.200295700173,
+        "totalProgressiveBallCarriesDistance": 30.20060663298,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.3,
+          "alternative": 7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.25,
+        "dribbleValueNormalized": 0.07,
+        "defensiveValueNormalized": 0.51,
+        "metersCoveredRunningKm": 0.91,
+        "metersCoveredHighSpeedRunningKm": 0.3,
+        "metersCoveredSprintingKm": 0.09,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
   }
 }

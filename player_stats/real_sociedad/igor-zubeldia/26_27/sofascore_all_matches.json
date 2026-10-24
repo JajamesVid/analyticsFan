@@ -1,0 +1,960 @@
+{
+  "16416340": {
+    "id": 16416340,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 0
+      },
+      "startTimestamp": 1788462000,
+      "slug": "real-sociedad-celta-vigo",
+      "season": "26/27",
+      "jornada": 6
+    },
+    "player_stats": {
+      "player": {
+        "name": "Igor Zubeldia",
+        "firstName": "Igor",
+        "lastName": "Zubeldia",
+        "slug": "igor-zubeldia",
+        "shortName": "I. Zubeldia",
+        "position": "D",
+        "jerseyNumber": "5",
+        "height": 180,
+        "userCount": 1046,
+        "gender": "M",
+        "sofascoreId": "icrmte",
+        "id": 838159,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 859680000,
+        "proposedMarketValueRaw": {
+          "value": 6300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيغور زوبيلديا",
+            "bn": "ইগর জুবেলদিয়া",
+            "hi": "इगोर ज़ुबेल्डिया",
+            "ru": "Игорь Зубельдия"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. زوبيلديا",
+            "bn": "আই. জুবেলদিয়া",
+            "hi": "आई. ज़ुबेल्डिया",
+            "ru": "И. Зубельдия"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 443419,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 56,
+        "accuratePass": 52,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 30,
+        "totalOwnHalfPasses": 30,
+        "accurateOppositionHalfPasses": 22,
+        "totalOppositionHalfPasses": 26,
+        "aerialLost": 1,
+        "duelLost": 3,
+        "duelWon": 4,
+        "challengeLost": 1,
+        "totalClearance": 4,
+        "interceptionWon": 2,
+        "ballRecovery": 2,
+        "totalTackle": 3,
+        "wonTackle": 2,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 69,
+        "rating": 7.2,
+        "possessionLostCtrl": 5,
+        "expectedAssists": 0.0124993,
+        "topSpeed": 27.96,
+        "kilometersCovered": 9.94,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 116.9002934925,
+        "ballCarriesCount": 16,
+        "totalProgression": 69.627858112091,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.2,
+          "alternative": 7.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.16,
+        "dribbleValueNormalized": 0.08,
+        "defensiveValueNormalized": 0.22,
+        "metersCoveredRunningKm": 1.45,
+        "metersCoveredHighSpeedRunningKm": 0.37,
+        "metersCoveredSprintingKm": 0.05,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421067": {
+    "id": 16421067,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 2
+      },
+      "startTimestamp": 1791728100,
+      "slug": "deportivo-de-la-coruna-real-sociedad",
+      "season": "26/27",
+      "jornada": 8
+    },
+    "player_stats": {
+      "player": {
+        "name": "Igor Zubeldia",
+        "firstName": "Igor",
+        "lastName": "Zubeldia",
+        "slug": "igor-zubeldia",
+        "shortName": "I. Zubeldia",
+        "position": "D",
+        "jerseyNumber": "5",
+        "height": 180,
+        "userCount": 927,
+        "gender": "M",
+        "sofascoreId": "icr-mte",
+        "id": 838159,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 859680000,
+        "proposedMarketValueRaw": {
+          "value": 6300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيغور زوبيلديا",
+            "bn": "ইগর জুবেলদিয়া",
+            "hi": "इगोर ज़ुबेल्डिया",
+            "ru": "Игорь Зубельдия"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. زوبيلديا",
+            "bn": "আই. জুবেলদিয়া",
+            "hi": "आई. ज़ुबेल्डिया",
+            "ru": "И. Зубельдия"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 337527,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 5,
+        "accuratePass": 4,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "totalOppositionHalfPasses": 1,
+        "aerialLost": 2,
+        "duelLost": 2,
+        "shotOffTarget": 1,
+        "totalClearance": 1,
+        "ballRecovery": 1,
+        "minutesPlayed": 21,
+        "touches": 9,
+        "rating": 6.6,
+        "possessionLostCtrl": 2,
+        "expectedGoals": 0.0121,
+        "expectedAssists": 7.05e-06,
+        "topSpeed": 26.54,
+        "kilometersCovered": 2.62,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 27.791133504218,
+        "ballCarriesCount": 3,
+        "totalProgression": -17.192277090601,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.5
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.05,
+        "passValueNormalized": -0.02,
+        "dribbleValueNormalized": 0.11,
+        "defensiveValueNormalized": 0.26,
+        "metersCoveredRunningKm": 0.2,
+        "metersCoveredHighSpeedRunningKm": 0.07,
+        "metersCoveredSprintingKm": 0.02,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421051": {
+    "id": 16421051,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1787770800,
+      "slug": "real-madrid-real-sociedad",
+      "season": "26/27",
+      "jornada": 1
+    },
+    "player_stats": {
+      "player": {
+        "name": "Igor Zubeldia",
+        "firstName": "Igor",
+        "lastName": "Zubeldia",
+        "slug": "igor-zubeldia",
+        "shortName": "I. Zubeldia",
+        "position": "D",
+        "jerseyNumber": "5",
+        "height": 180,
+        "userCount": 922,
+        "gender": "M",
+        "sofascoreId": "icr-mte",
+        "id": 838159,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 859680000,
+        "proposedMarketValueRaw": {
+          "value": 6300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيغور زوبيلديا",
+            "bn": "ইগর জুবেলদিয়া",
+            "hi": "इगोर ज़ुबेल्डिया",
+            "ru": "Игорь Зубельдия"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. زوبيلديا",
+            "bn": "আই. জুবেলদিয়া",
+            "hi": "आई. ज़ुबेल्डिया",
+            "ru": "И. Зубельдия"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 334672,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 20,
+        "accuratePass": 17,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 8,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 9,
+        "aerialLost": 1,
+        "duelLost": 2,
+        "duelWon": 3,
+        "dispossessed": 1,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "totalTackle": 3,
+        "wonTackle": 2,
+        "minutesPlayed": 33,
+        "touches": 31,
+        "rating": 6,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.00384616,
+        "topSpeed": 30.82,
+        "kilometersCovered": 3.76,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 50.813708862306,
+        "ballCarriesCount": 5,
+        "totalProgression": 14.668183977692,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6,
+          "alternative": 6.2
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.03,
+        "dribbleValueNormalized": -0.02,
+        "defensiveValueNormalized": -0.43,
+        "metersCoveredRunningKm": 0.56,
+        "metersCoveredHighSpeedRunningKm": 0.15,
+        "metersCoveredSprintingKm": 0.07,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416293": {
+    "id": 16416293,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1787338800,
+      "slug": "real-sociedad-real-betis",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Igor Zubeldia",
+        "firstName": "Igor",
+        "lastName": "Zubeldia",
+        "slug": "igor-zubeldia",
+        "shortName": "I. Zubeldia",
+        "position": "D",
+        "jerseyNumber": "5",
+        "height": 180,
+        "userCount": 922,
+        "gender": "M",
+        "sofascoreId": "icr-mte",
+        "id": 838159,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 859680000,
+        "proposedMarketValueRaw": {
+          "value": 6300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيغور زوبيلديا",
+            "bn": "ইগর জুবেলদিয়া",
+            "hi": "इगोर ज़ुबेल्डिया",
+            "ru": "Игорь Зубельдия"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. زوبيلديا",
+            "bn": "আই. জুবেলদিয়া",
+            "hi": "आई. ज़ुबेल्डिया",
+            "ru": "И. Зубельдия"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 334672,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 75,
+        "accuratePass": 65,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 49,
+        "totalOwnHalfPasses": 52,
+        "accurateOppositionHalfPasses": 16,
+        "totalOppositionHalfPasses": 23,
+        "aerialLost": 1,
+        "aerialWon": 3,
+        "duelLost": 3,
+        "duelWon": 4,
+        "challengeLost": 1,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "fouls": 1,
+        "totalOffside": 1,
+        "minutesPlayed": 90,
+        "touches": 80,
+        "rating": 6.5,
+        "possessionLostCtrl": 10,
+        "expectedAssists": 0.00700556,
+        "topSpeed": 31.28,
+        "kilometersCovered": 10.42,
+        "numberOfSprints": 14,
+        "totalBallCarriesDistance": 197.25240617108,
+        "ballCarriesCount": 27,
+        "totalProgression": 50.883920697218,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.1,
+        "dribbleValueNormalized": 0.06,
+        "defensiveValueNormalized": -0.27,
+        "metersCoveredRunningKm": 1.46,
+        "metersCoveredHighSpeedRunningKm": 0.6,
+        "metersCoveredSprintingKm": 0.24,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416310": {
+    "id": 16416310,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1788022800,
+      "slug": "real-sociedad-espanyol",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Igor Zubeldia",
+        "firstName": "Igor",
+        "lastName": "Zubeldia",
+        "slug": "igor-zubeldia",
+        "shortName": "I. Zubeldia",
+        "position": "D",
+        "jerseyNumber": "5",
+        "height": 180,
+        "userCount": 922,
+        "gender": "M",
+        "sofascoreId": "icr-mte",
+        "id": 838159,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 859680000,
+        "proposedMarketValueRaw": {
+          "value": 6300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيغور زوبيلديا",
+            "bn": "ইগর জুবেলদিয়া",
+            "hi": "इगोर ज़ुबेल्डिया",
+            "ru": "Игорь Зубельдия"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. زوبيلديا",
+            "bn": "আই. জুবেলদিয়া",
+            "hi": "आई. ज़ुबेल्डिया",
+            "ru": "И. Зубельдия"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 336182,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 52,
+        "accuratePass": 41,
+        "totalLongBalls": 8,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 28,
+        "totalOwnHalfPasses": 31,
+        "accurateOppositionHalfPasses": 13,
+        "totalOppositionHalfPasses": 21,
+        "aerialLost": 2,
+        "aerialWon": 3,
+        "duelLost": 3,
+        "duelWon": 6,
+        "totalClearance": 3,
+        "interceptionWon": 2,
+        "ballRecovery": 1,
+        "lastManTackle": 1,
+        "totalTackle": 3,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 62,
+        "rating": 7.1,
+        "possessionLostCtrl": 11,
+        "expectedAssists": 0.0483441,
+        "topSpeed": 28.63,
+        "kilometersCovered": 9.49,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 153.76639208358,
+        "ballCarriesCount": 23,
+        "totalProgression": 59.58784245887,
+        "bestBallCarryProgression": 15.536256687188,
+        "totalProgressiveBallCarriesDistance": 16.306931808283,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.1,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.25,
+        "dribbleValueNormalized": 0.08,
+        "defensiveValueNormalized": 0.37,
+        "metersCoveredRunningKm": 1.46,
+        "metersCoveredHighSpeedRunningKm": 0.29,
+        "metersCoveredSprintingKm": 0.04,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416319": {
+    "id": 16416319,
+    "match_info": {
+      "homeTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1788809400,
+      "slug": "elche-real-sociedad",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "Igor Zubeldia",
+        "firstName": "Igor",
+        "lastName": "Zubeldia",
+        "slug": "igor-zubeldia",
+        "shortName": "I. Zubeldia",
+        "position": "D",
+        "jerseyNumber": "5",
+        "height": 180,
+        "userCount": 909,
+        "gender": "M",
+        "sofascoreId": "icr-mte",
+        "id": 838159,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 859680000,
+        "proposedMarketValueRaw": {
+          "value": 6300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيغور زوبيلديا",
+            "bn": "ইগর জুবেলদিয়া",
+            "hi": "इगोर ज़ुबेल्डिया",
+            "ru": "Игорь Зубельдия"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. زوبيلديا",
+            "bn": "আই. জুবেলদিয়া",
+            "hi": "आई. ज़ुबेल्डिया",
+            "ru": "И. Зубельдия"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 335559,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 29,
+        "accuratePass": 23,
+        "totalLongBalls": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 16,
+        "totalOwnHalfPasses": 18,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 11,
+        "aerialLost": 3,
+        "aerialWon": 1,
+        "duelLost": 4,
+        "duelWon": 5,
+        "challengeLost": 1,
+        "totalClearance": 7,
+        "interceptionWon": 1,
+        "ballRecovery": 3,
+        "totalTackle": 4,
+        "wonTackle": 3,
+        "unsuccessfulTouch": 2,
+        "minutesPlayed": 90,
+        "touches": 47,
+        "rating": 6.3,
+        "possessionLostCtrl": 8,
+        "expectedAssists": 0.00137237,
+        "topSpeed": 31.07,
+        "kilometersCovered": 10.28,
+        "numberOfSprints": 12,
+        "totalBallCarriesDistance": 82.553949892634,
+        "ballCarriesCount": 11,
+        "totalProgression": 19.13826923652,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.03,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": -0.25,
+        "metersCoveredRunningKm": 1.46,
+        "metersCoveredHighSpeedRunningKm": 0.44,
+        "metersCoveredSprintingKm": 0.15,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421073": {
+    "id": 16421073,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 5
+      },
+      "startTimestamp": 1792341000,
+      "slug": "malaga-cf-real-sociedad",
+      "season": "26/27",
+      "jornada": 9
+    },
+    "player_stats": {
+      "player": {
+        "name": "Igor Zubeldia",
+        "firstName": "Igor",
+        "lastName": "Zubeldia",
+        "slug": "igor-zubeldia",
+        "shortName": "I. Zubeldia",
+        "position": "D",
+        "jerseyNumber": "5",
+        "height": 180,
+        "userCount": 905,
+        "gender": "M",
+        "sofascoreId": "icr-mte",
+        "id": 838159,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 859680000,
+        "proposedMarketValueRaw": {
+          "value": 6300000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيغور زوبيلديا",
+            "bn": "ইগর জুবেলদিয়া",
+            "hi": "इगोर ज़ुबेल्डिया",
+            "ru": "Игорь Зубельдия"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. زوبيلديا",
+            "bn": "আই. জুবেলদিয়া",
+            "hi": "आई. ज़ुबेल्डिया",
+            "ru": "И. Зубельдия"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 335088,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 15,
+        "accuratePass": 12,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 9,
+        "totalOwnHalfPasses": 10,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 5,
+        "totalClearance": 2,
+        "outfielderBlock": 1,
+        "minutesPlayed": 29,
+        "touches": 18,
+        "rating": 6.6,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 0.00042004,
+        "topSpeed": 29.1,
+        "kilometersCovered": 3.51,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 6.2485103024641,
+        "ballCarriesCount": 1,
+        "totalProgression": 5.4519167040549,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.01,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": 0.23,
+        "metersCoveredRunningKm": 0.3,
+        "metersCoveredHighSpeedRunningKm": 0.14,
+        "metersCoveredSprintingKm": 0.11,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

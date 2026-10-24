@@ -95,5 +95,918 @@
       "position": "D",
       "extra": null
     }
+  },
+  "16416304": {
+    "id": 16416304,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1787936400,
+      "slug": "elche-real-racing-club",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Bigas",
+        "firstName": "Pedro",
+        "lastName": "Bigas",
+        "slug": "pedro-bigas",
+        "shortName": "P. Bigas",
+        "position": "D",
+        "jerseyNumber": "6",
+        "height": 180,
+        "userCount": 351,
+        "gender": "M",
+        "sofascoreId": "em2p38",
+        "id": 141832,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 635040000,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو بيجاس",
+            "bn": "পেড্রো বিগাস",
+            "hi": "पेड्रो बिगास",
+            "ru": "Педро Бигас"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بيجاس",
+            "bn": "পি. বিগাস",
+            "hi": "पी. बिगास",
+            "ru": "П. Бигас"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 131879,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 46,
+        "accuratePass": 41,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 19,
+        "totalOwnHalfPasses": 19,
+        "accurateOppositionHalfPasses": 22,
+        "totalOppositionHalfPasses": 27,
+        "aerialWon": 1,
+        "duelLost": 1,
+        "duelWon": 1,
+        "totalClearance": 2,
+        "outfielderBlock": 1,
+        "interceptionWon": 1,
+        "fouls": 1,
+        "minutesPlayed": 62,
+        "touches": 55,
+        "rating": 6.2,
+        "possessionLostCtrl": 6,
+        "expectedAssists": 0.0140877,
+        "topSpeed": 30.55,
+        "kilometersCovered": 7.18,
+        "numberOfSprints": 8,
+        "totalBallCarriesDistance": 145.17203096475,
+        "ballCarriesCount": 17,
+        "totalProgression": 92.041495212019,
+        "bestBallCarryProgression": 30.51857330283,
+        "totalProgressiveBallCarriesDistance": 33.508526213488,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.2,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.02,
+        "dribbleValueNormalized": 0.11,
+        "defensiveValueNormalized": -0.38,
+        "metersCoveredRunningKm": 1.17,
+        "metersCoveredHighSpeedRunningKm": 0.38,
+        "metersCoveredSprintingKm": 0.11,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416299": {
+    "id": 16416299,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1789758000,
+      "slug": "elche-espanyol",
+      "season": "26/27",
+      "jornada": 7
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Bigas",
+        "firstName": "Pedro",
+        "lastName": "Bigas",
+        "slug": "pedro-bigas",
+        "shortName": "P. Bigas",
+        "position": "D",
+        "jerseyNumber": "6",
+        "height": 180,
+        "userCount": 320,
+        "gender": "M",
+        "sofascoreId": "em2-p38",
+        "id": 141832,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 635040000,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو بيجاس",
+            "bn": "পেড্রো বিগাস",
+            "hi": "पेड्रो बिगास",
+            "ru": "Педро Бигас"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بيجاس",
+            "bn": "পি. বিগাস",
+            "hi": "पी. बिगास",
+            "ru": "П. Бигас"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 135252,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 1,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "totalOwnHalfPasses": 1,
+        "aerialLost": 4,
+        "duelLost": 4,
+        "totalClearance": 5,
+        "outfielderBlock": 2,
+        "minutesPlayed": 30,
+        "touches": 8,
+        "rating": 6.5,
+        "possessionLostCtrl": 1,
+        "topSpeed": 24.31,
+        "kilometersCovered": 3.1,
+        "numberOfSprints": 0,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0,
+        "defensiveValueNormalized": 0.34,
+        "metersCoveredRunningKm": 0.28,
+        "metersCoveredHighSpeedRunningKm": 0.05,
+        "metersCoveredSprintingKm": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421058": {
+    "id": 16421058,
+    "match_info": {
+      "homeTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 0
+      },
+      "startTimestamp": 1791720000,
+      "slug": "elche-celta-vigo",
+      "season": "26/27",
+      "jornada": 8
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Bigas",
+        "firstName": "Pedro",
+        "lastName": "Bigas",
+        "slug": "pedro-bigas",
+        "shortName": "P. Bigas",
+        "position": "D",
+        "jerseyNumber": "6",
+        "height": 180,
+        "userCount": 320,
+        "gender": "M",
+        "sofascoreId": "em2-p38",
+        "id": 141832,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 635040000,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو بيجاس",
+            "bn": "পেড্রো বিগাস",
+            "hi": "पेड्रो बिगास",
+            "ru": "Педро Бигас"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بيجاس",
+            "bn": "পি. বিগাস",
+            "hi": "पी. बिगास",
+            "ru": "П. Бигас"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 135252,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416311": {
+    "id": 16416311,
+    "match_info": {
+      "homeTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 5
+      },
+      "startTimestamp": 1787513400,
+      "slug": "elche-fc-barcelona",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Bigas",
+        "firstName": "Pedro",
+        "lastName": "Bigas",
+        "slug": "pedro-bigas",
+        "shortName": "P. Bigas",
+        "position": "D",
+        "jerseyNumber": "6",
+        "height": 180,
+        "userCount": 320,
+        "gender": "M",
+        "sofascoreId": "em2-p38",
+        "id": 141832,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 635040000,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو بيجاس",
+            "bn": "পেড্রো বিগাস",
+            "hi": "पेड्रो बिगास",
+            "ru": "Педро Бигас"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بيجاس",
+            "bn": "পি. বিগাস",
+            "hi": "पी. बिगास",
+            "ru": "П. Бигас"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 135668,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 6,
+        "accuratePass": 4,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 2,
+        "minutesPlayed": 9,
+        "touches": 8,
+        "rating": 6.6,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 0.00063123,
+        "topSpeed": 28.06,
+        "kilometersCovered": 1.44,
+        "numberOfSprints": 1,
+        "totalBallCarriesDistance": 3.6606885964255,
+        "ballCarriesCount": 1,
+        "totalProgression": 0.88772625737165,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.08,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": -0.03,
+        "metersCoveredRunningKm": 0.36,
+        "metersCoveredHighSpeedRunningKm": 0.08,
+        "metersCoveredSprintingKm": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416319": {
+    "id": 16416319,
+    "match_info": {
+      "homeTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1788809400,
+      "slug": "elche-real-sociedad",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Bigas",
+        "firstName": "Pedro",
+        "lastName": "Bigas",
+        "slug": "pedro-bigas",
+        "shortName": "P. Bigas",
+        "position": "D",
+        "jerseyNumber": "6",
+        "height": 180,
+        "userCount": 319,
+        "gender": "M",
+        "sofascoreId": "em2-p38",
+        "id": 141832,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 635040000,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو بيجاس",
+            "bn": "পেড্রো বিগাস",
+            "hi": "पेड्रो बिगास",
+            "ru": "Педро Бигас"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بيجاس",
+            "bn": "পি. বিগাস",
+            "hi": "पी. बिगास",
+            "ru": "П. Бигас"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 135416,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 69,
+        "accuratePass": 64,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 43,
+        "totalOwnHalfPasses": 44,
+        "accurateOppositionHalfPasses": 21,
+        "totalOppositionHalfPasses": 25,
+        "duelLost": 1,
+        "duelWon": 1,
+        "onTargetScoringAttempt": 1,
+        "ballRecovery": 5,
+        "errorLeadToAGoal": 1,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 76,
+        "rating": 5.4,
+        "possessionLostCtrl": 7,
+        "expectedGoals": 0.0187,
+        "expectedGoalsOnTarget": 0.0278,
+        "expectedAssists": 0.0129684,
+        "topSpeed": 32.24,
+        "kilometersCovered": 10.35,
+        "numberOfSprints": 11,
+        "totalBallCarriesDistance": 175.23474601874,
+        "ballCarriesCount": 20,
+        "totalProgression": 52.579678370395,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 5.4,
+          "alternative": 5.9
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.04,
+        "passValueNormalized": 0.08,
+        "dribbleValueNormalized": 0.09,
+        "defensiveValueNormalized": -0.94,
+        "metersCoveredRunningKm": 1.54,
+        "metersCoveredHighSpeedRunningKm": 0.52,
+        "metersCoveredSprintingKm": 0.22,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416322": {
+    "id": 16416322,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1789230600,
+      "slug": "elche-athletic-club",
+      "season": "26/27",
+      "jornada": 5
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Bigas",
+        "firstName": "Pedro",
+        "lastName": "Bigas",
+        "slug": "pedro-bigas",
+        "shortName": "P. Bigas",
+        "position": "D",
+        "jerseyNumber": "6",
+        "height": 180,
+        "userCount": 319,
+        "gender": "M",
+        "sofascoreId": "em2-p38",
+        "id": 141832,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 635040000,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو بيجاس",
+            "bn": "পেড্রো বিগাস",
+            "hi": "पेड्रो बिगास",
+            "ru": "Педро Бигас"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بيجاس",
+            "bn": "পি. বিগাস",
+            "hi": "पी. बिगास",
+            "ru": "П. Бигас"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 135416,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416342": {
+    "id": 16416342,
+    "match_info": {
+      "homeTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1789500600,
+      "slug": "elche-real-madrid",
+      "season": "26/27",
+      "jornada": 6
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Bigas",
+        "firstName": "Pedro",
+        "lastName": "Bigas",
+        "slug": "pedro-bigas",
+        "shortName": "P. Bigas",
+        "position": "D",
+        "jerseyNumber": "6",
+        "height": 180,
+        "userCount": 319,
+        "gender": "M",
+        "sofascoreId": "em2-p38",
+        "id": 141832,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 635040000,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو بيجاس",
+            "bn": "পেড্রো বিগাস",
+            "hi": "पेड्रो बिगास",
+            "ru": "Педро Бигас"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بيجاس",
+            "bn": "পি. বিগাস",
+            "hi": "पी. बिगास",
+            "ru": "П. Бигас"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 135156,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421076": {
+    "id": 16421076,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1792246500,
+      "slug": "elche-villarreal",
+      "season": "26/27",
+      "jornada": 9
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pedro Bigas",
+        "firstName": "Pedro",
+        "lastName": "Bigas",
+        "slug": "pedro-bigas",
+        "shortName": "P. Bigas",
+        "position": "D",
+        "jerseyNumber": "6",
+        "height": 180,
+        "userCount": 319,
+        "gender": "M",
+        "sofascoreId": "em2-p38",
+        "id": 141832,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 635040000,
+        "proposedMarketValueRaw": {
+          "value": 310000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو بيجاس",
+            "bn": "পেড্রো বিগাস",
+            "hi": "पेड्रो बिगास",
+            "ru": "Педро Бигас"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بيجاس",
+            "bn": "পি. বিগাস",
+            "hi": "पी. बिगास",
+            "ru": "П. Бигас"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 135156,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
   }
 }

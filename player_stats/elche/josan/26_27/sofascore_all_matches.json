@@ -95,5 +95,896 @@
       "position": "M",
       "extra": null
     }
+  },
+  "16416304": {
+    "id": 16416304,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "R. Racing Club",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1787936400,
+      "slug": "elche-real-racing-club",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Josan",
+        "firstName": "Jose Antonio",
+        "lastName": "Josan",
+        "slug": "josan",
+        "shortName": "Josan",
+        "position": "M",
+        "jerseyNumber": "17",
+        "height": 175,
+        "userCount": 178,
+        "gender": "M",
+        "sofascoreId": "ihr2ne",
+        "id": 808955,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 628646400,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جوسان",
+            "bn": "জোসান",
+            "hi": "जोसन",
+            "ru": "Йосан"
+          },
+          "shortNameTranslation": {
+            "ar": "جوسان",
+            "bn": "জোসান",
+            "hi": "जोसन",
+            "ru": "Йосан"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 131879,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 8,
+        "accuratePass": 6,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 6,
+        "totalCross": 6,
+        "accurateCross": 1,
+        "duelWon": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 12,
+        "touches": 17,
+        "rating": 7,
+        "possessionLostCtrl": 8,
+        "expectedAssists": 0.201818,
+        "topSpeed": 23.63,
+        "kilometersCovered": 1.15,
+        "numberOfSprints": 0,
+        "totalBallCarriesDistance": 76.535000768382,
+        "ballCarriesCount": 8,
+        "totalProgression": 43.389874605789,
+        "bestBallCarryProgression": 14.617079500047,
+        "totalProgressiveBallCarriesDistance": 36.225260294724,
+        "progressiveBallCarriesCount": 2,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.28,
+        "dribbleValueNormalized": 0.17,
+        "defensiveValueNormalized": -0.01,
+        "metersCoveredRunningKm": 0.15,
+        "metersCoveredHighSpeedRunningKm": 0.04,
+        "metersCoveredSprintingKm": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416299": {
+    "id": 16416299,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1789758000,
+      "slug": "elche-espanyol",
+      "season": "26/27",
+      "jornada": 7
+    },
+    "player_stats": {
+      "player": {
+        "name": "Josan",
+        "firstName": "Jose Antonio",
+        "lastName": "Josan",
+        "slug": "josan",
+        "shortName": "Josan",
+        "position": "M",
+        "jerseyNumber": "17",
+        "height": 175,
+        "userCount": 187,
+        "gender": "M",
+        "sofascoreId": "ihr-2ne",
+        "id": 808955,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 628646400,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جوسان",
+            "bn": "জোসান",
+            "hi": "जोसन",
+            "ru": "Йосан"
+          },
+          "shortNameTranslation": {
+            "ar": "جوسان",
+            "bn": "জোসান",
+            "hi": "जोसन",
+            "ru": "Йосан"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 135252,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16421058": {
+    "id": 16421058,
+    "match_info": {
+      "homeTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 0
+      },
+      "startTimestamp": 1791720000,
+      "slug": "elche-celta-vigo",
+      "season": "26/27",
+      "jornada": 8
+    },
+    "player_stats": {
+      "player": {
+        "name": "Josan",
+        "firstName": "Jose Antonio",
+        "lastName": "Josan",
+        "slug": "josan",
+        "shortName": "Josan",
+        "position": "M",
+        "jerseyNumber": "17",
+        "height": 175,
+        "userCount": 187,
+        "gender": "M",
+        "sofascoreId": "ihr-2ne",
+        "id": 808955,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 628646400,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جوسان",
+            "bn": "জোসান",
+            "hi": "जोसन",
+            "ru": "Йосан"
+          },
+          "shortNameTranslation": {
+            "ar": "جوسان",
+            "bn": "জোসান",
+            "hi": "जोसन",
+            "ru": "Йосан"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 135252,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416311": {
+    "id": 16416311,
+    "match_info": {
+      "homeTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 5
+      },
+      "startTimestamp": 1787513400,
+      "slug": "elche-fc-barcelona",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Josan",
+        "firstName": "Jose Antonio",
+        "lastName": "Josan",
+        "slug": "josan",
+        "shortName": "Josan",
+        "position": "M",
+        "jerseyNumber": "17",
+        "height": 175,
+        "userCount": 188,
+        "gender": "M",
+        "sofascoreId": "ihr-2ne",
+        "id": 808955,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 628646400,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جوسان",
+            "bn": "জোসান",
+            "hi": "जोसन",
+            "ru": "Йосан"
+          },
+          "shortNameTranslation": {
+            "ar": "جوسان",
+            "bn": "জোসান",
+            "hi": "जोसन",
+            "ru": "Йосан"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 135668,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416319": {
+    "id": 16416319,
+    "match_info": {
+      "homeTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1788809400,
+      "slug": "elche-real-sociedad",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "Josan",
+        "firstName": "Jose Antonio",
+        "lastName": "Josan",
+        "slug": "josan",
+        "shortName": "Josan",
+        "position": "M",
+        "jerseyNumber": "17",
+        "height": 175,
+        "userCount": 188,
+        "gender": "M",
+        "sofascoreId": "ihr-2ne",
+        "id": 808955,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 628646400,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جوسان",
+            "bn": "জোসান",
+            "hi": "जोसन",
+            "ru": "Йосан"
+          },
+          "shortNameTranslation": {
+            "ar": "جوسان",
+            "bn": "জোসান",
+            "hi": "जोसन",
+            "ru": "Йосан"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 135416,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 4,
+        "accuratePass": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 2,
+        "totalCross": 5,
+        "accurateCross": 3,
+        "bigChanceCreated": 1,
+        "minutesPlayed": 9,
+        "touches": 11,
+        "rating": 6.9,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 0.372184,
+        "topSpeed": 29.85,
+        "kilometersCovered": 1.73,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 34.35896525473,
+        "ballCarriesCount": 4,
+        "totalProgression": 24.120673604051,
+        "bestBallCarryProgression": 7.4930565753548,
+        "totalProgressiveBallCarriesDistance": 8.5784847146801,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 3,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.43,
+        "dribbleValueNormalized": -0.03,
+        "defensiveValueNormalized": -0.06,
+        "metersCoveredRunningKm": 0.31,
+        "metersCoveredHighSpeedRunningKm": 0.12,
+        "metersCoveredSprintingKm": 0.06,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416322": {
+    "id": 16416322,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1789230600,
+      "slug": "elche-athletic-club",
+      "season": "26/27",
+      "jornada": 5
+    },
+    "player_stats": {
+      "player": {
+        "name": "Josan",
+        "firstName": "Jose Antonio",
+        "lastName": "Josan",
+        "slug": "josan",
+        "shortName": "Josan",
+        "position": "M",
+        "jerseyNumber": "17",
+        "height": 175,
+        "userCount": 188,
+        "gender": "M",
+        "sofascoreId": "ihr-2ne",
+        "id": 808955,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 628646400,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جوسان",
+            "bn": "জোসান",
+            "hi": "जोसन",
+            "ru": "Йосан"
+          },
+          "shortNameTranslation": {
+            "ar": "جوسان",
+            "bn": "জোসান",
+            "hi": "जोसन",
+            "ru": "Йосан"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 135416,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416342": {
+    "id": 16416342,
+    "match_info": {
+      "homeTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1789500600,
+      "slug": "elche-real-madrid",
+      "season": "26/27",
+      "jornada": 6
+    },
+    "player_stats": {
+      "player": {
+        "name": "Josan",
+        "firstName": "Jose Antonio",
+        "lastName": "Josan",
+        "slug": "josan",
+        "shortName": "Josan",
+        "position": "M",
+        "jerseyNumber": "17",
+        "height": 175,
+        "userCount": 189,
+        "gender": "M",
+        "sofascoreId": "ihr-2ne",
+        "id": 808955,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 628646400,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جوسان",
+            "bn": "জোসান",
+            "hi": "जोसन",
+            "ru": "Йосан"
+          },
+          "shortNameTranslation": {
+            "ar": "جوسان",
+            "bn": "জোসান",
+            "hi": "जोसन",
+            "ru": "Йосан"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 135156,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 6,
+        "accuratePass": 5,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 1,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 5,
+        "totalCross": 1,
+        "duelLost": 3,
+        "duelWon": 1,
+        "challengeLost": 2,
+        "totalContest": 1,
+        "wonContest": 1,
+        "unsuccessfulTouch": 2,
+        "fouls": 1,
+        "minutesPlayed": 10,
+        "touches": 14,
+        "rating": 6.5,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.036776,
+        "topSpeed": 31.56,
+        "kilometersCovered": 1.91,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 51.597731250137,
+        "ballCarriesCount": 5,
+        "totalProgression": 36.347188749772,
+        "bestBallCarryProgression": 16.019748729391,
+        "totalProgressiveBallCarriesDistance": 19.331963169839,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.28,
+        "dribbleValueNormalized": 0.08,
+        "defensiveValueNormalized": -0.25,
+        "metersCoveredRunningKm": 0.33,
+        "metersCoveredHighSpeedRunningKm": 0.2,
+        "metersCoveredSprintingKm": 0.11,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16421076": {
+    "id": 16421076,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1792246500,
+      "slug": "elche-villarreal",
+      "season": "26/27",
+      "jornada": 9
+    },
+    "player_stats": {
+      "player": {
+        "name": "Josan",
+        "firstName": "Jose Antonio",
+        "lastName": "Josan",
+        "slug": "josan",
+        "shortName": "Josan",
+        "position": "M",
+        "jerseyNumber": "17",
+        "height": 175,
+        "userCount": 189,
+        "gender": "M",
+        "sofascoreId": "ihr-2ne",
+        "id": 808955,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 628646400,
+        "proposedMarketValueRaw": {
+          "value": 105000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جوسان",
+            "bn": "জোসান",
+            "hi": "जोसन",
+            "ru": "Йосан"
+          },
+          "shortNameTranslation": {
+            "ar": "جوسان",
+            "bn": "জোসান",
+            "hi": "जोसन",
+            "ru": "Йосан"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 135156,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
   }
 }

@@ -128,5 +128,201 @@
       "position": "M",
       "extra": null
     }
+  },
+  "16416309": {
+    "id": 16416309,
+    "match_info": {
+      "homeTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1788015600,
+      "slug": "levante-ud-real-betis",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Carlos Álvarez",
+        "slug": "carlos-alvarez",
+        "shortName": "C. Álvarez",
+        "position": "M",
+        "jerseyNumber": "10",
+        "height": 168,
+        "userCount": 2713,
+        "gender": "M",
+        "sofascoreId": "8jri9h",
+        "id": 1010656,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1060128000,
+        "proposedMarketValueRaw": {
+          "value": 15500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارلوس ألفاريز",
+            "bn": "কার্লোস আলভারেজ",
+            "hi": "कार्लोस अल्वारेज़",
+            "ru": "Карлос Альварес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. ألفاريز",
+            "bn": "সি. আলভারেজ",
+            "hi": "सी. अल्वारेज़",
+            "ru": "К. Альварес"
+          }
+        }
+      },
+      "team": {
+        "name": "Levante UD",
+        "slug": "levante-ud",
+        "shortName": "Levante",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 123858,
+        "nameCode": "LEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2849,
+        "teamColors": {
+          "primary": "#0e3b68",
+          "secondary": "#d70000",
+          "text": "#d70000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفانتي",
+            "hi": "लेवांटे यूडी",
+            "ru": "Леванте"
+          },
+          "shortNameTranslation": {
+            "ar": "ليفانتي",
+            "bn": "লেভান্তে",
+            "hi": "लेवांते"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416296": {
+    "id": 16416296,
+    "match_info": {
+      "homeTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 0
+      },
+      "startTimestamp": 1787592600,
+      "slug": "levante-ud-osasuna",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Carlos Álvarez",
+        "slug": "carlos-alvarez",
+        "shortName": "C. Álvarez",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 168,
+        "userCount": 2999,
+        "gender": "M",
+        "sofascoreId": "8jr-i9h",
+        "id": 1010656,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1060128000,
+        "proposedMarketValueRaw": {
+          "value": 15500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارلوس ألفاريز",
+            "bn": "কার্লোস আলভারেজ",
+            "hi": "कार्लोस अल्वारेज़",
+            "ru": "Карлос Альварес"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. ألفاريز",
+            "bn": "সি. আলভারেজ",
+            "hi": "सी. अल्वारेज़",
+            "ru": "К. Альварес"
+          }
+        }
+      },
+      "team": {
+        "name": "Levante UD",
+        "slug": "levante-ud",
+        "shortName": "Levante",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 123282,
+        "nameCode": "LEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2849,
+        "teamColors": {
+          "primary": "#0e3b68",
+          "secondary": "#d70000",
+          "text": "#d70000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفانتي",
+            "hi": "लेवांटे यूडी",
+            "ru": "Леванте"
+          },
+          "shortNameTranslation": {
+            "ar": "ليفانتي",
+            "bn": "লেভান্তে",
+            "hi": "लेवांते"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
   }
 }

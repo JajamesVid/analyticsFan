@@ -1,0 +1,977 @@
+{
+  "16416340": {
+    "id": 16416340,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 0
+      },
+      "startTimestamp": 1788462000,
+      "slug": "real-sociedad-celta-vigo",
+      "season": "26/27",
+      "jornada": 6
+    },
+    "player_stats": {
+      "player": {
+        "name": "Aihen Muñoz",
+        "slug": "aihen-munoz",
+        "shortName": "A. Muñoz",
+        "position": "D",
+        "jerseyNumber": "3",
+        "height": 175,
+        "userCount": 498,
+        "gender": "M",
+        "sofascoreId": "8jjd9q",
+        "id": 966441,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 871689600,
+        "proposedMarketValueRaw": {
+          "value": 2600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أيهن مونيوز",
+            "bn": "আইহেন মুনোজ",
+            "hi": "ऐहेन मुनोज़",
+            "ru": "Айен Муньос"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. مونيوز",
+            "bn": "এ. মুনোজ",
+            "hi": "ए. मुनोज़",
+            "ru": "А. Муньос"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 443419,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416297": {
+    "id": 16416297,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1789930800,
+      "slug": "valencia-real-sociedad",
+      "season": "26/27",
+      "jornada": 7
+    },
+    "player_stats": {
+      "player": {
+        "name": "Aihen Muñoz",
+        "slug": "aihen-munoz",
+        "shortName": "A. Muñoz",
+        "position": "D",
+        "jerseyNumber": "3",
+        "height": 175,
+        "userCount": 443,
+        "gender": "M",
+        "sofascoreId": "8jj-d9q",
+        "id": 966441,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 871689600,
+        "proposedMarketValueRaw": {
+          "value": 2600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أيهن مونيوز",
+            "bn": "আইহেন মুনোজ",
+            "hi": "ऐहेन मुनोज़",
+            "ru": "Айен Муньос"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. مونيوز",
+            "bn": "এ. মুনোজ",
+            "hi": "ए. मुनोज़",
+            "ru": "А. Муньос"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 337527,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 7,
+        "accuratePass": 7,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 5,
+        "duelLost": 1,
+        "challengeLost": 1,
+        "totalClearance": 1,
+        "interceptionWon": 2,
+        "ballRecovery": 1,
+        "fouls": 1,
+        "minutesPlayed": 21,
+        "touches": 12,
+        "rating": 6.2,
+        "possessionLostCtrl": 1,
+        "expectedAssists": 0.00525297,
+        "topSpeed": 27.94,
+        "kilometersCovered": 2.53,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 11.420134339993,
+        "ballCarriesCount": 2,
+        "totalProgression": 9.1746709799349,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.2,
+          "alternative": 6.3
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.04,
+        "dribbleValueNormalized": 0.05,
+        "defensiveValueNormalized": -0.26,
+        "metersCoveredRunningKm": 0.42,
+        "metersCoveredHighSpeedRunningKm": 0.07,
+        "metersCoveredSprintingKm": 0.02,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421067": {
+    "id": 16421067,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 2
+      },
+      "startTimestamp": 1791728100,
+      "slug": "deportivo-de-la-coruna-real-sociedad",
+      "season": "26/27",
+      "jornada": 8
+    },
+    "player_stats": {
+      "player": {
+        "name": "Aihen Muñoz",
+        "slug": "aihen-munoz",
+        "shortName": "A. Muñoz",
+        "position": "D",
+        "jerseyNumber": "3",
+        "height": 175,
+        "userCount": 443,
+        "gender": "M",
+        "sofascoreId": "8jj-d9q",
+        "id": 966441,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 871689600,
+        "proposedMarketValueRaw": {
+          "value": 2600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أيهن مونيوز",
+            "bn": "আইহেন মুনোজ",
+            "hi": "ऐहेन मुनोज़",
+            "ru": "Айен Муньос"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. مونيوز",
+            "bn": "এ. মুনোজ",
+            "hi": "ए. मुनोज़",
+            "ru": "А. Муньос"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 337527,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421051": {
+    "id": 16421051,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1787770800,
+      "slug": "real-madrid-real-sociedad",
+      "season": "26/27",
+      "jornada": 1
+    },
+    "player_stats": {
+      "player": {
+        "name": "Aihen Muñoz",
+        "slug": "aihen-munoz",
+        "shortName": "A. Muñoz",
+        "position": "D",
+        "jerseyNumber": "3",
+        "height": 175,
+        "userCount": 443,
+        "gender": "M",
+        "sofascoreId": "8jj-d9q",
+        "id": 966441,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 871689600,
+        "proposedMarketValueRaw": {
+          "value": 2600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أيهن مونيوز",
+            "bn": "আইহেন মুনোজ",
+            "hi": "ऐहेन मुनोज़",
+            "ru": "Айен Муньос"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. مونيوز",
+            "bn": "এ. মুনোজ",
+            "hi": "ए. मुनोज़",
+            "ru": "А. Муньос"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 334672,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416293": {
+    "id": 16416293,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1787338800,
+      "slug": "real-sociedad-real-betis",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Aihen Muñoz",
+        "slug": "aihen-munoz",
+        "shortName": "A. Muñoz",
+        "position": "D",
+        "jerseyNumber": "3",
+        "height": 175,
+        "userCount": 443,
+        "gender": "M",
+        "sofascoreId": "8jj-d9q",
+        "id": 966441,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 871689600,
+        "proposedMarketValueRaw": {
+          "value": 2600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أيهن مونيوز",
+            "bn": "আইহেন মুনোজ",
+            "hi": "ऐहेन मुनोज़",
+            "ru": "Айен Муньос"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. مونيوز",
+            "bn": "এ. মুনোজ",
+            "hi": "ए. मुनोज़",
+            "ru": "А. Муньос"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 334672,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 7,
+        "accuratePass": 6,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 5,
+        "totalCross": 2,
+        "accurateCross": 1,
+        "duelWon": 2,
+        "outfielderBlock": 1,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "errorLeadToAShot": 1,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 18,
+        "touches": 15,
+        "rating": 6.7,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 0.0169976,
+        "topSpeed": 29.83,
+        "kilometersCovered": 2.53,
+        "numberOfSprints": 6,
+        "totalBallCarriesDistance": 29.170496832426,
+        "ballCarriesCount": 4,
+        "totalProgression": 7.0196489530619,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.09,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": -0.07,
+        "metersCoveredRunningKm": 0.48,
+        "metersCoveredHighSpeedRunningKm": 0.23,
+        "metersCoveredSprintingKm": 0.1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416310": {
+    "id": 16416310,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1788022800,
+      "slug": "real-sociedad-espanyol",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Aihen Muñoz",
+        "slug": "aihen-munoz",
+        "shortName": "A. Muñoz",
+        "position": "D",
+        "jerseyNumber": "3",
+        "height": 175,
+        "userCount": 443,
+        "gender": "M",
+        "sofascoreId": "8jj-d9q",
+        "id": 966441,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 871689600,
+        "proposedMarketValueRaw": {
+          "value": 2600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أيهن مونيوز",
+            "bn": "আইহেন মুনোজ",
+            "hi": "ऐहेन मुनोज़",
+            "ru": "Айен Муньос"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. مونيوز",
+            "bn": "এ. মুনোজ",
+            "hi": "ए. मुनोज़",
+            "ru": "А. Муньос"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 336182,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416319": {
+    "id": 16416319,
+    "match_info": {
+      "homeTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1788809400,
+      "slug": "elche-real-sociedad",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "Aihen Muñoz",
+        "slug": "aihen-munoz",
+        "shortName": "A. Muñoz",
+        "position": "D",
+        "jerseyNumber": "3",
+        "height": 175,
+        "userCount": 443,
+        "gender": "M",
+        "sofascoreId": "8jj-d9q",
+        "id": 966441,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 871689600,
+        "proposedMarketValueRaw": {
+          "value": 2600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أيهن مونيوز",
+            "bn": "আইহেন মুনোজ",
+            "hi": "ऐहेन मुनोज़",
+            "ru": "Айен Муньос"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. مونيوز",
+            "bn": "এ. মুনোজ",
+            "hi": "ए. मुनोज़",
+            "ru": "А. Муньос"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 335559,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416332": {
+    "id": 16416332,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atlético Madrid",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1789326000,
+      "slug": "atletico-madrid-real-sociedad",
+      "season": "26/27",
+      "jornada": 5
+    },
+    "player_stats": {
+      "player": {
+        "name": "Aihen Muñoz",
+        "slug": "aihen-munoz",
+        "shortName": "A. Muñoz",
+        "position": "D",
+        "jerseyNumber": "3",
+        "height": 175,
+        "userCount": 443,
+        "gender": "M",
+        "sofascoreId": "8jj-d9q",
+        "id": 966441,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 871689600,
+        "proposedMarketValueRaw": {
+          "value": 2600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أيهن مونيوز",
+            "bn": "আইহেন মুনোজ",
+            "hi": "ऐहेन मुनोज़",
+            "ru": "Айен Муньос"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. مونيوز",
+            "bn": "এ. মুনোজ",
+            "hi": "ए. मुनोज़",
+            "ru": "А. Муньос"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 335559,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421073": {
+    "id": 16421073,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 5
+      },
+      "startTimestamp": 1792341000,
+      "slug": "malaga-cf-real-sociedad",
+      "season": "26/27",
+      "jornada": 9
+    },
+    "player_stats": {
+      "player": {
+        "name": "Aihen Muñoz",
+        "slug": "aihen-munoz",
+        "shortName": "A. Muñoz",
+        "position": "D",
+        "jerseyNumber": "3",
+        "height": 175,
+        "userCount": 442,
+        "gender": "M",
+        "sofascoreId": "8jj-d9q",
+        "id": 966441,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 871689600,
+        "proposedMarketValueRaw": {
+          "value": 2600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أيهن مونيوز",
+            "bn": "আইহেন মুনোজ",
+            "hi": "ऐहेन मुनोज़",
+            "ru": "Айен Муньос"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. مونيوز",
+            "bn": "এ. মুনোজ",
+            "hi": "ए. मुनोज़",
+            "ru": "А. Муньос"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 335088,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 34,
+        "accuratePass": 28,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 18,
+        "totalOwnHalfPasses": 20,
+        "accurateOppositionHalfPasses": 10,
+        "totalOppositionHalfPasses": 14,
+        "aerialLost": 2,
+        "duelLost": 4,
+        "duelWon": 3,
+        "challengeLost": 1,
+        "totalContest": 1,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 3,
+        "interceptionWon": 2,
+        "ballRecovery": 1,
+        "totalTackle": 3,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 2,
+        "totalOffside": 1,
+        "minutesPlayed": 71,
+        "touches": 58,
+        "rating": 6.3,
+        "possessionLostCtrl": 10,
+        "expectedGoals": 0.0341,
+        "expectedAssists": 0.00294361,
+        "topSpeed": 30.61,
+        "kilometersCovered": 7.31,
+        "numberOfSprints": 9,
+        "totalBallCarriesDistance": 67.66094296008,
+        "ballCarriesCount": 9,
+        "totalProgression": -0.17802192612998,
+        "bestBallCarryProgression": 15.509293376807,
+        "totalProgressiveBallCarriesDistance": 17.135501860173,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.5
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.07,
+        "passValueNormalized": -0.01,
+        "dribbleValueNormalized": 0.16,
+        "defensiveValueNormalized": -0.27,
+        "metersCoveredRunningKm": 0.89,
+        "metersCoveredHighSpeedRunningKm": 0.41,
+        "metersCoveredSprintingKm": 0.12,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "16416298": {
+    "id": 16416298,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 0
+      },
+      "startTimestamp": 1787419800,
+      "slug": "valencia-celta-vigo",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Cristian Rivero",
+        "firstName": "",
+        "lastName": "",
+        "slug": "cristian-rivero",
+        "shortName": "C. Rivero",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 188,
+        "userCount": 117,
+        "gender": "M",
+        "sofascoreId": "55runz",
+        "id": 914744,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 890438400,
+        "proposedMarketValueRaw": {
+          "value": 94000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كريستيان ريفيرو",
+            "bn": "ক্রিশ্চিয়ান রিভেরো",
+            "hi": "क्रिस्टियन रिवेरो",
+            "ru": "Кристиан Риверо"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. ريفيرو",
+            "bn": "সি. রিভেরো",
+            "hi": "सी. रिवेरो",
+            "ru": "К. Риверо"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 302773,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  }
+}

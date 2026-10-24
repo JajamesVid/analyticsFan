@@ -1,0 +1,791 @@
+{
+  "16416291": {
+    "id": 16416291,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1788111000,
+      "slug": "deportivo-de-la-coruna-valencia",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Mouctar Diakhaby",
+        "firstName": "Mouctar",
+        "lastName": "Diakhaby",
+        "slug": "mouctar-diakhaby",
+        "shortName": "M. Diakhaby",
+        "position": "D",
+        "jerseyNumber": "4",
+        "height": 192,
+        "userCount": 4010,
+        "gender": "M",
+        "sofascoreId": "mouctar_dkh",
+        "id": 797306,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 850953600,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مختار دياكابي",
+            "bn": "মোক্তার দিয়াখবি",
+            "hi": "मोउक्तार डायाखाबी",
+            "ru": "Муктаар Диахаби"
+          },
+          "shortNameTranslation": {
+            "ar": "م. دياكابي",
+            "bn": "এম. দিয়াখবি",
+            "hi": "एम. डायाखाबी",
+            "ru": "М. Диахаби"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 302773,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 65,
+        "accuratePass": 55,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 36,
+        "totalOwnHalfPasses": 39,
+        "accurateOppositionHalfPasses": 19,
+        "totalOppositionHalfPasses": 26,
+        "aerialWon": 4,
+        "duelLost": 3,
+        "duelWon": 7,
+        "challengeLost": 1,
+        "totalContest": 1,
+        "totalClearance": 7,
+        "outfielderBlock": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 6,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "ownGoals": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 81,
+        "rating": 6.1,
+        "possessionLostCtrl": 12,
+        "expectedAssists": 0.0103496,
+        "topSpeed": 32.85,
+        "kilometersCovered": 9.64,
+        "numberOfSprints": 13,
+        "totalBallCarriesDistance": 204.94027883823,
+        "ballCarriesCount": 28,
+        "totalProgression": 48.402297993172,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.1,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.08,
+        "dribbleValueNormalized": 0.1,
+        "defensiveValueNormalized": -0.76,
+        "metersCoveredRunningKm": 1.16,
+        "metersCoveredHighSpeedRunningKm": 0.57,
+        "metersCoveredSprintingKm": 0.12,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421064": {
+    "id": 16421064,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1791745200,
+      "slug": "real-racing-club-valencia",
+      "season": "26/27",
+      "jornada": 8
+    },
+    "player_stats": {
+      "player": {
+        "name": "Mouctar Diakhaby",
+        "firstName": "Mouctar",
+        "lastName": "Diakhaby",
+        "slug": "mouctar-diakhaby",
+        "shortName": "M. Diakhaby",
+        "position": "D",
+        "jerseyNumber": "4",
+        "height": 192,
+        "userCount": 2630,
+        "gender": "M",
+        "sofascoreId": "t3m-ke5",
+        "id": 797306,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 850953600,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مختار دياكابي",
+            "bn": "মোক্তার দিয়াখবি",
+            "hi": "मोउक्तार डायाखाबी",
+            "ru": "Муктаар Диахаби"
+          },
+          "shortNameTranslation": {
+            "ar": "م. دياكابي",
+            "bn": "এম. দিয়াখবি",
+            "hi": "एम. डायाखाबी",
+            "ru": "М. Диахаби"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 241803,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 30,
+        "accuratePass": 25,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 20,
+        "totalOwnHalfPasses": 23,
+        "accurateOppositionHalfPasses": 5,
+        "totalOppositionHalfPasses": 7,
+        "aerialLost": 2,
+        "aerialWon": 1,
+        "duelLost": 5,
+        "duelWon": 2,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "totalClearance": 4,
+        "ballRecovery": 3,
+        "totalTackle": 1,
+        "fouls": 1,
+        "minutesPlayed": 45,
+        "touches": 37,
+        "rating": 6.6,
+        "possessionLostCtrl": 7,
+        "expectedAssists": 0.00282951,
+        "topSpeed": 26.24,
+        "kilometersCovered": 4.67,
+        "numberOfSprints": 1,
+        "totalBallCarriesDistance": 89.032260159915,
+        "ballCarriesCount": 4,
+        "totalProgression": 43.879658956303,
+        "bestBallCarryProgression": 53.194166078301,
+        "totalProgressiveBallCarriesDistance": 53.371022933798,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.08,
+        "dribbleValueNormalized": 0.13,
+        "defensiveValueNormalized": -0.07,
+        "metersCoveredRunningKm": 0.49,
+        "metersCoveredHighSpeedRunningKm": 0.13,
+        "metersCoveredSprintingKm": 0.01,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421049": {
+    "id": 16421049,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1787684400,
+      "slug": "valencia-real-betis",
+      "season": "26/27",
+      "jornada": 1
+    },
+    "player_stats": {
+      "player": {
+        "name": "Mouctar Diakhaby",
+        "firstName": "Mouctar",
+        "lastName": "Diakhaby",
+        "slug": "mouctar-diakhaby",
+        "shortName": "M. Diakhaby",
+        "position": "D",
+        "jerseyNumber": "4",
+        "height": 192,
+        "userCount": 2590,
+        "gender": "M",
+        "sofascoreId": "t3m-ke5",
+        "id": 797306,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 850953600,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مختار دياكابي",
+            "bn": "মোক্তার দিয়াখবি",
+            "hi": "मोउक्तार डायाखाबी",
+            "ru": "Муктаар Диахаби"
+          },
+          "shortNameTranslation": {
+            "ar": "م. دياكابي",
+            "bn": "এম. দিয়াখবি",
+            "hi": "एम. डायाखाबी",
+            "ru": "М. Диахаби"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 242051,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 31,
+        "accuratePass": 28,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 19,
+        "totalOwnHalfPasses": 20,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 11,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 1,
+        "duelWon": 1,
+        "shotOffTarget": 1,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 2,
+        "interceptionWon": 2,
+        "ballRecovery": 2,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 90,
+        "touches": 39,
+        "rating": 6.3,
+        "possessionLostCtrl": 4,
+        "expectedGoals": 0.0992,
+        "expectedAssists": 0.0041538,
+        "topSpeed": 32.71,
+        "kilometersCovered": 9.75,
+        "numberOfSprints": 11,
+        "totalBallCarriesDistance": 96.986350967033,
+        "ballCarriesCount": 11,
+        "totalProgression": 53.780400178211,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.7
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.22,
+        "passValueNormalized": 0.1,
+        "dribbleValueNormalized": 0.05,
+        "defensiveValueNormalized": -0.15,
+        "metersCoveredRunningKm": 1.19,
+        "metersCoveredHighSpeedRunningKm": 0.38,
+        "metersCoveredSprintingKm": 0.22,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416298": {
+    "id": 16416298,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 0
+      },
+      "startTimestamp": 1787419800,
+      "slug": "valencia-celta-vigo",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Mouctar Diakhaby",
+        "firstName": "Mouctar",
+        "lastName": "Diakhaby",
+        "slug": "mouctar-diakhaby",
+        "shortName": "M. Diakhaby",
+        "position": "D",
+        "jerseyNumber": "4",
+        "height": 192,
+        "userCount": 2590,
+        "gender": "M",
+        "sofascoreId": "t3m-ke5",
+        "id": 797306,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 850953600,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مختار دياكابي",
+            "bn": "মোক্তার দিয়াখবি",
+            "hi": "मोउक्तार डायाखाबी",
+            "ru": "Муктаар Диахаби"
+          },
+          "shortNameTranslation": {
+            "ar": "م. دياكابي",
+            "bn": "এম. দিয়াখবি",
+            "hi": "एम. डायाखाबी",
+            "ru": "М. Диахаби"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 242051,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 31,
+        "accuratePass": 26,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 15,
+        "totalOwnHalfPasses": 17,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 14,
+        "aerialWon": 1,
+        "duelWon": 1,
+        "totalClearance": 4,
+        "outfielderBlock": 1,
+        "interceptionWon": 2,
+        "ballRecovery": 1,
+        "minutesPlayed": 45,
+        "touches": 41,
+        "rating": 7,
+        "possessionLostCtrl": 6,
+        "expectedAssists": 0.00645869,
+        "topSpeed": 26.91,
+        "kilometersCovered": 5.32,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 32.913408281636,
+        "ballCarriesCount": 6,
+        "totalProgression": -4.5414616137064,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 7.1
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.03,
+        "dribbleValueNormalized": -0.02,
+        "defensiveValueNormalized": 0.25,
+        "metersCoveredRunningKm": 0.76,
+        "metersCoveredHighSpeedRunningKm": 0.2,
+        "metersCoveredSprintingKm": 0.02,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416325": {
+    "id": 16416325,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 5
+      },
+      "startTimestamp": 1788704100,
+      "slug": "valencia-fc-barcelona",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "Mouctar Diakhaby",
+        "firstName": "Mouctar",
+        "lastName": "Diakhaby",
+        "slug": "mouctar-diakhaby",
+        "shortName": "M. Diakhaby",
+        "position": "D",
+        "jerseyNumber": "4",
+        "height": 192,
+        "userCount": 2589,
+        "gender": "M",
+        "sofascoreId": "t3m-ke5",
+        "id": 797306,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 850953600,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مختار دياكابي",
+            "bn": "মোক্তার দিয়াখবি",
+            "hi": "मोउक्तार डायाखाबी",
+            "ru": "Муктаар Диахаби"
+          },
+          "shortNameTranslation": {
+            "ar": "م. دياكابي",
+            "bn": "এম. দিয়াখবি",
+            "hi": "एम. डायाखाबी",
+            "ru": "М. Диахаби"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 241415,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 16,
+        "accuratePass": 10,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 9,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 5,
+        "aerialWon": 1,
+        "duelWon": 2,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalClearance": 5,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 62,
+        "touches": 28,
+        "rating": 6,
+        "possessionLostCtrl": 9,
+        "expectedAssists": 0.00092388,
+        "topSpeed": 34.25,
+        "kilometersCovered": 6.77,
+        "numberOfSprints": 7,
+        "totalBallCarriesDistance": 43.029259952227,
+        "ballCarriesCount": 5,
+        "totalProgression": 4.5582559284962,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6,
+          "alternative": 6.3
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.09,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": -0.37,
+        "metersCoveredRunningKm": 0.8,
+        "metersCoveredHighSpeedRunningKm": 0.27,
+        "metersCoveredSprintingKm": 0.15,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421074": {
+    "id": 16421074,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1792263600,
+      "slug": "valencia-athletic-club",
+      "season": "26/27",
+      "jornada": 9
+    },
+    "player_stats": {
+      "player": {
+        "name": "Mouctar Diakhaby",
+        "firstName": "Mouctar",
+        "lastName": "Diakhaby",
+        "slug": "mouctar-diakhaby",
+        "shortName": "M. Diakhaby",
+        "position": "D",
+        "jerseyNumber": "4",
+        "height": 192,
+        "userCount": 2576,
+        "gender": "M",
+        "sofascoreId": "t3m-ke5",
+        "id": 797306,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 850953600,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مختار دياكابي",
+            "bn": "মোক্তার দিয়াখবি",
+            "hi": "मोउक्तार डायाखाबी",
+            "ru": "Муктаар Диахаби"
+          },
+          "shortNameTranslation": {
+            "ar": "م. دياكابي",
+            "bn": "এম. দিয়াখবি",
+            "hi": "एम. डायाखाबी",
+            "ru": "М. Диахаби"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 240937,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

@@ -1,0 +1,860 @@
+{
+  "16421049": {
+    "id": 16421049,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1787684400,
+      "slug": "valencia-real-betis",
+      "season": "26/27",
+      "jornada": 1
+    },
+    "player_stats": {
+      "player": {
+        "name": "Guido Rodríguez",
+        "firstName": "Guido",
+        "lastName": "Rodriguez",
+        "slug": "guido-rodriguez",
+        "shortName": "G. Rodríguez",
+        "position": "M",
+        "jerseyNumber": "2",
+        "height": 185,
+        "userCount": 4315,
+        "gender": "M",
+        "sofascoreId": "guiido_rodriguez",
+        "id": 609752,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 766108800,
+        "proposedMarketValueRaw": {
+          "value": 4200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جويدو رودريغيز",
+            "bn": "গুইডো রদ্রিগেজ",
+            "hi": "गुइडो रोड्रिग्ज़",
+            "ru": "Гвидо Родригес"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. رودريغيز",
+            "bn": "জি. রদ্রিগেজ",
+            "hi": "जी. रोड्रिग्ज़",
+            "ru": "Г. Родригес"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 302773,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 49,
+        "accuratePass": 43,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 25,
+        "totalOwnHalfPasses": 27,
+        "accurateOppositionHalfPasses": 18,
+        "totalOppositionHalfPasses": 22,
+        "aerialLost": 1,
+        "aerialWon": 2,
+        "duelLost": 7,
+        "duelWon": 7,
+        "challengeLost": 2,
+        "dispossessed": 1,
+        "totalContest": 2,
+        "wonContest": 1,
+        "totalClearance": 1,
+        "outfielderBlock": 1,
+        "interceptionWon": 4,
+        "ballRecovery": 6,
+        "totalTackle": 3,
+        "wonTackle": 2,
+        "wasFouled": 1,
+        "fouls": 3,
+        "minutesPlayed": 88,
+        "touches": 65,
+        "rating": 6.9,
+        "possessionLostCtrl": 8,
+        "expectedAssists": 0.0137995,
+        "topSpeed": 28.38,
+        "kilometersCovered": 10.56,
+        "numberOfSprints": 11,
+        "totalBallCarriesDistance": 95.113094469939,
+        "ballCarriesCount": 19,
+        "totalProgression": 16.035182169323,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 7.1
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.2,
+        "dribbleValueNormalized": 0.07,
+        "defensiveValueNormalized": -0.02,
+        "metersCoveredRunningKm": 1.55,
+        "metersCoveredHighSpeedRunningKm": 0.52,
+        "metersCoveredSprintingKm": 0.19,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416297": {
+    "id": 16416297,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1789930800,
+      "slug": "valencia-real-sociedad",
+      "season": "26/27",
+      "jornada": 7
+    },
+    "player_stats": {
+      "player": {
+        "name": "Guido Rodríguez",
+        "firstName": "Guido",
+        "lastName": "Rodriguez",
+        "slug": "guido-rodriguez",
+        "shortName": "G. Rodríguez",
+        "position": "M",
+        "jerseyNumber": "2",
+        "height": 185,
+        "userCount": 3815,
+        "gender": "M",
+        "sofascoreId": "5jg-icz",
+        "id": 609752,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 766108800,
+        "proposedMarketValueRaw": {
+          "value": 3600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جويدو رودريغيز",
+            "bn": "গুইডো রদ্রিগেজ",
+            "hi": "गुइडो रोड्रिग्ज़",
+            "ru": "Гвидо Родригес"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. رودريغيز",
+            "bn": "জি. রদ্রিগেজ",
+            "hi": "जी. रोड्रिग्ज़",
+            "ru": "Г. Родригес"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 241803,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 46,
+        "accuratePass": 42,
+        "totalLongBalls": 9,
+        "accurateLongBalls": 7,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 26,
+        "totalOwnHalfPasses": 27,
+        "accurateOppositionHalfPasses": 16,
+        "totalOppositionHalfPasses": 19,
+        "duelLost": 6,
+        "duelWon": 5,
+        "challengeLost": 4,
+        "dispossessed": 2,
+        "totalClearance": 1,
+        "outfielderBlock": 1,
+        "ballRecovery": 2,
+        "totalTackle": 4,
+        "wonTackle": 4,
+        "unsuccessfulTouch": 4,
+        "wasFouled": 1,
+        "minutesPlayed": 69,
+        "touches": 62,
+        "rating": 7,
+        "possessionLostCtrl": 10,
+        "expectedAssists": 0.00786485,
+        "topSpeed": 28.27,
+        "kilometersCovered": 8.34,
+        "numberOfSprints": 7,
+        "totalBallCarriesDistance": 71.250234341923,
+        "ballCarriesCount": 6,
+        "totalProgression": 43.191954735471,
+        "bestBallCarryProgression": 28.513053721055,
+        "totalProgressiveBallCarriesDistance": 38.038590089539,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.13,
+        "dribbleValueNormalized": 0.03,
+        "defensiveValueNormalized": -0.08,
+        "metersCoveredRunningKm": 1.57,
+        "metersCoveredHighSpeedRunningKm": 0.48,
+        "metersCoveredSprintingKm": 0.07,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16421064": {
+    "id": 16421064,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Racing Club",
+        "shortName": "Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1791745200,
+      "slug": "real-racing-club-valencia",
+      "season": "26/27",
+      "jornada": 8
+    },
+    "player_stats": {
+      "player": {
+        "name": "Guido Rodríguez",
+        "firstName": "Guido",
+        "lastName": "Rodriguez",
+        "slug": "guido-rodriguez",
+        "shortName": "G. Rodríguez",
+        "position": "M",
+        "jerseyNumber": "2",
+        "height": 185,
+        "userCount": 3815,
+        "gender": "M",
+        "sofascoreId": "5jg-icz",
+        "id": 609752,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 766108800,
+        "proposedMarketValueRaw": {
+          "value": 3600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جويدو رودريغيز",
+            "bn": "গুইডো রদ্রিগেজ",
+            "hi": "गुइडो रोड्रिग्ज़",
+            "ru": "Гвидо Родригес"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. رودريغيز",
+            "bn": "জি. রদ্রিগেজ",
+            "hi": "जी. रोड्रिग्ज़",
+            "ru": "Г. Родригес"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 241803,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 41,
+        "accuratePass": 34,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 24,
+        "totalOwnHalfPasses": 27,
+        "accurateOppositionHalfPasses": 10,
+        "totalOppositionHalfPasses": 14,
+        "totalCross": 1,
+        "duelLost": 2,
+        "duelWon": 11,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalClearance": 7,
+        "outfielderBlock": 1,
+        "interceptionWon": 2,
+        "ballRecovery": 9,
+        "totalTackle": 6,
+        "wonTackle": 1,
+        "wasFouled": 4,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 66,
+        "rating": 7.5,
+        "possessionLostCtrl": 8,
+        "expectedAssists": 0.0069309,
+        "topSpeed": 27.31,
+        "kilometersCovered": 11.59,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 84.064464483323,
+        "ballCarriesCount": 13,
+        "totalProgression": -13.79554626091,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7.5,
+          "alternative": 7.2
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.04,
+        "dribbleValueNormalized": 0.07,
+        "defensiveValueNormalized": 0.37,
+        "metersCoveredRunningKm": 1.99,
+        "metersCoveredHighSpeedRunningKm": 0.43,
+        "metersCoveredSprintingKm": 0.02,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416298": {
+    "id": 16416298,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 0
+      },
+      "startTimestamp": 1787419800,
+      "slug": "valencia-celta-vigo",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Guido Rodríguez",
+        "firstName": "Guido",
+        "lastName": "Rodriguez",
+        "slug": "guido-rodriguez",
+        "shortName": "G. Rodríguez",
+        "position": "M",
+        "jerseyNumber": "2",
+        "height": 185,
+        "userCount": 3813,
+        "gender": "M",
+        "sofascoreId": "5jg-icz",
+        "id": 609752,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 766108800,
+        "proposedMarketValueRaw": {
+          "value": 3600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جويدو رودريغيز",
+            "bn": "গুইডো রদ্রিগেজ",
+            "hi": "गुइडो रोड्रिग्ज़",
+            "ru": "Гвидо Родригес"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. رودريغيز",
+            "bn": "জি. রদ্রিগেজ",
+            "hi": "जी. रोड्रिग्ज़",
+            "ru": "Г. Родригес"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 242051,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 67,
+        "accuratePass": 60,
+        "totalLongBalls": 8,
+        "accurateLongBalls": 6,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 32,
+        "totalOwnHalfPasses": 34,
+        "accurateOppositionHalfPasses": 28,
+        "totalOppositionHalfPasses": 33,
+        "aerialWon": 2,
+        "duelLost": 4,
+        "duelWon": 6,
+        "dispossessed": 3,
+        "onTargetScoringAttempt": 1,
+        "totalClearance": 3,
+        "interceptionWon": 2,
+        "ballRecovery": 8,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "wasFouled": 3,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 81,
+        "rating": 7.6,
+        "possessionLostCtrl": 10,
+        "expectedGoals": 0.0216,
+        "expectedGoalsOnTarget": 0.0174,
+        "expectedAssists": 0.015764,
+        "topSpeed": 31.36,
+        "kilometersCovered": 11.96,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 93.809447429754,
+        "ballCarriesCount": 13,
+        "totalProgression": 20.55045091468,
+        "bestBallCarryProgression": 14.513983490637,
+        "totalProgressiveBallCarriesDistance": 14.516025936874,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 7.6,
+          "alternative": 7.5
+        },
+        "totalShots": 1,
+        "shotValueNormalized": 0,
+        "passValueNormalized": 0.22,
+        "dribbleValueNormalized": 0.04,
+        "defensiveValueNormalized": 0.5,
+        "metersCoveredRunningKm": 1.74,
+        "metersCoveredHighSpeedRunningKm": 0.34,
+        "metersCoveredSprintingKm": 0.03,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416334": {
+    "id": 16416334,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1789495200,
+      "slug": "deportivo-alaves-valencia",
+      "season": "26/27",
+      "jornada": 6
+    },
+    "player_stats": {
+      "player": {
+        "name": "Guido Rodríguez",
+        "firstName": "Guido",
+        "lastName": "Rodriguez",
+        "slug": "guido-rodriguez",
+        "shortName": "G. Rodríguez",
+        "position": "M",
+        "jerseyNumber": "2",
+        "height": 185,
+        "userCount": 3802,
+        "gender": "M",
+        "sofascoreId": "5jg-icz",
+        "id": 609752,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 766108800,
+        "proposedMarketValueRaw": {
+          "value": 3600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جويدو رودريغيز",
+            "bn": "গুইডো রদ্রিগেজ",
+            "hi": "गुइडो रोड्रिग्ज़",
+            "ru": "Гвидо Родригес"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. رودريغيز",
+            "bn": "জি. রদ্রিগেজ",
+            "hi": "जी. रोड्रिग्ज़",
+            "ru": "Г. Родригес"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 240937,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 49,
+        "accuratePass": 35,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 23,
+        "totalOwnHalfPasses": 31,
+        "accurateOppositionHalfPasses": 12,
+        "totalOppositionHalfPasses": 18,
+        "aerialLost": 3,
+        "aerialWon": 3,
+        "duelLost": 6,
+        "duelWon": 12,
+        "totalContest": 2,
+        "wonContest": 1,
+        "shotOffTarget": 1,
+        "totalClearance": 2,
+        "ballRecovery": 5,
+        "totalTackle": 5,
+        "wonTackle": 3,
+        "wasFouled": 3,
+        "fouls": 2,
+        "minutesPlayed": 70,
+        "touches": 64,
+        "rating": 7,
+        "possessionLostCtrl": 15,
+        "expectedGoals": 0.0485,
+        "expectedAssists": 0.0246988,
+        "topSpeed": 28.71,
+        "kilometersCovered": 8.01,
+        "numberOfSprints": 6,
+        "totalBallCarriesDistance": 118.568446409,
+        "ballCarriesCount": 17,
+        "totalProgression": -2.2465289606295,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 7
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.16,
+        "passValueNormalized": -0.1,
+        "dribbleValueNormalized": 0.08,
+        "defensiveValueNormalized": 0.21,
+        "metersCoveredRunningKm": 1.1,
+        "metersCoveredHighSpeedRunningKm": 0.3,
+        "metersCoveredSprintingKm": 0.08,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16421074": {
+    "id": 16421074,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1792263600,
+      "slug": "valencia-athletic-club",
+      "season": "26/27",
+      "jornada": 9
+    },
+    "player_stats": {
+      "player": {
+        "name": "Guido Rodríguez",
+        "firstName": "Guido",
+        "lastName": "Rodriguez",
+        "slug": "guido-rodriguez",
+        "shortName": "G. Rodríguez",
+        "position": "M",
+        "jerseyNumber": "2",
+        "height": 185,
+        "userCount": 3802,
+        "gender": "M",
+        "sofascoreId": "5jg-icz",
+        "id": 609752,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 766108800,
+        "proposedMarketValueRaw": {
+          "value": 3600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جويدو رودريغيز",
+            "bn": "গুইডো রদ্রিগেজ",
+            "hi": "गुइडो रोड्रिग्ज़",
+            "ru": "Гвидо Родригес"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. رودريغيز",
+            "bn": "জি. রদ্রিগেজ",
+            "hi": "जी. रोड्रिग्ज़",
+            "ru": "Г. Родригес"
+          }
+        }
+      },
+      "team": {
+        "name": "Valencia",
+        "slug": "valencia",
+        "shortName": "Valencia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 240937,
+        "nameCode": "VAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2828,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فالنسيا",
+            "bn": "ভ্যালেন্সিয়া",
+            "hi": "वेलेंसिया",
+            "ru": "Валенсия"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 46,
+        "accuratePass": 36,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 24,
+        "totalOwnHalfPasses": 29,
+        "accurateOppositionHalfPasses": 12,
+        "totalOppositionHalfPasses": 17,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 5,
+        "duelWon": 5,
+        "dispossessed": 3,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalClearance": 5,
+        "interceptionWon": 3,
+        "ballRecovery": 11,
+        "totalTackle": 3,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "fouls": 1,
+        "minutesPlayed": 86,
+        "touches": 68,
+        "rating": 7.2,
+        "possessionLostCtrl": 14,
+        "expectedAssists": 0.033245,
+        "topSpeed": 28.85,
+        "kilometersCovered": 10.07,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 75.926580174081,
+        "ballCarriesCount": 9,
+        "totalProgression": -11.92447236674,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7.2,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.22,
+        "dribbleValueNormalized": 0.04,
+        "defensiveValueNormalized": 0.48,
+        "metersCoveredRunningKm": 1.49,
+        "metersCoveredHighSpeedRunningKm": 0.38,
+        "metersCoveredSprintingKm": 0.07,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

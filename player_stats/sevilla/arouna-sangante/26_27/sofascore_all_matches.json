@@ -1,0 +1,853 @@
+{
+  "16416349": {
+    "id": 16416349,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 3
+      },
+      "startTimestamp": 1789844400,
+      "slug": "sevilla-fc-barcelona",
+      "season": "26/27",
+      "jornada": 7
+    },
+    "player_stats": {
+      "player": {
+        "name": "Arouna Sangante",
+        "firstName": "",
+        "lastName": "",
+        "slug": "arouna-sangante",
+        "shortName": "A. Sangante",
+        "position": "D",
+        "jerseyNumber": "12",
+        "height": 189,
+        "userCount": 1617,
+        "gender": "M",
+        "sofascoreId": "g8k-aeg",
+        "id": 1035988,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1018569600,
+        "proposedMarketValueRaw": {
+          "value": 7700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أرونا سانغانتي",
+            "bn": "অরুনা সঙ্গান্তে",
+            "hi": "अरौना सांगंते",
+            "ru": "Аруна Сангант"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. سانغانتي",
+            "bn": "এ. সাঙ্গান্তে",
+            "hi": "ए. सांगंते",
+            "ru": "А. Сангант"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 348959,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 17,
+        "accuratePass": 12,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 9,
+        "totalOwnHalfPasses": 12,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 5,
+        "duelLost": 4,
+        "challengeLost": 2,
+        "dispossessed": 1,
+        "totalClearance": 3,
+        "outfielderBlock": 1,
+        "ballRecovery": 3,
+        "fouls": 1,
+        "minutesPlayed": 68,
+        "touches": 24,
+        "rating": 6,
+        "possessionLostCtrl": 6,
+        "expectedAssists": 0.00071518,
+        "topSpeed": 27.98,
+        "kilometersCovered": 6.45,
+        "numberOfSprints": 6,
+        "totalBallCarriesDistance": 17.869817248592,
+        "ballCarriesCount": 3,
+        "totalProgression": -4.0449205851348,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6,
+          "alternative": 6.1
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.01,
+        "dribbleValueNormalized": 0.04,
+        "defensiveValueNormalized": -0.2,
+        "metersCoveredRunningKm": 0.58,
+        "metersCoveredHighSpeedRunningKm": 0.14,
+        "metersCoveredSprintingKm": 0.04,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421063": {
+    "id": 16421063,
+    "match_info": {
+      "homeTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1791831600,
+      "slug": "levante-ud-sevilla",
+      "season": "26/27",
+      "jornada": 8
+    },
+    "player_stats": {
+      "player": {
+        "name": "Arouna Sangante",
+        "firstName": "",
+        "lastName": "",
+        "slug": "arouna-sangante",
+        "shortName": "A. Sangante",
+        "position": "D",
+        "jerseyNumber": "12",
+        "height": 189,
+        "userCount": 1617,
+        "gender": "M",
+        "sofascoreId": "g8k-aeg",
+        "id": 1035988,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1018569600,
+        "proposedMarketValueRaw": {
+          "value": 7700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أرونا سانغانتي",
+            "bn": "অরুনা সঙ্গান্তে",
+            "hi": "अरौना सांगंते",
+            "ru": "Аруна Сангант"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. سانغانتي",
+            "bn": "এ. সাঙ্গান্তে",
+            "hi": "ए. सांगंते",
+            "ru": "А. Сангант"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 348959,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421052": {
+    "id": 16421052,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1786822200,
+      "slug": "sevilla-rayo-vallecano",
+      "season": "26/27",
+      "jornada": 1
+    },
+    "player_stats": {
+      "player": {
+        "name": "Arouna Sangante",
+        "firstName": "",
+        "lastName": "",
+        "slug": "arouna-sangante",
+        "shortName": "A. Sangante",
+        "position": "D",
+        "jerseyNumber": "12",
+        "height": 189,
+        "userCount": 1614,
+        "gender": "M",
+        "sofascoreId": "g8k-aeg",
+        "id": 1035988,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1018569600,
+        "proposedMarketValueRaw": {
+          "value": 7700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أرونا سانغانتي",
+            "bn": "অরুনা সঙ্গান্তে",
+            "hi": "अरौना सांगंते",
+            "ru": "Аруна Сангант"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. سانغانتي",
+            "bn": "এ. সাঙ্গান্তে",
+            "hi": "ए. सांगंते",
+            "ru": "А. Сангант"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 346762,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 47,
+        "accuratePass": 39,
+        "totalLongBalls": 8,
+        "accurateLongBalls": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 28,
+        "totalOwnHalfPasses": 31,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 16,
+        "totalCross": 1,
+        "aerialWon": 4,
+        "duelLost": 2,
+        "duelWon": 5,
+        "totalContest": 1,
+        "totalClearance": 4,
+        "interceptionWon": 3,
+        "ballRecovery": 3,
+        "totalTackle": 1,
+        "errorLeadToAGoal": 1,
+        "fouls": 1,
+        "totalOffside": 1,
+        "minutesPlayed": 90,
+        "touches": 58,
+        "rating": 6.3,
+        "possessionLostCtrl": 10,
+        "expectedAssists": 0.00387811,
+        "totalBallCarriesDistance": 151.05484888183,
+        "ballCarriesCount": 20,
+        "totalProgression": 31.237118567415,
+        "bestBallCarryProgression": 22.517511796179,
+        "totalProgressiveBallCarriesDistance": 26.490915442846,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.3
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.07,
+        "dribbleValueNormalized": -0.09,
+        "defensiveValueNormalized": -0.48,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416301": {
+    "id": 16416301,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1787410800,
+      "slug": "sevilla-athletic-club",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Arouna Sangante",
+        "firstName": "",
+        "lastName": "",
+        "slug": "arouna-sangante",
+        "shortName": "A. Sangante",
+        "position": "D",
+        "jerseyNumber": "12",
+        "height": 189,
+        "userCount": 1614,
+        "gender": "M",
+        "sofascoreId": "g8k-aeg",
+        "id": 1035988,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1018569600,
+        "proposedMarketValueRaw": {
+          "value": 7700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أرونا سانغانتي",
+            "bn": "অরুনা সঙ্গান্তে",
+            "hi": "अरौना सांगंते",
+            "ru": "Аруна Сангант"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. سانغانتي",
+            "bn": "এ. সাঙ্গান্তে",
+            "hi": "ए. सांगंते",
+            "ru": "А. Сангант"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 346762,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 39,
+        "accuratePass": 30,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 22,
+        "totalOwnHalfPasses": 25,
+        "accurateOppositionHalfPasses": 8,
+        "totalOppositionHalfPasses": 14,
+        "aerialLost": 3,
+        "aerialWon": 4,
+        "duelLost": 5,
+        "duelWon": 5,
+        "totalClearance": 6,
+        "outfielderBlock": 1,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "errorLeadToAShot": 1,
+        "unsuccessfulTouch": 1,
+        "fouls": 2,
+        "minutesPlayed": 68,
+        "touches": 51,
+        "rating": 6.9,
+        "possessionLostCtrl": 10,
+        "expectedAssists": 0.00151285,
+        "topSpeed": 27.7,
+        "kilometersCovered": 6.87,
+        "numberOfSprints": 0,
+        "totalBallCarriesDistance": 108.49053468282,
+        "ballCarriesCount": 13,
+        "totalProgression": 58.271857919541,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 7.2
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.04,
+        "dribbleValueNormalized": 0.05,
+        "defensiveValueNormalized": -0.03,
+        "metersCoveredRunningKm": 0.77,
+        "metersCoveredHighSpeedRunningKm": 0.17,
+        "metersCoveredSprintingKm": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416316": {
+    "id": 16416316,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atlético Madrid",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1788031800,
+      "slug": "atletico-madrid-sevilla",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Arouna Sangante",
+        "firstName": "",
+        "lastName": "",
+        "slug": "arouna-sangante",
+        "shortName": "A. Sangante",
+        "position": "D",
+        "jerseyNumber": "12",
+        "height": 189,
+        "userCount": 1614,
+        "gender": "M",
+        "sofascoreId": "g8k-aeg",
+        "id": 1035988,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1018569600,
+        "proposedMarketValueRaw": {
+          "value": 7700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أرونا سانغانتي",
+            "bn": "অরুনা সঙ্গান্তে",
+            "hi": "अरौना सांगंते",
+            "ru": "Аруна Сангант"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. سانغانتي",
+            "bn": "এ. সাঙ্গান্তে",
+            "hi": "ए. सांगंते",
+            "ru": "А. Сангант"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 352902,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416323": {
+    "id": 16416323,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1788721200,
+      "slug": "sevilla-espanyol",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "Arouna Sangante",
+        "firstName": "",
+        "lastName": "",
+        "slug": "arouna-sangante",
+        "shortName": "A. Sangante",
+        "position": "D",
+        "jerseyNumber": "12",
+        "height": 189,
+        "userCount": 1628,
+        "gender": "M",
+        "sofascoreId": "g8k-aeg",
+        "id": 1035988,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1018569600,
+        "proposedMarketValueRaw": {
+          "value": 7700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أرونا سانغانتي",
+            "bn": "অরুনা সঙ্গান্তে",
+            "hi": "अरौना सांगंते",
+            "ru": "Аруна Сангант"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. سانغانتي",
+            "bn": "এ. সাঙ্গান্তে",
+            "hi": "ए. सांगंते",
+            "ru": "А. Сангант"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 352303,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 26,
+        "accuratePass": 19,
+        "totalLongBalls": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 10,
+        "totalOwnHalfPasses": 10,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 16,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 2,
+        "duelWon": 2,
+        "totalClearance": 1,
+        "outfielderBlock": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 2,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 56,
+        "touches": 32,
+        "rating": 5.9,
+        "possessionLostCtrl": 8,
+        "expectedAssists": 0.00404863,
+        "totalBallCarriesDistance": 69.628451610833,
+        "ballCarriesCount": 7,
+        "totalProgression": 45.465073432165,
+        "bestBallCarryProgression": 16.956341166385,
+        "totalProgressiveBallCarriesDistance": 23.841176481038,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 5.9,
+          "alternative": 5.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.02,
+        "dribbleValueNormalized": 0.05,
+        "defensiveValueNormalized": 0.28,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421075": {
+    "id": 16421075,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1792350000,
+      "slug": "sevilla-real-madrid",
+      "season": "26/27",
+      "jornada": 9
+    },
+    "player_stats": {
+      "player": {
+        "name": "Arouna Sangante",
+        "firstName": "",
+        "lastName": "",
+        "slug": "arouna-sangante",
+        "shortName": "A. Sangante",
+        "position": "D",
+        "jerseyNumber": "12",
+        "height": 189,
+        "userCount": 1628,
+        "gender": "M",
+        "sofascoreId": "g8k-aeg",
+        "id": 1035988,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1018569600,
+        "proposedMarketValueRaw": {
+          "value": 7700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أرونا سانغانتي",
+            "bn": "অরুনা সঙ্গান্তে",
+            "hi": "अरौना सांगंते",
+            "ru": "Аруна Сангант"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. سانغانتي",
+            "bn": "এ. সাঙ্গান্তে",
+            "hi": "ए. सांगंते",
+            "ru": "А. Сангант"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 352664,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

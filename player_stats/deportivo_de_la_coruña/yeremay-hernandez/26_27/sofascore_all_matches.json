@@ -1,0 +1,133 @@
+{
+  "16416291": {
+    "id": 16416291,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1788111000,
+      "slug": "deportivo-de-la-coruna-valencia",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Yeremay Hernández",
+        "firstName": "",
+        "lastName": "",
+        "slug": "yeremay-hernandez",
+        "shortName": "Y. Hernández",
+        "position": "F",
+        "jerseyNumber": "10",
+        "height": 169,
+        "userCount": 3767,
+        "gender": "M",
+        "sofascoreId": "dq9ne8",
+        "id": 1096950,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1039478400,
+        "proposedMarketValueRaw": {
+          "value": 23000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "يريميا هرنانديز",
+            "bn": "ইরেমে হার্নান্দেজ",
+            "hi": "येरेमे हर्नांडेज़",
+            "ru": "Еремай Эрнандес"
+          },
+          "shortNameTranslation": {
+            "ar": "ي. هرنانديز",
+            "bn": "ওয়াই. হার্নান্দেজ",
+            "hi": "वाई. हर्नांडेज़",
+            "ru": "Е. Эрнандес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo de A Coruña",
+        "slug": "deportivo-la-coruna",
+        "shortName": "Deportivo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 69223,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2832,
+        "teamColors": {
+          "primary": "#003399",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депортиво Ла-Корунья"
+          },
+          "shortNameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депорти́во"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 5,
+        "accuratePass": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 4,
+        "totalOppositionHalfPasses": 1,
+        "duelWon": 2,
+        "totalClearance": 1,
+        "ballRecovery": 3,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "minutesPlayed": 17,
+        "touches": 9,
+        "rating": 6.8,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 1.82e-05,
+        "topSpeed": 30.69,
+        "kilometersCovered": 2.38,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 18.415805645481,
+        "ballCarriesCount": 2,
+        "totalProgression": 1.3509305384354,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.06,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": 0.28,
+        "metersCoveredRunningKm": 0.24,
+        "metersCoveredHighSpeedRunningKm": 0.09,
+        "metersCoveredSprintingKm": 0.08,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  }
+}

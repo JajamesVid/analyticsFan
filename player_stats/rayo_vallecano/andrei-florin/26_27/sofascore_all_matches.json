@@ -137,5 +137,822 @@
       "position": "D",
       "extra": null
     }
+  },
+  "16416292": {
+    "id": 16416292,
+    "match_info": {
+      "homeTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "startTimestamp": 1787252400,
+      "slug": "deportivo-alaves-rayo-vallecano",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Andrei Rațiu",
+        "slug": "andrei-ratiu",
+        "shortName": "A. Rațiu",
+        "position": "D",
+        "jerseyNumber": "2",
+        "height": 183,
+        "userCount": 10583,
+        "gender": "M",
+        "sofascoreId": "Sonic",
+        "id": 965031,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 898300800,
+        "proposedMarketValueRaw": {
+          "value": 16700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أندريه راتيو",
+            "bn": "আন্দ্রেই রাথিউ",
+            "hi": "आंद्रेई राटिउ",
+            "ru": "Андрей Рашбиу"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. راتيو",
+            "bn": "এ. রাথিউ",
+            "hi": "ए. राटिउ",
+            "ru": "А. Рашбиу"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 231436,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 29,
+        "accuratePass": 25,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 12,
+        "totalOwnHalfPasses": 13,
+        "accurateOppositionHalfPasses": 13,
+        "totalOppositionHalfPasses": 16,
+        "totalCross": 3,
+        "aerialLost": 2,
+        "aerialWon": 1,
+        "duelLost": 5,
+        "duelWon": 5,
+        "challengeLost": 2,
+        "totalContest": 1,
+        "bigChanceMissed": 1,
+        "shotOffTarget": 1,
+        "totalClearance": 5,
+        "ballRecovery": 3,
+        "totalTackle": 3,
+        "wonTackle": 2,
+        "errorLeadToAGoal": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "totalOffside": 1,
+        "minutesPlayed": 90,
+        "touches": 57,
+        "rating": 6.4,
+        "possessionLostCtrl": 12,
+        "expectedGoals": 0.1167,
+        "expectedAssists": 0.0197307,
+        "totalBallCarriesDistance": 250.34599052005,
+        "ballCarriesCount": 19,
+        "totalProgression": 128.48025750606,
+        "bestBallCarryProgression": 29.879181826224,
+        "totalProgressiveBallCarriesDistance": 142.11675562968,
+        "progressiveBallCarriesCount": 5,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.2
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.2,
+        "passValueNormalized": 0.18,
+        "dribbleValueNormalized": 0.25,
+        "defensiveValueNormalized": -0.47,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416295": {
+    "id": 16416295,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1788204600,
+      "slug": "rayo-vallecano-fc-barcelona",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Andrei Rațiu",
+        "slug": "andrei-ratiu",
+        "shortName": "A. Rațiu",
+        "position": "D",
+        "jerseyNumber": "2",
+        "height": 183,
+        "userCount": 10760,
+        "gender": "M",
+        "sofascoreId": "Sonic",
+        "id": 965031,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 898300800,
+        "proposedMarketValueRaw": {
+          "value": 16700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أندريه راتيو",
+            "bn": "আন্দ্রেই রাথিউ",
+            "hi": "आंद्रेई राटिउ",
+            "ru": "Андрей Рашбиу"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. راتيو",
+            "bn": "এ. রাথিউ",
+            "hi": "ए. राटिउ",
+            "ru": "А. Рашбиу"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 240603,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416305": {
+    "id": 16416305,
+    "match_info": {
+      "homeTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1789819200,
+      "slug": "osasuna-rayo-vallecano",
+      "season": "26/27",
+      "jornada": 7
+    },
+    "player_stats": {
+      "player": {
+        "name": "Andrei Rațiu",
+        "slug": "andrei-ratiu",
+        "shortName": "A. Rațiu",
+        "position": "D",
+        "jerseyNumber": "2",
+        "height": 183,
+        "userCount": 9756,
+        "gender": "M",
+        "sofascoreId": "6gg-3kg",
+        "id": 965031,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 898300800,
+        "proposedMarketValueRaw": {
+          "value": 22000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أندريه راتيو",
+            "bn": "আন্দ্রেই রাথিউ",
+            "hi": "आंद्रेई राटिउ",
+            "ru": "Андрей Рашбиу"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. راتيو",
+            "bn": "এ. রাথিউ",
+            "hi": "ए. राटिउ",
+            "ru": "А. Рашбиу"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 208413,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 40,
+        "accuratePass": 30,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 13,
+        "totalOwnHalfPasses": 18,
+        "accurateOppositionHalfPasses": 17,
+        "totalOppositionHalfPasses": 22,
+        "totalCross": 1,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 1,
+        "duelWon": 6,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalClearance": 2,
+        "ballRecovery": 5,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 4,
+        "minutesPlayed": 90,
+        "touches": 71,
+        "rating": 7.1,
+        "possessionLostCtrl": 13,
+        "expectedAssists": 0.0633435,
+        "topSpeed": 32.05,
+        "kilometersCovered": 10.67,
+        "numberOfSprints": 10,
+        "totalBallCarriesDistance": 254.73377171958,
+        "ballCarriesCount": 22,
+        "totalProgression": 131.54359350301,
+        "bestBallCarryProgression": 32.245425417437,
+        "totalProgressiveBallCarriesDistance": 103.22750320823,
+        "progressiveBallCarriesCount": 4,
+        "ratingVersions": {
+          "original": 7.1,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.13,
+        "dribbleValueNormalized": 0.3,
+        "defensiveValueNormalized": -0.14,
+        "metersCoveredRunningKm": 1.99,
+        "metersCoveredHighSpeedRunningKm": 0.4,
+        "metersCoveredSprintingKm": 0.11,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416321": {
+    "id": 16416321,
+    "match_info": {
+      "homeTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1788625800,
+      "slug": "real-racing-club-rayo-vallecano",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "Andrei Rațiu",
+        "slug": "andrei-ratiu",
+        "shortName": "A. Rațiu",
+        "position": "D",
+        "jerseyNumber": "2",
+        "height": 183,
+        "userCount": 9736,
+        "gender": "M",
+        "sofascoreId": "6gg-3kg",
+        "id": 965031,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 898300800,
+        "proposedMarketValueRaw": {
+          "value": 22000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أندريه راتيو",
+            "bn": "আন্দ্রেই রাথিউ",
+            "hi": "आंद्रेई राटिउ",
+            "ru": "Андрей Рашбиу"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. راتيو",
+            "bn": "এ. রাথিউ",
+            "hi": "ए. राटिउ",
+            "ru": "А. Рашбиу"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 208790,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 39,
+        "accuratePass": 28,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 10,
+        "totalOwnHalfPasses": 13,
+        "accurateOppositionHalfPasses": 18,
+        "totalOppositionHalfPasses": 26,
+        "totalCross": 9,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 10,
+        "duelWon": 7,
+        "challengeLost": 2,
+        "dispossessed": 3,
+        "totalContest": 6,
+        "wonContest": 4,
+        "onTargetScoringAttempt": 2,
+        "blockedScoringAttempt": 1,
+        "goals": 1,
+        "interceptionWon": 3,
+        "ballRecovery": 3,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 3,
+        "wasFouled": 1,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 78,
+        "rating": 7.4,
+        "possessionLostCtrl": 30,
+        "expectedGoals": 0.3136,
+        "expectedGoalsOnTarget": 0.2934,
+        "expectedAssists": 0.0892743,
+        "topSpeed": 32.63,
+        "kilometersCovered": 10.5,
+        "numberOfSprints": 9,
+        "totalBallCarriesDistance": 261.26536928266,
+        "ballCarriesCount": 22,
+        "totalProgression": 193.54266980132,
+        "bestBallCarryProgression": 39.066332366142,
+        "totalProgressiveBallCarriesDistance": 143.70329998799,
+        "progressiveBallCarriesCount": 6,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.4,
+          "alternative": 7.5
+        },
+        "totalShots": 3,
+        "shotValueNormalized": 0.5,
+        "passValueNormalized": 0.21,
+        "dribbleValueNormalized": 0.36,
+        "defensiveValueNormalized": -0.44,
+        "metersCoveredRunningKm": 1.83,
+        "metersCoveredHighSpeedRunningKm": 0.46,
+        "metersCoveredSprintingKm": 0.2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416331": {
+    "id": 16416331,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1789239600,
+      "slug": "real-madrid-rayo-vallecano",
+      "season": "26/27",
+      "jornada": 5
+    },
+    "player_stats": {
+      "player": {
+        "name": "Andrei Rațiu",
+        "slug": "andrei-ratiu",
+        "shortName": "A. Rațiu",
+        "position": "D",
+        "jerseyNumber": "2",
+        "height": 183,
+        "userCount": 9736,
+        "gender": "M",
+        "sofascoreId": "6gg-3kg",
+        "id": 965031,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 898300800,
+        "proposedMarketValueRaw": {
+          "value": 22000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أندريه راتيو",
+            "bn": "আন্দ্রেই রাথিউ",
+            "hi": "आंद्रेई राटिउ",
+            "ru": "Андрей Рашбиу"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. راتيو",
+            "bn": "এ. রাথিউ",
+            "hi": "ए. राटिउ",
+            "ru": "А. Рашбиу"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 208790,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 42,
+        "accuratePass": 36,
+        "totalLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 13,
+        "totalOwnHalfPasses": 14,
+        "accurateOppositionHalfPasses": 23,
+        "totalOppositionHalfPasses": 28,
+        "totalCross": 3,
+        "accurateCross": 1,
+        "duelLost": 5,
+        "duelWon": 3,
+        "dispossessed": 2,
+        "totalContest": 3,
+        "wonContest": 1,
+        "totalClearance": 1,
+        "interceptionWon": 2,
+        "ballRecovery": 7,
+        "errorLeadToAShot": 1,
+        "unsuccessfulTouch": 6,
+        "wasFouled": 2,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 71,
+        "rating": 5.6,
+        "possessionLostCtrl": 18,
+        "expectedAssists": 0.0389191,
+        "topSpeed": 36.28,
+        "kilometersCovered": 10.46,
+        "numberOfSprints": 13,
+        "totalBallCarriesDistance": 286.42632380544,
+        "ballCarriesCount": 25,
+        "totalProgression": 188.1819541996,
+        "bestBallCarryProgression": 22.310267721121,
+        "totalProgressiveBallCarriesDistance": 135.46998335685,
+        "progressiveBallCarriesCount": 8,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 5.6,
+          "alternative": 6
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.1,
+        "dribbleValueNormalized": 0.44,
+        "defensiveValueNormalized": -0.79,
+        "metersCoveredRunningKm": 1.4,
+        "metersCoveredHighSpeedRunningKm": 0.54,
+        "metersCoveredSprintingKm": 0.2,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416345": {
+    "id": 16416345,
+    "match_info": {
+      "homeTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1789491600,
+      "slug": "rayo-vallecano-espanyol",
+      "season": "26/27",
+      "jornada": 6
+    },
+    "player_stats": {
+      "player": {
+        "name": "Andrei Rațiu",
+        "slug": "andrei-ratiu",
+        "shortName": "A. Rațiu",
+        "position": "D",
+        "jerseyNumber": "2",
+        "height": 183,
+        "userCount": 9735,
+        "gender": "M",
+        "sofascoreId": "6gg-3kg",
+        "id": 965031,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 898300800,
+        "proposedMarketValueRaw": {
+          "value": 22000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أندريه راتيو",
+            "bn": "আন্দ্রেই রাথিউ",
+            "hi": "आंद्रेई राटिउ",
+            "ru": "Андрей Рашбиу"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. راتيو",
+            "bn": "এ. রাথিউ",
+            "hi": "ए. राटिउ",
+            "ru": "А. Рашбиу"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 208369,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 36,
+        "accuratePass": 28,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 11,
+        "totalOwnHalfPasses": 12,
+        "accurateOppositionHalfPasses": 17,
+        "totalOppositionHalfPasses": 24,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 9,
+        "duelWon": 7,
+        "dispossessed": 3,
+        "totalContest": 4,
+        "shotOffTarget": 1,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 2,
+        "outfielderBlock": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 3,
+        "lastManTackle": 1,
+        "totalTackle": 5,
+        "wonTackle": 3,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 71,
+        "rating": 6.8,
+        "possessionLostCtrl": 20,
+        "expectedGoals": 0.0887,
+        "expectedAssists": 0.0354451,
+        "topSpeed": 34.27,
+        "kilometersCovered": 10.37,
+        "numberOfSprints": 15,
+        "totalBallCarriesDistance": 100.76884712178,
+        "ballCarriesCount": 13,
+        "totalProgression": 29.794500667151,
+        "bestBallCarryProgression": 16.61530925932,
+        "totalProgressiveBallCarriesDistance": 32.462881783561,
+        "progressiveBallCarriesCount": 2,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.9
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.28,
+        "passValueNormalized": 0.16,
+        "dribbleValueNormalized": 0.09,
+        "defensiveValueNormalized": 0.51,
+        "metersCoveredRunningKm": 1.59,
+        "metersCoveredHighSpeedRunningKm": 0.43,
+        "metersCoveredSprintingKm": 0.19,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
   }
 }

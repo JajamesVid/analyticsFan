@@ -127,5 +127,855 @@
       "position": "F",
       "extra": null
     }
+  },
+  "16416292": {
+    "id": 16416292,
+    "match_info": {
+      "homeTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "startTimestamp": 1787252400,
+      "slug": "deportivo-alaves-rayo-vallecano",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Alemão",
+        "slug": "alemao",
+        "shortName": "Alemão",
+        "position": "F",
+        "jerseyNumber": "9",
+        "height": 182,
+        "userCount": 2469,
+        "gender": "M",
+        "sofascoreId": "q44bw3",
+        "id": 981604,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 891388800,
+        "proposedMarketValueRaw": {
+          "value": 4400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أليماو",
+            "ru": "Алеман"
+          },
+          "shortNameTranslation": {
+            "ar": "أليماو",
+            "ru": "Алеман"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 231436,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "16416295": {
+    "id": 16416295,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1788204600,
+      "slug": "rayo-vallecano-fc-barcelona",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Alemão",
+        "slug": "alemao",
+        "shortName": "Alemão",
+        "position": "F",
+        "jerseyNumber": "9",
+        "height": 182,
+        "userCount": 2471,
+        "gender": "M",
+        "sofascoreId": "q44bw3",
+        "id": 981604,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 891388800,
+        "proposedMarketValueRaw": {
+          "value": 4400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أليماو",
+            "ru": "Алеман"
+          },
+          "shortNameTranslation": {
+            "ar": "أليماو",
+            "ru": "Алеман"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 240603,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 6,
+        "accuratePass": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 5,
+        "duelLost": 2,
+        "duelWon": 1,
+        "dispossessed": 2,
+        "onTargetScoringAttempt": 1,
+        "ballRecovery": 2,
+        "wasFouled": 1,
+        "minutesPlayed": 15,
+        "touches": 10,
+        "rating": 6.6,
+        "possessionLostCtrl": 4,
+        "expectedGoals": 0.0653,
+        "expectedGoalsOnTarget": 0.3333,
+        "expectedAssists": 0.0108853,
+        "topSpeed": 29.52,
+        "kilometersCovered": 2.07,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 60.806475943855,
+        "ballCarriesCount": 2,
+        "totalProgression": -52.517262388917,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.8
+        },
+        "totalShots": 1,
+        "shotValueNormalized": 0.12,
+        "passValueNormalized": -0.15,
+        "dribbleValueNormalized": 0.22,
+        "defensiveValueNormalized": 0,
+        "metersCoveredRunningKm": 0.29,
+        "metersCoveredHighSpeedRunningKm": 0.08,
+        "metersCoveredSprintingKm": 0.04,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "16416305": {
+    "id": 16416305,
+    "match_info": {
+      "homeTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1789819200,
+      "slug": "osasuna-rayo-vallecano",
+      "season": "26/27",
+      "jornada": 7
+    },
+    "player_stats": {
+      "player": {
+        "name": "Alemão",
+        "slug": "alemao",
+        "shortName": "Alemão",
+        "position": "F",
+        "jerseyNumber": "9",
+        "height": 182,
+        "userCount": 2332,
+        "gender": "M",
+        "sofascoreId": "q44-bw3",
+        "id": 981604,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 891388800,
+        "proposedMarketValueRaw": {
+          "value": 4400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أليماو",
+            "ru": "Алеман"
+          },
+          "shortNameTranslation": {
+            "ar": "أليماو",
+            "ru": "Алеман"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 208413,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 5,
+        "accuratePass": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 2,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "aerialLost": 1,
+        "aerialWon": 2,
+        "duelLost": 3,
+        "duelWon": 2,
+        "challengeLost": 1,
+        "blockedScoringAttempt": 1,
+        "fouls": 1,
+        "minutesPlayed": 19,
+        "touches": 8,
+        "rating": 6.5,
+        "possessionLostCtrl": 1,
+        "expectedGoals": 0.0308,
+        "expectedAssists": 0.00349958,
+        "topSpeed": 26.87,
+        "kilometersCovered": 2.68,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 12.202062986652,
+        "ballCarriesCount": 2,
+        "totalProgression": 3.82719595881,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.5
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.07,
+        "passValueNormalized": -0.01,
+        "dribbleValueNormalized": 0.08,
+        "defensiveValueNormalized": -0.07,
+        "metersCoveredRunningKm": 0.39,
+        "metersCoveredHighSpeedRunningKm": 0.1,
+        "metersCoveredSprintingKm": 0.02,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "16416321": {
+    "id": 16416321,
+    "match_info": {
+      "homeTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "Racing Club",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1788625800,
+      "slug": "real-racing-club-rayo-vallecano",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "Alemão",
+        "slug": "alemao",
+        "shortName": "Alemão",
+        "position": "F",
+        "jerseyNumber": "9",
+        "height": 182,
+        "userCount": 2332,
+        "gender": "M",
+        "sofascoreId": "q44-bw3",
+        "id": 981604,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 891388800,
+        "proposedMarketValueRaw": {
+          "value": 4400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أليماو",
+            "ru": "Алеман"
+          },
+          "shortNameTranslation": {
+            "ar": "أليماو",
+            "ru": "Алеман"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 208790,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 4,
+        "accuratePass": 3,
+        "goalAssist": 0,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 4,
+        "aerialLost": 4,
+        "aerialWon": 1,
+        "duelLost": 10,
+        "duelWon": 2,
+        "dispossessed": 3,
+        "totalContest": 3,
+        "wonContest": 1,
+        "totalClearance": 1,
+        "ballRecovery": 1,
+        "fouls": 1,
+        "minutesPlayed": 33,
+        "touches": 13,
+        "rating": 6.1,
+        "possessionLostCtrl": 6,
+        "expectedAssists": 0.00589933,
+        "topSpeed": 28.02,
+        "kilometersCovered": 3.85,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 32.134910971546,
+        "ballCarriesCount": 3,
+        "totalProgression": 7.7574352834246,
+        "bestBallCarryProgression": 8.5120030766112,
+        "totalProgressiveBallCarriesDistance": 13.150341478456,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.1,
+          "alternative": 6.3
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.03,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": 0.13,
+        "metersCoveredRunningKm": 0.77,
+        "metersCoveredHighSpeedRunningKm": 0.18,
+        "metersCoveredSprintingKm": 0.03,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "16416331": {
+    "id": 16416331,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1789239600,
+      "slug": "real-madrid-rayo-vallecano",
+      "season": "26/27",
+      "jornada": 5
+    },
+    "player_stats": {
+      "player": {
+        "name": "Alemão",
+        "slug": "alemao",
+        "shortName": "Alemão",
+        "position": "F",
+        "jerseyNumber": "9",
+        "height": 182,
+        "userCount": 2332,
+        "gender": "M",
+        "sofascoreId": "q44-bw3",
+        "id": 981604,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 891388800,
+        "proposedMarketValueRaw": {
+          "value": 4400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أليماو",
+            "ru": "Алеман"
+          },
+          "shortNameTranslation": {
+            "ar": "أليماو",
+            "ru": "Алеман"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 208790,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 4,
+        "accuratePass": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 2,
+        "aerialWon": 1,
+        "duelLost": 1,
+        "duelWon": 1,
+        "dispossessed": 1,
+        "shotOffTarget": 1,
+        "blockedScoringAttempt": 2,
+        "totalClearance": 1,
+        "ballRecovery": 1,
+        "minutesPlayed": 15,
+        "touches": 11,
+        "rating": 6.4,
+        "possessionLostCtrl": 2,
+        "expectedGoals": 0.3001,
+        "expectedAssists": 0.00205174,
+        "topSpeed": 26.41,
+        "kilometersCovered": 2.11,
+        "numberOfSprints": 1,
+        "totalBallCarriesDistance": 12.464689714679,
+        "ballCarriesCount": 2,
+        "totalProgression": -8.8981095120517,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.7
+        },
+        "totalShots": 3,
+        "shotValueNormalized": -0.42,
+        "passValueNormalized": -0.14,
+        "dribbleValueNormalized": -0.05,
+        "defensiveValueNormalized": 0.16,
+        "metersCoveredRunningKm": 0.3,
+        "metersCoveredHighSpeedRunningKm": 0.08,
+        "metersCoveredSprintingKm": 0.01,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "16416345": {
+    "id": 16416345,
+    "match_info": {
+      "homeTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1789491600,
+      "slug": "rayo-vallecano-espanyol",
+      "season": "26/27",
+      "jornada": 6
+    },
+    "player_stats": {
+      "player": {
+        "name": "Alemão",
+        "slug": "alemao",
+        "shortName": "Alemão",
+        "position": "F",
+        "jerseyNumber": "9",
+        "height": 182,
+        "userCount": 2328,
+        "gender": "M",
+        "sofascoreId": "q44-bw3",
+        "id": 981604,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 891388800,
+        "proposedMarketValueRaw": {
+          "value": 4400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أليماو",
+            "ru": "Алеман"
+          },
+          "shortNameTranslation": {
+            "ar": "أليماو",
+            "ru": "Алеман"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 208369,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 7,
+        "accuratePass": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 5,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 2,
+        "duelWon": 5,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 3,
+        "fouls": 1,
+        "minutesPlayed": 14,
+        "touches": 15,
+        "rating": 6.8,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 0.00747595,
+        "topSpeed": 26.63,
+        "kilometersCovered": 2.57,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 20.620062657261,
+        "ballCarriesCount": 3,
+        "totalProgression": -3.0557911984517,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.06,
+        "dribbleValueNormalized": 0.11,
+        "defensiveValueNormalized": 0.15,
+        "metersCoveredRunningKm": 0.41,
+        "metersCoveredHighSpeedRunningKm": 0.12,
+        "metersCoveredSprintingKm": 0.03,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "16421072": {
+    "id": 16421072,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1792436400,
+      "slug": "getafe-rayo-vallecano",
+      "season": "26/27",
+      "jornada": 9
+    },
+    "player_stats": {
+      "player": {
+        "name": "Alemão",
+        "slug": "alemao",
+        "shortName": "Alemão",
+        "position": "F",
+        "jerseyNumber": "9",
+        "height": 182,
+        "userCount": 2328,
+        "gender": "M",
+        "sofascoreId": "q44-bw3",
+        "id": 981604,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 891388800,
+        "proposedMarketValueRaw": {
+          "value": 4400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أليماو",
+            "ru": "Алеман"
+          },
+          "shortNameTranslation": {
+            "ar": "أليماو",
+            "ru": "Алеман"
+          }
+        }
+      },
+      "team": {
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano",
+        "shortName": "Rayo Vallecano",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 208369,
+        "nameCode": "RAY",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2818,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رايو فاليكانو",
+            "bn": "রায়ো ভ্যালেকানো",
+            "hi": "रेयो वैलेकैनो",
+            "ru": "Райо Вальекано"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "goalAssist": 0,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 1,
+        "minutesPlayed": 10,
+        "touches": 2,
+        "rating": 6.5,
+        "expectedGoals": 0.2092,
+        "topSpeed": 25.96,
+        "kilometersCovered": 1.61,
+        "numberOfSprints": 1,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.5
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.42,
+        "defensiveValueNormalized": 0.13,
+        "metersCoveredRunningKm": 0.18,
+        "metersCoveredHighSpeedRunningKm": 0.04,
+        "metersCoveredSprintingKm": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
   }
 }

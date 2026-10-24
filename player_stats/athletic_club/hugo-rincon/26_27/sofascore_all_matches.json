@@ -1,0 +1,929 @@
+{
+  "16416337": {
+    "id": 16416337,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 0
+      },
+      "startTimestamp": 1789827300,
+      "slug": "deportivo-alaves-athletic-club",
+      "season": "26/27",
+      "jornada": 7
+    },
+    "player_stats": {
+      "player": {
+        "name": "Hugo Rincón",
+        "firstName": "Hugo",
+        "lastName": "Rincon",
+        "slug": "rincon-lumbreras-hugo",
+        "shortName": "H. Rincón",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 183,
+        "userCount": 370,
+        "gender": "M",
+        "sofascoreId": "fpu-nsx",
+        "id": 1632454,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1043625600,
+        "proposedMarketValueRaw": {
+          "value": 3400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هوغو رينكون",
+            "ru": "Уго Ринкон"
+          },
+          "shortNameTranslation": {
+            "ar": "ه. رينكون",
+            "ru": "У. Ринкон"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 401529,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421059": {
+    "id": 16421059,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1787857200,
+      "slug": "athletic-club-fc-barcelona",
+      "season": "26/27",
+      "jornada": 1
+    },
+    "player_stats": {
+      "player": {
+        "name": "Hugo Rincón",
+        "firstName": "Hugo",
+        "lastName": "Rincon",
+        "slug": "rincon-lumbreras-hugo",
+        "shortName": "H. Rincón",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 183,
+        "userCount": 361,
+        "gender": "M",
+        "sofascoreId": "fpu-nsx",
+        "id": 1632454,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1043625600,
+        "proposedMarketValueRaw": {
+          "value": 3400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هوغو رينكون",
+            "ru": "Уго Ринкон"
+          },
+          "shortNameTranslation": {
+            "ar": "ه. رينكون",
+            "ru": "У. Ринкон"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 399809,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 12,
+        "accuratePass": 8,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 8,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 4,
+        "duelWon": 5,
+        "challengeLost": 1,
+        "dispossessed": 1,
+        "outfielderBlock": 2,
+        "interceptionWon": 1,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 3,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 32,
+        "rating": 6.5,
+        "possessionLostCtrl": 8,
+        "expectedAssists": 0.00752364,
+        "topSpeed": 33.94,
+        "kilometersCovered": 10.26,
+        "numberOfSprints": 14,
+        "totalBallCarriesDistance": 92.507917267446,
+        "ballCarriesCount": 9,
+        "totalProgression": 16.32909172956,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.04,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": -0.13,
+        "metersCoveredRunningKm": 1.5,
+        "metersCoveredHighSpeedRunningKm": 0.55,
+        "metersCoveredSprintingKm": 0.19,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416301": {
+    "id": 16416301,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1787410800,
+      "slug": "sevilla-athletic-club",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Hugo Rincón",
+        "firstName": "Hugo",
+        "lastName": "Rincon",
+        "slug": "rincon-lumbreras-hugo",
+        "shortName": "H. Rincón",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 183,
+        "userCount": 361,
+        "gender": "M",
+        "sofascoreId": "fpu-nsx",
+        "id": 1632454,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1043625600,
+        "proposedMarketValueRaw": {
+          "value": 3400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هوغو رينكون",
+            "ru": "Уго Ринкон"
+          },
+          "shortNameTranslation": {
+            "ar": "ه. رينكون",
+            "ru": "У. Ринкон"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 399809,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 11,
+        "accuratePass": 11,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 7,
+        "totalCross": 2,
+        "duelWon": 1,
+        "totalClearance": 1,
+        "ballRecovery": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 16,
+        "touches": 19,
+        "rating": 6.8,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 0.00553999,
+        "topSpeed": 29.8,
+        "kilometersCovered": 2.75,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 29.864540221076,
+        "ballCarriesCount": 5,
+        "totalProgression": 14.197401802046,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0,
+        "dribbleValueNormalized": -0.05,
+        "defensiveValueNormalized": 0.13,
+        "metersCoveredRunningKm": 0.47,
+        "metersCoveredHighSpeedRunningKm": 0.14,
+        "metersCoveredSprintingKm": 0.07,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416308": {
+    "id": 16416308,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1788118200,
+      "slug": "athletic-club-celta-vigo",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Hugo Rincón",
+        "firstName": "Hugo",
+        "lastName": "Rincon",
+        "slug": "rincon-lumbreras-hugo",
+        "shortName": "H. Rincón",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 183,
+        "userCount": 361,
+        "gender": "M",
+        "sofascoreId": "fpu-nsx",
+        "id": 1632454,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1043625600,
+        "proposedMarketValueRaw": {
+          "value": 3400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هوغو رينكون",
+            "ru": "Уго Ринкон"
+          },
+          "shortNameTranslation": {
+            "ar": "ه. رينكون",
+            "ru": "У. Ринкон"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 399313,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416317": {
+    "id": 16416317,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atlético Madrid",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1788617700,
+      "slug": "atletico-madrid-athletic-club",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "Hugo Rincón",
+        "firstName": "Hugo",
+        "lastName": "Rincon",
+        "slug": "rincon-lumbreras-hugo",
+        "shortName": "H. Rincón",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 183,
+        "userCount": 362,
+        "gender": "M",
+        "sofascoreId": "fpu-nsx",
+        "id": 1632454,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1043625600,
+        "proposedMarketValueRaw": {
+          "value": 3400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هوغو رينكون",
+            "ru": "Уго Ринкон"
+          },
+          "shortNameTranslation": {
+            "ar": "ه. رينكون",
+            "ru": "У. Ринкон"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 398400,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416322": {
+    "id": 16416322,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1789230600,
+      "slug": "elche-athletic-club",
+      "season": "26/27",
+      "jornada": 5
+    },
+    "player_stats": {
+      "player": {
+        "name": "Hugo Rincón",
+        "firstName": "Hugo",
+        "lastName": "Rincon",
+        "slug": "rincon-lumbreras-hugo",
+        "shortName": "H. Rincón",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 183,
+        "userCount": 362,
+        "gender": "M",
+        "sofascoreId": "fpu-nsx",
+        "id": 1632454,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1043625600,
+        "proposedMarketValueRaw": {
+          "value": 3400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هوغو رينكون",
+            "ru": "Уго Ринкон"
+          },
+          "shortNameTranslation": {
+            "ar": "ه. رينكون",
+            "ru": "У. Ринкон"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 398400,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "17122851": {
+    "id": 17122851,
+    "match_info": {
+      "homeTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "startTimestamp": 1792605600,
+      "slug": "levante-ud-athletic-club",
+      "season": "26/27",
+      "jornada": 6
+    },
+    "player_stats": {
+      "player": {
+        "name": "Hugo Rincón",
+        "firstName": "Hugo",
+        "lastName": "Rincon",
+        "slug": "rincon-lumbreras-hugo",
+        "shortName": "H. Rincón",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 183,
+        "userCount": 363,
+        "gender": "M",
+        "sofascoreId": "fpu-nsx",
+        "id": 1632454,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1043625600,
+        "proposedMarketValueRaw": {
+          "value": 3400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هوغو رينكون",
+            "ru": "Уго Ринкон"
+          },
+          "shortNameTranslation": {
+            "ar": "ه. رينكون",
+            "ru": "У. Ринкон"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 399225,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 42,
+        "accuratePass": 34,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 9,
+        "totalOwnHalfPasses": 12,
+        "accurateOppositionHalfPasses": 25,
+        "totalOppositionHalfPasses": 30,
+        "totalCross": 6,
+        "accurateCross": 4,
+        "duelLost": 2,
+        "duelWon": 2,
+        "challengeLost": 2,
+        "blockedScoringAttempt": 2,
+        "totalClearance": 1,
+        "ballRecovery": 3,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "minutesPlayed": 81,
+        "touches": 58,
+        "rating": 6.9,
+        "possessionLostCtrl": 12,
+        "expectedGoals": 0.1357,
+        "expectedAssists": 0.21616,
+        "topSpeed": 32.76,
+        "kilometersCovered": 9.16,
+        "numberOfSprints": 18,
+        "totalBallCarriesDistance": 155.07814467865,
+        "ballCarriesCount": 16,
+        "totalProgression": 97.211291755435,
+        "bestBallCarryProgression": 16.177883751654,
+        "totalProgressiveBallCarriesDistance": 31.395537494764,
+        "progressiveBallCarriesCount": 2,
+        "keyPass": 5,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 7.2
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.28,
+        "passValueNormalized": 0.37,
+        "dribbleValueNormalized": 0.23,
+        "defensiveValueNormalized": -0.24,
+        "metersCoveredRunningKm": 1.68,
+        "metersCoveredHighSpeedRunningKm": 0.61,
+        "metersCoveredSprintingKm": 0.26,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421074": {
+    "id": 16421074,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1792263600,
+      "slug": "valencia-athletic-club",
+      "season": "26/27",
+      "jornada": 9
+    },
+    "player_stats": {
+      "player": {
+        "name": "Hugo Rincón",
+        "firstName": "Hugo",
+        "lastName": "Rincon",
+        "slug": "rincon-lumbreras-hugo",
+        "shortName": "H. Rincón",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 183,
+        "userCount": 363,
+        "gender": "M",
+        "sofascoreId": "fpu-nsx",
+        "id": 1632454,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1043625600,
+        "proposedMarketValueRaw": {
+          "value": 3400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هوغو رينكون",
+            "ru": "Уго Ринкон"
+          },
+          "shortNameTranslation": {
+            "ar": "ه. رينكون",
+            "ru": "У. Ринкон"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 399225,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 64,
+        "accuratePass": 61,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 25,
+        "totalOwnHalfPasses": 25,
+        "accurateOppositionHalfPasses": 36,
+        "totalOppositionHalfPasses": 39,
+        "totalCross": 1,
+        "aerialLost": 1,
+        "aerialWon": 2,
+        "duelLost": 3,
+        "duelWon": 5,
+        "totalClearance": 6,
+        "ballRecovery": 4,
+        "errorLeadToAShot": 1,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 3,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 82,
+        "rating": 7.6,
+        "possessionLostCtrl": 7,
+        "expectedAssists": 0.0402203,
+        "topSpeed": 33.52,
+        "kilometersCovered": 9.5,
+        "numberOfSprints": 11,
+        "totalBallCarriesDistance": 107.49872481935,
+        "ballCarriesCount": 19,
+        "totalProgression": 49.552182900188,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7.6,
+          "alternative": 7.2
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.35,
+        "dribbleValueNormalized": 0.05,
+        "defensiveValueNormalized": 0.21,
+        "metersCoveredRunningKm": 1.16,
+        "metersCoveredHighSpeedRunningKm": 0.4,
+        "metersCoveredSprintingKm": 0.18,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

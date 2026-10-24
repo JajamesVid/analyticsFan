@@ -1,0 +1,116 @@
+[
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Barcelona",
+        "abreviatura": "BAR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/3.png"
+      },
+      "visitante": {
+        "nombre": "Rayo",
+        "abreviatura": "RAY",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/14.png"
+      }
+    },
+    "resultado": "5-2",
+    "fecha": "2026-08-31",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22446-barcelona-rayo",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 16416295,
+      "match_info": {
+        "homeTeam": {
+          "name": "FC Barcelona",
+          "shortName": "Barcelona",
+          "color": "#154284",
+          "score": 5
+        },
+        "awayTeam": {
+          "name": "Rayo Vallecano",
+          "shortName": "Rayo Vallecano",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "startTimestamp": 1788204600,
+        "slug": "rayo-vallecano-fc-barcelona",
+        "season": "26/27",
+        "jornada": 3
+      },
+      "player_stats": {
+        "player": {
+          "name": "Adrián Molina",
+          "slug": "adrian-molina",
+          "shortName": "A. Molina",
+          "position": "G",
+          "jerseyNumber": "30",
+          "height": 189,
+          "userCount": 46,
+          "gender": "M",
+          "sofascoreId": "5bfe57",
+          "id": 1893144,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1121990400,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أدريان مولينا",
+              "ru": "Адриан Молино"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. مولينا",
+              "ru": "А. Молино"
+            }
+          }
+        },
+        "team": {
+          "name": "Rayo Vallecano",
+          "slug": "rayo-vallecano",
+          "shortName": "Rayo Vallecano",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 240603,
+          "nameCode": "RAY",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2818,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "رايو فاليكانو",
+              "bn": "রায়ো ভ্যালেকানো",
+              "hi": "रेयो वैलेकैनो",
+              "ru": "Райо Вальекано"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "G",
+        "extra": null
+      }
+    }
+  }
+]

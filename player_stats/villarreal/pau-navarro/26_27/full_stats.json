@@ -118,5 +118,1412 @@
         "extra": null
       }
     }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Alavés",
+        "abreviatura": "ALA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
+      },
+      "visitante": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      }
+    },
+    "resultado": "1-0",
+    "fecha": "2026-08-28",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22444-alaves-villarreal",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 16416290,
+      "match_info": {
+        "homeTeam": {
+          "name": "Deportivo Alavés",
+          "shortName": "Alavés",
+          "color": "#0232a0",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 0
+        },
+        "startTimestamp": 1787945400,
+        "slug": "deportivo-alaves-villarreal",
+        "season": "26/27",
+        "jornada": 3
+      },
+      "player_stats": {
+        "player": {
+          "name": "Pau Navarro",
+          "firstName": "Pau",
+          "lastName": "Navarro",
+          "slug": "pau-navarro",
+          "shortName": "P. Navarro",
+          "position": "D",
+          "jerseyNumber": "6",
+          "height": 185,
+          "userCount": 572,
+          "gender": "M",
+          "sofascoreId": "6gfk73",
+          "id": 1525863,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1114387200,
+          "proposedMarketValueRaw": {
+            "value": 14600000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "باو نافارو",
+              "ru": "Пау Наварро"
+            },
+            "shortNameTranslation": {
+              "ar": "ب. نافارو",
+              "ru": "П. Наварро"
+            }
+          }
+        },
+        "team": {
+          "name": "Villarreal",
+          "slug": "villarreal",
+          "shortName": "Villarreal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 483664,
+          "nameCode": "VIL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2819,
+          "teamColors": {
+            "primary": "#ffff00",
+            "secondary": "#013765",
+            "text": "#013765"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فياريال",
+              "bn": "ভিলারিয়াল",
+              "hi": "विल्लारियल",
+              "ru": "Вильярреал"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      },
+      "visitante": {
+        "nombre": "Levante",
+        "abreviatura": "LEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/10.png"
+      }
+    },
+    "resultado": "3-1",
+    "fecha": "2026-09-20",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22492-villarreal-levante",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 7.0,
+      "sofascore": 6.6,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 4.0,
+        "futbolfantasy-rpg": 5.0,
+        "comunio": 3.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": 1.0,
+        "biwenger-as-sofascore": 3.0,
+        "biwenger-stats": 4.0,
+        "futmondo-prensa": 3.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 2.0,
+        "futmondo-mixto": 6.1,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 4.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 1.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 2.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 3.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 6.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 94.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 2.0,
+        "stat-tackles": 2.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 83.0,
+        "stat-pases-completados": 78.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 16416294,
+      "match_info": {
+        "homeTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Levante UD",
+          "shortName": "Levante",
+          "color": "#0e3b68",
+          "score": 1
+        },
+        "startTimestamp": 1789921800,
+        "slug": "levante-ud-villarreal",
+        "season": "26/27",
+        "jornada": 7
+      },
+      "player_stats": {
+        "player": {
+          "name": "Pau Navarro",
+          "firstName": "Pau",
+          "lastName": "Navarro",
+          "slug": "pau-navarro",
+          "shortName": "P. Navarro",
+          "position": "D",
+          "jerseyNumber": "6",
+          "height": 185,
+          "userCount": 615,
+          "gender": "M",
+          "sofascoreId": "6gf-k73",
+          "id": 1525863,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1114387200,
+          "proposedMarketValueRaw": {
+            "value": 14600000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "باو نافارو",
+              "ru": "Пау Наварро"
+            },
+            "shortNameTranslation": {
+              "ar": "ب. نافارو",
+              "ru": "П. Наварро"
+            }
+          }
+        },
+        "team": {
+          "name": "Villarreal",
+          "slug": "villarreal",
+          "shortName": "Villarreal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 409530,
+          "nameCode": "VIL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2819,
+          "teamColors": {
+            "primary": "#ffff00",
+            "secondary": "#013765",
+            "text": "#013765"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فياريال",
+              "bn": "ভিলারিয়াল",
+              "hi": "विल्लारियल",
+              "ru": "Вильярреал"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 83,
+          "accuratePass": 78,
+          "totalLongBalls": 3,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 52,
+          "totalOwnHalfPasses": 53,
+          "accurateOppositionHalfPasses": 26,
+          "totalOppositionHalfPasses": 30,
+          "aerialLost": 4,
+          "aerialWon": 1,
+          "duelLost": 5,
+          "duelWon": 4,
+          "challengeLost": 1,
+          "totalContest": 1,
+          "wonContest": 1,
+          "totalClearance": 3,
+          "ballRecovery": 4,
+          "totalTackle": 2,
+          "wonTackle": 2,
+          "minutesPlayed": 79,
+          "touches": 92,
+          "rating": 6.6,
+          "possessionLostCtrl": 5,
+          "expectedAssists": 0.009844,
+          "topSpeed": 30.18,
+          "kilometersCovered": 7.48,
+          "numberOfSprints": 6,
+          "totalBallCarriesDistance": 81.740128132239,
+          "ballCarriesCount": 16,
+          "totalProgression": 6.6472572913632,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 6.6,
+            "alternative": 6.8
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.2,
+          "dribbleValueNormalized": 0.02,
+          "defensiveValueNormalized": -0.14,
+          "metersCoveredRunningKm": 0.83,
+          "metersCoveredHighSpeedRunningKm": 0.22,
+          "metersCoveredSprintingKm": 0.08,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      },
+      "visitante": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      }
+    },
+    "resultado": "1-0",
+    "fecha": "2026-10-10",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22500-real-madrid-villarreal",
+    "puntuaciones": {
+      "picas": 2,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.6,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 4.0,
+        "futbolfantasy-rpg": 3.0,
+        "comunio": 3.0,
+        "modo-picas": 6.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": 3.0,
+        "biwenger-as-sofascore": 5.0,
+        "biwenger-stats": 2.0,
+        "futmondo-prensa": 5.0,
+        "futmondo-mixto-as": 6.0,
+        "futmondo-stats": -1.0,
+        "futmondo-mixto": 2.6,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 4.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 3.0,
+        "mister-mixto-2": 4.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 1.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 6.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 8.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 90.6,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 64.0,
+        "stat-pases-completados": 58.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 16421066,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Madrid",
+          "shortName": "Real Madrid",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 0
+        },
+        "startTimestamp": 1791658800,
+        "slug": "real-madrid-villarreal",
+        "season": "26/27",
+        "jornada": 8
+      },
+      "player_stats": {
+        "player": {
+          "name": "Pau Navarro",
+          "firstName": "Pau",
+          "lastName": "Navarro",
+          "slug": "pau-navarro",
+          "shortName": "P. Navarro",
+          "position": "D",
+          "jerseyNumber": "6",
+          "height": 185,
+          "userCount": 615,
+          "gender": "M",
+          "sofascoreId": "6gf-k73",
+          "id": 1525863,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1114387200,
+          "proposedMarketValueRaw": {
+            "value": 14600000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "باو نافارو",
+              "ru": "Пау Наварро"
+            },
+            "shortNameTranslation": {
+              "ar": "ب. نافارو",
+              "ru": "П. Наварро"
+            }
+          }
+        },
+        "team": {
+          "name": "Villarreal",
+          "slug": "villarreal",
+          "shortName": "Villarreal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 409530,
+          "nameCode": "VIL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2819,
+          "teamColors": {
+            "primary": "#ffff00",
+            "secondary": "#013765",
+            "text": "#013765"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فياريال",
+              "bn": "ভিলারিয়াল",
+              "hi": "विल्लारियल",
+              "ru": "Вильярреал"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 64,
+          "accuratePass": 58,
+          "totalLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 43,
+          "totalOwnHalfPasses": 46,
+          "accurateOppositionHalfPasses": 15,
+          "totalOppositionHalfPasses": 18,
+          "aerialWon": 1,
+          "duelLost": 4,
+          "duelWon": 3,
+          "challengeLost": 3,
+          "totalClearance": 6,
+          "ballRecovery": 8,
+          "totalTackle": 1,
+          "unsuccessfulTouch": 1,
+          "wasFouled": 1,
+          "fouls": 1,
+          "minutesPlayed": 90,
+          "touches": 75,
+          "rating": 6.6,
+          "possessionLostCtrl": 8,
+          "expectedAssists": 0.00889957,
+          "topSpeed": 35.99,
+          "kilometersCovered": 8.98,
+          "numberOfSprints": 13,
+          "totalBallCarriesDistance": 106.89388574324,
+          "ballCarriesCount": 17,
+          "totalProgression": 26.529086917717,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 6.6,
+            "alternative": 6.5
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.06,
+          "dribbleValueNormalized": 0.06,
+          "defensiveValueNormalized": -0.13,
+          "metersCoveredRunningKm": 0.92,
+          "metersCoveredHighSpeedRunningKm": 0.36,
+          "metersCoveredSprintingKm": 0.2,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Atlético",
+        "abreviatura": "ATM",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
+      },
+      "visitante": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      }
+    },
+    "resultado": "2-2",
+    "fecha": "2026-08-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22434-atletico-villarreal",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 16416302,
+      "match_info": {
+        "homeTeam": {
+          "name": "Atlético Madrid",
+          "shortName": "Atlético Madrid",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 2
+        },
+        "startTimestamp": 1787497200,
+        "slug": "atletico-madrid-villarreal",
+        "season": "26/27",
+        "jornada": 2
+      },
+      "player_stats": {
+        "player": {
+          "name": "Pau Navarro",
+          "firstName": "Pau",
+          "lastName": "Navarro",
+          "slug": "pau-navarro",
+          "shortName": "P. Navarro",
+          "position": "D",
+          "jerseyNumber": "6",
+          "height": 185,
+          "userCount": 622,
+          "gender": "M",
+          "sofascoreId": "6gf-k73",
+          "id": 1525863,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1114387200,
+          "proposedMarketValueRaw": {
+            "value": 14600000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "باو نافارو",
+              "ru": "Пау Наварро"
+            },
+            "shortNameTranslation": {
+              "ar": "ب. نافارو",
+              "ru": "П. Наварро"
+            }
+          }
+        },
+        "team": {
+          "name": "Villarreal",
+          "slug": "villarreal",
+          "shortName": "Villarreal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 408965,
+          "nameCode": "VIL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2819,
+          "teamColors": {
+            "primary": "#ffff00",
+            "secondary": "#013765",
+            "text": "#013765"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فياريال",
+              "bn": "ভিলারিয়াল",
+              "hi": "विल्लारियल",
+              "ru": "Вильярреал"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      },
+      "visitante": {
+        "nombre": "Deportivo",
+        "abreviatura": "DEP",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/6.png"
+      }
+    },
+    "resultado": "2-3",
+    "fecha": "2026-09-05",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22462-villarreal-deportivo",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 16416324,
+      "match_info": {
+        "homeTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Deportivo de A Coruña",
+          "shortName": "Deportivo",
+          "color": "#003399",
+          "score": 3
+        },
+        "startTimestamp": 1788634800,
+        "slug": "deportivo-de-la-coruna-villarreal",
+        "season": "26/27",
+        "jornada": 4
+      },
+      "player_stats": {
+        "player": {
+          "name": "Pau Navarro",
+          "firstName": "Pau",
+          "lastName": "Navarro",
+          "slug": "pau-navarro",
+          "shortName": "P. Navarro",
+          "position": "D",
+          "jerseyNumber": "6",
+          "height": 185,
+          "userCount": 617,
+          "gender": "M",
+          "sofascoreId": "6gf-k73",
+          "id": 1525863,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1114387200,
+          "proposedMarketValueRaw": {
+            "value": 14600000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "باو نافارو",
+              "ru": "Пау Наварро"
+            },
+            "shortNameTranslation": {
+              "ar": "ب. نافارو",
+              "ru": "П. Наварро"
+            }
+          }
+        },
+        "team": {
+          "name": "Villarreal",
+          "slug": "villarreal",
+          "shortName": "Villarreal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 407877,
+          "nameCode": "VIL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2819,
+          "teamColors": {
+            "primary": "#ffff00",
+            "secondary": "#013765",
+            "text": "#013765"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فياريال",
+              "bn": "ভিলারিয়াল",
+              "hi": "विल्लारियल",
+              "ru": "Вильярреал"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      },
+      "visitante": {
+        "nombre": "Betis",
+        "abreviatura": "BET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/4.png"
+      }
+    },
+    "resultado": "1-2",
+    "fecha": "2026-09-14",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22472-villarreal-betis",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": null,
+      "sofascore": 7.4,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 8.0,
+        "comunio": 7.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 7.0,
+        "biwenger-social": 2.0,
+        "biwenger-as-sofascore": 5.0,
+        "biwenger-stats": 5.0,
+        "futmondo-prensa": 0.0,
+        "futmondo-mixto-as": 0.0,
+        "futmondo-stats": 4.0,
+        "futmondo-mixto": 4.4,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 3.0,
+        "marca-sofascore": 7.0,
+        "mister-cronistas-md": 6.0,
+        "mister-mixto": 4.0,
+        "mister-mixto-2": 5.0,
+        "mister-sofascore": 7.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 1.0,
+        "stat-balones-robados": 1.0,
+        "stat-balones-robados-ultimo-hombre": 1.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 2.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 5.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 6.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 94.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 1.0,
+        "stat-tackles": 1.0,
+        "stat-duelos-aereos": 3.0,
+        "stat-tiros-bloqueados": 1.0,
+        "stat-pases-totales": 84.0,
+        "stat-pases-completados": 79.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 16416333,
+      "match_info": {
+        "homeTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Real Betis",
+          "shortName": "Real Betis",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "startTimestamp": 1789412400,
+        "slug": "villarreal-real-betis",
+        "season": "26/27",
+        "jornada": 5
+      },
+      "player_stats": {
+        "player": {
+          "name": "Pau Navarro",
+          "firstName": "Pau",
+          "lastName": "Navarro",
+          "slug": "pau-navarro",
+          "shortName": "P. Navarro",
+          "position": "D",
+          "jerseyNumber": "6",
+          "height": 185,
+          "userCount": 617,
+          "gender": "M",
+          "sofascoreId": "6gf-k73",
+          "id": 1525863,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1114387200,
+          "proposedMarketValueRaw": {
+            "value": 14600000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "باو نافارو",
+              "ru": "Пау Наварро"
+            },
+            "shortNameTranslation": {
+              "ar": "ب. نافارو",
+              "ru": "П. Наварро"
+            }
+          }
+        },
+        "team": {
+          "name": "Villarreal",
+          "slug": "villarreal",
+          "shortName": "Villarreal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 407877,
+          "nameCode": "VIL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2819,
+          "teamColors": {
+            "primary": "#ffff00",
+            "secondary": "#013765",
+            "text": "#013765"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فياريال",
+              "bn": "ভিলারিয়াল",
+              "hi": "विल्लारियल",
+              "ru": "Вильярреал"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 84,
+          "accuratePass": 79,
+          "totalLongBalls": 3,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 49,
+          "totalOwnHalfPasses": 49,
+          "accurateOppositionHalfPasses": 30,
+          "totalOppositionHalfPasses": 35,
+          "aerialWon": 3,
+          "duelLost": 4,
+          "duelWon": 5,
+          "challengeLost": 3,
+          "totalClearance": 5,
+          "outfielderBlock": 1,
+          "interceptionWon": 1,
+          "ballRecovery": 2,
+          "lastManTackle": 1,
+          "totalTackle": 2,
+          "wonTackle": 1,
+          "unsuccessfulTouch": 1,
+          "fouls": 1,
+          "totalOffside": 1,
+          "minutesPlayed": 90,
+          "touches": 96,
+          "rating": 7.4,
+          "possessionLostCtrl": 6,
+          "expectedAssists": 0.0242432,
+          "topSpeed": 30.86,
+          "kilometersCovered": 9.4,
+          "numberOfSprints": 9,
+          "totalBallCarriesDistance": 51.382727063845,
+          "ballCarriesCount": 10,
+          "totalProgression": 32.903777356094,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 7.4,
+            "alternative": 6.9
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.3,
+          "dribbleValueNormalized": 0.03,
+          "defensiveValueNormalized": 0.57,
+          "metersCoveredRunningKm": 1.13,
+          "metersCoveredHighSpeedRunningKm": 0.43,
+          "metersCoveredSprintingKm": 0.14,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Málaga",
+        "abreviatura": "MLG",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/11.png"
+      },
+      "visitante": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      }
+    },
+    "resultado": "1-3",
+    "fecha": "2026-09-17",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22479-malaga-villarreal",
+    "puntuaciones": {
+      "picas": 2,
+      "marca": 1,
+      "cope": 7.0,
+      "sofascore": 6.7,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 3.0,
+        "futbolfantasy-rpg": -1.0,
+        "comunio": 4.0,
+        "modo-picas": 6.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": 1.0,
+        "biwenger-as-sofascore": 5.0,
+        "biwenger-stats": 3.0,
+        "futmondo-prensa": 5.0,
+        "futmondo-mixto-as": 6.0,
+        "futmondo-stats": -1.0,
+        "futmondo-mixto": 4.6,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 3.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 6.0,
+        "mister-mixto": 3.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 1.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 2.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 1.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 1.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 3.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 95.7,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 1.0,
+        "stat-tackles": 1.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 47.0,
+        "stat-pases-completados": 45.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 16416338,
+      "match_info": {
+        "homeTeam": {
+          "name": "Málaga CF",
+          "shortName": "Málaga",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 3
+        },
+        "startTimestamp": 1789673400,
+        "slug": "malaga-cf-villarreal",
+        "season": "26/27",
+        "jornada": 6
+      },
+      "player_stats": {
+        "player": {
+          "name": "Pau Navarro",
+          "firstName": "Pau",
+          "lastName": "Navarro",
+          "slug": "pau-navarro",
+          "shortName": "P. Navarro",
+          "position": "D",
+          "jerseyNumber": "6",
+          "height": 185,
+          "userCount": 628,
+          "gender": "M",
+          "sofascoreId": "6gf-k73",
+          "id": 1525863,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1114387200,
+          "proposedMarketValueRaw": {
+            "value": 14600000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "باو نافارو",
+              "ru": "Пау Наварро"
+            },
+            "shortNameTranslation": {
+              "ar": "ب. نافارو",
+              "ru": "П. Наварро"
+            }
+          }
+        },
+        "team": {
+          "name": "Villarreal",
+          "slug": "villarreal",
+          "shortName": "Villarreal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 410076,
+          "nameCode": "VIL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2819,
+          "teamColors": {
+            "primary": "#ffff00",
+            "secondary": "#013765",
+            "text": "#013765"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فياريال",
+              "bn": "ভিলারিয়াল",
+              "hi": "विल्लारियल",
+              "ru": "Вильярреал"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 47,
+          "accuratePass": 45,
+          "totalLongBalls": 4,
+          "accurateLongBalls": 4,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 35,
+          "totalOwnHalfPasses": 37,
+          "accurateOppositionHalfPasses": 10,
+          "totalOppositionHalfPasses": 10,
+          "aerialWon": 1,
+          "duelLost": 4,
+          "duelWon": 3,
+          "totalContest": 3,
+          "wonContest": 1,
+          "totalClearance": 1,
+          "ballRecovery": 4,
+          "totalTackle": 1,
+          "wonTackle": 1,
+          "fouls": 2,
+          "minutesPlayed": 90,
+          "touches": 55,
+          "rating": 6.7,
+          "possessionLostCtrl": 4,
+          "expectedAssists": 0.006311,
+          "topSpeed": 27.79,
+          "kilometersCovered": 9.09,
+          "numberOfSprints": 3,
+          "totalBallCarriesDistance": 69.703676421517,
+          "ballCarriesCount": 11,
+          "totalProgression": 5.0474342177587,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 6.7,
+            "alternative": 6.5
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.18,
+          "dribbleValueNormalized": -0.05,
+          "defensiveValueNormalized": 0.16,
+          "metersCoveredRunningKm": 1.15,
+          "metersCoveredHighSpeedRunningKm": 0.25,
+          "metersCoveredSprintingKm": 0.03,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      },
+      "visitante": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      }
+    },
+    "resultado": "0-0",
+    "fecha": "2026-10-17",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22512-villarreal-elche",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 16421076,
+      "match_info": {
+        "homeTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 0
+        },
+        "awayTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 0
+        },
+        "startTimestamp": 1792246500,
+        "slug": "elche-villarreal",
+        "season": "26/27",
+        "jornada": 9
+      },
+      "player_stats": {
+        "player": {
+          "name": "Pau Navarro",
+          "firstName": "Pau",
+          "lastName": "Navarro",
+          "slug": "pau-navarro",
+          "shortName": "P. Navarro",
+          "position": "D",
+          "jerseyNumber": "6",
+          "height": 185,
+          "userCount": 628,
+          "gender": "M",
+          "sofascoreId": "6gf-k73",
+          "id": 1525863,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1114387200,
+          "proposedMarketValueRaw": {
+            "value": 14600000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "باو نافارو",
+              "ru": "Пау Наварро"
+            },
+            "shortNameTranslation": {
+              "ar": "ب. نافارو",
+              "ru": "П. Наварро"
+            }
+          }
+        },
+        "team": {
+          "name": "Villarreal",
+          "slug": "villarreal",
+          "shortName": "Villarreal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 410076,
+          "nameCode": "VIL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2819,
+          "teamColors": {
+            "primary": "#ffff00",
+            "secondary": "#013765",
+            "text": "#013765"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فياريال",
+              "bn": "ভিলারিয়াল",
+              "hi": "विल्लारियल",
+              "ru": "Вильярреал"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
   }
 ]

@@ -1,0 +1,1256 @@
+{
+  "16416340": {
+    "id": 16416340,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 0
+      },
+      "startTimestamp": 1788462000,
+      "slug": "real-sociedad-celta-vigo",
+      "season": "26/27",
+      "jornada": 6
+    },
+    "player_stats": {
+      "player": {
+        "name": "Sergio Carreira",
+        "slug": "sergio-carreira",
+        "shortName": "S. Carreira",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 170,
+        "userCount": 581,
+        "gender": "M",
+        "sofascoreId": "ekj4d3",
+        "id": 1002764,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 971395200,
+        "proposedMarketValueRaw": {
+          "value": 11500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيرجيو كاريرا",
+            "bn": "সার্জিও ক্যারেরা",
+            "hi": "सर्जियो कैरीरा",
+            "ru": "Сергио Каррейра"
+          },
+          "shortNameTranslation": {
+            "ar": "س. كاريرا",
+            "bn": "এস. ক্যারেইরা",
+            "hi": "एस. कारीरा",
+            "ru": "С. Каррейра"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 278526,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 59,
+        "accuratePass": 52,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 23,
+        "totalOwnHalfPasses": 26,
+        "accurateOppositionHalfPasses": 29,
+        "totalOppositionHalfPasses": 33,
+        "aerialLost": 2,
+        "duelLost": 7,
+        "duelWon": 3,
+        "challengeLost": 2,
+        "totalContest": 1,
+        "bigChanceCreated": 1,
+        "totalClearance": 1,
+        "outfielderBlock": 1,
+        "ballRecovery": 5,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 3,
+        "wasFouled": 2,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 80,
+        "rating": 6.9,
+        "possessionLostCtrl": 13,
+        "expectedAssists": 0.239857,
+        "topSpeed": 29.14,
+        "kilometersCovered": 10.69,
+        "numberOfSprints": 8,
+        "totalBallCarriesDistance": 224.15869335141,
+        "ballCarriesCount": 23,
+        "totalProgression": 135.08057933606,
+        "bestBallCarryProgression": 27.266508640884,
+        "totalProgressiveBallCarriesDistance": 45.688712668164,
+        "progressiveBallCarriesCount": 2,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 7.2
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.28,
+        "dribbleValueNormalized": 0.28,
+        "defensiveValueNormalized": 0.14,
+        "metersCoveredRunningKm": 1.55,
+        "metersCoveredHighSpeedRunningKm": 0.54,
+        "metersCoveredSprintingKm": 0.11,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416344": {
+    "id": 16416344,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "Racing Club",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1789835400,
+      "slug": "real-racing-club-celta-vigo",
+      "season": "26/27",
+      "jornada": 7
+    },
+    "player_stats": {
+      "player": {
+        "name": "Sergio Carreira",
+        "slug": "sergio-carreira",
+        "shortName": "S. Carreira",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 170,
+        "userCount": 551,
+        "gender": "M",
+        "sofascoreId": "ekj-4d3",
+        "id": 1002764,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 971395200,
+        "proposedMarketValueRaw": {
+          "value": 11500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيرجيو كاريرا",
+            "bn": "সার্জিও ক্যারেরা",
+            "hi": "सर्जियो कैरीरा",
+            "ru": "Сергио Каррейра"
+          },
+          "shortNameTranslation": {
+            "ar": "س. كاريرا",
+            "bn": "এস. ক্যারেইরা",
+            "hi": "एस. कारीरा",
+            "ru": "С. Каррейра"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 230374,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 27,
+        "accuratePass": 23,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 8,
+        "totalOwnHalfPasses": 9,
+        "accurateOppositionHalfPasses": 15,
+        "totalOppositionHalfPasses": 18,
+        "duelLost": 1,
+        "dispossessed": 1,
+        "interceptionWon": 2,
+        "ballRecovery": 2,
+        "totalOffside": 1,
+        "minutesPlayed": 45,
+        "touches": 32,
+        "rating": 7.8,
+        "possessionLostCtrl": 6,
+        "expectedAssists": 0.226509,
+        "topSpeed": 29.13,
+        "kilometersCovered": 5.65,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 126.82803904901,
+        "ballCarriesCount": 15,
+        "totalProgression": 72.02869684248,
+        "bestBallCarryProgression": 23.384357379084,
+        "totalProgressiveBallCarriesDistance": 41.851082884126,
+        "progressiveBallCarriesCount": 2,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.8,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.35,
+        "dribbleValueNormalized": 0.26,
+        "defensiveValueNormalized": 0.15,
+        "metersCoveredRunningKm": 1,
+        "metersCoveredHighSpeedRunningKm": 0.42,
+        "metersCoveredSprintingKm": 0.05,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421058": {
+    "id": 16421058,
+    "match_info": {
+      "homeTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 0
+      },
+      "startTimestamp": 1791720000,
+      "slug": "elche-celta-vigo",
+      "season": "26/27",
+      "jornada": 8
+    },
+    "player_stats": {
+      "player": {
+        "name": "Sergio Carreira",
+        "slug": "sergio-carreira",
+        "shortName": "S. Carreira",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 170,
+        "userCount": 551,
+        "gender": "M",
+        "sofascoreId": "ekj-4d3",
+        "id": 1002764,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 971395200,
+        "proposedMarketValueRaw": {
+          "value": 11500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيرجيو كاريرا",
+            "bn": "সার্জিও ক্যারেরা",
+            "hi": "सर्जियो कैरीरा",
+            "ru": "Сергио Каррейра"
+          },
+          "shortNameTranslation": {
+            "ar": "س. كاريرا",
+            "bn": "এস. ক্যারেইরা",
+            "hi": "एस. कारीरा",
+            "ru": "С. Каррейра"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 230374,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 5,
+        "accuratePass": 4,
+        "totalLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 4,
+        "duelLost": 1,
+        "duelWon": 2,
+        "dispossessed": 1,
+        "totalClearance": 2,
+        "ballRecovery": 1,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "minutesPlayed": 19,
+        "touches": 11,
+        "rating": 6.7,
+        "possessionLostCtrl": 2,
+        "expectedAssists": 0.00154669,
+        "topSpeed": 29.78,
+        "kilometersCovered": 2.73,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 13.370774664046,
+        "ballCarriesCount": 2,
+        "totalProgression": 7.0925303641208,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.02,
+        "dribbleValueNormalized": -0.21,
+        "defensiveValueNormalized": -0.02,
+        "metersCoveredRunningKm": 0.52,
+        "metersCoveredHighSpeedRunningKm": 0.18,
+        "metersCoveredSprintingKm": 0.04,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16815992": {
+    "id": 16815992,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "startTimestamp": 1787855400,
+      "slug": "celta-vigo-osasuna",
+      "season": "26/27",
+      "jornada": 1
+    },
+    "player_stats": {
+      "player": {
+        "name": "Sergio Carreira",
+        "slug": "sergio-carreira",
+        "shortName": "S. Carreira",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 170,
+        "userCount": 550,
+        "gender": "M",
+        "sofascoreId": "ekj-4d3",
+        "id": 1002764,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 971395200,
+        "proposedMarketValueRaw": {
+          "value": 11500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيرجيو كاريرا",
+            "bn": "সার্জিও ক্যারেরা",
+            "hi": "सर्जियो कैरीरा",
+            "ru": "Сергио Каррейра"
+          },
+          "shortNameTranslation": {
+            "ar": "س. كاريرا",
+            "bn": "এস. ক্যারেইরা",
+            "hi": "एस. कारीरा",
+            "ru": "С. Каррейра"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 228893,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 24,
+        "accuratePass": 20,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 17,
+        "totalOppositionHalfPasses": 21,
+        "totalCross": 1,
+        "blockedScoringAttempt": 1,
+        "clearanceOffLine": 1,
+        "outfielderBlock": 1,
+        "ballRecovery": 2,
+        "minutesPlayed": 25,
+        "touches": 32,
+        "rating": 8,
+        "possessionLostCtrl": 6,
+        "expectedGoals": 0.0214,
+        "expectedAssists": 0.0214023,
+        "topSpeed": 29.33,
+        "kilometersCovered": 4.19,
+        "numberOfSprints": 11,
+        "totalBallCarriesDistance": 115.83167957985,
+        "ballCarriesCount": 11,
+        "totalProgression": 72.141005377373,
+        "bestBallCarryProgression": 19.950668395236,
+        "totalProgressiveBallCarriesDistance": 37.709180569179,
+        "progressiveBallCarriesCount": 2,
+        "ratingVersions": {
+          "original": 8,
+          "alternative": 7.4
+        },
+        "totalShots": 1,
+        "shotValueNormalized": 0,
+        "passValueNormalized": -0.03,
+        "dribbleValueNormalized": 0.26,
+        "defensiveValueNormalized": 0.88,
+        "metersCoveredRunningKm": 0.68,
+        "metersCoveredHighSpeedRunningKm": 0.28,
+        "metersCoveredSprintingKm": 0.12,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416298": {
+    "id": 16416298,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 0
+      },
+      "startTimestamp": 1787419800,
+      "slug": "valencia-celta-vigo",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Sergio Carreira",
+        "slug": "sergio-carreira",
+        "shortName": "S. Carreira",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 170,
+        "userCount": 550,
+        "gender": "M",
+        "sofascoreId": "ekj-4d3",
+        "id": 1002764,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 971395200,
+        "proposedMarketValueRaw": {
+          "value": 11500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيرجيو كاريرا",
+            "bn": "সার্জিও ক্যারেরা",
+            "hi": "सर्जियो कैरीरा",
+            "ru": "Сергио Каррейра"
+          },
+          "shortNameTranslation": {
+            "ar": "س. كاريرا",
+            "bn": "এস. ক্যারেইরা",
+            "hi": "एस. कारीरा",
+            "ru": "С. Каррейра"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 228893,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 59,
+        "accuratePass": 50,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 16,
+        "totalOwnHalfPasses": 18,
+        "accurateOppositionHalfPasses": 34,
+        "totalOppositionHalfPasses": 41,
+        "duelLost": 1,
+        "duelWon": 6,
+        "totalContest": 2,
+        "wonContest": 2,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 2,
+        "ballRecovery": 4,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 4,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 77,
+        "rating": 7.1,
+        "possessionLostCtrl": 11,
+        "expectedGoals": 0.0279,
+        "expectedAssists": 0.146114,
+        "topSpeed": 35.21,
+        "kilometersCovered": 11.12,
+        "numberOfSprints": 8,
+        "totalBallCarriesDistance": 221.16099054271,
+        "ballCarriesCount": 23,
+        "totalProgression": 133.08295269253,
+        "bestBallCarryProgression": 23.720358439561,
+        "totalProgressiveBallCarriesDistance": 72.291801684443,
+        "progressiveBallCarriesCount": 3,
+        "ratingVersions": {
+          "original": 7.1,
+          "alternative": 7.2
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.03,
+        "passValueNormalized": -0.15,
+        "dribbleValueNormalized": 0.3,
+        "defensiveValueNormalized": 0.15,
+        "metersCoveredRunningKm": 1.89,
+        "metersCoveredHighSpeedRunningKm": 0.42,
+        "metersCoveredSprintingKm": 0.09,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416308": {
+    "id": 16416308,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1788118200,
+      "slug": "athletic-club-celta-vigo",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Sergio Carreira",
+        "slug": "sergio-carreira",
+        "shortName": "S. Carreira",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 170,
+        "userCount": 550,
+        "gender": "M",
+        "sofascoreId": "ekj-4d3",
+        "id": 1002764,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 971395200,
+        "proposedMarketValueRaw": {
+          "value": 11500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيرجيو كاريرا",
+            "bn": "সার্জিও ক্যারেরা",
+            "hi": "सर्जियो कैरीरा",
+            "ru": "Сергио Каррейра"
+          },
+          "shortNameTranslation": {
+            "ar": "س. كاريرا",
+            "bn": "এস. ক্যারেইরা",
+            "hi": "एस. कारीरा",
+            "ru": "С. Каррейра"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 230393,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 37,
+        "accuratePass": 26,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 14,
+        "totalOwnHalfPasses": 20,
+        "accurateOppositionHalfPasses": 12,
+        "totalOppositionHalfPasses": 17,
+        "duelLost": 1,
+        "duelWon": 1,
+        "shotOffTarget": 1,
+        "totalClearance": 1,
+        "ballRecovery": 4,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 47,
+        "rating": 6.4,
+        "possessionLostCtrl": 13,
+        "expectedGoals": 0.1437,
+        "expectedAssists": 0.00987457,
+        "topSpeed": 31.46,
+        "kilometersCovered": 11.52,
+        "numberOfSprints": 7,
+        "totalBallCarriesDistance": 137.96906211351,
+        "ballCarriesCount": 17,
+        "totalProgression": 70.459145307905,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.6
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.26,
+        "passValueNormalized": 0,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": -0.05,
+        "metersCoveredRunningKm": 2.01,
+        "metersCoveredHighSpeedRunningKm": 0.78,
+        "metersCoveredSprintingKm": 0.09,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416348": {
+    "id": 16416348,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "startTimestamp": 1788800400,
+      "slug": "getafe-celta-vigo",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "Sergio Carreira",
+        "slug": "sergio-carreira",
+        "shortName": "S. Carreira",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 170,
+        "userCount": 552,
+        "gender": "M",
+        "sofascoreId": "ekj-4d3",
+        "id": 1002764,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 971395200,
+        "proposedMarketValueRaw": {
+          "value": 11500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيرجيو كاريرا",
+            "bn": "সার্জিও ক্যারেরা",
+            "hi": "सर्जियो कैरीरा",
+            "ru": "Сергио Каррейра"
+          },
+          "shortNameTranslation": {
+            "ar": "س. كاريرا",
+            "bn": "এস. ক্যারেইরা",
+            "hi": "एस. कारीरा",
+            "ru": "С. Каррейра"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 230092,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 20,
+        "accuratePass": 16,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 18,
+        "duelLost": 1,
+        "challengeLost": 1,
+        "ballRecovery": 2,
+        "totalOffside": 1,
+        "minutesPlayed": 26,
+        "touches": 22,
+        "rating": 6.9,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.0594542,
+        "topSpeed": 28.2,
+        "kilometersCovered": 3.51,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 71.2177139142,
+        "ballCarriesCount": 4,
+        "totalProgression": 69.655103127701,
+        "bestBallCarryProgression": 40.046653061793,
+        "totalProgressiveBallCarriesDistance": 53.768405603265,
+        "progressiveBallCarriesCount": 2,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.25,
+        "dribbleValueNormalized": 0.12,
+        "defensiveValueNormalized": -0.04,
+        "metersCoveredRunningKm": 0.77,
+        "metersCoveredHighSpeedRunningKm": 0.22,
+        "metersCoveredSprintingKm": 0.03,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416347": {
+    "id": 16416347,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1789300800,
+      "slug": "malaga-cf-celta-vigo",
+      "season": "26/27",
+      "jornada": 5
+    },
+    "player_stats": {
+      "player": {
+        "name": "Sergio Carreira",
+        "slug": "sergio-carreira",
+        "shortName": "S. Carreira",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 170,
+        "userCount": 552,
+        "gender": "M",
+        "sofascoreId": "ekj-4d3",
+        "id": 1002764,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 971395200,
+        "proposedMarketValueRaw": {
+          "value": 11500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيرجيو كاريرا",
+            "bn": "সার্জিও ক্যারেরা",
+            "hi": "सर्जियो कैरीरा",
+            "ru": "Сергио Каррейра"
+          },
+          "shortNameTranslation": {
+            "ar": "س. كاريرا",
+            "bn": "এস. ক্যারেইরা",
+            "hi": "एस. कारीरा",
+            "ru": "С. Каррейра"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 230092,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 41,
+        "accuratePass": 33,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 11,
+        "totalOwnHalfPasses": 12,
+        "accurateOppositionHalfPasses": 22,
+        "totalOppositionHalfPasses": 29,
+        "totalCross": 2,
+        "duelLost": 3,
+        "duelWon": 3,
+        "challengeLost": 1,
+        "totalContest": 4,
+        "wonContest": 2,
+        "bigChanceMissed": 1,
+        "onTargetScoringAttempt": 1,
+        "totalClearance": 1,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "totalOffside": 1,
+        "minutesPlayed": 90,
+        "touches": 55,
+        "rating": 7,
+        "possessionLostCtrl": 14,
+        "expectedGoals": 0.3612,
+        "expectedGoalsOnTarget": 0.2132,
+        "expectedAssists": 0.0369596,
+        "topSpeed": 32.93,
+        "kilometersCovered": 11.27,
+        "numberOfSprints": 11,
+        "totalBallCarriesDistance": 133.92228230595,
+        "ballCarriesCount": 17,
+        "totalProgression": 70.346518246543,
+        "bestBallCarryProgression": 11.405350875354,
+        "totalProgressiveBallCarriesDistance": 48.615751068478,
+        "progressiveBallCarriesCount": 4,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 6.7
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.48,
+        "passValueNormalized": 0.25,
+        "dribbleValueNormalized": 0.39,
+        "defensiveValueNormalized": -0.08,
+        "metersCoveredRunningKm": 2.15,
+        "metersCoveredHighSpeedRunningKm": 0.62,
+        "metersCoveredSprintingKm": 0.12,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16421069": {
+    "id": 16421069,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "startTimestamp": 1792332900,
+      "slug": "deportivo-alaves-celta-vigo",
+      "season": "26/27",
+      "jornada": 9
+    },
+    "player_stats": {
+      "player": {
+        "name": "Sergio Carreira",
+        "slug": "sergio-carreira",
+        "shortName": "S. Carreira",
+        "position": "M",
+        "jerseyNumber": "5",
+        "height": 170,
+        "userCount": 552,
+        "gender": "M",
+        "sofascoreId": "ekj-4d3",
+        "id": 1002764,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 971395200,
+        "proposedMarketValueRaw": {
+          "value": 11500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيرجيو كاريرا",
+            "bn": "সার্জিও ক্যারেরা",
+            "hi": "सर्जियो कैरीरा",
+            "ru": "Сергио Каррейра"
+          },
+          "shortNameTranslation": {
+            "ar": "س. كاريرا",
+            "bn": "এস. ক্যারেইরা",
+            "hi": "एस. कारीरा",
+            "ru": "С. Каррейра"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 229793,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 49,
+        "accuratePass": 38,
+        "totalLongBalls": 9,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 22,
+        "totalOwnHalfPasses": 25,
+        "accurateOppositionHalfPasses": 16,
+        "totalOppositionHalfPasses": 24,
+        "duelLost": 2,
+        "duelWon": 2,
+        "challengeLost": 1,
+        "shotOffTarget": 1,
+        "totalClearance": 3,
+        "interceptionWon": 4,
+        "ballRecovery": 7,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 2,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 70,
+        "rating": 6.9,
+        "possessionLostCtrl": 17,
+        "expectedGoals": 0.1146,
+        "expectedAssists": 0.0650671,
+        "topSpeed": 28.69,
+        "kilometersCovered": 11.03,
+        "numberOfSprints": 6,
+        "totalBallCarriesDistance": 283.3979215139,
+        "ballCarriesCount": 27,
+        "totalProgression": 92.105422718981,
+        "bestBallCarryProgression": 28.220479084864,
+        "totalProgressiveBallCarriesDistance": 101.32491931393,
+        "progressiveBallCarriesCount": 5,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 7
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.46,
+        "passValueNormalized": 0.32,
+        "dribbleValueNormalized": 0.32,
+        "defensiveValueNormalized": -0.08,
+        "metersCoveredRunningKm": 1.99,
+        "metersCoveredHighSpeedRunningKm": 0.55,
+        "metersCoveredSprintingKm": 0.07,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

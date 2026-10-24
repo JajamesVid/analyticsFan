@@ -1,0 +1,832 @@
+{
+  "16416305": {
+    "id": 16416305,
+    "match_info": {
+      "homeTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1789819200,
+      "slug": "osasuna-rayo-vallecano",
+      "season": "26/27",
+      "jornada": 7
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Santos",
+        "slug": "unai-santos",
+        "shortName": "U. Santos",
+        "position": "D",
+        "jerseyNumber": "35",
+        "height": 180,
+        "userCount": 44,
+        "gender": "M",
+        "sofascoreId": "ejj-t9p",
+        "id": 1917864,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1130976000,
+        "proposedMarketValueRaw": {
+          "value": 825000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي سانتوس",
+            "ru": "Унай Сантос"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. سانتوس",
+            "ru": "У. Сантос"
+          }
+        }
+      },
+      "team": {
+        "name": "Osasuna",
+        "slug": "osasuna",
+        "shortName": "Osasuna",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 166645,
+        "nameCode": "OSA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2820,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#14213d",
+          "text": "#14213d"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوساسونا",
+            "bn": "ওসাসুনা",
+            "hi": "ओसासुना",
+            "ru": "Осасуна"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 23,
+        "accuratePass": 12,
+        "totalLongBalls": 9,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 6,
+        "totalOwnHalfPasses": 7,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 16,
+        "duelLost": 2,
+        "challengeLost": 1,
+        "totalClearance": 3,
+        "interceptionWon": 2,
+        "ballRecovery": 4,
+        "fouls": 1,
+        "minutesPlayed": 73,
+        "touches": 30,
+        "rating": 6,
+        "possessionLostCtrl": 11,
+        "expectedAssists": 0.00249335,
+        "totalBallCarriesDistance": 43.463574901125,
+        "ballCarriesCount": 7,
+        "totalProgression": 17.810586068252,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6,
+          "alternative": 6.3
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.03,
+        "dribbleValueNormalized": 0.04,
+        "defensiveValueNormalized": -0.19,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421054": {
+    "id": 16421054,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "startTimestamp": 1791736200,
+      "slug": "osasuna-real-betis",
+      "season": "26/27",
+      "jornada": 8
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Santos",
+        "slug": "unai-santos",
+        "shortName": "U. Santos",
+        "position": "D",
+        "jerseyNumber": "35",
+        "height": 180,
+        "userCount": 44,
+        "gender": "M",
+        "sofascoreId": "ejj-t9p",
+        "id": 1917864,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1130976000,
+        "proposedMarketValueRaw": {
+          "value": 825000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي سانتوس",
+            "ru": "Унай Сантос"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. سانتوس",
+            "ru": "У. Сантос"
+          }
+        }
+      },
+      "team": {
+        "name": "Osasuna",
+        "slug": "osasuna",
+        "shortName": "Osasuna",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 166645,
+        "nameCode": "OSA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2820,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#14213d",
+          "text": "#14213d"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوساسونا",
+            "bn": "ওসাসুনা",
+            "hi": "ओसासुना",
+            "ru": "Осасуна"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 24,
+        "accuratePass": 22,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 16,
+        "totalOwnHalfPasses": 17,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 7,
+        "aerialLost": 1,
+        "duelLost": 2,
+        "duelWon": 3,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "errorLeadToAGoal": 1,
+        "penaltyConceded": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 45,
+        "touches": 28,
+        "rating": 5.3,
+        "possessionLostCtrl": 2,
+        "expectedAssists": 0.00287924,
+        "totalBallCarriesDistance": 109.52163569574,
+        "ballCarriesCount": 14,
+        "totalProgression": 37.945596148589,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 5.3,
+          "alternative": 5.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.01,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": -1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16815992": {
+    "id": 16815992,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "startTimestamp": 1787855400,
+      "slug": "celta-vigo-osasuna",
+      "season": "26/27",
+      "jornada": 1
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Santos",
+        "slug": "unai-santos",
+        "shortName": "U. Santos",
+        "position": "D",
+        "jerseyNumber": "35",
+        "height": 180,
+        "userCount": 44,
+        "gender": "M",
+        "sofascoreId": "ejj-t9p",
+        "id": 1917864,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1130976000,
+        "proposedMarketValueRaw": {
+          "value": 825000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي سانتوس",
+            "ru": "Унай Сантос"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. سانتوس",
+            "ru": "У. Сантос"
+          }
+        }
+      },
+      "team": {
+        "name": "Osasuna",
+        "slug": "osasuna",
+        "shortName": "Osasuna",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 165572,
+        "nameCode": "OSA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2820,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#14213d",
+          "text": "#14213d"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوساسونا",
+            "bn": "ওসাসুনা",
+            "hi": "ओसासुना",
+            "ru": "Осасуна"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416296": {
+    "id": 16416296,
+    "match_info": {
+      "homeTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 0
+      },
+      "startTimestamp": 1787592600,
+      "slug": "levante-ud-osasuna",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Santos",
+        "slug": "unai-santos",
+        "shortName": "U. Santos",
+        "position": "D",
+        "jerseyNumber": "35",
+        "height": 180,
+        "userCount": 44,
+        "gender": "M",
+        "sofascoreId": "ejj-t9p",
+        "id": 1917864,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1130976000,
+        "proposedMarketValueRaw": {
+          "value": 825000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي سانتوس",
+            "ru": "Унай Сантос"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. سانتوس",
+            "ru": "У. Сантос"
+          }
+        }
+      },
+      "team": {
+        "name": "Osasuna",
+        "slug": "osasuna",
+        "shortName": "Osasuna",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 165572,
+        "nameCode": "OSA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2820,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#14213d",
+          "text": "#14213d"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوساسونا",
+            "bn": "ওসাসুনা",
+            "hi": "ओसासुना",
+            "ru": "Осасуна"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416318": {
+    "id": 16416318,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "startTimestamp": 1788712200,
+      "slug": "deportivo-alaves-osasuna",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Santos",
+        "slug": "unai-santos",
+        "shortName": "U. Santos",
+        "position": "D",
+        "jerseyNumber": "35",
+        "height": 180,
+        "userCount": 43,
+        "gender": "M",
+        "sofascoreId": "ejj-t9p",
+        "id": 1917864,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1130976000,
+        "proposedMarketValueRaw": {
+          "value": 825000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي سانتوس",
+            "ru": "Унай Сантос"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. سانتوس",
+            "ru": "У. Сантос"
+          }
+        }
+      },
+      "team": {
+        "name": "Osasuna",
+        "slug": "osasuna",
+        "shortName": "Osasuna",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 166744,
+        "nameCode": "OSA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2820,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#14213d",
+          "text": "#14213d"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوساسونا",
+            "bn": "ওসাসুনা",
+            "hi": "ओसासुना",
+            "ru": "Осасуна"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416327": {
+    "id": 16416327,
+    "match_info": {
+      "homeTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1789222500,
+      "slug": "osasuna-espanyol",
+      "season": "26/27",
+      "jornada": 5
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Santos",
+        "slug": "unai-santos",
+        "shortName": "U. Santos",
+        "position": "D",
+        "jerseyNumber": "35",
+        "height": 180,
+        "userCount": 43,
+        "gender": "M",
+        "sofascoreId": "ejj-t9p",
+        "id": 1917864,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1130976000,
+        "proposedMarketValueRaw": {
+          "value": 825000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي سانتوس",
+            "ru": "Унай Сантос"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. سانتوس",
+            "ru": "У. Сантос"
+          }
+        }
+      },
+      "team": {
+        "name": "Osasuna",
+        "slug": "osasuna",
+        "shortName": "Osasuna",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 166744,
+        "nameCode": "OSA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2820,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#14213d",
+          "text": "#14213d"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوساسونا",
+            "bn": "ওসাসুনা",
+            "hi": "ओसासुना",
+            "ru": "Осасуна"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416335": {
+    "id": 16416335,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atlético Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "startTimestamp": 1789578000,
+      "slug": "atletico-madrid-osasuna",
+      "season": "26/27",
+      "jornada": 6
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Santos",
+        "slug": "unai-santos",
+        "shortName": "U. Santos",
+        "position": "D",
+        "jerseyNumber": "35",
+        "height": 180,
+        "userCount": 43,
+        "gender": "M",
+        "sofascoreId": "ejj-t9p",
+        "id": 1917864,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1130976000,
+        "proposedMarketValueRaw": {
+          "value": 825000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي سانتوس",
+            "ru": "Унай Сантос"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. سانتوس",
+            "ru": "У. Сантос"
+          }
+        }
+      },
+      "team": {
+        "name": "Osasuna",
+        "slug": "osasuna",
+        "shortName": "Osasuna",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 166371,
+        "nameCode": "OSA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2820,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#14213d",
+          "text": "#14213d"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوساسونا",
+            "bn": "ওসাসুনা",
+            "hi": "ओसासुना",
+            "ru": "Осасуна"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 41,
+        "accuratePass": 31,
+        "totalLongBalls": 8,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 16,
+        "totalOwnHalfPasses": 22,
+        "accurateOppositionHalfPasses": 15,
+        "totalOppositionHalfPasses": 19,
+        "totalCross": 1,
+        "aerialWon": 2,
+        "duelLost": 3,
+        "duelWon": 2,
+        "shotOffTarget": 1,
+        "totalClearance": 8,
+        "outfielderBlock": 2,
+        "interceptionWon": 2,
+        "ballRecovery": 1,
+        "fouls": 3,
+        "minutesPlayed": 90,
+        "touches": 60,
+        "rating": 6,
+        "possessionLostCtrl": 11,
+        "expectedGoals": 0.0386,
+        "expectedAssists": 0.00418286,
+        "totalBallCarriesDistance": 101.40305193326,
+        "ballCarriesCount": 15,
+        "totalProgression": 62.54877588187,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6,
+          "alternative": 6.5
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.19,
+        "passValueNormalized": 0.09,
+        "dribbleValueNormalized": 0.05,
+        "defensiveValueNormalized": -0.34,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421078": {
+    "id": 16421078,
+    "match_info": {
+      "homeTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "Racing Club",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1792324800,
+      "slug": "real-racing-club-osasuna",
+      "season": "26/27",
+      "jornada": 9
+    },
+    "player_stats": {
+      "player": {
+        "name": "Unai Santos",
+        "slug": "unai-santos",
+        "shortName": "U. Santos",
+        "position": "D",
+        "jerseyNumber": "35",
+        "height": 180,
+        "userCount": 43,
+        "gender": "M",
+        "sofascoreId": "ejj-t9p",
+        "id": 1917864,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1130976000,
+        "proposedMarketValueRaw": {
+          "value": 825000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوناي سانتوس",
+            "ru": "Унай Сантос"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. سانتوس",
+            "ru": "У. Сантос"
+          }
+        }
+      },
+      "team": {
+        "name": "Osasuna",
+        "slug": "osasuna",
+        "shortName": "Osasuna",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 166371,
+        "nameCode": "OSA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2820,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#14213d",
+          "text": "#14213d"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوساسونا",
+            "bn": "ওসাসুনা",
+            "hi": "ओसासुना",
+            "ru": "Осасуна"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

@@ -122,5 +122,974 @@
       "position": "G",
       "extra": null
     }
+  },
+  "16416310": {
+    "id": 16416310,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1788022800,
+      "slug": "real-sociedad-espanyol",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Marko Dmitrović",
+        "slug": "marko-dmitrovic",
+        "shortName": "M. Dmitrović",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 1405,
+        "gender": "M",
+        "sofascoreId": "h8k3mc",
+        "id": 94527,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 696211200,
+        "proposedMarketValueRaw": {
+          "value": 650000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماركو ديمتروفيتش",
+            "bn": "মার্ক দিমিত্রোভিচ",
+            "hi": "मार्को दिमित्रोविक",
+            "ru": "Марко Дмитрович"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديمتروفيتش",
+            "bn": "এম. দিমিত্রোভিচ",
+            "hi": "एम. दिमित्रोविक",
+            "ru": "М. Дмитрович"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 202397,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 24,
+        "accuratePass": 16,
+        "totalLongBalls": 12,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 14,
+        "totalOwnHalfPasses": 17,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 7,
+        "interceptionWon": 1,
+        "ballRecovery": 9,
+        "errorLeadToAShot": 1,
+        "goodHighClaim": 3,
+        "savedShotsFromInsideTheBox": 4,
+        "saves": 7,
+        "totalKeeperSweeper": 1,
+        "accurateKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 41,
+        "rating": 7.9,
+        "possessionLostCtrl": 8,
+        "expectedAssists": 0.00032553,
+        "totalBallCarriesDistance": 45.560963779327,
+        "ballCarriesCount": 8,
+        "totalProgression": 13.78778128523,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 1.2112,
+        "ratingVersions": {
+          "original": 7.9,
+          "alternative": 7.7
+        },
+        "totalShots": 0,
+        "goalsPrevented": 1.0653,
+        "passValueNormalized": 0,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": -0.24,
+        "goalkeeperValueNormalized": 0.77,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "16416299": {
+    "id": 16416299,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1789758000,
+      "slug": "elche-espanyol",
+      "season": "26/27",
+      "jornada": 7
+    },
+    "player_stats": {
+      "player": {
+        "name": "Marko Dmitrović",
+        "slug": "marko-dmitrovic",
+        "shortName": "M. Dmitrović",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 1304,
+        "gender": "M",
+        "sofascoreId": "h8k-3mc",
+        "id": 94527,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 696211200,
+        "proposedMarketValueRaw": {
+          "value": 650000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماركو ديمتروفيتش",
+            "bn": "মার্ক দিমিত্রোভিচ",
+            "hi": "मार्को दिमित्रोविक",
+            "ru": "Марко Дмитрович"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديمتروفيتش",
+            "bn": "এম. দিমিত্রোভিচ",
+            "hi": "एम. दिमित्रोविक",
+            "ru": "М. Дмитрович"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 173216,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 22,
+        "accuratePass": 22,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 22,
+        "totalOwnHalfPasses": 22,
+        "duelLost": 1,
+        "challengeLost": 1,
+        "totalClearance": 1,
+        "ballRecovery": 10,
+        "errorLeadToAGoal": 1,
+        "saves": 3,
+        "totalKeeperSweeper": 2,
+        "accurateKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 31,
+        "rating": 5.5,
+        "expectedAssists": 0.00020923,
+        "totalBallCarriesDistance": 22.31489157633,
+        "ballCarriesCount": 5,
+        "totalProgression": 8.5478868188977,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.1189,
+        "ratingVersions": {
+          "original": 5.5,
+          "alternative": 6.2
+        },
+        "totalShots": 0,
+        "goalsPrevented": -0.9473,
+        "passValueNormalized": 0.05,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": -0.63,
+        "goalkeeperValueNormalized": -0.67,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "16421062": {
+    "id": 16421062,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1791572400,
+      "slug": "malaga-cf-espanyol",
+      "season": "26/27",
+      "jornada": 8
+    },
+    "player_stats": {
+      "player": {
+        "name": "Marko Dmitrović",
+        "slug": "marko-dmitrovic",
+        "shortName": "M. Dmitrović",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 1304,
+        "gender": "M",
+        "sofascoreId": "h8k-3mc",
+        "id": 94527,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 696211200,
+        "proposedMarketValueRaw": {
+          "value": 650000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماركو ديمتروفيتش",
+            "bn": "মার্ক দিমিত্রোভিচ",
+            "hi": "मार्को दिमित्रोविक",
+            "ru": "Марко Дмитрович"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديمتروفيتش",
+            "bn": "এম. দিমিত্রোভিচ",
+            "hi": "एम. दिमित्रोविक",
+            "ru": "М. Дмитрович"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 173216,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "16416306": {
+    "id": 16416306,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1787427000,
+      "slug": "real-madrid-espanyol",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Marko Dmitrović",
+        "slug": "marko-dmitrovic",
+        "shortName": "M. Dmitrović",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 1310,
+        "gender": "M",
+        "sofascoreId": "h8k-3mc",
+        "id": 94527,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 696211200,
+        "proposedMarketValueRaw": {
+          "value": 650000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماركو ديمتروفيتش",
+            "bn": "মার্ক দিমিত্রোভিচ",
+            "hi": "मार्को दिमित्रोविक",
+            "ru": "Марко Дмитрович"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديمتروفيتش",
+            "bn": "এম. দিমিত্রোভিচ",
+            "hi": "एम. दिमित्रोविक",
+            "ru": "М. Дмитрович"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 174562,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 21,
+        "accuratePass": 9,
+        "totalLongBalls": 16,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 6,
+        "totalOwnHalfPasses": 8,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 13,
+        "duelLost": 1,
+        "challengeLost": 1,
+        "totalClearance": 1,
+        "ballRecovery": 8,
+        "savedShotsFromInsideTheBox": 5,
+        "saves": 6,
+        "punches": 1,
+        "minutesPlayed": 90,
+        "touches": 33,
+        "rating": 6.9,
+        "possessionLostCtrl": 12,
+        "expectedAssists": 0.00117925,
+        "totalBallCarriesDistance": 19.514908336467,
+        "ballCarriesCount": 4,
+        "totalProgression": 5.3747398054362,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.6494,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 7.1
+        },
+        "totalShots": 0,
+        "goalsPrevented": -0.0185,
+        "passValueNormalized": 0.01,
+        "dribbleValueNormalized": -0.01,
+        "defensiveValueNormalized": -0.22,
+        "goalkeeperValueNormalized": 0.37,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "16416323": {
+    "id": 16416323,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1788721200,
+      "slug": "sevilla-espanyol",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "Marko Dmitrović",
+        "slug": "marko-dmitrovic",
+        "shortName": "M. Dmitrović",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 1301,
+        "gender": "M",
+        "sofascoreId": "h8k-3mc",
+        "id": 94527,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 696211200,
+        "proposedMarketValueRaw": {
+          "value": 650000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماركو ديمتروفيتش",
+            "bn": "মার্ক দিমিত্রোভিচ",
+            "hi": "मार्को दिमित्रोविक",
+            "ru": "Марко Дмитрович"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديمتروفيتش",
+            "bn": "এম. দিমিত্রোভিচ",
+            "hi": "एम. दिमित्रोविक",
+            "ru": "М. Дмитрович"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 174002,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 27,
+        "accuratePass": 22,
+        "totalLongBalls": 10,
+        "accurateLongBalls": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 20,
+        "totalOwnHalfPasses": 22,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 5,
+        "duelWon": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "ballRecovery": 18,
+        "savedShotsFromInsideTheBox": 1,
+        "saves": 2,
+        "totalKeeperSweeper": 2,
+        "accurateKeeperSweeper": 2,
+        "minutesPlayed": 90,
+        "touches": 42,
+        "rating": 6.8,
+        "possessionLostCtrl": 5,
+        "expectedAssists": 0.00069751,
+        "totalBallCarriesDistance": 32.709904768488,
+        "ballCarriesCount": 5,
+        "totalProgression": 14.189076237973,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.0824,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "goalsPrevented": -0.0956,
+        "passValueNormalized": 0.04,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": -0.05,
+        "goalkeeperValueNormalized": 0.1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "16416327": {
+    "id": 16416327,
+    "match_info": {
+      "homeTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1789222500,
+      "slug": "osasuna-espanyol",
+      "season": "26/27",
+      "jornada": 5
+    },
+    "player_stats": {
+      "player": {
+        "name": "Marko Dmitrović",
+        "slug": "marko-dmitrovic",
+        "shortName": "M. Dmitrović",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 1301,
+        "gender": "M",
+        "sofascoreId": "h8k-3mc",
+        "id": 94527,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 696211200,
+        "proposedMarketValueRaw": {
+          "value": 650000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماركو ديمتروفيتش",
+            "bn": "মার্ক দিমিত্রোভিচ",
+            "hi": "मार्को दिमित्रोविक",
+            "ru": "Марко Дмитрович"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديمتروفيتش",
+            "bn": "এম. দিমিত্রোভিচ",
+            "hi": "एम. दिमित्रोविक",
+            "ru": "М. Дмитрович"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 174002,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 33,
+        "accuratePass": 16,
+        "totalLongBalls": 22,
+        "accurateLongBalls": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 13,
+        "totalOwnHalfPasses": 16,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 17,
+        "aerialWon": 1,
+        "duelWon": 1,
+        "totalClearance": 1,
+        "ballRecovery": 15,
+        "wasFouled": 1,
+        "goodHighClaim": 4,
+        "savedShotsFromInsideTheBox": 2,
+        "saves": 4,
+        "totalKeeperSweeper": 1,
+        "accurateKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 56,
+        "rating": 8,
+        "possessionLostCtrl": 17,
+        "expectedAssists": 0.00071445,
+        "totalBallCarriesDistance": 11.429697444232,
+        "ballCarriesCount": 3,
+        "totalProgression": -9.9788733034487,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.4499,
+        "ratingVersions": {
+          "original": 8,
+          "alternative": 7.9
+        },
+        "totalShots": 0,
+        "goalsPrevented": 0.5262,
+        "passValueNormalized": 0.18,
+        "dribbleValueNormalized": -0.04,
+        "defensiveValueNormalized": 0.47,
+        "goalkeeperValueNormalized": 0.39,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "16416345": {
+    "id": 16416345,
+    "match_info": {
+      "homeTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1789491600,
+      "slug": "rayo-vallecano-espanyol",
+      "season": "26/27",
+      "jornada": 6
+    },
+    "player_stats": {
+      "player": {
+        "name": "Marko Dmitrović",
+        "slug": "marko-dmitrovic",
+        "shortName": "M. Dmitrović",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 1298,
+        "gender": "M",
+        "sofascoreId": "h8k-3mc",
+        "id": 94527,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 696211200,
+        "proposedMarketValueRaw": {
+          "value": 650000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماركو ديمتروفيتش",
+            "bn": "মার্ক দিমিত্রোভিচ",
+            "hi": "मार्को दिमित्रोविक",
+            "ru": "Марко Дмитрович"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديمتروفيتش",
+            "bn": "এম. দিমিত্রোভিচ",
+            "hi": "एम. दिमित्रोविक",
+            "ru": "М. Дмитрович"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 173570,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 25,
+        "accuratePass": 19,
+        "totalLongBalls": 11,
+        "accurateLongBalls": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 16,
+        "totalOwnHalfPasses": 16,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 9,
+        "totalClearance": 3,
+        "ballRecovery": 8,
+        "totalKeeperSweeper": 3,
+        "accurateKeeperSweeper": 3,
+        "minutesPlayed": 90,
+        "touches": 34,
+        "rating": 6.3,
+        "possessionLostCtrl": 6,
+        "expectedAssists": 0.00247031,
+        "totalBallCarriesDistance": 35.335886236149,
+        "ballCarriesCount": 5,
+        "totalProgression": 14.529390885218,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.3
+        },
+        "totalShots": 0,
+        "goalsPrevented": -1.0696,
+        "passValueNormalized": 0.04,
+        "dribbleValueNormalized": 0.1,
+        "defensiveValueNormalized": -0.02,
+        "goalkeeperValueNormalized": -0.69,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "16421071": {
+    "id": 16421071,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atlético Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1792238400,
+      "slug": "atletico-madrid-espanyol",
+      "season": "26/27",
+      "jornada": 9
+    },
+    "player_stats": {
+      "player": {
+        "name": "Marko Dmitrović",
+        "slug": "marko-dmitrovic",
+        "shortName": "M. Dmitrović",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 194,
+        "userCount": 1298,
+        "gender": "M",
+        "sofascoreId": "h8k-3mc",
+        "id": 94527,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 696211200,
+        "proposedMarketValueRaw": {
+          "value": 650000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماركو ديمتروفيتش",
+            "bn": "মার্ক দিমিত্রোভিচ",
+            "hi": "मार्को दिमित्रोविक",
+            "ru": "Марко Дмитрович"
+          },
+          "shortNameTranslation": {
+            "ar": "م. ديمتروفيتش",
+            "bn": "এম. দিমিত্রোভিচ",
+            "hi": "एम. दिमित्रोविक",
+            "ru": "М. Дмитрович"
+          }
+        }
+      },
+      "team": {
+        "name": "Espanyol",
+        "slug": "espanyol",
+        "shortName": "Espanyol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 173570,
+        "nameCode": "ESP",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2814,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#1369d2",
+          "text": "#1369d2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "اسبانيول",
+            "bn": "এসপানিওল",
+            "hi": "एस्पेनयोल",
+            "ru": "Эспаньол"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
   }
 }

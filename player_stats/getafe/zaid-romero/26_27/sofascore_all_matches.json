@@ -135,5 +135,834 @@
       "position": "D",
       "extra": null
     }
+  },
+  "16416314": {
+    "id": 16416314,
+    "match_info": {
+      "homeTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 0
+      },
+      "startTimestamp": 1788197400,
+      "slug": "getafe-osasuna",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Zaid Romero",
+        "firstName": "",
+        "lastName": "",
+        "slug": "zaid-romero",
+        "shortName": "Z. Romero",
+        "position": "D",
+        "jerseyNumber": "24",
+        "height": 192,
+        "userCount": 1258,
+        "gender": "M",
+        "sofascoreId": "rsttp7",
+        "id": 1108450,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 945216000,
+        "proposedMarketValueRaw": {
+          "value": 2400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "زايد روميرو",
+            "ru": "Зайд Ромеро"
+          },
+          "shortNameTranslation": {
+            "ar": "ز. روميرو",
+            "ru": "З. Ромеро"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 214393,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 56,
+        "accuratePass": 47,
+        "totalLongBalls": 8,
+        "accurateLongBalls": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 21,
+        "totalOwnHalfPasses": 22,
+        "accurateOppositionHalfPasses": 26,
+        "totalOppositionHalfPasses": 34,
+        "totalCross": 1,
+        "aerialLost": 2,
+        "aerialWon": 5,
+        "duelLost": 3,
+        "duelWon": 10,
+        "challengeLost": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalClearance": 5,
+        "outfielderBlock": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 6,
+        "totalTackle": 3,
+        "wonTackle": 2,
+        "errorLeadToAShot": 1,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "minutesPlayed": 90,
+        "touches": 76,
+        "rating": 7.2,
+        "possessionLostCtrl": 12,
+        "expectedAssists": 0.0157422,
+        "topSpeed": 30.42,
+        "kilometersCovered": 9.52,
+        "numberOfSprints": 13,
+        "totalBallCarriesDistance": 176.77381601308,
+        "ballCarriesCount": 20,
+        "totalProgression": 118.19637852702,
+        "bestBallCarryProgression": 27.734930261384,
+        "totalProgressiveBallCarriesDistance": 58.077004632372,
+        "progressiveBallCarriesCount": 2,
+        "ratingVersions": {
+          "original": 7.2,
+          "alternative": 7.2
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.06,
+        "dribbleValueNormalized": 0.13,
+        "defensiveValueNormalized": -0.04,
+        "metersCoveredRunningKm": 1,
+        "metersCoveredHighSpeedRunningKm": 0.41,
+        "metersCoveredSprintingKm": 0.15,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416303": {
+    "id": 16416303,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1789905600,
+      "slug": "getafe-malaga-cf",
+      "season": "26/27",
+      "jornada": 7
+    },
+    "player_stats": {
+      "player": {
+        "name": "Zaid Romero",
+        "firstName": "",
+        "lastName": "",
+        "slug": "zaid-romero",
+        "shortName": "Z. Romero",
+        "position": "D",
+        "jerseyNumber": "24",
+        "height": 192,
+        "userCount": 1269,
+        "gender": "M",
+        "sofascoreId": "rst-tp7",
+        "id": 1108450,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 945216000,
+        "proposedMarketValueRaw": {
+          "value": 4800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "زايد روميرو",
+            "ru": "Зайд Ромеро"
+          },
+          "shortNameTranslation": {
+            "ar": "ز. روميرو",
+            "ru": "З. Ромеро"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 180213,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 47,
+        "accuratePass": 46,
+        "totalLongBalls": 9,
+        "accurateLongBalls": 8,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 21,
+        "totalOwnHalfPasses": 21,
+        "accurateOppositionHalfPasses": 25,
+        "totalOppositionHalfPasses": 26,
+        "aerialLost": 1,
+        "duelLost": 3,
+        "duelWon": 5,
+        "totalContest": 3,
+        "wonContest": 2,
+        "totalClearance": 5,
+        "outfielderBlock": 1,
+        "interceptionWon": 3,
+        "ballRecovery": 8,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "wasFouled": 2,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 65,
+        "rating": 7.6,
+        "possessionLostCtrl": 2,
+        "expectedAssists": 0.0132113,
+        "topSpeed": 31.88,
+        "kilometersCovered": 9.6,
+        "numberOfSprints": 6,
+        "totalBallCarriesDistance": 223.32623327786,
+        "ballCarriesCount": 22,
+        "totalProgression": 74.709069269605,
+        "bestBallCarryProgression": 26.038255841987,
+        "totalProgressiveBallCarriesDistance": 54.737947537507,
+        "progressiveBallCarriesCount": 2,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.6,
+          "alternative": 8.1
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.27,
+        "dribbleValueNormalized": 0.11,
+        "defensiveValueNormalized": 0.25,
+        "metersCoveredRunningKm": 1.19,
+        "metersCoveredHighSpeedRunningKm": 0.37,
+        "metersCoveredSprintingKm": 0.1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421060": {
+    "id": 16421060,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 0
+      },
+      "startTimestamp": 1791649800,
+      "slug": "getafe-fc-barcelona",
+      "season": "26/27",
+      "jornada": 8
+    },
+    "player_stats": {
+      "player": {
+        "name": "Zaid Romero",
+        "firstName": "",
+        "lastName": "",
+        "slug": "zaid-romero",
+        "shortName": "Z. Romero",
+        "position": "D",
+        "jerseyNumber": "24",
+        "height": 192,
+        "userCount": 1269,
+        "gender": "M",
+        "sofascoreId": "rst-tp7",
+        "id": 1108450,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 945216000,
+        "proposedMarketValueRaw": {
+          "value": 4800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "زايد روميرو",
+            "ru": "Зайд Ромеро"
+          },
+          "shortNameTranslation": {
+            "ar": "ز. روميرو",
+            "ru": "З. Ромеро"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 180213,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 9,
+        "accuratePass": 5,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 6,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 3,
+        "aerialWon": 1,
+        "duelLost": 2,
+        "duelWon": 2,
+        "totalContest": 1,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 3,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "errorLeadToAGoal": 1,
+        "fouls": 1,
+        "minutesPlayed": 37,
+        "touches": 13,
+        "rating": 5.7,
+        "possessionLostCtrl": 5,
+        "expectedAssists": 0.00113373,
+        "topSpeed": 29.6,
+        "kilometersCovered": 3.78,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 20.004219996525,
+        "ballCarriesCount": 2,
+        "totalProgression": 2.0955881803118,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 5.7,
+          "alternative": 5.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.01,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": -0.6,
+        "metersCoveredRunningKm": 0.41,
+        "metersCoveredHighSpeedRunningKm": 0.12,
+        "metersCoveredSprintingKm": 0.02,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416300": {
+    "id": 16416300,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "Racing Club",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1787506200,
+      "slug": "getafe-real-racing-club",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Zaid Romero",
+        "firstName": "",
+        "lastName": "",
+        "slug": "zaid-romero",
+        "shortName": "Z. Romero",
+        "position": "D",
+        "jerseyNumber": "24",
+        "height": 192,
+        "userCount": 1261,
+        "gender": "M",
+        "sofascoreId": "rst-tp7",
+        "id": 1108450,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 945216000,
+        "proposedMarketValueRaw": {
+          "value": 4800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "زايد روميرو",
+            "ru": "Зайд Ромеро"
+          },
+          "shortNameTranslation": {
+            "ar": "ز. روميرو",
+            "ru": "З. Ромеро"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 179081,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 35,
+        "accuratePass": 26,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 14,
+        "totalOwnHalfPasses": 17,
+        "accurateOppositionHalfPasses": 12,
+        "totalOppositionHalfPasses": 18,
+        "totalCross": 1,
+        "aerialWon": 1,
+        "duelLost": 4,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "dispossessed": 2,
+        "totalContest": 1,
+        "totalClearance": 6,
+        "interceptionWon": 2,
+        "ballRecovery": 4,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 90,
+        "touches": 51,
+        "rating": 6.8,
+        "possessionLostCtrl": 14,
+        "expectedAssists": 0.00345551,
+        "topSpeed": 30.95,
+        "kilometersCovered": 9.67,
+        "numberOfSprints": 12,
+        "totalBallCarriesDistance": 59.334936028008,
+        "ballCarriesCount": 10,
+        "totalProgression": 35.720435332082,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.03,
+        "dribbleValueNormalized": 0.04,
+        "defensiveValueNormalized": 0.3,
+        "metersCoveredRunningKm": 1.36,
+        "metersCoveredHighSpeedRunningKm": 0.41,
+        "metersCoveredSprintingKm": 0.16,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416348": {
+    "id": 16416348,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "startTimestamp": 1788800400,
+      "slug": "getafe-celta-vigo",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "Zaid Romero",
+        "firstName": "",
+        "lastName": "",
+        "slug": "zaid-romero",
+        "shortName": "Z. Romero",
+        "position": "D",
+        "jerseyNumber": "24",
+        "height": 192,
+        "userCount": 1263,
+        "gender": "M",
+        "sofascoreId": "rst-tp7",
+        "id": 1108450,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 945216000,
+        "proposedMarketValueRaw": {
+          "value": 4800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "زايد روميرو",
+            "ru": "Зайд Ромеро"
+          },
+          "shortNameTranslation": {
+            "ar": "ز. روميرو",
+            "ru": "З. Ромеро"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 181131,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 31,
+        "accuratePass": 24,
+        "totalLongBalls": 8,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 17,
+        "totalOwnHalfPasses": 19,
+        "accurateOppositionHalfPasses": 7,
+        "totalOppositionHalfPasses": 12,
+        "duelLost": 3,
+        "duelWon": 2,
+        "dispossessed": 1,
+        "totalContest": 2,
+        "wonContest": 2,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 4,
+        "interceptionWon": 3,
+        "ballRecovery": 5,
+        "errorLeadToAShot": 1,
+        "unsuccessfulTouch": 1,
+        "fouls": 2,
+        "minutesPlayed": 67,
+        "touches": 44,
+        "rating": 5.8,
+        "possessionLostCtrl": 9,
+        "expectedGoals": 0.0428,
+        "expectedAssists": 0.00449075,
+        "topSpeed": 28.17,
+        "kilometersCovered": 8.4,
+        "numberOfSprints": 9,
+        "totalBallCarriesDistance": 111.55338947794,
+        "ballCarriesCount": 10,
+        "totalProgression": 32.533238133971,
+        "bestBallCarryProgression": 24.603409527994,
+        "totalProgressiveBallCarriesDistance": 48.634312068567,
+        "progressiveBallCarriesCount": 3,
+        "ratingVersions": {
+          "original": 5.8,
+          "alternative": 5.9
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.12,
+        "passValueNormalized": 0.08,
+        "dribbleValueNormalized": 0.3,
+        "defensiveValueNormalized": -0.16,
+        "metersCoveredRunningKm": 1.05,
+        "metersCoveredHighSpeedRunningKm": 0.37,
+        "metersCoveredSprintingKm": 0.1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416336": {
+    "id": 16416336,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 0
+      },
+      "startTimestamp": 1789664400,
+      "slug": "getafe-real-betis",
+      "season": "26/27",
+      "jornada": 6
+    },
+    "player_stats": {
+      "player": {
+        "name": "Zaid Romero",
+        "firstName": "",
+        "lastName": "",
+        "slug": "zaid-romero",
+        "shortName": "Z. Romero",
+        "position": "D",
+        "jerseyNumber": "24",
+        "height": 192,
+        "userCount": 1264,
+        "gender": "M",
+        "sofascoreId": "rst-tp7",
+        "id": 1108450,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 945216000,
+        "proposedMarketValueRaw": {
+          "value": 4800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "زايد روميرو",
+            "ru": "Зайд Ромеро"
+          },
+          "shortNameTranslation": {
+            "ar": "ز. روميرو",
+            "ru": "З. Ромеро"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 180635,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 28,
+        "accuratePass": 17,
+        "totalLongBalls": 6,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 7,
+        "totalOwnHalfPasses": 10,
+        "accurateOppositionHalfPasses": 10,
+        "totalOppositionHalfPasses": 18,
+        "duelWon": 4,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalClearance": 6,
+        "clearanceOffLine": 1,
+        "outfielderBlock": 1,
+        "interceptionWon": 2,
+        "ballRecovery": 8,
+        "totalTackle": 3,
+        "wonTackle": 1,
+        "errorLeadToAShot": 1,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 90,
+        "touches": 45,
+        "rating": 7.7,
+        "possessionLostCtrl": 13,
+        "expectedAssists": 0.00327631,
+        "topSpeed": 33.35,
+        "kilometersCovered": 9.12,
+        "numberOfSprints": 8,
+        "totalBallCarriesDistance": 83.661255360689,
+        "ballCarriesCount": 12,
+        "totalProgression": 23.183317099774,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7.7,
+          "alternative": 7.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0,
+        "dribbleValueNormalized": 0.09,
+        "defensiveValueNormalized": 0.36,
+        "metersCoveredRunningKm": 1.02,
+        "metersCoveredHighSpeedRunningKm": 0.28,
+        "metersCoveredSprintingKm": 0.14,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
   }
 }

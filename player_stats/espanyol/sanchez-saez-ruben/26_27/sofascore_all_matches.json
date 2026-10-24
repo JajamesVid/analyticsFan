@@ -1,0 +1,144 @@
+{
+  "16416299": {
+    "id": 16416299,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1789758000,
+      "slug": "elche-espanyol",
+      "season": "26/27",
+      "jornada": 7
+    },
+    "player_stats": {
+      "player": {
+        "name": "Rubén Sánchez",
+        "slug": "sanchez-saez-ruben",
+        "shortName": "R. Sánchez",
+        "position": "D",
+        "jerseyNumber": "22",
+        "height": 184,
+        "userCount": 218,
+        "gender": "M",
+        "sofascoreId": "wrv-x4c",
+        "id": 1021165,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 981244800,
+        "proposedMarketValueRaw": {
+          "value": 24000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سانشيز سايز، روبن",
+            "bn": "সানচেজ সায়েজ, রুবেন",
+            "hi": "सांचेज़ सैज़, रूबेन",
+            "ru": "Рубен Санчес"
+          },
+          "shortNameTranslation": {
+            "ar": "س. روبن",
+            "bn": "আর. এস. সায়েজ",
+            "hi": "आर. एस. सैज़",
+            "ru": "Р. Санчес"
+          }
+        }
+      },
+      "team": {
+        "name": "Elche",
+        "slug": "elche",
+        "shortName": "Elche",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 135252,
+        "nameCode": "ELC",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2846,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#336600",
+          "text": "#336600"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إلتشي",
+            "bn": "এলচে",
+            "hi": "एल्चे",
+            "ru": "Эльче"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 13,
+        "accuratePass": 9,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 5,
+        "totalOwnHalfPasses": 8,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 5,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 3,
+        "challengeLost": 1,
+        "totalContest": 2,
+        "wonContest": 1,
+        "totalClearance": 4,
+        "interceptionWon": 2,
+        "ballRecovery": 6,
+        "lastManTackle": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 2,
+        "minutesPlayed": 53,
+        "touches": 30,
+        "rating": 7.6,
+        "possessionLostCtrl": 7,
+        "expectedAssists": 0.0129868,
+        "topSpeed": 29.97,
+        "kilometersCovered": 7.43,
+        "numberOfSprints": 12,
+        "totalBallCarriesDistance": 104.8266895426,
+        "ballCarriesCount": 6,
+        "totalProgression": 86.350741581657,
+        "bestBallCarryProgression": 34.270077621901,
+        "totalProgressiveBallCarriesDistance": 61.378672821726,
+        "progressiveBallCarriesCount": 2,
+        "ratingVersions": {
+          "original": 7.6,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.02,
+        "dribbleValueNormalized": 0.29,
+        "defensiveValueNormalized": 1,
+        "metersCoveredRunningKm": 1.23,
+        "metersCoveredHighSpeedRunningKm": 0.35,
+        "metersCoveredSprintingKm": 0.18,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

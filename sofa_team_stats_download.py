@@ -38,7 +38,7 @@ def create_session():
             "Accept": "*/*",
             "Accept-Language": random.choice(ACCEPT_LANGUAGES),
             "Accept-Encoding": "gzip, deflate, br, zstd",
-            "X-Requested-With": "463ab6",
+            "X-Requested-With": "aeb3e3",
             "Sec-Fetch-Dest": "empty",
             "Sec-Fetch-Mode": "cors",
             "Sec-Fetch-Site": "same-origin",

@@ -1,0 +1,917 @@
+{
+  "16416303": {
+    "id": 16416303,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1789905600,
+      "slug": "getafe-malaga-cf",
+      "season": "26/27",
+      "jornada": 7
+    },
+    "player_stats": {
+      "player": {
+        "name": "Eneko Jauregi",
+        "firstName": "Eneko",
+        "lastName": "Jauregi",
+        "slug": "eneko-jauregi",
+        "shortName": "E. Jauregi",
+        "position": "F",
+        "jerseyNumber": "17",
+        "height": 184,
+        "userCount": 177,
+        "gender": "M",
+        "sofascoreId": "n5t-dt6",
+        "id": 926418,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 837216000,
+        "proposedMarketValueRaw": {
+          "value": 720000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إينيكو هاوريغي",
+            "ru": "Энеко Хауреги"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. هاوريغي",
+            "ru": "Э. Хауреги"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 70830,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 4,
+        "accuratePass": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 3,
+        "aerialLost": 1,
+        "duelLost": 4,
+        "duelWon": 1,
+        "dispossessed": 2,
+        "onTargetScoringAttempt": 1,
+        "totalClearance": 1,
+        "ballRecovery": 2,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 1,
+        "fouls": 1,
+        "minutesPlayed": 45,
+        "touches": 10,
+        "rating": 6.2,
+        "possessionLostCtrl": 4,
+        "expectedGoals": 0.0852,
+        "expectedGoalsOnTarget": 0.0501,
+        "expectedAssists": 0.00029037,
+        "topSpeed": 32.04,
+        "kilometersCovered": 5.1,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 3.4661933010148,
+        "ballCarriesCount": 1,
+        "totalProgression": 3.2277489181002,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.2,
+          "alternative": 6.5
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.27,
+        "passValueNormalized": 0,
+        "dribbleValueNormalized": 0.03,
+        "defensiveValueNormalized": 0.16,
+        "metersCoveredRunningKm": 1.1,
+        "metersCoveredHighSpeedRunningKm": 0.2,
+        "metersCoveredSprintingKm": 0.05,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "16421062": {
+    "id": 16421062,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1791572400,
+      "slug": "malaga-cf-espanyol",
+      "season": "26/27",
+      "jornada": 8
+    },
+    "player_stats": {
+      "player": {
+        "name": "Eneko Jauregi",
+        "firstName": "Eneko",
+        "lastName": "Jauregi",
+        "slug": "eneko-jauregi",
+        "shortName": "E. Jauregi",
+        "position": "F",
+        "jerseyNumber": "17",
+        "height": 184,
+        "userCount": 177,
+        "gender": "M",
+        "sofascoreId": "n5t-dt6",
+        "id": 926418,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 837216000,
+        "proposedMarketValueRaw": {
+          "value": 720000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إينيكو هاوريغي",
+            "ru": "Энеко Хауреги"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. هاوريغي",
+            "ru": "Э. Хауреги"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 70830,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "16421055": {
+    "id": 16421055,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atlético Madrid",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1787166000,
+      "slug": "atletico-madrid-malaga-cf",
+      "season": "26/27",
+      "jornada": 1
+    },
+    "player_stats": {
+      "player": {
+        "name": "Eneko Jauregi",
+        "firstName": "Eneko",
+        "lastName": "Jauregi",
+        "slug": "eneko-jauregi",
+        "shortName": "E. Jauregi",
+        "position": "F",
+        "jerseyNumber": "17",
+        "height": 184,
+        "userCount": 178,
+        "gender": "M",
+        "sofascoreId": "n5t-dt6",
+        "id": 926418,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 837216000,
+        "proposedMarketValueRaw": {
+          "value": 720000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إينيكو هاوريغي",
+            "ru": "Энеко Хауреги"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. هاوريغي",
+            "ru": "Э. Хауреги"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 70800,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 4,
+        "accuratePass": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 3,
+        "duelLost": 3,
+        "duelWon": 2,
+        "dispossessed": 2,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 10,
+        "touches": 8,
+        "rating": 6.5,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 0.0004263,
+        "topSpeed": 26.89,
+        "kilometersCovered": 1.67,
+        "numberOfSprints": 1,
+        "totalBallCarriesDistance": 8.0681240308341,
+        "ballCarriesCount": 2,
+        "totalProgression": -0.69209575576417,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.01,
+        "dribbleValueNormalized": 0.03,
+        "defensiveValueNormalized": 0.13,
+        "metersCoveredRunningKm": 0.27,
+        "metersCoveredHighSpeedRunningKm": 0.12,
+        "metersCoveredSprintingKm": 0.01,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "16416307": {
+    "id": 16416307,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "startTimestamp": 1787599800,
+      "slug": "deportivo-de-la-coruna-malaga-cf",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Eneko Jauregi",
+        "firstName": "Eneko",
+        "lastName": "Jauregi",
+        "slug": "eneko-jauregi",
+        "shortName": "E. Jauregi",
+        "position": "F",
+        "jerseyNumber": "17",
+        "height": 184,
+        "userCount": 178,
+        "gender": "M",
+        "sofascoreId": "n5t-dt6",
+        "id": 926418,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 837216000,
+        "proposedMarketValueRaw": {
+          "value": 720000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إينيكو هاوريغي",
+            "ru": "Энеко Хауреги"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. هاوريغي",
+            "ru": "Э. Хауреги"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 70800,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "16416312": {
+    "id": 16416312,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1788102000,
+      "slug": "malaga-cf-real-madrid",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Eneko Jauregi",
+        "firstName": "Eneko",
+        "lastName": "Jauregi",
+        "slug": "eneko-jauregi",
+        "shortName": "E. Jauregi",
+        "position": "F",
+        "jerseyNumber": "17",
+        "height": 184,
+        "userCount": 178,
+        "gender": "M",
+        "sofascoreId": "n5t-dt6",
+        "id": 926418,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 837216000,
+        "proposedMarketValueRaw": {
+          "value": 720000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إينيكو هاوريغي",
+            "ru": "Энеко Хауреги"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. هاوريغي",
+            "ru": "Э. Хауреги"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 71981,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "16416320": {
+    "id": 16416320,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 0
+      },
+      "startTimestamp": 1788712200,
+      "slug": "levante-ud-malaga-cf",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "Eneko Jauregi",
+        "firstName": "Eneko",
+        "lastName": "Jauregi",
+        "slug": "eneko-jauregi",
+        "shortName": "E. Jauregi",
+        "position": "F",
+        "jerseyNumber": "17",
+        "height": 184,
+        "userCount": 178,
+        "gender": "M",
+        "sofascoreId": "n5t-dt6",
+        "id": 926418,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 837216000,
+        "proposedMarketValueRaw": {
+          "value": 720000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إينيكو هاوريغي",
+            "ru": "Энеко Хауреги"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. هاوريغي",
+            "ru": "Э. Хауреги"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 71922,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "16416347": {
+    "id": 16416347,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1789300800,
+      "slug": "malaga-cf-celta-vigo",
+      "season": "26/27",
+      "jornada": 5
+    },
+    "player_stats": {
+      "player": {
+        "name": "Eneko Jauregi",
+        "firstName": "Eneko",
+        "lastName": "Jauregi",
+        "slug": "eneko-jauregi",
+        "shortName": "E. Jauregi",
+        "position": "F",
+        "jerseyNumber": "17",
+        "height": 184,
+        "userCount": 176,
+        "gender": "M",
+        "sofascoreId": "n5t-dt6",
+        "id": 926418,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 837216000,
+        "proposedMarketValueRaw": {
+          "value": 720000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إينيكو هاوريغي",
+            "ru": "Энеко Хауреги"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. هاوريغي",
+            "ru": "Э. Хауреги"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 71922,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "16416338": {
+    "id": 16416338,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 3
+      },
+      "startTimestamp": 1789673400,
+      "slug": "malaga-cf-villarreal",
+      "season": "26/27",
+      "jornada": 6
+    },
+    "player_stats": {
+      "player": {
+        "name": "Eneko Jauregi",
+        "firstName": "Eneko",
+        "lastName": "Jauregi",
+        "slug": "eneko-jauregi",
+        "shortName": "E. Jauregi",
+        "position": "F",
+        "jerseyNumber": "17",
+        "height": 184,
+        "userCount": 176,
+        "gender": "M",
+        "sofascoreId": "n5t-dt6",
+        "id": 926418,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 837216000,
+        "proposedMarketValueRaw": {
+          "value": 720000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إينيكو هاوريغي",
+            "ru": "Энеко Хауреги"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. هاوريغي",
+            "ru": "Э. Хауреги"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 71874,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "16421073": {
+    "id": 16421073,
+    "match_info": {
+      "homeTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 5
+      },
+      "startTimestamp": 1792341000,
+      "slug": "malaga-cf-real-sociedad",
+      "season": "26/27",
+      "jornada": 9
+    },
+    "player_stats": {
+      "player": {
+        "name": "Eneko Jauregi",
+        "firstName": "Eneko",
+        "lastName": "Jauregi",
+        "slug": "eneko-jauregi",
+        "shortName": "E. Jauregi",
+        "position": "F",
+        "jerseyNumber": "17",
+        "height": 184,
+        "userCount": 176,
+        "gender": "M",
+        "sofascoreId": "n5t-dt6",
+        "id": 926418,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 837216000,
+        "proposedMarketValueRaw": {
+          "value": 720000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إينيكو هاوريغي",
+            "ru": "Энеко Хауреги"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. هاوريغي",
+            "ru": "Э. Хауреги"
+          }
+        }
+      },
+      "team": {
+        "name": "Málaga CF",
+        "slug": "malaga",
+        "shortName": "Málaga",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 71874,
+        "nameCode": "MCF",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2830,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#3791f2",
+          "text": "#3791f2"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي ملقا",
+            "ru": "Малага"
+          },
+          "shortNameTranslation": {
+            "ar": "ملقا"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  }
+}

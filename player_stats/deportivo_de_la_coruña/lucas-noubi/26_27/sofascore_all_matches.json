@@ -135,5 +135,145 @@
       "position": "D",
       "extra": null
     }
+  },
+  "16416291": {
+    "id": 16416291,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1788111000,
+      "slug": "deportivo-de-la-coruna-valencia",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Lucas Noubi",
+        "firstName": "Lucas Noubi",
+        "lastName": "",
+        "slug": "lucas-noubi",
+        "shortName": "L. Noubi",
+        "position": "D",
+        "jerseyNumber": "4",
+        "height": 184,
+        "userCount": 682,
+        "gender": "M",
+        "sofascoreId": "8j3cr2",
+        "id": 1127337,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1105747200,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "لوكاس نوبي",
+            "bn": "লুকাস নৌবি",
+            "hi": "लुकास नोउबी",
+            "ru": "Лукас Нуби"
+          },
+          "shortNameTranslation": {
+            "ar": "ل. نوبي",
+            "bn": "এল. নৌবি",
+            "hi": "एल. नोउबी",
+            "ru": "Л. Нуби"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo de A Coruña",
+        "slug": "deportivo-la-coruna",
+        "shortName": "Deportivo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 69223,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2832,
+        "teamColors": {
+          "primary": "#003399",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депортиво Ла-Корунья"
+          },
+          "shortNameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депорти́во"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 46,
+        "accuratePass": 39,
+        "totalLongBalls": 8,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 35,
+        "totalOwnHalfPasses": 40,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 6,
+        "aerialLost": 1,
+        "aerialWon": 2,
+        "duelLost": 1,
+        "duelWon": 3,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalClearance": 7,
+        "interceptionWon": 3,
+        "ballRecovery": 2,
+        "minutesPlayed": 90,
+        "touches": 58,
+        "rating": 6.6,
+        "possessionLostCtrl": 7,
+        "expectedAssists": 0.00092291,
+        "topSpeed": 31.68,
+        "kilometersCovered": 10.01,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 149.52619057435,
+        "ballCarriesCount": 16,
+        "totalProgression": 31.038143741658,
+        "bestBallCarryProgression": 21.321430496677,
+        "totalProgressiveBallCarriesDistance": 21.390457779113,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0,
+        "dribbleValueNormalized": 0.03,
+        "defensiveValueNormalized": -0.14,
+        "metersCoveredRunningKm": 1.38,
+        "metersCoveredHighSpeedRunningKm": 0.3,
+        "metersCoveredSprintingKm": 0.08,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
   }
 }

@@ -218,5 +218,124 @@
         "extra": null
       }
     }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Deportivo",
+        "abreviatura": "DEP",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/6.png"
+      },
+      "visitante": {
+        "nombre": "Valencia",
+        "abreviatura": "VAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/18.png"
+      }
+    },
+    "resultado": "3-1",
+    "fecha": "2026-08-30",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22445-deportivo-valencia",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 16416291,
+      "match_info": {
+        "homeTeam": {
+          "name": "Deportivo de A Coruña",
+          "shortName": "Deportivo",
+          "color": "#003399",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Valencia",
+          "shortName": "Valencia",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1788111000,
+        "slug": "deportivo-de-la-coruna-valencia",
+        "season": "26/27",
+        "jornada": 3
+      },
+      "player_stats": {
+        "player": {
+          "name": "David Mella",
+          "slug": "david-mella",
+          "shortName": "D. Mella",
+          "position": "M",
+          "jerseyNumber": "11",
+          "height": 169,
+          "userCount": 1018,
+          "gender": "M",
+          "sofascoreId": "ek3d66",
+          "id": 1146312,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1116806400,
+          "proposedMarketValueRaw": {
+            "value": 4500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ديفيد ميلا",
+              "ru": "Давид Мелла"
+            },
+            "shortNameTranslation": {
+              "ar": "د. ميلا",
+              "ru": "Д. Мелла"
+            }
+          }
+        },
+        "team": {
+          "name": "Deportivo de A Coruña",
+          "slug": "deportivo-la-coruna",
+          "shortName": "Deportivo",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 69223,
+          "nameCode": "COR",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2832,
+          "teamColors": {
+            "primary": "#003399",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ديبورتيفو لاكورونيا",
+              "ru": "Депортиво Ла-Корунья"
+            },
+            "shortNameTranslation": {
+              "ar": "ديبورتيفو لاكورونيا",
+              "ru": "Депорти́во"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
   }
 ]

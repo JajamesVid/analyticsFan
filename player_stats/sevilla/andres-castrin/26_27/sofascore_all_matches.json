@@ -93,5 +93,1088 @@
       "position": "D",
       "extra": null
     }
+  },
+  "16416316": {
+    "id": 16416316,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1788031800,
+      "slug": "atletico-madrid-sevilla",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Andres Castrin",
+        "firstName": "Andres",
+        "lastName": "Castrin",
+        "slug": "andres-castrin",
+        "shortName": "A. Castrin",
+        "position": "D",
+        "jerseyNumber": "5",
+        "height": 188,
+        "userCount": 316,
+        "gender": "M",
+        "sofascoreId": "iwfg4k",
+        "id": 1428699,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1053907200,
+        "proposedMarketValueRaw": {
+          "value": 6500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أندريس كاسترين",
+            "ru": "Андрес Кастрин"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. كاسترين",
+            "ru": "А. Кастрин"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 422909,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 42,
+        "accuratePass": 38,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 23,
+        "totalOwnHalfPasses": 24,
+        "accurateOppositionHalfPasses": 15,
+        "totalOppositionHalfPasses": 18,
+        "aerialWon": 2,
+        "duelWon": 2,
+        "totalClearance": 3,
+        "outfielderBlock": 2,
+        "ballRecovery": 7,
+        "minutesPlayed": 90,
+        "touches": 48,
+        "rating": 6.5,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.0263247,
+        "topSpeed": 30.34,
+        "kilometersCovered": 10.38,
+        "numberOfSprints": 10,
+        "totalBallCarriesDistance": 63.092017981114,
+        "ballCarriesCount": 12,
+        "totalProgression": 37.365083729208,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.12,
+        "dribbleValueNormalized": 0.07,
+        "defensiveValueNormalized": -0.24,
+        "metersCoveredRunningKm": 1.6,
+        "metersCoveredHighSpeedRunningKm": 0.44,
+        "metersCoveredSprintingKm": 0.17,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416349": {
+    "id": 16416349,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 3
+      },
+      "startTimestamp": 1789844400,
+      "slug": "sevilla-fc-barcelona",
+      "season": "26/27",
+      "jornada": 7
+    },
+    "player_stats": {
+      "player": {
+        "name": "Andrés Castrin",
+        "firstName": "Andres",
+        "lastName": "Castrin",
+        "slug": "andres-castrin",
+        "shortName": "A. Castrin",
+        "position": "D",
+        "jerseyNumber": "5",
+        "height": 188,
+        "userCount": 419,
+        "gender": "M",
+        "sofascoreId": "iwf-g4k",
+        "id": 1428699,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1053907200,
+        "proposedMarketValueRaw": {
+          "value": 8700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أندريس كاسترين",
+            "ru": "Андрес Кастрин"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. كاسترين",
+            "ru": "А. Кастрин"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 348959,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 20,
+        "accuratePass": 17,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 11,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 9,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 1,
+        "duelWon": 2,
+        "totalContest": 1,
+        "wonContest": 1,
+        "totalClearance": 3,
+        "outfielderBlock": 1,
+        "ballRecovery": 1,
+        "totalOffside": 1,
+        "minutesPlayed": 90,
+        "touches": 27,
+        "rating": 6.1,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 0.00141507,
+        "topSpeed": 28.43,
+        "kilometersCovered": 9.01,
+        "numberOfSprints": 1,
+        "totalBallCarriesDistance": 51.213504753077,
+        "ballCarriesCount": 5,
+        "totalProgression": 19.531987608129,
+        "bestBallCarryProgression": 23.764921806077,
+        "totalProgressiveBallCarriesDistance": 24.907401630841,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.1,
+          "alternative": 6.4
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.1,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": -0.34,
+        "metersCoveredRunningKm": 1.01,
+        "metersCoveredHighSpeedRunningKm": 0.21,
+        "metersCoveredSprintingKm": 0.02,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421063": {
+    "id": 16421063,
+    "match_info": {
+      "homeTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1791831600,
+      "slug": "levante-ud-sevilla",
+      "season": "26/27",
+      "jornada": 8
+    },
+    "player_stats": {
+      "player": {
+        "name": "Andrés Castrin",
+        "firstName": "Andres",
+        "lastName": "Castrin",
+        "slug": "andres-castrin",
+        "shortName": "A. Castrin",
+        "position": "D",
+        "jerseyNumber": "5",
+        "height": 188,
+        "userCount": 419,
+        "gender": "M",
+        "sofascoreId": "iwf-g4k",
+        "id": 1428699,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1053907200,
+        "proposedMarketValueRaw": {
+          "value": 8700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أندريس كاسترين",
+            "ru": "Андрес Кастрин"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. كاسترين",
+            "ru": "А. Кастрин"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 348959,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 52,
+        "accuratePass": 45,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 32,
+        "totalOwnHalfPasses": 34,
+        "accurateOppositionHalfPasses": 13,
+        "totalOppositionHalfPasses": 18,
+        "aerialLost": 4,
+        "duelLost": 5,
+        "totalClearance": 5,
+        "interceptionWon": 1,
+        "ballRecovery": 7,
+        "unsuccessfulTouch": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 63,
+        "rating": 5.8,
+        "possessionLostCtrl": 8,
+        "expectedAssists": 0.00890881,
+        "topSpeed": 32.04,
+        "kilometersCovered": 10.04,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 73.262162349464,
+        "ballCarriesCount": 12,
+        "totalProgression": 28.566002723234,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 5.8,
+          "alternative": 6.2
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.18,
+        "dribbleValueNormalized": 0.07,
+        "defensiveValueNormalized": -0.33,
+        "metersCoveredRunningKm": 1.13,
+        "metersCoveredHighSpeedRunningKm": 0.2,
+        "metersCoveredSprintingKm": 0.08,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416301": {
+    "id": 16416301,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1787410800,
+      "slug": "sevilla-athletic-club",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Andrés Castrin",
+        "firstName": "Andres",
+        "lastName": "Castrin",
+        "slug": "andres-castrin",
+        "shortName": "A. Castrin",
+        "position": "D",
+        "jerseyNumber": "5",
+        "height": 188,
+        "userCount": 418,
+        "gender": "M",
+        "sofascoreId": "iwf-g4k",
+        "id": 1428699,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1053907200,
+        "proposedMarketValueRaw": {
+          "value": 8700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أندريس كاسترين",
+            "ru": "Андрес Кастрин"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. كاسترين",
+            "ru": "А. Кастрин"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 346762,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 46,
+        "accuratePass": 39,
+        "totalLongBalls": 12,
+        "accurateLongBalls": 7,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 26,
+        "totalOwnHalfPasses": 27,
+        "accurateOppositionHalfPasses": 13,
+        "totalOppositionHalfPasses": 19,
+        "aerialLost": 1,
+        "aerialWon": 2,
+        "duelLost": 1,
+        "duelWon": 3,
+        "totalClearance": 5,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 90,
+        "touches": 55,
+        "rating": 7.1,
+        "possessionLostCtrl": 8,
+        "expectedAssists": 0.00918983,
+        "topSpeed": 26.39,
+        "kilometersCovered": 9.46,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 131.59306013871,
+        "ballCarriesCount": 17,
+        "totalProgression": 74.702205789131,
+        "bestBallCarryProgression": 26.318868754615,
+        "totalProgressiveBallCarriesDistance": 27.730090227044,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.1,
+          "alternative": 7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.3,
+        "dribbleValueNormalized": 0.07,
+        "defensiveValueNormalized": -0.04,
+        "metersCoveredRunningKm": 1.22,
+        "metersCoveredHighSpeedRunningKm": 0.24,
+        "metersCoveredSprintingKm": 0.02,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416323": {
+    "id": 16416323,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1788721200,
+      "slug": "sevilla-espanyol",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "Andrés Castrin",
+        "firstName": "Andres",
+        "lastName": "Castrin",
+        "slug": "andres-castrin",
+        "shortName": "A. Castrin",
+        "position": "D",
+        "jerseyNumber": "5",
+        "height": 188,
+        "userCount": 428,
+        "gender": "M",
+        "sofascoreId": "iwf-g4k",
+        "id": 1428699,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1053907200,
+        "proposedMarketValueRaw": {
+          "value": 8700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أندريس كاسترين",
+            "ru": "Андрес Кастрин"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. كاسترين",
+            "ru": "А. Кастрин"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 352303,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 2,
+        "accuratePass": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 2,
+        "duelWon": 2,
+        "totalContest": 1,
+        "shotOffTarget": 1,
+        "totalClearance": 2,
+        "interceptionWon": 2,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "minutesPlayed": 30,
+        "touches": 9,
+        "rating": 6.4,
+        "possessionLostCtrl": 1,
+        "expectedGoals": 0.0215,
+        "expectedAssists": 2.581e-05,
+        "topSpeed": 29.32,
+        "kilometersCovered": 2.96,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 18.38473871677,
+        "ballCarriesCount": 2,
+        "totalProgression": 8.8443323864541,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.5
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.13,
+        "passValueNormalized": 0,
+        "dribbleValueNormalized": 0.12,
+        "defensiveValueNormalized": -0.11,
+        "metersCoveredRunningKm": 0.27,
+        "metersCoveredHighSpeedRunningKm": 0.07,
+        "metersCoveredSprintingKm": 0.03,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416330": {
+    "id": 16416330,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1789153200,
+      "slug": "sevilla-valencia",
+      "season": "26/27",
+      "jornada": 5
+    },
+    "player_stats": {
+      "player": {
+        "name": "Andrés Castrin",
+        "firstName": "Andres",
+        "lastName": "Castrin",
+        "slug": "andres-castrin",
+        "shortName": "A. Castrin",
+        "position": "D",
+        "jerseyNumber": "5",
+        "height": 188,
+        "userCount": 428,
+        "gender": "M",
+        "sofascoreId": "iwf-g4k",
+        "id": 1428699,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1053907200,
+        "proposedMarketValueRaw": {
+          "value": 8700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أندريس كاسترين",
+            "ru": "Андрес Кастрин"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. كاسترين",
+            "ru": "А. Кастрин"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 352303,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 38,
+        "accuratePass": 32,
+        "totalLongBalls": 10,
+        "accurateLongBalls": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 16,
+        "totalOwnHalfPasses": 16,
+        "accurateOppositionHalfPasses": 16,
+        "totalOppositionHalfPasses": 22,
+        "duelWon": 3,
+        "onTargetScoringAttempt": 1,
+        "totalClearance": 6,
+        "interceptionWon": 1,
+        "ballRecovery": 3,
+        "lastManTackle": 2,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 90,
+        "touches": 51,
+        "rating": 8,
+        "possessionLostCtrl": 7,
+        "expectedGoals": 0.1562,
+        "expectedGoalsOnTarget": 0.2071,
+        "expectedAssists": 0.0106146,
+        "totalBallCarriesDistance": 98.493449725018,
+        "ballCarriesCount": 13,
+        "totalProgression": 57.822707177971,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 8,
+          "alternative": 7.8
+        },
+        "totalShots": 1,
+        "shotValueNormalized": 0.04,
+        "passValueNormalized": 0.18,
+        "dribbleValueNormalized": 0.05,
+        "defensiveValueNormalized": 1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416343": {
+    "id": 16416343,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1789578000,
+      "slug": "sevilla-deportivo-de-la-coruna",
+      "season": "26/27",
+      "jornada": 6
+    },
+    "player_stats": {
+      "player": {
+        "name": "Andrés Castrin",
+        "firstName": "Andres",
+        "lastName": "Castrin",
+        "slug": "andres-castrin",
+        "shortName": "A. Castrin",
+        "position": "D",
+        "jerseyNumber": "5",
+        "height": 188,
+        "userCount": 426,
+        "gender": "M",
+        "sofascoreId": "iwf-g4k",
+        "id": 1428699,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1053907200,
+        "proposedMarketValueRaw": {
+          "value": 8700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أندريس كاسترين",
+            "ru": "Андрес Кастрин"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. كاسترين",
+            "ru": "А. Кастрин"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 352664,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 57,
+        "accuratePass": 51,
+        "totalLongBalls": 7,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 32,
+        "totalOwnHalfPasses": 32,
+        "accurateOppositionHalfPasses": 19,
+        "totalOppositionHalfPasses": 25,
+        "aerialWon": 2,
+        "duelLost": 1,
+        "duelWon": 6,
+        "totalClearance": 9,
+        "interceptionWon": 2,
+        "ballRecovery": 6,
+        "totalTackle": 2,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 2,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 75,
+        "rating": 7.7,
+        "possessionLostCtrl": 7,
+        "expectedAssists": 0.00871362,
+        "topSpeed": 29.4,
+        "kilometersCovered": 8.75,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 166.5719768716,
+        "ballCarriesCount": 19,
+        "totalProgression": 68.076898048559,
+        "bestBallCarryProgression": 19.814097320541,
+        "totalProgressiveBallCarriesDistance": 35.722663228198,
+        "progressiveBallCarriesCount": 2,
+        "ratingVersions": {
+          "original": 7.7,
+          "alternative": 7.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.21,
+        "dribbleValueNormalized": 0.33,
+        "defensiveValueNormalized": 0.46,
+        "metersCoveredRunningKm": 0.79,
+        "metersCoveredHighSpeedRunningKm": 0.19,
+        "metersCoveredSprintingKm": 0.04,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421075": {
+    "id": 16421075,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1792350000,
+      "slug": "sevilla-real-madrid",
+      "season": "26/27",
+      "jornada": 9
+    },
+    "player_stats": {
+      "player": {
+        "name": "Andrés Castrin",
+        "firstName": "Andres",
+        "lastName": "Castrin",
+        "slug": "andres-castrin",
+        "shortName": "A. Castrin",
+        "position": "D",
+        "jerseyNumber": "5",
+        "height": 188,
+        "userCount": 426,
+        "gender": "M",
+        "sofascoreId": "iwf-g4k",
+        "id": 1428699,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1053907200,
+        "proposedMarketValueRaw": {
+          "value": 8700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أندريس كاسترين",
+            "ru": "Андрес Кастрин"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. كاسترين",
+            "ru": "А. Кастрин"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 352664,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 41,
+        "accuratePass": 37,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 19,
+        "totalOwnHalfPasses": 21,
+        "accurateOppositionHalfPasses": 18,
+        "totalOppositionHalfPasses": 20,
+        "duelLost": 2,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "totalClearance": 6,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "penaltyConceded": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 48,
+        "rating": 5.8,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.17068,
+        "topSpeed": 35.33,
+        "kilometersCovered": 9.91,
+        "numberOfSprints": 14,
+        "totalBallCarriesDistance": 162.67947515137,
+        "ballCarriesCount": 19,
+        "totalProgression": 109.77138856697,
+        "bestBallCarryProgression": 23.142651942847,
+        "totalProgressiveBallCarriesDistance": 25.095092129737,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 5.8,
+          "alternative": 6
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.23,
+        "dribbleValueNormalized": 0.14,
+        "defensiveValueNormalized": -0.83,
+        "metersCoveredRunningKm": 1.31,
+        "metersCoveredHighSpeedRunningKm": 0.39,
+        "metersCoveredSprintingKm": 0.17,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
   }
 }

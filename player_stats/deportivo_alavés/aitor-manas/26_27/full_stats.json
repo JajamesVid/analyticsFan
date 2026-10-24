@@ -223,5 +223,1221 @@
         "extra": null
       }
     }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Rayo",
+        "abreviatura": "RAY",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/14.png"
+      },
+      "visitante": {
+        "nombre": "Alavés",
+        "abreviatura": "ALA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-08-20",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22440-rayo-alaves",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 16416292,
+      "match_info": {
+        "homeTeam": {
+          "name": "Rayo Vallecano",
+          "shortName": "Rayo Vallecano",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Deportivo Alavés",
+          "shortName": "Alavés",
+          "color": "#0232a0",
+          "score": 1
+        },
+        "startTimestamp": 1787252400,
+        "slug": "deportivo-alaves-rayo-vallecano",
+        "season": "26/27",
+        "jornada": 2
+      },
+      "player_stats": {
+        "player": {
+          "name": "Aitor Mañas",
+          "firstName": "Aitor Mañas",
+          "slug": "aitor-manas",
+          "shortName": "A. Mañas",
+          "position": "F",
+          "jerseyNumber": "20",
+          "height": 185,
+          "userCount": 102,
+          "gender": "M",
+          "sofascoreId": "xzmzdc",
+          "id": 1639543,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1041724800,
+          "proposedMarketValueRaw": {
+            "value": 570000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أيتور ماناس",
+              "ru": "Аитор Маньяс"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. ماناس",
+              "ru": "А. Маньяс"
+            }
+          }
+        },
+        "team": {
+          "name": "Deportivo Alavés",
+          "slug": "deportivo-alaves",
+          "shortName": "Alavés",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 159437,
+          "nameCode": "ALA",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2885,
+          "teamColors": {
+            "primary": "#0232a0",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ديبورتيفو ألافيس",
+              "ru": "Алавес"
+            },
+            "shortNameTranslation": {
+              "ar": "ألافيس",
+              "bn": "আলাভেস",
+              "hi": "अलावेस"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Alavés",
+        "abreviatura": "ALA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
+      },
+      "visitante": {
+        "nombre": "Villarreal",
+        "abreviatura": "VIL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/22.png"
+      }
+    },
+    "resultado": "1-0",
+    "fecha": "2026-08-28",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22444-alaves-villarreal",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 2,
+      "cope": 5.0,
+      "sofascore": 6.7,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 1.0,
+        "fantasy": 2.0,
+        "comunio": 4.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": 1.0,
+        "biwenger-as-sofascore": 3.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": 1.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 0.0,
+        "futmondo-mixto": 1.2,
+        "cronistas-marca": 0.0,
+        "marca-mixto": 1.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 0.0,
+        "mister-mixto": 1.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 1.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 1.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 1.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 0.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 0.0,
+        "stat-pases-completados": 0.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 16416290,
+      "match_info": {
+        "homeTeam": {
+          "name": "Deportivo Alavés",
+          "shortName": "Alavés",
+          "color": "#0232a0",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Villarreal",
+          "shortName": "Villarreal",
+          "color": "#ffff00",
+          "score": 0
+        },
+        "startTimestamp": 1787945400,
+        "slug": "deportivo-alaves-villarreal",
+        "season": "26/27",
+        "jornada": 3
+      },
+      "player_stats": {
+        "player": {
+          "name": "Aitor Mañas",
+          "firstName": "Aitor Mañas",
+          "slug": "aitor-manas",
+          "shortName": "A. Mañas",
+          "position": "F",
+          "jerseyNumber": "20",
+          "height": 185,
+          "userCount": 109,
+          "gender": "M",
+          "sofascoreId": "xzmzdc",
+          "id": 1639543,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1041724800,
+          "proposedMarketValueRaw": {
+            "value": 570000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أيتور ماناس",
+              "ru": "Аитор Маньяс"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. ماناس",
+              "ru": "А. Маньяс"
+            }
+          }
+        },
+        "team": {
+          "name": "Deportivo Alavés",
+          "slug": "deportivo-alaves",
+          "shortName": "Alavés",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 166248,
+          "nameCode": "ALA",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2885,
+          "teamColors": {
+            "primary": "#0232a0",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ديبورتيفو ألافيس",
+              "ru": "Алавес"
+            },
+            "shortNameTranslation": {
+              "ar": "ألافيس",
+              "bn": "আলাভেস",
+              "hi": "अलावेस"
+            }
+          }
+        },
+        "statistics": {
+          "goalAssist": 0,
+          "aerialWon": 1,
+          "duelLost": 1,
+          "duelWon": 2,
+          "totalClearance": 1,
+          "interceptionWon": 1,
+          "unsuccessfulTouch": 1,
+          "wasFouled": 1,
+          "fouls": 1,
+          "minutesPlayed": 8,
+          "touches": 5,
+          "rating": 6.7,
+          "possessionLostCtrl": 1,
+          "topSpeed": 28.02,
+          "kilometersCovered": 1.65,
+          "numberOfSprints": 1,
+          "totalBallCarriesDistance": 6.0258844993909,
+          "ballCarriesCount": 1,
+          "totalProgression": 1.9781050966013,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 6.7,
+            "alternative": 6.7
+          },
+          "totalShots": 0,
+          "dribbleValueNormalized": 0.05,
+          "defensiveValueNormalized": 0.16,
+          "metersCoveredRunningKm": 0.33,
+          "metersCoveredHighSpeedRunningKm": 0.11,
+          "metersCoveredSprintingKm": 0.02,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Alavés",
+        "abreviatura": "ALA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
+      },
+      "visitante": {
+        "nombre": "Atlético",
+        "abreviatura": "ATM",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
+      }
+    },
+    "resultado": "1-2",
+    "fecha": "2026-10-10",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22493-alaves-atletico",
+    "puntuaciones": {
+      "picas": 2,
+      "marca": 1,
+      "cope": null,
+      "sofascore": 6.5,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 2.0,
+        "comunio": 3.0,
+        "modo-picas": 6.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 4.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": 4.0,
+        "futmondo-mixto-as": 6.0,
+        "futmondo-stats": 0.0,
+        "futmondo-mixto": 0.4,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 3.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 1.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 1.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 3.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 100.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 3.0,
+        "stat-pases-completados": 3.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 16421056,
+      "match_info": {
+        "homeTeam": {
+          "name": "Deportivo Alavés",
+          "shortName": "Alavés",
+          "color": "#0232a0",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Atlético Madrid",
+          "shortName": "Atlético Madrid",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "startTimestamp": 1791641700,
+        "slug": "deportivo-alaves-atletico-madrid",
+        "season": "26/27",
+        "jornada": 8
+      },
+      "player_stats": {
+        "player": {
+          "name": "Aitor Mañas",
+          "firstName": "Aitor Mañas",
+          "slug": "aitor-manas",
+          "shortName": "A. Mañas",
+          "position": "F",
+          "jerseyNumber": "20",
+          "height": 185,
+          "userCount": 121,
+          "gender": "M",
+          "sofascoreId": "xzm-zdc",
+          "id": 1639543,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1041724800,
+          "proposedMarketValueRaw": {
+            "value": 570000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أيتور ماناس",
+              "ru": "Аитор Маньяс"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. ماناس",
+              "ru": "А. Маньяс"
+            }
+          }
+        },
+        "team": {
+          "name": "Deportivo Alavés",
+          "slug": "deportivo-alaves",
+          "shortName": "Alavés",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 147970,
+          "nameCode": "ALA",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2885,
+          "teamColors": {
+            "primary": "#0232a0",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ديبورتيفو ألافيس",
+              "ru": "Алавес"
+            },
+            "shortNameTranslation": {
+              "ar": "ألافيس",
+              "bn": "আলাভেস",
+              "hi": "अलावेस"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 3,
+          "accuratePass": 3,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 1,
+          "totalOwnHalfPasses": 1,
+          "accurateOppositionHalfPasses": 2,
+          "totalOppositionHalfPasses": 2,
+          "duelLost": 2,
+          "dispossessed": 1,
+          "totalContest": 1,
+          "totalClearance": 1,
+          "ballRecovery": 1,
+          "unsuccessfulTouch": 1,
+          "minutesPlayed": 11,
+          "touches": 7,
+          "rating": 6.5,
+          "possessionLostCtrl": 3,
+          "expectedAssists": 0.105225,
+          "topSpeed": 31.51,
+          "kilometersCovered": 2.28,
+          "numberOfSprints": 2,
+          "totalBallCarriesDistance": 18.910173039328,
+          "ballCarriesCount": 3,
+          "totalProgression": 5.8639721755151,
+          "progressiveBallCarriesCount": 0,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 6.5,
+            "alternative": 6.6
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.02,
+          "dribbleValueNormalized": -0.02,
+          "defensiveValueNormalized": 0.2,
+          "metersCoveredRunningKm": 0.36,
+          "metersCoveredHighSpeedRunningKm": 0.09,
+          "metersCoveredSprintingKm": 0.03,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Alavés",
+        "abreviatura": "ALA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
+      },
+      "visitante": {
+        "nombre": "Osasuna",
+        "abreviatura": "OSA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/13.png"
+      }
+    },
+    "resultado": "5-2",
+    "fecha": "2026-09-06",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22454-alaves-osasuna",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.6,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 0.0,
+        "comunio": 3.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": 1.0,
+        "biwenger-as-sofascore": 3.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 0.0,
+        "futmondo-mixto": 1.4,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 1.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 4.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 75.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 4.0,
+        "stat-pases-completados": 3.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 16416318,
+      "match_info": {
+        "homeTeam": {
+          "name": "Deportivo Alavés",
+          "shortName": "Alavés",
+          "color": "#0232a0",
+          "score": 5
+        },
+        "awayTeam": {
+          "name": "Osasuna",
+          "shortName": "Osasuna",
+          "color": "#cc0000",
+          "score": 2
+        },
+        "startTimestamp": 1788712200,
+        "slug": "deportivo-alaves-osasuna",
+        "season": "26/27",
+        "jornada": 4
+      },
+      "player_stats": {
+        "player": {
+          "name": "Aitor Mañas",
+          "firstName": "Aitor Mañas",
+          "slug": "aitor-manas",
+          "shortName": "A. Mañas",
+          "position": "F",
+          "jerseyNumber": "20",
+          "height": 185,
+          "userCount": 126,
+          "gender": "M",
+          "sofascoreId": "xzm-zdc",
+          "id": 1639543,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1041724800,
+          "proposedMarketValueRaw": {
+            "value": 570000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أيتور ماناس",
+              "ru": "Аитор Маньяс"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. ماناس",
+              "ru": "А. Маньяс"
+            }
+          }
+        },
+        "team": {
+          "name": "Deportivo Alavés",
+          "slug": "deportivo-alaves",
+          "shortName": "Alavés",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 147730,
+          "nameCode": "ALA",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2885,
+          "teamColors": {
+            "primary": "#0232a0",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ديبورتيفو ألافيس",
+              "ru": "Алавес"
+            },
+            "shortNameTranslation": {
+              "ar": "ألافيس",
+              "bn": "আলাভেস",
+              "hi": "अलावेस"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 4,
+          "accuratePass": 3,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 2,
+          "totalOwnHalfPasses": 2,
+          "accurateOppositionHalfPasses": 1,
+          "totalOppositionHalfPasses": 2,
+          "aerialWon": 1,
+          "duelWon": 2,
+          "totalContest": 1,
+          "wonContest": 1,
+          "ballRecovery": 1,
+          "unsuccessfulTouch": 3,
+          "minutesPlayed": 19,
+          "touches": 8,
+          "rating": 6.6,
+          "possessionLostCtrl": 4,
+          "expectedAssists": 8.293e-05,
+          "topSpeed": 29.93,
+          "kilometersCovered": 2.93,
+          "numberOfSprints": 3,
+          "ratingVersions": {
+            "original": 6.6,
+            "alternative": 6.6
+          },
+          "totalShots": 0,
+          "passValueNormalized": -0.01,
+          "dribbleValueNormalized": -0.05,
+          "defensiveValueNormalized": 0,
+          "metersCoveredRunningKm": 0.51,
+          "metersCoveredHighSpeedRunningKm": 0.16,
+          "metersCoveredSprintingKm": 0.03,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Racing",
+        "abreviatura": "RAC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/42.png"
+      },
+      "visitante": {
+        "nombre": "Alavés",
+        "abreviatura": "ALA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
+      }
+    },
+    "resultado": "2-1",
+    "fecha": "2026-09-12",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22469-racing-alaves",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 2,
+      "cope": null,
+      "sofascore": 6.4,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 1.0,
+        "futbolfantasy-rpg": -1.0,
+        "comunio": 2.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": 0.0,
+        "futmondo-mixto-as": 0.0,
+        "futmondo-stats": -1.0,
+        "futmondo-mixto": -0.3,
+        "cronistas-marca": 0.0,
+        "marca-mixto": 1.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 0.0,
+        "mister-mixto": 1.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 1.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 0.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 0.0,
+        "stat-pases-completados": 0.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 16416328,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Racing Club",
+          "shortName": "Racing Club",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Deportivo Alavés",
+          "shortName": "Alavés",
+          "color": "#0232a0",
+          "score": 1
+        },
+        "startTimestamp": 1789214400,
+        "slug": "deportivo-alaves-real-racing-club",
+        "season": "26/27",
+        "jornada": 5
+      },
+      "player_stats": {
+        "player": {
+          "name": "Aitor Mañas",
+          "firstName": "Aitor Mañas",
+          "slug": "aitor-manas",
+          "shortName": "A. Mañas",
+          "position": "F",
+          "jerseyNumber": "20",
+          "height": 185,
+          "userCount": 126,
+          "gender": "M",
+          "sofascoreId": "xzm-zdc",
+          "id": 1639543,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1041724800,
+          "proposedMarketValueRaw": {
+            "value": 570000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أيتور ماناس",
+              "ru": "Аитор Маньяс"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. ماناس",
+              "ru": "А. Маньяс"
+            }
+          }
+        },
+        "team": {
+          "name": "Deportivo Alavés",
+          "slug": "deportivo-alaves",
+          "shortName": "Alavés",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 147730,
+          "nameCode": "ALA",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2885,
+          "teamColors": {
+            "primary": "#0232a0",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ديبورتيفو ألافيس",
+              "ru": "Алавес"
+            },
+            "shortNameTranslation": {
+              "ar": "ألافيس",
+              "bn": "আলাভেস",
+              "hi": "अलावेस"
+            }
+          }
+        },
+        "statistics": {
+          "goalAssist": 0,
+          "aerialLost": 1,
+          "duelLost": 1,
+          "fouls": 1,
+          "minutesPlayed": 11,
+          "touches": 1,
+          "rating": 6.4,
+          "possessionLostCtrl": 1,
+          "ratingVersions": {
+            "original": 6.4,
+            "alternative": 6.5
+          },
+          "totalShots": 0,
+          "dribbleValueNormalized": -0.31,
+          "defensiveValueNormalized": -0.02,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Celta",
+        "abreviatura": "CEL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/5.png"
+      },
+      "visitante": {
+        "nombre": "Alavés",
+        "abreviatura": "ALA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
+      }
+    },
+    "resultado": "2-1",
+    "fecha": "2026-10-18",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22503-celta-alaves",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 2,
+      "cope": null,
+      "sofascore": 6.5,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 1.0,
+        "comunio": 3.0,
+        "scale1": 0.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": 1.0,
+        "biwenger-as-sofascore": 1.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": 0.0,
+        "futmondo-mixto-as": 0.0,
+        "futmondo-stats": 0.0,
+        "futmondo-mixto": 0.1,
+        "cronistas-marca": 0.0,
+        "marca-mixto": 1.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 0.0,
+        "mister-mixto": 1.0,
+        "mister-mixto-2": 1.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 1.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 2.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 50.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 4.0,
+        "stat-pases-completados": 2.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 16421069,
+      "match_info": {
+        "homeTeam": {
+          "name": "Celta Vigo",
+          "shortName": "Celta",
+          "color": "#6cace4",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Deportivo Alavés",
+          "shortName": "Alavés",
+          "color": "#0232a0",
+          "score": 1
+        },
+        "startTimestamp": 1792332900,
+        "slug": "deportivo-alaves-celta-vigo",
+        "season": "26/27",
+        "jornada": 9
+      },
+      "player_stats": {
+        "player": {
+          "name": "Aitor Mañas",
+          "firstName": "Aitor Mañas",
+          "slug": "aitor-manas",
+          "shortName": "A. Mañas",
+          "position": "F",
+          "jerseyNumber": "20",
+          "height": 185,
+          "userCount": 125,
+          "gender": "M",
+          "sofascoreId": "xzm-zdc",
+          "id": 1639543,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1041724800,
+          "proposedMarketValueRaw": {
+            "value": 570000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أيتور ماناس",
+              "ru": "Аитор Маньяс"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. ماناس",
+              "ru": "А. Маньяс"
+            }
+          }
+        },
+        "team": {
+          "name": "Deportivo Alavés",
+          "slug": "deportivo-alaves",
+          "shortName": "Alavés",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 147496,
+          "nameCode": "ALA",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2885,
+          "teamColors": {
+            "primary": "#0232a0",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ديبورتيفو ألافيس",
+              "ru": "Алавес"
+            },
+            "shortNameTranslation": {
+              "ar": "ألافيس",
+              "bn": "আলাভেস",
+              "hi": "अलावेस"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 4,
+          "accuratePass": 2,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 1,
+          "totalOwnHalfPasses": 1,
+          "accurateOppositionHalfPasses": 1,
+          "totalOppositionHalfPasses": 3,
+          "totalClearance": 1,
+          "minutesPlayed": 8,
+          "touches": 6,
+          "rating": 6.5,
+          "possessionLostCtrl": 2,
+          "expectedAssists": 8.372e-05,
+          "topSpeed": 25.7,
+          "kilometersCovered": 1.04,
+          "numberOfSprints": 2,
+          "totalBallCarriesDistance": 7.9548556869374,
+          "ballCarriesCount": 1,
+          "totalProgression": 3.8874791426789,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 6.5,
+            "alternative": 6.6
+          },
+          "totalShots": 0,
+          "passValueNormalized": -0.06,
+          "dribbleValueNormalized": 0.06,
+          "defensiveValueNormalized": 0.13,
+          "metersCoveredRunningKm": 0.23,
+          "metersCoveredHighSpeedRunningKm": 0.06,
+          "metersCoveredSprintingKm": 0.01,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
   }
 ]

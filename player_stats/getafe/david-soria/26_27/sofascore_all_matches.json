@@ -127,5 +127,1054 @@
       "position": "G",
       "extra": null
     }
+  },
+  "16416314": {
+    "id": 16416314,
+    "match_info": {
+      "homeTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 0
+      },
+      "startTimestamp": 1788197400,
+      "slug": "getafe-osasuna",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "David Soria",
+        "firstName": "David",
+        "lastName": "Soria",
+        "slug": "david-soria",
+        "shortName": "D. Soria",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 192,
+        "userCount": 1089,
+        "gender": "M",
+        "sofascoreId": "r6zitm",
+        "id": 604258,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 733881600,
+        "proposedMarketValueRaw": {
+          "value": 2700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديفيد سوريا",
+            "bn": "ডেভিড সোরিয়া",
+            "hi": "डेविड सोरिया",
+            "ru": "Давид Сория"
+          },
+          "shortNameTranslation": {
+            "ar": "د. سوريا",
+            "bn": "ডি. সোরিয়া",
+            "hi": "डी. सोरिया",
+            "ru": "Д. Сория"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 214393,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 32,
+        "accuratePass": 17,
+        "totalLongBalls": 27,
+        "accurateLongBalls": 12,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 11,
+        "totalOwnHalfPasses": 15,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 17,
+        "totalClearance": 2,
+        "ballRecovery": 14,
+        "savedShotsFromInsideTheBox": 1,
+        "penaltyFaced": 1,
+        "saves": 1,
+        "punches": 1,
+        "totalKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 39,
+        "rating": 7.1,
+        "possessionLostCtrl": 15,
+        "expectedAssists": 0.00993231,
+        "totalBallCarriesDistance": 23.79586477139,
+        "ballCarriesCount": 4,
+        "totalProgression": 18.567554613571,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.2309,
+        "ratingVersions": {
+          "original": 7.1,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "goalsPrevented": 0.0075000000000001,
+        "passValueNormalized": 0.24,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": -0.04,
+        "goalkeeperValueNormalized": 0.26,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "16416303": {
+    "id": 16416303,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1789905600,
+      "slug": "getafe-malaga-cf",
+      "season": "26/27",
+      "jornada": 7
+    },
+    "player_stats": {
+      "player": {
+        "name": "David Soria",
+        "firstName": "David",
+        "lastName": "Soria",
+        "slug": "david-soria",
+        "shortName": "D. Soria",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 192,
+        "userCount": 1106,
+        "gender": "M",
+        "sofascoreId": "r6z-itm",
+        "id": 604258,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 733881600,
+        "proposedMarketValueRaw": {
+          "value": 2700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديفيد سوريا",
+            "bn": "ডেভিড সোরিয়া",
+            "hi": "डेविड सोरिया",
+            "ru": "Давид Сория"
+          },
+          "shortNameTranslation": {
+            "ar": "د. سوريا",
+            "bn": "ডি. সোরিয়া",
+            "hi": "डी. सोरिया",
+            "ru": "Д. Сория"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 180213,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 24,
+        "accuratePass": 12,
+        "totalLongBalls": 21,
+        "accurateLongBalls": 9,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 6,
+        "totalOwnHalfPasses": 6,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 18,
+        "ballRecovery": 8,
+        "goodHighClaim": 1,
+        "savedShotsFromInsideTheBox": 2,
+        "saves": 4,
+        "totalKeeperSweeper": 1,
+        "accurateKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 32,
+        "rating": 7.4,
+        "possessionLostCtrl": 12,
+        "expectedAssists": 0.0030228,
+        "totalBallCarriesDistance": 3.3679312641442,
+        "ballCarriesCount": 1,
+        "totalProgression": 1.4503535392004,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.4976,
+        "ratingVersions": {
+          "original": 7.4,
+          "alternative": 8
+        },
+        "totalShots": 0,
+        "goalsPrevented": 0.2811,
+        "passValueNormalized": 0.09,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": 0.23,
+        "goalkeeperValueNormalized": 0.42,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "16421060": {
+    "id": 16421060,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 0
+      },
+      "startTimestamp": 1791649800,
+      "slug": "getafe-fc-barcelona",
+      "season": "26/27",
+      "jornada": 8
+    },
+    "player_stats": {
+      "player": {
+        "name": "David Soria",
+        "firstName": "David",
+        "lastName": "Soria",
+        "slug": "david-soria",
+        "shortName": "D. Soria",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 192,
+        "userCount": 1106,
+        "gender": "M",
+        "sofascoreId": "r6z-itm",
+        "id": 604258,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 733881600,
+        "proposedMarketValueRaw": {
+          "value": 2700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديفيد سوريا",
+            "bn": "ডেভিড সোরিয়া",
+            "hi": "डेविड सोरिया",
+            "ru": "Давид Сория"
+          },
+          "shortNameTranslation": {
+            "ar": "د. سوريا",
+            "bn": "ডি. সোরিয়া",
+            "hi": "डी. सोरिया",
+            "ru": "Д. Сория"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 180213,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 34,
+        "accuratePass": 13,
+        "totalLongBalls": 32,
+        "accurateLongBalls": 11,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 5,
+        "accurateOppositionHalfPasses": 10,
+        "totalOppositionHalfPasses": 29,
+        "aerialWon": 1,
+        "duelWon": 2,
+        "totalClearance": 3,
+        "ballRecovery": 18,
+        "wasFouled": 1,
+        "goodHighClaim": 1,
+        "savedShotsFromInsideTheBox": 3,
+        "saves": 5,
+        "punches": 1,
+        "totalKeeperSweeper": 1,
+        "accurateKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 47,
+        "rating": 5.9,
+        "possessionLostCtrl": 22,
+        "expectedAssists": 0.00158957,
+        "keeperSaveValue": 0.2556,
+        "ratingVersions": {
+          "original": 5.9,
+          "alternative": 7
+        },
+        "totalShots": 0,
+        "goalsPrevented": -1.3014,
+        "passValueNormalized": -0.02,
+        "defensiveValueNormalized": -0.09,
+        "goalkeeperValueNormalized": -0.87,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "16416300": {
+    "id": 16416300,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "Racing Club",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1787506200,
+      "slug": "getafe-real-racing-club",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "David Soria",
+        "firstName": "David",
+        "lastName": "Soria",
+        "slug": "david-soria",
+        "shortName": "D. Soria",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 192,
+        "userCount": 1106,
+        "gender": "M",
+        "sofascoreId": "r6z-itm",
+        "id": 604258,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 733881600,
+        "proposedMarketValueRaw": {
+          "value": 2700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديفيد سوريا",
+            "bn": "ডেভিড সোরিয়া",
+            "hi": "डेविड सोरिया",
+            "ru": "Давид Сория"
+          },
+          "shortNameTranslation": {
+            "ar": "د. سوريا",
+            "bn": "ডি. সোরিয়া",
+            "hi": "डी. सोरिया",
+            "ru": "Д. Сория"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 179081,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 36,
+        "accuratePass": 17,
+        "totalLongBalls": 33,
+        "accurateLongBalls": 14,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 7,
+        "totalOwnHalfPasses": 8,
+        "accurateOppositionHalfPasses": 10,
+        "totalOppositionHalfPasses": 28,
+        "duelWon": 2,
+        "ballRecovery": 6,
+        "wasFouled": 2,
+        "savedShotsFromInsideTheBox": 3,
+        "penaltySave": 1,
+        "penaltyFaced": 1,
+        "saves": 3,
+        "minutesPlayed": 90,
+        "touches": 42,
+        "rating": 8.1,
+        "possessionLostCtrl": 19,
+        "expectedAssists": 0.00205202,
+        "totalBallCarriesDistance": 18.224814912141,
+        "ballCarriesCount": 2,
+        "totalProgression": 7.7323091565005,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.8149,
+        "ratingVersions": {
+          "original": 8.1,
+          "alternative": 8.2
+        },
+        "totalShots": 0,
+        "goalsPrevented": 1.2046,
+        "passValueNormalized": 0.11,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": 0.14,
+        "goalkeeperValueNormalized": 0.6,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "16416348": {
+    "id": 16416348,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "startTimestamp": 1788800400,
+      "slug": "getafe-celta-vigo",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "David Soria",
+        "firstName": "David",
+        "lastName": "Soria",
+        "slug": "david-soria",
+        "shortName": "D. Soria",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 192,
+        "userCount": 1123,
+        "gender": "M",
+        "sofascoreId": "r6z-itm",
+        "id": 604258,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 733881600,
+        "proposedMarketValueRaw": {
+          "value": 2700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديفيد سوريا",
+            "bn": "ডেভিড সোরিয়া",
+            "hi": "डेविड सोरिया",
+            "ru": "Давид Сория"
+          },
+          "shortNameTranslation": {
+            "ar": "د. سوريا",
+            "bn": "ডি. সোরিয়া",
+            "hi": "डी. सोरिया",
+            "ru": "Д. Сория"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 181131,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 42,
+        "accuratePass": 19,
+        "totalLongBalls": 37,
+        "accurateLongBalls": 14,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 7,
+        "totalOwnHalfPasses": 7,
+        "accurateOppositionHalfPasses": 12,
+        "totalOppositionHalfPasses": 35,
+        "totalClearance": 1,
+        "ballRecovery": 8,
+        "goodHighClaim": 1,
+        "savedShotsFromInsideTheBox": 1,
+        "saves": 2,
+        "punches": 1,
+        "minutesPlayed": 90,
+        "touches": 47,
+        "rating": 7.3,
+        "possessionLostCtrl": 23,
+        "expectedAssists": 0.00780193,
+        "totalBallCarriesDistance": 50.704470526763,
+        "ballCarriesCount": 7,
+        "totalProgression": 34.272297567143,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.7742,
+        "ratingVersions": {
+          "original": 7.3,
+          "alternative": 7.2
+        },
+        "totalShots": 0,
+        "goalsPrevented": 0.2135,
+        "passValueNormalized": 0.09,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": -0.06,
+        "goalkeeperValueNormalized": 0.47,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "16416326": {
+    "id": 16416326,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "startTimestamp": 1789317000,
+      "slug": "getafe-deportivo-de-la-coruna",
+      "season": "26/27",
+      "jornada": 5
+    },
+    "player_stats": {
+      "player": {
+        "name": "David Soria",
+        "firstName": "David",
+        "lastName": "Soria",
+        "slug": "david-soria",
+        "shortName": "D. Soria",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 192,
+        "userCount": 1123,
+        "gender": "M",
+        "sofascoreId": "r6z-itm",
+        "id": 604258,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 733881600,
+        "proposedMarketValueRaw": {
+          "value": 2700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديفيد سوريا",
+            "bn": "ডেভিড সোরিয়া",
+            "hi": "डेविड सोरिया",
+            "ru": "Давид Сория"
+          },
+          "shortNameTranslation": {
+            "ar": "د. سوريا",
+            "bn": "ডি. সোরিয়া",
+            "hi": "डी. सोरिया",
+            "ru": "Д. Сория"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 181131,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 27,
+        "accuratePass": 14,
+        "totalLongBalls": 26,
+        "accurateLongBalls": 13,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 12,
+        "totalOppositionHalfPasses": 25,
+        "totalClearance": 2,
+        "ballRecovery": 8,
+        "savedShotsFromInsideTheBox": 2,
+        "saves": 2,
+        "totalKeeperSweeper": 2,
+        "accurateKeeperSweeper": 2,
+        "minutesPlayed": 90,
+        "touches": 35,
+        "rating": 6.9,
+        "possessionLostCtrl": 13,
+        "expectedAssists": 0.00604896,
+        "totalBallCarriesDistance": 19.922795968417,
+        "ballCarriesCount": 4,
+        "totalProgression": 16.42202658339,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.2856,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 7.2
+        },
+        "totalShots": 0,
+        "goalsPrevented": -0.3327,
+        "passValueNormalized": 0.11,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": -0.04,
+        "goalkeeperValueNormalized": 0.1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "16416336": {
+    "id": 16416336,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 0
+      },
+      "startTimestamp": 1789664400,
+      "slug": "getafe-real-betis",
+      "season": "26/27",
+      "jornada": 6
+    },
+    "player_stats": {
+      "player": {
+        "name": "David Soria",
+        "firstName": "David",
+        "lastName": "Soria",
+        "slug": "david-soria",
+        "shortName": "D. Soria",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 192,
+        "userCount": 1117,
+        "gender": "M",
+        "sofascoreId": "r6z-itm",
+        "id": 604258,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 733881600,
+        "proposedMarketValueRaw": {
+          "value": 2700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديفيد سوريا",
+            "bn": "ডেভিড সোরিয়া",
+            "hi": "डेविड सोरिया",
+            "ru": "Давид Сория"
+          },
+          "shortNameTranslation": {
+            "ar": "د. سوريا",
+            "bn": "ডি. সোরিয়া",
+            "hi": "डी. सोरिया",
+            "ru": "Д. Сория"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 180635,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 24,
+        "accuratePass": 12,
+        "totalLongBalls": 22,
+        "accurateLongBalls": 10,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 20,
+        "totalClearance": 2,
+        "ballRecovery": 8,
+        "savedShotsFromInsideTheBox": 3,
+        "saves": 6,
+        "punches": 1,
+        "minutesPlayed": 90,
+        "touches": 32,
+        "rating": 8.5,
+        "possessionLostCtrl": 12,
+        "expectedAssists": 0.00330409,
+        "totalBallCarriesDistance": 17.471392114277,
+        "ballCarriesCount": 2,
+        "totalProgression": 15.494271551104,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.9476,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 8.5,
+          "alternative": 7.8
+        },
+        "totalShots": 0,
+        "goalsPrevented": 1.0228,
+        "passValueNormalized": 0.09,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": 0.18,
+        "goalkeeperValueNormalized": 0.68,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  },
+  "16421072": {
+    "id": 16421072,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1792436400,
+      "slug": "getafe-rayo-vallecano",
+      "season": "26/27",
+      "jornada": 9
+    },
+    "player_stats": {
+      "player": {
+        "name": "David Soria",
+        "firstName": "David",
+        "lastName": "Soria",
+        "slug": "david-soria",
+        "shortName": "D. Soria",
+        "position": "G",
+        "jerseyNumber": "13",
+        "height": 192,
+        "userCount": 1117,
+        "gender": "M",
+        "sofascoreId": "r6z-itm",
+        "id": 604258,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 733881600,
+        "proposedMarketValueRaw": {
+          "value": 2700000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديفيد سوريا",
+            "bn": "ডেভিড সোরিয়া",
+            "hi": "डेविड सोरिया",
+            "ru": "Давид Сория"
+          },
+          "shortNameTranslation": {
+            "ar": "د. سوريا",
+            "bn": "ডি. সোরিয়া",
+            "hi": "डी. सोरिया",
+            "ru": "Д. Сория"
+          }
+        }
+      },
+      "team": {
+        "name": "Getafe",
+        "slug": "getafe",
+        "shortName": "Getafe",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 180635,
+        "nameCode": "GET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2859,
+        "teamColors": {
+          "primary": "#00369e",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خيتافي",
+            "bn": "গেটাফে",
+            "hi": "गेटाफे",
+            "ru": "Хетафе"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 28,
+        "accuratePass": 14,
+        "totalLongBalls": 28,
+        "accurateLongBalls": 14,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 1,
+        "totalOwnHalfPasses": 1,
+        "accurateOppositionHalfPasses": 13,
+        "totalOppositionHalfPasses": 27,
+        "ballRecovery": 9,
+        "savedShotsFromInsideTheBox": 2,
+        "saves": 4,
+        "totalKeeperSweeper": 1,
+        "accurateKeeperSweeper": 1,
+        "minutesPlayed": 90,
+        "touches": 35,
+        "rating": 7.5,
+        "possessionLostCtrl": 14,
+        "expectedAssists": 0.00519616,
+        "totalBallCarriesDistance": 5.6393128127459,
+        "ballCarriesCount": 1,
+        "totalProgression": 5.4717351367102,
+        "progressiveBallCarriesCount": 0,
+        "keeperSaveValue": 0.432,
+        "ratingVersions": {
+          "original": 7.5,
+          "alternative": 7.5
+        },
+        "totalShots": 0,
+        "goalsPrevented": 0.4686,
+        "passValueNormalized": 0.12,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": -0.02,
+        "goalkeeperValueNormalized": 0.38,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
   }
 }

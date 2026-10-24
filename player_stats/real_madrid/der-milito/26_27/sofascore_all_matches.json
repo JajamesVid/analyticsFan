@@ -1,0 +1,130 @@
+{
+  "16421075": {
+    "id": 16421075,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1792350000,
+      "slug": "sevilla-real-madrid",
+      "season": "26/27",
+      "jornada": 9
+    },
+    "player_stats": {
+      "player": {
+        "name": "Éder Militão",
+        "firstName": "Eder",
+        "lastName": "Militao",
+        "slug": "eder-militao",
+        "shortName": "É. Militão",
+        "position": "D",
+        "jerseyNumber": "3",
+        "height": 186,
+        "userCount": 139388,
+        "gender": "M",
+        "sofascoreId": "x3e-33t",
+        "id": 822519,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 885081600,
+        "proposedMarketValueRaw": {
+          "value": 18900000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيدير ميليتاو",
+            "bn": "এডার মিলিটাও",
+            "hi": "एडर मिलिटाओ",
+            "ru": "Эдер Милитао"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. ميليتاو",
+            "bn": "এ. মিলিটাও",
+            "hi": "ई. मिलिटाओ",
+            "ru": "Э. Милитао"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Madrid",
+        "slug": "real-madrid",
+        "shortName": "Real Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 7604217,
+        "nameCode": "RMA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2829,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#004996",
+          "text": "#004996"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال مدريد",
+            "bn": "রিয়াল মাদ্রিদ",
+            "hi": "रियल मैड्रिड",
+            "ru": "Реал Мадрид"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 10,
+        "accuratePass": 10,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 6,
+        "totalOwnHalfPasses": 6,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 4,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "interceptionWon": 1,
+        "minutesPlayed": 10,
+        "touches": 14,
+        "rating": 6.7,
+        "expectedAssists": 0.00337241,
+        "topSpeed": 28.9,
+        "kilometersCovered": 1.18,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 13.675275225505,
+        "ballCarriesCount": 2,
+        "totalProgression": 7.9466903027663,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.03,
+        "dribbleValueNormalized": 0.02,
+        "defensiveValueNormalized": 0,
+        "metersCoveredRunningKm": 0.14,
+        "metersCoveredHighSpeedRunningKm": 0.09,
+        "metersCoveredSprintingKm": 0.05,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

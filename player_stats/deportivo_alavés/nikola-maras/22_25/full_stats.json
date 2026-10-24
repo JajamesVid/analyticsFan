@@ -1,0 +1,126 @@
+[
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Alavés",
+        "abreviatura": "ALA",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/28.png"
+      },
+      "visitante": {
+        "nombre": "Levante",
+        "abreviatura": "LEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/10.png"
+      }
+    },
+    "resultado": "2-1",
+    "fecha": "2025-08-16",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/20072-alaves-levante",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 14082849,
+      "match_info": {
+        "homeTeam": {
+          "name": "Deportivo Alavés",
+          "shortName": "Alavés",
+          "color": "#0232a0",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Levante UD",
+          "shortName": "Levante",
+          "color": "#0e3b68",
+          "score": 1
+        },
+        "startTimestamp": 1755372600,
+        "slug": "deportivo-alaves-levante-ud",
+        "season": "25/26",
+        "jornada": 1
+      },
+      "player_stats": {
+        "player": {
+          "name": "Nikola Maraš",
+          "slug": "nikola-maras",
+          "shortName": "N. Maraš",
+          "position": "D",
+          "jerseyNumber": "15",
+          "height": 189,
+          "userCount": 104,
+          "gender": "M",
+          "sofascoreId": "qa8-cap",
+          "id": 101156,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 819331200,
+          "proposedMarketValueRaw": {
+            "value": 620000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نيكولا ماراش",
+              "bn": "নিকোলা মারাশ",
+              "hi": "निकोला मारस",
+              "ru": "Никола Мараш"
+            },
+            "shortNameTranslation": {
+              "ar": "ن. ماراش",
+              "bn": "এন. মারাশ",
+              "hi": "एन. मारस",
+              "ru": "Н. Мараш"
+            }
+          }
+        },
+        "team": {
+          "name": "Deportivo Alavés",
+          "slug": "deportivo-alaves",
+          "shortName": "Alavés",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 147234,
+          "nameCode": "ALA",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2885,
+          "teamColors": {
+            "primary": "#0232a0",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ديبورتيفو ألافيس",
+              "ru": "Алавес"
+            },
+            "shortNameTranslation": {
+              "ar": "ألافيس",
+              "bn": "আলাভেস",
+              "hi": "अलावेस"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  }
+]

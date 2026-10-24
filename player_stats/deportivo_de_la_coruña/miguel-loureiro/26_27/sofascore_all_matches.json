@@ -92,5 +92,126 @@
       "position": "D",
       "extra": null
     }
+  },
+  "16416291": {
+    "id": 16416291,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1788111000,
+      "slug": "deportivo-de-la-coruna-valencia",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Miguel Loureiro",
+        "firstName": "Miguel",
+        "lastName": "Loureiro",
+        "slug": "miguel-loureiro",
+        "shortName": "M. Loureiro",
+        "position": "D",
+        "jerseyNumber": "15",
+        "height": 180,
+        "userCount": 143,
+        "gender": "M",
+        "sofascoreId": "ihsb8e",
+        "id": 811611,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 848534400,
+        "proposedMarketValueRaw": {
+          "value": 1200000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميغيل لوريرو",
+            "ru": "Мигель Лоурейру"
+          },
+          "shortNameTranslation": {
+            "ar": "م. لوريرو",
+            "ru": "М. Лоурейру"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo de A Coruña",
+        "slug": "deportivo-la-coruna",
+        "shortName": "Deportivo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 69223,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2832,
+        "teamColors": {
+          "primary": "#003399",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депортиво Ла-Корунья"
+          },
+          "shortNameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депорти́во"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 3,
+        "totalLongBalls": 2,
+        "goalAssist": 0,
+        "totalOwnHalfPasses": 2,
+        "totalOppositionHalfPasses": 1,
+        "duelLost": 1,
+        "duelWon": 1,
+        "totalClearance": 2,
+        "totalTackle": 1,
+        "fouls": 1,
+        "minutesPlayed": 11,
+        "touches": 8,
+        "rating": 6.7,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 9.5e-07,
+        "topSpeed": 26.38,
+        "kilometersCovered": 1.09,
+        "numberOfSprints": 0,
+        "ratingVersions": {
+          "original": 6.7,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.01,
+        "defensiveValueNormalized": 0.19,
+        "metersCoveredRunningKm": 0.08,
+        "metersCoveredHighSpeedRunningKm": 0.04,
+        "metersCoveredSprintingKm": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
   }
 }

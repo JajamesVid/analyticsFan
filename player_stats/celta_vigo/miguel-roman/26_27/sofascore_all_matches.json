@@ -1,0 +1,972 @@
+{
+  "16416340": {
+    "id": 16416340,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 0
+      },
+      "startTimestamp": 1788462000,
+      "slug": "real-sociedad-celta-vigo",
+      "season": "26/27",
+      "jornada": 6
+    },
+    "player_stats": {
+      "player": {
+        "name": "Miguel Román",
+        "firstName": "Miguel Román",
+        "slug": "miguel-roman",
+        "shortName": "M. Román",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 178,
+        "userCount": 507,
+        "gender": "M",
+        "sofascoreId": "p9rqgt",
+        "id": 1398526,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1040860800,
+        "proposedMarketValueRaw": {
+          "value": 14400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميغيل رومان",
+            "ru": "Мигель Роман"
+          },
+          "shortNameTranslation": {
+            "ar": "م. رومان",
+            "ru": "М. Роман"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 278526,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 38,
+        "accuratePass": 33,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 8,
+        "totalOwnHalfPasses": 11,
+        "accurateOppositionHalfPasses": 25,
+        "totalOppositionHalfPasses": 27,
+        "totalCross": 3,
+        "aerialLost": 2,
+        "duelLost": 4,
+        "duelWon": 1,
+        "challengeLost": 1,
+        "dispossessed": 1,
+        "totalClearance": 2,
+        "outfielderBlock": 1,
+        "ballRecovery": 3,
+        "wasFouled": 1,
+        "minutesPlayed": 90,
+        "touches": 47,
+        "rating": 6.8,
+        "possessionLostCtrl": 10,
+        "expectedAssists": 0.0426649,
+        "topSpeed": 30.07,
+        "kilometersCovered": 10.71,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 64.511939283667,
+        "ballCarriesCount": 13,
+        "totalProgression": 17.249263331778,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.14,
+        "dribbleValueNormalized": 0.01,
+        "defensiveValueNormalized": 0.19,
+        "metersCoveredRunningKm": 1.33,
+        "metersCoveredHighSpeedRunningKm": 0.39,
+        "metersCoveredSprintingKm": 0.11,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416344": {
+    "id": 16416344,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Real Racing Club",
+        "shortName": "Racing Club",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1789835400,
+      "slug": "real-racing-club-celta-vigo",
+      "season": "26/27",
+      "jornada": 7
+    },
+    "player_stats": {
+      "player": {
+        "name": "Miguel Román",
+        "firstName": "Miguel Román",
+        "slug": "miguel-roman",
+        "shortName": "M. Román",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 178,
+        "userCount": 599,
+        "gender": "M",
+        "sofascoreId": "p9r-qgt",
+        "id": 1398526,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1040860800,
+        "proposedMarketValueRaw": {
+          "value": 14400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميغيل رومان",
+            "ru": "Мигель Роман"
+          },
+          "shortNameTranslation": {
+            "ar": "م. رومان",
+            "ru": "М. Роман"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 230374,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 56,
+        "accuratePass": 49,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 4,
+        "goalAssist": 1,
+        "accurateOwnHalfPasses": 25,
+        "totalOwnHalfPasses": 25,
+        "accurateOppositionHalfPasses": 24,
+        "totalOppositionHalfPasses": 31,
+        "duelLost": 1,
+        "duelWon": 5,
+        "challengeLost": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 1,
+        "goals": 1,
+        "totalClearance": 1,
+        "ballRecovery": 7,
+        "totalTackle": 4,
+        "wonTackle": 1,
+        "minutesPlayed": 84,
+        "touches": 67,
+        "rating": 8.9,
+        "possessionLostCtrl": 9,
+        "expectedGoals": 0.0663,
+        "expectedGoalsOnTarget": 0.2597,
+        "expectedAssists": 0.0342087,
+        "topSpeed": 32.03,
+        "kilometersCovered": 9.84,
+        "numberOfSprints": 7,
+        "totalBallCarriesDistance": 178.60200867123,
+        "ballCarriesCount": 19,
+        "totalProgression": 118.39951506952,
+        "bestBallCarryProgression": 33.223487875605,
+        "totalProgressiveBallCarriesDistance": 55.684437399886,
+        "progressiveBallCarriesCount": 2,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 8.9,
+          "alternative": 8.4
+        },
+        "totalShots": 2,
+        "shotValueNormalized": 0.48,
+        "passValueNormalized": 0.4,
+        "dribbleValueNormalized": 0.37,
+        "defensiveValueNormalized": 0.17,
+        "metersCoveredRunningKm": 1.36,
+        "metersCoveredHighSpeedRunningKm": 0.33,
+        "metersCoveredSprintingKm": 0.13,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16815992": {
+    "id": 16815992,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "startTimestamp": 1787855400,
+      "slug": "celta-vigo-osasuna",
+      "season": "26/27",
+      "jornada": 1
+    },
+    "player_stats": {
+      "player": {
+        "name": "Miguel Román",
+        "firstName": "Miguel Román",
+        "slug": "miguel-roman",
+        "shortName": "M. Román",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 178,
+        "userCount": 602,
+        "gender": "M",
+        "sofascoreId": "p9r-qgt",
+        "id": 1398526,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1040860800,
+        "proposedMarketValueRaw": {
+          "value": 14400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميغيل رومان",
+            "ru": "Мигель Роман"
+          },
+          "shortNameTranslation": {
+            "ar": "م. رومان",
+            "ru": "М. Роман"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 228893,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 76,
+        "accuratePass": 70,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 3,
+        "goalAssist": 1,
+        "accurateOwnHalfPasses": 38,
+        "totalOwnHalfPasses": 41,
+        "accurateOppositionHalfPasses": 32,
+        "totalOppositionHalfPasses": 35,
+        "totalCross": 4,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 2,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 7,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 87,
+        "rating": 6.8,
+        "possessionLostCtrl": 13,
+        "expectedAssists": 0.0334114,
+        "topSpeed": 27.38,
+        "kilometersCovered": 12.35,
+        "numberOfSprints": 8,
+        "totalBallCarriesDistance": 114.0509501911,
+        "ballCarriesCount": 16,
+        "totalProgression": 43.325157305255,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.27,
+        "dribbleValueNormalized": 0.06,
+        "defensiveValueNormalized": -0.06,
+        "metersCoveredRunningKm": 2.17,
+        "metersCoveredHighSpeedRunningKm": 0.52,
+        "metersCoveredSprintingKm": 0.05,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416298": {
+    "id": 16416298,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 0
+      },
+      "startTimestamp": 1787419800,
+      "slug": "valencia-celta-vigo",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Miguel Román",
+        "firstName": "Miguel Román",
+        "slug": "miguel-roman",
+        "shortName": "M. Román",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 178,
+        "userCount": 602,
+        "gender": "M",
+        "sofascoreId": "p9r-qgt",
+        "id": 1398526,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1040860800,
+        "proposedMarketValueRaw": {
+          "value": 14400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميغيل رومان",
+            "ru": "Мигель Роман"
+          },
+          "shortNameTranslation": {
+            "ar": "م. رومان",
+            "ru": "М. Роман"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 228893,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 85,
+        "accuratePass": 77,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 23,
+        "totalOwnHalfPasses": 27,
+        "accurateOppositionHalfPasses": 54,
+        "totalOppositionHalfPasses": 58,
+        "totalCross": 3,
+        "accurateCross": 1,
+        "aerialLost": 2,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 1,
+        "totalClearance": 1,
+        "ballRecovery": 6,
+        "unsuccessfulTouch": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 94,
+        "rating": 7.4,
+        "possessionLostCtrl": 11,
+        "expectedAssists": 0.344308,
+        "topSpeed": 29.26,
+        "kilometersCovered": 11.68,
+        "numberOfSprints": 10,
+        "totalBallCarriesDistance": 159.95221546622,
+        "ballCarriesCount": 27,
+        "totalProgression": 59.514746683271,
+        "bestBallCarryProgression": 16.966288738959,
+        "totalProgressiveBallCarriesDistance": 30.892087297895,
+        "progressiveBallCarriesCount": 2,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 7.4,
+          "alternative": 7.3
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.41,
+        "dribbleValueNormalized": 0.27,
+        "defensiveValueNormalized": 0.14,
+        "metersCoveredRunningKm": 1.52,
+        "metersCoveredHighSpeedRunningKm": 0.37,
+        "metersCoveredSprintingKm": 0.12,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416308": {
+    "id": 16416308,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1788118200,
+      "slug": "athletic-club-celta-vigo",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Miguel Román",
+        "firstName": "Miguel Román",
+        "slug": "miguel-roman",
+        "shortName": "M. Román",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 178,
+        "userCount": 602,
+        "gender": "M",
+        "sofascoreId": "p9r-qgt",
+        "id": 1398526,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1040860800,
+        "proposedMarketValueRaw": {
+          "value": 14400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميغيل رومان",
+            "ru": "Мигель Роман"
+          },
+          "shortNameTranslation": {
+            "ar": "م. رومان",
+            "ru": "М. Роман"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 230393,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 42,
+        "accuratePass": 37,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 12,
+        "totalOwnHalfPasses": 13,
+        "accurateOppositionHalfPasses": 25,
+        "totalOppositionHalfPasses": 29,
+        "totalCross": 3,
+        "accurateCross": 2,
+        "duelLost": 1,
+        "duelWon": 3,
+        "challengeLost": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "bigChanceCreated": 1,
+        "totalTackle": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 45,
+        "touches": 50,
+        "rating": 7.2,
+        "possessionLostCtrl": 7,
+        "expectedAssists": 0.138773,
+        "topSpeed": 30.14,
+        "kilometersCovered": 6.1,
+        "numberOfSprints": 6,
+        "totalBallCarriesDistance": 124.41634930489,
+        "ballCarriesCount": 14,
+        "totalProgression": 60.138534685508,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 7.2,
+          "alternative": 7.2
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.28,
+        "dribbleValueNormalized": 0.08,
+        "defensiveValueNormalized": -0.01,
+        "metersCoveredRunningKm": 1.08,
+        "metersCoveredHighSpeedRunningKm": 0.29,
+        "metersCoveredSprintingKm": 0.12,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416348": {
+    "id": 16416348,
+    "match_info": {
+      "homeTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "startTimestamp": 1788800400,
+      "slug": "getafe-celta-vigo",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "Miguel Román",
+        "firstName": "Miguel Román",
+        "slug": "miguel-roman",
+        "shortName": "M. Román",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 178,
+        "userCount": 602,
+        "gender": "M",
+        "sofascoreId": "p9r-qgt",
+        "id": 1398526,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1040860800,
+        "proposedMarketValueRaw": {
+          "value": 14400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميغيل رومان",
+            "ru": "Мигель Роман"
+          },
+          "shortNameTranslation": {
+            "ar": "م. رومان",
+            "ru": "М. Роман"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 230092,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 57,
+        "accuratePass": 46,
+        "totalLongBalls": 5,
+        "accurateLongBalls": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 18,
+        "totalOwnHalfPasses": 19,
+        "accurateOppositionHalfPasses": 28,
+        "totalOppositionHalfPasses": 38,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 1,
+        "duelWon": 4,
+        "totalContest": 1,
+        "wonContest": 1,
+        "blockedScoringAttempt": 3,
+        "interceptionWon": 1,
+        "ballRecovery": 4,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 90,
+        "touches": 66,
+        "rating": 6.6,
+        "possessionLostCtrl": 11,
+        "expectedGoals": 0.0427,
+        "expectedAssists": 0.0686186,
+        "topSpeed": 29.68,
+        "kilometersCovered": 11.36,
+        "numberOfSprints": 6,
+        "totalBallCarriesDistance": 56.888604350364,
+        "ballCarriesCount": 10,
+        "totalProgression": 20.012321290553,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 7.2
+        },
+        "totalShots": 3,
+        "shotValueNormalized": -0.18,
+        "passValueNormalized": -0.23,
+        "dribbleValueNormalized": 0.05,
+        "defensiveValueNormalized": -0.05,
+        "metersCoveredRunningKm": 1.61,
+        "metersCoveredHighSpeedRunningKm": 0.36,
+        "metersCoveredSprintingKm": 0.07,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416347": {
+    "id": 16416347,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1789300800,
+      "slug": "malaga-cf-celta-vigo",
+      "season": "26/27",
+      "jornada": 5
+    },
+    "player_stats": {
+      "player": {
+        "name": "Miguel Román",
+        "firstName": "Miguel Román",
+        "slug": "miguel-roman",
+        "shortName": "M. Román",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 178,
+        "userCount": 602,
+        "gender": "M",
+        "sofascoreId": "p9r-qgt",
+        "id": 1398526,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1040860800,
+        "proposedMarketValueRaw": {
+          "value": 14400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميغيل رومان",
+            "ru": "Мигель Роман"
+          },
+          "shortNameTranslation": {
+            "ar": "م. رومان",
+            "ru": "М. Роман"
+          }
+        }
+      },
+      "team": {
+        "name": "Celta Vigo",
+        "slug": "celta-vigo",
+        "shortName": "Celta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 230092,
+        "nameCode": "CEL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2821,
+        "teamColors": {
+          "primary": "#6cace4",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيلتا فيغو",
+            "bn": "সেলটা ভিগো",
+            "ru": "Сельта"
+          },
+          "shortNameTranslation": {
+            "ar": "سيلتا",
+            "hi": "सेल्टा"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 62,
+        "accuratePass": 55,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 16,
+        "totalOwnHalfPasses": 17,
+        "accurateOppositionHalfPasses": 39,
+        "totalOppositionHalfPasses": 45,
+        "totalCross": 1,
+        "aerialWon": 1,
+        "duelLost": 1,
+        "duelWon": 4,
+        "shotOffTarget": 2,
+        "totalClearance": 1,
+        "outfielderBlock": 1,
+        "ballRecovery": 3,
+        "totalTackle": 3,
+        "wonTackle": 3,
+        "unsuccessfulTouch": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 72,
+        "rating": 7.5,
+        "possessionLostCtrl": 9,
+        "expectedGoals": 0.0717,
+        "expectedAssists": 0.0986105,
+        "topSpeed": 28.12,
+        "kilometersCovered": 10.94,
+        "numberOfSprints": 4,
+        "totalBallCarriesDistance": 166.4996738826,
+        "ballCarriesCount": 16,
+        "totalProgression": 102.0233179636,
+        "bestBallCarryProgression": 27.67888218944,
+        "totalProgressiveBallCarriesDistance": 69.193370626213,
+        "progressiveBallCarriesCount": 4,
+        "ratingVersions": {
+          "original": 7.5,
+          "alternative": 7.4
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.05,
+        "passValueNormalized": 0.37,
+        "dribbleValueNormalized": 0.25,
+        "defensiveValueNormalized": 0.25,
+        "metersCoveredRunningKm": 1.39,
+        "metersCoveredHighSpeedRunningKm": 0.45,
+        "metersCoveredSprintingKm": 0.05,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

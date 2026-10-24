@@ -1,0 +1,95 @@
+{
+  "16421051": {
+    "id": 16421051,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1787770800,
+      "slug": "real-madrid-real-sociedad",
+      "season": "26/27",
+      "jornada": 1
+    },
+    "player_stats": {
+      "player": {
+        "name": "Ibai Aguirre",
+        "firstName": "Ibai",
+        "lastName": "Aguirre",
+        "slug": "ibai-basurko",
+        "shortName": "I. Aguirre",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 185,
+        "userCount": 137,
+        "gender": "M",
+        "sofascoreId": "zbr-nsm",
+        "id": 1545061,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1168387200,
+        "proposedMarketValueRaw": {
+          "value": 915000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيباي باسوركو",
+            "ru": "Ибай Агирре"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. باسوركو",
+            "ru": "И. Агирре"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 334672,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#0077c7",
+          "text": "#0077c7"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال سوسيداد",
+            "bn": "রিয়াল সোসিয়েদাদ",
+            "hi": "रियल सोसियदाद",
+            "ru": "Реал Сосьедад"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

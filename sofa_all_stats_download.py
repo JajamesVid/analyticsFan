@@ -33,7 +33,7 @@ def start_browser():
 
     driver.execute_cdp_cmd("Network.enable", {})
     driver.execute_cdp_cmd("Network.setExtraHTTPHeaders", {
-        "headers": {"X-Requested-With": "463ab6"}
+        "headers": {"X-Requested-With": "aeb3e3"}
     })
 
     # Visitar homepage para pasar el challenge de Cloudflare y obtener cookies

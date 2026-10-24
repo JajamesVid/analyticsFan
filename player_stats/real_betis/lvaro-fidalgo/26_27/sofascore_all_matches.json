@@ -1,0 +1,949 @@
+{
+  "16416315": {
+    "id": 16416315,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1788548400,
+      "slug": "real-madrid-real-betis",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "Álvaro Fidalgo",
+        "firstName": "Alvaro",
+        "lastName": "Fidalgo",
+        "slug": "alvaro-fidalgo",
+        "shortName": "Á. Fidalgo",
+        "position": "M",
+        "jerseyNumber": "15",
+        "height": 174,
+        "userCount": 7526,
+        "gender": "M",
+        "sofascoreId": "zt7rwd",
+        "id": 838629,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 860544000,
+        "proposedMarketValueRaw": {
+          "value": 6500000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ألفارو فيدالغو",
+            "ru": "Альваро Фидальго"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. فيدالغو",
+            "ru": "А. Фидальго"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Betis",
+        "slug": "real-betis",
+        "shortName": "Real Betis",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 643495,
+        "nameCode": "BET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2816,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#006633",
+          "text": "#006633"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال بيتيس",
+            "ru": "Реал Бетис"
+          },
+          "shortNameTranslation": {
+            "ar": "ريال بيتيس",
+            "bn": "বেটিস",
+            "hi": "बेटिस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 14,
+        "accuratePass": 13,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 9,
+        "totalOppositionHalfPasses": 10,
+        "duelLost": 3,
+        "duelWon": 2,
+        "challengeLost": 3,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 30,
+        "touches": 17,
+        "rating": 6.8,
+        "possessionLostCtrl": 2,
+        "expectedAssists": 0.00678966,
+        "totalBallCarriesDistance": 77.673909008852,
+        "ballCarriesCount": 8,
+        "totalProgression": 55.812851975496,
+        "bestBallCarryProgression": 20.583208418448,
+        "totalProgressiveBallCarriesDistance": 20.945005705418,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.11,
+        "dribbleValueNormalized": 0.21,
+        "defensiveValueNormalized": -0.11,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416313": {
+    "id": 16416313,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1789921800,
+      "slug": "deportivo-de-la-coruna-real-betis",
+      "season": "26/27",
+      "jornada": 7
+    },
+    "player_stats": {
+      "player": {
+        "name": "Álvaro Fidalgo",
+        "firstName": "Alvaro",
+        "lastName": "Fidalgo",
+        "slug": "alvaro-fidalgo",
+        "shortName": "Á. Fidalgo",
+        "position": "M",
+        "jerseyNumber": "15",
+        "height": 174,
+        "userCount": 7707,
+        "gender": "M",
+        "sofascoreId": "zt7-rwd",
+        "id": 838629,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 860544000,
+        "proposedMarketValueRaw": {
+          "value": 5400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ألفارو فيدالغو",
+            "ru": "Альваро Фидальго"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. فيدالغو",
+            "ru": "А. Фидальго"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Betis",
+        "slug": "real-betis",
+        "shortName": "Real Betis",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 532179,
+        "nameCode": "BET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2816,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#006633",
+          "text": "#006633"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال بيتيس",
+            "ru": "Реал Бетис"
+          },
+          "shortNameTranslation": {
+            "ar": "ريال بيتيس",
+            "bn": "বেটিস",
+            "hi": "बेटिस"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16421054": {
+    "id": 16421054,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Osasuna",
+        "shortName": "Osasuna",
+        "color": "#cc0000",
+        "score": 2
+      },
+      "startTimestamp": 1791736200,
+      "slug": "osasuna-real-betis",
+      "season": "26/27",
+      "jornada": 8
+    },
+    "player_stats": {
+      "player": {
+        "name": "Álvaro Fidalgo",
+        "firstName": "Alvaro",
+        "lastName": "Fidalgo",
+        "slug": "alvaro-fidalgo",
+        "shortName": "Á. Fidalgo",
+        "position": "M",
+        "jerseyNumber": "15",
+        "height": 174,
+        "userCount": 7707,
+        "gender": "M",
+        "sofascoreId": "zt7-rwd",
+        "id": 838629,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 860544000,
+        "proposedMarketValueRaw": {
+          "value": 5400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ألفارو فيدالغو",
+            "ru": "Альваро Фидальго"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. فيدالغو",
+            "ru": "А. Фидальго"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Betis",
+        "slug": "real-betis",
+        "shortName": "Real Betis",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 532179,
+        "nameCode": "BET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2816,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#006633",
+          "text": "#006633"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال بيتيس",
+            "ru": "Реал Бетис"
+          },
+          "shortNameTranslation": {
+            "ar": "ريال بيتيس",
+            "bn": "বেটিস",
+            "hi": "बेटिस"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16421049": {
+    "id": 16421049,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1787684400,
+      "slug": "valencia-real-betis",
+      "season": "26/27",
+      "jornada": 1
+    },
+    "player_stats": {
+      "player": {
+        "name": "Álvaro Fidalgo",
+        "firstName": "Alvaro",
+        "lastName": "Fidalgo",
+        "slug": "alvaro-fidalgo",
+        "shortName": "Á. Fidalgo",
+        "position": "M",
+        "jerseyNumber": "15",
+        "height": 174,
+        "userCount": 7753,
+        "gender": "M",
+        "sofascoreId": "zt7-rwd",
+        "id": 838629,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 860544000,
+        "proposedMarketValueRaw": {
+          "value": 5400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ألفارو فيدالغو",
+            "ru": "Альваро Фидальго"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. فيدالغو",
+            "ru": "А. Фидальго"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Betis",
+        "slug": "real-betis",
+        "shortName": "Real Betis",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 537783,
+        "nameCode": "BET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2816,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#006633",
+          "text": "#006633"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال بيتيس",
+            "ru": "Реал Бетис"
+          },
+          "shortNameTranslation": {
+            "ar": "ريال بيتيس",
+            "bn": "বেটিস",
+            "hi": "बेटिस"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416309": {
+    "id": 16416309,
+    "match_info": {
+      "homeTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1788015600,
+      "slug": "levante-ud-real-betis",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Álvaro Fidalgo",
+        "firstName": "Alvaro",
+        "lastName": "Fidalgo",
+        "slug": "alvaro-fidalgo",
+        "shortName": "Á. Fidalgo",
+        "position": "M",
+        "jerseyNumber": "15",
+        "height": 174,
+        "userCount": 7753,
+        "gender": "M",
+        "sofascoreId": "zt7-rwd",
+        "id": 838629,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 860544000,
+        "proposedMarketValueRaw": {
+          "value": 5400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ألفارو فيدالغو",
+            "ru": "Альваро Фидальго"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. فيدالغو",
+            "ru": "А. Фидальго"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Betis",
+        "slug": "real-betis",
+        "shortName": "Real Betis",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 539641,
+        "nameCode": "BET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2816,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#006633",
+          "text": "#006633"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال بيتيس",
+            "ru": "Реал Бетис"
+          },
+          "shortNameTranslation": {
+            "ar": "ريال بيتيس",
+            "bn": "বেটিস",
+            "hi": "बेटिस"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416293": {
+    "id": 16416293,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1787338800,
+      "slug": "real-sociedad-real-betis",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Álvaro Fidalgo",
+        "firstName": "Alvaro",
+        "lastName": "Fidalgo",
+        "slug": "alvaro-fidalgo",
+        "shortName": "Á. Fidalgo",
+        "position": "M",
+        "jerseyNumber": "15",
+        "height": 174,
+        "userCount": 7762,
+        "gender": "M",
+        "sofascoreId": "zt7-rwd",
+        "id": 838629,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 860544000,
+        "proposedMarketValueRaw": {
+          "value": 5400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ألفارو فيدالغو",
+            "ru": "Альваро Фидальго"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. فيدالغو",
+            "ru": "А. Фидальго"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Betis",
+        "slug": "real-betis",
+        "shortName": "Real Betis",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 539849,
+        "nameCode": "BET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2816,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#006633",
+          "text": "#006633"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال بيتيس",
+            "ru": "Реал Бетис"
+          },
+          "shortNameTranslation": {
+            "ar": "ريال بيتيس",
+            "bn": "বেটিস",
+            "hi": "बेटिस"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416333": {
+    "id": 16416333,
+    "match_info": {
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1789412400,
+      "slug": "villarreal-real-betis",
+      "season": "26/27",
+      "jornada": 5
+    },
+    "player_stats": {
+      "player": {
+        "name": "Álvaro Fidalgo",
+        "firstName": "Alvaro",
+        "lastName": "Fidalgo",
+        "slug": "alvaro-fidalgo",
+        "shortName": "Á. Fidalgo",
+        "position": "M",
+        "jerseyNumber": "15",
+        "height": 174,
+        "userCount": 7762,
+        "gender": "M",
+        "sofascoreId": "zt7-rwd",
+        "id": 838629,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 860544000,
+        "proposedMarketValueRaw": {
+          "value": 5400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ألفارو فيدالغو",
+            "ru": "Альваро Фидальго"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. فيدالغو",
+            "ru": "А. Фидальго"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Betis",
+        "slug": "real-betis",
+        "shortName": "Real Betis",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 539849,
+        "nameCode": "BET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2816,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#006633",
+          "text": "#006633"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال بيتيس",
+            "ru": "Реал Бетис"
+          },
+          "shortNameTranslation": {
+            "ar": "ريال بيتيس",
+            "bn": "বেটিস",
+            "hi": "बेटिस"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416336": {
+    "id": 16416336,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Getafe",
+        "shortName": "Getafe",
+        "color": "#00369e",
+        "score": 0
+      },
+      "startTimestamp": 1789664400,
+      "slug": "getafe-real-betis",
+      "season": "26/27",
+      "jornada": 6
+    },
+    "player_stats": {
+      "player": {
+        "name": "Álvaro Fidalgo",
+        "firstName": "Alvaro",
+        "lastName": "Fidalgo",
+        "slug": "alvaro-fidalgo",
+        "shortName": "Á. Fidalgo",
+        "position": "M",
+        "jerseyNumber": "15",
+        "height": 174,
+        "userCount": 7821,
+        "gender": "M",
+        "sofascoreId": "zt7-rwd",
+        "id": 838629,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 860544000,
+        "proposedMarketValueRaw": {
+          "value": 5400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ألفارو فيدالغو",
+            "ru": "Альваро Фидальго"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. فيدالغو",
+            "ru": "А. Фидальго"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Betis",
+        "slug": "real-betis",
+        "shortName": "Real Betis",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 548735,
+        "nameCode": "BET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2816,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#006633",
+          "text": "#006633"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال بيتيس",
+            "ru": "Реал Бетис"
+          },
+          "shortNameTranslation": {
+            "ar": "ريال بيتيس",
+            "bn": "বেটিস",
+            "hi": "बेटिस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 3,
+        "accuratePass": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 2,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 1,
+        "totalCross": 1,
+        "minutesPlayed": 1,
+        "touches": 4,
+        "possessionLostCtrl": 1,
+        "expectedAssists": 0.00019572,
+        "topSpeed": 23.88,
+        "kilometersCovered": 0.55,
+        "numberOfSprints": 0,
+        "totalBallCarriesDistance": 51.056808957318,
+        "ballCarriesCount": 4,
+        "totalProgression": 6.6034008201452,
+        "progressiveBallCarriesCount": 0,
+        "totalShots": 0,
+        "metersCoveredRunningKm": 0.16,
+        "metersCoveredHighSpeedRunningKm": 0.04,
+        "metersCoveredSprintingKm": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16421068": {
+    "id": 16421068,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Betis",
+        "shortName": "Real Betis",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 5
+      },
+      "startTimestamp": 1792254600,
+      "slug": "fc-barcelona-real-betis",
+      "season": "26/27",
+      "jornada": 9
+    },
+    "player_stats": {
+      "player": {
+        "name": "Álvaro Fidalgo",
+        "firstName": "Alvaro",
+        "lastName": "Fidalgo",
+        "slug": "alvaro-fidalgo",
+        "shortName": "Á. Fidalgo",
+        "position": "M",
+        "jerseyNumber": "15",
+        "height": 174,
+        "userCount": 7821,
+        "gender": "M",
+        "sofascoreId": "zt7-rwd",
+        "id": 838629,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 860544000,
+        "proposedMarketValueRaw": {
+          "value": 5400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ألفارو فيدالغو",
+            "ru": "Альваро Фидальго"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. فيدالغو",
+            "ru": "А. Фидальго"
+          }
+        }
+      },
+      "team": {
+        "name": "Real Betis",
+        "slug": "real-betis",
+        "shortName": "Real Betis",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 548735,
+        "nameCode": "BET",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2816,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#006633",
+          "text": "#006633"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريال بيتيس",
+            "ru": "Реал Бетис"
+          },
+          "shortNameTranslation": {
+            "ar": "ريال بيتيس",
+            "bn": "বেটিস",
+            "hi": "बेटिस"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 15,
+        "accuratePass": 12,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 6,
+        "totalOwnHalfPasses": 7,
+        "accurateOppositionHalfPasses": 6,
+        "totalOppositionHalfPasses": 8,
+        "duelWon": 3,
+        "totalContest": 1,
+        "wonContest": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 1,
+        "totalTackle": 2,
+        "minutesPlayed": 20,
+        "touches": 19,
+        "rating": 6.8,
+        "possessionLostCtrl": 3,
+        "expectedAssists": 0.00286367,
+        "topSpeed": 29.9,
+        "kilometersCovered": 3.24,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 55.877228564024,
+        "ballCarriesCount": 8,
+        "totalProgression": 16.198241668728,
+        "bestBallCarryProgression": 18.513453995905,
+        "totalProgressiveBallCarriesDistance": 18.514005509343,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.05,
+        "dribbleValueNormalized": 0.06,
+        "defensiveValueNormalized": 0.14,
+        "metersCoveredRunningKm": 0.72,
+        "metersCoveredHighSpeedRunningKm": 0.19,
+        "metersCoveredSprintingKm": 0.06,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

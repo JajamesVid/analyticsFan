@@ -1,0 +1,916 @@
+[
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Atlético",
+        "abreviatura": "ATM",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/2.png"
+      },
+      "visitante": {
+        "nombre": "Málaga",
+        "abreviatura": "MLG",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/11.png"
+      }
+    },
+    "resultado": "2-0",
+    "fecha": "2026-08-19",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22422-atletico-malaga",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 16421055,
+      "match_info": {
+        "homeTeam": {
+          "name": "Atlético Madrid",
+          "shortName": "Atl. Madrid",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Málaga CF",
+          "shortName": "Málaga",
+          "color": "#ffffff",
+          "score": 0
+        },
+        "startTimestamp": 1787166000,
+        "slug": "atletico-madrid-malaga-cf",
+        "season": "26/27",
+        "jornada": 1
+      },
+      "player_stats": {
+        "player": {
+          "name": "Haitam Abaida",
+          "firstName": "",
+          "lastName": "",
+          "slug": "haitam-abaida",
+          "shortName": "H. Abaida",
+          "position": "F",
+          "jerseyNumber": "7",
+          "height": 172,
+          "userCount": 695,
+          "gender": "M",
+          "sofascoreId": "zbp2w8",
+          "id": 1021125,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1022889600,
+          "proposedMarketValueRaw": {
+            "value": 205000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "هيتم عبيدة",
+              "ru": "Хайтам Абайда"
+            },
+            "shortNameTranslation": {
+              "ar": "ه. عبيدة",
+              "ru": "Х. Абайда"
+            }
+          }
+        },
+        "team": {
+          "name": "Málaga CF",
+          "slug": "malaga",
+          "shortName": "Málaga",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 57599,
+          "nameCode": "MCF",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2830,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#3791f2",
+            "text": "#3791f2"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي ملقا",
+              "ru": "Малага"
+            },
+            "shortNameTranslation": {
+              "ar": "ملقا"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Real Madrid",
+        "abreviatura": "RMD",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/15.png"
+      },
+      "visitante": {
+        "nombre": "Málaga",
+        "abreviatura": "MLG",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/11.png"
+      }
+    },
+    "resultado": "4-0",
+    "fecha": "2026-08-30",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22449-real-madrid-malaga",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.7,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "fantasy": 3.0,
+        "comunio": 4.0,
+        "scale1": 0.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": 1.0,
+        "futmondo-mixto-as": 0.0,
+        "futmondo-stats": 1.0,
+        "futmondo-mixto": 1.6,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 1.0,
+        "stat-centros-precisos": 1.0,
+        "stat-pases-area-exito": 1.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 4.0,
+        "stat-tiros-totales": 2.0,
+        "stat-centros-totales": 3.0,
+        "stat-precision-pases": 83.3,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 1.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 6.0,
+        "stat-pases-completados": 5.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 16416312,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Madrid",
+          "shortName": "Real Madrid",
+          "color": "#ffffff",
+          "score": 4
+        },
+        "awayTeam": {
+          "name": "Málaga CF",
+          "shortName": "Málaga",
+          "color": "#ffffff",
+          "score": 0
+        },
+        "startTimestamp": 1788102000,
+        "slug": "malaga-cf-real-madrid",
+        "season": "26/27",
+        "jornada": 3
+      },
+      "player_stats": {
+        "player": {
+          "name": "Haitam Abaida",
+          "firstName": "",
+          "lastName": "",
+          "slug": "haitam-abaida",
+          "shortName": "H. Abaida",
+          "position": "F",
+          "jerseyNumber": "7",
+          "height": 172,
+          "userCount": 1037,
+          "gender": "M",
+          "sofascoreId": "zbp2w8",
+          "id": 1021125,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1022889600,
+          "proposedMarketValueRaw": {
+            "value": 205000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "هيتم عبيدة",
+              "ru": "Хайтам Абайда"
+            },
+            "shortNameTranslation": {
+              "ar": "ه. عبيدة",
+              "ru": "Х. Абайда"
+            }
+          }
+        },
+        "team": {
+          "name": "Málaga CF",
+          "slug": "malaga",
+          "shortName": "Málaga",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 68318,
+          "nameCode": "MCF",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2830,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#3791f2",
+            "text": "#3791f2"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي ملقا",
+              "ru": "Малага"
+            },
+            "shortNameTranslation": {
+              "ar": "ملقا"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 6,
+          "accuratePass": 5,
+          "totalLongBalls": 1,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOppositionHalfPasses": 5,
+          "totalOppositionHalfPasses": 6,
+          "totalCross": 3,
+          "accurateCross": 1,
+          "blockedScoringAttempt": 2,
+          "ballRecovery": 2,
+          "minutesPlayed": 16,
+          "touches": 14,
+          "rating": 6.7,
+          "possessionLostCtrl": 4,
+          "expectedGoals": 0.2007,
+          "expectedAssists": 0.0124177,
+          "topSpeed": 30.63,
+          "kilometersCovered": 1.88,
+          "numberOfSprints": 2,
+          "totalBallCarriesDistance": 111.62949063237,
+          "ballCarriesCount": 4,
+          "totalProgression": 87.190823014201,
+          "bestBallCarryProgression": 44.383642375354,
+          "totalProgressiveBallCarriesDistance": 90.790505916221,
+          "progressiveBallCarriesCount": 3,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 6.7,
+            "alternative": 6.6
+          },
+          "totalShots": 2,
+          "shotValueNormalized": 0,
+          "passValueNormalized": 0.04,
+          "dribbleValueNormalized": 0.14,
+          "defensiveValueNormalized": 0.13,
+          "metersCoveredRunningKm": 0.45,
+          "metersCoveredHighSpeedRunningKm": 0.12,
+          "metersCoveredSprintingKm": 0.06,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Málaga",
+        "abreviatura": "MLG",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/11.png"
+      },
+      "visitante": {
+        "nombre": "Espanyol",
+        "abreviatura": "ESP",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/7.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-10-09",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22497-malaga-espanyol",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 2,
+      "cope": 5.0,
+      "sofascore": 6.4,
+      "relevo": 0.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 1.0,
+        "futbolfantasy-rpg": 0.0,
+        "comunio": 2.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": 0.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 0.0,
+        "futmondo-prensa": 1.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 0.0,
+        "futmondo-mixto": 1.0,
+        "cronistas-marca": 0.0,
+        "marca-mixto": 1.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 0.0,
+        "mister-mixto": 1.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 2.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 1.0,
+        "stat-precision-pases": 100.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 2.0,
+        "stat-pases-completados": 2.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 16421062,
+      "match_info": {
+        "homeTeam": {
+          "name": "Málaga CF",
+          "shortName": "Málaga",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Espanyol",
+          "shortName": "Espanyol",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "startTimestamp": 1791572400,
+        "slug": "malaga-cf-espanyol",
+        "season": "26/27",
+        "jornada": 8
+      },
+      "player_stats": {
+        "player": {
+          "name": "Haitam Abaida",
+          "firstName": "",
+          "lastName": "",
+          "slug": "haitam-abaida",
+          "shortName": "H. Abaida",
+          "position": "F",
+          "jerseyNumber": "7",
+          "height": 172,
+          "userCount": 1111,
+          "gender": "M",
+          "sofascoreId": "zbp-2w8",
+          "id": 1021125,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1022889600,
+          "proposedMarketValueRaw": {
+            "value": 205000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "هيتم عبيدة",
+              "ru": "Хайтам Абайда"
+            },
+            "shortNameTranslation": {
+              "ar": "ه. عبيدة",
+              "ru": "Х. Абайда"
+            }
+          }
+        },
+        "team": {
+          "name": "Málaga CF",
+          "slug": "malaga",
+          "shortName": "Málaga",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 70830,
+          "nameCode": "MCF",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2830,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#3791f2",
+            "text": "#3791f2"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي ملقا",
+              "ru": "Малага"
+            },
+            "shortNameTranslation": {
+              "ar": "ملقا"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 2,
+          "accuratePass": 2,
+          "goalAssist": 0,
+          "accurateOppositionHalfPasses": 2,
+          "totalOppositionHalfPasses": 2,
+          "totalCross": 1,
+          "aerialLost": 1,
+          "duelLost": 2,
+          "totalContest": 1,
+          "minutesPlayed": 8,
+          "touches": 5,
+          "rating": 6.4,
+          "possessionLostCtrl": 2,
+          "expectedAssists": 0.00196932,
+          "topSpeed": 28.3,
+          "kilometersCovered": 1.21,
+          "numberOfSprints": 2,
+          "ratingVersions": {
+            "original": 6.4,
+            "alternative": 6.4
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.06,
+          "dribbleValueNormalized": -0.09,
+          "defensiveValueNormalized": 0.13,
+          "metersCoveredRunningKm": 0.19,
+          "metersCoveredHighSpeedRunningKm": 0.03,
+          "metersCoveredSprintingKm": 0.03,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Málaga",
+        "abreviatura": "MLG",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/11.png"
+      },
+      "visitante": {
+        "nombre": "Deportivo",
+        "abreviatura": "DEP",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/6.png"
+      }
+    },
+    "resultado": "1-1",
+    "fecha": "2026-08-24",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22438-malaga-deportivo",
+    "puntuaciones": {
+      "picas": 2,
+      "marca": 2,
+      "cope": 6.0,
+      "sofascore": 6.7,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 2.0,
+        "comunio": 4.0,
+        "modo-picas": 6.0,
+        "biwenger-sofascore": 3.0,
+        "biwenger-social": 3.0,
+        "biwenger-as-sofascore": 5.0,
+        "biwenger-stats": 1.0,
+        "futmondo-prensa": 6.0,
+        "futmondo-mixto-as": 6.0,
+        "futmondo-stats": 1.0,
+        "futmondo-mixto": 2.8,
+        "cronistas-marca": 6.0,
+        "marca-mixto": 3.0,
+        "marca-sofascore": 3.0,
+        "mister-cronistas-md": 6.0,
+        "mister-mixto": 4.0,
+        "mister-mixto-2": 3.0,
+        "mister-sofascore": 3.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 1.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 1.0,
+        "stat-faltas-recibidas": 2.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 0.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 4.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 3.0,
+        "stat-precision-pases": 66.7,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 1.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 1.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 3.0,
+        "stat-pases-completados": 2.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 16416307,
+      "match_info": {
+        "homeTeam": {
+          "name": "Málaga CF",
+          "shortName": "Málaga",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "Deportivo de A Coruña",
+          "shortName": "Deportivo",
+          "color": "#003399",
+          "score": 1
+        },
+        "startTimestamp": 1787599800,
+        "slug": "deportivo-de-la-coruna-malaga-cf",
+        "season": "26/27",
+        "jornada": 2
+      },
+      "player_stats": {
+        "player": {
+          "name": "Haitam Abaida",
+          "firstName": "",
+          "lastName": "",
+          "slug": "haitam-abaida",
+          "shortName": "H. Abaida",
+          "position": "F",
+          "jerseyNumber": "7",
+          "height": 172,
+          "userCount": 1112,
+          "gender": "M",
+          "sofascoreId": "zbp-2w8",
+          "id": 1021125,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1022889600,
+          "proposedMarketValueRaw": {
+            "value": 205000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "هيتم عبيدة",
+              "ru": "Хайтам Абайда"
+            },
+            "shortNameTranslation": {
+              "ar": "ه. عبيدة",
+              "ru": "Х. Абайда"
+            }
+          }
+        },
+        "team": {
+          "name": "Málaga CF",
+          "slug": "malaga",
+          "shortName": "Málaga",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 70800,
+          "nameCode": "MCF",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2830,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#3791f2",
+            "text": "#3791f2"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي ملقا",
+              "ru": "Малага"
+            },
+            "shortNameTranslation": {
+              "ar": "ملقا"
+            }
+          }
+        },
+        "statistics": {
+          "totalPass": 3,
+          "accuratePass": 2,
+          "goalAssist": 0,
+          "accurateOppositionHalfPasses": 2,
+          "totalOppositionHalfPasses": 3,
+          "totalCross": 3,
+          "duelLost": 1,
+          "duelWon": 3,
+          "totalContest": 1,
+          "wonContest": 1,
+          "shotOffTarget": 1,
+          "wasFouled": 2,
+          "fouls": 1,
+          "minutesPlayed": 17,
+          "touches": 10,
+          "rating": 6.7,
+          "possessionLostCtrl": 4,
+          "expectedGoals": 0.0338,
+          "expectedAssists": 0.00068613,
+          "topSpeed": 30.78,
+          "kilometersCovered": 1.97,
+          "numberOfSprints": 2,
+          "totalBallCarriesDistance": 68.636660999494,
+          "ballCarriesCount": 4,
+          "totalProgression": 46.936120643534,
+          "bestBallCarryProgression": 22.641536464426,
+          "totalProgressiveBallCarriesDistance": 23.976954268631,
+          "progressiveBallCarriesCount": 1,
+          "ratingVersions": {
+            "original": 6.7,
+            "alternative": 6.9
+          },
+          "totalShots": 1,
+          "shotValueNormalized": 0,
+          "passValueNormalized": -0.05,
+          "dribbleValueNormalized": 0.07,
+          "defensiveValueNormalized": 0,
+          "metersCoveredRunningKm": 0.24,
+          "metersCoveredHighSpeedRunningKm": 0.12,
+          "metersCoveredSprintingKm": 0.02,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Málaga",
+        "abreviatura": "MLG",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/11.png"
+      },
+      "visitante": {
+        "nombre": "Real Sociedad",
+        "abreviatura": "RSO",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/16.png"
+      }
+    },
+    "resultado": "2-5",
+    "fecha": "2026-10-18",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22507-malaga-real-sociedad",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 16421073,
+      "match_info": {
+        "homeTeam": {
+          "name": "Málaga CF",
+          "shortName": "Málaga",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Real Sociedad",
+          "shortName": "Real Sociedad",
+          "color": "#ffffff",
+          "score": 5
+        },
+        "startTimestamp": 1792341000,
+        "slug": "malaga-cf-real-sociedad",
+        "season": "26/27",
+        "jornada": 9
+      },
+      "player_stats": {
+        "player": {
+          "name": "Haitam Abaida",
+          "firstName": "",
+          "lastName": "",
+          "slug": "haitam-abaida",
+          "shortName": "H. Abaida",
+          "position": "F",
+          "jerseyNumber": "7",
+          "height": 172,
+          "userCount": 1117,
+          "gender": "M",
+          "sofascoreId": "zbp-2w8",
+          "id": 1021125,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1022889600,
+          "proposedMarketValueRaw": {
+            "value": 205000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "هيتم عبيدة",
+              "ru": "Хайтам Абайда"
+            },
+            "shortNameTranslation": {
+              "ar": "ه. عبيدة",
+              "ru": "Х. Абайда"
+            }
+          }
+        },
+        "team": {
+          "name": "Málaga CF",
+          "slug": "malaga",
+          "shortName": "Málaga",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 71874,
+          "nameCode": "MCF",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2830,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#3791f2",
+            "text": "#3791f2"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي ملقا",
+              "ru": "Малага"
+            },
+            "shortNameTranslation": {
+              "ar": "ملقا"
+            }
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "F",
+        "extra": null
+      }
+    }
+  }
+]

@@ -1,0 +1,133 @@
+{
+  "16416295": {
+    "id": 16416295,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 5
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1788204600,
+      "slug": "rayo-vallecano-fc-barcelona",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "João Cancelo",
+        "slug": "joao-cancelo",
+        "shortName": "J. Cancelo",
+        "position": "D",
+        "jerseyNumber": "2",
+        "height": 182,
+        "userCount": 128582,
+        "gender": "M",
+        "sofascoreId": "JCancelo",
+        "id": 138892,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 769996800,
+        "proposedMarketValueRaw": {
+          "value": 8600000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جواو كانسيلو",
+            "bn": "জোয়াও ক্যানসেলো",
+            "hi": "जोआओ केन्सेलो",
+            "ru": "Жоау Канселу"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. كانسيلو",
+            "bn": "জে. ক্যানসেলো",
+            "hi": "जे. केन्सेलो",
+            "ru": "Ж. Канселу"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Barcelona",
+        "slug": "barcelona",
+        "shortName": "Barcelona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 8416205,
+        "nameCode": "BAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2817,
+        "teamColors": {
+          "primary": "#154284",
+          "secondary": "#9d1009",
+          "text": "#9d1009"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "برشلونة",
+            "bn": "বার্সেলোনা",
+            "hi": "बार्सिलोना",
+            "ru": "Барселона"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalPass": 7,
+        "accuratePass": 7,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 3,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 4,
+        "totalOppositionHalfPasses": 4,
+        "aerialLost": 1,
+        "duelLost": 2,
+        "challengeLost": 1,
+        "shotOffTarget": 1,
+        "minutesPlayed": 13,
+        "touches": 10,
+        "rating": 6.6,
+        "expectedGoals": 0.0213,
+        "expectedAssists": 0.00781952,
+        "topSpeed": 30.62,
+        "kilometersCovered": 1.87,
+        "numberOfSprints": 6,
+        "totalBallCarriesDistance": 46.670384907344,
+        "ballCarriesCount": 6,
+        "totalProgression": 26.365382272433,
+        "bestBallCarryProgression": 14.320701974276,
+        "totalProgressiveBallCarriesDistance": 17.853159832366,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.5
+        },
+        "totalShots": 1,
+        "shotValueNormalized": 0,
+        "passValueNormalized": 0.02,
+        "dribbleValueNormalized": 0.06,
+        "defensiveValueNormalized": -0.04,
+        "metersCoveredRunningKm": 0.22,
+        "metersCoveredHighSpeedRunningKm": 0.09,
+        "metersCoveredSprintingKm": 0.09,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  }
+}

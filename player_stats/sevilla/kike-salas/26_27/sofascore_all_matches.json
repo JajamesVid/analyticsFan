@@ -141,5 +141,874 @@
       "position": "D",
       "extra": null
     }
+  },
+  "16416316": {
+    "id": 16416316,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1788031800,
+      "slug": "atletico-madrid-sevilla",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kike Salas",
+        "firstName": "",
+        "lastName": "",
+        "slug": "kike-salas",
+        "shortName": "K. Salas",
+        "position": "D",
+        "jerseyNumber": "4",
+        "height": 186,
+        "userCount": 1139,
+        "gender": "M",
+        "sofascoreId": "xzqs49",
+        "id": 1097719,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1019433600,
+        "proposedMarketValueRaw": {
+          "value": 15400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيكي سالاس",
+            "bn": "কিক সালাস",
+            "hi": "किके सालास",
+            "ru": "Кике Салас"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سالاس",
+            "bn": "কে. সালাস",
+            "hi": "के. सालास",
+            "ru": "К. Салас"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 422909,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 56,
+        "accuratePass": 41,
+        "totalLongBalls": 16,
+        "accurateLongBalls": 8,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 20,
+        "totalOwnHalfPasses": 20,
+        "accurateOppositionHalfPasses": 21,
+        "totalOppositionHalfPasses": 36,
+        "aerialLost": 2,
+        "aerialWon": 5,
+        "duelLost": 5,
+        "duelWon": 8,
+        "challengeLost": 1,
+        "shotOffTarget": 1,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 4,
+        "outfielderBlock": 2,
+        "ballRecovery": 4,
+        "totalTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 2,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 71,
+        "rating": 6.8,
+        "possessionLostCtrl": 16,
+        "expectedGoals": 0.0486,
+        "expectedAssists": 0.0277706,
+        "topSpeed": 31.52,
+        "kilometersCovered": 10.07,
+        "numberOfSprints": 11,
+        "totalBallCarriesDistance": 95.644926877427,
+        "ballCarriesCount": 11,
+        "totalProgression": 55.269248944653,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.9
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.07,
+        "passValueNormalized": 0.27,
+        "dribbleValueNormalized": 0.1,
+        "defensiveValueNormalized": -0.27,
+        "metersCoveredRunningKm": 1.67,
+        "metersCoveredHighSpeedRunningKm": 0.43,
+        "metersCoveredSprintingKm": 0.18,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421063": {
+    "id": 16421063,
+    "match_info": {
+      "homeTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1791831600,
+      "slug": "levante-ud-sevilla",
+      "season": "26/27",
+      "jornada": 8
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kike Salas",
+        "firstName": "",
+        "lastName": "",
+        "slug": "kike-salas",
+        "shortName": "K. Salas",
+        "position": "D",
+        "jerseyNumber": "4",
+        "height": 186,
+        "userCount": 1117,
+        "gender": "M",
+        "sofascoreId": "xzq-s49",
+        "id": 1097719,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1019433600,
+        "proposedMarketValueRaw": {
+          "value": 15400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيكي سالاس",
+            "bn": "কিক সালাস",
+            "hi": "किके सालास",
+            "ru": "Кике Салас"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سالاس",
+            "bn": "কে. সালাস",
+            "hi": "के. सालास",
+            "ru": "К. Салас"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 348959,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 51,
+        "accuratePass": 42,
+        "totalLongBalls": 12,
+        "accurateLongBalls": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 28,
+        "totalOwnHalfPasses": 28,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 23,
+        "aerialLost": 1,
+        "aerialWon": 6,
+        "duelLost": 2,
+        "duelWon": 8,
+        "challengeLost": 1,
+        "totalClearance": 12,
+        "interceptionWon": 1,
+        "ballRecovery": 5,
+        "totalTackle": 2,
+        "wonTackle": 2,
+        "minutesPlayed": 90,
+        "touches": 66,
+        "rating": 7.3,
+        "possessionLostCtrl": 9,
+        "expectedAssists": 0.00815203,
+        "topSpeed": 31.9,
+        "kilometersCovered": 10.1,
+        "numberOfSprints": 9,
+        "totalBallCarriesDistance": 115.60661347413,
+        "ballCarriesCount": 20,
+        "totalProgression": 34.344707094022,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 7.3,
+          "alternative": 7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.31,
+        "dribbleValueNormalized": 0.05,
+        "defensiveValueNormalized": -0.2,
+        "metersCoveredRunningKm": 1.28,
+        "metersCoveredHighSpeedRunningKm": 0.35,
+        "metersCoveredSprintingKm": 0.1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416323": {
+    "id": 16416323,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1788721200,
+      "slug": "sevilla-espanyol",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kike Salas",
+        "firstName": "",
+        "lastName": "",
+        "slug": "kike-salas",
+        "shortName": "K. Salas",
+        "position": "D",
+        "jerseyNumber": "4",
+        "height": 186,
+        "userCount": 1141,
+        "gender": "M",
+        "sofascoreId": "xzq-s49",
+        "id": 1097719,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1019433600,
+        "proposedMarketValueRaw": {
+          "value": 15400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيكي سالاس",
+            "bn": "কিক সালাস",
+            "hi": "किके सालास",
+            "ru": "Кике Салас"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سالاس",
+            "bn": "কে. সালাস",
+            "hi": "के. सालास",
+            "ru": "К. Салас"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 352303,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 29,
+        "accuratePass": 18,
+        "totalLongBalls": 9,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 7,
+        "totalOwnHalfPasses": 7,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 22,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "aerialLost": 5,
+        "aerialWon": 5,
+        "duelLost": 7,
+        "duelWon": 8,
+        "challengeLost": 1,
+        "dispossessed": 1,
+        "totalClearance": 6,
+        "interceptionWon": 1,
+        "ballRecovery": 1,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 2,
+        "minutesPlayed": 90,
+        "touches": 47,
+        "rating": 6.4,
+        "possessionLostCtrl": 17,
+        "expectedAssists": 0.0132314,
+        "topSpeed": 29.27,
+        "kilometersCovered": 9.65,
+        "numberOfSprints": 6,
+        "totalBallCarriesDistance": 55.351450823669,
+        "ballCarriesCount": 7,
+        "totalProgression": 33.436266436643,
+        "bestBallCarryProgression": 18.008379509179,
+        "totalProgressiveBallCarriesDistance": 18.959114325305,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.06,
+        "dribbleValueNormalized": 0.03,
+        "defensiveValueNormalized": -0.11,
+        "metersCoveredRunningKm": 1.34,
+        "metersCoveredHighSpeedRunningKm": 0.46,
+        "metersCoveredSprintingKm": 0.11,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416330": {
+    "id": 16416330,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1789153200,
+      "slug": "sevilla-valencia",
+      "season": "26/27",
+      "jornada": 5
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kike Salas",
+        "firstName": "",
+        "lastName": "",
+        "slug": "kike-salas",
+        "shortName": "K. Salas",
+        "position": "D",
+        "jerseyNumber": "4",
+        "height": 186,
+        "userCount": 1141,
+        "gender": "M",
+        "sofascoreId": "xzq-s49",
+        "id": 1097719,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1019433600,
+        "proposedMarketValueRaw": {
+          "value": 15400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيكي سالاس",
+            "bn": "কিক সালাস",
+            "hi": "किके सालास",
+            "ru": "Кике Салас"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سالاس",
+            "bn": "কে. সালাস",
+            "hi": "के. सालास",
+            "ru": "К. Салас"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 352303,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 43,
+        "accuratePass": 37,
+        "totalLongBalls": 9,
+        "accurateLongBalls": 7,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 26,
+        "totalOwnHalfPasses": 26,
+        "accurateOppositionHalfPasses": 11,
+        "totalOppositionHalfPasses": 17,
+        "aerialLost": 3,
+        "aerialWon": 1,
+        "duelLost": 6,
+        "duelWon": 4,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 1,
+        "totalClearance": 7,
+        "ballRecovery": 9,
+        "totalTackle": 3,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "fouls": 4,
+        "totalOffside": 1,
+        "minutesPlayed": 90,
+        "touches": 60,
+        "rating": 7.1,
+        "possessionLostCtrl": 7,
+        "expectedGoals": 0.0958,
+        "expectedGoalsOnTarget": 0.0455,
+        "expectedAssists": 0.202073,
+        "topSpeed": 33.9,
+        "kilometersCovered": 9.74,
+        "numberOfSprints": 11,
+        "totalBallCarriesDistance": 67.635031904623,
+        "ballCarriesCount": 10,
+        "totalProgression": 40.236970223448,
+        "bestBallCarryProgression": 3.0358255318634,
+        "totalProgressiveBallCarriesDistance": 5.2291514608013,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 7.1,
+          "alternative": 7.7
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.29,
+        "passValueNormalized": 0.27,
+        "dribbleValueNormalized": 0.28,
+        "defensiveValueNormalized": 0.23,
+        "metersCoveredRunningKm": 1.36,
+        "metersCoveredHighSpeedRunningKm": 0.47,
+        "metersCoveredSprintingKm": 0.18,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16416343": {
+    "id": 16416343,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1789578000,
+      "slug": "sevilla-deportivo-de-la-coruna",
+      "season": "26/27",
+      "jornada": 6
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kike Salas",
+        "firstName": "",
+        "lastName": "",
+        "slug": "kike-salas",
+        "shortName": "K. Salas",
+        "position": "D",
+        "jerseyNumber": "4",
+        "height": 186,
+        "userCount": 1139,
+        "gender": "M",
+        "sofascoreId": "xzq-s49",
+        "id": 1097719,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1019433600,
+        "proposedMarketValueRaw": {
+          "value": 15400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيكي سالاس",
+            "bn": "কিক সালাস",
+            "hi": "किके सालास",
+            "ru": "Кике Салас"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سالاس",
+            "bn": "কে. সালাস",
+            "hi": "के. सालास",
+            "ru": "К. Салас"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 352664,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 50,
+        "accuratePass": 40,
+        "totalLongBalls": 13,
+        "accurateLongBalls": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 26,
+        "totalOwnHalfPasses": 26,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 24,
+        "aerialLost": 1,
+        "aerialWon": 3,
+        "duelLost": 4,
+        "duelWon": 4,
+        "challengeLost": 2,
+        "onTargetScoringAttempt": 1,
+        "totalClearance": 5,
+        "ballRecovery": 3,
+        "totalTackle": 1,
+        "fouls": 1,
+        "minutesPlayed": 90,
+        "touches": 57,
+        "rating": 7,
+        "possessionLostCtrl": 10,
+        "expectedGoals": 0.0177,
+        "expectedGoalsOnTarget": 0.0763,
+        "expectedAssists": 0.00808649,
+        "topSpeed": 31.91,
+        "kilometersCovered": 9.26,
+        "numberOfSprints": 7,
+        "totalBallCarriesDistance": 128.27685122237,
+        "ballCarriesCount": 20,
+        "totalProgression": 24.337770379671,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7,
+          "alternative": 7
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.03,
+        "passValueNormalized": 0.25,
+        "dribbleValueNormalized": 0.09,
+        "defensiveValueNormalized": -0.02,
+        "metersCoveredRunningKm": 1.15,
+        "metersCoveredHighSpeedRunningKm": 0.28,
+        "metersCoveredSprintingKm": 0.14,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
+  },
+  "16421075": {
+    "id": 16421075,
+    "match_info": {
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "Real Madrid",
+        "color": "#ffffff",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1792350000,
+      "slug": "sevilla-real-madrid",
+      "season": "26/27",
+      "jornada": 9
+    },
+    "player_stats": {
+      "player": {
+        "name": "Kike Salas",
+        "firstName": "",
+        "lastName": "",
+        "slug": "kike-salas",
+        "shortName": "K. Salas",
+        "position": "D",
+        "jerseyNumber": "4",
+        "height": 186,
+        "userCount": 1139,
+        "gender": "M",
+        "sofascoreId": "xzq-s49",
+        "id": 1097719,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1019433600,
+        "proposedMarketValueRaw": {
+          "value": 15400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيكي سالاس",
+            "bn": "কিক সালাস",
+            "hi": "किके सालास",
+            "ru": "Кике Салас"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. سالاس",
+            "bn": "কে. সালাস",
+            "hi": "के. सालास",
+            "ru": "К. Салас"
+          }
+        }
+      },
+      "team": {
+        "name": "Sevilla",
+        "slug": "sevilla",
+        "shortName": "Sevilla",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 352664,
+        "nameCode": "SEV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2833,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#cc1020",
+          "text": "#cc1020"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إشبيلية",
+            "bn": "সেভিলা",
+            "hi": "सेविला",
+            "ru": "Севи́лья"
+          },
+          "shortNameTranslation": {
+            "ru": "Севи́лья"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 38,
+        "accuratePass": 32,
+        "totalLongBalls": 8,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 15,
+        "totalOwnHalfPasses": 17,
+        "accurateOppositionHalfPasses": 17,
+        "totalOppositionHalfPasses": 21,
+        "aerialWon": 1,
+        "duelLost": 5,
+        "duelWon": 3,
+        "challengeLost": 2,
+        "totalContest": 1,
+        "shotOffTarget": 1,
+        "totalClearance": 5,
+        "outfielderBlock": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 6,
+        "totalTackle": 2,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 51,
+        "rating": 6.6,
+        "possessionLostCtrl": 7,
+        "expectedGoals": 0.026,
+        "expectedAssists": 0.0130921,
+        "topSpeed": 31.58,
+        "kilometersCovered": 9.92,
+        "numberOfSprints": 12,
+        "totalBallCarriesDistance": 76.582890255159,
+        "ballCarriesCount": 8,
+        "totalProgression": 30.813448846027,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.1
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.08,
+        "passValueNormalized": 0.25,
+        "dribbleValueNormalized": 0.09,
+        "defensiveValueNormalized": -0.12,
+        "metersCoveredRunningKm": 1.38,
+        "metersCoveredHighSpeedRunningKm": 0.4,
+        "metersCoveredSprintingKm": 0.22,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "D",
+      "extra": null
+    }
   }
 }

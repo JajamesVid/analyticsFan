@@ -1,0 +1,858 @@
+{
+  "16421055": {
+    "id": 16421055,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1787166000,
+      "slug": "atletico-madrid-malaga-cf",
+      "season": "26/27",
+      "jornada": 1
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Barrios",
+        "slug": "pablo-barrios",
+        "shortName": "P. Barrios",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 181,
+        "userCount": 8000,
+        "gender": "M",
+        "sofascoreId": "PBarrios",
+        "id": 1142588,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1055635200,
+        "proposedMarketValueRaw": {
+          "value": 60000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو بارييوس",
+            "bn": "পাবলো ব্যারিওস",
+            "hi": "पाब्लो बारियोस",
+            "ru": "Пабло Барриос"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بارييوس",
+            "bn": "পি. ব্যারিওস",
+            "hi": "पी. बारियोस",
+            "ru": "П. Барриос"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atl. Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2661310,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 58,
+        "accuratePass": 51,
+        "totalLongBalls": 4,
+        "accurateLongBalls": 3,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 16,
+        "totalOwnHalfPasses": 16,
+        "accurateOppositionHalfPasses": 35,
+        "totalOppositionHalfPasses": 42,
+        "aerialWon": 1,
+        "duelLost": 3,
+        "duelWon": 6,
+        "challengeLost": 1,
+        "dispossessed": 1,
+        "totalContest": 4,
+        "wonContest": 3,
+        "bigChanceCreated": 1,
+        "interceptionWon": 3,
+        "ballRecovery": 8,
+        "wasFouled": 2,
+        "minutesPlayed": 90,
+        "touches": 71,
+        "rating": 7.7,
+        "possessionLostCtrl": 9,
+        "expectedAssists": 0.104526,
+        "totalBallCarriesDistance": 192.21460287726,
+        "ballCarriesCount": 23,
+        "totalProgression": 28.043201182049,
+        "bestBallCarryProgression": 31.47846292422,
+        "totalProgressiveBallCarriesDistance": 33.166544348183,
+        "progressiveBallCarriesCount": 1,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.7,
+          "alternative": 7.7
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.44,
+        "dribbleValueNormalized": 0.29,
+        "defensiveValueNormalized": -0.04,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416316": {
+    "id": 16416316,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atl. Madrid",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1788031800,
+      "slug": "atletico-madrid-sevilla",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Barrios",
+        "slug": "pablo-barrios",
+        "shortName": "P. Barrios",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 181,
+        "userCount": 8320,
+        "gender": "M",
+        "sofascoreId": "PBarrios",
+        "id": 1142588,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1055635200,
+        "proposedMarketValueRaw": {
+          "value": 60000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو بارييوس",
+            "bn": "পাবলো ব্যারিওস",
+            "hi": "पाब्लो बारियोस",
+            "ru": "Пабло Барриос"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بارييوس",
+            "bn": "পি. ব্যারিওস",
+            "hi": "पी. बारियोस",
+            "ru": "П. Барриос"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atl. Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2722250,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 80,
+        "accuratePass": 71,
+        "totalLongBalls": 8,
+        "accurateLongBalls": 5,
+        "goalAssist": 1,
+        "accurateOwnHalfPasses": 37,
+        "totalOwnHalfPasses": 41,
+        "accurateOppositionHalfPasses": 34,
+        "totalOppositionHalfPasses": 39,
+        "aerialWon": 1,
+        "duelLost": 5,
+        "duelWon": 5,
+        "challengeLost": 1,
+        "dispossessed": 2,
+        "totalContest": 1,
+        "wonContest": 1,
+        "onTargetScoringAttempt": 1,
+        "outfielderBlock": 1,
+        "ballRecovery": 6,
+        "totalTackle": 1,
+        "errorLeadToAShot": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 2,
+        "fouls": 2,
+        "minutesPlayed": 90,
+        "touches": 89,
+        "rating": 7.6,
+        "possessionLostCtrl": 12,
+        "expectedGoals": 0.111,
+        "expectedGoalsOnTarget": 0.3676,
+        "expectedAssists": 0.0406016,
+        "topSpeed": 32.22,
+        "kilometersCovered": 10.85,
+        "numberOfSprints": 11,
+        "totalBallCarriesDistance": 231.91942164924,
+        "ballCarriesCount": 23,
+        "totalProgression": 112.59904184432,
+        "bestBallCarryProgression": 35.038884785966,
+        "totalProgressiveBallCarriesDistance": 62.811710885179,
+        "progressiveBallCarriesCount": 2,
+        "keyPass": 2,
+        "ratingVersions": {
+          "original": 7.6,
+          "alternative": 7.4
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.48,
+        "passValueNormalized": 0.4,
+        "dribbleValueNormalized": 0.31,
+        "defensiveValueNormalized": -0.12,
+        "metersCoveredRunningKm": 1.7,
+        "metersCoveredHighSpeedRunningKm": 0.59,
+        "metersCoveredSprintingKm": 0.15,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16421056": {
+    "id": 16421056,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atlético Madrid",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "startTimestamp": 1791641700,
+      "slug": "deportivo-alaves-atletico-madrid",
+      "season": "26/27",
+      "jornada": 8
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Barrios",
+        "slug": "pablo-barrios",
+        "shortName": "P. Barrios",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 181,
+        "userCount": 7883,
+        "gender": "M",
+        "sofascoreId": "hir-s6q",
+        "id": 1142588,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1055635200,
+        "proposedMarketValueRaw": {
+          "value": 77000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو بارييوس",
+            "bn": "পাবলো ব্যারিওস",
+            "hi": "पाब्लो बारियोस",
+            "ru": "Пабло Барриос"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بارييوس",
+            "bn": "পি. ব্যারিওস",
+            "hi": "पी. बारियोस",
+            "ru": "П. Барриос"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atlético Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2305996,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 40,
+        "accuratePass": 37,
+        "totalLongBalls": 2,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 16,
+        "totalOwnHalfPasses": 18,
+        "accurateOppositionHalfPasses": 21,
+        "totalOppositionHalfPasses": 22,
+        "totalCross": 2,
+        "aerialWon": 1,
+        "duelLost": 4,
+        "duelWon": 3,
+        "challengeLost": 2,
+        "dispossessed": 2,
+        "totalContest": 1,
+        "wonContest": 1,
+        "shotOffTarget": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 3,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "minutesPlayed": 57,
+        "touches": 50,
+        "rating": 6.6,
+        "possessionLostCtrl": 8,
+        "expectedGoals": 0.0299,
+        "expectedAssists": 0.027984,
+        "topSpeed": 31.54,
+        "kilometersCovered": 6.48,
+        "numberOfSprints": 6,
+        "totalBallCarriesDistance": 56.609361941233,
+        "ballCarriesCount": 11,
+        "totalProgression": 11.008921594727,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 6.6,
+          "alternative": 6.8
+        },
+        "totalShots": 1,
+        "shotValueNormalized": -0.12,
+        "passValueNormalized": 0.11,
+        "dribbleValueNormalized": 0.04,
+        "defensiveValueNormalized": -0.14,
+        "metersCoveredRunningKm": 0.99,
+        "metersCoveredHighSpeedRunningKm": 0.28,
+        "metersCoveredSprintingKm": 0.1,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416302": {
+    "id": 16416302,
+    "match_info": {
+      "homeTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atlético Madrid",
+        "color": "#ffffff",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "Villarreal",
+        "color": "#ffff00",
+        "score": 2
+      },
+      "startTimestamp": 1787497200,
+      "slug": "atletico-madrid-villarreal",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Barrios",
+        "slug": "pablo-barrios",
+        "shortName": "P. Barrios",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 181,
+        "userCount": 7896,
+        "gender": "M",
+        "sofascoreId": "hir-s6q",
+        "id": 1142588,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1055635200,
+        "proposedMarketValueRaw": {
+          "value": 77000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو بارييوس",
+            "bn": "পাবলো ব্যারিওস",
+            "hi": "पाब्लो बारियोस",
+            "ru": "Пабло Барриос"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بارييوس",
+            "bn": "পি. ব্যারিওস",
+            "hi": "पी. बारियोस",
+            "ru": "П. Барриос"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atlético Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2299790,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 27,
+        "accuratePass": 23,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 9,
+        "totalOwnHalfPasses": 10,
+        "accurateOppositionHalfPasses": 14,
+        "totalOppositionHalfPasses": 17,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "duelWon": 2,
+        "ballRecovery": 3,
+        "totalTackle": 1,
+        "wonTackle": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 24,
+        "touches": 30,
+        "rating": 6.9,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.220514,
+        "topSpeed": 30.81,
+        "kilometersCovered": 3.15,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 108.20374420843,
+        "ballCarriesCount": 12,
+        "totalProgression": 26.930157754612,
+        "bestBallCarryProgression": 19.363063248469,
+        "totalProgressiveBallCarriesDistance": 24.602625246099,
+        "progressiveBallCarriesCount": 1,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 6.8
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.33,
+        "dribbleValueNormalized": 0.16,
+        "defensiveValueNormalized": -0.04,
+        "metersCoveredRunningKm": 0.33,
+        "metersCoveredHighSpeedRunningKm": 0.15,
+        "metersCoveredSprintingKm": 0.09,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16416317": {
+    "id": 16416317,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atlético Madrid",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1788617700,
+      "slug": "atletico-madrid-athletic-club",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Barrios",
+        "slug": "pablo-barrios",
+        "shortName": "P. Barrios",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 181,
+        "userCount": 7906,
+        "gender": "M",
+        "sofascoreId": "hir-s6q",
+        "id": 1142588,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1055635200,
+        "proposedMarketValueRaw": {
+          "value": 77000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو بارييوس",
+            "bn": "পাবলো ব্যারিওস",
+            "hi": "पाब्लो बारियोस",
+            "ru": "Пабло Барриос"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بارييوس",
+            "bn": "পি. ব্যারিওস",
+            "hi": "पी. बारियोस",
+            "ru": "П. Барриос"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atlético Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2298614,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 73,
+        "accuratePass": 69,
+        "totalLongBalls": 1,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 24,
+        "totalOwnHalfPasses": 24,
+        "accurateOppositionHalfPasses": 45,
+        "totalOppositionHalfPasses": 49,
+        "totalCross": 2,
+        "aerialLost": 1,
+        "duelLost": 4,
+        "duelWon": 4,
+        "challengeLost": 1,
+        "totalContest": 3,
+        "wonContest": 1,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 1,
+        "hitWoodwork": 1,
+        "totalClearance": 1,
+        "interceptionWon": 4,
+        "ballRecovery": 3,
+        "totalTackle": 2,
+        "wonTackle": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 90,
+        "touches": 96,
+        "rating": 7.1,
+        "possessionLostCtrl": 10,
+        "expectedGoals": 0.0391,
+        "expectedGoalsOnTarget": 0.381,
+        "expectedAssists": 0.15403,
+        "topSpeed": 33.05,
+        "kilometersCovered": 10.43,
+        "numberOfSprints": 7,
+        "totalBallCarriesDistance": 239.28311353241,
+        "ballCarriesCount": 31,
+        "totalProgression": 25.693405957702,
+        "progressiveBallCarriesCount": 0,
+        "keyPass": 3,
+        "ratingVersions": {
+          "original": 7.1,
+          "alternative": 7.9
+        },
+        "totalShots": 2,
+        "shotValueNormalized": 0.13,
+        "passValueNormalized": 0.33,
+        "dribbleValueNormalized": 0.15,
+        "defensiveValueNormalized": -0.16,
+        "metersCoveredRunningKm": 1.61,
+        "metersCoveredHighSpeedRunningKm": 0.42,
+        "metersCoveredSprintingKm": 0.08,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  },
+  "16421071": {
+    "id": 16421071,
+    "match_info": {
+      "homeTeam": {
+        "name": "Espanyol",
+        "shortName": "Espanyol",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atlético Madrid",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1792238400,
+      "slug": "atletico-madrid-espanyol",
+      "season": "26/27",
+      "jornada": 9
+    },
+    "player_stats": {
+      "player": {
+        "name": "Pablo Barrios",
+        "slug": "pablo-barrios",
+        "shortName": "P. Barrios",
+        "position": "M",
+        "jerseyNumber": "8",
+        "height": 181,
+        "userCount": 7928,
+        "gender": "M",
+        "sofascoreId": "hir-s6q",
+        "id": 1142588,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1055635200,
+        "proposedMarketValueRaw": {
+          "value": 77000000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بابلو بارييوس",
+            "bn": "পাবলো ব্যারিওস",
+            "hi": "पाब्लो बारियोस",
+            "ru": "Пабло Барриос"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. بارييوس",
+            "bn": "পি. ব্যারিওস",
+            "hi": "पी. बारियोस",
+            "ru": "П. Барриос"
+          }
+        }
+      },
+      "team": {
+        "name": "Atlético Madrid",
+        "slug": "atletico-madrid",
+        "shortName": "Atlético Madrid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2305990,
+        "nameCode": "ATM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2836,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#c40000",
+          "text": "#c40000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "hi": "एटलेटिको मैड्रिड",
+            "ru": "Атлетико Мадрид"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيكو مدريد",
+            "bn": "এটিএল. মাদ্রিদ"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 55,
+        "accuratePass": 46,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 1,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 11,
+        "totalOwnHalfPasses": 13,
+        "accurateOppositionHalfPasses": 35,
+        "totalOppositionHalfPasses": 42,
+        "totalCross": 1,
+        "accurateCross": 1,
+        "aerialWon": 1,
+        "duelLost": 1,
+        "duelWon": 3,
+        "totalContest": 2,
+        "wonContest": 2,
+        "interceptionWon": 1,
+        "ballRecovery": 3,
+        "unsuccessfulTouch": 2,
+        "fouls": 1,
+        "minutesPlayed": 55,
+        "touches": 62,
+        "rating": 7.4,
+        "possessionLostCtrl": 11,
+        "expectedAssists": 0.14727,
+        "topSpeed": 34.21,
+        "kilometersCovered": 6.5,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 292.57512218048,
+        "ballCarriesCount": 30,
+        "totalProgression": 124.81428333327,
+        "bestBallCarryProgression": 18.954168831205,
+        "totalProgressiveBallCarriesDistance": 77.898708071543,
+        "progressiveBallCarriesCount": 4,
+        "keyPass": 1,
+        "ratingVersions": {
+          "original": 7.4,
+          "alternative": 7.2
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0.37,
+        "dribbleValueNormalized": 0.33,
+        "defensiveValueNormalized": 0,
+        "metersCoveredRunningKm": 1.18,
+        "metersCoveredHighSpeedRunningKm": 0.3,
+        "metersCoveredSprintingKm": 0.07,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
+  }
+}

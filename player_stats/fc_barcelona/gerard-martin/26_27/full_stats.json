@@ -1,0 +1,1995 @@
+[
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Barcelona",
+        "abreviatura": "BAR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/3.png"
+      },
+      "visitante": {
+        "nombre": "Rayo",
+        "abreviatura": "RAY",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/14.png"
+      }
+    },
+    "resultado": "5-2",
+    "fecha": "2026-08-31",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22446-barcelona-rayo",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 0,
+      "cope": null,
+      "sofascore": null,
+      "relevo": null,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {}
+    },
+    "sofascore": {
+      "id": 16416295,
+      "match_info": {
+        "homeTeam": {
+          "name": "FC Barcelona",
+          "shortName": "Barcelona",
+          "color": "#154284",
+          "score": 5
+        },
+        "awayTeam": {
+          "name": "Rayo Vallecano",
+          "shortName": "Rayo Vallecano",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "startTimestamp": 1788204600,
+        "slug": "rayo-vallecano-fc-barcelona",
+        "season": "26/27",
+        "jornada": 3
+      },
+      "player_stats": {
+        "player": {
+          "name": "Gerard Martín",
+          "firstName": "Gerard",
+          "slug": "gerard-martin",
+          "shortName": "G. Martín",
+          "position": "D",
+          "jerseyNumber": "18",
+          "height": 186,
+          "userCount": 62770,
+          "gender": "M",
+          "sofascoreId": "gerardmaartin",
+          "id": 1094827,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1014681600,
+          "proposedMarketValueRaw": {
+            "value": 32000000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جيرارد مارتين",
+              "bn": "জেরার্ড মার্টিন",
+              "hi": "जेरार्ड मार्टिन",
+              "ru": "Жерар Мартин"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. مارتين",
+              "bn": "জি. মার্টিন",
+              "hi": "जी. मार्टिन",
+              "ru": "Ж. Мартин"
+            }
+          }
+        },
+        "team": {
+          "name": "FC Barcelona",
+          "slug": "barcelona",
+          "shortName": "Barcelona",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 8416205,
+          "nameCode": "BAR",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2817,
+          "teamColors": {
+            "primary": "#154284",
+            "secondary": "#9d1009",
+            "text": "#9d1009"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "برشلونة",
+              "bn": "বার্সেলোনা",
+              "hi": "बार्सिलोना",
+              "ru": "Барселона"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Sevilla",
+        "abreviatura": "SEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/17.png"
+      },
+      "visitante": {
+        "nombre": "Barcelona",
+        "abreviatura": "BAR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/3.png"
+      }
+    },
+    "resultado": "1-3",
+    "fecha": "2026-09-19",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22490-sevilla-barcelona",
+    "puntuaciones": {
+      "picas": 2,
+      "marca": 1,
+      "cope": 6.0,
+      "sofascore": 7.6,
+      "relevo": 2.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 4.0,
+        "fantasy": 10.0,
+        "comunio": 8.0,
+        "modo-picas": 6.0,
+        "biwenger-sofascore": 8.0,
+        "biwenger-social": 3.0,
+        "biwenger-as-sofascore": 7.0,
+        "biwenger-stats": 2.0,
+        "futmondo-prensa": 4.0,
+        "futmondo-mixto-as": 6.0,
+        "futmondo-stats": 3.0,
+        "futmondo-mixto": 4.8,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 3.0,
+        "marca-sofascore": 8.0,
+        "mister-cronistas-md": 6.0,
+        "mister-mixto": 6.0,
+        "mister-mixto-2": 6.0,
+        "mister-sofascore": 8.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 1.0,
+        "stat-balones-robados-ultimo-hombre": 1.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 4.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 5.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 88.4,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 1.0,
+        "stat-tackles": 1.0,
+        "stat-duelos-aereos": 3.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 43.0,
+        "stat-pases-completados": 38.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 16416349,
+      "match_info": {
+        "homeTeam": {
+          "name": "Sevilla",
+          "shortName": "Sevilla",
+          "color": "#ffffff",
+          "score": 1
+        },
+        "awayTeam": {
+          "name": "FC Barcelona",
+          "shortName": "Barcelona",
+          "color": "#154284",
+          "score": 3
+        },
+        "startTimestamp": 1789844400,
+        "slug": "sevilla-fc-barcelona",
+        "season": "26/27",
+        "jornada": 7
+      },
+      "player_stats": {
+        "player": {
+          "name": "Gerard Martín",
+          "firstName": "Gerard",
+          "slug": "gerard-martin",
+          "shortName": "G. Martín",
+          "position": "D",
+          "jerseyNumber": "18",
+          "height": 186,
+          "userCount": 59754,
+          "gender": "M",
+          "sofascoreId": "vu5-ef3",
+          "id": 1094827,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1014681600,
+          "proposedMarketValueRaw": {
+            "value": 36000000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جيرارد مارتين",
+              "bn": "জেরার্ড মার্টিন",
+              "hi": "जेरार्ड मार्टिन",
+              "ru": "Жерар Мартин"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. مارتين",
+              "bn": "জি. মার্টিন",
+              "hi": "जी. मार्टिन",
+              "ru": "Ж. Мартин"
+            }
+          }
+        },
+        "team": {
+          "name": "FC Barcelona",
+          "slug": "barcelona",
+          "shortName": "Barcelona",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 7407211,
+          "nameCode": "BAR",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2817,
+          "teamColors": {
+            "primary": "#154284",
+            "secondary": "#9d1009",
+            "text": "#9d1009"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "برشلونة",
+              "bn": "বার্সেলোনা",
+              "hi": "बार्सिलोना",
+              "ru": "Барселона"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 43,
+          "accuratePass": 38,
+          "totalLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 26,
+          "totalOwnHalfPasses": 26,
+          "accurateOppositionHalfPasses": 12,
+          "totalOppositionHalfPasses": 17,
+          "aerialWon": 3,
+          "duelWon": 4,
+          "totalClearance": 4,
+          "ballRecovery": 1,
+          "lastManTackle": 1,
+          "totalTackle": 1,
+          "wonTackle": 1,
+          "minutesPlayed": 31,
+          "touches": 48,
+          "rating": 7.6,
+          "possessionLostCtrl": 5,
+          "expectedAssists": 0.00744374,
+          "topSpeed": 25.65,
+          "kilometersCovered": 3.23,
+          "numberOfSprints": 1,
+          "totalBallCarriesDistance": 152.82028674426,
+          "ballCarriesCount": 19,
+          "totalProgression": 88.368140657486,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 7.6,
+            "alternative": 7.1
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.28,
+          "dribbleValueNormalized": 0.13,
+          "defensiveValueNormalized": 0.62,
+          "metersCoveredRunningKm": 0.29,
+          "metersCoveredHighSpeedRunningKm": 0.09,
+          "metersCoveredSprintingKm": 0.01,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Barcelona",
+        "abreviatura": "BAR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/3.png"
+      },
+      "visitante": {
+        "nombre": "Getafe",
+        "abreviatura": "GET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/8.png"
+      }
+    },
+    "resultado": "3-0",
+    "fecha": "2026-10-10",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22495-barcelona-getafe",
+    "puntuaciones": {
+      "picas": 2,
+      "marca": 1,
+      "cope": 7.0,
+      "sofascore": 8.1,
+      "relevo": 3.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 11.0,
+        "futbolfantasy-rpg": 18.0,
+        "comunio": 10.0,
+        "modo-picas": 6.0,
+        "biwenger-sofascore": 10.0,
+        "biwenger-social": 8.0,
+        "biwenger-as-sofascore": 8.0,
+        "biwenger-stats": 7.0,
+        "futmondo-prensa": 6.0,
+        "futmondo-mixto-as": 6.0,
+        "futmondo-stats": 8.0,
+        "futmondo-mixto": 9.5,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 9.0,
+        "marca-sofascore": 10.0,
+        "mister-cronistas-md": 6.0,
+        "mister-mixto": 6.0,
+        "mister-mixto-2": 7.0,
+        "mister-sofascore": 10.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 1.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 1.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 2.0,
+        "stat-pases-interceptados": 1.0,
+        "stat-balones-robados": 2.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 8.0,
+        "stat-ocasiones-claras-creadas": 1.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 13.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 88.0,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 2.0,
+        "stat-tackles": 2.0,
+        "stat-duelos-aereos": 2.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 100.0,
+        "stat-pases-completados": 88.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 16421060,
+      "match_info": {
+        "homeTeam": {
+          "name": "FC Barcelona",
+          "shortName": "Barcelona",
+          "color": "#154284",
+          "score": 3
+        },
+        "awayTeam": {
+          "name": "Getafe",
+          "shortName": "Getafe",
+          "color": "#00369e",
+          "score": 0
+        },
+        "startTimestamp": 1791649800,
+        "slug": "getafe-fc-barcelona",
+        "season": "26/27",
+        "jornada": 8
+      },
+      "player_stats": {
+        "player": {
+          "name": "Gerard Martín",
+          "firstName": "Gerard",
+          "slug": "gerard-martin",
+          "shortName": "G. Martín",
+          "position": "D",
+          "jerseyNumber": "18",
+          "height": 186,
+          "userCount": 59754,
+          "gender": "M",
+          "sofascoreId": "vu5-ef3",
+          "id": 1094827,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1014681600,
+          "proposedMarketValueRaw": {
+            "value": 36000000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جيرارد مارتين",
+              "bn": "জেরার্ড মার্টিন",
+              "hi": "जेरार्ड मार्टिन",
+              "ru": "Жерар Мартин"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. مارتين",
+              "bn": "জি. মার্টিন",
+              "hi": "जी. मार्टिन",
+              "ru": "Ж. Мартин"
+            }
+          }
+        },
+        "team": {
+          "name": "FC Barcelona",
+          "slug": "barcelona",
+          "shortName": "Barcelona",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 7407211,
+          "nameCode": "BAR",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2817,
+          "teamColors": {
+            "primary": "#154284",
+            "secondary": "#9d1009",
+            "text": "#9d1009"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "برشلونة",
+              "bn": "বার্সেলোনা",
+              "hi": "बार्सिलोना",
+              "ru": "Барселона"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 100,
+          "accuratePass": 88,
+          "totalLongBalls": 8,
+          "accurateLongBalls": 3,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 31,
+          "totalOwnHalfPasses": 35,
+          "accurateOppositionHalfPasses": 57,
+          "totalOppositionHalfPasses": 65,
+          "aerialWon": 2,
+          "duelLost": 2,
+          "duelWon": 4,
+          "bigChanceCreated": 1,
+          "totalClearance": 8,
+          "interceptionWon": 1,
+          "ballRecovery": 4,
+          "totalTackle": 2,
+          "wonTackle": 2,
+          "fouls": 2,
+          "minutesPlayed": 90,
+          "touches": 113,
+          "rating": 8.1,
+          "possessionLostCtrl": 12,
+          "expectedAssists": 0.240095,
+          "topSpeed": 29.94,
+          "kilometersCovered": 9.29,
+          "numberOfSprints": 6,
+          "totalBallCarriesDistance": 371.96803282556,
+          "ballCarriesCount": 48,
+          "totalProgression": 284.66897507136,
+          "bestBallCarryProgression": 21.976773582166,
+          "totalProgressiveBallCarriesDistance": 55.457302624391,
+          "progressiveBallCarriesCount": 2,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 8.1,
+            "alternative": 7.9
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.57,
+          "dribbleValueNormalized": 0.39,
+          "defensiveValueNormalized": 0.32,
+          "metersCoveredRunningKm": 0.92,
+          "metersCoveredHighSpeedRunningKm": 0.34,
+          "metersCoveredSprintingKm": 0.05,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Barcelona",
+        "abreviatura": "BAR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/3.png"
+      },
+      "visitante": {
+        "nombre": "Athletic",
+        "abreviatura": "ATH",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/1.png"
+      }
+    },
+    "resultado": "2-0",
+    "fecha": "2026-08-27",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22426-barcelona-athletic",
+    "puntuaciones": {
+      "picas": 2,
+      "marca": 1,
+      "cope": 6.0,
+      "sofascore": 7.5,
+      "relevo": 3.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 10.0,
+        "futbolfantasy-rpg": 11.0,
+        "comunio": 8.0,
+        "modo-picas": 6.0,
+        "biwenger-sofascore": 7.0,
+        "biwenger-social": 5.0,
+        "biwenger-as-sofascore": 7.0,
+        "biwenger-stats": 6.0,
+        "futmondo-prensa": 6.0,
+        "futmondo-mixto-as": 6.0,
+        "futmondo-stats": 7.0,
+        "futmondo-mixto": 7.2,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 7.0,
+        "marca-sofascore": 7.0,
+        "mister-cronistas-md": 6.0,
+        "mister-mixto": 5.0,
+        "mister-mixto-2": 6.0,
+        "mister-sofascore": 7.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 2.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 4.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 3.0,
+        "stat-tiros-totales": 1.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 97.9,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 95.0,
+        "stat-pases-completados": 93.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 16421059,
+      "match_info": {
+        "homeTeam": {
+          "name": "FC Barcelona",
+          "shortName": "Barcelona",
+          "color": "#154284",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "color": "#aa0000",
+          "score": 0
+        },
+        "startTimestamp": 1787857200,
+        "slug": "athletic-club-fc-barcelona",
+        "season": "26/27",
+        "jornada": 1
+      },
+      "player_stats": {
+        "player": {
+          "name": "Gerard Martín",
+          "firstName": "Gerard",
+          "slug": "gerard-martin",
+          "shortName": "G. Martín",
+          "position": "D",
+          "jerseyNumber": "18",
+          "height": 186,
+          "userCount": 59892,
+          "gender": "M",
+          "sofascoreId": "vu5-ef3",
+          "id": 1094827,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1014681600,
+          "proposedMarketValueRaw": {
+            "value": 36000000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جيرارد مارتين",
+              "bn": "জেরার্ড মার্টিন",
+              "hi": "जेरार्ड मार्टिन",
+              "ru": "Жерар Мартин"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. مارتين",
+              "bn": "জি. মার্টিন",
+              "hi": "जी. मार्टिन",
+              "ru": "Ж. Мартин"
+            }
+          }
+        },
+        "team": {
+          "name": "FC Barcelona",
+          "slug": "barcelona",
+          "shortName": "Barcelona",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 7395924,
+          "nameCode": "BAR",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2817,
+          "teamColors": {
+            "primary": "#154284",
+            "secondary": "#9d1009",
+            "text": "#9d1009"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "برشلونة",
+              "bn": "বার্সেলোনা",
+              "hi": "बार्सिलोना",
+              "ru": "Барселона"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 95,
+          "accuratePass": 93,
+          "totalLongBalls": 5,
+          "accurateLongBalls": 4,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 52,
+          "totalOwnHalfPasses": 53,
+          "accurateOppositionHalfPasses": 41,
+          "totalOppositionHalfPasses": 42,
+          "duelLost": 1,
+          "shotOffTarget": 1,
+          "totalClearance": 4,
+          "interceptionWon": 2,
+          "ballRecovery": 3,
+          "unsuccessfulTouch": 1,
+          "fouls": 1,
+          "minutesPlayed": 90,
+          "touches": 108,
+          "rating": 7.5,
+          "possessionLostCtrl": 3,
+          "expectedGoals": 0.1036,
+          "expectedAssists": 0.0267457,
+          "topSpeed": 30.26,
+          "kilometersCovered": 9.18,
+          "numberOfSprints": 13,
+          "totalBallCarriesDistance": 318.89334941382,
+          "ballCarriesCount": 39,
+          "totalProgression": 188.46180813397,
+          "bestBallCarryProgression": 13.968071218674,
+          "totalProgressiveBallCarriesDistance": 31.474477067775,
+          "progressiveBallCarriesCount": 2,
+          "ratingVersions": {
+            "original": 7.5,
+            "alternative": 7.5
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.52,
+          "passValueNormalized": 0.38,
+          "dribbleValueNormalized": 0.32,
+          "defensiveValueNormalized": 0.2,
+          "metersCoveredRunningKm": 1.01,
+          "metersCoveredHighSpeedRunningKm": 0.27,
+          "metersCoveredSprintingKm": 0.17,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Elche",
+        "abreviatura": "ELC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/21.png"
+      },
+      "visitante": {
+        "nombre": "Barcelona",
+        "abreviatura": "BAR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/3.png"
+      }
+    },
+    "resultado": "0-5",
+    "fecha": "2026-08-23",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22435-elche-barcelona",
+    "puntuaciones": {
+      "picas": 2,
+      "marca": 1,
+      "cope": 6.0,
+      "sofascore": 7.4,
+      "relevo": 2.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 10.0,
+        "futbolfantasy-rpg": 26.0,
+        "comunio": 7.0,
+        "modo-picas": 6.0,
+        "biwenger-sofascore": 7.0,
+        "biwenger-social": 8.0,
+        "biwenger-as-sofascore": 7.0,
+        "biwenger-stats": 9.0,
+        "futmondo-prensa": 6.0,
+        "futmondo-mixto-as": 6.0,
+        "futmondo-stats": 11.0,
+        "futmondo-mixto": 10.5,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 10.0,
+        "marca-sofascore": 7.0,
+        "mister-cronistas-md": 10.0,
+        "mister-mixto": 6.0,
+        "mister-mixto-2": 6.0,
+        "mister-sofascore": 7.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 1.0,
+        "stat-balones-robados": 1.0,
+        "stat-balones-robados-ultimo-hombre": 1.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 12.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 2.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 96.6,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 1.0,
+        "stat-tackles": 1.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 58.0,
+        "stat-pases-completados": 56.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 16416311,
+      "match_info": {
+        "homeTeam": {
+          "name": "Elche",
+          "shortName": "Elche",
+          "color": "#ffffff",
+          "score": 0
+        },
+        "awayTeam": {
+          "name": "FC Barcelona",
+          "shortName": "Barcelona",
+          "color": "#154284",
+          "score": 5
+        },
+        "startTimestamp": 1787513400,
+        "slug": "elche-fc-barcelona",
+        "season": "26/27",
+        "jornada": 2
+      },
+      "player_stats": {
+        "player": {
+          "name": "Gerard Martín",
+          "firstName": "Gerard",
+          "slug": "gerard-martin",
+          "shortName": "G. Martín",
+          "position": "D",
+          "jerseyNumber": "18",
+          "height": 186,
+          "userCount": 59892,
+          "gender": "M",
+          "sofascoreId": "vu5-ef3",
+          "id": 1094827,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1014681600,
+          "proposedMarketValueRaw": {
+            "value": 36000000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جيرارد مارتين",
+              "bn": "জেরার্ড মার্টিন",
+              "hi": "जेरार्ड मार्टिन",
+              "ru": "Жерар Мартин"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. مارتين",
+              "bn": "জি. মার্টিন",
+              "hi": "जी. मार्टिन",
+              "ru": "Ж. Мартин"
+            }
+          }
+        },
+        "team": {
+          "name": "FC Barcelona",
+          "slug": "barcelona",
+          "shortName": "Barcelona",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 7395924,
+          "nameCode": "BAR",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2817,
+          "teamColors": {
+            "primary": "#154284",
+            "secondary": "#9d1009",
+            "text": "#9d1009"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "برشلونة",
+              "bn": "বার্সেলোনা",
+              "hi": "बार्सिलोना",
+              "ru": "Барселона"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 58,
+          "accuratePass": 56,
+          "totalLongBalls": 2,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 44,
+          "totalOwnHalfPasses": 45,
+          "accurateOppositionHalfPasses": 12,
+          "totalOppositionHalfPasses": 13,
+          "aerialLost": 3,
+          "aerialWon": 1,
+          "duelLost": 4,
+          "duelWon": 3,
+          "challengeLost": 1,
+          "totalClearance": 12,
+          "interceptionWon": 1,
+          "ballRecovery": 1,
+          "lastManTackle": 1,
+          "totalTackle": 1,
+          "wonTackle": 1,
+          "wasFouled": 1,
+          "minutesPlayed": 90,
+          "touches": 75,
+          "rating": 7.4,
+          "possessionLostCtrl": 2,
+          "expectedAssists": 0.00462252,
+          "topSpeed": 32.68,
+          "kilometersCovered": 9.47,
+          "numberOfSprints": 13,
+          "totalBallCarriesDistance": 155.51573947252,
+          "ballCarriesCount": 27,
+          "totalProgression": 59.589228238011,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 7.4,
+            "alternative": 7.4
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.22,
+          "dribbleValueNormalized": 0.1,
+          "defensiveValueNormalized": 0.77,
+          "metersCoveredRunningKm": 1.03,
+          "metersCoveredHighSpeedRunningKm": 0.4,
+          "metersCoveredSprintingKm": 0.19,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Valencia",
+        "abreviatura": "VAL",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/18.png"
+      },
+      "visitante": {
+        "nombre": "Barcelona",
+        "abreviatura": "BAR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/3.png"
+      }
+    },
+    "resultado": "0-5",
+    "fecha": "2026-09-06",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22461-valencia-barcelona",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 7.0,
+      "sofascore": 7.2,
+      "relevo": 3.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 9.0,
+        "futbolfantasy-rpg": 9.0,
+        "comunio": 6.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 6.0,
+        "biwenger-social": 7.0,
+        "biwenger-as-sofascore": 4.0,
+        "biwenger-stats": 7.0,
+        "futmondo-prensa": 4.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 7.0,
+        "futmondo-mixto": 8.3,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 6.0,
+        "marca-sofascore": 6.0,
+        "mister-cronistas-md": 6.0,
+        "mister-mixto": 4.0,
+        "mister-mixto-2": 4.0,
+        "mister-sofascore": 6.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 1.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 2.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 9.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 92.1,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 89.0,
+        "stat-pases-completados": 82.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 16416325,
+      "match_info": {
+        "homeTeam": {
+          "name": "Valencia",
+          "shortName": "Valencia",
+          "color": "#ffffff",
+          "score": 0
+        },
+        "awayTeam": {
+          "name": "FC Barcelona",
+          "shortName": "Barcelona",
+          "color": "#154284",
+          "score": 5
+        },
+        "startTimestamp": 1788704100,
+        "slug": "valencia-fc-barcelona",
+        "season": "26/27",
+        "jornada": 4
+      },
+      "player_stats": {
+        "player": {
+          "name": "Gerard Martín",
+          "firstName": "Gerard",
+          "slug": "gerard-martin",
+          "shortName": "G. Martín",
+          "position": "D",
+          "jerseyNumber": "18",
+          "height": 186,
+          "userCount": 60061,
+          "gender": "M",
+          "sofascoreId": "vu5-ef3",
+          "id": 1094827,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1014681600,
+          "proposedMarketValueRaw": {
+            "value": 36000000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جيرارد مارتين",
+              "bn": "জেরার্ড মার্টিন",
+              "hi": "जेरार्ड मार्टिन",
+              "ru": "Жерар Мартин"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. مارتين",
+              "bn": "জি. মার্টিন",
+              "hi": "जी. मार्टिन",
+              "ru": "Ж. Мартин"
+            }
+          }
+        },
+        "team": {
+          "name": "FC Barcelona",
+          "slug": "barcelona",
+          "shortName": "Barcelona",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 7403856,
+          "nameCode": "BAR",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2817,
+          "teamColors": {
+            "primary": "#154284",
+            "secondary": "#9d1009",
+            "text": "#9d1009"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "برشلونة",
+              "bn": "বার্সেলোনা",
+              "hi": "बार्सिलोना",
+              "ru": "Барселона"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 89,
+          "accuratePass": 82,
+          "totalLongBalls": 8,
+          "accurateLongBalls": 3,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 44,
+          "totalOwnHalfPasses": 44,
+          "accurateOppositionHalfPasses": 38,
+          "totalOppositionHalfPasses": 45,
+          "aerialLost": 2,
+          "duelLost": 3,
+          "duelWon": 1,
+          "totalClearance": 2,
+          "interceptionWon": 1,
+          "ballRecovery": 3,
+          "totalTackle": 1,
+          "unsuccessfulTouch": 2,
+          "fouls": 1,
+          "minutesPlayed": 90,
+          "touches": 97,
+          "rating": 7.2,
+          "possessionLostCtrl": 9,
+          "expectedAssists": 0.0294284,
+          "topSpeed": 31.88,
+          "kilometersCovered": 9.61,
+          "numberOfSprints": 3,
+          "totalBallCarriesDistance": 145.330825349,
+          "ballCarriesCount": 24,
+          "totalProgression": 60.786927386912,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 7.2,
+            "alternative": 7.1
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.45,
+          "dribbleValueNormalized": 0.05,
+          "defensiveValueNormalized": 0.14,
+          "metersCoveredRunningKm": 1.01,
+          "metersCoveredHighSpeedRunningKm": 0.28,
+          "metersCoveredSprintingKm": 0.07,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Levante",
+        "abreviatura": "LEV",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/10.png"
+      },
+      "visitante": {
+        "nombre": "Barcelona",
+        "abreviatura": "BAR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/3.png"
+      }
+    },
+    "resultado": "2-4",
+    "fecha": "2026-09-13",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22466-levante-barcelona",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.8,
+      "relevo": 2.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 8.0,
+        "comunio": 4.0,
+        "scale0": -2.0,
+        "biwenger-sofascore": 4.0,
+        "biwenger-social": 2.0,
+        "biwenger-as-sofascore": 1.0,
+        "biwenger-stats": 3.0,
+        "futmondo-prensa": 1.0,
+        "futmondo-mixto-as": -2.0,
+        "futmondo-stats": 0.0,
+        "futmondo-mixto": 3.1,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 4.0,
+        "mister-cronistas-md": 2.0,
+        "mister-mixto": 2.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 4.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 1.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 2.0,
+        "stat-pases-interceptados": 2.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 1.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 0.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 2.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 5.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 89.6,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 1.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 48.0,
+        "stat-pases-completados": 43.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 16416329,
+      "match_info": {
+        "homeTeam": {
+          "name": "Levante UD",
+          "shortName": "Levante",
+          "color": "#0e3b68",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "FC Barcelona",
+          "shortName": "Barcelona",
+          "color": "#154284",
+          "score": 4
+        },
+        "startTimestamp": 1789308900,
+        "slug": "levante-ud-fc-barcelona",
+        "season": "26/27",
+        "jornada": 5
+      },
+      "player_stats": {
+        "player": {
+          "name": "Gerard Martín",
+          "firstName": "Gerard",
+          "slug": "gerard-martin",
+          "shortName": "G. Martín",
+          "position": "D",
+          "jerseyNumber": "18",
+          "height": 186,
+          "userCount": 60061,
+          "gender": "M",
+          "sofascoreId": "vu5-ef3",
+          "id": 1094827,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1014681600,
+          "proposedMarketValueRaw": {
+            "value": 36000000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جيرارد مارتين",
+              "bn": "জেরার্ড মার্টিন",
+              "hi": "जेरार्ड मार्टिन",
+              "ru": "Жерар Мартин"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. مارتين",
+              "bn": "জি. মার্টিন",
+              "hi": "जी. मार्टिन",
+              "ru": "Ж. Мартин"
+            }
+          }
+        },
+        "team": {
+          "name": "FC Barcelona",
+          "slug": "barcelona",
+          "shortName": "Barcelona",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 7403856,
+          "nameCode": "BAR",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2817,
+          "teamColors": {
+            "primary": "#154284",
+            "secondary": "#9d1009",
+            "text": "#9d1009"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "برشلونة",
+              "bn": "বার্সেলোনা",
+              "hi": "बार्सिलोना",
+              "ru": "Барселона"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 48,
+          "accuratePass": 43,
+          "totalLongBalls": 2,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 30,
+          "totalOwnHalfPasses": 32,
+          "accurateOppositionHalfPasses": 13,
+          "totalOppositionHalfPasses": 16,
+          "aerialWon": 1,
+          "duelLost": 2,
+          "duelWon": 4,
+          "totalContest": 1,
+          "wonContest": 1,
+          "totalClearance": 2,
+          "interceptionWon": 2,
+          "totalTackle": 1,
+          "errorLeadToAShot": 1,
+          "wasFouled": 1,
+          "fouls": 2,
+          "minutesPlayed": 45,
+          "touches": 57,
+          "rating": 6.8,
+          "possessionLostCtrl": 5,
+          "expectedAssists": 0.00563377,
+          "topSpeed": 28.32,
+          "kilometersCovered": 5.24,
+          "numberOfSprints": 5,
+          "totalBallCarriesDistance": 126.48035709846,
+          "ballCarriesCount": 19,
+          "totalProgression": 42.060737420684,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 6.8,
+            "alternative": 6.7
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.07,
+          "dribbleValueNormalized": 0.06,
+          "defensiveValueNormalized": -0.1,
+          "metersCoveredRunningKm": 0.68,
+          "metersCoveredHighSpeedRunningKm": 0.12,
+          "metersCoveredSprintingKm": 0.05,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Barcelona",
+        "abreviatura": "BAR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/3.png"
+      },
+      "visitante": {
+        "nombre": "Racing",
+        "abreviatura": "RAC",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/42.png"
+      }
+    },
+    "resultado": "7-2",
+    "fecha": "2026-09-16",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22477-barcelona-racing",
+    "puntuaciones": {
+      "picas": 0,
+      "marca": 1,
+      "cope": 6.0,
+      "sofascore": 7.6,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": 1.0,
+        "comunio": 8.0,
+        "scale0": -2.0,
+        "biwenger-sofascore": 8.0,
+        "biwenger-social": 5.0,
+        "biwenger-as-sofascore": 3.0,
+        "biwenger-stats": 3.0,
+        "futmondo-prensa": 0.0,
+        "futmondo-mixto-as": -2.0,
+        "futmondo-stats": 2.0,
+        "futmondo-mixto": 4.8,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 8.0,
+        "mister-cronistas-md": 10.0,
+        "mister-mixto": 5.0,
+        "mister-mixto-2": 4.0,
+        "mister-sofascore": 8.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 1.0,
+        "stat-faltas-cometidas": 1.0,
+        "stat-pases-interceptados": 1.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 2.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 4.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 3.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 95.7,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 2.0,
+        "stat-tiros-bloqueados": 1.0,
+        "stat-pases-totales": 69.0,
+        "stat-pases-completados": 66.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 16416346,
+      "match_info": {
+        "homeTeam": {
+          "name": "FC Barcelona",
+          "shortName": "Barcelona",
+          "color": "#154284",
+          "score": 7
+        },
+        "awayTeam": {
+          "name": "Real Racing Club",
+          "shortName": "Racing Club",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "startTimestamp": 1789587000,
+        "slug": "real-racing-club-fc-barcelona",
+        "season": "26/27",
+        "jornada": 6
+      },
+      "player_stats": {
+        "player": {
+          "name": "Gerard Martín",
+          "firstName": "Gerard",
+          "slug": "gerard-martin",
+          "shortName": "G. Martín",
+          "position": "D",
+          "jerseyNumber": "18",
+          "height": 186,
+          "userCount": 60386,
+          "gender": "M",
+          "sofascoreId": "vu5-ef3",
+          "id": 1094827,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1014681600,
+          "proposedMarketValueRaw": {
+            "value": 36000000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جيرارد مارتين",
+              "bn": "জেরার্ড মার্টিন",
+              "hi": "जेरार्ड मार्टिन",
+              "ru": "Жерар Мартин"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. مارتين",
+              "bn": "জি. মার্টিন",
+              "hi": "जी. मार्टिन",
+              "ru": "Ж. Мартин"
+            }
+          }
+        },
+        "team": {
+          "name": "FC Barcelona",
+          "slug": "barcelona",
+          "shortName": "Barcelona",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 7456192,
+          "nameCode": "BAR",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2817,
+          "teamColors": {
+            "primary": "#154284",
+            "secondary": "#9d1009",
+            "text": "#9d1009"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "برشلونة",
+              "bn": "বার্সেলোনা",
+              "hi": "बार्सिलोना",
+              "ru": "Барселона"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 69,
+          "accuratePass": 66,
+          "totalLongBalls": 2,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 29,
+          "totalOwnHalfPasses": 30,
+          "accurateOppositionHalfPasses": 37,
+          "totalOppositionHalfPasses": 39,
+          "aerialLost": 1,
+          "aerialWon": 2,
+          "duelLost": 2,
+          "duelWon": 2,
+          "totalClearance": 4,
+          "clearanceOffLine": 1,
+          "outfielderBlock": 1,
+          "interceptionWon": 1,
+          "ballRecovery": 2,
+          "wasFouled": 1,
+          "fouls": 1,
+          "minutesPlayed": 90,
+          "touches": 78,
+          "rating": 7.6,
+          "possessionLostCtrl": 3,
+          "expectedAssists": 0.0259939,
+          "topSpeed": 32.73,
+          "kilometersCovered": 9.26,
+          "numberOfSprints": 13,
+          "totalBallCarriesDistance": 234.95568046645,
+          "ballCarriesCount": 28,
+          "totalProgression": 120.82170284606,
+          "bestBallCarryProgression": 24.792218746533,
+          "totalProgressiveBallCarriesDistance": 40.451123825401,
+          "progressiveBallCarriesCount": 2,
+          "ratingVersions": {
+            "original": 7.6,
+            "alternative": 7.3
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.44,
+          "dribbleValueNormalized": 0.2,
+          "defensiveValueNormalized": -0.07,
+          "metersCoveredRunningKm": 1.04,
+          "metersCoveredHighSpeedRunningKm": 0.29,
+          "metersCoveredSprintingKm": 0.14,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  },
+  {
+    "equipos": {
+      "local": {
+        "nombre": "Betis",
+        "abreviatura": "BET",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/4.png"
+      },
+      "visitante": {
+        "nombre": "Barcelona",
+        "abreviatura": "BAR",
+        "escudo": "//static.futbolfantasy.com/uploads/images/equipos/escudom/3.png"
+      }
+    },
+    "resultado": "2-5",
+    "fecha": "2026-10-17",
+    "url_ficha": "https://www.futbolfantasy.com/partidos/22509-betis-barcelona",
+    "puntuaciones": {
+      "picas": 1,
+      "marca": 1,
+      "cope": 5.0,
+      "sofascore": 6.5,
+      "relevo": 1.0,
+      "md": null,
+      "sportmonks": null,
+      "detalladas": {
+        "laliga-fantasy": 2.0,
+        "futbolfantasy-rpg": -1.0,
+        "comunio": 3.0,
+        "modo-picas": 2.0,
+        "biwenger-sofascore": 2.0,
+        "biwenger-social": 3.0,
+        "biwenger-as-sofascore": 2.0,
+        "biwenger-stats": 3.0,
+        "futmondo-prensa": 2.0,
+        "futmondo-mixto-as": 2.0,
+        "futmondo-stats": 0.0,
+        "futmondo-mixto": 2.3,
+        "cronistas-marca": 2.0,
+        "marca-mixto": 2.0,
+        "marca-sofascore": 2.0,
+        "mister-cronistas-md": 6.0,
+        "mister-mixto": 3.0,
+        "mister-mixto-2": 2.0,
+        "mister-sofascore": 2.0,
+        "stat-goles": 0.0,
+        "stat-goles-penalti": 0.0,
+        "stat-goles-falta": 0.0,
+        "stat-asistencias": 0.0,
+        "stat-asistencias-sin-gol": 0.0,
+        "stat-tiros-puerta": 0.0,
+        "stat-tiros-palo": 0.0,
+        "stat-corners-forzados": 0.0,
+        "stat-centros-precisos": 0.0,
+        "stat-pases-area-exito": 0.0,
+        "stat-regates-exito": 0.0,
+        "stat-faltas-recibidas": 0.0,
+        "stat-faltas-cometidas": 0.0,
+        "stat-pases-interceptados": 0.0,
+        "stat-balones-robados": 0.0,
+        "stat-balones-robados-ultimo-hombre": 0.0,
+        "stat-goles-salvados": 0.0,
+        "stat-errores-gol-contra": 0.0,
+        "stat-tarjetas-amarillas": 0.0,
+        "stat-tarjeta-roja": 0.0,
+        "stat-penaltis-fallados": 0.0,
+        "stat-goles-propia-meta": 0.0,
+        "stat-paradas": 0.0,
+        "stat-penaltis-parados": 0.0,
+        "stat-goles-encajados": 1.0,
+        "stat-penaltis-cometidos": 0.0,
+        "stat-centros-atajados": 0.0,
+        "stat-despejes": 1.0,
+        "stat-ocasiones-claras-creadas": 0.0,
+        "stat-ocasiones-claras-falladas": 0.0,
+        "stat-posesiones-perdidas": 3.0,
+        "stat-tiros-totales": 0.0,
+        "stat-centros-totales": 0.0,
+        "stat-precision-pases": 95.7,
+        "stat-penaltis-provocados": 0.0,
+        "stat-penaltis-lanzados": 0.0,
+        "stat-penaltis-anotados": 0.0,
+        "stat-corners-colgados": 0.0,
+        "stat-corners-colgados-precisos": 0.0,
+        "stat-faltas-colgadas": 0.0,
+        "stat-faltas-colgadas-precisas": 0.0,
+        "stat-faltas-directas": 0.0,
+        "stat-faltas-directas-puerta": 0.0,
+        "stat-balones-recuperados": 0.0,
+        "stat-tackles": 0.0,
+        "stat-duelos-aereos": 0.0,
+        "stat-tiros-bloqueados": 0.0,
+        "stat-pases-totales": 46.0,
+        "stat-pases-completados": 44.0,
+        "stat-paradas-destacadas": 0.0
+      }
+    },
+    "sofascore": {
+      "id": 16421068,
+      "match_info": {
+        "homeTeam": {
+          "name": "Real Betis",
+          "shortName": "Real Betis",
+          "color": "#ffffff",
+          "score": 2
+        },
+        "awayTeam": {
+          "name": "FC Barcelona",
+          "shortName": "Barcelona",
+          "color": "#154284",
+          "score": 5
+        },
+        "startTimestamp": 1792254600,
+        "slug": "fc-barcelona-real-betis",
+        "season": "26/27",
+        "jornada": 9
+      },
+      "player_stats": {
+        "player": {
+          "name": "Gerard Martín",
+          "firstName": "Gerard",
+          "slug": "gerard-martin",
+          "shortName": "G. Martín",
+          "position": "D",
+          "jerseyNumber": "18",
+          "height": 186,
+          "userCount": 60386,
+          "gender": "M",
+          "sofascoreId": "vu5-ef3",
+          "id": 1094827,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1014681600,
+          "proposedMarketValueRaw": {
+            "value": 36000000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جيرارد مارتين",
+              "bn": "জেরার্ড মার্টিন",
+              "hi": "जेरार्ड मार्टिन",
+              "ru": "Жерар Мартин"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. مارتين",
+              "bn": "জি. মার্টিন",
+              "hi": "जी. मार्टिन",
+              "ru": "Ж. Мартин"
+            }
+          }
+        },
+        "team": {
+          "name": "FC Barcelona",
+          "slug": "barcelona",
+          "shortName": "Barcelona",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 7456192,
+          "nameCode": "BAR",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 2817,
+          "teamColors": {
+            "primary": "#154284",
+            "secondary": "#9d1009",
+            "text": "#9d1009"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "برشلونة",
+              "bn": "বার্সেলোনা",
+              "hi": "बार्सिलोना",
+              "ru": "Барселона"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "statistics": {
+          "totalPass": 46,
+          "accuratePass": 44,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 22,
+          "totalOwnHalfPasses": 22,
+          "accurateOppositionHalfPasses": 22,
+          "totalOppositionHalfPasses": 24,
+          "aerialLost": 2,
+          "duelLost": 2,
+          "totalClearance": 1,
+          "ballRecovery": 2,
+          "unsuccessfulTouch": 1,
+          "minutesPlayed": 45,
+          "touches": 50,
+          "rating": 6.5,
+          "possessionLostCtrl": 3,
+          "expectedAssists": 0.0128625,
+          "topSpeed": 27.97,
+          "kilometersCovered": 5.21,
+          "numberOfSprints": 4,
+          "totalBallCarriesDistance": 171.9509287245,
+          "ballCarriesCount": 22,
+          "totalProgression": 57.845384212244,
+          "bestBallCarryProgression": 20.389085375745,
+          "totalProgressiveBallCarriesDistance": 23.314613443075,
+          "progressiveBallCarriesCount": 1,
+          "ratingVersions": {
+            "original": 6.5,
+            "alternative": 6.6
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.27,
+          "dribbleValueNormalized": 0.06,
+          "defensiveValueNormalized": -0.17,
+          "metersCoveredRunningKm": 0.64,
+          "metersCoveredHighSpeedRunningKm": 0.19,
+          "metersCoveredSprintingKm": 0.05,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        },
+        "position": "D",
+        "extra": null
+      }
+    }
+  }
+]

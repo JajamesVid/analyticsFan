@@ -90,5 +90,139 @@
       "position": "M",
       "extra": null
     }
+  },
+  "16416291": {
+    "id": 16416291,
+    "match_info": {
+      "homeTeam": {
+        "name": "Deportivo de A Coruña",
+        "shortName": "Deportivo",
+        "color": "#003399",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1788111000,
+      "slug": "deportivo-de-la-coruna-valencia",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Riki Rodríguez",
+        "slug": "riki-rodriguez",
+        "shortName": "R. Rodríguez",
+        "position": "M",
+        "jerseyNumber": "14",
+        "height": 175,
+        "userCount": 238,
+        "gender": "M",
+        "sofascoreId": "p94fux",
+        "id": 950110,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 875145600,
+        "proposedMarketValueRaw": {
+          "value": 1400000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ريكي رودريغيز",
+            "ru": "Рики Родригес"
+          },
+          "shortNameTranslation": {
+            "ar": "ر. رودريغيز",
+            "ru": "Р. Родригес"
+          }
+        }
+      },
+      "team": {
+        "name": "Deportivo de A Coruña",
+        "slug": "deportivo-la-coruna",
+        "shortName": "Deportivo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 69223,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2832,
+        "teamColors": {
+          "primary": "#003399",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депортиво Ла-Корунья"
+          },
+          "shortNameTranslation": {
+            "ar": "ديبورتيفو لاكورونيا",
+            "ru": "Депорти́во"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 38,
+        "accuratePass": 31,
+        "totalLongBalls": 3,
+        "accurateLongBalls": 2,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 12,
+        "totalOwnHalfPasses": 13,
+        "accurateOppositionHalfPasses": 19,
+        "totalOppositionHalfPasses": 25,
+        "totalCross": 1,
+        "aerialLost": 2,
+        "duelLost": 3,
+        "duelWon": 1,
+        "dispossessed": 1,
+        "totalClearance": 1,
+        "interceptionWon": 1,
+        "ballRecovery": 3,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "fouls": 1,
+        "minutesPlayed": 64,
+        "touches": 44,
+        "rating": 6.4,
+        "possessionLostCtrl": 10,
+        "expectedAssists": 0.0188741,
+        "topSpeed": 27.28,
+        "kilometersCovered": 8.34,
+        "numberOfSprints": 5,
+        "totalBallCarriesDistance": 105.16133127095,
+        "ballCarriesCount": 14,
+        "totalProgression": 29.072036974662,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.4,
+          "alternative": 6.5
+        },
+        "totalShots": 0,
+        "passValueNormalized": 0,
+        "dribbleValueNormalized": 0.06,
+        "defensiveValueNormalized": -0.07,
+        "metersCoveredRunningKm": 1.61,
+        "metersCoveredHighSpeedRunningKm": 0.35,
+        "metersCoveredSprintingKm": 0.04,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "M",
+      "extra": null
+    }
   }
 }

@@ -1,0 +1,94 @@
+{
+  "16416349": {
+    "id": 16416349,
+    "match_info": {
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 3
+      },
+      "startTimestamp": 1789844400,
+      "slug": "sevilla-fc-barcelona",
+      "season": "26/27",
+      "jornada": 7
+    },
+    "player_stats": {
+      "player": {
+        "name": "Iker Rodríguez",
+        "firstName": "Iker Rodríguez",
+        "slug": "iker-rodriguez",
+        "shortName": "I. Rodríguez",
+        "position": "G",
+        "jerseyNumber": "35",
+        "height": 187,
+        "userCount": 2869,
+        "gender": "M",
+        "sofascoreId": "wmm-axr",
+        "id": 1926093,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 1203638400,
+        "proposedMarketValueRaw": {
+          "value": 97000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيكر رودريغيز",
+            "ru": "Икер Родригес"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. رودريغيز",
+            "ru": "И. Родригес"
+          }
+        }
+      },
+      "team": {
+        "name": "FC Barcelona",
+        "slug": "barcelona",
+        "shortName": "Barcelona",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 7407211,
+        "nameCode": "BAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2817,
+        "teamColors": {
+          "primary": "#154284",
+          "secondary": "#9d1009",
+          "text": "#9d1009"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "برشلونة",
+            "bn": "বার্সেলোনা",
+            "hi": "बार्सिलोना",
+            "ru": "Барселона"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "G",
+      "extra": null
+    }
+  }
+}

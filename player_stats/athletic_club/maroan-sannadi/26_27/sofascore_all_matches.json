@@ -1,0 +1,948 @@
+{
+  "16416308": {
+    "id": 16416308,
+    "match_info": {
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "shortName": "Celta",
+        "color": "#6cace4",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 2
+      },
+      "startTimestamp": 1788118200,
+      "slug": "athletic-club-celta-vigo",
+      "season": "26/27",
+      "jornada": 3
+    },
+    "player_stats": {
+      "player": {
+        "name": "Maroan Sannadi",
+        "slug": "maroan-sannadi",
+        "shortName": "M. Sannadi",
+        "position": "F",
+        "jerseyNumber": "21",
+        "height": 192,
+        "userCount": 5523,
+        "gender": "M",
+        "sofascoreId": "hibi5i",
+        "id": 1520799,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 980985600,
+        "proposedMarketValueRaw": {
+          "value": 2800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سنادي، مروان",
+            "bn": "সন্নাদি, মারোয়ান",
+            "hi": "सन्नाडी, मरोअन",
+            "ru": "Мароан Саннади"
+          },
+          "shortNameTranslation": {
+            "ar": "م. سنادي",
+            "bn": "এম. সন্নাদি",
+            "hi": "एम. सन्नाडी",
+            "ru": "М. Саннади"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 543912,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "16416337": {
+    "id": 16416337,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "color": "#0232a0",
+        "score": 0
+      },
+      "startTimestamp": 1789827300,
+      "slug": "deportivo-alaves-athletic-club",
+      "season": "26/27",
+      "jornada": 7
+    },
+    "player_stats": {
+      "player": {
+        "name": "Maroan Sannadi",
+        "slug": "maroan-sannadi",
+        "shortName": "M. Sannadi",
+        "position": "F",
+        "jerseyNumber": "21",
+        "height": 192,
+        "userCount": 4308,
+        "gender": "M",
+        "sofascoreId": "hib-i5i",
+        "id": 1520799,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 980985600,
+        "proposedMarketValueRaw": {
+          "value": 2800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سنادي، مروان",
+            "bn": "সন্নাদি, মারোয়ান",
+            "hi": "सन्नाडी, मरोअन",
+            "ru": "Мароан Саннади"
+          },
+          "shortNameTranslation": {
+            "ar": "م. سنادي",
+            "bn": "এম. সন্নাদি",
+            "hi": "एम. सन्नाडी",
+            "ru": "М. Саннади"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 401529,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 3,
+        "accuratePass": 2,
+        "goalAssist": 0,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 3,
+        "duelWon": 1,
+        "totalClearance": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 1,
+        "minutesPlayed": 28,
+        "touches": 8,
+        "rating": 6.5,
+        "possessionLostCtrl": 2,
+        "expectedAssists": 0.00257855,
+        "topSpeed": 30.47,
+        "kilometersCovered": 3.21,
+        "numberOfSprints": 2,
+        "totalBallCarriesDistance": 12.181364897705,
+        "ballCarriesCount": 2,
+        "totalProgression": -11.011944209639,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.5,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.05,
+        "dribbleValueNormalized": -0.37,
+        "defensiveValueNormalized": 0.16,
+        "metersCoveredRunningKm": 0.38,
+        "metersCoveredHighSpeedRunningKm": 0.1,
+        "metersCoveredSprintingKm": 0.05,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "16421059": {
+    "id": 16421059,
+    "match_info": {
+      "homeTeam": {
+        "name": "FC Barcelona",
+        "shortName": "Barcelona",
+        "color": "#154284",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1787857200,
+      "slug": "athletic-club-fc-barcelona",
+      "season": "26/27",
+      "jornada": 1
+    },
+    "player_stats": {
+      "player": {
+        "name": "Maroan Sannadi",
+        "slug": "maroan-sannadi",
+        "shortName": "M. Sannadi",
+        "position": "F",
+        "jerseyNumber": "21",
+        "height": 192,
+        "userCount": 4288,
+        "gender": "M",
+        "sofascoreId": "hib-i5i",
+        "id": 1520799,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 980985600,
+        "proposedMarketValueRaw": {
+          "value": 2800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سنادي، مروان",
+            "bn": "সন্নাদি, মারোয়ান",
+            "hi": "सन्नाडी, मरोअन",
+            "ru": "Мароан Саннади"
+          },
+          "shortNameTranslation": {
+            "ar": "م. سنادي",
+            "bn": "এম. সন্নাদি",
+            "hi": "एम. सन्नाडी",
+            "ru": "М. Саннади"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 399809,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "16416301": {
+    "id": 16416301,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "shortName": "Sevilla",
+        "color": "#ffffff",
+        "score": 3
+      },
+      "startTimestamp": 1787410800,
+      "slug": "sevilla-athletic-club",
+      "season": "26/27",
+      "jornada": 2
+    },
+    "player_stats": {
+      "player": {
+        "name": "Maroan Sannadi",
+        "slug": "maroan-sannadi",
+        "shortName": "M. Sannadi",
+        "position": "F",
+        "jerseyNumber": "21",
+        "height": 192,
+        "userCount": 4288,
+        "gender": "M",
+        "sofascoreId": "hib-i5i",
+        "id": 1520799,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 980985600,
+        "proposedMarketValueRaw": {
+          "value": 2800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سنادي، مروان",
+            "bn": "সন্নাদি, মারোয়ান",
+            "hi": "सन्नाडी, मरोअन",
+            "ru": "Мароан Саннади"
+          },
+          "shortNameTranslation": {
+            "ar": "م. سنادي",
+            "bn": "এম. সন্নাদি",
+            "hi": "एम. सन्नाडी",
+            "ru": "М. Саннади"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 399809,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 6,
+        "accuratePass": 4,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 2,
+        "totalOwnHalfPasses": 3,
+        "accurateOppositionHalfPasses": 2,
+        "totalOppositionHalfPasses": 3,
+        "aerialWon": 1,
+        "duelWon": 2,
+        "ballRecovery": 3,
+        "unsuccessfulTouch": 2,
+        "wasFouled": 1,
+        "minutesPlayed": 32,
+        "touches": 10,
+        "rating": 6.3,
+        "possessionLostCtrl": 4,
+        "expectedAssists": 0.011255,
+        "topSpeed": 28.65,
+        "kilometersCovered": 3.98,
+        "numberOfSprints": 1,
+        "totalBallCarriesDistance": 13.908873960349,
+        "ballCarriesCount": 2,
+        "totalProgression": -10.167504881881,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.6
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.05,
+        "dribbleValueNormalized": -0.05,
+        "defensiveValueNormalized": -0.01,
+        "metersCoveredRunningKm": 0.62,
+        "metersCoveredHighSpeedRunningKm": 0.13,
+        "metersCoveredSprintingKm": 0.02,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "16416317": {
+    "id": 16416317,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "shortName": "Atlético Madrid",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "startTimestamp": 1788617700,
+      "slug": "atletico-madrid-athletic-club",
+      "season": "26/27",
+      "jornada": 4
+    },
+    "player_stats": {
+      "player": {
+        "name": "Maroan Sannadi",
+        "slug": "maroan-sannadi",
+        "shortName": "M. Sannadi",
+        "position": "F",
+        "jerseyNumber": "21",
+        "height": 192,
+        "userCount": 4279,
+        "gender": "M",
+        "sofascoreId": "hib-i5i",
+        "id": 1520799,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 980985600,
+        "proposedMarketValueRaw": {
+          "value": 2800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مروان سنادي",
+            "bn": "মারোয়ান সন্নাদি",
+            "hi": "मरोअन सन्नाडी",
+            "ru": "Мароан Саннади"
+          },
+          "shortNameTranslation": {
+            "ar": "م. سنادي",
+            "bn": "এম. সন্নাদি",
+            "hi": "एम. सन्नाडी",
+            "ru": "М. Саннади"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 398400,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalShots": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "16416322": {
+    "id": 16416322,
+    "match_info": {
+      "homeTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Elche",
+        "shortName": "Elche",
+        "color": "#ffffff",
+        "score": 1
+      },
+      "startTimestamp": 1789230600,
+      "slug": "elche-athletic-club",
+      "season": "26/27",
+      "jornada": 5
+    },
+    "player_stats": {
+      "player": {
+        "name": "Maroan Sannadi",
+        "slug": "maroan-sannadi",
+        "shortName": "M. Sannadi",
+        "position": "F",
+        "jerseyNumber": "21",
+        "height": 192,
+        "userCount": 4279,
+        "gender": "M",
+        "sofascoreId": "hib-i5i",
+        "id": 1520799,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 980985600,
+        "proposedMarketValueRaw": {
+          "value": 2800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مروان سنادي",
+            "bn": "মারোয়ান সন্নাদি",
+            "hi": "मरोअन सन्नाडी",
+            "ru": "Мароан Саннади"
+          },
+          "shortNameTranslation": {
+            "ar": "م. سنادي",
+            "bn": "এম. সন্নাদি",
+            "hi": "एम. सन्नाडी",
+            "ru": "М. Саннади"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 398400,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 1,
+        "goalAssist": 0,
+        "totalOwnHalfPasses": 1,
+        "aerialLost": 1,
+        "aerialWon": 1,
+        "duelLost": 1,
+        "duelWon": 1,
+        "bigChanceMissed": 1,
+        "shotOffTarget": 1,
+        "onTargetScoringAttempt": 1,
+        "totalOffside": 2,
+        "minutesPlayed": 9,
+        "touches": 3,
+        "rating": 6.3,
+        "possessionLostCtrl": 1,
+        "expectedGoals": 0.2984,
+        "expectedGoalsOnTarget": 0.5921,
+        "topSpeed": 24.71,
+        "kilometersCovered": 1.35,
+        "numberOfSprints": 0,
+        "ratingVersions": {
+          "original": 6.3,
+          "alternative": 6.4
+        },
+        "totalShots": 2,
+        "shotValueNormalized": -0.55,
+        "passValueNormalized": -0.03,
+        "defensiveValueNormalized": -0.01,
+        "metersCoveredRunningKm": 0.15,
+        "metersCoveredHighSpeedRunningKm": 0.04,
+        "metersCoveredSprintingKm": 0,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "17122851": {
+    "id": 17122851,
+    "match_info": {
+      "homeTeam": {
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "color": "#0e3b68",
+        "score": 3
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 1
+      },
+      "startTimestamp": 1792605600,
+      "slug": "levante-ud-athletic-club",
+      "season": "26/27",
+      "jornada": 6
+    },
+    "player_stats": {
+      "player": {
+        "name": "Maroan Sannadi",
+        "slug": "maroan-sannadi",
+        "shortName": "M. Sannadi",
+        "position": "F",
+        "jerseyNumber": "21",
+        "height": 192,
+        "userCount": 4287,
+        "gender": "M",
+        "sofascoreId": "hib-i5i",
+        "id": 1520799,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 980985600,
+        "proposedMarketValueRaw": {
+          "value": 2800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مروان سنادي",
+            "bn": "মারোয়ান সন্নাদি",
+            "hi": "मरोअन सन्नाडी",
+            "ru": "Мароан Саннади"
+          },
+          "shortNameTranslation": {
+            "ar": "م. سنادي",
+            "bn": "এম. সন্নাদি",
+            "hi": "एम. सन्नाडी",
+            "ru": "М. Саннади"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 399225,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 9,
+        "accuratePass": 5,
+        "goalAssist": 0,
+        "accurateOwnHalfPasses": 4,
+        "totalOwnHalfPasses": 4,
+        "accurateOppositionHalfPasses": 1,
+        "totalOppositionHalfPasses": 5,
+        "aerialWon": 2,
+        "duelLost": 3,
+        "duelWon": 6,
+        "dispossessed": 1,
+        "totalContest": 1,
+        "wonContest": 1,
+        "shotOffTarget": 2,
+        "blockedScoringAttempt": 1,
+        "totalClearance": 1,
+        "unsuccessfulTouch": 1,
+        "wasFouled": 3,
+        "fouls": 2,
+        "penaltyWon": 1,
+        "minutesPlayed": 90,
+        "touches": 19,
+        "rating": 6.9,
+        "possessionLostCtrl": 6,
+        "expectedGoals": 0.244,
+        "expectedAssists": 0.00020896,
+        "topSpeed": 29.83,
+        "kilometersCovered": 10.42,
+        "numberOfSprints": 11,
+        "totalBallCarriesDistance": 33.27904312004,
+        "ballCarriesCount": 4,
+        "totalProgression": -7.324595814027,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.9,
+          "alternative": 7.2
+        },
+        "totalShots": 3,
+        "shotValueNormalized": -0.52,
+        "passValueNormalized": -0.12,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": -0.03,
+        "metersCoveredRunningKm": 1.37,
+        "metersCoveredHighSpeedRunningKm": 0.46,
+        "metersCoveredSprintingKm": 0.18,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  },
+  "16421074": {
+    "id": 16421074,
+    "match_info": {
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "Valencia",
+        "color": "#ffffff",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Athletic Club",
+        "shortName": "Athletic Club",
+        "color": "#aa0000",
+        "score": 0
+      },
+      "startTimestamp": 1792263600,
+      "slug": "valencia-athletic-club",
+      "season": "26/27",
+      "jornada": 9
+    },
+    "player_stats": {
+      "player": {
+        "name": "Maroan Sannadi",
+        "slug": "maroan-sannadi",
+        "shortName": "M. Sannadi",
+        "position": "F",
+        "jerseyNumber": "21",
+        "height": 192,
+        "userCount": 4287,
+        "gender": "M",
+        "sofascoreId": "hib-i5i",
+        "id": 1520799,
+        "marketValueCurrency": "EUR",
+        "dateOfBirthTimestamp": 980985600,
+        "proposedMarketValueRaw": {
+          "value": 2800000,
+          "currency": "EUR"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مروان سنادي",
+            "bn": "মারোয়ান সন্নাদি",
+            "hi": "मरोअन सन्नाडी",
+            "ru": "Мароан Саннади"
+          },
+          "shortNameTranslation": {
+            "ar": "م. سنادي",
+            "bn": "এম. সন্নাদি",
+            "hi": "एम. सन्नाडी",
+            "ru": "М. Саннади"
+          }
+        }
+      },
+      "team": {
+        "name": "Athletic Club",
+        "slug": "athletic-club",
+        "shortName": "Athletic Club",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 399225,
+        "nameCode": "ATH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2825,
+        "teamColors": {
+          "primary": "#aa0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أتلتيك بيلباو",
+            "bn": "অ্যাথলেটিক ক্লাব",
+            "hi": "एथलेटिक क्लब",
+            "ru": "Атлетик Бильбао"
+          },
+          "shortNameTranslation": {
+            "ar": "أتلتيك بيلباو"
+          }
+        }
+      },
+      "statistics": {
+        "totalPass": 3,
+        "accuratePass": 3,
+        "goalAssist": 0,
+        "accurateOppositionHalfPasses": 3,
+        "totalOppositionHalfPasses": 3,
+        "duelWon": 4,
+        "totalContest": 1,
+        "wonContest": 1,
+        "ballRecovery": 1,
+        "wasFouled": 3,
+        "minutesPlayed": 22,
+        "touches": 7,
+        "rating": 6.8,
+        "expectedAssists": 0.00331152,
+        "topSpeed": 30.92,
+        "kilometersCovered": 2.7,
+        "numberOfSprints": 3,
+        "totalBallCarriesDistance": 13.416313147333,
+        "ballCarriesCount": 2,
+        "totalProgression": 2.1240225441034,
+        "progressiveBallCarriesCount": 0,
+        "ratingVersions": {
+          "original": 6.8,
+          "alternative": 6.9
+        },
+        "totalShots": 0,
+        "passValueNormalized": -0.05,
+        "dribbleValueNormalized": 0,
+        "defensiveValueNormalized": 0.13,
+        "metersCoveredRunningKm": 0.45,
+        "metersCoveredHighSpeedRunningKm": 0.13,
+        "metersCoveredSprintingKm": 0.07,
+        "statisticsType": {
+          "sportSlug": "football",
+          "statisticsType": "player"
+        }
+      },
+      "position": "F",
+      "extra": null
+    }
+  }
+}
