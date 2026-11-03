@@ -7,8 +7,18 @@ import httpx
 from datetime import datetime
 
 from futFantasy_Pipeline import crear_sesion, parsear_partidos
+import plantillas
 
 PLAYERS_JSON = "players_to_analyze_26_27.json"
+# ids de SofaScore de jugadores con partidos atrasados por rellenar (nuevos,
+# traspasados, renombrados, o cortados por --max-relleno). A estos se les
+# revisa aunque su equipo ya esté al día, hasta completarlos.
+RELLENO_JSON = "relleno_pendiente.json"
+
+# FutFantasy tarda unos días en añadir un partido a la ficha del jugador
+# (comprobado: el sábado 24/10 aún no estaba el lunes 26/10). Un partido más
+# reciente que esto que no aparece se da por "aún no publicado", no por fallo.
+DIAS_PUBLICACION_FUTFANTASY = 5
 
 # temporadas que ya tenemos descargadas y viven juntas en la carpeta "22_25"
 HISTORICAL_SEASONS = {"22/23", "23/24", "24/25", "25/26"}
@@ -206,10 +216,16 @@ class Budget:
     puede dejar huecos si un equipo ya tiene alguna jornada posterior
     pero no la más antigua."""
 
-    def __init__(self, n):
+    def __init__(self, n, max_relleno=None):
         self.max_jornadas = n
         self.allowed = set()
         self.missing = set()
+        # relleno = partidos atrasados de jugadores a los que les falta una
+        # jornada ya cerrada (nuevos, traspasados, renombrados). No cuenta
+        # para max_jornadas, así que lleva su propio tope por ejecución.
+        self.max_relleno = max_relleno
+        self.relleno = 0
+        self.relleno_agotado = False
 
     def seed(self, missing_jornadas):
         self.missing = set(missing_jornadas)
@@ -221,6 +237,14 @@ class Budget:
     def is_closed(self, jornada):
         """La jornada ya la tienen todos los equipos (no falta en la liga)."""
         return jornada not in self.missing
+
+    def take_relleno(self):
+        """Reserva un partido de relleno; False si ya se ha llegado al tope."""
+        if self.max_relleno is not None and self.relleno >= self.max_relleno:
+            self.relleno_agotado = True
+            return False
+        self.relleno += 1
+        return True
 
 
 def filter_laliga_matches(events, team_id):
@@ -442,9 +466,11 @@ def update_team_stats(session, team_name, team_id, budget, stats):
 
 
 def update_player_stats(session, player_name, player_id, team_name, team_id, budget, stats):
-    """Devuelve added_by_folder: {carpeta_de_temporada: {event_id: entry}}
-    con lo nuevo guardado en esta llamada (solo jornadas admitidas por el
-    presupuesto; normalmente una sola carpeta, salvo cambio de temporada)."""
+    """Devuelve (added_by_folder, completo). added_by_folder: {carpeta_de_temporada:
+    {event_id: entry}} con lo nuevo guardado en esta llamada (solo jornadas
+    admitidas por el presupuesto; normalmente una sola carpeta, salvo cambio
+    de temporada). completo: no ha quedado ningún partido atrasado sin
+    rellenar por error o por el tope de --max-relleno."""
     events, error = fetch_events(
         session,
         f"https://www.sofascore.com/api/v1/player/{player_id}/events/last/0",
@@ -454,17 +480,18 @@ def update_player_stats(session, player_name, player_id, team_name, team_id, bud
     if error:
         print(f"  ❌ Error: {error}")
         stats["errors"] += 1
-        return {}
+        return {}, False
 
     events = filter_laliga_matches(events, team_id)
 
     if not events:
         print(f"  ⏭ Sin partidos de LaLiga")
-        return {}
+        return {}, True
 
     folders_cache = {}
     team_events_cache = {}
     added_by_folder = {}
+    completo = True
     has_pending = False
 
     for event in events:
@@ -507,8 +534,12 @@ def update_player_stats(session, player_name, player_id, team_name, team_id, bud
                         pass
         backfill = event_id in team_events_cache[team_file] and budget.is_closed(jornada)
 
-        if not backfill and not budget.allows(jornada):
-            continue
+        if not budget.allows(jornada):
+            if not backfill:
+                continue
+            if not budget.take_relleno():
+                completo = False
+                continue
 
         print(f"  → evento nuevo {event_id} ({season_year}, jornada {jornada})")
 
@@ -518,6 +549,7 @@ def update_player_stats(session, player_name, player_id, team_name, team_id, bud
         if error:
             print(f"  ❌ Error stats {event_id}: {error}")
             stats["errors"] += 1
+            completo = False
             continue
 
         home = event.get("homeTeam", {})
@@ -559,7 +591,19 @@ def update_player_stats(session, player_name, player_id, team_name, team_id, bud
     elif not added_by_folder:
         print(f"  ⏭ Tiene jornadas pendientes, pero ninguna dentro del cupo de esta ejecución")
 
-    return added_by_folder
+    return added_by_folder, completo
+
+
+def load_relleno_pendiente(teams):
+    """La primera vez (sin RELLENO_JSON) se siembra con los jugadores que aún
+    no tienen ninguna carpeta de temporada activa."""
+    if os.path.exists(RELLENO_JSON):
+        with open(RELLENO_JSON) as f:
+            return set(json.load(f))
+    return {
+        p["sofascore_id"] for t in teams for p in t["players"]
+        if not discover_current_season_folders(t["name"], p["name"])
+    }
 
 
 def fetch_futfantasy_season(ff_session, player_slug, season):
@@ -625,6 +669,13 @@ def update_futfantasy_and_merge(ff_session, team_name, player_name, player_folde
         if event_int in full_event_ids:
             continue
 
+        # convocado pero sin minutos: SofaScore lista el partido, pero FutFantasy
+        # no le hace ficha, así que no hay nada que cruzar (ni es un fallo)
+        sofa_stats = (sofa_entry.get("player_stats") or {}).get("statistics") or {}
+        if not sofa_stats.get("minutesPlayed"):
+            print(f"  ⏭ No jugó en el evento {event_id} (convocado sin minutos), no se cruza con FutFantasy")
+            continue
+
         season_year = sofa_entry["match_info"].get("season")
         if not season_year:
             print(f"  ⚠️ Sin temporada registrada para el evento {event_id}, no se puede consultar FutFantasy")
@@ -644,11 +695,19 @@ def update_futfantasy_and_merge(ff_session, team_name, player_name, player_folde
         if partido is None:
             mi = sofa_entry["match_info"]
             rival = f"{mi.get('homeTeam', {}).get('name')} vs {mi.get('awayTeam', {}).get('name')}"
-            print(f"  ⚠️ Sin partido de FutFantasy para el evento {event_id} ({rival})")
+            dias = (time.time() - (mi.get("startTimestamp") or 0)) / 86400
+            if not ff_cache[season_ff]:
+                motivo = "no hay ficha de FutFantasy con este nombre (slug distinto o jugador sin ficha)"
+            elif dias <= DIAS_PUBLICACION_FUTFANTASY:
+                # FutFantasy publica las notas días después del partido
+                motivo = f"FutFantasy aún no ha publicado este partido (jugado hace {dias:.0f} días), se reintenta solo"
+            else:
+                motivo = "su ficha de FutFantasy existe pero no tiene este partido"
+            print(f"  ⚠️ Sin partido de FutFantasy para el evento {event_id} ({rival}): {motivo}")
             report.append({
                 "team": team_name, "player": player_name, "event_id": event_id,
                 "partido": rival, "jornada": mi.get("jornada"),
-                "motivo": "no se encontró el partido en FutFantasy (probable nombre distinto en esa web)",
+                "motivo": motivo,
             })
             continue
 
@@ -686,9 +745,18 @@ if __name__ == "__main__":
         help="Máximo de jornadas distintas (completas: todos los equipos y jugadores) a poner al "
              "día en esta ejecución (por defecto 1). Si queda atraso, vuelve a lanzar el script."
     )
+    parser.add_argument(
+        "--sin-plantillas", action="store_true",
+        help="No sincroniza PLAYERS_JSON con las plantillas reales (nuevos, traspasos, slugs de FutFantasy)"
+    )
+    parser.add_argument(
+        "--max-relleno", type=int, default=320,
+        help="Máximo de partidos atrasados (jugadores nuevos, traspasados o renombrados) a descargar en esta "
+             "ejecución (por defecto 320). Lo que quede se rellena en las siguientes."
+    )
     args = parser.parse_args()
 
-    budget = Budget(args.max_jornadas)
+    budget = Budget(args.max_jornadas, args.max_relleno)
     stats = {"errors": 0}
     report = []
     print(f"🎯 Presupuesto de esta ejecución: {args.max_jornadas} jornada(s)")
@@ -698,6 +766,17 @@ if __name__ == "__main__":
 
     session = create_session()
     ff_session = crear_sesion()
+
+    cambios_plantilla = {}
+    if not args.sin_plantillas:
+        print("\n👥 Sincronizando plantillas (SofaScore + FutFantasy)...")
+        teams, cambios_plantilla = plantillas.sincronizar(session, ff_session, teams)
+        plantillas.imprimir_cambios(cambios_plantilla)
+        plantillas.guardar(teams)
+
+    relleno_pendiente = load_relleno_pendiente(teams) | set(cambios_plantilla.get("ids_relleno", []))
+    if relleno_pendiente:
+        print(f"\n🧩 {len(relleno_pendiente)} jugador(es) con partidos atrasados por revisar")
 
     print("\n🔍 Comprobando qué jornadas faltan en la liga...")
     missing_jornadas = discover_missing_jornadas(session, teams, stats)
@@ -733,8 +812,12 @@ if __name__ == "__main__":
             sofa_id = player["sofascore_id"]
             print(f"\n  → {name}")
 
-            if team_has_pending:
-                added_by_folder = update_player_stats(session, name, sofa_id, team_name, team_id, budget, stats)
+            if team_has_pending or sofa_id in relleno_pendiente:
+                added_by_folder, completo = update_player_stats(session, name, sofa_id, team_name, team_id, budget, stats)
+                if completo:
+                    relleno_pendiente.discard(sofa_id)
+                else:
+                    relleno_pendiente.add(sofa_id)
                 sleep()
             else:
                 added_by_folder = {}
@@ -761,6 +844,10 @@ if __name__ == "__main__":
         sleep()
 
     print(f"\n{'='*50}")
+    print(f"🧩 Partidos atrasados rellenados: {budget.relleno}")
+    if budget.relleno_agotado:
+        print(f"  Tope de --max-relleno ({args.max_relleno}) alcanzado: quedan partidos atrasados, "
+              f"vuelve a lanzar el script para seguir.")
     if stats["errors"] == 0:
         if not budget.allowed:
             print(f"✔ Todo al día — no se ha encontrado ninguna jornada pendiente, no hay más que descargar.")
@@ -772,13 +859,21 @@ if __name__ == "__main__":
         print(f"⚠️ Terminado con {stats['errors']} error(es) de red/bloqueo — esto NO significa que esté todo al día.")
         print("  Espera un poco (puede ser un bloqueo temporal de SofaScore) y vuelve a lanzar el script.")
 
+    # quien ya no está en la lista (baja) no se va a revisar más
+    en_lista = {p["sofascore_id"] for t in teams for p in t["players"]}
+    with open(RELLENO_JSON, "w") as f:
+        json.dump(sorted(relleno_pendiente & en_lista), f)
+
     report_path = "update_matchday_report.json"
     with open(report_path, "w", encoding="utf-8") as f:
         json.dump({
             "fecha": datetime.now().isoformat(),
             "jornadas_al_dia": sorted(budget.allowed),
             "errores_red": stats["errors"],
+            "relleno": budget.relleno,
+            "relleno_agotado": budget.relleno_agotado,
             "fallos_futfantasy": report,
+            "cambios_plantilla": cambios_plantilla,
         }, f, ensure_ascii=False, indent=2)
 
     if report:
