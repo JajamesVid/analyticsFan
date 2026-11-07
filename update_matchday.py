@@ -23,6 +23,8 @@ DIAS_PUBLICACION_FUTFANTASY = 5
 # temporadas que ya tenemos descargadas y viven juntas en la carpeta "22_25"
 HISTORICAL_SEASONS = {"22/23", "23/24", "24/25", "25/26"}
 HISTORICAL_FOLDER = "22_25"
+# alineaciones (titulares/suplentes/ausentes) por partido, ver update_lineups
+LINEUPS_FOLDER = "lineups"
 
 # sin User-Agents de Chrome/Edge: SofaScore compara el UA con la huella TLS
 # de la conexión, y httpx no se parece a un Chrome real → 403 "challenge".
@@ -307,6 +309,90 @@ def fetch_json(session, url):
         return resp.json(), None
     except Exception as e:
         return None, f"respuesta no es JSON: {e}"
+
+
+def _lineup_side(side):
+    """Recorta un lado (home/away) de /event/{id}/lineups a lo que usamos:
+    quién fue titular, quién suplente (con sus minutos, 0/None si no salió)
+    y quién faltó (lesión, sanción...)."""
+    return {
+        "formation": side.get("formation"),
+        "players": [
+            {
+                "id": p["player"]["id"],
+                "name": p["player"].get("name"),
+                "position": p.get("position"),
+                "shirtNumber": p.get("shirtNumber"),
+                "substitute": bool(p.get("substitute")),
+                "minutesPlayed": (p.get("statistics") or {}).get("minutesPlayed"),
+            }
+            for p in side.get("players", [])
+        ],
+        "missingPlayers": [
+            {
+                "id": m["player"]["id"],
+                "name": m["player"].get("name"),
+                "type": m.get("type"),
+                "reason": m.get("reason"),
+            }
+            for m in side.get("missingPlayers", [])
+        ],
+    }
+
+
+def update_lineups(session, stats):
+    """Alineación de cada partido de la temporada activa que aún no la tenga:
+    1 petición por partido a /event/{id}/lineups. Los partidos salen de lo
+    ya descargado en team_stats (así solo se piden partidos terminados), y
+    se guardan en lineups/<temporada>/sofascore_lineups.json, {event_id: ...}."""
+    pendientes = {}
+    for team_dir in os.listdir("team_stats"):
+        for season_dir in os.listdir(os.path.join("team_stats", team_dir)):
+            if season_dir == HISTORICAL_FOLDER:
+                continue
+            path = os.path.join("team_stats", team_dir, season_dir, "sofascore_all_matches.json")
+            if not os.path.exists(path):
+                continue
+            with open(path) as f:
+                try:
+                    events = json.load(f)
+                except json.JSONDecodeError:
+                    continue
+            for event_id, event in events.items():
+                pendientes.setdefault(season_dir, {})[event_id] = event.get("match_info", {})
+
+    nuevos = 0
+    for season_dir, events in pendientes.items():
+        output_file = os.path.join(LINEUPS_FOLDER, season_dir, "sofascore_lineups.json")
+        existing = {}
+        if os.path.exists(output_file):
+            with open(output_file) as f:
+                existing = json.load(f)
+
+        faltan = [event_id for event_id in events if event_id not in existing]
+        print(f"  {season_dir}: {len(existing)} alineaciones guardadas, {len(faltan)} por descargar")
+        for event_id in faltan:
+            data, error = fetch_json(session, f"https://www.sofascore.com/api/v1/event/{event_id}/lineups")
+            if error or not data or "home" not in data:
+                print(f"  ❌ Alineación de {event_id}: {error or 'respuesta sin alineación'}")
+                stats["errors"] += 1
+                sleep()
+                continue
+            existing[event_id] = {
+                "match_info": events[event_id],
+                "confirmed": data.get("confirmed"),
+                "home": _lineup_side(data["home"]),
+                "away": _lineup_side(data["away"]),
+            }
+            nuevos += 1
+            sleep()
+
+        os.makedirs(os.path.dirname(output_file), exist_ok=True)
+        with open(output_file, "w", encoding="utf-8") as f:
+            json.dump(existing, f, ensure_ascii=False, indent=2)
+
+    print(f"  ✔ {nuevos} alineación(es) nueva(s)")
+    return nuevos
 
 
 def discover_missing_jornadas(session, teams, stats):
@@ -754,7 +840,17 @@ if __name__ == "__main__":
         help="Máximo de partidos atrasados (jugadores nuevos, traspasados o renombrados) a descargar en esta "
              "ejecución (por defecto 320). Lo que quede se rellena en las siguientes."
     )
+    parser.add_argument(
+        "--solo-alineaciones", action="store_true",
+        help="Solo descarga las alineaciones que falten de partidos ya descargados (sin equipos ni jugadores)"
+    )
     args = parser.parse_args()
+
+    if args.solo_alineaciones:
+        stats = {"errors": 0}
+        print("\n📋 Alineaciones")
+        update_lineups(create_session(), stats)
+        raise SystemExit(1 if stats["errors"] else 0)
 
     budget = Budget(args.max_jornadas, args.max_relleno)
     stats = {"errors": 0}
@@ -842,6 +938,9 @@ if __name__ == "__main__":
                 sleep()
 
         sleep()
+
+    print(f"\n📋 Alineaciones")
+    update_lineups(session, stats)
 
     print(f"\n{'='*50}")
     print(f"🧩 Partidos atrasados rellenados: {budget.relleno}")
